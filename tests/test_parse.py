@@ -1,4 +1,3 @@
-import json
 from pathlib import Path
 from tools.parse import parse_chapter, clean_text
 

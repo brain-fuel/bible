@@ -19,6 +19,7 @@ def clean_text(fragment: str) -> str:
     text = _TAG.sub("", fragment)
     text = html.unescape(text)
     text = _WS.sub(" ", text).strip()
+    # NFC: source HTML Greek is unnormalized; brain-fuel/james oracle is NFC, so normalize to match
     return unicodedata.normalize("NFC", text)
 
 
