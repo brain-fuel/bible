@@ -7,6 +7,7 @@ _TABLE = re.compile(r"<table\b.*?</table>", re.IGNORECASE | re.DOTALL)
 _ROW = re.compile(r"<tr\b.*?</tr>", re.IGNORECASE | re.DOTALL)
 _CELL = re.compile(r"<td\b[^>]*>(.*?)</td>", re.IGNORECASE | re.DOTALL)
 _STRONG = re.compile(r"<strong\b[^>]*>(.*?)</strong>", re.IGNORECASE | re.DOTALL)
+_EM = re.compile(r"<em\b[^>]*>(.*?)</em>", re.IGNORECASE | re.DOTALL)
 _GRC = re.compile(r'<span\b[^>]*class="grc"[^>]*>(.*?)</span>',
                   re.IGNORECASE | re.DOTALL)
 _TAG = re.compile(r"<[^>]+>")
@@ -15,8 +16,13 @@ _VERSENUM = re.compile(r":(\d+)")
 
 
 def clean_text(fragment: str) -> str:
-    """Strip tags, unescape HTML entities, collapse whitespace."""
-    text = _TAG.sub("", fragment)
+    """Strip tags, unescape HTML entities, collapse whitespace.
+
+    Italic words (<em>) are preserved as *word* to match the brain-fuel/james
+    oracle convention (KJV italics mark translator-supplied words).
+    """
+    text = _EM.sub(r"*\1*", fragment)
+    text = _TAG.sub("", text)
     text = html.unescape(text)
     text = _WS.sub(" ", text).strip()
     # NFC: source HTML Greek is unnormalized; brain-fuel/james oracle is NFC, so normalize to match

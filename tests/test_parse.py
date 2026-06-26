@@ -27,11 +27,13 @@ def test_verse_one_bodies_match_source():
     assert v["king_james"] == ("James, a servant of God and of the Lord Jesus Christ, "
                                "to the twelve tribes which are scattered abroad, greeting.")
 
-def test_inline_emphasis_stripped_verse_three():
+def test_inline_emphasis_preserved_as_asterisk_verse_three():
+    # KJV italics (translator-supplied words) are rendered as *word* to match
+    # the brain-fuel/james oracle convention.
     v = parse_chapter(HTML, META, 1)["verses"][2]
-    assert v["king_james"] == ("Knowing this, that the trying of your faith "
+    assert v["king_james"] == ("Knowing *this*, that the trying of your faith "
                                "worketh patience.")
     assert "<" not in v["king_james"]
 
 def test_clean_text_unescapes_and_collapses():
-    assert clean_text("  a&amp;b   c <em>d</em> ") == "a&b c d"
+    assert clean_text("  a&amp;b   c <em>d</em> ") == "a&b c *d*"
