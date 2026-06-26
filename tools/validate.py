@@ -24,6 +24,8 @@ def validate_chapter(obj: dict) -> list[str]:
             errs.append(f"{tag}:{v.get('verse')}: empty latin_vulgate")
         if not v.get("king_james"):
             errs.append(f"{tag}:{v.get('verse')}: empty king_james")
+        if not v.get("greek_textus_receptus"):
+            errs.append(f"{tag}:{v.get('verse')}: empty greek_textus_receptus")
     return errs
 
 
@@ -36,7 +38,7 @@ def compare_to_james(generated: dict, reference: dict) -> list[str]:
     for n in sorted(set(gv) & set(rv)):
         for key in BODY_KEYS:
             if gv[n].get(key) != rv[n].get(key):
-                errs.append(f"{reference.get('book_id','JAS')} v{n} {key} differs")
+                errs.append(f"{generated.get('book_id', reference.get('book_id', 'JAM'))} v{n} {key} differs")
     return errs
 
 

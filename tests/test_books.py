@@ -30,7 +30,7 @@ def test_nt_rows_fully_populated():
         assert b["chapters"] == NT_CHAPTERS[b["code"]]
 
 def test_no_dashes_in_names():
-    bad = re.compile("[–—]")
+    bad = re.compile("[\u2013\u2014]")
     for b in BOOKS:
         for key in ("latin_name","greek_name","english_name"):
             assert not bad.search(b.get(key) or ""), f"dash in {b['code']} {key}"
