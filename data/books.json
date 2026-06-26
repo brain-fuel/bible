@@ -1,0 +1,31 @@
+{
+  "books": [
+    {"code":"MAT","testament":"nt","dir":"matthew","prefix":"mat","chapters":28,"latin_name":"Evangelium secundum Matthaeum","greek_name":"Κατὰ Ματθαῖον","english_name":"The Gospel According to Matthew"},
+    {"code":"MAR","testament":"nt","dir":"mark","prefix":"mark","chapters":16,"latin_name":"Evangelium secundum Marcum","greek_name":"Κατὰ Μᾶρκον","english_name":"The Gospel According to Mark"},
+    {"code":"LUK","testament":"nt","dir":"luke","prefix":"luke","chapters":24,"latin_name":"Evangelium secundum Lucam","greek_name":"Κατὰ Λουκᾶν","english_name":"The Gospel According to Luke"},
+    {"code":"JOH","testament":"nt","dir":"john","prefix":"john","chapters":21,"latin_name":"Evangelium secundum Ioannem","greek_name":"Κατὰ Ἰωάννην","english_name":"The Gospel According to John"},
+    {"code":"ACT","testament":"nt","dir":"acts","prefix":"acts","chapters":28,"latin_name":"Actus Apostolorum","greek_name":"Πράξεις Ἀποστόλων","english_name":"The Acts of the Apostles"},
+    {"code":"ROM","testament":"nt","dir":"romans","prefix":"rom","chapters":16,"latin_name":"Epistula ad Romanos","greek_name":"Πρὸς Ῥωμαίους","english_name":"The Epistle of Paul the Apostle to the Romans"},
+    {"code":"1CO","testament":"nt","dir":"1_corinthians","prefix":"fcor","chapters":16,"latin_name":"Epistula I ad Corinthios","greek_name":"Πρὸς Κορινθίους Α","english_name":"The First Epistle of Paul the Apostle to the Corinthians"},
+    {"code":"2CO","testament":"nt","dir":"2_corinthians","prefix":"scor","chapters":13,"latin_name":"Epistula II ad Corinthios","greek_name":"Πρὸς Κορινθίους Β","english_name":"The Second Epistle of Paul the Apostle to the Corinthians"},
+    {"code":"GAL","testament":"nt","dir":"galatians","prefix":"gal","chapters":6,"latin_name":"Epistula ad Galatas","greek_name":"Πρὸς Γαλάτας","english_name":"The Epistle of Paul the Apostle to the Galatians"},
+    {"code":"EPH","testament":"nt","dir":"ephesians","prefix":"eph","chapters":6,"latin_name":"Epistula ad Ephesios","greek_name":"Πρὸς Ἐφεσίους","english_name":"The Epistle of Paul the Apostle to the Ephesians"},
+    {"code":"PHP","testament":"nt","dir":"philippians","prefix":"phps","chapters":4,"latin_name":"Epistula ad Philippenses","greek_name":"Πρὸς Φιλιππησίους","english_name":"The Epistle of Paul the Apostle to the Philippians"},
+    {"code":"COL","testament":"nt","dir":"colossians","prefix":"col","chapters":4,"latin_name":"Epistula ad Colossenses","greek_name":"Πρὸς Κολοσσαεῖς","english_name":"The Epistle of Paul the Apostle to the Colossians"},
+    {"code":"1TH","testament":"nt","dir":"1_thessalonians","prefix":"fthes","chapters":5,"latin_name":"Epistula I ad Thessalonicenses","greek_name":"Πρὸς Θεσσαλονικεῖς Α","english_name":"The First Epistle of Paul the Apostle to the Thessalonians"},
+    {"code":"2TH","testament":"nt","dir":"2_thessalonians","prefix":"sthes","chapters":3,"latin_name":"Epistula II ad Thessalonicenses","greek_name":"Πρὸς Θεσσαλονικεῖς Β","english_name":"The Second Epistle of Paul the Apostle to the Thessalonians"},
+    {"code":"1TI","testament":"nt","dir":"1_timothy","prefix":"ftim","chapters":6,"latin_name":"Epistula I ad Timotheum","greek_name":"Πρὸς Τιμόθεον Α","english_name":"The First Epistle of Paul the Apostle to Timothy"},
+    {"code":"2TI","testament":"nt","dir":"2_timothy","prefix":"stim","chapters":4,"latin_name":"Epistula II ad Timotheum","greek_name":"Πρὸς Τιμόθεον Β","english_name":"The Second Epistle of Paul the Apostle to Timothy"},
+    {"code":"TIT","testament":"nt","dir":"titus","prefix":"titus","chapters":3,"latin_name":"Epistula ad Titum","greek_name":"Πρὸς Τίτον","english_name":"The Epistle of Paul the Apostle to Titus"},
+    {"code":"PHM","testament":"nt","dir":"philemon","prefix":"phmn","chapters":1,"latin_name":"Epistula ad Philemonem","greek_name":"Πρὸς Φιλήμονα","english_name":"The Epistle of Paul the Apostle to Philemon"},
+    {"code":"HEB","testament":"nt","dir":"hebrews","prefix":"heb","chapters":13,"latin_name":"Epistula ad Hebraeos","greek_name":"Πρὸς Ἑβραίους","english_name":"The Epistle of Paul the Apostle to the Hebrews"},
+    {"code":"JAM","testament":"nt","dir":"james","prefix":"jam","chapters":5,"latin_name":"Epistula Jacobi","greek_name":"Ἰάκωβος","english_name":"The General Epistle of James"},
+    {"code":"1PE","testament":"nt","dir":"1_peter","prefix":"fpet","chapters":5,"latin_name":"Epistula I Petri","greek_name":"Πέτρου Α","english_name":"The First Epistle General of Peter"},
+    {"code":"2PE","testament":"nt","dir":"2_peter","prefix":"spet","chapters":3,"latin_name":"Epistula II Petri","greek_name":"Πέτρου Β","english_name":"The Second Epistle General of Peter"},
+    {"code":"1JO","testament":"nt","dir":"1_john","prefix":"fjohn","chapters":5,"latin_name":"Epistula I Ioannis","greek_name":"Ἰωάννου Α","english_name":"The First Epistle General of John"},
+    {"code":"2JO","testament":"nt","dir":"2_john","prefix":"sjohn","chapters":1,"latin_name":"Epistula II Ioannis","greek_name":"Ἰωάννου Β","english_name":"The Second Epistle of John"},
+    {"code":"3JO","testament":"nt","dir":"3_john","prefix":"tjohn","chapters":1,"latin_name":"Epistula III Ioannis","greek_name":"Ἰωάννου Γ","english_name":"The Third Epistle of John"},
+    {"code":"JDE","testament":"nt","dir":"jude","prefix":"jude","chapters":1,"latin_name":"Epistula Judae","greek_name":"Ἰούδα","english_name":"The General Epistle of Jude"},
+    {"code":"REV","testament":"nt","dir":"revelation","prefix":"rev","chapters":22,"latin_name":"Apocalypsis Ioannis","greek_name":"Ἀποκάλυψις Ἰωάννου","english_name":"The Revelation of Saint John the Divine"}
+  ]
+}
