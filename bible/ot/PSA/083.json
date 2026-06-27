@@ -2,6 +2,8 @@
   "book_id": "PSA",
   "latin_name": "Liber Psalmorum",
   "hebrew_name": "תְּהִלִּים",
+  "douay_name": "Psalms",
+  "finnish_name": "Psalmit",
   "english_name": "Psalms",
   "chapter": 83,
   "verses": [
@@ -9,6 +11,8 @@
       "verse": 1,
       "latin_vulgate": "  Deus, quis similis erit tibi ?  ne taceas, neque compescaris, Deus : ",
       "hebrew_masoretic": "אֱלֹהִ֥ים אַל־דֳּמִי־לָ֑ךְ אַל־תֶּחֱרַ֖שׁ וְאַל־תִּשְׁקֹ֣ט אֵֽל׃",
+      "douay_rheims": "O God, who shall be like to thee? hold not thy peace, neither be thou still, O God.",
+      "finnish_biblia": "Asaphin Psalmi ja veisu. (H83:2) Jumala, älä niin ratki vaikene, ja älä niin ääneti ole: Jumala, älä sitä niin kärsi. ",
       "king_james": "Keep not thou silence, O God: hold not thy peace, and be not still, O God.",
       "refs": {
         "latin_vulgate": {
@@ -16,6 +20,9 @@
         },
         "hebrew_masoretic": {
           "src": "83:2"
+        },
+        "douay_rheims": {
+          "src": "82:2"
         }
       }
     },
@@ -23,6 +30,8 @@
       "verse": 2,
       "latin_vulgate": " quoniam ecce inimici tui sonuerunt,  et qui oderunt te extulerunt caput. ",
       "hebrew_masoretic": "כִּֽי־הִנֵּ֣ה א֭וֹיְבֶיךָ יֶהֱמָי֑וּן וּ֝מְשַׂנְאֶ֗יךָ נָ֣שְׂאוּ רֹֽאשׁ׃",
+      "douay_rheims": "For lo, thy enemies have made a noise: and they that hate thee have lifted up the head.",
+      "finnish_biblia": "Sillä katso, Sinun vihollises kiukuitsevat, ja jotka sinua vihaavat, ylentävät päänsä. ",
       "king_james": "For, lo, thine enemies make a tumult: and they that hate thee have lifted up the head.",
       "refs": {
         "latin_vulgate": {
@@ -30,6 +39,9 @@
         },
         "hebrew_masoretic": {
           "src": "83:3"
+        },
+        "douay_rheims": {
+          "src": "82:3"
         }
       }
     },
@@ -37,6 +49,8 @@
       "verse": 3,
       "latin_vulgate": " Super populum tuum malignaverunt consilium,  et cogitaverunt adversus sanctos tuos. ",
       "hebrew_masoretic": "עַֽל־עַ֭מְּךָ יַעֲרִ֣ימוּ ס֑וֹד וְ֝יִתְיָעֲצ֗וּ עַל־צְפוּנֶֽיךָ׃",
+      "douay_rheims": "They have taken a malicious counsel against thy people, and have consulted against thy saints.",
+      "finnish_biblia": "He pitävät kavaloita juonia sinun kansaas vastaan, ja pitävät neuvoa sinun salatuitas vastaan, ",
       "king_james": "They have taken crafty counsel against thy people, and consulted against thy hidden ones.",
       "refs": {
         "latin_vulgate": {
@@ -44,6 +58,9 @@
         },
         "hebrew_masoretic": {
           "src": "83:4"
+        },
+        "douay_rheims": {
+          "src": "82:4"
         }
       }
     },
@@ -51,6 +68,8 @@
       "verse": 4,
       "latin_vulgate": " Dixerunt : Venite, et disperdamus eos de gente,  et non memoretur nomen Israël ultra. ",
       "hebrew_masoretic": "אָמְר֗וּ לְ֭כוּ וְנַכְחִידֵ֣ם מִגּ֑וֹי וְלֹֽא־יִזָּכֵ֖ר שֵֽׁם־יִשְׂרָאֵ֣ל עֽוֹד׃",
+      "douay_rheims": "They have said: Come and let us destroy them, so that they be not a nation: and let the name of Israel be remembered no more.",
+      "finnish_biblia": "Sanoen: tulkaat, hävittäkäämme heitä, niin ettei he ensinkään kansa olisikaan, ettei Israelin nimeä silleen muisteltaisi. ",
       "king_james": "They have said, Come, and let us cut them off from being a nation; that the name of Israel may be no more in remembrance.",
       "refs": {
         "latin_vulgate": {
@@ -58,6 +77,9 @@
         },
         "hebrew_masoretic": {
           "src": "83:5"
+        },
+        "douay_rheims": {
+          "src": "82:5"
         }
       }
     },
@@ -65,6 +87,8 @@
       "verse": 5,
       "latin_vulgate": " Quoniam cogitaverunt unanimiter ;  simul adversum te testamentum disposuerunt : ",
       "hebrew_masoretic": "כִּ֤י נוֹעֲצ֣וּ לֵ֣ב יַחְדָּ֑ו עָ֝לֶ֗יךָ בְּרִ֣ית יִכְרֹֽתוּ׃",
+      "douay_rheims": "For they have contrived with one consent: they have made a covenant together against thee,",
+      "finnish_biblia": "Sillä he ovat sydämessänsä panneet neuvonsa yhteen, ja tehneet liiton sinua vastaan: ",
       "king_james": "For they have consulted together with one consent: they are confederate against thee:",
       "refs": {
         "latin_vulgate": {
@@ -72,6 +96,9 @@
         },
         "hebrew_masoretic": {
           "src": "83:6"
+        },
+        "douay_rheims": {
+          "src": "82:6"
         }
       }
     },
@@ -79,6 +106,8 @@
       "verse": 6,
       "latin_vulgate": " tabernacula Idumæorum et Ismahelitæ,  Moab et Agareni, ",
       "hebrew_masoretic": "אׇהֳלֵ֣י אֱ֭דוֹם וְיִשְׁמְעֵאלִ֗ים מוֹאָ֥ב וְהַגְרִֽים׃",
+      "douay_rheims": "The tabernacle of the Edomites, and the Ishmahelites: Moab, and the Agarens,",
+      "finnish_biblia": "Edomilaiset ja Ismaelilaiset majat, Moabilaiset ja Hagarilaiset, ",
       "king_james": "The tabernacles of Edom, and the Ishmaelites; of Moab, and the Hagarenes;",
       "refs": {
         "latin_vulgate": {
@@ -86,6 +115,9 @@
         },
         "hebrew_masoretic": {
           "src": "83:7"
+        },
+        "douay_rheims": {
+          "src": "82:7"
         }
       }
     },
@@ -93,6 +125,8 @@
       "verse": 7,
       "latin_vulgate": " Gebal, et Ammon, et Amalec ;  alienigenæ cum habitantibus Tyrum. ",
       "hebrew_masoretic": "גְּבָ֣ל וְ֭עַמּוֹן וַעֲמָלֵ֑ק פְּ֝לֶ֗שֶׁת עִם־יֹ֥שְׁבֵי צֽוֹר׃",
+      "douay_rheims": "Gebal, and Ammon and Amalec: the Philistines, with the inhabitants of Tyre.",
+      "finnish_biblia": "Gebalilaiset, Ammonilaiset ja Amalekilaiset, Philistealaiset ja Tyron asuvaiset. ",
       "king_james": "Gebal, and Ammon, and Amalek; the Philistines with the inhabitants of Tyre;",
       "refs": {
         "latin_vulgate": {
@@ -100,6 +134,9 @@
         },
         "hebrew_masoretic": {
           "src": "83:8"
+        },
+        "douay_rheims": {
+          "src": "82:8"
         }
       }
     },
@@ -107,6 +144,8 @@
       "verse": 8,
       "latin_vulgate": " Etenim Assur venit cum illis :  facti sunt in adjutorium filiis Lot. ",
       "hebrew_masoretic": "גַּם־אַ֭שּׁוּר נִלְוָ֣ה עִמָּ֑ם הָ֤יֽוּ־זְר֖וֹעַ לִבְנֵי־ל֣וֹט סֶֽלָה׃",
+      "douay_rheims": "Yea, and the Assyrian also is joined with them: they are come to the aid of the sons of Lot.",
+      "finnish_biblia": "Assur on myös itsensä heihin liittänyt, auttamaan Lotin lapsia, Sela! ",
       "king_james": "Assur also is joined with them: they have holpen the children of Lot. Selah.",
       "refs": {
         "latin_vulgate": {
@@ -114,6 +153,9 @@
         },
         "hebrew_masoretic": {
           "src": "83:9"
+        },
+        "douay_rheims": {
+          "src": "82:9"
         }
       }
     },
@@ -121,6 +163,8 @@
       "verse": 9,
       "latin_vulgate": " Fac illis sicut Madian et Sisaræ,  sicut Jabin in torrente Cisson. ",
       "hebrew_masoretic": "עֲשֵֽׂה־לָהֶ֥ם כְּמִדְיָ֑ן כְּֽסִיסְרָ֥א כְ֝יָבִ֗ין בְּנַ֣חַל קִישֽׁוֹן׃",
+      "douay_rheims": "Do to them as thou didst to Madian and to Sisara: as to Jabin at the brook of Cisson.",
+      "finnish_biblia": "Tee niille niinkuin Midianilaisille, niinkuin Siseralle, niinkuin Jabinille Kisonin ojan tykönä; ",
       "king_james": "Do unto them as unto the Midianites; as to Sisera, as to Jabin, at the brook of Kison:",
       "refs": {
         "latin_vulgate": {
@@ -128,6 +172,9 @@
         },
         "hebrew_masoretic": {
           "src": "83:10"
+        },
+        "douay_rheims": {
+          "src": "82:10"
         }
       }
     },
@@ -135,6 +182,8 @@
       "verse": 10,
       "latin_vulgate": " Disperierunt in Endor ;  facti sunt ut stercus terræ. ",
       "hebrew_masoretic": "נִשְׁמְד֥וּ בְֽעֵין־דֹּ֑אר הָ֥יוּ דֹ֝֗מֶן לָאֲדָמָֽה׃",
+      "douay_rheims": "Who perished at Endor: and became as dung for the earth.",
+      "finnish_biblia": "Jotka mestattiin Endorin tykönä, ja tulivat loaksi maan päälle. ",
       "king_james": "Which perished at En–dor: they became as dung for the earth.",
       "refs": {
         "latin_vulgate": {
@@ -142,6 +191,9 @@
         },
         "hebrew_masoretic": {
           "src": "83:11"
+        },
+        "douay_rheims": {
+          "src": "82:11"
         }
       }
     },
@@ -149,6 +201,8 @@
       "verse": 11,
       "latin_vulgate": " Pone principes eorum sicut Oreb,  et Zeb, et Zebee, et Salmana :  omnes principes eorum, ",
       "hebrew_masoretic": "שִׁיתֵ֣מוֹ נְ֭דִיבֵימוֹ כְּעֹרֵ֣ב וְכִזְאֵ֑ב וּֽכְזֶ֥בַח וּ֝כְצַלְמֻנָּ֗ע כׇּל־נְסִיכֵֽימוֹ׃",
+      "douay_rheims": "Make their princes like Oreb, and Zeb, and Zebee, and Salmana. All their princes,",
+      "finnish_biblia": "Tee heidän pääruhtinaansa niinkuin Orebin ja Seebin, ja kaikki heidän ylimmäisensä niinkuin Seban ja Salmunnan, ",
       "king_james": "Make their nobles like Oreb, and like Zeeb: yea, all their princes as Zebah, and as Zalmunna:",
       "refs": {
         "latin_vulgate": {
@@ -156,6 +210,9 @@
         },
         "hebrew_masoretic": {
           "src": "83:12"
+        },
+        "douay_rheims": {
+          "src": "82:12"
         }
       }
     },
@@ -163,6 +220,8 @@
       "verse": 12,
       "latin_vulgate": " qui dixerunt : Hæreditate possideamus sanctuarium Dei. ",
       "hebrew_masoretic": "אֲשֶׁ֣ר אָ֭מְרוּ נִ֣ירְשָׁה לָּ֑נוּ אֵ֝֗ת נְא֣וֹת אֱלֹהִֽים׃",
+      "douay_rheims": "Who have said: Let us possess the sanctuary of God for an inheritance.",
+      "finnish_biblia": "Jotka sanovat: me omistamme meillemme Jumalan huoneet. ",
       "king_james": "Who said, Let us take to ourselves the houses of God in possession.",
       "refs": {
         "latin_vulgate": {
@@ -170,6 +229,9 @@
         },
         "hebrew_masoretic": {
           "src": "83:13"
+        },
+        "douay_rheims": {
+          "src": "82:13"
         }
       }
     },
@@ -177,6 +239,8 @@
       "verse": 13,
       "latin_vulgate": " Deus meus, pone illos ut rotam,  et sicut stipulam ante faciem venti. ",
       "hebrew_masoretic": "אֱֽלֹהַ֗י שִׁיתֵ֥מוֹ כַגַּלְגַּ֑ל כְּ֝קַ֗שׁ לִפְנֵי־רֽוּחַ׃",
+      "douay_rheims": "O my God, make them like a wheel; and as stubble before the wind.",
+      "finnish_biblia": "Jumala, tee heitä niinkuin rattaan, niinkuin korren tuulen edessä. ",
       "king_james": "O my God, make them like a wheel; as the stubble before the wind.",
       "refs": {
         "latin_vulgate": {
@@ -184,6 +248,9 @@
         },
         "hebrew_masoretic": {
           "src": "83:14"
+        },
+        "douay_rheims": {
+          "src": "82:14"
         }
       }
     },
@@ -191,6 +258,8 @@
       "verse": 14,
       "latin_vulgate": " Sicut ignis qui comburit silvam,  et sicut flamma comburens montes, ",
       "hebrew_masoretic": "כְּאֵ֥שׁ תִּבְעַר־יָ֑עַר וּ֝כְלֶהָבָ֗ה תְּלַהֵ֥ט הָרִֽים׃",
+      "douay_rheims": "As fire which burneth the wood: and as a flame burning mountains:",
+      "finnish_biblia": "Niinkuin kulo metsän polttaa, ja niinkuin liekki mäet sytyttää; ",
       "king_james": "As the fire burneth a wood, and as the flame setteth the mountains on fire;",
       "refs": {
         "latin_vulgate": {
@@ -198,6 +267,9 @@
         },
         "hebrew_masoretic": {
           "src": "83:15"
+        },
+        "douay_rheims": {
+          "src": "82:15"
         }
       }
     },
@@ -205,6 +277,8 @@
       "verse": 15,
       "latin_vulgate": " ita persequeris illos in tempestate tua,  et in ira tua turbabis eos. ",
       "hebrew_masoretic": "כֵּ֭ן תִּרְדְּפֵ֣ם בְּסַעֲרֶ֑ךָ וּבְסוּפָתְךָ֥ תְבַהֲלֵֽם׃",
+      "douay_rheims": "So shalt thou pursue them with thy tempest: and shalt trouble them in thy wrath.",
+      "finnish_biblia": "Vainoo juuri niin heitä sinun rajuilmallas, ja hämmästytä heitä tuulispäälläs. ",
       "king_james": "So persecute them with thy tempest, and make them afraid with thy storm.",
       "refs": {
         "latin_vulgate": {
@@ -212,6 +286,9 @@
         },
         "hebrew_masoretic": {
           "src": "83:16"
+        },
+        "douay_rheims": {
+          "src": "82:16"
         }
       }
     },
@@ -219,6 +296,8 @@
       "verse": 16,
       "latin_vulgate": " Imple facies eorum ignominia,  et quærent nomen tuum, Domine. ",
       "hebrew_masoretic": "מַלֵּ֣א פְנֵיהֶ֣ם קָל֑וֹן וִיבַקְשׁ֖וּ שִׁמְךָ֣ יְהֹוָֽה׃",
+      "douay_rheims": "Fill their faces with shame; and they shall seek thy name, O Lord.",
+      "finnish_biblia": "Täytä heidän kasvonsa häpiällä, että he sinun nimeäs, Herra, etsisivät. ",
       "king_james": "Fill their faces with shame; that they may seek thy name, O Lord.",
       "refs": {
         "latin_vulgate": {
@@ -226,6 +305,9 @@
         },
         "hebrew_masoretic": {
           "src": "83:17"
+        },
+        "douay_rheims": {
+          "src": "82:17"
         }
       }
     },
@@ -233,6 +315,8 @@
       "verse": 17,
       "latin_vulgate": " Erubescant, et conturbentur in sæculum sæculi,  et confundantur, et pereant. ",
       "hebrew_masoretic": "יֵבֹ֖שׁוּ וְיִבָּהֲל֥וּ עֲדֵי־עַ֗ד וְֽיַחְפְּר֥וּ וְיֹאבֵֽדוּ׃",
+      "douay_rheims": "Let them be ashamed and troubled for ever and ever: and let them be confounded and perish.",
+      "finnish_biblia": "Hävetköön he ja hämmästyköön ijankaikkisesti, ja häpiään tulkoon ja hukkukoon. ",
       "king_james": "Let them be confounded and troubled for ever; yea, let them be put to shame, and perish:",
       "refs": {
         "latin_vulgate": {
@@ -240,6 +324,9 @@
         },
         "hebrew_masoretic": {
           "src": "83:18"
+        },
+        "douay_rheims": {
+          "src": "82:18"
         }
       }
     },
@@ -247,6 +334,8 @@
       "verse": 18,
       "latin_vulgate": " Et cognoscant quia nomen tibi Dominus :  tu solus Altissimus in omni terra.  ",
       "hebrew_masoretic": "וְֽיֵדְע֗וּ כִּי־אַתָּ֬ה שִׁמְךָ֣ יְהֹוָ֣ה לְבַדֶּ֑ךָ עֶ֝לְי֗וֹן עַל־כׇּל־הָאָֽרֶץ׃ {פ}",
+      "douay_rheims": "And let them know that the Lord is thy name: thou alone art the most High over all the earth. ",
+      "finnish_biblia": "Niin he saavat tuta, että sinä, jonka ainoan nimi on Herra, olet ylimmäinen kaikessa maailmassa.   ",
       "king_james": "That men may know that thou, whose name alone is Jehovah, art the most high over all the earth. ",
       "refs": {
         "latin_vulgate": {
@@ -254,6 +343,9 @@
         },
         "hebrew_masoretic": {
           "src": "83:19"
+        },
+        "douay_rheims": {
+          "src": "82:19"
         }
       }
     }

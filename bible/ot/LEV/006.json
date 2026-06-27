@@ -2,6 +2,8 @@
   "book_id": "LEV",
   "latin_name": "Leviticus",
   "hebrew_name": "וַיִּקְרָא",
+  "douay_name": "Leviticus",
+  "finnish_name": "3. Mooseksen kirja",
   "english_name": "Leviticus",
   "chapter": 6,
   "verses": [
@@ -9,6 +11,8 @@
       "verse": 1,
       "latin_vulgate": "Locutus est Dominus ad Moysen, dicens : ",
       "hebrew_masoretic": "וַיְדַבֵּ֥ר יְהֹוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃",
+      "douay_rheims": "The Lord spoke to Moses, saying:",
+      "finnish_biblia": "Ja Herra puhui Mosekselle, sanoen: ",
       "king_james": "And the Lord spake unto Moses, saying,",
       "refs": {
         "hebrew_masoretic": {
@@ -20,6 +24,8 @@
       "verse": 2,
       "latin_vulgate": "Anima quæ peccaverit, et contempto Domino, negaverit proximo suo depositum quod fidei ejus creditum fuerat, vel vi aliquid extorserit, aut calumniam fecerit, ",
       "hebrew_masoretic": "נֶ֚פֶשׁ כִּ֣י תֶחֱטָ֔א וּמָעֲלָ֥ה מַ֖עַל בַּיהֹוָ֑ה וְכִחֵ֨שׁ בַּעֲמִית֜וֹ בְּפִקָּד֗וֹן אֽוֹ־בִתְשׂ֤וּמֶת יָד֙ א֣וֹ בְגָזֵ֔ל א֖וֹ עָשַׁ֥ק אֶת־עֲמִיתֽוֹ׃",
+      "douay_rheims": "Whosoever shall sin, and despising the Lord, shall deny to his neighbour the thing delivered to his keeping, which was committed to his trust; or shall by force extort any thing, or commit oppression;",
+      "finnish_biblia": "Jos joku sielu tekee syntiä ja rikkoo kovasti Herraa vastaan, kieltäen lähimmäiseltänsä sen, minkä hän hänen haltuunsa antanut on, eli sen, jonka hän hänelle (muutoin) käteen antanut on, taikka jonka hän väkivallalla ottanut on, eli vääryydellä on saattanut allensa: ",
       "king_james": "If a soul sin, and commit a trespass against the Lord, and lie unto his neighbour in that which was delivered him to keep, or in fellowship, or in a thing taken away by violence, or hath deceived his neighbour;",
       "refs": {
         "hebrew_masoretic": {
@@ -31,6 +37,8 @@
       "verse": 3,
       "latin_vulgate": "sive rem perditam invenerit, et inficians insuper pejeraverit, et quodlibet aliud ex pluribus fecerit, in quibus solent peccare homines, ",
       "hebrew_masoretic": "אֽוֹ־מָצָ֧א אֲבֵדָ֛ה וְכִ֥חֶשׁ בָּ֖הּ וְנִשְׁבַּ֣ע עַל־שָׁ֑קֶר עַל־אַחַ֗ת מִכֹּ֛ל אֲשֶׁר־יַעֲשֶׂ֥ה הָאָדָ֖ם לַחֲטֹ֥א בָהֵֽנָּה׃",
+      "douay_rheims": "Or shall find a thing lost, and denying it, shall also swear falsely, or shall do any other of the many things, wherein men are wont to sin:",
+      "finnish_biblia": "Eli sen joka kadotettu oli, löytänyt on, ja kieltää sen väärällä valalla, eli mikä ikänänsä se olis, jossa ihminen lähimmäistänsä vastaan rikkoo; ",
       "king_james": "Or have found that which was lost, and lieth concerning it, and sweareth falsely; in any of all these that a man doeth, sinning therein:",
       "refs": {
         "hebrew_masoretic": {
@@ -42,6 +50,8 @@
       "verse": 4,
       "latin_vulgate": "convicta delicti, ",
       "hebrew_masoretic": "וְהָיָה֮ כִּֽי־יֶחֱטָ֣א וְאָשֵׁם֒ וְהֵשִׁ֨יב אֶת־הַגְּזֵלָ֜ה אֲשֶׁ֣ר גָּזָ֗ל א֤וֹ אֶת־הָעֹ֙שֶׁק֙ אֲשֶׁ֣ר עָשָׁ֔ק א֚וֹ אֶת־הַפִּקָּד֔וֹן אֲשֶׁ֥ר הׇפְקַ֖ד אִתּ֑וֹ א֥וֹ אֶת־הָאֲבֵדָ֖ה אֲשֶׁ֥ר מָצָֽא׃",
+      "douay_rheims": "Being convicted of the offence, he shall restore",
+      "finnish_biblia": "Koska hän niin rikkoo ja tulee vikapääksi, niin pitää hänen antaman jällensä, mitä hän väkivallalla ottanut on ja vääryydellä on saattanut allensa eli sen mikä hänen haltuunsa annettu oli, eli kadotetun kuin hän löytänyt on, ",
       "king_james": "Then it shall be, because he hath sinned, and is guilty, that he shall restore that which he took violently away, or the thing which he hath deceitfully gotten, or that which was delivered him to keep, or the lost thing which he found,",
       "refs": {
         "hebrew_masoretic": {
@@ -53,6 +63,8 @@
       "verse": 5,
       "latin_vulgate": "reddet omnia, quæ per fraudem voluit obtinere, integra, et quintam insuper partem domino cui damnum intulerat. ",
       "hebrew_masoretic": "א֠וֹ מִכֹּ֞ל אֲשֶׁר־יִשָּׁבַ֣ע עָלָיו֮ לַשֶּׁ֒קֶר֒ וְשִׁלַּ֤ם אֹתוֹ֙ בְּרֹאשׁ֔וֹ וַחֲמִשִׁתָ֖יו יֹסֵ֣ף עָלָ֑יו לַאֲשֶׁ֨ר ה֥וּא ל֛וֹ יִתְּנֶ֖נּוּ בְּי֥וֹם אַשְׁמָתֽוֹ׃",
+      "douay_rheims": "All that he would have gotten by fraud, in the principal, and the fifth part besides, to the owner, whom he wronged.",
+      "finnish_biblia": "Eli jonka tähden hän väärän valan tehnyt on, sen pitää hänen kaikki tyynni antaman jällensä ja vielä sitte viidennen osan päälliseksi: sille, jonka se oma oli, pitää hänen sen antaman vikauhrinsa päivänä. ",
       "king_james": "Or all that about which he hath sworn falsely; he shall even restore it in the principal, and shall add the fifth part more thereto, and give it unto him to whom it appertaineth, in the day of his trespass offering.",
       "refs": {
         "hebrew_masoretic": {
@@ -64,6 +76,8 @@
       "verse": 6,
       "latin_vulgate": "Pro peccato autem suo offeret arietem immaculatum de grege, et dabit eum sacerdoti, juxta æstimationem mensuramque delicti : ",
       "hebrew_masoretic": "וְאֶת־אֲשָׁמ֥וֹ יָבִ֖יא לַיהֹוָ֑ה אַ֣יִל תָּמִ֧ים מִן־הַצֹּ֛אן בְּעֶרְכְּךָ֥ לְאָשָׁ֖ם אֶל־הַכֹּהֵֽן׃",
+      "douay_rheims": "Moreover for his sin he shall offer a ram without blemish out of the flock: and shall give it to the priest, according to the estimation and measure of the offence.",
+      "finnish_biblia": "Mutta vikauhrinsa pitää hänen tuoman Herralle: virheettömän oinaan laumasta, sinun arvios jälkeen vikauhriksi, papin tykö. ",
       "king_james": "And he shall bring his trespass offering unto the Lord, a ram without blemish out of the flock, with thy estimation, for a trespass offering, unto the priest:",
       "refs": {
         "hebrew_masoretic": {
@@ -75,6 +89,8 @@
       "verse": 7,
       "latin_vulgate": "qui rogabit pro eo coram Domino, et dimittetur illi pro singulis quæ faciendo peccavit.  ",
       "hebrew_masoretic": "וְכִפֶּ֨ר עָלָ֧יו הַכֹּהֵ֛ן לִפְנֵ֥י יְהֹוָ֖ה וְנִסְלַ֣ח ל֑וֹ עַל־אַחַ֛ת מִכֹּ֥ל אֲשֶֽׁר־יַעֲשֶׂ֖ה לְאַשְׁמָ֥ה בָֽהּ׃ {פ}",
+      "douay_rheims": "And he shall pray for him before the Lord: and he shall have forgiveness for every thing in doing of which he bath sinned.",
+      "finnish_biblia": "Ja papin pitää sovittaman hänen Herran edessä, niin hänelle annetaan anteeksi, mitä ikänänsä se olis, kaikista niistä mitä hän tehnyt on, jossa hän itsensä vikapääksi saatti. ",
       "king_james": "And the priest shall make an atonement for him before the Lord: and it shall be forgiven him for any thing of all that he hath done in trespassing therein.",
       "refs": {
         "hebrew_masoretic": {
@@ -86,6 +102,8 @@
       "verse": 8,
       "latin_vulgate": " Locutusque est Dominus ad Moysen, dicens : ",
       "hebrew_masoretic": "וַיְדַבֵּ֥ר יְהֹוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃",
+      "douay_rheims": "And the Lord spoke to Moses, saying:",
+      "finnish_biblia": "Ja Herra puhui Mosekselle, sanoen: ",
       "king_james": "And the Lord spake unto Moses, saying,",
       "refs": {
         "hebrew_masoretic": {
@@ -97,6 +115,8 @@
       "verse": 9,
       "latin_vulgate": "Præcipe Aaron et filiis ejus : Hæc est lex holocausti : cremabitur in altari tota nocte usque mane : ignis ex eodem altari erit. ",
       "hebrew_masoretic": "צַ֤ו אֶֽת־אַהֲרֹן֙ וְאֶת־בָּנָ֣יו לֵאמֹ֔ר זֹ֥את תּוֹרַ֖ת הָעֹלָ֑ה הִ֣וא הָעֹלָ֡ה עַל֩ מוֹקְדָ֨הֿ עַל־הַמִּזְבֵּ֤חַ כׇּל־הַלַּ֙יְלָה֙ עַד־הַבֹּ֔קֶר וְאֵ֥שׁ הַמִּזְבֵּ֖חַ תּ֥וּקַד בּֽוֹ׃",
+      "douay_rheims": "Command Aaron and his sons: This is the law of a holocaust. It shall be burnt upon the altar, all night until morning: the fire shall be of the same altar.",
+      "finnish_biblia": "Käske Aaronille ja hänen pojillensa sanoen: tämä on polttouhrin sääty: polttouhrin pitää palaman alttarilla kaiken yötä aamuun asti. Ja alttarilla tulen pitää sen päällä palaman. ",
       "king_james": "Command Aaron and his sons, saying, This is the law of the burnt offering: It is the burnt offering, because of the burning upon the altar all night unto the morning, and the fire of the altar shall be burning in it.",
       "refs": {
         "hebrew_masoretic": {
@@ -108,6 +128,8 @@
       "verse": 10,
       "latin_vulgate": "Vestietur tunica sacerdos et feminalibus lineis : tolletque cineres, quos vorans ignis exussit, et ponens juxta altare, ",
       "hebrew_masoretic": "וְלָבַ֨שׁ הַכֹּהֵ֜ן מִדּ֣וֹ בַ֗ד וּמִֽכְנְסֵי־בַד֮ יִלְבַּ֣שׁ עַל־בְּשָׂרוֹ֒ וְהֵרִ֣ים אֶת־הַדֶּ֗שֶׁן אֲשֶׁ֨ר תֹּאכַ֥ל הָאֵ֛שׁ אֶת־הָעֹלָ֖ה עַל־הַמִּזְבֵּ֑חַ וְשָׂמ֕וֹ אֵ֖צֶל הַמִּזְבֵּֽחַ׃",
+      "douay_rheims": "The priest shall be vested with the tunick and the linen breeches; and he shall take up the ashes of that which the devouring fire hath burnt: and putting them beside the altar,",
+      "finnish_biblia": "Ja papin pitää yllensä pukeman liinahameen, ja vetämän liinaisen alusvaatteen ihonsa päälle, ja korjaaman tuhan alttarilta, sitte kuin tuli polttouhrin kuluttanut on, ja paneman sen alttarin viereen. ",
       "king_james": "And the priest shall put on his linen garment, and his linen breeches shall he put upon his flesh, and take up the ashes which the fire hath consumed with the burnt offering on the altar, and he shall put them beside the altar.",
       "refs": {
         "hebrew_masoretic": {
@@ -119,6 +141,8 @@
       "verse": 11,
       "latin_vulgate": "spoliabitur prioribus vestimentis, indutusque aliis, efferret eos extra castra, et in loco mundissimo usque ad favillam consumi faciet. ",
       "hebrew_masoretic": "וּפָשַׁט֙ אֶת־בְּגָדָ֔יו וְלָבַ֖שׁ בְּגָדִ֣ים אֲחֵרִ֑ים וְהוֹצִ֤יא אֶת־הַדֶּ֙שֶׁן֙ אֶל־מִח֣וּץ לַֽמַּחֲנֶ֔ה אֶל־מָק֖וֹם טָהֽוֹר׃",
+      "douay_rheims": "Shall put off his former vestments, and being clothed with others, shall carry them forth without the camp, and shall cause them to be consumed to dust in a very clean place.",
+      "finnish_biblia": "Ja sitte pitää riisuman vaatteensa, ja toisiin vaatteisiin itsensä pukeman, ja sitte tuhan viemän ulos leiristä puhtaaseen paikkaan. ",
       "king_james": "And he shall put off his garments, and put on other garments, and carry forth the ashes without the camp unto a clean place.",
       "refs": {
         "hebrew_masoretic": {
@@ -130,6 +154,8 @@
       "verse": 12,
       "latin_vulgate": "Ignis autem in altari semper ardebit, quem nutriet sacerdos subjiciens ligna mane per singulos dies, et imposito holocausto, desuper adolebit adipes pacificorum. ",
       "hebrew_masoretic": "וְהָאֵ֨שׁ עַל־הַמִּזְבֵּ֤חַ תּֽוּקַד־בּוֹ֙ לֹ֣א תִכְבֶּ֔ה וּבִעֵ֨ר עָלֶ֧יהָ הַכֹּהֵ֛ן עֵצִ֖ים בַּבֹּ֣קֶר בַּבֹּ֑קֶר וְעָרַ֤ךְ עָלֶ֙יהָ֙ הָֽעֹלָ֔ה וְהִקְטִ֥יר עָלֶ֖יהָ חֶלְבֵ֥י הַשְּׁלָמִֽים׃",
+      "douay_rheims": "And the fire on the altar shall always burn, and the priest shall feed it, putting wood on it every day in the morning: and laying on the holocaust, shall burn thereupon the fat of the peace offerings.",
+      "finnish_biblia": "Tuli pitää palaman alttarilla, ja ei koskaan sammuman. Ja papin pitää halot sen päällä joka aamu sytyttämän, ja hänen pitää asettaman polttouhrin sen päälle, ja polttaman kiitosuhrin lihavuuden sen päällä. ",
       "king_james": "And the fire upon the altar shall be burning in it; it shall not be put out: and the priest shall burn wood on it every morning, and lay the burnt offering in order upon it; and he shall burn thereon the fat of the peace offerings.",
       "refs": {
         "hebrew_masoretic": {
@@ -141,6 +167,8 @@
       "verse": 13,
       "latin_vulgate": "Ignis est iste perpetuus, qui numquam deficiet in altari. ",
       "hebrew_masoretic": "אֵ֗שׁ תָּמִ֛יד תּוּקַ֥ד עַל־הַמִּזְבֵּ֖חַ לֹ֥א תִכְבֶּֽה׃ {ס}",
+      "douay_rheims": "This is the perpetual fire which shall never go out on the altar.",
+      "finnish_biblia": "Tuli pitää alinomaa palaman alttarilla, ja ei koskaan sammutettaman. ",
       "king_james": "The fire shall ever be burning upon the altar; it shall never go out.",
       "refs": {
         "hebrew_masoretic": {
@@ -152,6 +180,8 @@
       "verse": 14,
       "latin_vulgate": "Hæc est lex sacrificii et libamentorum, quæ offerent filii Aaron coram Domino, et coram altari. ",
       "hebrew_masoretic": "וְזֹ֥את תּוֹרַ֖ת הַמִּנְחָ֑ה הַקְרֵ֨ב אֹתָ֤הּ בְּנֵֽי־אַהֲרֹן֙ לִפְנֵ֣י יְהֹוָ֔ה אֶל־פְּנֵ֖י הַמִּזְבֵּֽחַ׃",
+      "douay_rheims": "This is the law of the sacrifice and libations, which the children of Aaron shall offer before the Lord, and before the altar.",
+      "finnish_biblia": "Ja tämä on ruokauhrin sääty, jonka Aaronin pojat uhraaman pitää alttarilla, Herran eteen: ",
       "king_james": "And this is the law of the meat offering: the sons of Aaron shall offer it before the Lord, before the altar.",
       "refs": {
         "hebrew_masoretic": {
@@ -163,6 +193,8 @@
       "verse": 15,
       "latin_vulgate": "Tollet sacerdos pugillum similæ, quæ conspersa est oleo, et totum thus, quod super similam positum est : adolebitque illud in altari in monimentum odoris suavissimi Domino : ",
       "hebrew_masoretic": "וְהֵרִ֨ים מִמֶּ֜נּוּ בְּקֻמְצ֗וֹ מִסֹּ֤לֶת הַמִּנְחָה֙ וּמִשַּׁמְנָ֔הּ וְאֵת֙ כׇּל־הַלְּבֹנָ֔ה אֲשֶׁ֖ר עַל־הַמִּנְחָ֑ה וְהִקְטִ֣יר הַמִּזְבֵּ֗חַ רֵ֧יחַ נִיחֹ֛חַ אַזְכָּרָתָ֖הּ לַיהֹוָֽה׃",
+      "douay_rheims": "The priest shall take a handful of the flour that is tempered with oil, and all the frankincense that is put upon the flour: and he shall burn on the altar for a memorial of most sweet odour to the Lord.",
+      "finnish_biblia": "Papin pitää ottaman pivon täyden sämpyläjauhoja ruokauhrista, ja öljystä, ja kaiken pyhän savun, joka ruokauhrin päällä on, ja sen polttaman alttarilla lepytyshajuksi ja muistoksi Herralle. ",
       "king_james": "And he shall take of it his handful, of the flour of the meat offering, and of the oil thereof, and all the frankincense which is upon the meat offering, and shall burn it upon the altar for a sweet savour, even the memorial of it, unto the Lord.",
       "refs": {
         "hebrew_masoretic": {
@@ -174,6 +206,8 @@
       "verse": 16,
       "latin_vulgate": "reliquam autem partem similæ comedet Aaron cum filiis suis, absque fermento : et comedet in loco sancto atrii tabernaculi. ",
       "hebrew_masoretic": "וְהַנּוֹתֶ֣רֶת מִמֶּ֔נָּה יֹאכְל֖וּ אַהֲרֹ֣ן וּבָנָ֑יו מַצּ֤וֹת תֵּֽאָכֵל֙ בְּמָק֣וֹם קָדֹ֔שׁ בַּחֲצַ֥ר אֹֽהֶל־מוֹעֵ֖ד יֹאכְלֽוּהָ׃",
+      "douay_rheims": "And the part of the flour that is left, Aaron and his sons shall eat, without leaven: and he shall eat it in the holy place of the court of the tabernacle.",
+      "finnish_biblia": "Ja sen tähteet pitää Aaronin poikinensa syömän: happamatoinna pitää se syötämän, pyhässä siassa, seurakunnan majan pihassa pitää heidän sen syömän. ",
       "king_james": "And the remainder thereof shall Aaron and his sons eat: with unleavened bread shall it be eaten in the holy place; in the court of the tabernacle of the congregation they shall eat it.",
       "refs": {
         "hebrew_masoretic": {
@@ -185,6 +219,8 @@
       "verse": 17,
       "latin_vulgate": "Ideo autem non fermentabitur, quia pars ejus in Domini offertur incensum. Sanctum sanctorum erit, sicut pro peccato atque delicto. ",
       "hebrew_masoretic": "לֹ֤א תֵאָפֶה֙ חָמֵ֔ץ חֶלְקָ֛ם נָתַ֥תִּי אֹתָ֖הּ מֵאִשָּׁ֑י קֹ֤דֶשׁ קׇֽדָשִׁים֙ הִ֔וא כַּחַטָּ֖את וְכָאָשָֽׁם׃",
+      "douay_rheims": "And therefore it shall not be leavened, because part thereof is offered for the burnt sacrifice of the Lord. It shall be most holy, as that which is offered for sin and for trespass.",
+      "finnish_biblia": "Ja ei heidän pidä leipoman sitä hapatuksen kanssa; sillä se on heidän osansa, jonka minä heille minun tuliuhristani antanut olen: se pitää oleman kaikkein pyhin, niinkuin rikosuhri ja niinkuin vikauhri. ",
       "king_james": "It shall not be baken with leaven. I have given it unto them for their portion of my offerings made by fire; it is most holy, as is the sin offering, and as the trespass offering.",
       "refs": {
         "hebrew_masoretic": {
@@ -196,6 +232,8 @@
       "verse": 18,
       "latin_vulgate": "Mares tantum stirpis Aaron comedent illud. Legitimum ac sempiternum erit in generationibus vestris de sacrificiis Domini : omnis qui tetigerit illa, sanctificabitur. ",
       "hebrew_masoretic": "כׇּל־זָכָ֞ר בִּבְנֵ֤י אַהֲרֹן֙ יֹֽאכְלֶ֔נָּה חׇק־עוֹלָם֙ לְדֹרֹ֣תֵיכֶ֔ם מֵאִשֵּׁ֖י יְהֹוָ֑ה כֹּ֛ל אֲשֶׁר־יִגַּ֥ע בָּהֶ֖ם יִקְדָּֽשׁ׃ {פ}",
+      "douay_rheims": "The males only of the race of Aaron shall eat it. It shall be an ordinance everlasting in your generations concerning the sacrifices of the Lord: Every one that toucheth them shall be sanctified.",
+      "finnish_biblia": "Jokainen miehenpuoli Aaronin lapsista pitää sen syömän. Se olkoon alinomainen sääty teidän sukukunnissanne Herran tuliuhrista. Jokainen kuin niihin rupee, se pitää pyhitetty oleman. ",
       "king_james": "All the males among the children of Aaron shall eat of it. It shall be a statute for ever in your generations concerning the offerings of the Lord made by fire: every one that toucheth them shall be holy.",
       "refs": {
         "hebrew_masoretic": {
@@ -207,6 +245,8 @@
       "verse": 19,
       "latin_vulgate": "Locutusque est Dominus ad Moysen, dicens : ",
       "hebrew_masoretic": "וַיְדַבֵּ֥ר יְהֹוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃",
+      "douay_rheims": "And the Lord spoke to Moses, saying:",
+      "finnish_biblia": "Ja Herra puhui Mosekselle, sanoen: ",
       "king_james": "And the Lord spake unto Moses, saying,",
       "refs": {
         "hebrew_masoretic": {
@@ -218,6 +258,8 @@
       "verse": 20,
       "latin_vulgate": "Hæc est oblatio Aaron, et filiorum ejus, quam offerre debent Domino in die unctionis suæ. Decimam partem ephi offerent similæ in sacrificio sempiterno, medium ejus mane, et medium ejus vespere : ",
       "hebrew_masoretic": "זֶ֡ה קׇרְבַּן֩ אַהֲרֹ֨ן וּבָנָ֜יו אֲשֶׁר־יַקְרִ֣יבוּ לַֽיהֹוָ֗ה בְּיוֹם֙ הִמָּשַׁ֣ח אֹת֔וֹ עֲשִׂירִ֨ת הָאֵפָ֥ה סֹ֛לֶת מִנְחָ֖ה תָּמִ֑יד מַחֲצִיתָ֣הּ בַּבֹּ֔קֶר וּמַחֲצִיתָ֖הּ בָּעָֽרֶב׃",
+      "douay_rheims": "This is the oblation of Aaron, and of his sons, which they must offer to the Lord, in the day of their anointing. They shall offer the tenth part of an ephi of flour for a perpetual sacrifice, half of it in the morning, and half of it in the evening.",
+      "finnish_biblia": "Tämän pitää oleman Aaronin ja hänen poikainsa uhri, jonka heidän pitää uhraaman Herralle voidelluspäivänänsä: kymmenennen osan ephaa sämpyläjauhoja alinomaiseksi ruokauhriksi, puolen aamulla ja puolen ehtoolla. ",
       "king_james": "This is the offering of Aaron and of his sons, which they shall offer unto the Lord in the day when he is anointed; the tenth part of an ephah of fine flour for a meat offering perpetual, half of it in the morning, and half thereof at night.",
       "refs": {
         "hebrew_masoretic": {
@@ -229,6 +271,8 @@
       "verse": 21,
       "latin_vulgate": "quæ in sartagine oleo conspersa frigetur. Offeret autem eam calidam in odorem suavissimum Domino ",
       "hebrew_masoretic": "עַֽל־מַחֲבַ֗ת בַּשֶּׁ֛מֶן תֵּעָשֶׂ֖ה מֻרְבֶּ֣כֶת תְּבִיאֶ֑נָּה תֻּפִינֵי֙ מִנְחַ֣ת פִּתִּ֔ים תַּקְרִ֥יב רֵֽיחַ־נִיחֹ֖חַ לַיהֹוָֽה׃",
+      "douay_rheims": "It shall be tempered with oil, and shall be fried in a fryingpan.",
+      "finnish_biblia": "Pannussa sinun sen tekemän pitää öljyn kanssa, ja sen kypsettynä tuoman: ja leivottuina kappaleina sinun sen uhraaman pitää, lepytyshajuksi Herralle. ",
       "king_james": "In a pan it shall be made with oil; and when it is baken, thou shalt bring it in: and the baken pieces of the meat offering shalt thou offer for a sweet savour unto the Lord.",
       "refs": {
         "hebrew_masoretic": {
@@ -240,6 +284,8 @@
       "verse": 22,
       "latin_vulgate": "sacerdos, qui jure patri successerit, et tota cremabitur in altari. ",
       "hebrew_masoretic": "וְהַכֹּהֵ֨ן הַמָּשִׁ֧יחַ תַּחְתָּ֛יו מִבָּנָ֖יו יַעֲשֶׂ֣ה אֹתָ֑הּ חׇק־עוֹלָ֕ם לַיהֹוָ֖ה כָּלִ֥יל תׇּקְטָֽר׃",
+      "douay_rheims": "And the priest that rightfully succeedeth his father, shall offer it hot, for a most sweet odour to the Lord: and it shall he wholly burnt on the altar.",
+      "finnish_biblia": "Ja papin, joka hänen pojistansa hänen siaansa voideltu on, pitää sen tekemän. Tämä on ijankaikkinen sääty Herralle, se pitää kaikki poltettaman. ",
       "king_james": "And the priest of his sons that is anointed in his stead shall offer it: it is a statute for ever unto the Lord; it shall be wholly burnt.",
       "refs": {
         "hebrew_masoretic": {
@@ -251,6 +297,8 @@
       "verse": 23,
       "latin_vulgate": "Omne enim sacrificium sacerdotum igne consumetur, nec quisquam comedet ex eo.  ",
       "hebrew_masoretic": "וְכׇל־מִנְחַ֥ת כֹּהֵ֛ן כָּלִ֥יל תִּהְיֶ֖ה לֹ֥א תֵאָכֵֽל׃ {פ}",
+      "douay_rheims": "For every sacrifice of the priest shall be consumed with fire: neither shall any man eat thereof.",
+      "finnish_biblia": "Sillä kaikki papin ruokauhri pitää kokonansa poltettaman, ei sitä pidä syötämän. ",
       "king_james": "For every meat offering for the priest shall be wholly burnt: it shall not be eaten.",
       "refs": {
         "hebrew_masoretic": {
@@ -262,6 +310,8 @@
       "verse": 24,
       "latin_vulgate": " Locutus est autem Dominus ad Moysen, dicens : ",
       "hebrew_masoretic": "וַיְדַבֵּ֥ר יְהֹוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃",
+      "douay_rheims": "And the Lord spoke to Moses. saying:",
+      "finnish_biblia": "Ja Herra puhui Mosekselle, sanoen: ",
       "king_james": "And the Lord spake unto Moses, saying,",
       "refs": {
         "hebrew_masoretic": {
@@ -273,6 +323,8 @@
       "verse": 25,
       "latin_vulgate": "Loquere Aaron et filiis ejus : Ista est lex hostiæ pro peccato : in loco ubi offertur holocaustum, immolabitur coram Domino. Sanctum sanctorum est. ",
       "hebrew_masoretic": "דַּבֵּ֤ר אֶֽל־אַהֲרֹן֙ וְאֶל־בָּנָ֣יו לֵאמֹ֔ר זֹ֥את תּוֹרַ֖ת הַֽחַטָּ֑את בִּמְק֡וֹם אֲשֶׁר֩ תִּשָּׁחֵ֨ט הָעֹלָ֜ה תִּשָּׁחֵ֤ט הַֽחַטָּאת֙ לִפְנֵ֣י יְהֹוָ֔ה קֹ֥דֶשׁ קׇֽדָשִׁ֖ים הִֽוא׃",
+      "douay_rheims": "Say to Aaron and his sons: This is the law of the victim for sin. In the place where the holocaust is offered, it shall be immolated before the Lord. It is holy of holies.",
+      "finnish_biblia": "Puhu Aaronille ja hänen pojillensa, ja sano: tämä on rikosuhrin sääty: kussa paikassa polttouhri teurastetaan, siinä pitää myös rikosuhri teurastettaman Herran edessä, ja se on kaikkein pyhin. ",
       "king_james": "Speak unto Aaron and to his sons, saying, This is the law of the sin offering: In the place where the burnt offering is killed shall the sin offering be killed before the Lord: it is most holy.",
       "refs": {
         "hebrew_masoretic": {
@@ -284,6 +336,8 @@
       "verse": 26,
       "latin_vulgate": "Sacerdos, qui offert, comedet eam in loco sancto, in atrio tabernaculi. ",
       "hebrew_masoretic": "הַכֹּהֵ֛ן הַֽמְחַטֵּ֥א אֹתָ֖הּ יֹאכְלֶ֑נָּה בְּמָק֤וֹם קָדֹשׁ֙ תֵּֽאָכֵ֔ל בַּחֲצַ֖ר אֹ֥הֶל מוֹעֵֽד׃",
+      "douay_rheims": "The priest that offereth it, shall eat it in a holy place, in the court of the tabernacle.",
+      "finnish_biblia": "Pappi, joka rikosuhria uhraa, pitää sen syömän: pyhällä sialla sen syötämän pitää, seurakunnan majan pihalla. ",
       "king_james": "The priest that offereth it for sin shall eat it: in the holy place shall it be eaten, in the court of the tabernacle of the congregation.",
       "refs": {
         "hebrew_masoretic": {
@@ -295,6 +349,8 @@
       "verse": 27,
       "latin_vulgate": "Quidquid tetigerit carnes ejus, sanctificabitur. Si de sanguine illius vestis fuerit aspersa, lavabitur in loco sancto. ",
       "hebrew_masoretic": "כֹּ֛ל אֲשֶׁר־יִגַּ֥ע בִּבְשָׂרָ֖הּ יִקְדָּ֑שׁ וַאֲשֶׁ֨ר יִזֶּ֤ה מִדָּמָהּ֙ עַל־הַבֶּ֔גֶד אֲשֶׁר֙ יִזֶּ֣ה עָלֶ֔יהָ תְּכַבֵּ֖ס בְּמָק֥וֹם קָדֹֽשׁ׃",
+      "douay_rheims": "Whatsoever shall touch the flesh thereof, shall be sanctified. If a garment be sprinkled with the blood thereof, it shall be washed in a holy place.",
+      "finnish_biblia": "Kuka ikänänsä hänen lihaansa rupee, se pitää pyhitetty oleman, ja vaatteen, jonka päälle se veri priiskotetaan, pitää sinun pesemän pyhässä siassa. ",
       "king_james": "Whatsoever shall touch the flesh thereof shall be holy: and when there is sprinkled of the blood thereof upon any garment, thou shalt wash that whereon it was sprinkled in the holy place.",
       "refs": {
         "hebrew_masoretic": {
@@ -306,6 +362,8 @@
       "verse": 28,
       "latin_vulgate": "Vas autem fictile, in quo cocta est, confringetur ; quod si vas æneum fuerit, defricabitur, et lavabitur aqua. ",
       "hebrew_masoretic": "וּכְלִי־חֶ֛רֶשׂ אֲשֶׁ֥ר תְּבֻשַּׁל־בּ֖וֹ יִשָּׁבֵ֑ר וְאִם־בִּכְלִ֤י נְחֹ֙שֶׁת֙ בֻּשָּׁ֔לָה וּמֹרַ֥ק וְשֻׁטַּ֖ף בַּמָּֽיִם׃",
+      "douay_rheims": "And the earthen vessel, wherein it was sodden, shall be broken: but if the vessel be of brass, it shall be scoured, and washed with water.",
+      "finnish_biblia": "Ja se saviastia, jossa se keitetään, pitää rikottaman. Jos se on vaskisessa padassa keitetty, niin se pitää hivutettaman, ja vedellä virutettaman. ",
       "king_james": "But the earthen vessel wherein it is sodden shall be broken: and if it be sodden in a brasen pot, it shall be both scoured, and rinsed in water.",
       "refs": {
         "hebrew_masoretic": {
@@ -317,6 +375,8 @@
       "verse": 29,
       "latin_vulgate": "Omnis masculus de genere sacerdotali vescetur de carnibus ejus, quia Sanctum sanctorum est. ",
       "hebrew_masoretic": "כׇּל־זָכָ֥ר בַּכֹּהֲנִ֖ים יֹאכַ֣ל אֹתָ֑הּ קֹ֥דֶשׁ קׇֽדָשִׁ֖ים הִֽוא׃",
+      "douay_rheims": "Every male of the priestly race shall eat of the flesh thereof, because it is holy of holies.",
+      "finnish_biblia": "Kaikki miehenpuolet papeista pitää syömän sen; sillä se on kaikkein pyhin. ",
       "king_james": "All the males among the priests shall eat thereof: it is most holy.",
       "refs": {
         "hebrew_masoretic": {
@@ -328,6 +388,8 @@
       "verse": 30,
       "latin_vulgate": "Hostia enim quæ cæditur pro peccato, cujus sanguis infertur in tabernaculum testimonii ad expiandum in sanctuario, non comedetur, sed comburetur igni.   ",
       "hebrew_masoretic": "וְכׇל־חַטָּ֡את אֲשֶׁר֩ יוּבָ֨א מִדָּמָ֜הּ אֶל־אֹ֧הֶל מוֹעֵ֛ד לְכַפֵּ֥ר בַּקֹּ֖דֶשׁ לֹ֣א תֵאָכֵ֑ל בָּאֵ֖שׁ תִּשָּׂרֵֽף׃ {פ}",
+      "douay_rheims": "For the victim that is slain for sin, the blood of which is carried into the tabernacle of the testimony to make atonement in the sanctuary, shall not be eaten, but shall be burnt with fire. ",
+      "finnish_biblia": "Mutta kaikki se rikosuhri, jonka veri viedään seurakunnan majaan, sovinnoksi pyhään siaan, sitä ei pidä syötämän, vaan tulella poltettaman.   ",
       "king_james": "And no sin offering, whereof any of the blood is brought into the tabernacle of the congregation to reconcile withal in the holy place, shall be eaten: it shall be burnt in the fire. ",
       "refs": {
         "hebrew_masoretic": {

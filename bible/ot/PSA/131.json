@@ -2,6 +2,8 @@
   "book_id": "PSA",
   "latin_name": "Liber Psalmorum",
   "hebrew_name": "תְּהִלִּים",
+  "douay_name": "Psalms",
+  "finnish_name": "Psalmit",
   "english_name": "Psalms",
   "chapter": 131,
   "verses": [
@@ -9,9 +11,14 @@
       "verse": 1,
       "latin_vulgate": "Canticum graduum David.   Domine, non est exaltatum cor meum,  neque elati sunt oculi mei,  neque ambulavi in magnis,  neque in mirabilibus super me. ",
       "hebrew_masoretic": "שִׁ֥יר הַֽמַּעֲל֗וֹת לְדָ֫וִ֥ד יְהֹוָ֤ה ׀ לֹא־גָבַ֣הּ לִ֭בִּי וְלֹא־רָמ֣וּ עֵינַ֑י וְלֹֽא־הִלַּ֓כְתִּי ׀ בִּגְדֹל֖וֹת וּבְנִפְלָא֣וֹת מִמֶּֽנִּי׃",
+      "douay_rheims": "A gradual canticle of David. Lord, my heart is not exalted: nor are my eyes lofty. Neither have I walked in great matters, nor in wonderful things above me.",
+      "finnish_biblia": "Davidin veisu korkeimmassa Kuorissa. Herra! ei minun sydämeni ole paisunut, eikä minun silmäni ole ylpiät; enkä minä vaella suurissa asioissa, jotka minulle työläät ovat. ",
       "king_james": "Lord, my heart is not haughty, nor mine eyes lofty: neither do I exercise myself in great matters, or in things too high for me.",
       "refs": {
         "latin_vulgate": {
+          "src": "130:1"
+        },
+        "douay_rheims": {
           "src": "130:1"
         }
       }
@@ -20,9 +27,14 @@
       "verse": 2,
       "latin_vulgate": " Si non humiliter sentiebam,  sed exaltavi animam meam :  sicut ablactatus est super matre sua,  ita retributio in anima mea. ",
       "hebrew_masoretic": "אִם־לֹ֤א שִׁוִּ֨יתִי ׀ וְדוֹמַ֗מְתִּי נַ֫פְשִׁ֥י כְּ֭גָמֻל עֲלֵ֣י אִמּ֑וֹ כַּגָּמֻ֖ל עָלַ֣י נַפְשִֽׁי׃",
+      "douay_rheims": "If I was not humbly minded, but exalted my soul: As a child that is weaned is towards his mother, so reward in my soul.",
+      "finnish_biblia": "Kuin en minä sieluani asettanut ja vaikittanut, niin minun sieluni tuli vieroitetuksi, niinkuin lapsi äidistänsä vieroitetaan. ",
       "king_james": "Surely I have behaved and quieted myself, as a child that is weaned of his mother: my soul is even as a weaned child.",
       "refs": {
         "latin_vulgate": {
+          "src": "130:2"
+        },
+        "douay_rheims": {
           "src": "130:2"
         }
       }
@@ -31,9 +43,14 @@
       "verse": 3,
       "latin_vulgate": " Speret Israël in Domino,  ex hoc nunc et usque in sæculum.  ",
       "hebrew_masoretic": "יַחֵ֣ל יִ֭שְׂרָאֵל אֶל־יְהֹוָ֑ה מֵ֝עַתָּ֗ה וְעַד־עוֹלָֽם׃ {פ}",
+      "douay_rheims": "Let Israel hope in the Lord, from henceforth now and for ever. ",
+      "finnish_biblia": "Israel toivokaan Herran päälle, hamasta nyt ja ijankaikkiseen.   ",
       "king_james": "Let Israel hope in the Lord from henceforth and for ever. ",
       "refs": {
         "latin_vulgate": {
+          "src": "130:3"
+        },
+        "douay_rheims": {
           "src": "130:3"
         }
       }

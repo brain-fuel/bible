@@ -2,6 +2,8 @@
   "book_id": "ISA",
   "latin_name": "Isaias",
   "hebrew_name": "יְשַׁעְיָהוּ",
+  "douay_name": "Isaias",
+  "finnish_name": "Jesaja",
   "english_name": "Isaiah",
   "chapter": 62,
   "verses": [
@@ -9,72 +11,96 @@
       "verse": 1,
       "latin_vulgate": "Propter Sion non tacebo,  et propter Jerusalem non quiescam,  donec egrediatur ut splendor justus ejus,  et salvator ejus ut lampas accendatur. ",
       "hebrew_masoretic": "לְמַ֤עַן צִיּוֹן֙ לֹ֣א אֶחֱשֶׁ֔ה וּלְמַ֥עַן יְרוּשָׁלַ֖͏ִם לֹ֣א אֶשְׁק֑וֹט עַד־יֵצֵ֤א כַנֹּ֙גַהּ֙ צִדְקָ֔הּ וִישׁוּעָתָ֖הּ כְּלַפִּ֥יד יִבְעָֽר׃",
+      "douay_rheims": "For Sion's sake I will not hold my peace, and for the sake of Jerusalem, I will not rest till her just one come forth as brightness, and her saviour be lighted as a lamp.",
+      "finnish_biblia": "Zionin tähden en minä vaikene, ja Jerusalemin tähden en minä lakkaa, siihenasti että hänen vanhurskautensa koittaa niinkuin paiste, ja hänen autuutensa palaa niinkuin tulisoitto. ",
       "king_james": "For Zion’s sake will I not hold my peace, and for Jerusalem’s sake I will not rest, until the righteousness thereof go forth as brightness, and the salvation thereof as a lamp that burneth."
     },
     {
       "verse": 2,
       "latin_vulgate": " Et videbunt gentes justum tuum,  et cuncti reges inclytum tuum ;  et vocabitur tibi nomen novum,  quod os Domini nominabit. ",
       "hebrew_masoretic": "וְרָא֤וּ גוֹיִם֙ צִדְקֵ֔ךְ וְכׇל־מְלָכִ֖ים כְּבוֹדֵ֑ךְ וְקֹ֤רָא לָךְ֙ שֵׁ֣ם חָדָ֔שׁ אֲשֶׁ֛ר פִּ֥י יְהֹוָ֖ה יִקֳּבֶֽנּוּ׃",
+      "douay_rheims": "And the Gentiles shall see thy just one, and all kings thy glorious one: and thou shalt be called by a new name, which the mouth of the Lord shall name.",
+      "finnish_biblia": "Että pakanatkin näkisivät sinun vanhurskautes, ja kaikki kuninkaat sinun kunnias. Ja sinä nimitetään uudella nimellä, jonka Herran suu on nimittävä. ",
       "king_james": "And the Gentiles shall see thy righteousness, and all kings thy glory: and thou shalt be called by a new name, which the mouth of the Lord shall name."
     },
     {
       "verse": 3,
       "latin_vulgate": " Et eris corona gloriæ in manu Domini,  et diadema regni in manu Dei tui. ",
       "hebrew_masoretic": "וְהָיִ֛ית עֲטֶ֥רֶת תִּפְאֶ֖רֶת בְּיַד־יְהֹוָ֑ה (וצנוף) [וּצְנִ֥יף] מְלוּכָ֖ה בְּכַף־אֱלֹהָֽיִךְ׃",
+      "douay_rheims": "And thou shalt be a crown of glory in the hand of the Lord, and a royal diadem in the hand of thy God.",
+      "finnish_biblia": "Ja sinun pitää oleman kunnian kruunu Herran kädessä, ja kuninkaan hiippa sinun Jumalas kädessä. ",
       "king_james": "Thou shalt also be a crown of glory in the hand of the Lord, and a royal diadem in the hand of thy God."
     },
     {
       "verse": 4,
       "latin_vulgate": " Non vocaberis ultra Derelicta,  et terra tua non vocabitur amplius Desolata ;  sed vocaberis, Voluntas mea in ea,  et terra tua Inhabitata,  quia complacuit Domino in te,  et terra tua inhabitabitur. ",
       "hebrew_masoretic": "לֹא־יֵאָמֵר֩ לָ֨ךְ ע֜וֹד עֲזוּבָ֗ה וּלְאַרְצֵךְ֙ לֹא־יֵאָמֵ֥ר עוֹד֙ שְׁמָמָ֔ה כִּ֣י לָ֗ךְ יִקָּרֵא֙ חֶפְצִי־בָ֔הּ וּלְאַרְצֵ֖ךְ בְּעוּלָ֑ה כִּֽי־חָפֵ֤ץ יְהֹוָה֙ בָּ֔ךְ וְאַרְצֵ֖ךְ תִּבָּעֵֽל׃",
+      "douay_rheims": "Thou shalt no more be called Forsaken: and thy land shall no more be called Desolate: but thou shalt be called My pleasure in her, and thy land inhabited. Because the Lord hath been well pleased with thee: and thy land shall be inhabited.",
+      "finnish_biblia": "Et sinä enään kutsuta hyljätyksi, eikä sinun maatas enää sanota hävitetyksi, vaan sinä kutsutaan: minun suosioni on hänessä, ja sinun maas asuttavaksi; sillä Herra on mielistynyt sinuun, ja sinun maallas asutaan. ",
       "king_james": "Thou shalt no more be termed Forsaken; neither shall thy land any more be termed Desolate: but thou shalt be called Hephzi–bah, and thy land Beulah: for the Lord delighteth in thee, and thy land shall be married."
     },
     {
       "verse": 5,
       "latin_vulgate": " Habitabit enim juvenis cum virgine,  et habitabunt in te filii tui ;  et gaudebit sponsus super sponsam,  et gaudebit super te Deus tuus. ",
       "hebrew_masoretic": "כִּֽי־יִבְעַ֤ל בָּחוּר֙ בְּתוּלָ֔ה יִבְעָל֖וּךְ בָּנָ֑יִךְ וּמְשׂ֤וֹשׂ חָתָן֙ עַל־כַּלָּ֔ה יָשִׂ֥ישׂ עָלַ֖יִךְ אֱלֹהָֽיִךְ׃",
+      "douay_rheims": "For the young man shall dwell with the virgin, and thy children shall dwell in thee. And the bridegroom shall rejoice over the bride, and thy God shall rejoice over thee.",
+      "finnish_biblia": "Sillä niinkuin nuorukainen rakastaa neitsyttä, niin sinun lapses pitää sinua rakastaman; ja niinkuin ylkä iloitsee morsiamestansa, niin myös sinun Jumalas iloitsee sinusta. ",
       "king_james": "For as a young man marrieth a virgin, so shall thy sons marry thee: and as the bridegroom rejoiceth over the bride, so shall thy God rejoice over thee."
     },
     {
       "verse": 6,
       "latin_vulgate": " Super muros tuos, Jerusalem, constitui custodes ;  tota die et tota nocte  in perpetuum non tacebunt.  Qui reminiscimini Domini, ne taceatis, ",
       "hebrew_masoretic": "עַל־חוֹמֹתַ֣יִךְ יְרוּשָׁלַ֗͏ִם הִפְקַ֙דְתִּי֙ שֹֽׁמְרִ֔ים כׇּל־הַיּ֧וֹם וְכׇל־הַלַּ֛יְלָה תָּמִ֖יד לֹ֣א יֶחֱשׁ֑וּ הַמַּזְכִּרִים֙ אֶת־יְהֹוָ֔ה אַל־דֳּמִ֖י לָכֶֽם׃",
+      "douay_rheims": "Upon thy walls, O Jerusalem, I have appointed watchmen all the day, and all the night, they shall never hold their peace. You that are mindful of the Lord, hold not your peace,",
+      "finnish_biblia": "Jerusalem, minä asetan vartiat muuris päälle, jotka ei ikänä päivällä eikä yöllä vaikene; ja jotka Herran muistatte, ei teidän pidä vaiti oleman. ",
       "king_james": "I have set watchmen upon thy walls, O Jerusalem, which shall never hold their peace day nor night: ye that make mention of the Lord, keep not silence,"
     },
     {
       "verse": 7,
       "latin_vulgate": " et ne detis silentium ei,  donec stabiliat et donec ponat Jerusalem  laudem in terra. ",
       "hebrew_masoretic": "וְאַֽל־תִּתְּנ֥וּ דֳמִ֖י ל֑וֹ עַד־יְכוֹנֵ֞ן וְעַד־יָשִׂ֧ים אֶת־יְרוּשָׁלַ֛͏ִם תְּהִלָּ֖ה בָּאָֽרֶץ׃",
+      "douay_rheims": "And give him no silence till he establish, and till he make Jerusalem a praise in the earth.",
+      "finnish_biblia": "Ja ei teidän pidä hänestä vaikeneman, siihenasti että hän sen vahvistaa, ja asettaa Jerusalemin maan päälle kiitokseksi. ",
       "king_james": "And give him no rest, till he establish, and till he make Jerusalem a praise in the earth."
     },
     {
       "verse": 8,
       "latin_vulgate": " Juravit Dominus in dextera sua,  et in brachio fortitudinis suæ :  Si dedero triticum tuum ultra  cibum inimicis tuis ;  et si biberint filii alieni vinum tuum  in quo laborasti. ",
       "hebrew_masoretic": "נִשְׁבַּ֧ע יְהֹוָ֛ה בִּימִינ֖וֹ וּבִזְר֣וֹעַ עֻזּ֑וֹ אִם־אֶתֵּן֩ אֶת־דְּגָנֵ֨ךְ ע֤וֹד מַֽאֲכָל֙ לְאֹ֣יְבַ֔יִךְ וְאִם־יִשְׁתּ֤וּ בְנֵֽי־נֵכָר֙ תִּֽירוֹשֵׁ֔ךְ אֲשֶׁ֥ר יָגַ֖עַתְּ בּֽוֹ׃",
+      "douay_rheims": "The Lord hath sworn by his right hand, and by the arm of his strength: Surely I will no more give thy corn to be meat for thy enemies: and the sons of the strangers shall not drink thy wine, for which thou hast laboured.",
+      "finnish_biblia": "Herra vannoo oikian kätensä kautta, ja voimansa käsivarren kautta: en minä tahdo enään antaa jyviäs vihollistes syödä, enkä viinaas, jonka tähden sinä työtä teit, muukalaisten juoda; ",
       "king_james": "The Lord hath sworn by his right hand, and by the arm of his strength, Surely I will no more give thy corn to be meat for thine enemies; and the sons of the stranger shall not drink thy wine, for the which thou hast laboured:"
     },
     {
       "verse": 9,
       "latin_vulgate": " Quia qui congregant illud, comedent,  et laudabunt Dominum ;  et qui comportant illud, bibent  in atriis sanctis meis. ",
       "hebrew_masoretic": "כִּ֤י מְאַסְפָיו֙ יֹאכְלֻ֔הוּ וְהִֽלְל֖וּ אֶת־יְהֹוָ֑ה וּמְקַבְּצָ֥יו יִשְׁתֻּ֖הוּ בְּחַצְר֥וֹת קׇדְשִֽׁי׃ {ס}",
+      "douay_rheims": "For they that gather it, shall eat it, and shall praise the Lord: and they that bring it together, shall drink it in my holy courts.",
+      "finnish_biblia": "Vaan jotka sen kokoovat, syövät sitä ja kiittävät Herraa; ja jotka sitä kokoovat, juovat sitä minun pyhyyteni esihuoneissa. ",
       "king_james": "But they that have gathered it shall eat it, and praise the Lord; and they that have brought it together shall drink it in the courts of my holiness."
     },
     {
       "verse": 10,
       "latin_vulgate": " Transite, transite per portas,  præparate viam populo :  planum facite iter, eligite lapides,  et elevate signum ad populos. ",
       "hebrew_masoretic": "עִבְר֤וּ עִבְרוּ֙ בַּשְּׁעָרִ֔ים פַּנּ֖וּ דֶּ֣רֶךְ הָעָ֑ם סֹ֣לּוּ סֹ֤לּוּ הַֽמְסִלָּה֙ סַקְּל֣וּ מֵאֶ֔בֶן הָרִ֥ימוּ נֵ֖ס עַל־הָעַמִּֽים׃",
+      "douay_rheims": "Go through, go through the gates, prepare the way for the people, make the road plain, pick out the stones, and lift up the standard to the people.",
+      "finnish_biblia": "Menkäät, menkäät porttein kautta, peratkaat tietä kansalle: silittäkäät, silittäkäät polut, siirtäkäät kivet pois, ylentäkäät lippu kansain päälle. ",
       "king_james": "Go through, go through the gates; prepare ye the way of the people; cast up, cast up the highway; gather out the stones; lift up a standard for the people."
     },
     {
       "verse": 11,
       "latin_vulgate": " Ecce Dominus auditum fecit  in extremis terræ :  Dicite filiæ Sion :  Ecce Salvator tuus venit ;  ecce merces ejus cum eo,  et opus ejus coram illo. ",
       "hebrew_masoretic": "הִנֵּ֣ה יְהֹוָ֗ה הִשְׁמִ֙יעַ֙ אֶל־קְצֵ֣ה הָאָ֔רֶץ אִמְרוּ֙ לְבַת־צִיּ֔וֹן הִנֵּ֥ה יִשְׁעֵ֖ךְ בָּ֑א הִנֵּ֤ה שְׂכָרוֹ֙ אִתּ֔וֹ וּפְעֻלָּת֖וֹ לְפָנָֽיו׃",
+      "douay_rheims": "Behold the Lord hath made it to be heard in the ends of the earth, tell the daughter of Sion: Behold thy Saviour cometh: behold his reward is with him, and his work before him.",
+      "finnish_biblia": "Katso, Herra antaa sen kuulua hamaan maailman ääriin asti: sanokaat Zionin tyttärelle: katso, sinun autuutes tulee, katso, hänen palkkansa on hänen myötänsä, ja hänen työnsä hänen edessänsä. ",
       "king_james": "Behold, the Lord hath proclaimed unto the end of the world, Say ye to the daughter of Zion, Behold, thy salvation cometh; behold, his reward is with him, and his work before him."
     },
     {
       "verse": 12,
       "latin_vulgate": " Et vocabunt eos, Populus sanctus,  redempti a Domino ;  tu autem vocaberis, Quæsita civitas,  et non Derelicta.  ",
       "hebrew_masoretic": "וְקָרְא֥וּ לָהֶ֛ם עַם־הַקֹּ֖דֶשׁ גְּאוּלֵ֣י יְהֹוָ֑ה וְלָךְ֙ יִקָּרֵ֣א דְרוּשָׁ֔ה עִ֖יר לֹ֥א נֶעֱזָֽבָה׃ {ס}",
+      "douay_rheims": "And they shall call them, The holy people, the redeemed of the Lord. But thou shalt be called: A city sought after, and not forsaken. ",
+      "finnish_biblia": "Ja he pitää kutsuttaman pyhäksi kansaksi, Herran lunastetuiksi; ja sinä kutsutaan etsityksi ja ei hyljätyksi kaupungiksi.   ",
       "king_james": "And they shall call them, The holy people, The redeemed of the Lord: and thou shalt be called, Sought out, A city not forsaken. "
     }
   ]

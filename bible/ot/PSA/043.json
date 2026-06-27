@@ -2,6 +2,8 @@
   "book_id": "PSA",
   "latin_name": "Liber Psalmorum",
   "hebrew_name": "תְּהִלִּים",
+  "douay_name": "Psalms",
+  "finnish_name": "Psalmit",
   "english_name": "Psalms",
   "chapter": 43,
   "verses": [
@@ -9,9 +11,14 @@
       "verse": 1,
       "latin_vulgate": "Psalmus David.   Judica me, Deus, et discerne causam meam de gente non sancta :  ab homine iniquo et doloso erue me. ",
       "hebrew_masoretic": "שׇׁפְטֵ֤נִי אֱלֹהִ֨ים ׀ וְרִ֘יבָ֤ה רִיבִ֗י מִגּ֥וֹי לֹֽא־חָסִ֑יד מֵ֤אִישׁ־מִרְמָ֖ה וְעַוְלָ֣ה תְפַלְּטֵֽנִי׃",
+      "douay_rheims": "A psalm for David. Judge me, O God, and distinguish my cause from the nation that is not holy: deliver me from the unjust and deceitful man.",
+      "finnish_biblia": "Tuomitse minua, Jumala, ja ratkaise minun asiani armotointa kansaa vastaan, ja päästä minua kavaloista ja vääristä ihmisistä. ",
       "king_james": "Judge me, O God, and plead my cause against an ungodly nation: O deliver me from the deceitful and unjust man.",
       "refs": {
         "latin_vulgate": {
+          "src": "42:1"
+        },
+        "douay_rheims": {
           "src": "42:1"
         }
       }
@@ -20,9 +27,14 @@
       "verse": 2,
       "latin_vulgate": " Quia tu es, Deus, fortitudo mea : quare me repulisti ?  et quare tristis incedo, dum affligit me inimicus ? ",
       "hebrew_masoretic": "כִּי־אַתָּ֤ה ׀ אֱלֹהֵ֣י מָעוּזִּי֮ לָמָ֢ה זְנַ֫חְתָּ֥נִי לָֽמָּה־קֹדֵ֥ר אֶתְהַלֵּ֗ךְ בְּלַ֣חַץ אוֹיֵֽב׃",
+      "douay_rheims": "For thou art God my strength: why hast thou cast me off? and why do I go sorrowful whilst the enemy afflicteth me?",
+      "finnish_biblia": "Sillä sinä olet minun väkevyyteni Jumala, miksis syökset minun pois? miksis minun annat murheissani käydä, koska vihollinen minua ahdistaa? ",
       "king_james": "For thou art the God of my strength: why dost thou cast me off? why go I mourning because of the oppression of the enemy?",
       "refs": {
         "latin_vulgate": {
+          "src": "42:2"
+        },
+        "douay_rheims": {
           "src": "42:2"
         }
       }
@@ -31,9 +43,14 @@
       "verse": 3,
       "latin_vulgate": " Emitte lucem tuam et veritatem tuam :  ipsa me deduxerunt, et adduxerunt  in montem sanctum tuum, et in tabernacula tua. ",
       "hebrew_masoretic": "שְׁלַח־אוֹרְךָ֣ וַ֭אֲמִתְּךָ הֵ֣מָּה יַנְח֑וּנִי יְבִיא֥וּנִי אֶל־הַֽר־קׇ֝דְשְׁךָ֗ וְאֶל־מִשְׁכְּנוֹתֶֽיךָ׃",
+      "douay_rheims": "Sent forth thy light and thy truth: they have conducted me, and brought me unto thy holy hill, and into thy tabernacles.",
+      "finnish_biblia": "Lähetä valkeutes ja totuutes minua saattamaan, ja tuomaan sinun pyhän vuores tykö ja sinun asumises tykö. ",
       "king_james": "O send out thy light and thy truth: let them lead me; let them bring me unto thy holy hill, and to thy tabernacles.",
       "refs": {
         "latin_vulgate": {
+          "src": "42:3"
+        },
+        "douay_rheims": {
           "src": "42:3"
         }
       }
@@ -42,9 +59,14 @@
       "verse": 4,
       "latin_vulgate": " Et introibo ad altare Dei,  ad Deum qui lætificat juventutem meam.  Confitebor tibi in cithara, Deus, Deus meus. ",
       "hebrew_masoretic": "וְאָב֤וֹאָה ׀ אֶל־מִזְבַּ֬ח אֱלֹהִ֗ים אֶל־אֵל֮ שִׂמְחַ֢ת גִּ֫ילִ֥י וְאוֹדְךָ֥ בְכִנּ֗וֹר אֱלֹהִ֥ים אֱלֹהָֽי׃",
+      "douay_rheims": "And I will go in to the altar of God: to God who giveth joy to my youth.",
+      "finnish_biblia": "Ja minä kävisin sisälle Jumalan alttarin tykö, sen Jumalan tykö, joka minun iloni ja riemuni on, ja kiittäisin sinua kanteleilla, Jumalani, minun Jumalani. ",
       "king_james": "Then will I go unto the altar of God, unto God my exceeding joy: yea, upon the harp will I praise thee, O God my God.",
       "refs": {
         "latin_vulgate": {
+          "src": "42:4"
+        },
+        "douay_rheims": {
           "src": "42:4"
         }
       }
@@ -53,9 +75,14 @@
       "verse": 5,
       "latin_vulgate": " Quare tristis es, anima mea ?  et quare conturbas me ?  Spera in Deo, quoniam adhuc confitebor illi,  salutare vultus mei, et Deus meus.  ",
       "hebrew_masoretic": "מַה־תִּשְׁתּ֬וֹחֲחִ֨י ׀ נַפְשִׁי֮ וּֽמַה־תֶּהֱמִ֢י עָ֫לָ֥י הוֹחִ֣ילִי לֵ֭אלֹהִים כִּי־ע֣וֹד אוֹדֶ֑נּוּ יְשׁוּעֹ֥ת פָּ֝נַ֗י וֵאלֹהָֽי׃ {פ}",
+      "douay_rheims": "To thee, O God my God, I will give praise upon the harp: why art thou sad, O my soul? and why dost thou disquiet me?",
+      "finnish_biblia": "Mitäs murehdit, sieluni, ja olet minussa niin levotoin? Turvaa Jumalaan; sillä minä vielä nytkin häntä kiitän, että hän on minun kasvoini apu ja minun Jumalani.   ",
       "king_james": "Why art thou cast down, O my soul? and why art thou disquieted within me? hope in God: for I shall yet praise him, who is the health of my countenance, and my God. ",
       "refs": {
         "latin_vulgate": {
+          "src": "42:5"
+        },
+        "douay_rheims": {
           "src": "42:5"
         }
       }

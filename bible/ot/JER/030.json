@@ -2,6 +2,8 @@
   "book_id": "JER",
   "latin_name": "Ieremias",
   "hebrew_name": "יִרְמְיָהוּ",
+  "douay_name": "Jeremias",
+  "finnish_name": "Jeremia",
   "english_name": "Jeremiah",
   "chapter": 30,
   "verses": [
@@ -9,144 +11,192 @@
       "verse": 1,
       "latin_vulgate": "Hoc verbum quod factum est ad Jeremiam a Domino, dicens : ",
       "hebrew_masoretic": "הַדָּבָר֙ אֲשֶׁ֣ר הָיָ֣ה אֶֽל־יִרְמְיָ֔הוּ מֵאֵ֥ת יְהֹוָ֖ה לֵאמֹֽר׃",
+      "douay_rheims": "This is the word that came to Jeremiah from the Lord, saying:",
+      "finnish_biblia": "Tämä on se sana, joka tapahtui Herralta Jeremialle, sanoen: ",
       "king_james": "The word that came to Jeremiah from the Lord, saying,"
     },
     {
       "verse": 2,
       "latin_vulgate": "Hæc dicit Dominus Deus Israël, dicens : Scribe tibi omnia verba quæ locutus sum ad te, in libro. ",
       "hebrew_masoretic": "כֹּֽה־אָמַ֧ר יְהֹוָ֛ה אֱלֹהֵ֥י יִשְׂרָאֵ֖ל לֵאמֹ֑ר כְּתׇב־לְךָ֗ אֵ֧ת כׇּל־הַדְּבָרִ֛ים אֲשֶׁר־דִּבַּ֥רְתִּי אֵלֶ֖יךָ אֶל־סֵֽפֶר׃",
+      "douay_rheims": "Thus saith the Lord, the God of Israel, saying: Write thee all the words that I have spoken to thee, in a book.",
+      "finnish_biblia": "Näin sanoo Herra Israelin Jumala, sanoen: kirjoita itselles kirjaan kaikki ne sanat, jotka minä puhun sinulle. ",
       "king_james": "Thus speaketh the Lord God of Israel, saying, Write thee all the words that I have spoken unto thee in a book."
     },
     {
       "verse": 3,
       "latin_vulgate": "Ecce enim dies veniunt, dicit Dominus, et convertam conversionem populi mei Israël et Juda, ait Dominus : et convertam eos ad terram quam dedi patribus eorum, et possidebunt eam. ",
       "hebrew_masoretic": "כִּ֠י הִנֵּ֨ה יָמִ֤ים בָּאִים֙ נְאֻם־יְהֹוָ֔ה וְ֠שַׁבְתִּ֠י אֶת־שְׁב֨וּת עַמִּ֧י יִשְׂרָאֵ֛ל וִֽיהוּדָ֖ה אָמַ֣ר יְהֹוָ֑ה וַהֲשִׁבֹתִ֗ים אֶל־הָאָ֛רֶץ אֲשֶׁר־נָתַ֥תִּי לַאֲבוֹתָ֖ם וִֽירֵשֽׁוּהָ׃ {פ}",
+      "douay_rheims": "For behold the days come, saith the Lord, and I will bring again the captivity of my people Israel and Juda, saith the Lord: and I will cause them to return to the land which I gave to their fathers, and they shall possess it.",
+      "finnish_biblia": "Sillä katso, se aika tulee, sanoo Herra, että minä tahdon kääntää kansani vankiuden, sekä Israelin että Juudan, sanoo Herra, ja annan heidän tulla jälleen siihen maahan, jonka minä heidän isillensä antanut olen, että he sen omistaman pitää. ",
       "king_james": "For, lo, the days come, saith the Lord, that I will bring again the captivity of my people Israel and Judah, saith the Lord: and I will cause them to return to the land that I gave to their fathers, and they shall possess it."
     },
     {
       "verse": 4,
       "latin_vulgate": "Et hæc verba quæ locutus est Dominus ad Israël et ad Judam :  ",
       "hebrew_masoretic": "וְאֵ֣לֶּה הַדְּבָרִ֗ים אֲשֶׁ֨ר דִּבֶּ֧ר יְהֹוָ֛ה אֶל־יִשְׂרָאֵ֖ל וְאֶל־יְהוּדָֽה׃",
+      "douay_rheims": "And these are the words that the Lord hath spoken to Israel and to Juda:",
+      "finnish_biblia": "Ja nämät ovat ne sanat, jotka Herra puhui Israelista ja Juudasta. ",
       "king_james": "And these are the words that the Lord spake concerning Israel and concerning Judah."
     },
     {
       "verse": 5,
       "latin_vulgate": "  Quoniam hæc dicit Dominus :  Vocem terroris audivimus :  formido, et non est pax. ",
       "hebrew_masoretic": "כִּי־כֹה֙ אָמַ֣ר יְהֹוָ֔ה ק֥וֹל חֲרָדָ֖ה שָׁמָ֑עְנוּ פַּ֖חַד וְאֵ֥ין שָׁלֽוֹם׃",
+      "douay_rheims": "For thus saith the Lord: We have heard a voice of terror: there is fear and no peace.",
+      "finnish_biblia": "Sillä näin sanoo Herra: me kuulemme pelvon äänen, siellä on sula pelko ja ei yhtään rauhaa. ",
       "king_james": "For thus saith the Lord; We have heard a voice of trembling, of fear, and not of peace."
     },
     {
       "verse": 6,
       "latin_vulgate": " Interrogate, et videte si generat masculus :  quare ergo vidi omnis viri manum  super lumbum suum, quasi parturientis,  et conversæ sunt universæ facies in auruginem ? ",
       "hebrew_masoretic": "שַׁאֲלוּ־נָ֣א וּרְא֔וּ אִם־יֹלֵ֖ד זָכָ֑ר מַדּ֩וּעַ֩ רָאִ֨יתִי כׇל־גֶּ֜בֶר יָדָ֤יו עַל־חֲלָצָיו֙ כַּיּ֣וֹלֵדָ֔ה וְנֶהֶפְכ֥וּ כׇל־פָּנִ֖ים לְיֵרָקֽוֹן׃",
+      "douay_rheims": "Ask ye, and see if a man bear children? why then have I seen every man with his hands on his loins, like a woman in labour, and all faces are turned yellow?",
+      "finnish_biblia": "Kysykäät nyt ja katsokaat, taitaako miehenpuoli synnyttää? Kuinkasta siis minä näen kaikkein miesten kädet lanteissansa niinkuin lapsensynnyttäjän, ja että kaikki kasvot ovat niin valjut? ",
       "king_james": "Ask ye now, and see whether a man doth travail with child? wherefore do I see every man with his hands on his loins, as a woman in travail, and all faces are turned into paleness?"
     },
     {
       "verse": 7,
       "latin_vulgate": " Væ ! quia magna dies illa,  nec est similis ejus :  tempusque tribulationis est Jacob,  et ex ipso salvabitur. ",
       "hebrew_masoretic": "ה֗וֹי כִּ֥י גָד֛וֹל הַיּ֥וֹם הַה֖וּא מֵאַ֣יִן כָּמֹ֑הוּ וְעֵֽת־צָרָ֥ה הִיא֙ לְיַֽעֲקֹ֔ב וּמִמֶּ֖נָּה יִוָּשֵֽׁעַ׃",
+      "douay_rheims": "Alas, for that day is great, neither is there the like to it; and it is the time of tribulation to Jacob, but he shall be saved out of it.",
+      "finnish_biblia": "Voi! se on suuri päivä, ja ei ole senkaltaista ollut; ja murheen aika on Jakobissa, kuitenkin pitää heitä siitä autettaman. ",
       "king_james": "Alas! for that day is great, so that none is like it: it is even the time of Jacob’s trouble; but he shall be saved out of it."
     },
     {
       "verse": 8,
       "latin_vulgate": " Et erit in die illa, ait Dominus exercituum :  conteram jugum ejus de collo tuo,  et vincula ejus dirumpam,  et non dominabuntur ei amplius alieni : ",
       "hebrew_masoretic": "וְהָיָה֩ בַיּ֨וֹם הַה֜וּא נְאֻ֣ם ׀ יְהֹוָ֣ה צְבָא֗וֹת אֶשְׁבֹּ֤ר עֻלּוֹ֙ מֵעַ֣ל צַוָּארֶ֔ךָ וּמוֹסְרוֹתֶ֖יךָ אֲנַתֵּ֑ק וְלֹא־יַעַבְדוּ־ב֥וֹ ע֖וֹד זָרִֽים׃",
+      "douay_rheims": "And it shall come to pass in that day, saith the Lord of hosts, that I will break his yoke from off thy neck, and will burst his bands: and strangers shall no more rule over him:",
+      "finnish_biblia": "Mutta sen pitää tapahtuman siihen aikaan, sanoo Herra Zebaot, että minä taitan hänen ikeensä rikki kaulastas, ja repäisen sinun sitees, niin ettei heidän enään siellä pidä muukalaisia palveleman; ",
       "king_james": "For it shall come to pass in that day, saith the Lord of hosts, that I will break his yoke from off thy neck, and will burst thy bonds, and strangers shall no more serve themselves of him:"
     },
     {
       "verse": 9,
       "latin_vulgate": " sed servient Domino Deo suo,  et David regi suo,  quem suscitabo eis. ",
       "hebrew_masoretic": "וְעָ֣בְד֔וּ אֵ֖ת יְהֹוָ֣ה אֱלֹֽהֵיהֶ֑ם וְאֵת֙ דָּוִ֣ד מַלְכָּ֔ם אֲשֶׁ֥ר אָקִ֖ים לָהֶֽם׃ {ס}",
+      "douay_rheims": "But they shall serve the Lord their God, and David their king, whom I will raise up to them.",
+      "finnish_biblia": "Vaan heidän pitää palveleman Herraa Jumalaansa ja Davidia kuningastansa, jonka minä heille herättänyt olen. ",
       "king_james": "But they shall serve the Lord their God, and David their king, whom I will raise up unto them."
     },
     {
       "verse": 10,
       "latin_vulgate": " Tu ergo ne timeas, serve meus Jacob, ait Dominus,  neque paveas, Israël :  quia ecce ego salvabo te de terra longinqua,  et semen tuum de terra captivitatis eorum :  et revertetur Jacob, et quiescet,  et cunctis affluet bonis, et non erit quem formidet : ",
       "hebrew_masoretic": "וְאַתָּ֡ה אַל־תִּירָא֩ עַבְדִּ֨י יַעֲקֹ֤ב נְאֻם־יְהֹוָה֙ וְאַל־תֵּחַ֣ת יִשְׂרָאֵ֔ל כִּ֠י הִנְנִ֤י מוֹשִֽׁיעֲךָ֙ מֵֽרָח֔וֹק וְאֶֽת־זַרְעֲךָ֖ מֵאֶ֣רֶץ שִׁבְיָ֑ם וְשָׁ֧ב יַעֲקֹ֛ב וְשָׁקַ֥ט וְשַׁאֲנַ֖ן וְאֵ֥ין מַחֲרִֽיד׃",
+      "douay_rheims": "Therefore fear thou not, my servant Jacob, saith the Lord, neither be dismayed, O Israel: for behold, I will save thee from a country afar off, and thy seed from the land of their captivity: and Jacob shall return, and be at rest, and abound with all good things, and there shall be none whom he may fear:",
+      "finnish_biblia": "Sentähden älä pelkää palveliani Jakob, sanoo Herra, ja Israel älä hämmästy! sillä katso, minä tahdon auttaa sinua kaukaa, ja sinun siementäs vankiutensa maasta, niin että Jakobin pitää tuleman jällensä, elämän rauhassa ja oleman hyvässä levossa, ja ei kenenkään pidä häntä peljättämän. ",
       "king_james": "Therefore fear thou not, O my servant Jacob, saith the Lord; neither be dismayed, O Israel: for, lo, I will save thee from afar, and thy seed from the land of their captivity; and Jacob shall return, and shall be in rest, and be quiet, and none shall make him afraid."
     },
     {
       "verse": 11,
       "latin_vulgate": " quoniam tecum ego sum, ait Dominus, ut salvem te.  Faciam enim consummationem in cunctis gentibus  in quibus dispersi te :  te autem non faciam in consummationem :  sed castigabo te in judicio,  ut non videaris tibi innoxius. ",
       "hebrew_masoretic": "כִּֽי־אִתְּךָ֥ אֲנִ֛י נְאֻם־יְהֹוָ֖ה לְהֽוֹשִׁיעֶ֑ךָ כִּי֩ אֶעֱשֶׂ֨ה כָלָ֜ה בְּכׇֽל־הַגּוֹיִ֣ם ׀ אֲשֶׁ֧ר הֲפִצוֹתִ֣יךָ שָּׁ֗ם אַ֤ךְ אֹֽתְךָ֙ לֹֽא־אֶעֱשֶׂ֣ה כָלָ֔ה וְיִסַּרְתִּ֙יךָ֙ לַמִּשְׁפָּ֔ט וְנַקֵּ֖ה לֹ֥א אֲנַקֶּֽךָּ׃ {ס}",
+      "douay_rheims": "For I am with thee, saith the Lord, to save thee: for I will utterly consume all the nations, among which I have scattered thee: but I will not utterly consume thee: but I will chastise thee in judgment, that thou mayst not seem to thyself innocent.",
+      "finnish_biblia": "Sillä minä olen sinun tykönäs, sanoo Herra, auttamassa sinua; ja teloitan kaikki pakanat, joihin minä olen sinut hajoittanut; mutta en minä sinua lopeta, vaan tahdon sinua kurittaa kohtuudella, ja en tahdo sinua peräti viattomana pitää. ",
       "king_james": "For I am with thee, saith the Lord, to save thee: though I make a full end of all nations whither I have scattered thee, yet will I not make a full end of thee: but I will correct thee in measure, and will not leave thee altogether unpunished."
     },
     {
       "verse": 12,
       "latin_vulgate": " Quia hæc dicit Dominus :  Insanabilis fractura tua ;  pessima plaga tua : ",
       "hebrew_masoretic": "כִּ֣י כֹ֥ה אָמַ֛ר יְהֹוָ֖ה אָנ֣וּשׁ לְשִׁבְרֵ֑ךְ נַחְלָ֖ה מַכָּתֵֽךְ׃",
+      "douay_rheims": "For thus saith the Lord: Thy bruise is incurable, thy wound is very grievous.",
+      "finnish_biblia": "Sillä näin sanoo Herra: sinun haavas on kuoleman haava, ja sinun kipus juuri paha. ",
       "king_james": "For thus saith the Lord, Thy bruise is incurable, and thy wound is grievous."
     },
     {
       "verse": 13,
       "latin_vulgate": " non est qui judicet judicium tuum ad alligandum :  curationum utilitas non est tibi. ",
       "hebrew_masoretic": "אֵֽין־דָּ֥ן דִּינֵ֖ךְ לְמָז֑וֹר רְפֻא֥וֹת תְּעָלָ֖ה אֵ֥ין לָֽךְ׃",
+      "douay_rheims": "There is none to judge thy judgment to bind it up: thou hast no healing medicines.",
+      "finnish_biblia": "Ei toimita kenkään sinun asias sortajaa vastaan; ei kenkään taida sinua parantaa. ",
       "king_james": "There is none to plead thy cause, that thou mayest be bound up: thou hast no healing medicines."
     },
     {
       "verse": 14,
       "latin_vulgate": " Omnes amatores tui obliti sunt tui,  teque non quærent :  plaga enim inimici percussi te castigatione crudeli :  propter multitudinem iniquitatis tuæ dura facta sunt peccata tua. ",
       "hebrew_masoretic": "כׇּל־מְאַהֲבַ֣יִךְ שְׁכֵח֔וּךְ אוֹתָ֖ךְ לֹ֣א יִדְרֹ֑שׁוּ כִּי֩ מַכַּ֨ת אוֹיֵ֤ב הִכִּיתִיךְ֙ מוּסַ֣ר אַכְזָרִ֔י עַ֚ל רֹ֣ב עֲוֺנֵ֔ךְ עָצְמ֖וּ חַטֹּאתָֽיִךְ׃",
+      "douay_rheims": "All thy lovers have forgotten thee, and will not seek after thee: for I have wounded thee with the wound of an enemy, with cruel chastisement: by reason of the multitude of thy iniquities, thy sins are hardened.",
+      "finnish_biblia": "Kaikki sinun rakastajas unhottavat sinun, ja ei kysy sinua; sillä minä olen lyönyt sinua, niinkuin vihollista armottomalla kurituksella, suurten pahaintekois tähden ja raskasten synteis tähden. ",
       "king_james": "All thy lovers have forgotten thee; they seek thee not; for I have wounded thee with the wound of an enemy, with the chastisement of a cruel one, for the multitude of thine iniquity; because thy sins were increased."
     },
     {
       "verse": 15,
       "latin_vulgate": " Quid clamas super contritione tua ?  insanabilis est dolor tuus :  propter multitudinem iniquitatis tuæ,  et propter dura peccata tua,  feci hæc tibi. ",
       "hebrew_masoretic": "מַה־תִּזְעַק֙ עַל־שִׁבְרֵ֔ךְ אָנ֖וּשׁ מַכְאֹבֵ֑ךְ עַ֣ל ׀ רֹ֣ב עֲוֺנֵ֗ךְ עָֽצְמוּ֙ חַטֹּאתַ֔יִךְ עָשִׂ֥יתִי אֵ֖לֶּה לָֽךְ׃",
+      "douay_rheims": "Why criest thou for thy affliction? thy sorrow is incurable: for the multitude of thy iniquity, and for thy hardened sins I have done these things to thee.",
+      "finnish_biblia": "Mitäs huudat haavais tähden ja suuresta kivustas? Minä olen tämän tehnyt sinulle suurten pahaintekois ja raskasten synteis tähden. ",
       "king_james": "Why criest thou for thine affliction? thy sorrow is incurable for the multitude of thine iniquity: because thy sins were increased, I have done these things unto thee."
     },
     {
       "verse": 16,
       "latin_vulgate": " Propterea omnes qui comedunt te devorabuntur,  et universi hostes tui in captivitatem ducentur :  et qui te vastant vastabuntur,  cunctosque prædatores tuos dabo in prædam. ",
       "hebrew_masoretic": "לָכֵ֞ן כׇּל־אֹכְלַ֙יִךְ֙ יֵאָכֵ֔לוּ וְכׇל־צָרַ֥יִךְ כֻּלָּ֖ם בַּשְּׁבִ֣י יֵלֵ֑כוּ וְהָי֤וּ שֹׁאסַ֙יִךְ֙ לִמְשִׁסָּ֔ה וְכׇל־בֹּזְזַ֖יִךְ אֶתֵּ֥ן לָבַֽז׃",
+      "douay_rheims": "Therefore all they that devour thee, shall be devoured: and all thy enemies shall be carried into captivity: and they that waste thee shall be wasted, and all that prey upon thee will I give for a prey.",
+      "finnish_biblia": "Sentähden kaikki, jotka sinua ovat syöneet, heitä pitää taas syötämän, ja kaikki sinun vihollises pitää vangiksi tuleman; jotka sinua ovat ryöstäneet, pitää jälleen ryöstettämän, ja kaikki ne, jotka sinun ovat ryövänneet, tahdon minä saaliiksi antaa. ",
       "king_james": "Therefore all they that devour thee shall be devoured; and all thine adversaries, every one of them, shall go into captivity; and they that spoil thee shall be a spoil, and all that prey upon thee will I give for a prey."
     },
     {
       "verse": 17,
       "latin_vulgate": " Obducam enim cicatricem tibi,  et a vulneribus tuis sanabo te, dicit Dominus.  Quia ejectam vocaverunt te, Sion :  hæc est, quæ non habebat requirentem. ",
       "hebrew_masoretic": "כִּי֩ אַעֲלֶ֨ה אֲרֻכָ֥ה לָ֛ךְ וּמִמַּכּוֹתַ֥יִךְ אֶרְפָּאֵ֖ךְ נְאֻם־יְהֹוָ֑ה כִּ֤י נִדָּחָה֙ קָ֣רְאוּ לָ֔ךְ צִיּ֣וֹן הִ֔יא דֹּרֵ֖שׁ אֵ֥ין לָֽהּ׃ {ס}",
+      "douay_rheims": "For I will close up thy scar, and will heal thee of thy wounds, saith the Lord. Because they have called thee, O Sion, an outcast: This is she that hath none to seek after her.",
+      "finnish_biblia": "Mutta sinun minä jälleen parannan, ja teen terveeksi haavas, sanoo Herra, sillä he ovat sinun kutsuneet ulosajetuksi ja Zionin siksi, jota ei kenkään kysy. ",
       "king_james": "For I will restore health unto thee, and I will heal thee of thy wounds, saith the Lord; because they called thee an Outcast, saying, This is Zion, whom no man seeketh after."
     },
     {
       "verse": 18,
       "latin_vulgate": " Hæc dicit Dominus :  Ecce ego convertam conversionem tabernaculorum Jacob,  et tectis ejus miserebor :  et ædificabitur civitas in excelso suo,  et templum juxta ordinem suum fundabitur : ",
       "hebrew_masoretic": "כֹּ֣ה ׀ אָמַ֣ר יְהֹוָ֗ה הִנְנִי־שָׁב֙ שְׁבוּת֙ אׇהֳלֵ֣י יַֽעֲק֔וֹב וּמִשְׁכְּנֹתָ֖יו אֲרַחֵ֑ם וְנִבְנְתָ֥ה עִיר֙ עַל־תִּלָּ֔הּ וְאַרְמ֖וֹן עַל־מִשְׁפָּט֥וֹ יֵשֵֽׁב׃",
+      "douay_rheims": "Thus saith the Lord: Behold I will bring back the captivity of the pavilions of Jacob, and will have pity on his houses, and the city shall be built in her high place, and the temple shall be founded according to the order thereof.",
+      "finnish_biblia": "Näin sanoo Herra: katso, minä käännän Jakobin majan vankiuden, ja armahdan hänen asumistansa; ja kaupunki pitää jälleen mäelle rakennettaman, ja kirkon pitää oleman entisellä muodollansa. ",
       "king_james": "Thus saith the Lord; Behold, I will bring again the captivity of Jacob’s tents, and have mercy on his dwellingplaces; and the city shall be builded upon her own heap, and the palace shall remain after the manner thereof."
     },
     {
       "verse": 19,
       "latin_vulgate": " et egredietur de eis laus,  voxque ludentium.  Et multiplicabo eos, et non minuentur :  et glorificabo eos, et non attenuabuntur. ",
       "hebrew_masoretic": "וְיָצָ֥א מֵהֶ֛ם תּוֹדָ֖ה וְק֣וֹל מְשַׂחֲקִ֑ים וְהִרְבִּתִים֙ וְלֹ֣א יִמְעָ֔טוּ וְהִכְבַּדְתִּ֖ים וְלֹ֥א יִצְעָֽרוּ׃",
+      "douay_rheims": "And out of them shall come forth praise, and the voice of them that play: and I will multiply them, and they shall not be made few: and I will glorify them, and they shall not be lessened.",
+      "finnish_biblia": "Ja kiitoksen ja riemun äänen pitää siitä kuuluman; sillä minä tahdon heitä enentää ja en vähentää, minä tahdon heitä kunnioittaa, ja ei heidän pidä huonoksi tuleman. ",
       "king_james": "And out of them shall proceed thanksgiving and the voice of them that make merry: and I will multiply them, and they shall not be few; I will also glorify them, and they shall not be small."
     },
     {
       "verse": 20,
       "latin_vulgate": " Et erunt filii ejus sicut a principio,  et cœtus ejus coram me permanebit,  et visitabo adversum omnes qui tribulant eum. ",
       "hebrew_masoretic": "וְהָי֤וּ בָנָיו֙ כְּקֶ֔דֶם וַעֲדָת֖וֹ לְפָנַ֣י תִּכּ֑וֹן וּפָ֣קַדְתִּ֔י עַ֖ל כׇּל־לֹחֲצָֽיו׃",
+      "douay_rheims": "And their children shall be as from the beginning, and their assembly shall be permanent before me: and I will visit against all that afflict them.",
+      "finnish_biblia": "Hänen poikansa pitää oleman niinkuin ennenkin, ja hänen yhteinen kansansa pitää menestymän minun edessäni; sillä minä tahdon rangaista kaikki ne, jotka heitä vaivaavat. ",
       "king_james": "Their children also shall be as aforetime, and their congregation shall be established before me, and I will punish all that oppress them."
     },
     {
       "verse": 21,
       "latin_vulgate": " Et erit dux ejus ex eo,  et princeps de medio ejus producetur :  et applicabo eum, et accedet ad me.  Quis enim iste est qui applicet cor suum  ut appropinquet mihi ? ait Dominus : ",
       "hebrew_masoretic": "וְהָיָ֨ה אַדִּיר֜וֹ מִמֶּ֗נּוּ וּמֹֽשְׁלוֹ֙ מִקִּרְבּ֣וֹ יֵצֵ֔א וְהִקְרַבְתִּ֖יו וְנִגַּ֣שׁ אֵלָ֑י כִּי֩ מִ֨י הוּא־זֶ֜ה עָרַ֧ב אֶת־לִבּ֛וֹ לָגֶ֥שֶׁת אֵלַ֖י נְאֻם־יְהֹוָֽה׃",
+      "douay_rheims": "And their leader shall be of themselves: and their prince shall come forth from the midst of them: and I will bring him near, and he shall come to me: for who is this that setteth his heart to approach to me, saith the Lord?",
+      "finnish_biblia": "Ja hänen ruhtinaansa pitää itse hänestä syntymän, ja hänen hallitsiansa tuleman itse hänestä. Ja minä tahdon antaa hänen lähestyä ja tulla minun eteeni; sillä kuka on se, joka minua niin sydämellisesti lähestyy? sanoo Herra. ",
       "king_james": "And their nobles shall be of themselves, and their governor shall proceed from the midst of them; and I will cause him to draw near, and he shall approach unto me: for who is this that engaged his heart to approach unto me? saith the Lord."
     },
     {
       "verse": 22,
       "latin_vulgate": " et eritis mihi in populum, et ego ero vobis in Deum. ",
       "hebrew_masoretic": "וִהְיִ֥יתֶם לִ֖י לְעָ֑ם וְאָ֣נֹכִ֔י אֶהְיֶ֥ה לָכֶ֖ם לֵאלֹהִֽים׃ {ס}",
+      "douay_rheims": "And you shall be my people: and I will be your God.",
+      "finnish_biblia": "Ja teidän pitää oleman minun kansani, ja minä olen teidän Jumalanne. ",
       "king_james": "And ye shall be my people, and I will be your God."
     },
     {
       "verse": 23,
       "latin_vulgate": " Ecce turbo Domini, furor egrediens, procella ruens :  in capite impiorum conquiescet. ",
       "hebrew_masoretic": "הִנֵּ֣ה ׀ סַעֲרַ֣ת יְהֹוָ֗ה חֵמָה֙ יָֽצְאָ֔ה סַ֖עַר מִתְגּוֹרֵ֑ר עַ֛ל רֹ֥אשׁ רְשָׁעִ֖ים יָחֽוּל׃",
+      "douay_rheims": "Behold the whirlwind of the Lord, his fury going forth, a violent storm, it shall rest upon the head of the wicked.",
+      "finnish_biblia": "Katso, Herran ilma on tuleva julmuudella, kauhia rajuilma on lankeeva jumalattomain pään päälle. ",
       "king_james": "Behold, the whirlwind of the Lord goeth forth with fury, a continuing whirlwind: it shall fall with pain upon the head of the wicked."
     },
     {
       "verse": 24,
       "latin_vulgate": " Non avertet iram indignationis Dominus,  donec faciat et compleat cogitationem cordis sui :  in novissimo dierum intelligetis ea.  ",
       "hebrew_masoretic": "לֹ֣א יָשׁ֗וּב חֲרוֹן֙ אַף־יְהֹוָ֔ה עַד־עֲשֹׂת֥וֹ וְעַד־הֲקִימ֖וֹ מְזִמּ֣וֹת לִבּ֑וֹ בְּאַחֲרִ֥ית הַיָּמִ֖ים תִּתְבּ֥וֹנְנוּ בָֽהּ׃",
+      "douay_rheims": "The Lord will not turn away the wrath of his indignation, till he have executed and performed the thought of his heart: in the latter days you shall understand these things. ",
+      "finnish_biblia": "Herran julma viha ei ole taukoava, siihenasti kuin hän tekee ja toimittaa, mitä hänen mielessänsä on. Viimein pitää teidän sen kyllä ymmärtämän.   ",
       "king_james": "The fierce anger of the Lord shall not return, until he have done it, and until he have performed the intents of his heart: in the latter days ye shall consider it. "
     }
   ]

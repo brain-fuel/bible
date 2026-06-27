@@ -2,6 +2,8 @@
   "book_id": "1CH",
   "latin_name": "I Paralipomenon",
   "hebrew_name": "דִּבְרֵי הַיָּמִים א",
+  "douay_name": "1 Paralipomenon",
+  "finnish_name": "1. Aikakirja",
   "english_name": "1 Chronicles",
   "chapter": 4,
   "verses": [
@@ -9,258 +11,344 @@
       "verse": 1,
       "latin_vulgate": "Filii Juda : Phares, Hesron, et Charmi, et Hur, et Sobal. ",
       "hebrew_masoretic": "בְּנֵ֖י יְהוּדָ֑ה פֶּ֧רֶץ חֶצְר֛וֹן וְכַרְמִ֖י וְח֥וּר וְשׁוֹבָֽל׃",
+      "douay_rheims": "The sons of Juda: Phares, Hesron, and Charmi and Hur, and Sobal.",
+      "finnish_biblia": "Juudan lapset: Perets, Hetsron, Karmi, Hur ja Sobal. ",
       "king_james": "The sons of Judah; Pharez, Hezron, and Carmi, and Hur, and Shobal."
     },
     {
       "verse": 2,
       "latin_vulgate": "Raia vero filius Sobal genuit Jahath, de quo nati sunt Ahumai, et Laad : hæ cognationes Sarathi. ",
       "hebrew_masoretic": "וּרְאָיָ֤ה בֶן־שׁוֹבָל֙ הֹלִ֣יד אֶת־יַ֔חַת וְיַ֣חַת הֹלִ֔יד אֶת־אֲחוּמַ֖י וְאֶת־לָ֑הַד אֵ֖לֶּה מִשְׁפְּח֥וֹת הַצָּֽרְעָתִֽי׃ {ס}",
+      "douay_rheims": "And Raia the son of Sobal begot Jahath, of whom were born Ahumai, and Laad. These are the families of Sarathi.",
+      "finnish_biblia": "Mutta Reaja Sobalin poika siitti Jahatin, Jahat siitti Ahumain ja Lahadin: nämät ovat Zorgalaisten sukukunnat. ",
       "king_james": "And Reaiah the son of Shobal begat Jahath; and Jahath begat Ahumai, and Lahad. These are the families of the Zorathites."
     },
     {
       "verse": 3,
       "latin_vulgate": "Ista quoque stirps Etam : Jezrahel, et Jesema, et Jedebos. Nomen quoque sororis eorum, Asalelphuni. ",
       "hebrew_masoretic": "וְאֵ֙לֶּה֙ אֲבִ֣י עֵיטָ֔ם יִזְרְעֶ֥אל וְיִשְׁמָ֖א וְיִדְבָּ֑שׁ וְשֵׁ֥ם אֲחוֹתָ֖ם הַצְלֶלְפּֽוֹנִי׃",
+      "douay_rheims": "And this is the posterity of Etam: Jezrahel, and Jesema, And Jedebos: and the name of their sister was Asalelphuni.",
+      "finnish_biblia": "Ja nämät Etamin isän: Jisreel, Jisma, Jidbas, ja heidän sisarensa nimi oli Hatslelponi. ",
       "king_james": "And these were of the father of Etam; Jezreel, and Ishma, and Idbash: and the name of their sister was Hazelelponi:"
     },
     {
       "verse": 4,
       "latin_vulgate": "Phanuel autem pater Gedor, et Ezer pater Hosa : isti sunt filii Hur primogeniti Ephratha patris Bethlehem. ",
       "hebrew_masoretic": "וּפְנוּאֵל֙ אֲבִ֣י גְדֹ֔ר וְעֵ֖זֶר אֲבִ֣י חוּשָׁ֑ה אֵ֤לֶּה בְנֵי־חוּר֙ בְּכ֣וֹר אֶפְרָ֔תָה אֲבִ֖י בֵּ֥ית לָֽחֶם׃",
+      "douay_rheims": "And Phanuel the father of Gedor, and Ezar the father of Hosa, these are the sons of Hur the firstborn of Ephratha the father of Bethlehem.",
+      "finnish_biblia": "Ja Penuel Gedorin isä, ja Eser Husan isä: nämät ovat Hurin Betlehemin isän Ephratan esikoisen lapset. ",
       "king_james": "And Penuel the father of Gedor, and Ezer the father of Hushah. These are the sons of Hur, the firstborn of Ephratah, the father of Beth–lehem."
     },
     {
       "verse": 5,
       "latin_vulgate": "Assur vero patri Thecuæ erant duæ uxores, Halaa et Naara. ",
       "hebrew_masoretic": "וּלְאַשְׁחוּר֙ אֲבִ֣י תְק֔וֹעַ הָי֖וּ שְׁתֵּ֣י נָשִׁ֑ים חֶלְאָ֖ה וְנַעֲרָֽה׃",
+      "douay_rheims": "And Assur the father of Thecua had two wives, Halaa and Naara:",
+      "finnish_biblia": "Mutta Ashurilla Tekoan isällä oli kaksi emäntää, Helea ja Naera. ",
       "king_james": "And Ashur the father of Tekoa had two wives, Helah and Naarah."
     },
     {
       "verse": 6,
       "latin_vulgate": "Peperit autem ei Naara, Oozam, et Hepher, et Themani, et Ahasthari : isti sunt filii Naara. ",
       "hebrew_masoretic": "וַתֵּ֨לֶד ל֤וֹ נַֽעֲרָה֙ אֶת־אֲחֻזָּ֣ם וְאֶת־חֵ֔פֶר וְאֶת־תֵּֽימְנִ֖י וְאֶת־הָאֲחַשְׁתָּרִ֑י אֵ֖לֶּה בְּנֵ֥י נַעֲרָֽה׃",
+      "douay_rheims": "And Naara bore him Ozam, and Hepher, and Themani, and Ahasthari: these are the sons of Naara.",
+      "finnish_biblia": "Ja Naera synnytti hänelle Ahussamin, Hepherin, Temenin, Ahastarin: nämät ovat Naeran lapset. ",
       "king_james": "And Naarah bare him Ahuzam, and Hepher, and Temeni, and Haahashtari. These were the sons of Naarah."
     },
     {
       "verse": 7,
       "latin_vulgate": "Porro filii Halaa, Sereth, Isaar et Ethnan. ",
       "hebrew_masoretic": "וּבְנֵ֖י חֶלְאָ֑ה צֶ֥רֶת (יצחר) [וְצֹ֖חַר] וְאֶתְנָֽן׃",
+      "douay_rheims": "And the sons of Halaa, Sereth, Isaar, and Ethnan.",
+      "finnish_biblia": "Mutta Helean lapset: Zeret, Jesohar ja Etnan. ",
       "king_james": "And the sons of Helah were, Zereth, and Jezoar, and Ethnan."
     },
     {
       "verse": 8,
       "latin_vulgate": "Cos autem genuit Anob, et Soboba, et cognationem Aharehel filii Arum. ",
       "hebrew_masoretic": "וְק֣וֹץ הוֹלִ֔יד אֶת־עָנ֖וּב וְאֶת־הַצֹּבֵבָ֑ה וּמִשְׁפְּחֹ֥ת אֲחַרְחֵ֖ל בֶּן־הָרֽוּם׃",
+      "douay_rheims": "And Cos begot Anob, and Soboba, and the kindred of Aharehel the son of Arum.",
+      "finnish_biblia": "Mutta Kots siitti Anubin ja Hatsobeban, ja Aharhelin Harumin pojan sukukunnat. ",
       "king_james": "And Coz begat Anub, and Zobebah, and the families of Aharhel the son of Harum."
     },
     {
       "verse": 9,
       "latin_vulgate": "Fuit autem Jabes inclytus præ fratribus suis, et mater ejus vocavit nomen illius Jabes, dicens : Quia peperi eum in dolore. ",
       "hebrew_masoretic": "וַיְהִ֣י יַעְבֵּ֔ץ נִכְבָּ֖ד מֵאֶחָ֑יו וְאִמּ֗וֹ קָרְאָ֨ה שְׁמ֤וֹ יַעְבֵּץ֙ לֵאמֹ֔ר כִּ֥י יָלַ֖דְתִּי בְּעֹֽצֶב׃",
+      "douay_rheims": "And Jabes was more honourable than any of his brethren, and his mother called his name Jabes, saying: Because I bore him with sorrow.",
+      "finnish_biblia": "Mutta Jagbets oli kuuluisampi veljiänsä; ja hänen äitinsä kutsui hänen Jagbets, sillä hän sanoi: minä olen hänen synnyttänyt kivulla. ",
       "king_james": "And Jabez was more honourable than his brethren: and his mother called his name Jabez, saying, Because I bare him with sorrow."
     },
     {
       "verse": 10,
       "latin_vulgate": "Invocavit vero Jabes Deum Israël, dicens : Si benedicens benedixeris mihi, et dilataveris terminos meos, et fuerit manus tua mecum, et feceris me a malitia non opprimi. Et præstitit Deus quæ precatus est.  ",
       "hebrew_masoretic": "וַיִּקְרָ֣א יַ֠עְבֵּ֠ץ לֵאלֹהֵ֨י יִשְׂרָאֵ֜ל לֵאמֹ֗ר אִם־בָּרֵ֨ךְ תְּבָרְכֵ֜נִי וְהִרְבִּ֤יתָ אֶת־גְּבוּלִי֙ וְהָיְתָ֤ה יָדְךָ֙ עִמִּ֔י וְעָשִׂ֥יתָ מֵּרָעָ֖ה לְבִלְתִּ֣י עׇצְבִּ֑י וַיָּבֵ֥א אֱלֹהִ֖ים אֵ֥ת אֲשֶׁר־שָׁאָֽל׃ {ס}",
+      "douay_rheims": "And Jabes called upon the God of Israel, saying: If blessing thou wilt bless me, and wilt enlarge my borders, and thy hand be with me, and thou save me from being oppressed by evil. And God granted him the things he prayed for.",
+      "finnish_biblia": "Ja Jagbets rukoili Israelin Jumalaa ja sanoi: jos sinä minua hyvin siunaisit ja levittäisit minun maani rajat, ja sinun kätes olis minun kanssani, ja asettaisit sitä pahaa, ettei se minua vaivaisi. Ja Jumala antoi tapahtua niinkuin hän rukoili. ",
       "king_james": "And Jabez called on the God of Israel, saying, Oh that thou wouldest bless me indeed, and enlarge my coast, and that thine hand might be with me, and that thou wouldest keep me from evil, that it may not grieve me! And God granted him that which he requested."
     },
     {
       "verse": 11,
       "latin_vulgate": " Caleb autem frater Sua genuit Mahir, qui fuit pater Esthon. ",
       "hebrew_masoretic": "וּכְל֥וּב אֲחִי־שׁוּחָ֖ה הוֹלִ֣יד אֶת־מְחִ֑יר ה֖וּא אֲבִ֥י אֶשְׁתּֽוֹן׃",
+      "douay_rheims": "And Caleb the brother of Sua begot Mahir, who was the father of Esthon.",
+      "finnish_biblia": "Mutta Kelub Suan veli siitti Mehirin, se on Estonin isä. ",
       "king_james": "And Chelub the brother of Shuah begat Mehir, which was the father of Eshton."
     },
     {
       "verse": 12,
       "latin_vulgate": "Porro Esthon genuit Bethrapha, et Phesse, et Tehinna patrem urbis Naas : hi sunt viri Recha. ",
       "hebrew_masoretic": "וְאֶשְׁתּ֗וֹן הוֹלִ֞יד אֶת־בֵּ֤ית רָפָא֙ וְאֶת־פָּסֵ֔חַ וְאֶת־תְּחִנָּ֖ה אֲבִ֣י עִ֣יר נָחָ֑שׁ אֵ֖לֶּה אַנְשֵׁ֥י רֵכָֽה׃ {ס}",
+      "douay_rheims": "And Esthon begot Bethrapha, and Phesse, and Tehinna father of the city of Naas: these are the men of Recha.",
+      "finnish_biblia": "Mutta Eston siitti Petraphan, Pasean, Tehinnan Irnahaksen isän: nämät ovat Rekan miehet. ",
       "king_james": "And Eshton begat Beth–rapha, and Paseah, and Tehinnah the father of Ir–nahash. These are the men of Rechah."
     },
     {
       "verse": 13,
       "latin_vulgate": "Filii autem Cenez, Othoniel, et Saraia. Porro filii Othoniel, Hathath, et Maonathi. ",
       "hebrew_masoretic": "וּבְנֵ֣י קְנַ֔ז עׇתְנִיאֵ֖ל וּשְׂרָיָ֑ה וּבְנֵ֥י עׇתְנִיאֵ֖ל חֲתַֽת׃",
+      "douay_rheims": "And the sons of Cenez were Othoniel, and Saraia. And the sons of Othoniel, Hathath, and Maonathi.",
+      "finnish_biblia": "Kenaksen lapset: Otniel ja Seraja; Otnielin lapset: Hatat. ",
       "king_james": "And the sons of Kenaz; Othniel, and Seraiah: and the sons of Othniel; Hathath."
     },
     {
       "verse": 14,
       "latin_vulgate": "Maonathi genuit Ophra, Saraia autem genuit Joab patrem Vallis artificum : ibi quippe artifices erant. ",
       "hebrew_masoretic": "וּמְעוֹנֹתַ֖י הוֹלִ֣יד אֶת־עׇפְרָ֑ה וּשְׂרָיָ֗ה הוֹלִ֤יד אֶת־יוֹאָב֙ אֲבִי֙ גֵּ֣יא חֲרָשִׁ֔ים כִּ֥י חֲרָשִׁ֖ים הָיֽוּ׃ {פ}",
+      "douay_rheims": "Maonathi begot Ophra, and Saraia begot Joab the father of the Valley of artificers: for artificers were there.",
+      "finnish_biblia": "Ja Meonatai siitti Ophran, ja Seraja siitti Joabin seppäin laakson isän, sillä he olivat puusepät. ",
       "king_james": "And Meonothai begat Ophrah: and Seraiah begat Joab, the father of the valley of Charashim; for they were craftsmen."
     },
     {
       "verse": 15,
       "latin_vulgate": "Filii vero Caleb filii Jephone, Hir, et Ela, et Naham. Filii quoque Ela : Cenez. ",
       "hebrew_masoretic": "וּבְנֵי֙ כָּלֵ֣ב בֶּן־יְפֻנֶּ֔ה עִ֥ירוּ אֵלָ֖ה וָנָ֑עַם וּבְנֵ֥י אֵלָ֖ה וּקְנַֽז׃",
+      "douay_rheims": "And the sons of Caleb the son of Jephone, were Hir, and Ela, and Naham. And the sons of Ela: Cenez.",
+      "finnish_biblia": "Kalebin Jephunnen pojan lapset: Iru, Ela ja Naam; Elan lapset: Kenas. ",
       "king_james": "And the sons of Caleb the son of Jephunneh; Iru, Elah, and Naam: and the sons of Elah, even Kenaz."
     },
     {
       "verse": 16,
       "latin_vulgate": "Filii quoque Jaleleel : Ziph, et Zipha, Thiria, et Asraël. ",
       "hebrew_masoretic": "וּבְנֵ֖י יְהַלֶּלְאֵ֑ל זִ֣יף וְזִיפָ֔ה תִּירְיָ֖א וַאֲשַׂרְאֵֽל׃",
+      "douay_rheims": "The sons also of Jaleleel: Ziph, and Zipha, Thiria and Asrael.",
+      "finnish_biblia": "Jehaleelin lapset: Siph, Sipha, Tiria ja Asareel. ",
       "king_james": "And the sons of Jehaleleel; Ziph, and Ziphah, Tiria, and Asareel."
     },
     {
       "verse": 17,
       "latin_vulgate": "Et filii Ezra, Jether, et Mered, et Epher, et Jalon, genuitque Mariam, et Sammai, et Jesba patrem Esthamo. ",
       "hebrew_masoretic": "וּבֶ֨ן־עֶזְרָ֔ה יֶ֥תֶר וּמֶ֖רֶד וְעֵ֣פֶר וְיָל֑וֹן וַתַּ֙הַר֙ אֶת־מִרְיָ֣ם וְאֶת־שַׁמַּ֔י וְאֶת־יִשְׁבָּ֖ח אֲבִ֥י אֶשְׁתְּמֹֽעַ׃",
+      "douay_rheims": "And the sons of Esra, Jether, and Mered, and Epher, and Jalon, and he begot Mariam, and Sammai, and Jesba the father of Esthamo.",
+      "finnish_biblia": "Esran lapset: Jeter, Mered, Epher ja Jalon; ja hän siitti Mirjamin, Sammain, Jisban, Estemoan isän. ",
       "king_james": "And the sons of Ezra were, Jether, and Mered, and Epher, and Jalon: and she bare Miriam, and Shammai, and Ishbah the father of Eshtemoa."
     },
     {
       "verse": 18,
       "latin_vulgate": "Uxor quoque ejus Judaia, peperit Jared patrem Gedor, et Heber patrem Socho, et Icuthiel patrem Zanoë : hi autem filii Bethiæ filiæ Pharaonis, quam accepit Mered. ",
       "hebrew_masoretic": "וְאִשְׁתּ֣וֹ הַיְהֻֽדִיָּ֗ה יָלְדָ֞ה אֶת־יֶ֨רֶד אֲבִ֤י גְדוֹר֙ וְאֶת־חֶ֙בֶר֙ אֲבִ֣י שׂוֹכ֔וֹ וְאֶת־יְקוּתִיאֵ֖ל אֲבִ֣י זָנ֑וֹחַ וְאֵ֗לֶּה בְּנֵי֙ בִּתְיָ֣ה בַת־פַּרְעֹ֔ה אֲשֶׁ֥ר לָקַ֖ח מָֽרֶד׃ {ס}",
+      "douay_rheims": "And his wife Judaia, bore Jared the father of Gedor, and Heber the father of Socho, and Icuthiel the father of Zanoe. And these are the sons of Bethia the daughter of Pharao, whom Mered took to wife.",
+      "finnish_biblia": "Ja hänen Juudalainen emäntänsä synnytti Jeredin Gedorin isän, Heberin Sokon isän, Jekuthelin Sanoan isän: nämät ovat Bitian Pharaon tyttären lapset, jonka Mered otti. ",
       "king_james": "And his wife Jehudijah bare Jered the father of Gedor, and Heber the father of Socho, and Jekuthiel the father of Zanoah. And these are the sons of Bithiah the daughter of Pharaoh, which Mered took."
     },
     {
       "verse": 19,
       "latin_vulgate": "Et filii uxoris Odaiæ sororis Naham patris Ceila, Garmi, et Esthamo, qui fuit de Machathi. ",
       "hebrew_masoretic": "וּבְנֵי֙ אֵ֣שֶׁת הֽוֹדִיָּ֔ה אֲח֣וֹת נַ֔חַם אֲבִ֥י קְעִילָ֖ה הַגַּרְמִ֑י וְאֶשְׁתְּמֹ֖עַ הַמַּעֲכָתִֽי׃",
+      "douay_rheims": "And the sons of his wife Odaia the sister of Naham the father of Celia, Garmi, and Esthamo, who was of Machathi.",
+      "finnish_biblia": "Hodijan emännän Nahamin Kegilan isän sisaren lapset: Garmi ja Estemoa, Maakatilainen. ",
       "king_james": "And the sons of his wife Hodiah the sister of Naham, the father of Keilah the Garmite, and Eshtemoa the Maachathite."
     },
     {
       "verse": 20,
       "latin_vulgate": "Filii quoque Simon, Amnon, et Rinna filius Hanan, et Thilon. Et filii Jesi, Zoheth, et Benzoheth. ",
       "hebrew_masoretic": "וּבְנֵ֣י שִׁימ֔וֹן אַמְנ֣וֹן וְרִנָּ֔ה בֶּן־חָנָ֖ן (ותולון) [וְתִיל֑וֹן] וּבְנֵ֣י יִשְׁעִ֔י זוֹחֵ֖ת וּבֶן־זוֹחֵֽת׃",
+      "douay_rheims": "The sons also of Simon, Amnon, and Rinna the son of Hanan, and Thilon. And the sons of Jesi Zoheth, and Benzoheth.",
+      "finnish_biblia": "Ja Simonin lapset: Amnon ja Rinna, Benhanan ja Tilon. Jisin lapset: Sohet ja Bensohet. ",
       "king_james": "And the sons of Shimon were, Amnon, and Rinnah, Ben–hanan, and Tilon. And the sons of Ishi were, Zoheth, and Ben–zoheth."
     },
     {
       "verse": 21,
       "latin_vulgate": "Filii Sela, filii Juda : Her pater Lecha, et Laada pater Maresa, et cognationes domus operantium byssum in domo juramenti. ",
       "hebrew_masoretic": "בְּנֵי֙ שֵׁלָ֣ה בֶן־יְהוּדָ֔ה עֵ֚ר אֲבִ֣י לֵכָ֔ה וְלַעְדָּ֖ה אֲבִ֣י מָרֵשָׁ֑ה וּמִשְׁפְּח֛וֹת בֵּית־עֲבֹדַ֥ת הַבֻּ֖ץ לְבֵ֥ית אַשְׁבֵּֽעַ׃",
+      "douay_rheims": "The sons of Sela the son of Juda: Her the father of Lecha, and Laada the father of Maresa, and the families of the house of them that wrought fine linen in the House of oath.",
+      "finnish_biblia": "Selan Juudan pojan lapset: Erlekan isä, Laeda Maresan isä, ja liinainkutojain suvut Asbean huoneessa, ",
       "king_james": "The sons of Shelah the son of Judah were, Er the father of Lecah, and Laadah the father of Mareshah, and the families of the house of them that wrought fine linen, of the house of Ashbea,"
     },
     {
       "verse": 22,
       "latin_vulgate": "Et qui stare fecit solem, virique Mendacii, et Securus, et Incendens, qui principes fuerunt in Moab, et qui reversi sunt in Lahem : hæc autem verba vetera. ",
       "hebrew_masoretic": "וְיוֹקִ֞ים וְאַנְשֵׁ֣י כֹזֵבָ֗א וְיוֹאָ֧שׁ וְשָׂרָ֛ף אֲשֶׁר־בָּעֲל֥וּ לְמוֹאָ֖ב וְיָשֻׁ֣בִי לָ֑חֶם וְהַדְּבָרִ֖ים עַתִּיקִֽים׃",
+      "douay_rheims": "And he that made the sun to stand, and the men of Lying, and Secure, and Burning, who were princes in Moab, and who returned into Lahem. Now these are things of old.",
+      "finnish_biblia": "Niin myös Jokim, ja Koseban miehet, Joas ja Saraph, jotka olivat herrat Moabissa ja Jasubilekemissä: nämät ovat vanhat asiat. ",
       "king_james": "And Jokim, and the men of Chozeba, and Joash, and Saraph, who had the dominion in Moab, and Jashubi–lehem. And these are ancient things."
     },
     {
       "verse": 23,
       "latin_vulgate": "Hi sunt figuli habitantes in plantationibus et in sepibus, apud regem in operibus ejus : commoratique sunt ibi.  ",
       "hebrew_masoretic": "הֵ֚מָּה הַיּ֣וֹצְרִ֔ים וְיֹשְׁבֵ֥י נְטָעִ֖ים וּגְדֵרָ֑ה עִם־הַמֶּ֥לֶךְ בִּמְלַאכְתּ֖וֹ יָ֥שְׁבוּ שָֽׁם׃ {ס}",
+      "douay_rheims": "These are the potters, and they dwelt in Plantations, and Hedges, with the king for his works, and they abode there.",
+      "finnish_biblia": "He olivat savenvalajat ja asuivat moisioissa ja umpiaidoissa, ja kuninkaan tykönä työnsä tähden, siellä he asuivat. ",
       "king_james": "These were the potters, and those that dwelt among plants and hedges: there they dwelt with the king for his work."
     },
     {
       "verse": 24,
       "latin_vulgate": " Filii Simeon : Namuel et Jamin, Jarib, Zara, Saul. ",
       "hebrew_masoretic": "בְּנֵ֖י שִׁמְע֑וֹן נְמוּאֵ֣ל וְיָמִ֔ין יָרִ֖יב זֶ֥רַח שָׁאֽוּל׃",
+      "douay_rheims": "The sons of Simeon: Namuel and Jamin, Jarib, Zara, Saul:",
+      "finnish_biblia": "Simeonin lapset: Nemuel ja Jamin, Jarib, Sera, Saul, ",
       "king_james": "The sons of Simeon were, Nemuel, and Jamin, Jarib, Zerah, and Shaul:"
     },
     {
       "verse": 25,
       "latin_vulgate": "Sellum filius ejus, Mapsam filius ejus, Masma filius ejus. ",
       "hebrew_masoretic": "שַׁלֻּ֥ם בְּנ֛וֹ מִבְשָׂ֥ם בְּנ֖וֹ מִשְׁמָ֥ע בְּנֽוֹ׃",
+      "douay_rheims": "Sellum his son, Mapsam his son, Masma his son.",
+      "finnish_biblia": "Sallum hänen poikansa, Mibsam hänen poikansa, Misma hänen poikansa. ",
       "king_james": "Shallum his son, Mibsam his son, Mishma his son."
     },
     {
       "verse": 26,
       "latin_vulgate": "Filii Masma : Hamuel filius ejus, Zachur filius ejus, Semei filius ejus. ",
       "hebrew_masoretic": "וּבְנֵ֖י מִשְׁמָ֑ע חַמּוּאֵ֥ל בְּנ֛וֹ זַכּ֥וּר בְּנ֖וֹ שִׁמְעִ֥י בְנֽוֹ׃",
+      "douay_rheims": "The sons of Masma: Hamuel his son, Zachur his son, Semei his son.",
+      "finnish_biblia": "Misman pojat olivat: Hamuel hänen poikansa, Sakur hänen poikansa, Simei hänen poikansa. ",
       "king_james": "And the sons of Mishma; Hamuel his son, Zacchur his son, Shimei his son."
     },
     {
       "verse": 27,
       "latin_vulgate": "Filii Semei sedecim, et filiæ sex : fratres autem ejus non habuerunt filios multos, et universa cognatio non potuit adæquare summam filiorum Juda. ",
       "hebrew_masoretic": "וּלְשִׁמְעִ֞י בָּנִ֨ים שִׁשָּׁ֤ה עָשָׂר֙ וּבָנ֣וֹת שֵׁ֔שׁ וּלְאֶחָ֕יו אֵ֖ין בָּנִ֣ים רַבִּ֑ים וְכֹל֙ מִשְׁפַּחְתָּ֔ם לֹ֥א הִרְבּ֖וּ עַד־בְּנֵ֥י יְהוּדָֽה׃ {ס}",
+      "douay_rheims": "The sons of Semei were sixteen, and six daughters: but his brethren had not many sons, and the whole kindred could not reach to the sum of the children of Juda.",
+      "finnish_biblia": "Simeillä oli kuusitoistakymmentä poikaa ja kuusi tytärtä, mutta hänen veljillänsä ei ollut monta lasta; sillä kaikki heidän sukukuntansa ei enentynyt niinkuin Juudan lapset. ",
       "king_james": "And Shimei had sixteen sons and six daughters; but his brethren had not many children, neither did all their family multiply, like to the children of Judah."
     },
     {
       "verse": 28,
       "latin_vulgate": "Habitaverunt autem in Bersabee, et Molada, et Hasarsuhal, ",
       "hebrew_masoretic": "וַיֵּ֥שְׁב֛וּ בִּבְאֵֽר־שֶׁ֥בַע וּמוֹלָדָ֖ה וַחֲצַ֥ר שׁוּעָֽל׃",
+      "douay_rheims": "And they dwelt in Bersabee, and Molada, and Hasarsuhal,",
+      "finnish_biblia": "Ja he asuivat Bersebassa, Moladassa ja Hatsarsuasissa, ",
       "king_james": "And they dwelt at Beer–sheba, and Moladah, and Hazar–shual,"
     },
     {
       "verse": 29,
       "latin_vulgate": "et in Bala, et in Asom, et in Tholad, ",
       "hebrew_masoretic": "וּבְבִלְהָ֥ה וּבְעֶ֖צֶם וּבְתוֹלָֽד׃",
+      "douay_rheims": "And in Bala, and in Asom, and in Tholad,",
+      "finnish_biblia": "Ja Bilhassa ja Etsemissä ja Toladissa, ",
       "king_james": "And at Bilhah, and at Ezem, and at Tolad,"
     },
     {
       "verse": 30,
       "latin_vulgate": "et in Bathuel, et in Horma, et in Siceleg, ",
       "hebrew_masoretic": "וּבִבְתוּאֵ֥ל וּבְחׇרְמָ֖ה וּבְצִֽיקְלָֽג׃",
+      "douay_rheims": "And in Bathuel, and in Horma, and in Siceleg,",
+      "finnish_biblia": "Ja Betuelissa ja Hormassa ja Siklagissa, ",
       "king_james": "And at Bethuel, and at Hormah, and at Ziklag,"
     },
     {
       "verse": 31,
       "latin_vulgate": "et in Bethmarchaboth, et in Hasarsusim, et in Bethberai, et in Saarim : hæ civitates eorum usque ad regem David. ",
       "hebrew_masoretic": "וּבְבֵ֤ית מַרְכָּבוֹת֙ וּבַחֲצַ֣ר סוּסִ֔ים וּבְבֵ֥ית בִּרְאִ֖י וּֽבְשַׁעֲרָ֑יִם אֵ֥לֶּה עָרֵיהֶ֖ם עַד־מְלֹ֥ךְ דָּוִֽיד׃",
+      "douay_rheims": "And in Bethmarchaboth, and in Hasarsusim, and in Bethberai, and in Saarim. These were their cities unto the reign of David.",
+      "finnish_biblia": "Ja Betmarkabotissa ja Hatsarsusimissa, BetBirissä ja Saaraimissa. Nämät olivat heidän kaupunkinsa, Davidin hallitukseen asti, ",
       "king_james": "And at Beth–marcaboth, and Hazar–susim, and at Beth–birei, and at Shaaraim. These were their cities unto the reign of David."
     },
     {
       "verse": 32,
       "latin_vulgate": "Villæ quoque eorum : Etam, et Aën, Remmon, et Thochen, et Asan, civitates quinque. ",
       "hebrew_masoretic": "וְחַצְרֵיהֶם֙ עֵיטָ֣ם וָעַ֔יִן רִמּ֥וֹן וְתֹ֖כֶן וְעָשָׁ֑ן עָרִ֖ים חָמֵֽשׁ׃",
+      "douay_rheims": "Their towns also were Etam, and Aen, Remmon, and Thochen, and Asan, five cities.",
+      "finnish_biblia": "Ja heidän kylänsä, Etam, Ain, Rimmon, Token ja Asan: viisi kaupunkia; ",
       "king_james": "And their villages were, Etam, and Ain, Rimmon, and Tochen, and Ashan, five cities:"
     },
     {
       "verse": 33,
       "latin_vulgate": "Et universi viculi eorum per circuitum civitatum istarum usque ad Baal : hæc est habitatio eorum, et sedium distributio. ",
       "hebrew_masoretic": "וְכׇל־חַצְרֵיהֶ֗ם אֲשֶׁ֧ר סְבִיב֛וֹת הֶעָרִ֥ים הָאֵ֖לֶּה עַד־בָּ֑עַל {ס} זֹ֚את מֽוֹשְׁבֹתָ֔ם וְהִתְיַחְשָׂ֖ם לָהֶֽם׃",
+      "douay_rheims": "And all their villages round about these cities as far as Baal. This was their habitation, and the distribution of their dwellings.",
+      "finnish_biblia": "Ja kaikki ne kylät, jotka olivat niiden kaupunkein ympäristöllä Baaliin asti. Tämä on heidän asumasiansa ja sukukuntansa heidän keskenänsä. ",
       "king_james": "And all their villages that were round about the same cities, unto Baal. These were their habitations, and their genealogy."
     },
     {
       "verse": 34,
       "latin_vulgate": "Mosobab quoque et Jemlech, et Josa filius Amasiæ, ",
       "hebrew_masoretic": "וּמְשׁוֹבָ֣ב וְיַמְלֵ֔ךְ וְיוֹשָׁ֖ה בֶּן־אֲמַצְיָֽה׃",
+      "douay_rheims": "And Mosabab and Jemlech, and Josaphat, the son of Amasias,",
+      "finnish_biblia": "Ja Mesobab, Jamlek ja Josat Amatsian poika, ",
       "king_james": "And Meshobab, and Jamlech, and Joshah the son of Amaziah,"
     },
     {
       "verse": 35,
       "latin_vulgate": "et Joël, et Jehu filius Josabiæ filii Saraiæ filii Asiel, ",
       "hebrew_masoretic": "וְיוֹאֵ֑ל וְיֵהוּא֙ בֶּן־י֣וֹשִׁבְיָ֔ה בֶּן־שְׂרָיָ֖ה בֶּן־עֲשִׂיאֵֽל׃",
+      "douay_rheims": "And Joel, and Jehu the son of Josabia the son of Saraia, the son of Asiel,",
+      "finnish_biblia": "Joel ja Jehu Josibian poika, Serajan pojan, Asielin pojan, ",
       "king_james": "And Joel, and Jehu the son of Josibiah, the son of Seraiah, the son of Asiel,"
     },
     {
       "verse": 36,
       "latin_vulgate": "et Elioënai, et Jacoba, et Isuhaia, et Asaia, et Adiel, et Ismiel, et Banaia, ",
       "hebrew_masoretic": "וְאֶלְיוֹעֵינַ֡י וְֽיַעֲקֹ֡בָה וִ֠ישׁוֹחָיָ֠ה וַעֲשָׂיָ֧ה וַעֲדִיאֵ֛ל וִישִׂימִאֵ֖ל וּבְנָיָֽה׃",
+      "douay_rheims": "And Elioenai, and Jacoba, and Isuhaia, and Asaia, and Adiel, and Ismiel, and Banaia,",
+      "finnish_biblia": "Eljoenai, Jaekoba, Jesohaja, Asaja, Adiel, Jesimiel ja Benaja, ",
       "king_james": "And Elioenai, and Jaakobah, and Jeshohaiah, and Asaiah, and Adiel, and Jesimiel, and Benaiah,"
     },
     {
       "verse": 37,
       "latin_vulgate": "Ziza quoque filius Sephei filii Allon filii Idaia filii Semri filii Samaia. ",
       "hebrew_masoretic": "וְזִיזָ֨א בֶן־שִׁפְעִ֧י בֶן־אַלּ֛וֹן בֶּן־יְדָיָ֥ה בֶן־שִׁמְרִ֖י בֶּן־שְׁמַֽעְיָֽה׃",
+      "douay_rheims": "Ziza also the son of Sephei the son of Allon the son of Idaia the son of Semri the son of Samaia.",
+      "finnish_biblia": "Ja Sisa Siphin poika, Allonin pojan, Jedajan pojan, Simrin pojan, Semajan pojan: ",
       "king_james": "And Ziza the son of Shiphi, the son of Allon, the son of Jedaiah, the son of Shimri, the son of Shemaiah;"
     },
     {
       "verse": 38,
       "latin_vulgate": "Isti sunt nominati principes in cognationibus suis, et in domo affinitatum suarum multiplicati sunt vehementer. ",
       "hebrew_masoretic": "אֵ֚לֶּה הַבָּאִ֣ים בְּשֵׁמ֔וֹת נְשִׂיאִ֖ים בְּמִשְׁפְּחוֹתָ֑ם וּבֵית֙ אֲב֣וֹתֵיהֶ֔ם פָּרְצ֖וּ לָרֽוֹב׃",
+      "douay_rheims": "These were named princes in their kindreds, and in the houses of their families were multiplied exceedingly.",
+      "finnish_biblia": "Nämät nimitettiin päämiehiksi sukukuntainsa seassa; ja heidän isäinsä huone hajoitti itsensä paljouden tähden. ",
       "king_james": "These mentioned by their names were princes in their families: and the house of their fathers increased greatly."
     },
     {
       "verse": 39,
       "latin_vulgate": "Et profecti sunt ut ingrederentur in Gador usque ad orientem vallis, et ut quærerent pascua gregibus suis. ",
       "hebrew_masoretic": "וַיֵּֽלְכוּ֙ לִמְב֣וֹא גְדֹ֔ר עַ֖ד לְמִזְרַ֣ח הַגָּ֑יְא לְבַקֵּ֥שׁ מִרְעֶ֖ה לְצֹאנָֽם׃",
+      "douay_rheims": "And they went forth to enter into Gador as far as to the east side of the valley, to seek pastures for their flocks.",
+      "finnish_biblia": "Ja he menivät pois ja tulivat hamaan Gedoriin asti itäiselle puolelle laaksoa, etsimään laidunta lampaillensa. ",
       "king_james": "And they went to the entrance of Gedor, even unto the east side of the valley, to seek pasture for their flocks."
     },
     {
       "verse": 40,
       "latin_vulgate": "Inveneruntque pascuas uberes, et valde bonas, et terram latissimam et quietam et fertilem, in qua ante habitaverant de stirpe Cham. ",
       "hebrew_masoretic": "וַֽיִּמְצְא֤וּ מִרְעֶה֙ שָׁמֵ֣ן וָט֔וֹב וְהָאָ֙רֶץ֙ רַחֲבַ֣ת יָדַ֔יִם וְשֹׁקֶ֖טֶת וּשְׁלֵוָ֑ה כִּ֣י מִן־חָ֔ם הַיֹּשְׁבִ֥ים שָׁ֖ם לְפָנִֽים׃",
+      "douay_rheims": "And they found fat pastures, and very good, and a country spacious, and quiet, and fruitful, in which some of the race of Cham had dwelt before.",
+      "finnish_biblia": "Ja he löysivät lihavan ja hyvän laitumen ja maan, joka oli avara ja lavia, rauhallinen ja levollinen; sillä Hamin lapset olivat ennen siellä asuneet. ",
       "king_james": "And they found fat pasture and good, and the land was wide, and quiet, and peaceable; for they of Ham had dwelt there of old."
     },
     {
       "verse": 41,
       "latin_vulgate": "Hi ergo venerunt, quos supra descripsimus nominatim, in diebus Ezechiæ regis Juda : et percusserunt tabernacula eorum, et habitatores qui inventi fuerant ibi, et deleverunt eos usque in præsentem diem : habitaveruntque pro eis, quoniam uberrimas pascuas ibidem repererunt. ",
       "hebrew_masoretic": "וַיָּבֹ֡אוּ אֵ֩לֶּה֩ הַכְּתוּבִ֨ים בְּשֵׁמ֜וֹת בִּימֵ֣י ׀ יְחִזְקִיָּ֣הוּ מֶלֶךְ־יְהוּדָ֗ה וַיַּכּ֨וּ אֶת־אׇהֳלֵיהֶ֜ם וְאֶת־[הַמְּעוּנִ֨ים] (המעינים) אֲשֶׁ֤ר נִמְצְאֽוּ־שָׁ֙מָּה֙ וַיַּֽחֲרִימֻם֙ עַד־הַיּ֣וֹם הַזֶּ֔ה וַיֵּשְׁב֖וּ תַּחְתֵּיהֶ֑ם כִּי־מִרְעֶ֥ה לְצֹאנָ֖ם שָֽׁם׃",
+      "douay_rheims": "And these whose names are written above, came in the days of Ezechias king of Juda: and they beat down their tents, and slew the inhabitants that were found there, and utterly destroyed them unto this day: and they dwelt in their place, because they found there fat pastures.",
+      "finnish_biblia": "Ja jotka nimenomattain kirjoitetut olivat, tulivat Hiskian Juudan kuninkaan aikaan, ja he löivät muiden majat ja Meonilaiset jotka sieltä löydettiin, ja hävittivät heidät hamaan tähän päivään asti, ja asuivat heidän siallansa; sillä siellä olivat laitumet heidän lampaillensa. ",
       "king_james": "And these written by name came in the days of Hezekiah king of Judah, and smote their tents, and the habitations that were found there, and destroyed them utterly unto this day, and dwelt in their rooms: because there was pasture there for their flocks."
     },
     {
       "verse": 42,
       "latin_vulgate": "De filiis quoque Simeon abierunt in montem Seir viri quingenti, habentes principes Phalthiam et Naariam et Raphaiam et Oziel filios Jesi : ",
       "hebrew_masoretic": "וּמֵהֶ֣ם ׀ מִן־בְּנֵ֣י שִׁמְע֗וֹן הָֽלְכוּ֙ לְהַ֣ר שֵׂעִ֔יר אֲנָשִׁ֖ים חֲמֵ֣שׁ מֵא֑וֹת וּפְלַטְיָ֡ה וּ֠נְעַרְיָ֠ה וּרְפָיָ֧ה וְעֻזִּיאֵ֛ל בְּנֵ֥י יִשְׁעִ֖י בְּרֹאשָֽׁם׃",
+      "douay_rheims": "Some also of the children of Simeon, five hundred men, went into mount Seir, having for their captains Phaltias and Naaria and Raphaia and Oziel the sons of Jesi:",
+      "finnish_biblia": "Ja silloin meni heistä liki viisisataa miestä, jotka olivat Simeonin lapsia, Seirin vuorelle; ja Pelatia, Nearia, Rephaja ja Ussiel Jisein lapset olivat heidän päämiehensä, ",
       "king_james": "And some of them, even of the sons of Simeon, five hundred men, went to mount Seir, having for their captains Pelatiah, and Neariah, and Rephaiah, and Uzziel, the sons of Ishi."
     },
     {
       "verse": 43,
       "latin_vulgate": "et percusserunt reliquias, quæ evadere potuerant, Amalecitarum, et habitaverunt ibi pro eis usque ad diem hanc.   ",
       "hebrew_masoretic": "וַיַּכּ֕וּ אֶת־שְׁאֵרִ֥ית הַפְּלֵטָ֖ה לַעֲמָלֵ֑ק וַיֵּ֣שְׁבוּ שָׁ֔ם עַ֖ד הַיּ֥וֹם הַזֶּֽה׃ {פ}",
+      "douay_rheims": "And they slew the remnant of the Amalecites, who had been able to escape, and they dwelt there in their stead unto this day. ",
+      "finnish_biblia": "Ja tappoivat päässeet ja jääneet Amalekilaisista, ja asuivat siinä tähän päivään asti.   ",
       "king_james": "And they smote the rest of the Amalekites that were escaped, and dwelt there unto this day. "
     }
   ]

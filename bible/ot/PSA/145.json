@@ -2,6 +2,8 @@
   "book_id": "PSA",
   "latin_name": "Liber Psalmorum",
   "hebrew_name": "תְּהִלִּים",
+  "douay_name": "Psalms",
+  "finnish_name": "Psalmit",
   "english_name": "Psalms",
   "chapter": 145,
   "verses": [
@@ -9,9 +11,14 @@
       "verse": 1,
       "latin_vulgate": "Laudatio ipsi David.   Exaltabo te, Deus meus rex,  et benedicam nomini tuo in sæculum, et in sæculum sæculi. ",
       "hebrew_masoretic": "תְּהִלָּ֗ה לְדָ֫וִ֥ד אֲרוֹמִמְךָ֣ אֱלוֹהַ֣י הַמֶּ֑לֶךְ וַאֲבָרְכָ֥ה שִׁ֝מְךָ֗ לְעוֹלָ֥ם וָעֶֽד׃",
+      "douay_rheims": "Praise, for David himself. I will extol thee, O God my king: and I will bless thy name for ever; yea, for ever and ever.",
+      "finnish_biblia": "Davidin kiitos. Minä ylistän sinua, Jumalani, sinä kuningas, ja kiitän sinun nimeäs aina ja ijankaikkiseti. ",
       "king_james": "I will extol thee, my God, O king; and I will bless thy name for ever and ever.",
       "refs": {
         "latin_vulgate": {
+          "src": "144:1"
+        },
+        "douay_rheims": {
           "src": "144:1"
         }
       }
@@ -20,9 +27,14 @@
       "verse": 2,
       "latin_vulgate": " Per singulos dies benedicam tibi,  et laudabo nomen tuum in sæculum, et in sæculum sæculi. ",
       "hebrew_masoretic": "בְּכׇל־י֥וֹם אֲבָרְכֶ֑ךָּ וַאֲהַלְלָ֥ה שִׁ֝מְךָ֗ לְעוֹלָ֥ם וָעֶֽד׃",
+      "douay_rheims": "Every day will I bless thee: and I will praise thy name for ever; yea, for ever and ever.",
+      "finnish_biblia": "Joka päivä minä kunnioitan sinua, ja kiitän sinun nimeäs aina ja ijankaikkisesti. ",
       "king_james": "Every day will I bless thee; and I will praise thy name for ever and ever.",
       "refs": {
         "latin_vulgate": {
+          "src": "144:2"
+        },
+        "douay_rheims": {
           "src": "144:2"
         }
       }
@@ -31,9 +43,14 @@
       "verse": 3,
       "latin_vulgate": " Magnus Dominus, et laudabilis nimis,  et magnitudinis ejus non est finis. ",
       "hebrew_masoretic": "גָּ֘ד֤וֹל יְהֹוָ֣ה וּמְהֻלָּ֣ל מְאֹ֑ד וְ֝לִגְדֻלָּת֗וֹ אֵ֣ין חֵֽקֶר׃",
+      "douay_rheims": "Great is the Lord, and greatly to be praised: and of his greatness there is no end.",
+      "finnish_biblia": "Suuri on Herra, ja sangen kunniallinen, ja hänen suuruutensa on sanomatoin. ",
       "king_james": "Great is the Lord, and greatly to be praised; and his greatness is unsearchable.",
       "refs": {
         "latin_vulgate": {
+          "src": "144:3"
+        },
+        "douay_rheims": {
           "src": "144:3"
         }
       }
@@ -42,9 +59,14 @@
       "verse": 4,
       "latin_vulgate": " Generatio et generatio laudabit opera tua,  et potentiam tuam pronuntiabunt. ",
       "hebrew_masoretic": "דּ֣וֹר לְ֭דוֹר יְשַׁבַּ֣ח מַעֲשֶׂ֑יךָ וּגְב֖וּרֹתֶ֣יךָ יַגִּֽידוּ׃",
+      "douay_rheims": "Generation and generation shall praise thy works: and they shall declare thy power.",
+      "finnish_biblia": "Suku pitää suvulle jutteleman sinun töitäs, ja sinun voimastas puhuman. ",
       "king_james": "One generation shall praise thy works to another, and shall declare thy mighty acts.",
       "refs": {
         "latin_vulgate": {
+          "src": "144:4"
+        },
+        "douay_rheims": {
           "src": "144:4"
         }
       }
@@ -53,9 +75,14 @@
       "verse": 5,
       "latin_vulgate": " Magnificentiam gloriæ sanctitatis tuæ loquentur,  et mirabilia tua narrabunt. ",
       "hebrew_masoretic": "הֲ֭דַר כְּב֣וֹד הוֹדֶ֑ךָ וְדִבְרֵ֖י נִפְלְאֹתֶ֣יךָ אָשִֽׂיחָה׃",
+      "douay_rheims": "They shall speak of the magnificence of the glory of thy holiness: and shall tell thy wondrous works.",
+      "finnish_biblia": "Minä ajattelen sinun suuren kunnias kauneutta ja sinun ihmeitäs; ",
       "king_james": "I will speak of the glorious honour of thy majesty, and of thy wondrous works.",
       "refs": {
         "latin_vulgate": {
+          "src": "144:5"
+        },
+        "douay_rheims": {
           "src": "144:5"
         }
       }
@@ -64,9 +91,14 @@
       "verse": 6,
       "latin_vulgate": " Et virtutem terribilium tuorum dicent,  et magnitudinem tuam narrabunt. ",
       "hebrew_masoretic": "וֶעֱז֣וּז נֽוֹרְאֹתֶ֣יךָ יֹאמֵ֑רוּ (וגדלותיך) [וּגְדֻלָּתְךָ֥] אֲסַפְּרֶֽנָּה׃",
+      "douay_rheims": "And they shall speak of the might of thy terrible acts: and shall declare thy greatness.",
+      "finnish_biblia": "Että puhuttaisiin sinun ihmeellisten töittes voimasta: ja sinun suurta herrauttas minä juttelen; ",
       "king_james": "And men shall speak of the might of thy terrible acts: and I will declare thy greatness.",
       "refs": {
         "latin_vulgate": {
+          "src": "144:6"
+        },
+        "douay_rheims": {
           "src": "144:6"
         }
       }
@@ -75,9 +107,14 @@
       "verse": 7,
       "latin_vulgate": " Memoriam abundantiæ suavitatis tuæ eructabunt,  et justitia tua exsultabunt. ",
       "hebrew_masoretic": "זֵ֣כֶר רַב־טוּבְךָ֣ יַבִּ֑יעוּ וְצִדְקָתְךָ֥ יְרַנֵּֽנוּ׃",
+      "douay_rheims": "They shall publish the memory of the abundance of thy sweetness: and shall rejoice in thy justice.",
+      "finnish_biblia": "Että sinun suuren hyvyytes muisto ylistettäisiin, ja sinun vanhurskautes kiitettäisiin. ",
       "king_james": "They shall abundantly utter the memory of thy great goodness, and shall sing of thy righteousness.",
       "refs": {
         "latin_vulgate": {
+          "src": "144:7"
+        },
+        "douay_rheims": {
           "src": "144:7"
         }
       }
@@ -86,9 +123,14 @@
       "verse": 8,
       "latin_vulgate": " Miserator et misericors Dominus :  patiens, et multum misericors. ",
       "hebrew_masoretic": "חַנּ֣וּן וְרַח֣וּם יְהֹוָ֑ה אֶ֥רֶךְ אַ֝פַּ֗יִם וּגְדׇל־חָֽסֶד׃",
+      "douay_rheims": "The Lord is gracious and merciful: patient and plenteous in mercy.",
+      "finnish_biblia": "Armollinen ja laupias on Herra, hidas vihaan ja sangen hyvä. ",
       "king_james": "The Lord is gracious, and full of compassion; slow to anger, and of great mercy.",
       "refs": {
         "latin_vulgate": {
+          "src": "144:8"
+        },
+        "douay_rheims": {
           "src": "144:8"
         }
       }
@@ -97,9 +139,14 @@
       "verse": 9,
       "latin_vulgate": " Suavis Dominus universis,  et miserationes ejus super omnia opera ejus. ",
       "hebrew_masoretic": "טוֹב־יְהֹוָ֥ה לַכֹּ֑ל וְ֝רַחֲמָ֗יו עַל־כׇּל־מַעֲשָֽׂיו׃",
+      "douay_rheims": "The Lord is sweet to all: and his tender mercies are over all his works.",
+      "finnish_biblia": "Suloinen on Herra kaikille, ja armahtaa kaikkia tekojansa. ",
       "king_james": "The Lord is good to all: and his tender mercies are over all his works.",
       "refs": {
         "latin_vulgate": {
+          "src": "144:9"
+        },
+        "douay_rheims": {
           "src": "144:9"
         }
       }
@@ -108,9 +155,14 @@
       "verse": 10,
       "latin_vulgate": " Confiteantur tibi, Domine, omnia opera tua,  et sancti tui benedicant tibi. ",
       "hebrew_masoretic": "יוֹד֣וּךָ יְ֭הֹוָה כׇּל־מַעֲשֶׂ֑יךָ וַ֝חֲסִידֶ֗יךָ יְבָרְכֽוּכָה׃",
+      "douay_rheims": "Let all thy works, O Lord, praise thee: and let thy saints bless thee.",
+      "finnish_biblia": "Kiittäkään sinua, Herra, kaikki sinun tekos, ja sinun pyhäs kiittäkään sinua; ",
       "king_james": "All thy works shall praise thee, O Lord; and thy saints shall bless thee.",
       "refs": {
         "latin_vulgate": {
+          "src": "144:10"
+        },
+        "douay_rheims": {
           "src": "144:10"
         }
       }
@@ -119,9 +171,14 @@
       "verse": 11,
       "latin_vulgate": " Gloriam regni tui dicent,  et potentiam tuam loquentur : ",
       "hebrew_masoretic": "כְּב֣וֹד מַלְכוּתְךָ֣ יֹאמֵ֑רוּ וּגְבוּרָתְךָ֥ יְדַבֵּֽרוּ׃",
+      "douay_rheims": "They shall speak of the glory of thy kingdom: and shall tell of thy power:",
+      "finnish_biblia": "Julistakaan sinun valtakuntas kunniaa, ja puhukaa sinun voimastas. ",
       "king_james": "They shall speak of the glory of thy kingdom, and talk of thy power;",
       "refs": {
         "latin_vulgate": {
+          "src": "144:11"
+        },
+        "douay_rheims": {
           "src": "144:11"
         }
       }
@@ -130,9 +187,14 @@
       "verse": 12,
       "latin_vulgate": " ut notam faciant filiis hominum potentiam tuam,  et gloriam magnificentiæ regni tui. ",
       "hebrew_masoretic": "לְהוֹדִ֤יעַ ׀ לִבְנֵ֣י הָ֭אָדָם גְּבוּרֹתָ֑יו וּ֝כְב֗וֹד הֲדַ֣ר מַלְכוּתֽוֹ׃",
+      "douay_rheims": "To make thy might known to the sons of men: and the glory of the magnificence of thy kingdom.",
+      "finnish_biblia": "Että sinun voimas tulis ihmisten lapsille tiettäväksi, ja sinun valtakuntas suuri kunnia. ",
       "king_james": "To make known to the sons of men his mighty acts, and the glorious majesty of his kingdom.",
       "refs": {
         "latin_vulgate": {
+          "src": "144:12"
+        },
+        "douay_rheims": {
           "src": "144:12"
         }
       }
@@ -141,9 +203,14 @@
       "verse": 13,
       "latin_vulgate": " Regnum tuum regnum omnium sæculorum ;  et dominatio tua in omni generatione et generationem.  Fidelis Dominus in omnibus verbis suis,  et sanctus in omnibus operibus suis. ",
       "hebrew_masoretic": "מַֽלְכוּתְךָ֗ מַלְכ֥וּת כׇּל־עֹלָמִ֑ים וּ֝מֶֽמְשַׁלְתְּךָ֗ בְּכׇל־דּ֥וֹר וָדֹֽר׃",
+      "douay_rheims": "Thy kingdom is a kingdom of all ages: and thy dominion endureth throughout all generations. The Lord is faithful in all his words: and holy in all his works.",
+      "finnish_biblia": "Sinun valtakuntas on ijankaikkinen valtakunta, ja sinun herrautes pysyy suvusta sukuun. ",
       "king_james": "Thy kingdom is an everlasting kingdom, and thy dominion endureth throughout all generations.",
       "refs": {
         "latin_vulgate": {
+          "src": "144:13"
+        },
+        "douay_rheims": {
           "src": "144:13"
         }
       }
@@ -152,9 +219,14 @@
       "verse": 14,
       "latin_vulgate": " Allevat Dominus omnes qui corruunt,  et erigit omnes elisos. ",
       "hebrew_masoretic": "סוֹמֵ֣ךְ יְ֭הֹוָה לְכׇל־הַנֹּפְלִ֑ים וְ֝זוֹקֵ֗ף לְכׇל־הַכְּפוּפִֽים׃",
+      "douay_rheims": "The Lord lifteth up all that fall: and setteth up all that are cast down.",
+      "finnish_biblia": "Herra tukee kaikkia kaatuvaisia, ja nostaa kaikkia sullotuita. ",
       "king_james": "The Lord upholdeth all that fall, and raiseth up all those that be bowed down.",
       "refs": {
         "latin_vulgate": {
+          "src": "144:14"
+        },
+        "douay_rheims": {
           "src": "144:14"
         }
       }
@@ -163,9 +235,14 @@
       "verse": 15,
       "latin_vulgate": " Oculi omnium in te sperant, Domine,  et tu das escam illorum in tempore opportuno. ",
       "hebrew_masoretic": "עֵֽינֵי־כֹ֭ל אֵלֶ֣יךָ יְשַׂבֵּ֑רוּ וְאַתָּ֤ה נֽוֹתֵן־לָהֶ֖ם אֶת־אׇכְלָ֣ם בְּעִתּֽוֹ׃",
+      "douay_rheims": "The eyes of all hope in thee, O Lord: and thou givest them meat in due season.",
+      "finnish_biblia": "Kaikkein silmät vartioitsevat sinua, ja sinä annat heille ruan ajallansa. ",
       "king_james": "The eyes of all wait upon thee; and thou givest them their meat in due season.",
       "refs": {
         "latin_vulgate": {
+          "src": "144:15"
+        },
+        "douay_rheims": {
           "src": "144:15"
         }
       }
@@ -174,9 +251,14 @@
       "verse": 16,
       "latin_vulgate": " Aperis tu manum tuam,  et imples omne animal benedictione. ",
       "hebrew_masoretic": "פּוֹתֵ֥חַ אֶת־יָדֶ֑ךָ וּמַשְׂבִּ֖יעַ לְכׇל־חַ֣י רָצֽוֹן׃",
+      "douay_rheims": "Thou openest thy hand, and fillest with blessing every living creature.",
+      "finnish_biblia": "Sinä avaat kätes, ja ravitset kaikki, kuin elävät, suosiolla. ",
       "king_james": "Thou openest thine hand, and satisfiest the desire of every living thing.",
       "refs": {
         "latin_vulgate": {
+          "src": "144:16"
+        },
+        "douay_rheims": {
           "src": "144:16"
         }
       }
@@ -185,9 +267,14 @@
       "verse": 17,
       "latin_vulgate": " Justus Dominus in omnibus viis suis,  et sanctus in omnibus operibus suis. ",
       "hebrew_masoretic": "צַדִּ֣יק יְ֭הֹוָה בְּכׇל־דְּרָכָ֑יו וְ֝חָסִ֗יד בְּכׇל־מַעֲשָֽׂיו׃",
+      "douay_rheims": "The Lord is just in all his ways: and holy in all his works.",
+      "finnish_biblia": "Vanhurskas on Herra kaikissa teissänsä, ja laupias kaikissa töissänsä. ",
       "king_james": "The Lord is righteous in all his ways, and holy in all his works.",
       "refs": {
         "latin_vulgate": {
+          "src": "144:17"
+        },
+        "douay_rheims": {
           "src": "144:17"
         }
       }
@@ -196,9 +283,14 @@
       "verse": 18,
       "latin_vulgate": " Prope est Dominus omnibus invocantibus eum,  omnibus invocantibus eum in veritate. ",
       "hebrew_masoretic": "קָר֣וֹב יְ֭הֹוָה לְכׇל־קֹרְאָ֑יו לְכֹ֤ל אֲשֶׁ֖ר יִקְרָאֻ֣הוּ בֶאֱמֶֽת׃",
+      "douay_rheims": "The Lord is nigh unto all them that call upon him: to all that call upon him in truth.",
+      "finnish_biblia": "Läsnä on Herra kaikkia, jotka häntä avuksensa huutavat, kaikkia, jotka totuudessa häntä avuksensa huutavat. ",
       "king_james": "The Lord is nigh unto all them that call upon him, to all that call upon him in truth.",
       "refs": {
         "latin_vulgate": {
+          "src": "144:18"
+        },
+        "douay_rheims": {
           "src": "144:18"
         }
       }
@@ -207,9 +299,14 @@
       "verse": 19,
       "latin_vulgate": " Voluntatem timentium se faciet,  et deprecationem eorum exaudiet, et salvos faciet eos. ",
       "hebrew_masoretic": "רְצוֹן־יְרֵאָ֥יו יַעֲשֶׂ֑ה וְֽאֶת־שַׁוְעָתָ֥ם יִ֝שְׁמַ֗ע וְיוֹשִׁיעֵֽם׃",
+      "douay_rheims": "He will do the will of them that fear him: and he will hear their prayer, and save them.",
+      "finnish_biblia": "Hän tekee, mitä häntä pelkääväiset halajavat, ja kuulee heidän huutonsa, ja auttaa heitä. ",
       "king_james": "He will fulfil the desire of them that fear him: he also will hear their cry, and will save them.",
       "refs": {
         "latin_vulgate": {
+          "src": "144:19"
+        },
+        "douay_rheims": {
           "src": "144:19"
         }
       }
@@ -218,9 +315,14 @@
       "verse": 20,
       "latin_vulgate": " Custodit Dominus omnes diligentes se,  et omnes peccatores disperdet. ",
       "hebrew_masoretic": "שׁוֹמֵ֣ר יְ֭הֹוָה אֶת־כׇּל־אֹהֲבָ֑יו וְאֵ֖ת כׇּל־הָרְשָׁעִ֣ים יַשְׁמִֽיד׃",
+      "douay_rheims": "The Lord keepeth all them that love him; but all the wicked he will destroy.",
+      "finnish_biblia": "Herra varjelee kaikkia, jotka häntä rakastavat, ja hukuttaa kaikki jumalattomat. ",
       "king_james": "The Lord preserveth all them that love him: but all the wicked will he destroy.",
       "refs": {
         "latin_vulgate": {
+          "src": "144:20"
+        },
+        "douay_rheims": {
           "src": "144:20"
         }
       }
@@ -229,9 +331,14 @@
       "verse": 21,
       "latin_vulgate": " Laudationem Domini loquetur os meum ;  et benedicat omnis caro nomini sancto ejus in sæculum, et in sæculum sæculi.  ",
       "hebrew_masoretic": "תְּהִלַּ֥ת יְהֹוָ֗ה יְֽדַבֶּ֫ר־פִּ֥י וִיבָרֵ֣ךְ כׇּל־בָּ֭שָׂר שֵׁ֥ם קׇדְשׁ֗וֹ לְעוֹלָ֥ם וָעֶֽד׃ {פ}",
+      "douay_rheims": "My mouth shall speak the praise of the Lord: and let all flesh bless his holy name forever; yea, for ever and ever. ",
+      "finnish_biblia": "Minun suuni pitää puhuman Herran kiitoksen, ja kaikki liha kunnioittakaan hänen pyhää nimeänsä, aina ja ijankaikkisesti.   ",
       "king_james": "My mouth shall speak the praise of the Lord: and let all flesh bless his holy name for ever and ever. ",
       "refs": {
         "latin_vulgate": {
+          "src": "144:21"
+        },
+        "douay_rheims": {
           "src": "144:21"
         }
       }

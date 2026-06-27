@@ -2,6 +2,8 @@
   "book_id": "ISA",
   "latin_name": "Isaias",
   "hebrew_name": "יְשַׁעְיָהוּ",
+  "douay_name": "Isaias",
+  "finnish_name": "Jesaja",
   "english_name": "Isaiah",
   "chapter": 50,
   "verses": [
@@ -9,66 +11,88 @@
       "verse": 1,
       "latin_vulgate": "Hæc dicit Dominus :  Quis est hic liber repudii matris vestræ,  quo dimisi eam ?  aut quis est creditor meus,  cui vendidi vos ?  Ecce in iniquitatibus vestris venditi estis,  et in sceleribus vestris dimisi matrem vestram. ",
       "hebrew_masoretic": "כֹּ֣ה ׀ אָמַ֣ר יְהֹוָ֗ה אֵ֣י זֶ֠ה סֵ֣פֶר כְּרִית֤וּת אִמְּכֶם֙ אֲשֶׁ֣ר שִׁלַּחְתִּ֔יהָ א֚וֹ מִ֣י מִנּוֹשַׁ֔י אֲשֶׁר־מָכַ֥רְתִּי אֶתְכֶ֖ם ל֑וֹ הֵ֤ן בַּעֲוֺנֹֽתֵיכֶם֙ נִמְכַּרְתֶּ֔ם וּבְפִשְׁעֵיכֶ֖ם שֻׁלְּחָ֥ה אִמְּכֶֽם׃",
+      "douay_rheims": "Thus saith the Lord: What is this bill of the divorce of your mother, with which I have put her away? or who is my creditor, to whom I sold you: behold you are sold for your iniquities, and for your wicked deeds have I put your mother away.",
+      "finnish_biblia": "Näin sanoo Herra: kussa on äitinne erokirja, jolla minä olen hänen hyljännyt? eli kuka on minun korkorahani kantaja, jolle minä teidät olen myynyt? Katso, te olette synteinne tähden myydyt, ja äitinne on teidän rikostenne tähden hyljätty. ",
       "king_james": "Thus saith the Lord, Where is the bill of your mother’s divorcement, whom I have put away? or which of my creditors is it to whom I have sold you? Behold, for your iniquities have ye sold yourselves, and for your transgressions is your mother put away."
     },
     {
       "verse": 2,
       "latin_vulgate": " Quia veni, et non erat vir ;  vocavi, et non erat qui audiret.  Numquid abbreviata et parvula facta est manus mea,  ut non possim redimere ?  aut non est in me virtus ad liberandum ?  Ecce in increpatione mea desertum faciam mare,  ponam flumina in siccum ;  computrescent pisces sine aqua,  et morientur in siti. ",
       "hebrew_masoretic": "מַדּ֨וּעַ בָּ֜אתִי וְאֵ֣ין אִ֗ישׁ קָרָ֘אתִי֮ וְאֵ֣ין עוֹנֶה֒ הֲקָצ֨וֹר קָצְרָ֤ה יָדִי֙ מִפְּד֔וּת וְאִם־אֵֽין־בִּ֥י כֹ֖חַ לְהַצִּ֑יל הֵ֣ן בְּגַעֲרָתִ֞י אַחֲרִ֣יב יָ֗ם אָשִׂ֤ים נְהָרוֹת֙ מִדְבָּ֔ר תִּבְאַ֤שׁ דְּגָתָם֙ מֵאֵ֣ין מַ֔יִם וְתָמֹ֖ת בַּצָּמָֽא׃",
+      "douay_rheims": "Because I came, and there was not a man: I called, and there was none that would hear. Is my hand shortened and become little, that I cannot redeem? or is there no strength in me to deliver? Behold at my rebuke I will make the sea a desert, I will turn the rivers into dry land: the fishes shall rot for want of water, and shall die for thirst.",
+      "finnish_biblia": "Miksi minä tulin, ja ei ollut siellä ketään? Minä huusin, ja ei yksikään vastannut? onko minun käteni niin peräti lyhentynyt, ettei hän voi pelastaa? ja eikö minulla ole voimaa vapahtaa? Katso, nuhtelemisellani teen minä meren kuivaksi, ja teen virrat korveksi, niin että kalat haisevat veden puuttumisen tähden ja kuolevat janosta. ",
       "king_james": "Wherefore, when I came, was there no man? when I called, was there none to answer? Is my hand shortened at all, that it cannot redeem? or have I no power to deliver? behold, at my rebuke I dry up the sea, I make the rivers a wilderness: their fish stinketh, because there is no water, and dieth for thirst."
     },
     {
       "verse": 3,
       "latin_vulgate": " Induam cælos tenebris,  et saccum ponam operimentum eorum. ",
       "hebrew_masoretic": "אַלְבִּ֥ישׁ שָׁמַ֖יִם קַדְר֑וּת וְשַׂ֖ק אָשִׂ֥ים כְּסוּתָֽם׃ {פ}",
+      "douay_rheims": "I will clothe the heavens with darkness, and will make sackcloth their covering.",
+      "finnish_biblia": "Minä puetan taivaan pimeydellä, ja teen hänen peitteensä niinkuin säkin. ",
       "king_james": "I clothe the heavens with blackness, and I make sackcloth their covering."
     },
     {
       "verse": 4,
       "latin_vulgate": " Dominus dedit mihi  linguam eruditam,  ut sciam sustentare eum qui lassus est verbo.  Erigit mane,  mane erigit mihi aurem,  ut audiam quasi magistrum. ",
       "hebrew_masoretic": "אֲדֹנָ֣י יֱהֹוִ֗ה נָ֤תַן לִי֙ לְשׁ֣וֹן לִמּוּדִ֔ים לָדַ֛עַת לָע֥וּת אֶת־יָעֵ֖ף דָּבָ֑ר יָעִ֣יר ׀ בַּבֹּ֣קֶר בַּבֹּ֗קֶר יָעִ֥יר לִי֙ אֹ֔זֶן לִשְׁמֹ֖עַ כַּלִּמּוּדִֽים׃",
+      "douay_rheims": "The Lord hath given me a learned tongue, that I should know how to uphold by word him that is weary: he wakeneth in the morning, in the morning he wakeneth my ear, that I may hear him as a master.",
+      "finnish_biblia": "Herra, Herra antoi minulle oppineen kielen, taitaakseni puhua väsyneille ajallansa. Hän herättää minun joka aamu, hän herättää minulle korvan kuulemaan niinkuin opetuslapsen. ",
       "king_james": "The Lord God hath given me the tongue of the learned, that I should know how to speak a word in season to him that is weary: he wakeneth morning by morning, he wakeneth mine ear to hear as the learned."
     },
     {
       "verse": 5,
       "latin_vulgate": " Dominus Deus aperuit mihi aurem,  ego autem non contradico :  retrorsum non abii. ",
       "hebrew_masoretic": "אֲדֹנָ֤י יֱהֹוִה֙ פָּתַֽח־לִ֣י אֹ֔זֶן וְאָנֹכִ֖י לֹ֣א מָרִ֑יתִי אָח֖וֹר לֹ֥א נְסוּגֹֽתִי׃",
+      "douay_rheims": "The Lord God hath opened my ear, and I do not resist: I have not gone back.",
+      "finnish_biblia": "Herra, Herra avasi minulle korvan, ja en ole minä tottelematoin, enkä mene takaperin. ",
       "king_james": "The Lord God hath opened mine ear, and I was not rebellious, neither turned away back."
     },
     {
       "verse": 6,
       "latin_vulgate": " Corpus meum dedi percutientibus,  et genas meas vellentibus ;  faciem meam non averti ab increpantibus  et conspuentibus in me. ",
       "hebrew_masoretic": "גֵּוִי֙ נָתַ֣תִּי לְמַכִּ֔ים וּלְחָיַ֖י לְמֹֽרְטִ֑ים פָּנַי֙ לֹ֣א הִסְתַּ֔רְתִּי מִכְּלִמּ֖וֹת וָרֹֽק׃",
+      "douay_rheims": "I have given my body to the strikers, and my cheeks to them that plucked them: I have not turned away my face from them that rebuked me, and spit upon me.",
+      "finnish_biblia": "Minä annoin selkäni niille, jotka minua pieksivät, ja poskeni niille, jotka minua repelivät; en minä kääntänyt kasvojani pois häväistyksistä ja syljestä. ",
       "king_james": "I gave my back to the smiters, and my cheeks to them that plucked off the hair: I hid not my face from shame and spitting."
     },
     {
       "verse": 7,
       "latin_vulgate": " Dominus Deus auxiliator meus,  ideo non sum confusus ;  ideo posui faciem meam ut petram durissimam,  et scio quoniam non confundar. ",
       "hebrew_masoretic": "וַאדֹנָ֤י יֱהֹוִה֙ יַֽעֲזׇר־לִ֔י עַל־כֵּ֖ן לֹ֣א נִכְלָ֑מְתִּי עַל־כֵּ֞ן שַׂ֤מְתִּי פָנַי֙ כַּחַלָּמִ֔ישׁ וָאֵדַ֖ע כִּי־לֹ֥א אֵבֽוֹשׁ׃",
+      "douay_rheims": "The Lord God is my helper, therefore am I not confounded: therefore have I set my face as a most hard rock, and I know that I shall not be confounded.",
+      "finnish_biblia": "Ja Herra, Herra minua auttaa, sentähden en minä tule häpiään; sentähden panin minä kasvoni niinkuin limsiön, sillä minä tiedän, etten minä tule häpiään. ",
       "king_james": "For the Lord God will help me; therefore shall I not be confounded: therefore have I set my face like a flint, and I know that I shall not be ashamed."
     },
     {
       "verse": 8,
       "latin_vulgate": " Juxta est qui justificat me ; quis contradicet mihi ?  Stemus simul ;  quis est adversarius meus ? accedat ad me. ",
       "hebrew_masoretic": "קָרוֹב֙ מַצְדִּיקִ֔י מִֽי־יָרִ֥יב אִתִּ֖י נַ֣עַמְדָה יָּ֑חַד מִי־בַ֥עַל מִשְׁפָּטִ֖י יִגַּ֥שׁ אֵלָֽי׃",
+      "douay_rheims": "He is near that justifieth me, who will contend with me? let us stand together, who is my adversary? let him come near to me.",
+      "finnish_biblia": "Se on läsnä, joka minun vanhurskauttaa; kuka tahtoo riidellä minun kanssani? Seisokaamme ynnä; kellä on oikeus minua vastaan, se tulkoon tänne minun tyköni. ",
       "king_james": "He is near that justifieth me; who will contend with me? let us stand together: who is mine adversary? let him come near to me."
     },
     {
       "verse": 9,
       "latin_vulgate": " Ecce Dominus Deus auxiliator meus ;  quis est qui condemnet me ?  Ecce omnes quasi vestimentum conterentur ;  tinea comedet eos. ",
       "hebrew_masoretic": "הֵ֣ן אֲדֹנָ֤י יֱהֹוִה֙ יַעֲזׇר־לִ֔י מִי־ה֖וּא יַרְשִׁיעֵ֑נִי הֵ֤ן כֻּלָּם֙ כַּבֶּ֣גֶד יִבְל֔וּ עָ֖שׁ יֹאכְלֵֽם׃ {ס}",
+      "douay_rheims": "Behold the Lord God is my helper: who is he that shall condemn me? Lo, they shall all be destroyed as a garment, the moth shall eat them up.",
+      "finnish_biblia": "Katso, Herra, Herra auttaa minua, kuka tahtoo minua kadottaa? Katso, ne kaikki vanhenevat niinkuin vaate, koit syövät heidät. ",
       "king_james": "Behold, the Lord God will help me; who is he that shall condemn me? lo, they all shall wax old as a garment; the moth shall eat them up."
     },
     {
       "verse": 10,
       "latin_vulgate": " Quis ex vobis timens Dominum,  audiens vocem servi sui ?  Qui ambulavit in tenebris,  et non est lumen ei,  speret in nomine Domini,  et innitatur super Deum suum. ",
       "hebrew_masoretic": "מִ֤י בָכֶם֙ יְרֵ֣א יְהֹוָ֔ה שֹׁמֵ֖עַ בְּק֣וֹל עַבְדּ֑וֹ אֲשֶׁ֣ר ׀ הָלַ֣ךְ חֲשֵׁכִ֗ים וְאֵ֥ין נֹ֙גַהּ֙ ל֔וֹ יִבְטַח֙ בְּשֵׁ֣ם יְהֹוָ֔ה וְיִשָּׁעֵ֖ן בֵּאלֹהָֽיו׃ {ס}",
+      "douay_rheims": "Who is there among you that feareth the Lord, that heareth the voice of his servant, that hath walked in darkness, and hath no light? let him hope in the name of the Lord, and lean upon his God.",
+      "finnish_biblia": "Kuka on teidän seassanne, joka pelkää Herraa, joka hänen palveliansa ääntä kuultelee. Joka pimeydessä vaeltaa, ja ei näe valkeutta, se toivokaan Herran nimen päälle, ja luottakaan Jumalansa päälle. ",
       "king_james": "Who is among you that feareth the Lord, that obeyeth the voice of his servant, that walketh in darkness, and hath no light? let him trust in the name of the Lord, and stay upon his God."
     },
     {
       "verse": 11,
       "latin_vulgate": " Ecce vos omnes accendentes ignem,  accincti flammis :  ambulate in lumine ignis vestri,  et in flammis quas succendistis ;  de manu mea factum est hoc vobis :  in doloribus dormietis.  ",
       "hebrew_masoretic": "הֵ֧ן כֻּלְּכֶ֛ם קֹ֥דְחֵי אֵ֖שׁ מְאַזְּרֵ֣י זִיק֑וֹת לְכ֣וּ ׀ בְּא֣וּר אֶשְׁכֶ֗ם וּבְזִיקוֹת֙ בִּֽעַרְתֶּ֔ם מִיָּדִי֙ הָיְתָה־זֹּ֣את לָכֶ֔ם לְמַעֲצֵבָ֖ה תִּשְׁכָּבֽוּן׃ {ס}",
+      "douay_rheims": "Behold all you that kindle a fire, encompassed with flames, walk in the light of your fire, and in the flames which you have kindled: this is done to you by my hand, you shall sleep in sorrows. ",
+      "finnish_biblia": "Katso, te kaikki, jotka tulen sytytätte, jotka olette liekillä hankitut, vaeltakaat teidän tulenne valkeudessa, ja siinä liekissä, jonka te sytytitte. Se tapahtuu teille minun kädestäni; kivussa täytyy teidän levätä.   ",
       "king_james": "Behold, all ye that kindle a fire, that compass yourselves about with sparks: walk in the light of your fire, and in the sparks that ye have kindled. This shall ye have of mine hand; ye shall lie down in sorrow. "
     }
   ]

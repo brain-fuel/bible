@@ -2,6 +2,8 @@
   "book_id": "PSA",
   "latin_name": "Liber Psalmorum",
   "hebrew_name": "תְּהִלִּים",
+  "douay_name": "Psalms",
+  "finnish_name": "Psalmit",
   "english_name": "Psalms",
   "chapter": 27,
   "verses": [
@@ -9,9 +11,14 @@
       "verse": 1,
       "latin_vulgate": "Psalmus David, priusquam liniretur.   Dominus illuminatio mea et salus mea : quem timebo ?  Dominus protector vitæ meæ :  a quo trepidabo ? ",
       "hebrew_masoretic": "לְדָוִ֨ד ׀ יְהֹוָ֤ה ׀ אוֹרִ֣י וְ֭יִשְׁעִי מִמִּ֣י אִירָ֑א יְהֹוָ֥ה מָעוֹז־חַ֝יַּ֗י מִמִּ֥י אֶפְחָֽד׃",
+      "douay_rheims": "The psalm of David before he was anointed. The Lord is my light and my salvation, whom shall I fear? The Lord is the protector of my life: of whom shall I be afraid?",
+      "finnish_biblia": "Davidin Psalmi. Herra on minun valistukseni ja autuuteni, ketä minä pelkään? Herra on henkeni väkevyys, ketä minä vapisen? ",
       "king_james": "The Lord is my light and my salvation; whom shall I fear? the Lord is the strength of my life; of whom shall I be afraid?",
       "refs": {
         "latin_vulgate": {
+          "src": "26:1"
+        },
+        "douay_rheims": {
           "src": "26:1"
         }
       }
@@ -20,9 +27,14 @@
       "verse": 2,
       "latin_vulgate": " Dum appropiant super me nocentes ut edant carnes meas,  qui tribulant me inimici mei,  ipsi infirmati sunt et ceciderunt. ",
       "hebrew_masoretic": "בִּקְרֹ֤ב עָלַ֨י ׀ מְרֵעִים֮ לֶאֱכֹ֢ל אֶת־בְּשָׂ֫רִ֥י צָרַ֣י וְאֹיְבַ֣י לִ֑י הֵ֖מָּה כָשְׁל֣וּ וְנָפָֽלוּ׃",
+      "douay_rheims": "Whilst the wicked draw near against me, to eat my flesh. My enemies that trouble me, have themselves been weakened, and have fallen.",
+      "finnish_biblia": "Sentähden, vaikka pahat, vainolliseni ja viholliseni, lähestyvät minun lihaani syömään, täytyy heidän kuintenkin itseänsä loukata ja langeta. ",
       "king_james": "When the wicked, even mine enemies and my foes, came upon me to eat up my flesh, they stumbled and fell.",
       "refs": {
         "latin_vulgate": {
+          "src": "26:2"
+        },
+        "douay_rheims": {
           "src": "26:2"
         }
       }
@@ -31,9 +43,14 @@
       "verse": 3,
       "latin_vulgate": " Si consistant adversum me castra, non timebit cor meum ;  si exsurgat adversum me prælium, in hoc ego sperabo. ",
       "hebrew_masoretic": "אִם־תַּחֲנֶ֬ה עָלַ֨י ׀ מַחֲנֶה֮ לֹא־יִירָ֢א לִ֫בִּ֥י אִם־תָּק֣וּם עָ֭לַי מִלְחָמָ֑ה בְּ֝זֹ֗את אֲנִ֣י בוֹטֵֽחַ׃",
+      "douay_rheims": "If armies in camp should stand together against me, my heart shall not fear. If a battle should rise up against me, in this will I be confident.",
+      "finnish_biblia": "Ja vaikka sotaväki saartais minua, niin ei sydämeni sentähden pelkäisi; ja jos sota nousis minua vastaan, minä turvaan sittekin häneen. ",
       "king_james": "Though an host should encamp against me, my heart shall not fear: though war should rise against me, in this will I be confident.",
       "refs": {
         "latin_vulgate": {
+          "src": "26:3"
+        },
+        "douay_rheims": {
           "src": "26:3"
         }
       }
@@ -42,9 +59,14 @@
       "verse": 4,
       "latin_vulgate": " Unam petii a Domino, hanc requiram,  ut inhabitem in domo Domini omnibus diebus vitæ meæ ;  ut videam voluptatem Domini, et visitem templum ejus. ",
       "hebrew_masoretic": "אַחַ֤ת ׀ שָׁאַ֣לְתִּי מֵאֵת־יְהֹוָה֮ אוֹתָ֢הּ אֲבַ֫קֵּ֥שׁ שִׁבְתִּ֣י בְּבֵית־יְ֭הֹוָה כׇּל־יְמֵ֣י חַיַּ֑י לַחֲז֥וֹת בְּנֹעַם־יְ֝הֹוָ֗ה וּלְבַקֵּ֥ר בְּהֵֽיכָלֽוֹ׃",
+      "douay_rheims": "One thing I have asked of the Lord, this will I seek after; that I may dwell in the house of the Lord all the days of my life. That I may see the delight of the Lord, and may visit his temple.",
+      "finnish_biblia": "Yhtä minä Herralta anon, sitä minä pyydän, asuakseni Herran huoneessa kaiken elinaikani: että minä näkisin Herran kauniin jumalanpalveluksen, ja hänen templiänsä etsisin. ",
       "king_james": "One thing have I desired of the Lord, that will I seek after; that I may dwell in the house of the Lord all the days of my life, to behold the beauty of the Lord, and to enquire in his temple.",
       "refs": {
         "latin_vulgate": {
+          "src": "26:4"
+        },
+        "douay_rheims": {
           "src": "26:4"
         }
       }
@@ -53,9 +75,14 @@
       "verse": 5,
       "latin_vulgate": " Quoniam abscondit me in tabernaculo suo ;  in die malorum protexit me in abscondito tabernaculi sui. ",
       "hebrew_masoretic": "כִּ֤י יִצְפְּנֵ֨נִי ׀ בְּסֻכֹּה֮ בְּי֢וֹם רָ֫עָ֥ה יַ֭סְתִּרֵנִי בְּסֵ֣תֶר אׇהֳל֑וֹ בְּ֝צ֗וּר יְרוֹמְמֵֽנִי׃",
+      "douay_rheims": "For he hath hidden me in his tabernacle; in the day of evils, he hath protected me in the secret place of his tabernacle.",
+      "finnish_biblia": "Sillä hän peittää minua majassansa pahana aikana: hän kätkee minun salaiseen majaansa, ja korottaa minun kalliolle. ",
       "king_james": "For in the time of trouble he shall hide me in his pavilion: in the secret of his tabernacle shall he hide me; he shall set me up upon a rock.",
       "refs": {
         "latin_vulgate": {
+          "src": "26:5"
+        },
+        "douay_rheims": {
           "src": "26:5"
         }
       }
@@ -64,9 +91,14 @@
       "verse": 6,
       "latin_vulgate": " In petra exaltavit me,  et nunc exaltavit caput meum super inimicos meos.  Circuivi, et immolavi in tabernaculo ejus hostiam vociferationis ;  cantabo, et psalmum dicam Domino. ",
       "hebrew_masoretic": "וְעַתָּ֨ה יָר֪וּם רֹאשִׁ֡י עַ֤ל אֹיְבַ֬י סְֽבִיבוֹתַ֗י וְאֶזְבְּחָ֣ה בְ֭אׇהֳלוֹ זִבְחֵ֣י תְרוּעָ֑ה אָשִׁ֥ירָה וַ֝אֲזַמְּרָ֗ה לַֽיהֹוָֽה׃",
+      "douay_rheims": "He hath exalted me upon a rock: and now he hath lifted up my head above my enemies. I have gone round, and have offered up in his tabernacle a sacrifice of jubilation: I will sing, and recite a psalm to the Lord.",
+      "finnish_biblia": "Ja hän korottaa nytkin minun pääni vihollisteni ylitse, jotka ympärilläni ovat; niin minä uhraan hänen majassansa kiitosuhria: minä veisaan ja laulan Herralle. ",
       "king_james": "And now shall mine head be lifted up above mine enemies round about me: therefore will I offer in his tabernacle sacrifices of joy; I will sing, yea, I will sing praises unto the Lord.",
       "refs": {
         "latin_vulgate": {
+          "src": "26:6"
+        },
+        "douay_rheims": {
           "src": "26:6"
         }
       }
@@ -75,9 +107,14 @@
       "verse": 7,
       "latin_vulgate": " Exaudi, Domine, vocem meam, qua clamavi ad te ;  miserere mei, et exaudi me. ",
       "hebrew_masoretic": "שְׁמַע־יְהֹוָ֖ה קוֹלִ֥י אֶקְרָ֗א וְחׇנֵּ֥נִי וַעֲנֵֽנִי׃",
+      "douay_rheims": "Hear, O Lord, my voice, with which I have cried to thee: have mercy on me and hear me.",
+      "finnish_biblia": "Herra, kuule minun ääneni, koska minä huudan: ole minulle armollinen, ja kuultele minua. ",
       "king_james": "Hear, O Lord, when I cry with my voice: have mercy also upon me, and answer me.",
       "refs": {
         "latin_vulgate": {
+          "src": "26:7"
+        },
+        "douay_rheims": {
           "src": "26:7"
         }
       }
@@ -86,9 +123,14 @@
       "verse": 8,
       "latin_vulgate": " Tibi dixit cor meum : Exquisivit te facies mea ;  faciem tuam, Domine, requiram. ",
       "hebrew_masoretic": "לְךָ֤ ׀ אָמַ֣ר לִ֭בִּי בַּקְּשׁ֣וּ פָנָ֑י אֶת־פָּנֶ֖יךָ יְהֹוָ֣ה אֲבַקֵּֽשׁ׃",
+      "douay_rheims": "My heart hath said to thee: My face hath sought thee: thy face, O Lord, will I still seek.",
+      "finnish_biblia": "Minun sydämeni sanoo sinulle tämän sinun sanas: etsikäät minun kasvojani! sentähden minä etsin, Herra, sinun kasvojas. ",
       "king_james": "When thou saidst, Seek ye my face; my heart said unto thee, Thy face, Lord, will I seek.",
       "refs": {
         "latin_vulgate": {
+          "src": "26:8"
+        },
+        "douay_rheims": {
           "src": "26:8"
         }
       }
@@ -97,9 +139,14 @@
       "verse": 9,
       "latin_vulgate": " Ne avertas faciem tuam a me ;  ne declines in ira a servo tuo.  Adjutor meus esto ; ne derelinquas me,  neque despicias me, Deus salutaris meus. ",
       "hebrew_masoretic": "אַל־תַּסְתֵּ֬ר פָּנֶ֨יךָ ׀ מִמֶּנִּי֮ אַ֥ל תַּט־בְּאַ֗ף עַ֫בְדֶּ֥ךָ עֶזְרָתִ֥י הָיִ֑יתָ אַֽל־תִּטְּשֵׁ֥נִי וְאַל־תַּ֝עַזְבֵ֗נִי אֱלֹהֵ֥י יִשְׁעִֽי׃",
+      "douay_rheims": "Turn not away thy face from me; decline not in thy wrath from thy servant. Be thou my helper, forsake me not; do not thou despise me, O God my Saviour.",
+      "finnish_biblia": "Älä peitä kasvojas minulta, ja älä sysää pois palveliaas vihassas; sillä sinä olet minun apuni: älä minua hylkää, älä myös minua anna ylön, minun autuuteni Jumala. ",
       "king_james": "Hide not thy face far from me; put not thy servant away in anger: thou hast been my help; leave me not, neither forsake me, O God of my salvation.",
       "refs": {
         "latin_vulgate": {
+          "src": "26:9"
+        },
+        "douay_rheims": {
           "src": "26:9"
         }
       }
@@ -108,9 +155,14 @@
       "verse": 10,
       "latin_vulgate": " Quoniam pater meus et mater mea dereliquerunt me ;  Dominus autem assumpsit me. ",
       "hebrew_masoretic": "כִּֽי־אָבִ֣י וְאִמִּ֣י עֲזָב֑וּנִי וַֽיהֹוָ֣ה יַאַסְפֵֽנִי׃",
+      "douay_rheims": "For my father and my mother have left me: but the Lord hath taken me up.",
+      "finnish_biblia": "Sillä minun isäni ja äitini hylkäsivät minun; mutta Herra korjasi minun. ",
       "king_james": "When my father and my mother forsake me, then the Lord will take me up.",
       "refs": {
         "latin_vulgate": {
+          "src": "26:10"
+        },
+        "douay_rheims": {
           "src": "26:10"
         }
       }
@@ -119,9 +171,14 @@
       "verse": 11,
       "latin_vulgate": " Legem pone mihi, Domine, in via tua,  et dirige me in semitam rectam, propter inimicos meos. ",
       "hebrew_masoretic": "ה֤וֹרֵ֥נִי יְהֹוָ֗ה דַּ֫רְכֶּ֥ךָ וּ֭נְחֵנִי בְּאֹ֣רַח מִישׁ֑וֹר לְ֝מַ֗עַן שֽׁוֹרְרָֽי׃",
+      "douay_rheims": "Set me, O Lord, a law in thy way, and guide me in the right path, because of my enemies.",
+      "finnish_biblia": "Herra, osoita minulle sinun ties, ja johdata minua oikiaa polkua, minun vihollisteni tähden. ",
       "king_james": "Teach me thy way, O Lord, and lead me in a plain path, because of mine enemies.",
       "refs": {
         "latin_vulgate": {
+          "src": "26:11"
+        },
+        "douay_rheims": {
           "src": "26:11"
         }
       }
@@ -130,9 +187,14 @@
       "verse": 12,
       "latin_vulgate": " Ne tradideris me in animas tribulantium me,  quoniam insurrexerunt in me testes iniqui,  et mentita est iniquitas sibi. ",
       "hebrew_masoretic": "אַֽל־תִּ֭תְּנֵנִי בְּנֶ֣פֶשׁ צָרָ֑י כִּ֥י קָמוּ־בִ֥י עֵדֵי־שֶׁ֝֗קֶר וִיפֵ֥חַ חָמָֽס׃",
+      "douay_rheims": "Deliver me not over to the will of them that trouble me; for unjust witnesses have risen up against me; and iniquity hath lied to itself.",
+      "finnish_biblia": "Älä anna minua vihollisteni tahtoon; sillä väärät todistukset seisovat minua vastaan ja tekevät häpeemättä vääryyttä. ",
       "king_james": "Deliver me not over unto the will of mine enemies: for false witnesses are risen up against me, and such as breathe out cruelty.",
       "refs": {
         "latin_vulgate": {
+          "src": "26:12"
+        },
+        "douay_rheims": {
           "src": "26:12"
         }
       }
@@ -141,9 +203,14 @@
       "verse": 13,
       "latin_vulgate": " Credo videre bona Domini in terra viventium. ",
       "hebrew_masoretic": "לׅׄוּׅׄלֵׅ֗ׄאׅׄ הֶ֭אֱמַנְתִּי לִרְא֥וֹת בְּֽטוּב־יְהֹוָ֗ה בְּאֶ֣רֶץ חַיִּֽים׃",
+      "douay_rheims": "I believe to see the good things of the Lord in the land of the living.",
+      "finnish_biblia": "Mutta minä uskon kuitenkin näkeväni Herran hyvyyttä eläväin maalla, ",
       "king_james": "I had fainted, unless I had believed to see the goodness of the Lord in the land of the living.",
       "refs": {
         "latin_vulgate": {
+          "src": "26:13"
+        },
+        "douay_rheims": {
           "src": "26:13"
         }
       }
@@ -152,9 +219,14 @@
       "verse": 14,
       "latin_vulgate": " Expecta Dominum, viriliter age :  et confortetur cor tuum, et sustine Dominum.  ",
       "hebrew_masoretic": "קַוֵּ֗ה אֶל־יְ֫הֹוָ֥ה חֲ֭זַק וְיַאֲמֵ֣ץ לִבֶּ֑ךָ וְ֝קַוֵּ֗ה אֶל־יְהֹוָֽה׃ {פ}",
+      "douay_rheims": "Expect the Lord, do manfully, and let thy heart take courage, and wait thou for the Lord. ",
+      "finnish_biblia": "Odota Herraa, ole hyvässä turvassa, ja hän vahvistaa sinun sydämes: ja odota Herraa.   ",
       "king_james": "Wait on the Lord: be of good courage, and he shall strengthen thine heart: wait, I say, on the Lord. ",
       "refs": {
         "latin_vulgate": {
+          "src": "26:14"
+        },
+        "douay_rheims": {
           "src": "26:14"
         }
       }

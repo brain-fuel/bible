@@ -2,6 +2,8 @@
   "book_id": "1SA",
   "latin_name": "I Samuelis",
   "hebrew_name": "שְׁמוּאֵל א",
+  "douay_name": "1 Kings",
+  "finnish_name": "1. Samuelin kirja",
   "english_name": "1 Samuel",
   "chapter": 20,
   "verses": [
@@ -9,252 +11,336 @@
       "verse": 1,
       "latin_vulgate": "Fugit autem David de Najoth, quæ est in Ramatha, veniensque locutus est coram Jonatha : Quid feci ? quæ est iniquitas mea, et quod peccatum meum in patrem tuum, quia quærit animam meam ? ",
       "hebrew_masoretic": "וַיִּבְרַ֣ח דָּוִ֔ד (מנוות) [מִנָּי֖וֹת] בָּרָמָ֑ה וַיָּבֹ֞א וַיֹּ֣אמֶר ׀ לִפְנֵ֣י יְהוֹנָתָ֗ן מֶ֤ה עָשִׂ֙יתִי֙ מֶֽה־עֲוֺנִ֤י וּמֶֽה־חַטָּאתִי֙ לִפְנֵ֣י אָבִ֔יךָ כִּ֥י מְבַקֵּ֖שׁ אֶת־נַפְשִֽׁי׃",
+      "douay_rheims": "But David fled from Najoth, which is in Ramatha, and came and said to Jonathan: What have I done? what is my iniquity, and what is my sin against thy father, that he seeketh my life?",
+      "finnish_biblia": "Ja David pakeni Raman Najotista, tuli ja sanoi Jonatanille: mitä minä olen tehnyt? mikä on vääryyteni? eli mikä on pahatekoni sinun isääs vastaan, että hän seisoo minun henkeni perään? ",
       "king_james": "And David fled from Naioth in Ramah, and came and said before Jonathan, What have I done? what is mine iniquity? and what is my sin before thy father, that he seeketh my life?"
     },
     {
       "verse": 2,
       "latin_vulgate": "Qui dixit ei : Absit, non morieris : neque enim faciet pater meus quidquam grande vel parvum, nisi prius indicaverit mihi : hunc ergo celavit me pater meus sermonem tantummodo ? nequaquam erit istud. ",
       "hebrew_masoretic": "וַיֹּ֨אמֶר ל֣וֹ חָלִ֘ילָה֮ לֹ֣א תָמוּת֒ הִנֵּ֡ה (לו עשה) [לֹֽא־יַעֲשֶׂ֨ה] אָבִ֜י דָּבָ֣ר גָּד֗וֹל א֚וֹ דָּבָ֣ר קָטֹ֔ן וְלֹ֥א יִגְלֶ֖ה אֶת־אׇזְנִ֑י וּמַדּ֩וּעַ֩ יַסְתִּ֨יר אָבִ֥י מִמֶּ֛נִּי אֶת־הַדָּבָ֥ר הַזֶּ֖ה אֵ֥ין זֹֽאת׃",
+      "douay_rheims": "And he said to him: (God forbid, thou shalt not die: for my father will do nothing, great or little, without first telling me: hath then my father hid this word only from me? no, this shall not be.",
+      "finnish_biblia": "Hän sanoi hänelle: pois se, ei sinun pidä kuoleman: katso, isäni ei tee suurta eli pientä, jota ei hän ilmoita minulle, kuinkas isäni salaa tämän minulta? Ei se pidä niin tapahtuman. ",
       "king_james": "And he said unto him, God forbid; thou shalt not die: behold, my father will do nothing either great or small, but that he will shew it me: and why should my father hide this thing from me? it is not so."
     },
     {
       "verse": 3,
       "latin_vulgate": "Et juravit rursum Davidi. Et ille ait : Scit profecto pater tuus quia inveni gratiam in oculis tuis, et dicet : Nesciat hoc Jonathas, ne forte tristetur. Quinimmo vivit Dominus, et vivit anima tua, quia uno tantum (ut ita dicam) gradu ego morsque dividimur. ",
       "hebrew_masoretic": "וַיִּשָּׁבַ֨ע ע֜וֹד דָּוִ֗ד וַיֹּ֙אמֶר֙ יָדֹ֨עַ יָדַ֜ע אָבִ֗יךָ כִּֽי־מָצָ֤אתִי חֵן֙ בְּעֵינֶ֔יךָ וַיֹּ֛אמֶר אַל־יֵֽדַע־זֹ֥את יְהוֹנָתָ֖ן פֶּן־יֵעָצֵ֑ב וְאוּלָ֗ם חַי־יְהֹוָה֙ וְחֵ֣י נַפְשֶׁ֔ךָ כִּ֣י כְפֶ֔שַׂע בֵּינִ֖י וּבֵ֥ין הַמָּֽוֶת׃",
+      "douay_rheims": "And he swore again to David. And David said: Thy father certainly knoweth that I have found grace in thy sight, and he will say: Let not Jonathan know this, lest he be grieved. But truly as the Lord liveth, and thy soul liveth, there is but one step (as I may say) between me and death.",
+      "finnish_biblia": "Niin David vannoi vielä, sanoen: totisesti sinun isäs tietää, että minä olen löytänyt armon sinun kasvois edessä, sentähden hän ajattelee: ei Jonatanin pidä tästä mitään tietämään, ettei hän tulisi murheelliseksi. Totisesti, niin totta kuin Herra ja sinun sielus elää, että askele on vaivoin minun ja kuoleman vaiheella. ",
       "king_james": "And David sware moreover, and said, Thy father certainly knoweth that I have found grace in thine eyes; and he saith, Let not Jonathan know this, lest he be grieved: but truly as the Lord liveth, and as thy soul liveth, there is but a step between me and death."
     },
     {
       "verse": 4,
       "latin_vulgate": "Et ait Jonathas ad David : Quodcumque dixerit mihi anima tua, faciam tibi. ",
       "hebrew_masoretic": "וַיֹּ֥אמֶר יְהוֹנָתָ֖ן אֶל־דָּוִ֑ד מַה־תֹּאמַ֥ר נַפְשְׁךָ֖ וְאֶעֱשֶׂה־לָּֽךְ׃ {פ}",
+      "douay_rheims": "And Jonathan said to David: Whatsoever thy soul shall say to me, I will do for thee.",
+      "finnish_biblia": "Jonatan sanoi Davidille: minä teen sinulle kaikki, mitä sinun sydämes halajaa. ",
       "king_james": "Then said Jonathan unto David, Whatsoever thy soul desireth, I will even do it for thee."
     },
     {
       "verse": 5,
       "latin_vulgate": "Dixit autem David ad Jonathan : Ecce calendæ sunt crastino, et ego ex more sedere soleo juxta regem ad vescendum : dimitte ergo me ut abscondar in agro usque ad vesperam diei tertiæ. ",
       "hebrew_masoretic": "וַיֹּ֨אמֶר דָּוִ֜ד אֶל־יְהוֹנָתָ֗ן הִֽנֵּה־חֹ֙דֶשׁ֙ מָחָ֔ר וְאָנֹכִ֛י יָשֹׁב־אֵשֵׁ֥ב עִם־הַמֶּ֖לֶךְ לֶאֱכ֑וֹל וְשִׁלַּחְתַּ֙נִי֙ וְנִסְתַּרְתִּ֣י בַשָּׂדֶ֔ה עַ֖ד הָעֶ֥רֶב הַשְּׁלִשִֽׁית׃",
+      "douay_rheims": "And David said to Jonathan: Behold to morrow is the new moon, and I, according to custom, am wont to sit beside the king to eat: let me go then that I may be hid in the field till the evening of the third day.",
+      "finnish_biblia": "David sanoi hänelle: katso, huomenna on uusikuu, ja minun pitäis istuman ja atrioitseman kuninkaan kanssa: salli siis, että minä kätken minuni kedolle kolmannen päivän ehtoosen asti. ",
       "king_james": "And David said unto Jonathan, Behold, to morrow is the new moon, and I should not fail to sit with the king at meat: but let me go, that I may hide myself in the field unto the third day at even."
     },
     {
       "verse": 6,
       "latin_vulgate": "Si respiciens requisierit me pater tuus, respondebis ei : Rogavit me David ut iret celeriter in Bethlehem civitatem suam, quia victimæ solemnes ibi sunt universis contribulibus suis. ",
       "hebrew_masoretic": "אִם־פָּקֹ֥ד יִפְקְדֵ֖נִי אָבִ֑יךָ וְאָמַרְתָּ֗ נִשְׁאֹל֩ נִשְׁאַ֨ל מִמֶּ֤נִּי דָוִד֙ לָרוּץ֙ בֵּֽית־לֶ֣חֶם עִיר֔וֹ כִּ֣י זֶ֧בַח הַיָּמִ֛ים שָׁ֖ם לְכׇל־הַמִּשְׁפָּחָֽה׃",
+      "douay_rheims": "If thy father look and inquire for me, thou shalt answer him: David asked me that he might run to Bethlehem, his own city: because there are solemn sacrifices there for all of his tribe.",
+      "finnish_biblia": "Jos isäs minua kovasti kaipaa, niin sano: David rukoili suuresti minulta juostaksensa kaupunkiinsa Betlehemiin; sillä siellä pidetään ajastaikainen uhri koko sukukunnalta. ",
       "king_james": "If thy father at all miss me, then say, David earnestly asked leave of me that he might run to Beth–lehem his city: for there is a yearly sacrifice there for all the family."
     },
     {
       "verse": 7,
       "latin_vulgate": "Si dixerit : Bene : pax erit servo tuo. Si autem fuerit iratus, scito quia completa est malitia ejus. ",
       "hebrew_masoretic": "אִם־כֹּ֥ה יֹאמַ֛ר ט֖וֹב שָׁל֣וֹם לְעַבְדֶּ֑ךָ וְאִם־חָרֹ֤ה יֶחֱרֶה֙ ל֔וֹ דַּ֕ע כִּֽי־כָלְתָ֥ה הָרָעָ֖ה מֵעִמּֽוֹ׃",
+      "douay_rheims": "If he shall say: It is well: thy servant shall have peace: but if he be angry, know that his malice is come to its height.",
+      "finnish_biblia": "Ja jos hän sanoo: se on hyvin, niin on rauha palveliallas; mutta jos hän kovin vihastuu, niin sinä ymmärrät hänen pahaa aikovan. ",
       "king_james": "If he say thus, It is well; thy servant shall have peace: but if he be very wroth, then be sure that evil is determined by him."
     },
     {
       "verse": 8,
       "latin_vulgate": "Fac ergo misericordiam in servum tuum, quia fœdus Domini me famulum tuum tecum inire fecisti : si autem est iniquitas aliqua in me, tu me interfice, et ad patrem tuum ne introducas me. ",
       "hebrew_masoretic": "וְעָשִׂ֤יתָֽ חֶ֙סֶד֙ עַל־עַבְדֶּ֔ךָ כִּ֚י בִּבְרִ֣ית יְהֹוָ֔ה הֵבֵ֥אתָ אֶֽת־עַבְדְּךָ֖ עִמָּ֑ךְ וְאִם־יֶשׁ־בִּ֤י עָוֺן֙ הֲמִיתֵ֣נִי אַ֔תָּה וְעַד־אָבִ֖יךָ לָמָּה־זֶּ֥ה תְבִיאֵֽנִי׃ {פ}",
+      "douay_rheims": "Deal mercifully then with thy servant: for thou hast brought me, thy servant, into a covenant of the Lord with thee. But if there be any iniquity in me, do thou kill me, and bring me not in to thy father.",
+      "finnish_biblia": "Tee siis laupius palvelialles; sillä sinä olet ottanut palvelias Herran liittoon sinun kanssas. Ja jos joku vääryys minussa on, niin tapa sinä minua: miksis sallit minun tulla isäs eteen. ",
       "king_james": "Therefore thou shalt deal kindly with thy servant; for thou hast brought thy servant into a covenant of the Lord with thee: notwithstanding, if there be in me iniquity, slay me thyself; for why shouldest thou bring me to thy father?"
     },
     {
       "verse": 9,
       "latin_vulgate": "Et ait Jonathas : Absit hoc a te : neque enim fieri potest, ut si certe cognovero completam esse patris mei malitiam contra te, non annuntiem tibi. ",
       "hebrew_masoretic": "וַיֹּ֥אמֶר יְהוֹנָתָ֖ן חָלִ֣ילָה לָּ֑ךְ כִּ֣י ׀ אִם־יָדֹ֣עַ אֵדַ֗ע כִּֽי־כָלְתָ֨ה הָרָעָ֜ה מֵעִ֤ם אָבִי֙ לָב֣וֹא עָלֶ֔יךָ וְלֹ֥א אֹתָ֖הּ אַגִּ֥יד לָֽךְ׃ {ס}",
+      "douay_rheims": "And Jonathan said: Far be this from thee: for if I should certainly know that evil is determined by my father against thee, I could do no otherwise than tell thee.",
+      "finnish_biblia": "Jonatan sanoi: pois se sinusta, sillä jos minä ymmärtäisin isäni aikovan sinulle pahaa tehdä, tullaksensa sinun päälles, enkö minä näitä sinulle ilmoittaisi? ",
       "king_james": "And Jonathan said, Far be it from thee: for if I knew certainly that evil were determined by my father to come upon thee, then would not I tell it thee?"
     },
     {
       "verse": 10,
       "latin_vulgate": "Responditque David ad Jonathan : Quis renuntiabit mihi, si quid forte responderit tibi pater tuus dure de me ?  ",
       "hebrew_masoretic": "וַיֹּ֤אמֶר דָּוִד֙ אֶל־יְה֣וֹנָתָ֔ן מִ֖י יַגִּ֣יד לִ֑י א֛וֹ מַה־יַּעַנְךָ֥ אָבִ֖יךָ קָשָֽׁה׃ {ס}",
+      "douay_rheims": "And David answered Jonathan: Who shall bring me word, if thy father should answer thee harshly concerning me?",
+      "finnish_biblia": "David sanoi Jonatanille: kuka minulle ilmoittaa, jos sinun isäs vastaa sinua jotakin kovasti? ",
       "king_james": "Then said David to Jonathan, Who shall tell me? or what if thy father answer thee roughly?"
     },
     {
       "verse": 11,
       "latin_vulgate": " Et ait Jonathas ad David : Veni, et egrediamur foras in agrum. Cumque exissent ambo in agrum, ",
       "hebrew_masoretic": "וַיֹּ֤אמֶר יְהוֹנָתָן֙ אֶל־דָּוִ֔ד לְכָ֖ה וְנֵצֵ֣א הַשָּׂדֶ֑ה וַיֵּצְא֥וּ שְׁנֵיהֶ֖ם הַשָּׂדֶֽה׃ {ס}",
+      "douay_rheims": "And Jonathan said to David: Come, and let us go out into the field. And when they were both of them gone out into the field,",
+      "finnish_biblia": "Jonatan sanoi Davidille: tule, käykäämme kedolle; ja he menivät molemmat kedolle. ",
       "king_james": "And Jonathan said unto David, Come, and let us go out into the field. And they went out both of them into the field."
     },
     {
       "verse": 12,
       "latin_vulgate": "ait Jonathas ad David : Domine Deus Israël, si investigavero sententiam patris mei crastino vel perendie, et aliquid boni fuerit super David, et non statim misero ad te, et notum tibi fecero, ",
       "hebrew_masoretic": "וַיֹּ֨אמֶר יְהוֹנָתָ֜ן אֶל־דָּוִ֗ד יְהֹוָ֞ה אֱלֹהֵ֤י יִשְׂרָאֵל֙ כִּֽי־אֶחְקֹ֣ר אֶת־אָבִ֗י כָּעֵ֤ת ׀ מָחָר֙ הַשְּׁלִשִׁ֔ית וְהִנֵּה־ט֖וֹב אֶל־דָּוִ֑ד וְלֹא־אָז֙ אֶשְׁלַ֣ח אֵלֶ֔יךָ וְגָלִ֖יתִי אֶת־אׇזְנֶֽךָ׃",
+      "douay_rheims": "Jonathan said to David: O Lord God of Israel, if I shall discover my father's mind, to morrow, or the day after, and there be any thing good for David, and I send not immediately to thee, and make it known to thee,",
+      "finnish_biblia": "Ja Jonatan sanoi Davidille: Herra, Israelin Jumala! kuin minä kyselen isältäni huomenna ja kolmantena päivänä, katso, jos hän suo Davidille hyvää, ja en minä silloin lähetä sinun tykös, ja ilmoita sitä sinun korviis, ",
       "king_james": "And Jonathan said unto David, O Lord God of Israel, when I have sounded my father about to morrow any time, or the third day, and, behold, if there be good toward David, and I then send not unto thee, and shew it thee;"
     },
     {
       "verse": 13,
       "latin_vulgate": "hæc faciat Dominus Jonathæ, et hæc addat. Si autem perseveraverit patris mei malitia adversum te, revelabo aurem tuam, et dimittam te, ut vadas in pace, et sit Dominus tecum, sicut fuit cum patre meo. ",
       "hebrew_masoretic": "כֹּה־יַעֲשֶׂה֩ יְהֹוָ֨ה לִיהוֹנָתָ֜ן וְכֹ֣ה יֹסִ֗יף כִּֽי־יֵיטִ֨ב אֶל־אָבִ֤י אֶת־הָרָעָה֙ עָלֶ֔יךָ וְגָלִ֙יתִי֙ אֶת־אׇזְנֶ֔ךָ וְשִׁלַּחְתִּ֖יךָ וְהָלַכְתָּ֣ לְשָׁל֑וֹם וִיהִ֤י יְהֹוָה֙ עִמָּ֔ךְ כַּאֲשֶׁ֥ר הָיָ֖ה עִם־אָבִֽי׃",
+      "douay_rheims": "May the Lord do so and so to Jonathan, and add still more. But if my father shall continue in malice against thee, I will discover it to thy ear, and will send thee away, that thou mayst go in peace, and the Lord be with thee, as he hath been with my father.",
+      "finnish_biblia": "Niin tehköön Herra sitä ja sitä Jonatanille; mutta jos isäni taas ajattelee jotakin pahaa sinua vastaan, niin minä sen myös ilmoitan sinun korviis, ja lasken sinun rauhaan menemään: ja Herra olkoon sinun kanssas, niinkuin hän isäni kanssa ollut on. ",
       "king_james": "The Lord do so and much more to Jonathan: but if it please my father to do thee evil, then I will shew it thee, and send thee away, that thou mayest go in peace: and the Lord be with thee, as he hath been with my father."
     },
     {
       "verse": 14,
       "latin_vulgate": "Et si vixero, facies mihi misericordiam Domini : si vero mortuus fuero, ",
       "hebrew_masoretic": "וְלֹ֖א אִם־עוֹדֶ֣נִּי חָ֑י וְלֹא־תַעֲשֶׂ֧ה עִמָּדִ֛י חֶ֥סֶד יְהֹוָ֖ה וְלֹ֥א אָמֽוּת׃",
+      "douay_rheims": "And if I live, thou shalt shew me the kindness of the Lord: but if I die,",
+      "finnish_biblia": "Etkös sinäkin, jos vielä elän: etkös sinäkin ole tekevä Herran armoa minua kohtaani, niin ettei minun pidä kuoleman? ",
       "king_james": "And thou shalt not only while yet I live shew me the kindness of the Lord, that I die not:"
     },
     {
       "verse": 15,
       "latin_vulgate": "non auferes misericordiam tuam a domo mea usque in sempiternum, quando eradicaverit Dominus inimicos David, unumquemque de terra : auferat Jonathan de domo sua, et requirat Dominus de manu inimicorum David. ",
       "hebrew_masoretic": "וְלֹֽא־תַכְרִ֧ית אֶֽת־חַסְדְּךָ֛ מֵעִ֥ם בֵּיתִ֖י עַד־עוֹלָ֑ם וְלֹ֗א בְּהַכְרִ֤ת יְהֹוָה֙ אֶת־אֹיְבֵ֣י דָוִ֔ד אִ֕ישׁ מֵעַ֖ל פְּנֵ֥י הָאֲדָמָֽה׃",
+      "douay_rheims": "Thou shalt not take away thy kindness from my house for ever, when the Lord shall have rooted out the enemies of David, every one of them from the earth, may he take away Jonathan from his house, and may the Lord require it at the hands of David's enemies.",
+      "finnish_biblia": "Ja et sinä ota laupiuttas minun huoneestani pois ijankaikkisesti, et vielä sittenkään, kuin Herra hävittää Davidin vihamiehet, itsekunkin maaltansa. ",
       "king_james": "But also thou shalt not cut off thy kindness from my house for ever: no, not when the Lord hath cut off the enemies of David every one from the face of the earth."
     },
     {
       "verse": 16,
       "latin_vulgate": "Pepigit ergo Jonathas fœdus cum domo David : et requisivit Dominus de manu inimicorum David. ",
       "hebrew_masoretic": "וַיִּכְרֹ֥ת יְהוֹנָתָ֖ן עִם־בֵּ֣ית דָּוִ֑ד וּבִקֵּ֣שׁ יְהֹוָ֔ה מִיַּ֖ד אֹיְבֵ֥י דָוִֽד׃",
+      "douay_rheims": "Jonathan therefore made a covenant with the house of David: and the Lord required it at the hands of David's enemies.",
+      "finnish_biblia": "Näin teki Jonatan liiton Davidin huoneen kanssa, että Herra sen vaatisi Davidin vihamiesten kädestä. ",
       "king_james": "So Jonathan made a covenant with the house of David, saying, Let the Lord even require it at the hand of David’s enemies."
     },
     {
       "verse": 17,
       "latin_vulgate": "Et addidit Jonathas dejerare David, eo quod diligeret illum : sicut enim animam suam, ita diligebat eum. ",
       "hebrew_masoretic": "וַיּ֤וֹסֶף יְהֽוֹנָתָן֙ לְהַשְׁבִּ֣יעַ אֶת־דָּוִ֔ד בְּאַהֲבָת֖וֹ אֹת֑וֹ כִּֽי־אַהֲבַ֥ת נַפְשׁ֖וֹ אֲהֵבֽוֹ׃ {ס}",
+      "douay_rheims": "And Jonathan swore again to David, because he loved him: for he loved him as his own soul.",
+      "finnish_biblia": "Ja Jonatan taas vannoi Davidille; sillä niin rakkaana piti hän hänen, että hän rakasti häntä niinkuin omaa sieluansa. ",
       "king_james": "And Jonathan caused David to swear again, because he loved him: for he loved him as he loved his own soul."
     },
     {
       "verse": 18,
       "latin_vulgate": "Dixitque ad eum Jonathas : Cras calendæ sunt, et requireris : ",
       "hebrew_masoretic": "וַיֹּאמֶר־ל֥וֹ יְהוֹנָתָ֖ן מָחָ֣ר חֹ֑דֶשׁ וְנִפְקַ֕דְתָּ כִּ֥י יִפָּקֵ֖ד מוֹשָׁבֶֽךָ׃",
+      "douay_rheims": "And Jonathan said to him: To morrow is the new moon, and thou wilt be missed:",
+      "finnish_biblia": "Ja Jonatan sanoi hänelle: huomenna on uusikuu, jona sinua kysytään ja kaivataan sinua sialtas. ",
       "king_james": "Then Jonathan said to David, To morrow is the new moon: and thou shalt be missed, because thy seat will be empty."
     },
     {
       "verse": 19,
       "latin_vulgate": "requiretur enim sessio tua usque perendie. Descendes ergo festinus, et venies in locum ubi celandus es in die qua operari licet, et sedebis juxta lapidem cui nomen est Ezel. ",
       "hebrew_masoretic": "וְשִׁלַּשְׁתָּ֙ תֵּרֵ֣ד מְאֹ֔ד וּבָאתָ֙ אֶל־הַמָּק֔וֹם אֲשֶׁר־נִסְתַּ֥רְתָּ שָּׁ֖ם בְּי֣וֹם הַֽמַּעֲשֶׂ֑ה וְיָ֣שַׁבְתָּ֔ אֵ֖צֶל הָאֶ֥בֶן הָאָֽזֶל׃",
+      "douay_rheims": "For thy seat will be empty till after to morrow. So thou shalt go down quickly, and come to the place where thou must he hid, on the day when it is lawful to work, and thou shalt remain beside the stone, which is called Ezel.",
+      "finnish_biblia": "Ja kuin olet viipynyt kolme päivää poissa, niin tule kiiruusti alas ja mene siihen paikkaan, johon sinä itses kätkit sinä päivänä kuin tämä asia tapahtui, ja istu Aselin kiven viereen, ",
       "king_james": "And when thou hast stayed three days, then thou shalt go down quickly, and come to the place where thou didst hide thyself when the business was in hand, and shalt remain by the stone Ezel."
     },
     {
       "verse": 20,
       "latin_vulgate": "Et ego tres sagittas mittam juxta eum, et jaciam quasi exercens me ad signum. ",
       "hebrew_masoretic": "וַאֲנִ֕י שְׁלֹ֥שֶׁת הַחִצִּ֖ים צִדָּ֣הֿ אוֹרֶ֑ה לְשַֽׁלַּֽח־לִ֖י לְמַטָּרָֽה׃",
+      "douay_rheims": "And I will shoot three arrows near it, and will shoot as if I were exercising myself at a mark.",
+      "finnish_biblia": "Niin minä ammun kolme nuolta sen sivulle, niinkuin minä ampuisin maaliin. ",
       "king_james": "And I will shoot three arrows on the side thereof, as though I shot at a mark."
     },
     {
       "verse": 21,
       "latin_vulgate": "Mittam quoque et puerum, dicens ei : Vade, et affer mihi sagittas. ",
       "hebrew_masoretic": "וְהִנֵּה֙ אֶשְׁלַ֣ח אֶת־הַנַּ֔עַר לֵ֖ךְ מְצָ֣א אֶת־הַחִצִּ֑ים אִם־אָמֹר֩ אֹמַ֨ר לַנַּ֜עַר הִנֵּ֥ה הַחִצִּ֣ים ׀ מִמְּךָ֣ וָהֵ֗נָּה קָחֶ֧נּוּ ׀ וָבֹ֛אָה כִּי־שָׁל֥וֹם לְךָ֛ וְאֵ֥ין דָּבָ֖ר חַי־יְהֹוָֽה׃",
+      "douay_rheims": "And I will send a boy, saying to him: Go and fetch me the arrows.",
+      "finnish_biblia": "Ja katso, minä lähetän pojan (sanoen hänelle:) mene ja hae nuolet jällensä! jos vielä sanon pojalle: katso, nuolet ovat takanas tässä puolessa, ota ylös! niin tule; sillä rauha on sinulla ja ei ole mitään hätää, niin totta kuin Herra elää. ",
       "king_james": "And, behold, I will send a lad, saying, Go, find out the arrows. If I expressly say unto the lad, Behold, the arrows are on this side of thee, take them; then come thou: for there is peace to thee, and no hurt; as the Lord liveth."
     },
     {
       "verse": 22,
       "latin_vulgate": "Si dixero puero : Ecce sagittæ intra te sunt, tolle eas : tu veni ad me, quia pax tibi est, et nihil est mali, vivit Dominus. Si autem sic locutus fuero puero : Ecce sagittæ ultra te sunt : vade in pace, quia dimisit te Dominus. ",
       "hebrew_masoretic": "וְאִם־כֹּ֤ה אֹמַר֙ לָעֶ֔לֶם הִנֵּ֥ה הַחִצִּ֖ים מִמְּךָ֣ וָהָ֑לְאָה לֵ֕ךְ כִּ֥י שִֽׁלַּחֲךָ֖ יְהֹוָֽה׃",
+      "douay_rheims": "If I shall say to the boy: Behold the arrows are on this side of thee, take them up: come thou to me, because there is peace to thee, and there is no evil, as the Lord liveth. But if I shall speak thus to the boy: Behold the arrows are beyond thee: go in peace, for the Lord hath sent thee away.",
+      "finnish_biblia": "Mutta jos sanon pojalle: katso, nuolet ovat edempänä edessäs! niin mene pois, sillä Herra on päästänyt sinun menemään. ",
       "king_james": "But if I say thus unto the young man, Behold, the arrows are beyond thee; go thy way: for the Lord hath sent thee away."
     },
     {
       "verse": 23,
       "latin_vulgate": "De verbo autem quod locuti sumus ego et tu, sit Dominus inter me et te usque in sempiternum.  ",
       "hebrew_masoretic": "וְהַ֨דָּבָ֔ר אֲשֶׁ֥ר דִּבַּ֖רְנוּ אֲנִ֣י וָאָ֑תָּה הִנֵּ֧ה יְהֹוָ֛ה בֵּינִ֥י וּבֵינְךָ֖ עַד־עוֹלָֽם׃ {ס}",
+      "douay_rheims": "And concerning the word which I and thou have spoken, the Lord be between thee and me forever.",
+      "finnish_biblia": "Ja mitä sinä ja mitä minä keskenämme puhuneet olemme, katso, Herra on minun ja sinun vaiheellas ijankaikkisesti. ",
       "king_james": "And as touching the matter which thou and I have spoken of, behold, the Lord be between thee and me for ever."
     },
     {
       "verse": 24,
       "latin_vulgate": " Absconditus est ergo David in agro, et venerunt calendæ, et sedit rex ad comedendum panem. ",
       "hebrew_masoretic": "וַיִּסָּתֵ֥ר דָּוִ֖ד בַּשָּׂדֶ֑ה וַיְהִ֣י הַחֹ֔דֶשׁ וַיֵּ֧שֶׁב הַמֶּ֛לֶךְ (על) [אֶל־]הַלֶּ֖חֶם לֶאֱכֽוֹל׃",
+      "douay_rheims": "So David was hid in the field, and the new moon came, and the king sat down to eat bread.",
+      "finnish_biblia": "Niin David kätki itsensä kedolle. Ja kuin uusikuu tuli, istui kuningas pöydän tykö rualle. ",
       "king_james": "So David hid himself in the field: and when the new moon was come, the king sat him down to eat meat."
     },
     {
       "verse": 25,
       "latin_vulgate": "Cumque sedisset rex super cathedram suam (secundum consuetudinem) quæ erat juxta parietem, surrexit Jonathas, et sedit Abner ex latere Saul : vacuusque apparuit locus David. ",
       "hebrew_masoretic": "וַיֵּ֣שֶׁב הַ֠מֶּ֠לֶךְ עַל־מ֨וֹשָׁב֜וֹ כְּפַ֣עַם ׀ בְּפַ֗עַם אֶל־מוֹשַׁב֙ הַקִּ֔יר וַיָּ֙קׇם֙ יְה֣וֹנָתָ֔ן וַיֵּ֥שֶׁב אַבְנֵ֖ר מִצַּ֣ד שָׁא֑וּל וַיִּפָּקֵ֖ד מְק֥וֹם דָּוִֽד׃",
+      "douay_rheims": "And when the king sat down upon his chair, (according to custom) which was beside the wall, Jonathan arose, and Abner sat by Saul's side, and David's place appeared empty.",
+      "finnish_biblia": "Kuin kuningas oli istunut siallensa, entisen tapansa jälkeen, seinän nojalle, nousi Jonatan, ja Abner istui Saulin viereen; ja Davidia kaivattiin siastansa. ",
       "king_james": "And the king sat upon his seat, as at other times, even upon a seat by the wall: and Jonathan arose, and Abner sat by Saul’s side, and David’s place was empty."
     },
     {
       "verse": 26,
       "latin_vulgate": "Et non est locutus Saul quidquam in die illa : cogitabat enim quod forte evenisset ei, ut non esset mundus, nec purificatus. ",
       "hebrew_masoretic": "וְלֹא־דִבֶּ֥ר שָׁא֛וּל מְא֖וּמָה בַּיּ֣וֹם הַה֑וּא כִּ֤י אָמַר֙ מִקְרֶ֣ה ה֔וּא בִּלְתִּ֥י טָה֛וֹר ה֖וּא כִּי־לֹ֥א טָהֽוֹר׃ {ס}",
+      "douay_rheims": "And Saul said nothing that day, for he thought it might have happened to him, that he was not clean, nor purified.",
+      "finnish_biblia": "Ja ei puhunut Saul sinä päivänä mitäkään; sillä hän ajatteli: hänelle on jotakin tapahtunut, ettei hän ole puhdas; ei suinkaan hän ole puhdas. ",
       "king_james": "Nevertheless Saul spake not any thing that day: for he thought, Something hath befallen him, he is not clean; surely he is not clean."
     },
     {
       "verse": 27,
       "latin_vulgate": "Cumque illuxisset dies secunda post calendas, rursus apparuit vacuus locus David. Dixitque Saul ad Jonathan filium suum : Cur non venit filius Isai nec heri nec hodie ad vescendum ? ",
       "hebrew_masoretic": "וַיְהִ֗י מִֽמׇּחֳרַ֤ת הַחֹ֙דֶשׁ֙ הַשֵּׁנִ֔י וַיִּפָּקֵ֖ד מְק֣וֹם דָּוִ֑ד {פ}וַיֹּ֤אמֶר שָׁאוּל֙ אֶל־יְהוֹנָתָ֣ן בְּנ֔וֹ מַדּ֜וּעַ לֹא־בָ֧א בֶן־יִשַׁ֛י גַּם־תְּמ֥וֹל גַּם־הַיּ֖וֹם אֶל־הַלָּֽחֶם׃",
+      "douay_rheims": "And when the second day after the new moon was come, David's place appeared empty again. And Saul said to Jonathan, his son: Why cometh not the son of Isai to meat neither yesterday, nor to day?",
+      "finnish_biblia": "Ja toisena päivänä uudesta kuusta, kuin Davidia kaivattiin siastansa, sanoi Saul pojallensa Jonatanille: Miksi ei Isain poika ole tullut pöydän tykö, ei eilen eikä myöskään tänäpänä? ",
       "king_james": "And it came to pass on the morrow, which was the second day of the month, that David’s place was empty: and Saul said unto Jonathan his son, Wherefore cometh not the son of Jesse to meat, neither yesterday, nor to day?"
     },
     {
       "verse": 28,
       "latin_vulgate": "Responditque Jonathas Sauli : Rogavit me obnixe ut iret in Bethlehem, ",
       "hebrew_masoretic": "וַיַּ֥עַן יְהוֹנָתָ֖ן אֶת־שָׁא֑וּל נִשְׁאֹ֨ל נִשְׁאַ֥ל דָּוִ֛ד מֵעִמָּדִ֖י עַד־בֵּ֥ית לָֽחֶם׃",
+      "douay_rheims": "And Jonathan answered Saul: He asked leave of me earnestly to go to Bethlehem.",
+      "finnish_biblia": "Jonatan vastasi Saulia: hän rukoili hartaasti minulta mennäkseen Betlehemiin, ",
       "king_james": "And Jonathan answered Saul, David earnestly asked leave of me to go to Beth–lehem:"
     },
     {
       "verse": 29,
       "latin_vulgate": "et ait : Dimitte me, quoniam sacrificium solemne est in civitate, unus de fratribus meis accersivit me : nunc ergo si inveni gratiam in oculis tuis, vadam cito, et videbo fratres meos. Ob hanc causam non venit ad mensam regis. ",
       "hebrew_masoretic": "וַיֹּ֡אמֶר שַׁלְּחֵ֣נִי נָ֡א כִּ֣י זֶ֩בַח֩ מִשְׁפָּחָ֨ה לָ֜נוּ בָּעִ֗יר וְה֤וּא צִוָּה־לִי֙ אָחִ֔י וְעַתָּ֗ה אִם־מָצָ֤אתִי חֵן֙ בְּעֵינֶ֔יךָ אִמָּ֥לְטָה נָּ֖א וְאֶרְאֶ֣ה אֶת־אֶחָ֑י עַל־כֵּ֣ן לֹא־בָ֔א אֶל־שֻׁלְחַ֖ן הַמֶּֽלֶךְ׃ {ס}",
+      "douay_rheims": "And he said: Let me go, for there is a solemn sacrifice in the city, one of my brethren hath sent for me: and now if I have found favour in thy eyes, I will go quickly, and see my brethren. For this cause he came not to the king's table.",
+      "finnish_biblia": "Ja sanoi: anna minun mennä, sillä meidän sukukuntamme uhraa kaupungissa ja minun veljeni itse on minua kutsunut: jos nyt olen löytänyt armon sinun silmäis edessä, niin salli minun mennä katsomaan veljiäni; ja sen tähden ei hän tullut kuninkaan pöydän tykö. ",
       "king_james": "And he said, Let me go, I pray thee; for our family hath a sacrifice in the city; and my brother, he hath commanded me to be there: and now, if I have found favour in thine eyes, let me get away, I pray thee, and see my brethren. Therefore he cometh not unto the king’s table."
     },
     {
       "verse": 30,
       "latin_vulgate": "Iratus autem Saul adversum Jonathan, dixit ei : Fili mulieris virum ultro rapientis, numquid ignoro quia diligis filium Isai in confusionem tuam, et in confusionem ignominiosæ matris tuæ ? ",
       "hebrew_masoretic": "וַיִּֽחַר־אַ֤ף שָׁאוּל֙ בִּיה֣וֹנָתָ֔ן וַיֹּ֣אמֶר ל֔וֹ בֶּֽן־נַעֲוַ֖ת הַמַּרְדּ֑וּת הֲל֣וֹא יָדַ֗עְתִּי כִּֽי־בֹחֵ֤ר אַתָּה֙ לְבֶן־יִשַׁ֔י לְבׇ֨שְׁתְּךָ֔ וּלְבֹ֖שֶׁת עֶרְוַ֥ת אִמֶּֽךָ׃",
+      "douay_rheims": "Then Saul being angry against Jonathan, said to him: Thou son of a woman that is the ravisher of a man, do I not know that thou lovest the son of Isai to thy own confusion, and to the confusion of thy shameless mother?",
+      "finnish_biblia": "Ja Saul vihastui sangen suuresti Jonatanin päälle ja sanoi hänelle: sinä ilkiä ja tottelematoin poika! enkö minä tiedä, ettäs olet valinnut Isain pojan sinulles ja äidilles häpiäksi? ",
       "king_james": "Then Saul’s anger was kindled against Jonathan, and he said unto him, Thou son of the perverse rebellious woman, do not I know that thou hast chosen the son of Jesse to thine own confusion, and unto the confusion of thy mother’s nakedness?"
     },
     {
       "verse": 31,
       "latin_vulgate": "Omnibus enim diebus quibus filius Isai vixerit super terram, non stabilieris tu, neque regnum tuum. Itaque jam nunc mitte, et adduc eum ad me : quia filius mortis est. ",
       "hebrew_masoretic": "כִּ֣י כׇל־הַיָּמִ֗ים אֲשֶׁ֤ר בֶּן־יִשַׁי֙ חַ֣י עַל־הָאֲדָמָ֔ה לֹ֥א תִכּ֖וֹן אַתָּ֣ה וּמַלְכוּתֶ֑ךָ וְעַתָּ֗ה שְׁלַ֨ח וְקַ֤ח אֹתוֹ֙ אֵלַ֔י כִּ֥י בֶן־מָ֖וֶת הֽוּא׃ {ס}",
+      "douay_rheims": "For as long as the son of Isai liveth upon earth, thou shalt not be established, nor thy kingdom. Therefore now presently send, and fetch him to me: for he is the son of death.",
+      "finnish_biblia": "Sillä niinkauvan kuin Isain poika elää maan päällä, et sinä eikä sinun kuninkaan valtakuntas ole seisova: lähetä siis nyt ja anna tuotaa häntä minun tyköni, sillä hänen pitää kuoleman. ",
       "king_james": "For as long as the son of Jesse liveth upon the ground, thou shalt not be established, nor thy kingdom. Wherefore now send and fetch him unto me, for he shall surely die."
     },
     {
       "verse": 32,
       "latin_vulgate": "Respondens autem Jonathas Sauli patri suo, ait : Quare morietur ? quid fecit ? ",
       "hebrew_masoretic": "וַיַּ֙עַן֙ יְה֣וֹנָתָ֔ן אֶת־שָׁא֖וּל אָבִ֑יו וַיֹּ֧אמֶר אֵלָ֛יו לָ֥מָּה יוּמַ֖ת מֶ֥ה עָשָֽׂה׃",
+      "douay_rheims": "And Jonathan answering Saul, his father, said: Why shall he die? What hath he done?",
+      "finnish_biblia": "Jonatan vastasi isällensä Saulille ja sanoi hänelle: miksi hänen pitää kuoleman? mitä hän on tehnyt? ",
       "king_james": "And Jonathan answered Saul his father, and said unto him, Wherefore shall he be slain? what hath he done?"
     },
     {
       "verse": 33,
       "latin_vulgate": "Et arripuit Saul lanceam ut percuteret eum. Et intellexit Jonathas quod definitum esset a patre suo, ut interficeret David. ",
       "hebrew_masoretic": "וַיָּ֨טֶל שָׁא֧וּל אֶֽת־הַחֲנִ֛ית עָלָ֖יו לְהַכֹּת֑וֹ וַיֵּ֙דַע֙ יְה֣וֹנָתָ֔ן כִּי־כָ֥לָה הִ֛יא מֵעִ֥ם אָבִ֖יו לְהָמִ֥ית אֶת־דָּוִֽד׃ {ס}",
+      "douay_rheims": "And Saul caught up a spear to strike him. And Jonathan understood that it was determined by his father to kill David.",
+      "finnish_biblia": "Silloin paiskasi Saul keihään hänen perässänsä syöstäksensä häntä; niin ymmärsi Jonatan isänsä aikovan Davidin tappaa. ",
       "king_james": "And Saul cast a javelin at him to smite him: whereby Jonathan knew that it was determined of his father to slay David."
     },
     {
       "verse": 34,
       "latin_vulgate": "Surrexit ergo Jonathas a mensa in ira furoris, et non comedit in die calendarum secunda panem. Contristatus est enim super David, eo quod confudisset eum pater suus. ",
       "hebrew_masoretic": "וַיָּ֧קׇם יְהוֹנָתָ֛ן מֵעִ֥ם הַשֻּׁלְחָ֖ן בׇּחֳרִי־אָ֑ף וְלֹֽא־אָכַ֞ל בְּיוֹם־הַחֹ֤דֶשׁ הַשֵּׁנִי֙ לֶ֔חֶם כִּ֤י נֶעְצַב֙ אֶל־דָּוִ֔ד כִּ֥י הִכְלִמ֖וֹ אָבִֽיו׃ {ס}",
+      "douay_rheims": "So Jonathan rose from the table in great anger, and did not eat bread on the second day after the new moon. For he was grieved for David, because his father had put him to confusion.",
+      "finnish_biblia": "Ja Jonatan nousi pöydän tyköä sangen vihoissansa ja ei syönyt sinä toisena päivänä uudesta kuusta mitään leipää; sillä hän murehti Davidia, että hänen isänsä oli hänen niin häväissyt. ",
       "king_james": "So Jonathan arose from the table in fierce anger, and did eat no meat the second day of the month: for he was grieved for David, because his father had done him shame."
     },
     {
       "verse": 35,
       "latin_vulgate": "Cumque illuxisset mane, venit Jonathas in agrum juxta placitum David, et puer parvulus cum eo. ",
       "hebrew_masoretic": "וַיְהִ֣י בַבֹּ֔קֶר וַיֵּצֵ֧א יְהוֹנָתָ֛ן הַשָּׂדֶ֖ה לְמוֹעֵ֣ד דָּוִ֑ד וְנַ֥עַר קָטֹ֖ן עִמּֽוֹ׃",
+      "douay_rheims": "And when the morning came, Jonathan went into the field according to the appointment with David, and a little boy with him.",
+      "finnish_biblia": "Ja Jonatan läksi aamulla kedolle, siihen aikaan kuin hän oli määrännyt Davidille, ja vähä poikainen hänen kanssansa. ",
       "king_james": "And it came to pass in the morning, that Jonathan went out into the field at the time appointed with David, and a little lad with him."
     },
     {
       "verse": 36,
       "latin_vulgate": "Et ait ad puerum suum : Vade, et affer mihi sagittas quas ego jacio. Cumque puer cucurrisset, jecit aliam sagittam trans puerum. ",
       "hebrew_masoretic": "וַיֹּ֣אמֶר לְנַֽעֲר֔וֹ רֻ֗ץ מְצָ֥א נָא֙ אֶת־הַ֣חִצִּ֔ים אֲשֶׁ֥ר אָנֹכִ֖י מוֹרֶ֑ה הַנַּ֣עַר רָ֔ץ וְהוּא־יָרָ֥ה הַחֵ֖צִי לְהַעֲבִרֽוֹ׃",
+      "douay_rheims": "And he said to his boy: Go, and fetch me the arrows which I shoot. And when the boy ran, he shot another arrow beyond the boy.",
+      "finnish_biblia": "Ja hän sanoi pojalle: juokse noutamaan nuoleni, jotka minä ammun: pojan juostessa laski hän nuolen hänen ylitsensä. ",
       "king_james": "And he said unto his lad, Run, find out now the arrows which I shoot. And as the lad ran, he shot an arrow beyond him."
     },
     {
       "verse": 37,
       "latin_vulgate": "Venit itaque puer ad locum jaculi quod miserat Jonathas : et clamavit Jonathas post tergum pueri, et ait : Ecce ibi est sagitta porro ultra te. ",
       "hebrew_masoretic": "וַיָּבֹ֤א הַנַּ֙עַר֙ עַד־מְק֣וֹם הַחֵ֔צִי אֲשֶׁ֥ר יָרָ֖ה יְהוֹנָתָ֑ן וַיִּקְרָ֨א יְהוֹנָתָ֜ן אַחֲרֵ֤י הַנַּ֙עַר֙ וַיֹּ֔אמֶר הֲל֥וֹא הַחֵ֖צִי מִמְּךָ֥ וָהָֽלְאָה׃",
+      "douay_rheims": "The boy therefore came to the place of the arrow which Jonathan had shot: and Jonathan cried after the boy, and said: Behold the arrow is there further beyond thee.",
+      "finnish_biblia": "Ja kuin poika tuli sille paikalle, johon Jonatan nuolen ampunut oli, huusi Jonatan hänen perässänsä ja sanoi: eikö nuoli ole edemmä sinusta? ",
       "king_james": "And when the lad was come to the place of the arrow which Jonathan had shot, Jonathan cried after the lad, and said, Is not the arrow beyond thee?"
     },
     {
       "verse": 38,
       "latin_vulgate": "Clamavitque iterum Jonathas post tergum pueri, dicens : Festina velociter, ne steteris. Collegit autem puer Jonathæ sagittas, et attulit ad dominum suum : ",
       "hebrew_masoretic": "וַיִּקְרָ֤א יְהֽוֹנָתָן֙ אַחֲרֵ֣י הַנַּ֔עַר מְהֵרָ֥ה ח֖וּשָׁה אַֽל־תַּעֲמֹ֑ד וַיְלַקֵּ֞ט נַ֤עַר יְהֽוֹנָתָן֙ אֶת־[הַ֣חִצִּ֔ים] (החצי) וַיָּבֹ֖א אֶל־אֲדֹנָֽיו׃",
+      "douay_rheims": "And Jonathan cried again after the boy, saying: Make haste speedily, stand not. And Jonathan's boy gathered up the arrows, and brought them to his master:",
+      "finnish_biblia": "Ja huusi taas poikaa: joudu, kiiruhda sinuas nopiammin ja älä seisahtele. Niin Jonatanin poika otti nuolet otti nuolet ja kantoi herrallensa. ",
       "king_james": "And Jonathan cried after the lad, Make speed, haste, stay not. And Jonathan’s lad gathered up the arrows, and came to his master."
     },
     {
       "verse": 39,
       "latin_vulgate": "et quid ageretur, penitus ignorabat, tantummodo enim Jonathas et David rem noverant. ",
       "hebrew_masoretic": "וְהַנַּ֖עַר לֹא־יָדַ֣ע מְא֑וּמָה אַ֤ךְ יְהֽוֹנָתָן֙ וְדָוִ֔ד יָדְע֖וּ אֶת־הַדָּבָֽר׃ {ס}",
+      "douay_rheims": "And he knew not at all what was doing: for only Jonathan and David knew the matter.",
+      "finnish_biblia": "Eikä poika tietänyt asiasta mitään; vaan Jonatan ja David ainoastaan asian tiesivät. ",
       "king_james": "But the lad knew not any thing: only Jonathan and David knew the matter."
     },
     {
       "verse": 40,
       "latin_vulgate": "Dedit ergo Jonathas arma sua puero, et dixit ei : Vade, et defer in civitatem. ",
       "hebrew_masoretic": "וַיִּתֵּ֤ן יְהֽוֹנָתָן֙ אֶת־כֵּלָ֔יו אֶל־הַנַּ֖עַר אֲשֶׁר־ל֑וֹ וַיֹּ֣אמֶר ל֔וֹ לֵ֖ךְ הָבֵ֥יא הָעִֽיר׃",
+      "douay_rheims": "Jonathan therefore gave his arms to the boy, and said to him: Go, and carry them into the city.",
+      "finnish_biblia": "Niin Jonatan antoi aseensa pojalle, joka hänen kanssansa oli, ja sanoi: mene ja vie kaupunkiin. ",
       "king_james": "And Jonathan gave his artillery unto his lad, and said unto him, Go, carry them to the city."
     },
     {
       "verse": 41,
       "latin_vulgate": "Cumque abiisset puer, surrexit David de loco qui vergebat ad austrum, et cadens pronus in terram, adoravit tertio : et osculantes se alterutrum, fleverunt pariter, David autem amplius. ",
       "hebrew_masoretic": "הַנַּ֘עַר֮ בָּא֒ וְדָוִ֗ד קָ֚ם מֵאֵ֣צֶל הַנֶּ֔גֶב וַיִּפֹּ֨ל לְאַפָּ֥יו אַ֛רְצָה וַיִּשְׁתַּ֖חוּ שָׁלֹ֣שׁ פְּעָמִ֑ים וַֽיִּשְּׁק֣וּ ׀ אִ֣ישׁ אֶת־רֵעֵ֗הוּ וַיִּבְכּוּ֙ אִ֣ישׁ אֶת־רֵעֵ֔הוּ עַד־דָּוִ֖ד הִגְדִּֽיל׃",
+      "douay_rheims": "And when the boy was gone, David rose out of his place, which was toward the south, and falling on his face to the ground, adored thrice: and kissing one another, they wept together; but David more.",
+      "finnish_biblia": "Ja kuin poika oli mennyt, nousi David siastansa meren puolelta ja lankesi maahan kasvoillensa ja rukoili kolme kertaa; ja he antoivat toinen toisellensa suuta ja itkivät toinen toisensa kanssa; vaan David itki hartaammin. ",
       "king_james": "And as soon as the lad was gone, David arose out of a place toward the south, and fell on his face to the ground, and bowed himself three times: and they kissed one another, and wept one with another, until David exceeded."
     },
     {
       "verse": 42,
       "latin_vulgate": "Dixit ergo Jonathas ad David : Vade in pace : quæcumque juravimus ambo in nomine Domini, dicentes : Dominus sit inter me et te, et inter semen meum et semen tuum usque in sempiternum. ",
       "hebrew_masoretic": "וַיֹּ֧אמֶר יְהוֹנָתָ֛ן לְדָוִ֖ד לֵ֣ךְ לְשָׁל֑וֹם אֲשֶׁר֩ נִשְׁבַּ֨עְנוּ שְׁנֵ֜ינוּ אֲנַ֗חְנוּ בְּשֵׁ֤ם יְהֹוָה֙ לֵאמֹ֔ר יְהֹוָ֞ה יִהְיֶ֣ה ׀ בֵּינִ֣י וּבֵינֶ֗ךָ וּבֵ֥ין זַרְעִ֛י וּבֵ֥ין זַרְעֲךָ֖ עַד־עוֹלָֽם׃ {פ}",
+      "douay_rheims": "And Jonathan said to David: Go in peace: and let all stand that we have sworn both of us in the name of the Lord, saying: The Lord be between me and thee, and between my seed and thy seed for ever.",
+      "finnish_biblia": "Ja Jonatan sanoi Davidille: mene rauhaan, (ja muista) mitä me olemme vannoneet yhteen Herran nimeen ja sanoneet: Herra olkoon sinun ja minun vaiheellani, minun ja sinun siemenes vaiheella ijankaikkisesti! Ja hän nousi ja meni matkaansa; mutta Jonatan palasi kaupunkiin.   ",
       "king_james": "And Jonathan said to David, Go in peace, forasmuch as we have sworn both of us in the name of the Lord, saying, The Lord be between me and thee, and between my seed and thy seed for ever. And he arose and departed: and Jonathan went into the city. "
     }
   ]

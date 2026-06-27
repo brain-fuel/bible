@@ -2,6 +2,8 @@
   "book_id": "PSA",
   "latin_name": "Liber Psalmorum",
   "hebrew_name": "תְּהִלִּים",
+  "douay_name": "Psalms",
+  "finnish_name": "Psalmit",
   "english_name": "Psalms",
   "chapter": 57,
   "verses": [
@@ -9,6 +11,8 @@
       "verse": 1,
       "latin_vulgate": "  Miserere mei, Deus, miserere mei,  quoniam in te confidit anima mea.  Et in umbra alarum tuarum sperabo,  donec transeat iniquitas. ",
       "hebrew_masoretic": "חׇנֵּ֤נִי אֱלֹהִ֨ים ׀ חׇנֵּ֗נִי כִּ֥י בְךָ֮ חָסָ֢יָה נַ֫פְשִׁ֥י וּבְצֵֽל־כְּנָפֶ֥יךָ אֶחְסֶ֑ה עַ֝֗ד יַעֲבֹ֥ר הַוּֽוֹת׃",
+      "douay_rheims": "Have mercy on me, O God, have mercy on me: for my soul trusteth in thee. And in the shadow of thy wings will I hope, until iniquity pass away.",
+      "finnish_biblia": "Davidin kultainen kappale, edelläveisaajalle, ettei hän hukkunut, kuin hän Saulin edestä pakeni luolaan. (H57:2) Jumala, ole minulle armollinen, ole minulle armollinen; sillä sinuun minun sieluni uskaltaa, ja sinun siipeis varjon alle minä turvaan siihenasti, että ahdistukset ohitse käyvät. ",
       "king_james": "Be merciful unto me, O God, be merciful unto me: for my soul trusteth in thee: yea, in the shadow of thy wings will I make my refuge, until these calamities be overpast.",
       "refs": {
         "latin_vulgate": {
@@ -16,6 +20,9 @@
         },
         "hebrew_masoretic": {
           "src": "57:2"
+        },
+        "douay_rheims": {
+          "src": "56:2"
         }
       }
     },
@@ -23,6 +30,8 @@
       "verse": 2,
       "latin_vulgate": " Clamabo ad Deum altissimum,  Deum qui benefecit mihi. ",
       "hebrew_masoretic": "אֶ֭קְרָא לֵאלֹהִ֣ים עֶלְי֑וֹן לָ֝אֵ֗ל גֹּמֵ֥ר עָלָֽי׃",
+      "douay_rheims": "I will cry to God the most high; to God who hath done good to me.",
+      "finnish_biblia": "Minä huudan korkeimman Jumalan tykö, sen Jumalan tykö, joka minun vaivani päälle lopun tekee. ",
       "king_james": "I will cry unto God most high; unto God that performeth all things for me.",
       "refs": {
         "latin_vulgate": {
@@ -30,6 +39,9 @@
         },
         "hebrew_masoretic": {
           "src": "57:3"
+        },
+        "douay_rheims": {
+          "src": "56:3"
         }
       }
     },
@@ -37,6 +49,8 @@
       "verse": 3,
       "latin_vulgate": " Misit de cælo, et liberavit me ;  dedit in opprobrium conculcantes me.  Misit Deus misericordiam suam et veritatem suam, ",
       "hebrew_masoretic": "יִשְׁלַ֤ח מִשָּׁמַ֨יִם ׀ וְֽיוֹשִׁיעֵ֗נִי חֵרֵ֣ף שֹׁאֲפִ֣י סֶ֑לָה יִשְׁלַ֥ח אֱ֝לֹהִ֗ים חַסְדּ֥וֹ וַאֲמִתּֽוֹ׃",
+      "douay_rheims": "He hath sent from heaven and delivered me: he hath made them a reproach that trod upon me. God hath sent his mercy and his truth,",
+      "finnish_biblia": "Hän lähettää taivaasta, ja varjelee minua, ja antaa ne häpiään tulla, jotka minua tahtovat niellä ylös, Sela! lähettäköön Jumala armonsa ja totuutensa. ",
       "king_james": "He shall send from heaven, and save me from the reproach of him that would swallow me up. Selah. God shall send forth his mercy and his truth.",
       "refs": {
         "latin_vulgate": {
@@ -44,6 +58,9 @@
         },
         "hebrew_masoretic": {
           "src": "57:4"
+        },
+        "douay_rheims": {
+          "src": "56:4"
         }
       }
     },
@@ -51,6 +68,8 @@
       "verse": 4,
       "latin_vulgate": " et eripuit animam meam de medio catulorum leonum.  Dormivi conturbatus.  Filii hominum dentes eorum arma et sagittæ,  et lingua eorum gladius acutus. ",
       "hebrew_masoretic": "נַפְשִׁ֤י ׀ בְּת֥וֹךְ לְבָאִם֮ אֶשְׁכְּבָ֢ה לֹ֫הֲטִ֥ים בְּֽנֵי־אָדָ֗ם שִׁ֭נֵּיהֶם חֲנִ֣ית וְחִצִּ֑ים וּ֝לְשׁוֹנָ֗ם חֶ֣רֶב חַדָּֽה׃",
+      "douay_rheims": "And he hath delivered my soul from the midst of the young lions. I slept troubled. The sons of men, whose teeth are weapons and arrows, and their tongue a sharp sword.",
+      "finnish_biblia": "Minun sieluni makaa jalopeurain keskellä, jotka ovat niinkuin tulen liekki; ihmisten lapset, joiden hampaat ovat keihäs ja nuolet, ja heidän kielensä terävä miekka. ",
       "king_james": "My soul is among lions: and I lie even among them that are set on fire, even the sons of men, whose teeth are spears and arrows, and their tongue a sharp sword.",
       "refs": {
         "latin_vulgate": {
@@ -58,6 +77,9 @@
         },
         "hebrew_masoretic": {
           "src": "57:5"
+        },
+        "douay_rheims": {
+          "src": "56:5"
         }
       }
     },
@@ -65,6 +87,8 @@
       "verse": 5,
       "latin_vulgate": " Exaltare super cælos, Deus,  et in omnem terram gloria tua. ",
       "hebrew_masoretic": "ר֣וּמָה עַל־הַשָּׁמַ֣יִם אֱלֹהִ֑ים עַ֖ל כׇּל־הָאָ֣רֶץ כְּבוֹדֶֽךָ׃",
+      "douay_rheims": "Be thou exalted, O God, above the heavens, and thy glory above all the earth.",
+      "finnish_biblia": "Korota itses, Jumala, taivasten ylitse ja sinun kunnias ylitse kaiken maan. ",
       "king_james": "Be thou exalted, O God, above the heavens; let thy glory be above all the earth.",
       "refs": {
         "latin_vulgate": {
@@ -72,6 +96,9 @@
         },
         "hebrew_masoretic": {
           "src": "57:6"
+        },
+        "douay_rheims": {
+          "src": "56:6"
         }
       }
     },
@@ -79,6 +106,8 @@
       "verse": 6,
       "latin_vulgate": " Laqueum paraverunt pedibus meis,  et incurvaverunt animam meam.  Foderunt ante faciem meam foveam,  et inciderunt in eam. ",
       "hebrew_masoretic": "רֶ֤שֶׁת ׀ הֵכִ֣ינוּ לִפְעָמַי֮ כָּפַ֢ף נַ֫פְשִׁ֥י כָּר֣וּ לְפָנַ֣י שִׁיחָ֑ה נָפְל֖וּ בְתוֹכָ֣הּ סֶֽלָה׃",
+      "douay_rheims": "They prepared a snare for my feet; and they bowed down my soul. They dug a pit before my face, and they are fallen into it.",
+      "finnish_biblia": "Verkon he virittivät minun käymiseni eteen, ja minun sieluni vältti: kuopan he kaivoivat minun eteeni, ja siihen he itse lankesivat, Sela! ",
       "king_james": "They have prepared a net for my steps; my soul is bowed down: they have digged a pit before me, into the midst whereof they are fallen themselves. Selah.",
       "refs": {
         "latin_vulgate": {
@@ -86,6 +115,9 @@
         },
         "hebrew_masoretic": {
           "src": "57:7"
+        },
+        "douay_rheims": {
+          "src": "56:7"
         }
       }
     },
@@ -93,6 +125,8 @@
       "verse": 7,
       "latin_vulgate": "Paratum cor meum, Deus, paratum cor meum ;  cantabo, et psalmum dicam. ",
       "hebrew_masoretic": "נָ֘כ֤וֹן לִבִּ֣י אֱ֭לֹהִים נָכ֣וֹן לִבִּ֑י אָ֝שִׁ֗ירָה וַאֲזַמֵּֽרָה׃",
+      "douay_rheims": "My heart is ready, O God, my heart is ready: I will sing, and rehearse a psalm.",
+      "finnish_biblia": "Valmis on sydämeni, Jumala, valmis on sydämeni veisaamaan ja kiittämään. ",
       "king_james": "My heart is fixed, O God, my heart is fixed: I will sing and give praise.",
       "refs": {
         "latin_vulgate": {
@@ -100,6 +134,9 @@
         },
         "hebrew_masoretic": {
           "src": "57:8"
+        },
+        "douay_rheims": {
+          "src": "56:8"
         }
       }
     },
@@ -107,6 +144,8 @@
       "verse": 8,
       "latin_vulgate": " Exsurge, gloria mea ;  exsurge, psalterium et cithara :  exsurgam diluculo. ",
       "hebrew_masoretic": "ע֤וּרָה כְבוֹדִ֗י ע֭וּרָֽה הַנֵּ֥בֶל וְכִנּ֗וֹר אָעִ֥ירָה שָּֽׁחַר׃",
+      "douay_rheims": "Arise, O my glory, arise psaltery and harp: I will arise early.",
+      "finnish_biblia": "Herää kunniani, herää psaltari ja kantele, varhain minä tahdon herätä. ",
       "king_james": "Awake up, my glory; awake, psaltery and harp: I myself will awake early.",
       "refs": {
         "latin_vulgate": {
@@ -114,6 +153,9 @@
         },
         "hebrew_masoretic": {
           "src": "57:9"
+        },
+        "douay_rheims": {
+          "src": "56:9"
         }
       }
     },
@@ -121,6 +163,8 @@
       "verse": 9,
       "latin_vulgate": " Confitebor tibi in populis, Domine,  et psalmum dicam tibi in gentibus : ",
       "hebrew_masoretic": "אוֹדְךָ֖ בָעַמִּ֥ים ׀ אֲדֹנָ֑י אֲ֝זַמֶּרְךָ֗ בַּלְאֻמִּֽים׃",
+      "douay_rheims": "I will give praise to thee, O Lord, among the people: I will sing a psalm to thee among the nations.",
+      "finnish_biblia": "Herra, sinua minä tahdon kiittää kansain seassa, ja veisata pakanain seassa. ",
       "king_james": "I will praise thee, O Lord, among the people: I will sing unto thee among the nations.",
       "refs": {
         "latin_vulgate": {
@@ -128,6 +172,9 @@
         },
         "hebrew_masoretic": {
           "src": "57:10"
+        },
+        "douay_rheims": {
+          "src": "56:10"
         }
       }
     },
@@ -135,6 +182,8 @@
       "verse": 10,
       "latin_vulgate": " quoniam magnificata est usque ad cælos misericordia tua,  et usque ad nubes veritas tua. ",
       "hebrew_masoretic": "כִּֽי־גָדֹ֣ל עַד־שָׁמַ֣יִם חַסְדֶּ֑ךָ וְֽעַד־שְׁחָקִ֥ים אֲמִתֶּֽךָ׃",
+      "douay_rheims": "For thy mercy is magnified even to the heavens: and thy truth unto the clouds.",
+      "finnish_biblia": "Sillä sinun armos on suuri hamaan taivaisiin asti, ja sinun totuutes pilviin asti. ",
       "king_james": "For thy mercy is great unto the heavens, and thy truth unto the clouds.",
       "refs": {
         "latin_vulgate": {
@@ -142,6 +191,9 @@
         },
         "hebrew_masoretic": {
           "src": "57:11"
+        },
+        "douay_rheims": {
+          "src": "56:11"
         }
       }
     },
@@ -149,6 +201,8 @@
       "verse": 11,
       "latin_vulgate": " Exaltare super cælos, Deus,  et super omnem terram gloria tua.  ",
       "hebrew_masoretic": "ר֣וּמָה עַל־שָׁמַ֣יִם אֱלֹהִ֑ים עַ֖ל כׇּל־הָאָ֣רֶץ כְּבוֹדֶֽךָ׃ {פ}",
+      "douay_rheims": "Be thou exalted, O God, above the heavens: and thy glory above all the earth. ",
+      "finnish_biblia": "Korota itses, Jumala, taivasten ylitse, ja sinun kunnias ylitse kaiken maan.   ",
       "king_james": "Be thou exalted, O God, above the heavens: let thy glory be above all the earth. ",
       "refs": {
         "latin_vulgate": {
@@ -156,6 +210,9 @@
         },
         "hebrew_masoretic": {
           "src": "57:12"
+        },
+        "douay_rheims": {
+          "src": "56:12"
         }
       }
     }

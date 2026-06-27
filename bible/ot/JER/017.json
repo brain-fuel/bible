@@ -2,6 +2,8 @@
   "book_id": "JER",
   "latin_name": "Ieremias",
   "hebrew_name": "יִרְמְיָהוּ",
+  "douay_name": "Jeremias",
+  "finnish_name": "Jeremia",
   "english_name": "Jeremiah",
   "chapter": 17,
   "verses": [
@@ -9,162 +11,216 @@
       "verse": 1,
       "latin_vulgate": "Peccatum Juda scriptum est stylo ferreo  in ungue adamantino,  exaratum super latitudinem cordis eorum,  et in cornibus ararum eorum. ",
       "hebrew_masoretic": "חַטַּ֣את יְהוּדָ֗ה כְּתוּבָ֛ה בְּעֵ֥ט בַּרְזֶ֖ל בְּצִפֹּ֣רֶן שָׁמִ֑יר חֲרוּשָׁה֙ עַל־ל֣וּחַ לִבָּ֔ם וּלְקַרְנ֖וֹת מִזְבְּחוֹתֵיכֶֽם׃",
+      "douay_rheims": "The sin of Juda is written with a pen of iron, with the point of a diamond, it is graven upon the table of their heart, upon the horns of their altars.",
+      "finnish_biblia": "Juudan synti on raudalla ja kovalla timantilla kirjoitettu, ja heidän sydämensä tauluihin kaivettu, ja teidän alttarinne sarviin, ",
       "king_james": "The sin of Judah is written with a pen of iron, and with the point of a diamond: it is graven upon the table of their heart, and upon the horns of your altars;"
     },
     {
       "verse": 2,
       "latin_vulgate": " Cum recordati fuerint filii eorum ararum suarum,  et lucorum suorum,  lignorumque frondentium,  in montibus excelsis, ",
       "hebrew_masoretic": "כִּזְכֹּ֤ר בְּנֵיהֶם֙ מִזְבְּחוֹתָ֔ם וַאֲשֵׁרֵיהֶ֖ם עַל־עֵ֣ץ רַעֲנָ֑ן עַ֖ל גְּבָע֥וֹת הַגְּבֹהֽוֹת׃",
+      "douay_rheims": "When their children shall remember their altars, and their groves, and their green trees upon the high mountains,",
+      "finnish_biblia": "Että heidän lapsensa mieleensä johdattaisivat alttarit ja metsistöt viheriäisten puiden tykönä korkeilla vuorilla. ",
       "king_james": "Whilst their children remember their altars and their groves by the green trees upon the high hills."
     },
     {
       "verse": 3,
       "latin_vulgate": " sacrificantes in agro :  fortitudinem tuam, et omnes thesauros tuos in direptionem dabo ;  excelsa tua propter peccata in universis finibus tuis. ",
       "hebrew_masoretic": "הֲרָרִי֙ בַּשָּׂדֶ֔ה חֵילְךָ֥ כׇל־אוֹצְרוֹתֶ֖יךָ לָבַ֣ז אֶתֵּ֑ן בָּמֹתֶ֕יךָ בְּחַטָּ֖את בְּכׇל־גְּבוּלֶֽיךָ׃",
+      "douay_rheims": "Sacrificing in the field: I will give thy strength, and all thy treasures to the spoil, and thy high places for sin in all thy borders.",
+      "finnish_biblia": "Mutta minä olen antava sinun korkeutes ryöviöksi, sekä vuorilla että kedoilla, sekä riistas, että kaiken sinun tavaras, niiden syntein tähden, jotka kaikissa sinun maas äärissä on tehty. ",
       "king_james": "O my mountain in the field, I will give thy substance and all thy treasures to the spoil, and thy high places for sin, throughout all thy borders."
     },
     {
       "verse": 4,
       "latin_vulgate": " Et relinqueris sola ab hæreditate tua, quam dedi tibi,  et servire te faciam inimicis tuis in terra quam ignoras :  quoniam ignem succendisti in furore meo :  usque in æternum ardebit. ",
       "hebrew_masoretic": "וְשָׁמַטְתָּ֗ה וּבְךָ֙ מִנַּחֲלָֽתְךָ֙ אֲשֶׁ֣ר נָתַ֣תִּי לָ֔ךְ וְהַעֲבַדְתִּ֙יךָ֙ אֶת־אֹ֣יְבֶ֔יךָ בָּאָ֖רֶץ אֲשֶׁ֣ר לֹא־יָדָ֑עְתָּ כִּֽי־אֵ֛שׁ קְדַחְתֶּ֥ם בְּאַפִּ֖י עַד־עוֹלָ֥ם תּוּקָֽד׃ {ס}",
+      "douay_rheims": "And thou shalt be left stripped of thy inheritance, which I gave thee: and I will make thee serve thy enemies in a land which thou knowest not: because thou hast kindled a fire in my wrath, it shall burn for ever.",
+      "finnish_biblia": "Ja sinun pitää tuleman ajetuksi pois sinun perinnöstäs, jonka minä sinulle antanut olen; ja minä tahdon sinun tehdä vihollisten orjaksi siinä maassa, jota et sinä tunne; sillä te olette sytyttäneet vihani tulen, joka ijankaikkisesti palava on. ",
       "king_james": "And thou, even thyself, shalt discontinue from thine heritage that I gave thee; and I will cause thee to serve thine enemies in the land which thou knowest not: for ye have kindled a fire in mine anger, which shall burn for ever."
     },
     {
       "verse": 5,
       "latin_vulgate": " Hæc dicit Dominus :  Maledictus homo qui confidit in homine,  et ponit carnem brachium suum,  et a Domino recedit cor ejus. ",
       "hebrew_masoretic": "כֹּ֣ה ׀ אָמַ֣ר יְהֹוָ֗ה אָר֤וּר הַגֶּ֙בֶר֙ אֲשֶׁ֣ר יִבְטַ֣ח בָּאָדָ֔ם וְשָׂ֥ם בָּשָׂ֖ר זְרֹע֑וֹ וּמִן־יְהֹוָ֖ה יָס֥וּר לִבּֽוֹ׃",
+      "douay_rheims": "Thus saith the Lord: Cursed be the man that trusteth in man, and maketh flesh his arm, and whose heart departeth from the Lord.",
+      "finnish_biblia": "Näin sanoo Herra: kirottu olkoon se mies, joka luottaa ihmiseen, ja panee lihan itsellensä käsivarreksi, ja jonka sydän luopuu pois Herrasta. ",
       "king_james": "Thus saith the Lord; Cursed be the man that trusteth in man, and maketh flesh his arm, and whose heart departeth from the Lord."
     },
     {
       "verse": 6,
       "latin_vulgate": " Erit enim quasi myricæ in deserto,  et non videbit cum venerit bonum :  sed habitabit in siccitate in deserto,  in terra salsuginis et inhabitabili. ",
       "hebrew_masoretic": "וְהָיָה֙ כְּעַרְעָ֣ר בָּעֲרָבָ֔ה וְלֹ֥א יִרְאֶ֖ה כִּֽי־יָ֣בוֹא ט֑וֹב וְשָׁכַ֤ן חֲרֵרִים֙ בַּמִּדְבָּ֔ר אֶ֥רֶץ מְלֵחָ֖ה וְלֹ֥א תֵשֵֽׁב׃ {ס}",
+      "douay_rheims": "For he shall be like tamaric in the desert, and he shall not see when good shall come: but he shall dwell in dryness in the desert in a salt land, and not inhabited.",
+      "finnish_biblia": "Hänen pitää tuleman niinkuin kanerva korvessa, ja ei pidä saaman nähdä tulevaista lohdutusta; ja hänen pitää asuman kuivuudessa korvessa, hedelmättömässä ja autiossa erämaassa. ",
       "king_james": "For he shall be like the heath in the desert, and shall not see when good cometh; but shall inhabit the parched places in the wilderness, in a salt land and not inhabited."
     },
     {
       "verse": 7,
       "latin_vulgate": " Benedictus vir qui confidit in Domino,  et erit Dominus fiducia ejus. ",
       "hebrew_masoretic": "בָּר֣וּךְ הַגֶּ֔בֶר אֲשֶׁ֥ר יִבְטַ֖ח בַּיהֹוָ֑ה וְהָיָ֥ה יְהֹוָ֖ה מִבְטַחֽוֹ׃",
+      "douay_rheims": "Blessed be the man that trusteth in the Lord, and the Lord shall be his confidence.",
+      "finnish_biblia": "Mutta se mies on siunattu, joka luottaa Herraan; ja Herra on hänen turvansa. ",
       "king_james": "Blessed is the man that trusteth in the Lord, and whose hope the Lord is."
     },
     {
       "verse": 8,
       "latin_vulgate": " Et erit quasi lignum quod transplantatur super aquas,  quod ad humorem mittit radices suas,  et non timebit cum venerit æstus :  et erit folium ejus viride,  et in tempore siccitatis non erit sollicitum,  nec aliquando desinet facere fructum. ",
       "hebrew_masoretic": "וְהָיָ֞ה כְּעֵ֣ץ ׀ שָׁת֣וּל עַל־מַ֗יִם וְעַל־יוּבַל֙ יְשַׁלַּ֣ח שׇׁרָשָׁ֔יו וְלֹ֤א (ירא) [יִרְאֶה֙] כִּי־יָ֣בֹא חֹ֔ם וְהָיָ֥ה עָלֵ֖הוּ רַעֲנָ֑ן וּבִשְׁנַ֤ת בַּצֹּ֙רֶת֙ לֹ֣א יִדְאָ֔ג וְלֹ֥א יָמִ֖ישׁ מֵעֲשׂ֥וֹת פֶּֽרִי׃",
+      "douay_rheims": "And he shall be as a tree that is planted by the waters, that spreadeth out its roots towards moisture: and it shall not fear when the heat cometh. And the leaf thereof shall be green, and in the time of drought it shall not be solicitous, neither shall it cease at any time to bring forth fruit.",
+      "finnish_biblia": "Hän on niinkuin se puu, joka veden reunalle on istutettu ja ojan viereen juurtunut; sillä jos vielä palavuus tulee, niin ei hän kuitenkaan pelkää, vaan sen lehdet pysyvät viheriäisinä, eikä murehdi, kuin kuiva vuosi tulee, mutta kantaa hedelmän ilman lakkaamatta. ",
       "king_james": "For he shall be as a tree planted by the waters, and that spreadeth out her roots by the river, and shall not see when heat cometh, but her leaf shall be green; and shall not be careful in the year of drought, neither shall cease from yielding fruit."
     },
     {
       "verse": 9,
       "latin_vulgate": " Pravum est cor omnium, et inscrutabile :  quis cognoscet illud ? ",
       "hebrew_masoretic": "עָקֹ֥ב הַלֵּ֛ב מִכֹּ֖ל וְאָנֻ֣שׁ ה֑וּא מִ֖י יֵדָעֶֽנּוּ׃",
+      "douay_rheims": "The heart is perverse above all things, and unsearchable, who can know it?",
+      "finnish_biblia": "Sydän on häijy ja pahanilkinen kappale ylitse kaikkein; kuka taitaa sitä tutkia? ",
       "king_james": "The heart is deceitful above all things, and desperately wicked: who can know it?"
     },
     {
       "verse": 10,
       "latin_vulgate": " Ego Dominus scrutans cor,  et probans renes :  qui do unicuique juxta viam suam,  et juxta fructum adinventionum suarum. ",
       "hebrew_masoretic": "אֲנִ֧י יְהֹוָ֛ה חֹקֵ֥ר לֵ֖ב בֹּחֵ֣ן כְּלָי֑וֹת וְלָתֵ֤ת לְאִישׁ֙ כִּדְרָכָ֔ו כִּפְרִ֖י מַעֲלָלָֽיו׃ {ס}",
+      "douay_rheims": "I am the Lord who search the heart, and prove the reins: who give to every one according to his way, and according to the fruit of his devices.",
+      "finnish_biblia": "Minä Herra tahdon tutkia sydämen ja koetella munaskuut ja annan kullekin hänen töittensä jälkeen ja hänen töittensä hedelmän jälkeen. ",
       "king_james": "I the Lord search the heart, I try the reins, even to give every man according to his ways, and according to the fruit of his doings."
     },
     {
       "verse": 11,
       "latin_vulgate": " Perdix fovit quæ non peperit :  fecit divitias, et non in judicio :  in dimidio dierum suorum derelinquet eas,  et in novissimo suo erit insipiens. ",
       "hebrew_masoretic": "קֹרֵ֤א דָגַר֙ וְלֹ֣א יָלָ֔ד עֹ֥שֶׂה עֹ֖שֶׁר וְלֹ֣א בְמִשְׁפָּ֑ט בַּחֲצִ֤י יָמָו֙ יַעַזְבֶ֔נּוּ וּבְאַחֲרִית֖וֹ יִהְיֶ֥ה נָבָֽל׃",
+      "douay_rheims": "As the partridge hath hatched eggs which she did not lay: so is he that hath gathered riches, and not by right: in the midst of his days he shall leave them, and in his latter end he shall be a fool.",
+      "finnish_biblia": "Sillä niinkuin lintu hautoo ja ei kuori, niin on myös se, joka väärin kalua kokoo; sillä hänen pitää jättämän sen kesken aikaansa, ja viimeiseltä tyhjäksi tuleman. ",
       "king_james": "As the partridge sitteth on eggs, and hatcheth them not; so he that getteth riches, and not by right, shall leave them in the midst of his days, and at his end shall be a fool."
     },
     {
       "verse": 12,
       "latin_vulgate": " Solium gloriæ altitudinis a principio,  locus sanctificationis nostræ. ",
       "hebrew_masoretic": "כִּסֵּ֣א כָב֔וֹד מָר֖וֹם מֵרִאשׁ֑וֹן מְק֖וֹם מִקְדָּשֵֽׁנוּ׃",
+      "douay_rheims": "A high and glorious throne from the beginning is the place of our sanctification.",
+      "finnish_biblia": "Mutta meidän pyhyytemme sia, (Jumalan) kunnian istuin, on aina lujana pysynyt. ",
       "king_james": "A glorious high throne from the beginning is the place of our sanctuary."
     },
     {
       "verse": 13,
       "latin_vulgate": " Exspectatio Israël, Domine,  omnes qui te derelinquunt confundentur :  recedentes a te, in terra scribentur,  quoniam dereliquerunt venam aquarum viventium Dominum. ",
       "hebrew_masoretic": "מִקְוֵ֤ה יִשְׂרָאֵל֙ יְהֹוָ֔ה כׇּל־עֹזְבֶ֖יךָ יֵבֹ֑שׁוּ (יסורי) [וְסוּרַי֙] בָּאָ֣רֶץ יִכָּתֵ֔בוּ כִּ֥י עָזְב֛וּ מְק֥וֹר מַֽיִם־חַיִּ֖ים אֶת־יְהֹוָֽה׃ {פ}",
+      "douay_rheims": "O Lord, the hope of Israel: all that forsake thee shall be confounded: they that depart from thee, shall be written in the earth: because they have forsaken the Lord, the vein of living waters.",
+      "finnish_biblia": "Sinä Herra olet Israelin toivo; kaikki, jotka sinun hylkäävät, pitää häpiään tuleman; ne minusta luopuneet pitää maahan kirjoitettaman; sillä he hylkäävät Herran, joka on elävä vesilähde. ",
       "king_james": "O Lord, the hope of Israel, all that forsake thee shall be ashamed, and they that depart from me shall be written in the earth, because they have forsaken the Lord, the fountain of living waters."
     },
     {
       "verse": 14,
       "latin_vulgate": " Sana me, Domine, et sanabor :  salvum me fac, et salvus ero :  quoniam laus mea tu es. ",
       "hebrew_masoretic": "רְפָאֵ֤נִי יְהֹוָה֙ וְאֵ֣רָפֵ֔א הוֹשִׁיעֵ֖נִי וְאִוָּשֵׁ֑עָה כִּ֥י תְהִלָּתִ֖י אָֽתָּה׃",
+      "douay_rheims": "Heal me, O Lord, and I shall be healed: save me, and I shall be saved: for thou art my praise.",
+      "finnish_biblia": "Paranna minua, Herra, niin minä paranen; auta sinä minua, niin minä olen autettu; sillä sinä olet minun kerskaukseni. ",
       "king_james": "Heal me, O Lord, and I shall be healed; save me, and I shall be saved: for thou art my praise."
     },
     {
       "verse": 15,
       "latin_vulgate": " Ecce ipsi dicunt ad me :  Ubi est verbum Domini ? veniat : ",
       "hebrew_masoretic": "הִנֵּה־הֵ֕מָּה אֹמְרִ֖ים אֵלָ֑י אַיֵּ֥ה דְבַר־יְהֹוָ֖ה יָ֥בוֹא נָֽא׃",
+      "douay_rheims": "Behold they say to me: Where is the word of the Lord? let it come.",
+      "finnish_biblia": "Katso, he sanovat minulle: kussa siis on Herran sana? annas nyt tulla! ",
       "king_james": "Behold, they say unto me, Where is the word of the Lord? let it come now."
     },
     {
       "verse": 16,
       "latin_vulgate": " et ego non sum turbatus, te pastorem sequens :  et diem hominis non desideravi, tu scis :  quod egressum est de labiis meis, rectum in conspectu tuo fuit. ",
       "hebrew_masoretic": "וַאֲנִ֞י לֹא־אַ֣צְתִּי ׀ מֵרֹעֶ֣ה אַחֲרֶ֗יךָ וְי֥וֹם אָנ֛וּשׁ לֹ֥א הִתְאַוֵּ֖יתִי אַתָּ֣ה יָדָ֑עְתָּ מוֹצָ֣א שְׂפָתַ֔י נֹ֥כַח פָּנֶ֖יךָ הָיָֽה׃",
+      "douay_rheims": "And I am not troubled, following thee for my pastor, and I have not desired the day of man, thou knowest. That which went out of my lips, hath been right in thy sight.",
+      "finnish_biblia": "Mutta en minä ole paennut sinusta, minun paimeneni, niin en minä ole myös toivottanut heille surkiaa päivää, sen sinä tiedät; mitä minä saarnannut olen, se on oikea sinun edessäs. ",
       "king_james": "As for me, I have not hastened from being a pastor to follow thee: neither have I desired the woeful day; thou knowest: that which came out of my lips was right before thee."
     },
     {
       "verse": 17,
       "latin_vulgate": " Non sis tu mihi formidini :  spes mea tu in die afflictionis. ",
       "hebrew_masoretic": "אַל־תִּֽהְיֵה־לִ֖י לִמְחִתָּ֑ה מַחֲסִי־אַ֖תָּה בְּי֥וֹם רָעָֽה׃",
+      "douay_rheims": "Be not thou a terror unto me, thou art my hope in the day of affliction.",
+      "finnish_biblia": "Älä ole minulle hämmästykseksi; sinä olet minun turvani hädässä. ",
       "king_james": "Be not a terror unto me: thou art my hope in the day of evil."
     },
     {
       "verse": 18,
       "latin_vulgate": " Confundantur qui me persequuntur,  et non confundar ego :  paveant illi,  et non paveam ego :  induc super eos diem afflictionis,  et duplici contritione contere eos.  ",
       "hebrew_masoretic": "יֵבֹ֤שׁוּ רֹֽדְפַי֙ וְאַל־אֵבֹ֣שָׁה אָ֔נִי יֵחַ֣תּוּ הֵ֔מָּה וְאַל־אֵחַ֖תָּה אָ֑נִי הָבִ֤יא עֲלֵיהֶם֙ י֣וֹם רָעָ֔ה וּמִשְׁנֶ֥ה שִׁבָּר֖וֹן שׇׁבְרֵֽם׃ {ס}",
+      "douay_rheims": "Let them be confounded that persecute me, and let not me be confounded: let them be afraid, and let not me be afraid: bring upon them the day of affliction, and with a double destruction, destroy them.",
+      "finnish_biblia": "Anna heidän häpiään tulla, jotka minua vainoovat, ja älä anna minun häpiään tulla; anna heidän peljästyä, ja älä anna minun peljästyä; anna onnetoin päivä heille tulla, ja lyö rikki heitä kaksinkertaisesti. ",
       "king_james": "Let them be confounded that persecute me, but let not me be confounded: let them be dismayed, but let not me be dismayed: bring upon them the day of evil, and destroy them with double destruction."
     },
     {
       "verse": 19,
       "latin_vulgate": " Hæc dicit Dominus ad me : Vade, et sta in porta filiorum populi, per quam ingrediuntur reges Juda, et egrediuntur, et in cunctis portis Jerusalem : ",
       "hebrew_masoretic": "כֹּה־אָמַ֨ר יְהֹוָ֜ה אֵלַ֗י הָלֹ֤ךְ וְעָֽמַדְתָּ֙ בְּשַׁ֣עַר בְּנֵֽי־[הָעָ֔ם] (עם) אֲשֶׁ֨ר יָבֹ֤אוּ בוֹ֙ מַלְכֵ֣י יְהוּדָ֔ה וַאֲשֶׁ֖ר יֵ֣צְאוּ ב֑וֹ וּבְכֹ֖ל שַׁעֲרֵ֥י יְרוּשָׁלָֽ͏ִם׃",
+      "douay_rheims": "Thus saith the Lord to me: Go, and stand in the gate of the children of the people, by which the kings of Juda come in, and go out, and in all the gates of Jerusalem:",
+      "finnish_biblia": "Näin sanoi Herra minulle: mene ja seiso kansan portissa, josta Juudan kuninkaat käyvät ulos ja sisälle, ja kaikissa Jerusalemin porteissa. ",
       "king_james": "Thus said the Lord unto me; Go and stand in the gate of the children of the people, whereby the kings of Judah come in, and by the which they go out, and in all the gates of Jerusalem;"
     },
     {
       "verse": 20,
       "latin_vulgate": "et dices ad eos :   Audite verbum Domini,  reges Juda, et omnis Juda,  cunctique habitatores Jerusalem,  qui ingredimini per portas istas. ",
       "hebrew_masoretic": "וְאָמַרְתָּ֣ אֲ֠לֵיהֶ֠ם שִׁמְע֨וּ דְבַר־יְהֹוָ֜ה מַלְכֵ֤י יְהוּדָה֙ וְכׇל־יְהוּדָ֔ה וְכֹ֖ל יֹשְׁבֵ֣י יְרוּשָׁלָ֑͏ִם הַבָּאִ֖ים בַּשְּׁעָרִ֥ים הָאֵֽלֶּה׃",
+      "douay_rheims": "And thou shalt say to them: Hear the word of the Lord, ye kings of Juda, and al Juda, and all the inhabitants of Jerusalem, that enter in by these gates.",
+      "finnish_biblia": "Ja sano heille: kuulkaat Herran sanaa, te Juudan kuninkaat, ja kaikki Juudan ja Jerusalemin asuvaiset, jotka tästä portista sisälle käytte. ",
       "king_james": "And say unto them, Hear ye the word of the Lord, ye kings of Judah, and all Judah, and all the inhabitants of Jerusalem, that enter in by these gates:"
     },
     {
       "verse": 21,
       "latin_vulgate": " Hæc dicit Dominus :  Custodite animas vestras,  et nolite portare pondera in die sabbati,  nec inferatis per portas Jerusalem : ",
       "hebrew_masoretic": "כֹּ֚ה אָמַ֣ר יְהֹוָ֔ה הִשָּׁמְר֖וּ בְּנַפְשׁוֹתֵיכֶ֑ם וְאַל־תִּשְׂא֤וּ מַשָּׂא֙ בְּי֣וֹם הַשַּׁבָּ֔ת וַהֲבֵאתֶ֖ם בְּשַׁעֲרֵ֥י יְרֽוּשָׁלָֽ͏ִם׃",
+      "douay_rheims": "Thus saith the Lord: Take heed to your souls, and carry no burdens on the sabbath day: and bring them not in by the gates of Jerusalem.",
+      "finnish_biblia": "Näin sanoo Herra: kavahtakaat teitänne ja älkäät sabbatina mitään kuormaa kantako, älkäät myös viekö Jerusalemin porttein lävitse; ",
       "king_james": "Thus saith the Lord; Take heed to yourselves, and bear no burden on the sabbath day, nor bring it in by the gates of Jerusalem;"
     },
     {
       "verse": 22,
       "latin_vulgate": " et nolite ejicere onera de domibus vestris in die sabbati,  et omne opus non facietis :  sanctificate diem sabbati,  sicut præcepi patribus vestris. ",
       "hebrew_masoretic": "וְלֹא־תוֹצִ֨יאוּ מַשָּׂ֤א מִבָּֽתֵּיכֶם֙ בְּי֣וֹם הַשַּׁבָּ֔ת וְכׇל־מְלָאכָ֖ה לֹ֣א תַעֲשׂ֑וּ וְקִדַּשְׁתֶּם֙ אֶת־י֣וֹם הַשַּׁבָּ֔ת כַּאֲשֶׁ֥ר צִוִּ֖יתִי אֶת־אֲבוֹתֵיכֶֽם׃",
+      "douay_rheims": "And do not bring burdens out of your houses on the sabbath day, neither do ye any work: sanctify the sabbath day, as I commanded your fathers.",
+      "finnish_biblia": "Ja älkäät viekö yhtään taakkaa sabbatina ulos teidän huoneistanne, ja älkäät tehkö mitään työtä; vaan pyhittäkäät sabbatin päivä, niinkuin minä teidän isillenne käskenyt olen. ",
       "king_james": "Neither carry forth a burden out of your houses on the sabbath day, neither do ye any work, but hallow ye the sabbath day, as I commanded your fathers."
     },
     {
       "verse": 23,
       "latin_vulgate": " Et non audierunt, nec inclinaverunt aurem suam :  sed induraverunt cervicem suam, ne audirent me,  et ne acciperent disciplinam. ",
       "hebrew_masoretic": "וְלֹ֣א שָׁמְע֔וּ וְלֹ֥א הִטּ֖וּ אֶת־אׇזְנָ֑ם וַיַּקְשׁוּ֙ אֶת־עׇרְפָּ֔ם לְבִלְתִּ֣י (שומע) [שְׁמ֔וֹעַ] וּלְבִלְתִּ֖י קַ֥חַת מוּסָֽר׃",
+      "douay_rheims": "But they did not hear, nor incline their ear: but hardened their neck, that they might not hear me, and might not receive instruction.",
+      "finnish_biblia": "Mutta ei he kuule eikä kallista korviansa, vaan tulevat kankiaksi, ettei heidän pitäisi kuuleman, eikä salliman heitänsä neuvottaa. ",
       "king_james": "But they obeyed not, neither inclined their ear, but made their neck stiff, that they might not hear, nor receive instruction."
     },
     {
       "verse": 24,
       "latin_vulgate": " Et erit : si audieritis me, dicit Dominus,  ut non inferatis onera per portas civitatis hujus in die sabbati :  et si sanctificaveritis diem sabbati,  ne faciatis in eo omne opus : ",
       "hebrew_masoretic": "וְ֠הָיָ֠ה אִם־שָׁמֹ֨עַ תִּשְׁמְע֤וּן אֵלַי֙ נְאֻם־יְהֹוָ֔ה לְבִלְתִּ֣י ׀ הָבִ֣יא מַשָּׂ֗א בְּשַׁעֲרֵ֛י הָעִ֥יר הַזֹּ֖את בְּי֣וֹם הַשַּׁבָּ֑ת וּלְקַדֵּשׁ֙ אֶת־י֣וֹם הַשַּׁבָּ֔ת לְבִלְתִּ֥י עֲשֽׂוֹת־בֹּ֖ה כׇּל־מְלָאכָֽה׃",
+      "douay_rheims": "And it shall come to pass: if you will hearken to me, saith the Lord, to bring in no burdens by the gates of this city on the sabbath day: and if you will sanctify the sabbath day, to do no work therein:",
+      "finnish_biblia": "Ja pitää tapahtuman, että, jos te uskollisesti kuulette minua, sanoo Herra, niin ettette yhtään kuormaa kanna sabbatin päivänä tämän kaupungin portin lävitse; vaan pyhitätte sabbatin päivän, niin ettette myös työtä tee sinä päivänä; ",
       "king_james": "And it shall come to pass, if ye diligently hearken unto me, saith the Lord, to bring in no burden through the gates of this city on the sabbath day, but hallow the sabbath day, to do no work therein;"
     },
     {
       "verse": 25,
       "latin_vulgate": " ingredientur per portas civitatis hujus reges et principes,  sedentes super solium David,  et ascendentes in curribus et equis,  ipsi et principes eorum,  viri Juda, et habitatores Jerusalem :  et habitabitur civitas hæc in sempiternum. ",
       "hebrew_masoretic": "וּבָ֣אוּ בְשַׁעֲרֵ֣י הָעִ֣יר הַזֹּ֡את מְלָכִ֣ים ׀ וְשָׂרִ֡ים יֹשְׁבִים֩ עַל־כִּסֵּ֨א דָוִ֜ד רֹכְבִ֣ים ׀ בָּרֶ֣כֶב וּבַסּוּסִ֗ים הֵ֚מָּה וְשָׂ֣רֵיהֶ֔ם אִ֥ישׁ יְהוּדָ֖ה וְיֹשְׁבֵ֣י יְרוּשָׁלָ֑͏ִם וְיָשְׁבָ֥ה הָעִיר־הַזֹּ֖את לְעוֹלָֽם׃",
+      "douay_rheims": "Then shall there enter in by the gates of this city kings and princes, sitting upon the throne of David, and riding in chariots and on horses, they and their princes, the men of Juda, and the inhabitants of Jerusalem: and this city shall be inhabited for ever.",
+      "finnish_biblia": "Niin pitää myös tämän kaupungin portista käymän kuninkaat ja päämiehet ulos ja sisälle, jotka Davidin istuimella istuvat, ratsastavat ja vaeltavat sekä vaunuilla ja hevosilla he, ja heidän pääruhtinaansa, Juudan miehet ja Jerusalemin asuvaiset; ja tässä kaupungissa pitää ijankaikkisesti asuttaman. ",
       "king_james": "Then shall there enter into the gates of this city kings and princes sitting upon the throne of David, riding in chariots and on horses, they, and their princes, the men of Judah, and the inhabitants of Jerusalem: and this city shall remain for ever."
     },
     {
       "verse": 26,
       "latin_vulgate": " Et venient de civitatibus Juda,  et de circuitu Jerusalem,  et de terra Benjamin,  et de campestribus, et de montuosis, et ab austro,  portantes holocaustum, et victimam,  et sacrificium, et thus,  et inferent oblationem in domum Domini. ",
       "hebrew_masoretic": "וּבָ֣אוּ מֵעָרֵֽי־יְ֠הוּדָ֠ה וּמִסְּבִיב֨וֹת יְרוּשָׁלַ֜͏ִם וּמֵאֶ֣רֶץ בִּנְיָמִ֗ן וּמִן־הַשְּׁפֵלָ֤ה וּמִן־הָהָר֙ וּמִן־הַנֶּ֔גֶב מְבִאִ֛ים עוֹלָ֥ה וְזֶ֖בַח וּמִנְחָ֣ה וּלְבוֹנָ֑ה וּמְבִאֵ֥י תוֹדָ֖ה בֵּ֥ית יְהֹוָֽה׃",
+      "douay_rheims": "And they shall come from the cities of Juda, and from the places round about Jerusalem, and from the land of Benjamin, and from the plains, and from the mountains, and from the south, bringing holocausts, and victims, and sacrifices, and frankincense, and they shall bring in an offering into the house of the Lord.",
+      "finnish_biblia": "Ja pitää tuleman Juudan kaupungeista ja niistä, jotka ympäri Jerusalemin ovat, ja Benjaminin maasta, laaksoista ja vuorilta, ja lounaasta päin, ne jotka pitää viemän edes polttouhrit, uhrit, ruokauhrit ja suitsutuksen, niin myös ne, jotka pitää viemän kiitosuhrit Herran huoneesen. ",
       "king_james": "And they shall come from the cities of Judah, and from the places about Jerusalem, and from the land of Benjamin, and from the plain, and from the mountains, and from the south, bringing burnt offerings, and sacrifices, and meat offerings, and incense, and bringing sacrifices of praise, unto the house of the Lord."
     },
     {
       "verse": 27,
       "latin_vulgate": " Si autem non audieritis me  ut sanctificetis diem sabbati,  et ne portetis onus,  et ne inferatis per portas Jerusalem in die sabbati,  succendam ignem in portis ejus,  et devorabit domos Jerusalem,  et non extinguetur.  ",
       "hebrew_masoretic": "וְאִם־לֹ֨א תִשְׁמְע֜וּ אֵלַ֗י לְקַדֵּשׁ֙ אֶת־י֣וֹם הַשַּׁבָּ֔ת וּלְבִלְתִּ֣י ׀ שְׂאֵ֣ת מַשָּׂ֗א וּבֹ֛א בְּשַׁעֲרֵ֥י יְרוּשָׁלַ֖͏ִם בְּי֣וֹם הַשַּׁבָּ֑ת וְהִצַּ֧תִּי אֵ֣שׁ בִּשְׁעָרֶ֗יהָ וְאָ֥כְלָ֛ה אַרְמְנ֥וֹת יְרוּשָׁלַ֖͏ִם וְלֹ֥א תִכְבֶּֽה׃ {פ}",
+      "douay_rheims": "But if you will not hearken to me, to sanctify the sabbath day, and not to carry burdens, and not to bring them in by the gates of Jerusalem on the sabbath day: I will kindle a fire in the gates thereof, and it shall devour the houses of Jerusalem, and it shall not be quenched. ",
+      "finnish_biblia": "Mutta jollette minua kuule, niin että te pyhitätte sabbatin päivän, ja ettette yhtään taakkaa kanna Jerusalemin porteista sabbatin päivänä: niin minä sytytän tulen sen portteihin, joka Jerusalemin huoneet kuluttaman pitää, jota ei pidä sammutettaman.   ",
       "king_james": "But if ye will not hearken unto me to hallow the sabbath day, and not to bear a burden, even entering in at the gates of Jerusalem on the sabbath day; then will I kindle a fire in the gates thereof, and it shall devour the palaces of Jerusalem, and it shall not be quenched. "
     }
   ]

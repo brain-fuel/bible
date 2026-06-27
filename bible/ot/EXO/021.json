@@ -2,6 +2,8 @@
   "book_id": "EXO",
   "latin_name": "Exodus",
   "hebrew_name": "שְׁמוֹת",
+  "douay_name": "Exodus",
+  "finnish_name": "2. Mooseksen kirja",
   "english_name": "Exodus",
   "chapter": 21,
   "verses": [
@@ -9,216 +11,288 @@
       "verse": 1,
       "latin_vulgate": "Hæc sunt judicia quæ propones eis. ",
       "hebrew_masoretic": "וְאֵ֙לֶּה֙ הַמִּשְׁפָּטִ֔ים אֲשֶׁ֥ר תָּשִׂ֖ים לִפְנֵיהֶֽם׃",
+      "douay_rheims": "These are the judgments which thou shalt set before them.",
+      "finnish_biblia": "Nämät ovat ne oikeudet, jotka sinun pitää paneman heidän eteensä: ",
       "king_james": "Now these are the judgments which thou shalt set before them."
     },
     {
       "verse": 2,
       "latin_vulgate": "Si emeris servum hebræum, sex annis serviet tibi : in septimo egredietur liber gratis. ",
       "hebrew_masoretic": "כִּ֤י תִקְנֶה֙ עֶ֣בֶד עִבְרִ֔י שֵׁ֥שׁ שָׁנִ֖ים יַעֲבֹ֑ד וּבַ֨שְּׁבִעִ֔ת יֵצֵ֥א לַֽחׇפְשִׁ֖י חִנָּֽם׃",
+      "douay_rheims": "If thou buy a Hebrew servant, six years shall he serve thee; in the seventh he shall go out free for nothing.",
+      "finnish_biblia": "Jos sinä ostat Hebrealaisen orjan, hänen pitää sinua palveleman kuusi vuotta; vaan seitsemäntenä pitää hänen lähtemän vapaana lunastamatta; ",
       "king_james": "If thou buy an Hebrew servant, six years he shall serve: and in the seventh he shall go out free for nothing."
     },
     {
       "verse": 3,
       "latin_vulgate": "Cum quali veste intraverit, cum tali exeat : si habens uxorem, et uxor egredietur simul. ",
       "hebrew_masoretic": "אִם־בְּגַפּ֥וֹ יָבֹ֖א בְּגַפּ֣וֹ יֵצֵ֑א אִם־בַּ֤עַל אִשָּׁה֙ ה֔וּא וְיָצְאָ֥ה אִשְׁתּ֖וֹ עִמּֽוֹ׃",
+      "douay_rheims": "With what raiment he came in, with the like let him go out: if having a wife, his wife also shall go out with him.",
+      "finnish_biblia": "Jos hän naimatoinna on ollut, naimatoinna pitää hänen myös lähtemän; vaan jos hän nainunna tuli, lähtekään emäntinensä. ",
       "king_james": "If he came in by himself, he shall go out by himself: if he were married, then his wife shall go out with him."
     },
     {
       "verse": 4,
       "latin_vulgate": "Sin autem dominus dederit illi uxorem, et pepererit filios et filias : mulier et liberi ejus erunt domini sui, ipse vero exibit cum vestitu suo. ",
       "hebrew_masoretic": "אִם־אֲדֹנָיו֙ יִתֶּן־ל֣וֹ אִשָּׁ֔ה וְיָלְדָה־ל֥וֹ בָנִ֖ים א֣וֹ בָנ֑וֹת הָאִשָּׁ֣ה וִילָדֶ֗יהָ תִּהְיֶה֙ לַֽאדֹנֶ֔יהָ וְה֖וּא יֵצֵ֥א בְגַפּֽוֹ׃",
+      "douay_rheims": "But if his master gave him a wife, and she hath borne sons and daughters; the woman and her children shall be her master's: but he himself shall go out with his raiment.",
+      "finnish_biblia": "Jos hänen isäntänsä antoi hänelle emännän, jos se on synnyttänyt hänelle poikia tai tyttäriä, niin hänen emäntänsä ja lapsensa pitää oleman hänen isäntänsä omat, vaan itse hänen pitää lähtemän yksinänsä. ",
       "king_james": "If his master have given him a wife, and she have born him sons or daughters; the wife and her children shall be her master’s, and he shall go out by himself."
     },
     {
       "verse": 5,
       "latin_vulgate": "Quod si dixerit servus : Diligo dominum meum et uxorem ac liberos ; non egrediar liber : ",
       "hebrew_masoretic": "וְאִם־אָמֹ֤ר יֹאמַר֙ הָעֶ֔בֶד אָהַ֙בְתִּי֙ אֶת־אֲדֹנִ֔י אֶת־אִשְׁתִּ֖י וְאֶת־בָּנָ֑י לֹ֥א אֵצֵ֖א חׇפְשִֽׁי׃",
+      "douay_rheims": "And if the servant shall say: I love my master and my wife and children, I will not go out free:",
+      "finnish_biblia": "Mutta jos orja julkisesti sanoo: minä rakastan minun isäntääni, vaimoani ja lapsiani: en tahdo tulla minä vapaaksi, ",
       "king_james": "And if the servant shall plainly say, I love my master, my wife, and my children; I will not go out free:"
     },
     {
       "verse": 6,
       "latin_vulgate": "offeret eum dominus diis, et applicabitur ad ostium et postes, perforabitque aurem ejus subula : et erit ei servus in sæculum. ",
       "hebrew_masoretic": "וְהִגִּישׁ֤וֹ אֲדֹנָיו֙ אֶל־הָ֣אֱלֹהִ֔ים וְהִגִּישׁוֹ֙ אֶל־הַדֶּ֔לֶת א֖וֹ אֶל־הַמְּזוּזָ֑ה וְרָצַ֨ע אֲדֹנָ֤יו אֶת־אׇזְנוֹ֙ בַּמַּרְצֵ֔עַ וַעֲבָד֖וֹ לְעֹלָֽם׃ {ס}",
+      "douay_rheims": "His master shall bring him to the gods, and he shall be set to the door and the posts, and he shall bore his ear through with an awl: and he shall be his servant for ever.",
+      "finnish_biblia": "Niin hänen isäntänsä viekään hänen tuomarien tykö, ja seisauttakaan hänet oveen, taikka pihtipieleen, ja lävistäkään isäntä hänen korvansa naskalilla, ja olkaan ijäti hänen orjansa. ",
       "king_james": "Then his master shall bring him unto the judges; he shall also bring him to the door, or unto the door post; and his master shall bore his ear through with an aul; and he shall serve him for ever."
     },
     {
       "verse": 7,
       "latin_vulgate": "Si quis vendiderit filiam suam in famulam, non egredietur sicut ancillæ exire consueverunt. ",
       "hebrew_masoretic": "וְכִֽי־יִמְכֹּ֥ר אִ֛ישׁ אֶת־בִּתּ֖וֹ לְאָמָ֑ה לֹ֥א תֵצֵ֖א כְּצֵ֥את הָעֲבָדִֽים׃",
+      "douay_rheims": "If any man sell his daughter to be a servant, she shall not go out as bondwomen are wont to go out.",
+      "finnish_biblia": "Jos joku myy tyttärensä orjaksi, ei hänen pidä lähtemän niinkuin orjat lähtevät. ",
       "king_james": "And if a man sell his daughter to be a maidservant, she shall not go out as the menservants do."
     },
     {
       "verse": 8,
       "latin_vulgate": "Si displicuerit oculis domini sui cui tradita fuerat, dimittet eam : populo autem alieno vendendi non habebit potestatem, si spreverit eam. ",
       "hebrew_masoretic": "אִם־רָעָ֞ה בְּעֵינֵ֧י אֲדֹנֶ֛יהָ אֲשֶׁר־[ל֥וֹ] (לא) יְעָדָ֖הּ וְהֶפְדָּ֑הּ לְעַ֥ם נׇכְרִ֛י לֹא־יִמְשֹׁ֥ל לְמׇכְרָ֖הּ בְּבִגְדוֹ־בָֽהּ׃",
+      "douay_rheims": "If she displease the eyes of her master to whom she was delivered, he shall let her go: but he shall have no power to sell her to a foreign nation, if he despise her.",
+      "finnish_biblia": "Jollei hän kelpaa isännällensä, joka ei tahdo häntä kihlata, niin hänen pitää antaman hänen lunastettaa; mutta muukalaiselle kansalle ei pidä oleman hänelle voimaa häntä myydä, tehden petollisesti hänen kanssansa. ",
       "king_james": "If she please not her master, who hath betrothed her to himself, then shall he let her be redeemed: to sell her unto a strange nation he shall have no power, seeing he hath dealt deceitfully with her."
     },
     {
       "verse": 9,
       "latin_vulgate": "Sin autem filio suo desponderit eam, juxta morem filiarum faciet illi. ",
       "hebrew_masoretic": "וְאִם־לִבְנ֖וֹ יִֽיעָדֶ֑נָּה כְּמִשְׁפַּ֥ט הַבָּנ֖וֹת יַעֲשֶׂה־לָּֽהּ׃",
+      "douay_rheims": "But if he have betrothed her to his son, he shall deal with her after the manner of daughters.",
+      "finnish_biblia": "Mutta jos hän sen kihlaa pojallensa, niin antakaan hänen nautita tytärten oikeutta. ",
       "king_james": "And if he have betrothed her unto his son, he shall deal with her after the manner of daughters."
     },
     {
       "verse": 10,
       "latin_vulgate": "Quod si alteram ei acceperit, providebit puellæ nuptias, et vestimenta, et pretium pudicitiæ non negabit. ",
       "hebrew_masoretic": "אִם־אַחֶ֖רֶת יִֽקַּֽח־ל֑וֹ שְׁאֵרָ֛הּ כְּסוּתָ֥הּ וְעֹנָתָ֖הּ לֹ֥א יִגְרָֽע׃",
+      "douay_rheims": "And if he take another wife for him, he shall provide her a marriage, and raiment, neither shall he refuse the price of her chastity.",
+      "finnish_biblia": "Jos hän pojallensa ottaa toisen, niin ei hänen pidä kieltämän häneltä hänen ravintoansa, vaatteitansa, ja asunto-oikeuttansa. ",
       "king_james": "If he take him another wife; her food, her raiment, and her duty of marriage, shall he not diminish."
     },
     {
       "verse": 11,
       "latin_vulgate": "Si tria ista non fecerit, egredietur gratis absque pecunia.  ",
       "hebrew_masoretic": "וְאִ֨ם־שְׁלׇשׁ־אֵ֔לֶּה לֹ֥א יַעֲשֶׂ֖ה לָ֑הּ וְיָצְאָ֥ה חִנָּ֖ם אֵ֥ין כָּֽסֶף׃ {ס}",
+      "douay_rheims": "If he do not these three things, she shall go out free without money.",
+      "finnish_biblia": "Jollei hän tee hänelle näitä kolmea, niin sen pitää vapaana lähtemän lunastamatta. ",
       "king_james": "And if he do not these three unto her, then shall she go out free without money."
     },
     {
       "verse": 12,
       "latin_vulgate": " Qui percusserit hominem volens occidere, morte moriatur. ",
       "hebrew_masoretic": "מַכֵּ֥ה אִ֛ישׁ וָמֵ֖ת מ֥וֹת יוּמָֽת׃",
+      "douay_rheims": "He that striketh a man with a will to kill him, shall be put to death.",
+      "finnish_biblia": "Joka lyö ihmisen niin että hän kuolee, hänen pitää totisesti kuoleman. ",
       "king_james": "He that smiteth a man, so that he die, shall be surely put to death."
     },
     {
       "verse": 13,
       "latin_vulgate": "Qui autem non est insidiatus, sed Deus illum tradidit in manus ejus, constituam tibi locum in quem fugere debeat. ",
       "hebrew_masoretic": "וַאֲשֶׁר֙ לֹ֣א צָדָ֔ה וְהָאֱלֹהִ֖ים אִנָּ֣ה לְיָד֑וֹ וְשַׂמְתִּ֤י לְךָ֙ מָק֔וֹם אֲשֶׁ֥ר יָנ֖וּס שָֽׁמָּה׃ {ס}",
+      "douay_rheims": "But he that did not lie in wait for him, but God delivered him into his hands: I will appoint thee a place to which he must flee.",
+      "finnish_biblia": "Vaan jollei hän ole häntä väijynyt, mutta Jumala on antanut hänen langeta hänen käsiinsä, niin minä määrään sinulle paikan, johonka hänen pakeneman pitää. ",
       "king_james": "And if a man lie not in wait, but God deliver him into his hand; then I will appoint thee a place whither he shall flee."
     },
     {
       "verse": 14,
       "latin_vulgate": "Si quis per industriam occiderit proximum suum, et per insidias : ab altari meo evelles eum, ut moriatur. ",
       "hebrew_masoretic": "וְכִֽי־יָזִ֥ד אִ֛ישׁ עַל־רֵעֵ֖הוּ לְהׇרְג֣וֹ בְעׇרְמָ֑ה מֵעִ֣ם מִזְבְּחִ֔י תִּקָּחֶ֖נּוּ לָמֽוּת׃ {ס}",
+      "douay_rheims": "If a man kill his neighbour on set purpose, and by lying in wait for him: thou shalt take him away from my altar that he may die.",
+      "finnish_biblia": "Mutta jos joku ylpeydestä tappaa lähimmäisensä kavaluudella; sen sinun pitää ottaman minun alttariltanikin pois, kuolettaa. ",
       "king_james": "But if a man come presumptuously upon his neighbour, to slay him with guile; thou shalt take him from mine altar, that he may die."
     },
     {
       "verse": 15,
       "latin_vulgate": "Qui percusserit patrem suum aut matrem, morte moriatur. ",
       "hebrew_masoretic": "וּמַכֵּ֥ה אָבִ֛יו וְאִמּ֖וֹ מ֥וֹת יוּמָֽת׃ {ס}",
+      "douay_rheims": "He that striketh his father or mother, shall be put to death.",
+      "finnish_biblia": "Joka lyö isäänsä taikka äitiänsä, sen pitää totisesti kuoleman. ",
       "king_james": "And he that smiteth his father, or his mother, shall be surely put to death."
     },
     {
       "verse": 16,
       "latin_vulgate": "Qui furatus fuerit hominem, et vendiderit eum, convictus noxæ, morte moriatur. ",
       "hebrew_masoretic": "וְגֹנֵ֨ב אִ֧ישׁ וּמְכָר֛וֹ וְנִמְצָ֥א בְיָד֖וֹ מ֥וֹת יוּמָֽת׃ {ס}",
+      "douay_rheims": "He that shall steal a man, and sell him, being convicted of the guilt, shall be put to death.",
+      "finnish_biblia": "Joka varastaa ihmisen ja myy hänen, eli löydetään hänen tykönänsä, sen pitää totisesti kuoleman. ",
       "king_james": "And he that stealeth a man, and selleth him, or if he be found in his hand, he shall surely be put to death."
     },
     {
       "verse": 17,
       "latin_vulgate": "Qui maledixerit patri suo, vel matri, morte moriatur.  ",
       "hebrew_masoretic": "וּמְקַלֵּ֥ל אָבִ֛יו וְאִמּ֖וֹ מ֥וֹת יוּמָֽת׃ {ס}",
+      "douay_rheims": "He that curseth his father or mother, shall die the death.",
+      "finnish_biblia": "Ja joka kiroilee isäänsä ja äitiänsä, sen pitää totisesti kuoleman. ",
       "king_james": "And he that curseth his father, or his mother, shall surely be put to death."
     },
     {
       "verse": 18,
       "latin_vulgate": " Si rixati fuerint viri, et percusserit alter proximum suum lapide vel pugno, et ille mortuus non fuerit, sed jacuerit in lectulo : ",
       "hebrew_masoretic": "וְכִֽי־יְרִיבֻ֣ן אֲנָשִׁ֔ים וְהִכָּה־אִישׁ֙ אֶת־רֵעֵ֔הוּ בְּאֶ֖בֶן א֣וֹ בְאֶגְרֹ֑ף וְלֹ֥א יָמ֖וּת וְנָפַ֥ל לְמִשְׁכָּֽב׃",
+      "douay_rheims": "If men quarrel, and the one strike his neighbour with a stone, or with his fist, and he die not, but keepeth his bed:",
+      "finnish_biblia": "Koska miehet keskenänsä riitelevät, ja toinen lyö toistansa kivellä eli rusikalla, ja hän ei kuole vaan makaa vuoteessansa: ",
       "king_james": "And if men strive together, and one smite another with a stone, or with his fist, and he die not, but keepeth his bed:"
     },
     {
       "verse": 19,
       "latin_vulgate": "si surrexerit, et ambulaverit foris super baculum suum, innocens erit qui percusserit, ita tamen ut operas ejus et impensas in medicos restituat. ",
       "hebrew_masoretic": "אִם־יָק֞וּם וְהִתְהַלֵּ֥ךְ בַּח֛וּץ עַל־מִשְׁעַנְתּ֖וֹ וְנִקָּ֣ה הַמַּכֶּ֑ה רַ֥ק שִׁבְתּ֛וֹ יִתֵּ֖ן וְרַפֹּ֥א יְרַפֵּֽא׃ {ס}",
+      "douay_rheims": "If he rise again and walk abroad upon his staff, he that struck him shall be quit, yet so that he make restitution for his work, and for his expenses upon the physicians.",
+      "finnish_biblia": "Jos hän paranee, niin että hän käy ulos sauvansa nojalla, niin sen pitää syyttömän oleman joka löi: ainoastaan maksakaan hänen työnsä vahingon, josta hän on estetyksi tullut, ja hänen pitää kaiketi hänen terveeksi laittaman. ",
       "king_james": "If he rise again, and walk abroad upon his staff, then shall he that smote him be quit: only he shall pay for the loss of his time, and shall cause him to be thoroughly healed."
     },
     {
       "verse": 20,
       "latin_vulgate": "Qui percusserit servum suum, vel ancillam virga, et mortui fuerint in manibus ejus, criminis reus erit. ",
       "hebrew_masoretic": "וְכִֽי־יַכֶּה֩ אִ֨ישׁ אֶת־עַבְדּ֜וֹ א֤וֹ אֶת־אֲמָתוֹ֙ בַּשֵּׁ֔בֶט וּמֵ֖ת תַּ֣חַת יָד֑וֹ נָקֹ֖ם יִנָּקֵֽם׃",
+      "douay_rheims": "He that striketh his bondman, or bondwoman, with a rod, and they die under his hands, shall be guilty of the crime.",
+      "finnish_biblia": "Kun joku lyö palveliaansa eli palkkapiikaansa sauvalla, niin että hän kuolee hänen käsiinsä: hän pitää kaiketi kostettaman. ",
       "king_james": "And if a man smite his servant, or his maid, with a rod, and he die under his hand; he shall be surely punished."
     },
     {
       "verse": 21,
       "latin_vulgate": "Sin autem uno die vel duobus supervixerit, non subjacebit pœnæ, quia pecunia illius est. ",
       "hebrew_masoretic": "אַ֥ךְ אִם־י֛וֹם א֥וֹ יוֹמַ֖יִם יַעֲמֹ֑ד לֹ֣א יֻקַּ֔ם כִּ֥י כַסְפּ֖וֹ הֽוּא׃ {ס}",
+      "douay_rheims": "But if the party remain alive a day or two, he shall not be subject to the punishment, because it is his money.",
+      "finnish_biblia": "Vaan jos hän päivän taikka kaksi elää, ei pidä häntä kostettaman, sillä se on hänen rahansa. ",
       "king_james": "Notwithstanding, if he continue a day or two, he shall not be punished: for he is his money."
     },
     {
       "verse": 22,
       "latin_vulgate": "Si rixati fuerint viri, et percusserit quis mulierem prægnantem, et abortivum quidem fecerit, sed ipsa vixerit : subjacebit damno quantum maritus mulieris expetierit, et arbitri judicaverint. ",
       "hebrew_masoretic": "וְכִֽי־יִנָּצ֣וּ אֲנָשִׁ֗ים וְנָ֨גְפ֜וּ אִשָּׁ֤ה הָרָה֙ וְיָצְא֣וּ יְלָדֶ֔יהָ וְלֹ֥א יִהְיֶ֖ה אָס֑וֹן עָנ֣וֹשׁ יֵעָנֵ֗שׁ כַּֽאֲשֶׁ֨ר יָשִׁ֤ית עָלָיו֙ בַּ֣עַל הָֽאִשָּׁ֔ה וְנָתַ֖ן בִּפְלִלִֽים׃",
+      "douay_rheims": "If men quarrel, and one strike a woman with child and she miscarry indeed, but live herself: he shall be answerable for so much damage as the woman's husband shall require, and as arbiters shall award.",
+      "finnish_biblia": "Jos miehet tappelevat keskenänsä, ja loukkaavat raskaan vaimon, niin että hänen täytyy hedelmänsä kesken synnyttää; ja ei kuoleman vahinko tapahdu: niin hän pitää rahalla rangaistaman, sen jälkeen kuin vaimon mies häneltä anoo, ja se pitää annettaman arviomiesten ehdosta; ",
       "king_james": "If men strive, and hurt a woman with child, so that her fruit depart from her, and yet no mischief follow: he shall be surely punished, according as the woman’s husband will lay upon him; and he shall pay as the judges determine."
     },
     {
       "verse": 23,
       "latin_vulgate": "Sin autem mors ejus fuerit subsecuta, reddet animam pro anima, ",
       "hebrew_masoretic": "וְאִם־אָס֖וֹן יִהְיֶ֑ה וְנָתַתָּ֥ה נֶ֖פֶשׁ תַּ֥חַת נָֽפֶשׁ׃",
+      "douay_rheims": "But if her death ensue thereupon, he shall render life for life,",
+      "finnish_biblia": "Mutta jos kuoleman vahinko tulee, niin pitää hänen antaman hengen hengestä. ",
       "king_james": "And if any mischief follow, then thou shalt give life for life,"
     },
     {
       "verse": 24,
       "latin_vulgate": "oculum pro oculo, dentem pro dente, manum pro manu, pedem pro pede, ",
       "hebrew_masoretic": "עַ֚יִן תַּ֣חַת עַ֔יִן שֵׁ֖ן תַּ֣חַת שֵׁ֑ן יָ֚ד תַּ֣חַת יָ֔ד רֶ֖גֶל תַּ֥חַת רָֽגֶל׃",
+      "douay_rheims": "Eye for eye, tooth for tooth, hand for hand, foot for foot,",
+      "finnish_biblia": "Silmän silmästä, hampaan hampaasta, käden kädestä, jalan jalasta. ",
       "king_james": "Eye for eye, tooth for tooth, hand for hand, foot for foot,"
     },
     {
       "verse": 25,
       "latin_vulgate": "adustionem pro adustione, vulnus pro vulnere, livorem pro livore. ",
       "hebrew_masoretic": "כְּוִיָּה֙ תַּ֣חַת כְּוִיָּ֔ה פֶּ֖צַע תַּ֣חַת פָּ֑צַע חַבּוּרָ֕ה תַּ֖חַת חַבּוּרָֽה׃ {ס}",
+      "douay_rheims": "Burning for burning, wound for wound, stripe for stripe.",
+      "finnish_biblia": "Polton poltosta, haavan haavasta, sinimarjan sinimarjasta. ",
       "king_james": "Burning for burning, wound for wound, stripe for stripe."
     },
     {
       "verse": 26,
       "latin_vulgate": "Si percusserit quispiam oculum servi sui aut ancillæ, et luscos eos fecerit, dimittet eos liberos pro oculo quem eruit. ",
       "hebrew_masoretic": "וְכִֽי־יַכֶּ֨ה אִ֜ישׁ אֶת־עֵ֥ין עַבְדּ֛וֹ אֽוֹ־אֶת־עֵ֥ין אֲמָת֖וֹ וְשִֽׁחֲתָ֑הּ לַֽחׇפְשִׁ֥י יְשַׁלְּחֶ֖נּוּ תַּ֥חַת עֵינֽוֹ׃",
+      "douay_rheims": "If any man strike the eye of his manservant or maidservant, and leave them but one eye, he shall let them go free for the eye which he put out.",
+      "finnish_biblia": "Joka lyö palveliansa eli palkkapiikansa silmän, ja turmeles sen, hänen pitää päästämän sen vapaaksi silmän tähden. ",
       "king_james": "And if a man smite the eye of his servant, or the eye of his maid, that it perish; he shall let him go free for his eye’s sake."
     },
     {
       "verse": 27,
       "latin_vulgate": "Dentem quoque si excusserit servo vel ancillæ suæ, similiter dimittet eos liberos.  ",
       "hebrew_masoretic": "וְאִם־שֵׁ֥ן עַבְדּ֛וֹ אֽוֹ־שֵׁ֥ן אֲמָת֖וֹ יַפִּ֑יל לַֽחׇפְשִׁ֥י יְשַׁלְּחֶ֖נּוּ תַּ֥חַת שִׁנּֽוֹ׃ {פ}",
+      "douay_rheims": "Also if he strike out a tooth of his manservant or maidservant, he shall in like manner make them free.",
+      "finnish_biblia": "Niin myös jos hän lyö palvelialtansa taikka palkkapiialtansa hampaan suusta, niin pitää hänen päästämän sen vapaaksi hampaan tähden. ",
       "king_james": "And if he smite out his manservant’s tooth, or his maidservant’s tooth; he shall let him go free for his tooth’s sake."
     },
     {
       "verse": 28,
       "latin_vulgate": " Si bos cornu percusserit virum aut mulierem, et mortui fuerint, lapidibus obruetur : et non comedentur carnes ejus, dominus quoque bovis innocens erit. ",
       "hebrew_masoretic": "וְכִֽי־יִגַּ֨ח שׁ֥וֹר אֶת־אִ֛ישׁ א֥וֹ אֶת־אִשָּׁ֖ה וָמֵ֑ת סָק֨וֹל יִסָּקֵ֜ל הַשּׁ֗וֹר וְלֹ֤א יֵאָכֵל֙ אֶת־בְּשָׂר֔וֹ וּבַ֥עַל הַשּׁ֖וֹר נָקִֽי׃",
+      "douay_rheims": "If an ox gore a man or a woman, and they die, he shall be stoned: and his flesh shall not be eaten, but the owner of the ox shall be quit.",
+      "finnish_biblia": "Jos härkä kuokaisee miehen eli vaimon, niin että hän kuolee: se härkä pitää kaiketi kivitettämän, ja ei pidä hänen lihaansa syötämän; ja niin on härjän isäntä viatoin. ",
       "king_james": "If an ox gore a man or a woman, that they die: then the ox shall be surely stoned, and his flesh shall not be eaten; but the owner of the ox shall be quit."
     },
     {
       "verse": 29,
       "latin_vulgate": "Quod si bos cornupeta fuerit ab heri et nudiustertius, et contestati sunt dominum ejus, nec recluserit eum, occideritque virum aut mulierem : et bos lapidibus obruetur, et dominum ejus occident. ",
       "hebrew_masoretic": "וְאִ֡ם שׁוֹר֩ נַגָּ֨ח ה֜וּא מִתְּמֹ֣ל שִׁלְשֹׁ֗ם וְהוּעַ֤ד בִּבְעָלָיו֙ וְלֹ֣א יִשְׁמְרֶ֔נּוּ וְהֵמִ֥ית אִ֖ישׁ א֣וֹ אִשָּׁ֑ה הַשּׁוֹר֙ יִסָּקֵ֔ל וְגַם־בְּעָלָ֖יו יוּמָֽת׃",
+      "douay_rheims": "But if the ox was wont to push with his horn yesterday, and the day before, and they warned his master, and he did not shut him up, and he shall kill a man or a woman: then the ox shall be stoned, and his owner also shall be put to death.",
+      "finnish_biblia": "Mutta jos härkä ennen oli harjaantunut kuokkimaan, ja sen isännälle oli todistusten kanssa ilmoitettu, ja ei hän korjannut häntä; jos hän sitte tappaa miehen eli vaimon, niin pitää härkä kivitettämän, ja hänen isäntänsä kuoleman. ",
       "king_james": "But if the ox were wont to push with his horn in time past, and it hath been testified to his owner, and he hath not kept him in, but that he hath killed a man or a woman; the ox shall be stoned, and his owner also shall be put to death."
     },
     {
       "verse": 30,
       "latin_vulgate": "Quod si pretium fuerit ei impositum, dabit pro anima sua quidquid fuerit postulatus. ",
       "hebrew_masoretic": "אִם־כֹּ֖פֶר יוּשַׁ֣ת עָלָ֑יו וְנָתַן֙ פִּדְיֹ֣ן נַפְשׁ֔וֹ כְּכֹ֥ל אֲשֶׁר־יוּשַׁ֖ת עָלָֽיו׃",
+      "douay_rheims": "And if they set a price upon him, he shall give for his life whatsoever is laid upon him.",
+      "finnish_biblia": "Mutta jos hän rahalla pääsee, niin pitää hänen antaman henkensä lunastukseksi niin paljo kuin määrätään. ",
       "king_james": "If there be laid on him a sum of money, then he shall give for the ransom of his life whatsoever is laid upon him."
     },
     {
       "verse": 31,
       "latin_vulgate": "Filium quoque et filiam si cornu percusserit, simili sententiæ subjacebit. ",
       "hebrew_masoretic": "אוֹ־בֵ֥ן יִגָּ֖ח אוֹ־בַ֣ת יִגָּ֑ח כַּמִּשְׁפָּ֥ט הַזֶּ֖ה יֵעָ֥שֶׂה לּֽוֹ׃",
+      "douay_rheims": "If he have gored a son, or a daughter, he shall fall under the like sentence.",
+      "finnish_biblia": "Jos hän pojan eli tyttären kuokaisee, niin pitää yhdellä tavalla hänen kanssansa tehtämän. ",
       "king_james": "Whether he have gored a son, or have gored a daughter, according to this judgment shall it be done unto him."
     },
     {
       "verse": 32,
       "latin_vulgate": "Si servum ancillamque invaserit, triginta siclos argenti domino dabit, bos vero lapidibus opprimetur. ",
       "hebrew_masoretic": "אִם־עֶ֛בֶד יִגַּ֥ח הַשּׁ֖וֹר א֣וֹ אָמָ֑ה כֶּ֣סֶף ׀ שְׁלֹשִׁ֣ים שְׁקָלִ֗ים יִתֵּן֙ לַֽאדֹנָ֔יו וְהַשּׁ֖וֹר יִסָּקֵֽל׃ {ס}",
+      "douay_rheims": "If he assault a bondman or bondwoman, he shall give thirty sicles of silver to their master, and the ox shall be stoned.",
+      "finnish_biblia": "Jos joku härkä kuokaisee palvelian eli palkkapiian, niin pitää hänen antaman heidän isännällensä kolmekymmentä hopiasikliä, ja härkä pitää kivitettämän. ",
       "king_james": "If the ox shall push a manservant or a maidservant; he shall give unto their master thirty shekels of silver, and the ox shall be stoned."
     },
     {
       "verse": 33,
       "latin_vulgate": "Si quis aperuerit cisternam, et foderit, et non operuerit eam, cecideritque bos aut asinus in eam, ",
       "hebrew_masoretic": "וְכִֽי־יִפְתַּ֨ח אִ֜ישׁ בּ֗וֹר א֠וֹ כִּֽי־יִכְרֶ֥ה אִ֛ישׁ בֹּ֖ר וְלֹ֣א יְכַסֶּ֑נּוּ וְנָֽפַל־שָׁ֥מָּה שּׁ֖וֹר א֥וֹ חֲמֽוֹר׃",
+      "douay_rheims": "If a man open a pit, and dig one, and cover it not, and an ox or an ass fall into it,",
+      "finnish_biblia": "Jos joku avaa kuopan, taikka kaivaa kuopan, jos ei hän sitä peitä, ja härkä eli aasi siihen putoo: ",
       "king_james": "And if a man shall open a pit, or if a man shall dig a pit, and not cover it, and an ox or an ass fall therein;"
     },
     {
       "verse": 34,
       "latin_vulgate": "reddet dominus cisternæ pretium jumentorum : quod autem mortuum est, ipsius erit. ",
       "hebrew_masoretic": "בַּ֤עַל הַבּוֹר֙ יְשַׁלֵּ֔ם כֶּ֖סֶף יָשִׁ֣יב לִבְעָלָ֑יו וְהַמֵּ֖ת יִֽהְיֶה־לּֽוֹ׃ {ס}",
+      "douay_rheims": "The owner of the pit shall pay the price of the beasts: and that which is dead shall be his own.",
+      "finnish_biblia": "Niin pitää sen kuopan isäntä maksaman rahalla sen isännälle; mutta sen kuolleen pitää hänen oleman. ",
       "king_james": "The owner of the pit shall make it good, and give money unto the owner of them; and the dead beast shall be his."
     },
     {
       "verse": 35,
       "latin_vulgate": "Si bos alienus bovem alterius vulneraverit, et ille mortuus fuerit : vendent bovem vivum, et divident pretium, cadaver autem mortui inter se dispertient. ",
       "hebrew_masoretic": "וְכִֽי־יִגֹּ֧ף שֽׁוֹר־אִ֛ישׁ אֶת־שׁ֥וֹר רֵעֵ֖הוּ וָמֵ֑ת וּמָ֨כְר֜וּ אֶת־הַשּׁ֤וֹר הַחַי֙ וְחָצ֣וּ אֶת־כַּסְפּ֔וֹ וְגַ֥ם אֶת־הַמֵּ֖ת יֶֽחֱצֽוּן׃",
+      "douay_rheims": "If one man's ox gore another man's ox, and he die: they shall sell the live ox, and shall divide the price, and the carcass of that which died they shall part between them:",
+      "finnish_biblia": "Jos jonkun härkä kuokkii toisen miehen härjän, että se kuolee, niin pitää heidän myymän sen elävän härjän, ja jakaman rahan, niin myös sen kuolleen härjän pitää heidän jakaman. ",
       "king_james": "And if one man’s ox hurt another’s, that he die; then they shall sell the live ox, and divide the money of it; and the dead ox also they shall divide."
     },
     {
       "verse": 36,
       "latin_vulgate": "Sin autem sciebat quod bos cornupeta esset ab heri et nudiustertius, et non custodivit eum dominus suus : reddet bovem pro bove, et cadaver integrum accipiet.   ",
       "hebrew_masoretic": "א֣וֹ נוֹדַ֗ע כִּ֠י שׁ֣וֹר נַגָּ֥ח הוּא֙ מִתְּמ֣וֹל שִׁלְשֹׁ֔ם וְלֹ֥א יִשְׁמְרֶ֖נּוּ בְּעָלָ֑יו שַׁלֵּ֨ם יְשַׁלֵּ֥ם שׁוֹר֙ תַּ֣חַת הַשּׁ֔וֹר וְהַמֵּ֖ת יִֽהְיֶה־לּֽוֹ׃ {ס}",
+      "douay_rheims": "But if he knew that his ox was wont to push yesterday, and the day before, and his master did not keep him in; he shall pay ox for ox, and shall take the whole carcass. ",
+      "finnish_biblia": "Elikkä jos se oli tiettävä, että härkä on ennen tottunut kuokkimaan, ja hänen isäntänsä ei korjannut häntä, niin hänen pitää antaman härjän härjästä, ja se kuollut pitää hänen oleman.   ",
       "king_james": "Or if it be known that the ox hath used to push in time past, and his owner hath not kept him in; he shall surely pay ox for ox; and the dead shall be his own. "
     }
   ]

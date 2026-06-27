@@ -2,6 +2,8 @@
   "book_id": "PSA",
   "latin_name": "Liber Psalmorum",
   "hebrew_name": "תְּהִלִּים",
+  "douay_name": "Psalms",
+  "finnish_name": "Psalmit",
   "english_name": "Psalms",
   "chapter": 88,
   "verses": [
@@ -9,6 +11,8 @@
       "verse": 1,
       "latin_vulgate": "  Domine, Deus salutis meæ,  in die clamavi et nocte coram te. ",
       "hebrew_masoretic": "יְ֭הֹוָה אֱלֹהֵ֣י יְשׁוּעָתִ֑י יוֹם־צָעַ֖קְתִּי בַלַּ֣יְלָה נֶגְדֶּֽךָ׃",
+      "douay_rheims": "O Lord, the God of my salvation: I have cried in the day, and in the night before thee.",
+      "finnish_biblia": "Psalmi, Koran lasten veisu, edelläveisaajalle, raadollisten heikkoudesta, Hemanin Esrahilaisen oppi. (H88:2) Herra, minun autuuteni Jumala, minä huudan päivällä ja yöllä sinun edessäs, ",
       "king_james": "O Lord God of my salvation, I have cried day and night before thee:",
       "refs": {
         "latin_vulgate": {
@@ -16,6 +20,9 @@
         },
         "hebrew_masoretic": {
           "src": "88:2"
+        },
+        "douay_rheims": {
+          "src": "87:2"
         }
       }
     },
@@ -23,6 +30,8 @@
       "verse": 2,
       "latin_vulgate": " Intret in conspectu tuo oratio mea,  inclina aurem tuam ad precem meam. ",
       "hebrew_masoretic": "תָּב֣וֹא לְ֭פָנֶיךָ תְּפִלָּתִ֑י הַטֵּ֥ה אׇ֝זְנְךָ֗ לְרִנָּתִֽי׃",
+      "douay_rheims": "Let my prayer come in before thee: incline thy ear to my petition.",
+      "finnish_biblia": "Anna minun rukoukseni etees tulla: kallista korvas huutoni puoleen. ",
       "king_james": "Let my prayer come before thee: incline thine ear unto my cry;",
       "refs": {
         "latin_vulgate": {
@@ -30,6 +39,9 @@
         },
         "hebrew_masoretic": {
           "src": "88:3"
+        },
+        "douay_rheims": {
+          "src": "87:3"
         }
       }
     },
@@ -37,6 +49,8 @@
       "verse": 3,
       "latin_vulgate": " Quia repleta est malis anima mea,  et vita mea inferno appropinquavit. ",
       "hebrew_masoretic": "כִּֽי־שָׂבְעָ֣ה בְרָע֣וֹת נַפְשִׁ֑י וְ֝חַיַּ֗י לִשְׁא֥וֹל הִגִּֽיעוּ׃",
+      "douay_rheims": "For my soul is filled with evils: and my life hath drawn nigh to hell.",
+      "finnish_biblia": "Sillä minun sieluni on surkeutta täynnä, ja minun elämäni on juuri liki helvettiä. ",
       "king_james": "For my soul is full of troubles: and my life draweth nigh unto the grave.",
       "refs": {
         "latin_vulgate": {
@@ -44,6 +58,9 @@
         },
         "hebrew_masoretic": {
           "src": "88:4"
+        },
+        "douay_rheims": {
+          "src": "87:4"
         }
       }
     },
@@ -51,6 +68,8 @@
       "verse": 4,
       "latin_vulgate": " Æstimatus sum cum descendentibus in lacum,  factus sum sicut homo sine adjutorio, ",
       "hebrew_masoretic": "נֶ֭חְשַׁבְתִּי עִם־י֣וֹרְדֵי ב֑וֹר הָ֝יִ֗יתִי כְּגֶ֣בֶר אֵֽין־אֱיָֽל׃",
+      "douay_rheims": "I am counted among them that go down to the pit: I am become as a man without help,",
+      "finnish_biblia": "Minä olen arvattu niiden kaltaiseksi, jotka hautaan menevät: minä olen niinkuin se mies, jolla ei yhtään apua ole. ",
       "king_james": "I am counted with them that go down into the pit: I am as a man that hath no strength:",
       "refs": {
         "latin_vulgate": {
@@ -58,6 +77,9 @@
         },
         "hebrew_masoretic": {
           "src": "88:5"
+        },
+        "douay_rheims": {
+          "src": "87:5"
         }
       }
     },
@@ -65,6 +87,8 @@
       "verse": 5,
       "latin_vulgate": " inter mortuos liber ;  sicut vulnerati dormientes in sepulchris,  quorum non es memor amplius,  et ipsi de manu tua repulsi sunt. ",
       "hebrew_masoretic": "בַּמֵּתִ֗ים חׇ֫פְשִׁ֥י כְּמ֤וֹ חֲלָלִ֨ים ׀ שֹׁ֥כְבֵי קֶ֗בֶר אֲשֶׁ֤ר לֹ֣א זְכַרְתָּ֣ם ע֑וֹד וְ֝הֵ֗מָּה מִיָּדְךָ֥ נִגְזָֽרוּ׃",
+      "douay_rheims": "Free among the dead. Like the slain sleeping in the sepulchres, whom thou rememberest no more: and they are cut off from thy hand.",
+      "finnish_biblia": "Minä makaan hyljättynä kuolleiden seassa, niinkuin haavoitetut, jotka haudassa makaavat, joita et sinä enää muista, ja jotka kädestäs eroitetut ovat. ",
       "king_james": "Free among the dead, like the slain that lie in the grave, whom thou rememberest no more: and they are cut off from thy hand.",
       "refs": {
         "latin_vulgate": {
@@ -72,6 +96,9 @@
         },
         "hebrew_masoretic": {
           "src": "88:6"
+        },
+        "douay_rheims": {
+          "src": "87:6"
         }
       }
     },
@@ -79,6 +106,8 @@
       "verse": 6,
       "latin_vulgate": " Posuerunt me in lacu inferiori,  in tenebrosis, et in umbra mortis. ",
       "hebrew_masoretic": "שַׁ֭תַּנִי בְּב֣וֹר תַּחְתִּיּ֑וֹת בְּ֝מַחֲשַׁכִּ֗ים בִּמְצֹלֽוֹת׃",
+      "douay_rheims": "They have laid me in the lower pit: in the dark places, and in the shadow of death.",
+      "finnish_biblia": "Sinä olet painanut minun alimmaiseen kaivoon, pimeyteen ja syvyyteen. ",
       "king_james": "Thou hast laid me in the lowest pit, in darkness, in the deeps.",
       "refs": {
         "latin_vulgate": {
@@ -86,6 +115,9 @@
         },
         "hebrew_masoretic": {
           "src": "88:7"
+        },
+        "douay_rheims": {
+          "src": "87:7"
         }
       }
     },
@@ -93,6 +125,8 @@
       "verse": 7,
       "latin_vulgate": " Super me confirmatus est furor tuus,  et omnes fluctus tuos induxisti super me. ",
       "hebrew_masoretic": "עָ֭לַי סָמְכָ֣ה חֲמָתֶ֑ךָ וְכׇל־מִ֝שְׁבָּרֶ֗יךָ עִנִּ֥יתָ סֶּֽלָה׃",
+      "douay_rheims": "Thy wrath is strong over me: and all thy waves thou hast brought in upon me.",
+      "finnish_biblia": "Sinun hirmuisuutes ahdistaa minua, ja pakottaa minua sinun aalloillas, Sela! ",
       "king_james": "Thy wrath lieth hard upon me, and thou hast afflicted me with all thy waves. Selah.",
       "refs": {
         "latin_vulgate": {
@@ -100,6 +134,9 @@
         },
         "hebrew_masoretic": {
           "src": "88:8"
+        },
+        "douay_rheims": {
+          "src": "87:8"
         }
       }
     },
@@ -107,6 +144,8 @@
       "verse": 8,
       "latin_vulgate": " Longe fecisti notos meos a me ;  posuerunt me abominationem sibi.  Traditus sum, et non egrediebar ; ",
       "hebrew_masoretic": "הִרְחַ֥קְתָּ מְיֻדָּעַ֗י מִ֫מֶּ֥נִּי שַׁתַּ֣נִי תוֹעֵב֣וֹת לָ֑מוֹ כָּ֝לֻ֗א וְלֹ֣א אֵצֵֽא׃",
+      "douay_rheims": "Thou hast put away my acquaintance far from me: they have set me an abomination to themselves. I was delivered up, and came not forth:",
+      "finnish_biblia": "Sinä eroitat kauvas ystäväni minusta: sinä olet minun tehnyt heille kauhistukseksi: minä makaan vangittuna, etten minä voi päästä ulos. ",
       "king_james": "Thou hast put away mine acquaintance far from me; thou hast made me an abomination unto them: I am shut up, and I cannot come forth.",
       "refs": {
         "latin_vulgate": {
@@ -114,6 +153,9 @@
         },
         "hebrew_masoretic": {
           "src": "88:9"
+        },
+        "douay_rheims": {
+          "src": "87:9"
         }
       }
     },
@@ -121,6 +163,8 @@
       "verse": 9,
       "latin_vulgate": " oculi mei languerunt præ inopia.  Clamavi ad te, Domine, tota die ;  expandi ad te manus meas. ",
       "hebrew_masoretic": "עֵינִ֥י דָאֲבָ֗ה מִנִּ֫י־עֹ֥נִי קְרָאתִ֣יךָ יְהֹוָ֣ה בְּכׇל־י֑וֹם שִׁטַּ֖חְתִּי אֵלֶ֣יךָ כַפָּֽי׃",
+      "douay_rheims": "My eyes languished through poverty. All the day I cried to thee, O Lord: I stretched out my hands to thee.",
+      "finnish_biblia": "Minun kasvoni ovat surkiat raadollisuuden tähden: Herra, minä avukseni huudan sinua joka päivä: minä hajoitan käteni sinun puolees. ",
       "king_james": "Mine eye mourneth by reason of affliction: Lord, I have called daily upon thee, I have stretched out my hands unto thee.",
       "refs": {
         "latin_vulgate": {
@@ -128,6 +172,9 @@
         },
         "hebrew_masoretic": {
           "src": "88:10"
+        },
+        "douay_rheims": {
+          "src": "87:10"
         }
       }
     },
@@ -135,6 +182,8 @@
       "verse": 10,
       "latin_vulgate": " Numquid mortuis facies mirabilia ?  aut medici suscitabunt, et confitebuntur tibi ? ",
       "hebrew_masoretic": "הֲלַמֵּתִ֥ים תַּעֲשֶׂה־פֶּ֑לֶא אִם־רְ֝פָאִ֗ים יָק֤וּמוּ ׀ יוֹד֬וּךָ סֶּֽלָה׃",
+      "douay_rheims": "Wilt thou shew wonders to the dead? or shall physicians raise to life, and give praise to thee?",
+      "finnish_biblia": "Teetkös siis ihmeitä kuolleiden seassa? eli nousevatko kuolleet sinua kiittämään? Sela! ",
       "king_james": "Wilt thou shew wonders to the dead? shall the dead arise and praise thee? Selah.",
       "refs": {
         "latin_vulgate": {
@@ -142,6 +191,9 @@
         },
         "hebrew_masoretic": {
           "src": "88:11"
+        },
+        "douay_rheims": {
+          "src": "87:11"
         }
       }
     },
@@ -149,6 +201,8 @@
       "verse": 11,
       "latin_vulgate": " Numquid narrabit aliquis in sepulchro misericordiam tuam,  et veritatem tuam in perditione ? ",
       "hebrew_masoretic": "הַיְסֻפַּ֣ר בַּקֶּ֣בֶר חַסְדֶּ֑ךָ אֱ֝מ֥וּנָתְךָ֗ בָּאֲבַדּֽוֹן׃",
+      "douay_rheims": "Shall any one in the sepulchre declare thy mercy: and thy truth in destruction?",
+      "finnish_biblia": "Luetellaanko haudoissa sinun hyvyyttäs? ja totuuttas kadotuksessa? ",
       "king_james": "Shall thy lovingkindness be declared in the grave? or thy faithfulness in destruction?",
       "refs": {
         "latin_vulgate": {
@@ -156,6 +210,9 @@
         },
         "hebrew_masoretic": {
           "src": "88:12"
+        },
+        "douay_rheims": {
+          "src": "87:12"
         }
       }
     },
@@ -163,6 +220,8 @@
       "verse": 12,
       "latin_vulgate": " Numquid cognoscentur in tenebris mirabilia tua ?  et justitia tua in terra oblivionis ? ",
       "hebrew_masoretic": "הֲיִוָּדַ֣ע בַּחֹ֣שֶׁךְ פִּלְאֶ֑ךָ וְ֝צִדְקָתְךָ֗ בְּאֶ֣רֶץ נְשִׁיָּֽה׃",
+      "douay_rheims": "Shall thy wonders be known in the dark; and thy justice in the land of forgetfulness?",
+      "finnish_biblia": "Tunnetaanko sinun ihmees pimiässä? eli vanhurskautes siinä maassa, jossa kaikki unohdetaan? ",
       "king_james": "Shall thy wonders be known in the dark? and thy righteousness in the land of forgetfulness?",
       "refs": {
         "latin_vulgate": {
@@ -170,6 +229,9 @@
         },
         "hebrew_masoretic": {
           "src": "88:13"
+        },
+        "douay_rheims": {
+          "src": "87:13"
         }
       }
     },
@@ -177,6 +239,8 @@
       "verse": 13,
       "latin_vulgate": " Et ego ad te, Domine, clamavi,  et mane oratio mea præveniet te. ",
       "hebrew_masoretic": "וַאֲנִ֤י ׀ אֵלֶ֣יךָ יְהֹוָ֣ה שִׁוַּ֑עְתִּי וּ֝בַבֹּ֗קֶר תְּֽפִלָּתִ֥י תְקַדְּמֶֽךָּ׃",
+      "douay_rheims": "But I, O Lord, have cried to thee: and in the morning my prayer shall prevent thee.",
+      "finnish_biblia": "Mutta minä huudan sinua, Herra, ja minun rukoukseni tulee varhain sinun etees. ",
       "king_james": "But unto thee have I cried, O Lord; and in the morning shall my prayer prevent thee.",
       "refs": {
         "latin_vulgate": {
@@ -184,6 +248,9 @@
         },
         "hebrew_masoretic": {
           "src": "88:14"
+        },
+        "douay_rheims": {
+          "src": "87:14"
         }
       }
     },
@@ -191,6 +258,8 @@
       "verse": 14,
       "latin_vulgate": " Ut quid, Domine, repellis orationem meam ;  avertis faciem tuam a me ? ",
       "hebrew_masoretic": "לָמָ֣ה יְ֭הֹוָה תִּזְנַ֣ח נַפְשִׁ֑י תַּסְתִּ֖יר פָּנֶ֣יךָ מִמֶּֽנִּי׃",
+      "douay_rheims": "Lord, why castest thou off my prayer: why turnest thou away thy face from me?",
+      "finnish_biblia": "Miksis, Herra, heität pois sieluni, ja peität kasvos minulta? ",
       "king_james": "Lord, why castest thou off my soul? why hidest thou thy face from me?",
       "refs": {
         "latin_vulgate": {
@@ -198,6 +267,9 @@
         },
         "hebrew_masoretic": {
           "src": "88:15"
+        },
+        "douay_rheims": {
+          "src": "87:15"
         }
       }
     },
@@ -205,6 +277,8 @@
       "verse": 15,
       "latin_vulgate": " Pauper sum ego, et in laboribus a juventute mea ;  exaltatus autem, humiliatus sum et conturbatus. ",
       "hebrew_masoretic": "עָ֘נִ֤י אֲנִ֣י וְגֹוֵ֣עַ מִנֹּ֑עַר נָשָׂ֖אתִי אֵמֶ֣יךָ אָפֽוּנָה׃",
+      "douay_rheims": "I am poor, and in labours from my youth: and being exalted have been humbled and troubled.",
+      "finnish_biblia": "Minä olen raadollinen ja väetöin, että minä niin hylätty olen: minä kärsin sinun hirmuisuuttas, että minä lähes epäilen. ",
       "king_james": "I am afflicted and ready to die from my youth up: while I suffer thy terrors I am distracted.",
       "refs": {
         "latin_vulgate": {
@@ -212,6 +286,9 @@
         },
         "hebrew_masoretic": {
           "src": "88:16"
+        },
+        "douay_rheims": {
+          "src": "87:16"
         }
       }
     },
@@ -219,6 +296,8 @@
       "verse": 16,
       "latin_vulgate": " In me transierunt iræ tuæ,  et terrores tui conturbaverunt me : ",
       "hebrew_masoretic": "עָ֭לַי עָבְר֣וּ חֲרוֹנֶ֑יךָ בִּ֝עוּתֶ֗יךָ צִמְּתוּתֻֽנִי׃",
+      "douay_rheims": "Thy wrath hath come upon me: and thy terrors have troubled me.",
+      "finnish_biblia": "Sinun vihas tulee minun päälleni: sinun pelkos likistää minua. ",
       "king_james": "Thy fierce wrath goeth over me; thy terrors have cut me off.",
       "refs": {
         "latin_vulgate": {
@@ -226,6 +305,9 @@
         },
         "hebrew_masoretic": {
           "src": "88:17"
+        },
+        "douay_rheims": {
+          "src": "87:17"
         }
       }
     },
@@ -233,6 +315,8 @@
       "verse": 17,
       "latin_vulgate": " circumdederunt me sicut aqua tota die ;  circumdederunt me simul. ",
       "hebrew_masoretic": "סַבּ֣וּנִי כַ֭מַּיִם כׇּל־הַיּ֑וֹם הִקִּ֖יפוּ עָלַ֣י יָֽחַד׃",
+      "douay_rheims": "They have come round about me like water all the day: they have compassed me about together.",
+      "finnish_biblia": "Ne saartavat minua joka päivä niinkuin vesi, ja ynnä minua piirittävät. ",
       "king_james": "They came round about me daily like water; they compassed me about together.",
       "refs": {
         "latin_vulgate": {
@@ -240,6 +324,9 @@
         },
         "hebrew_masoretic": {
           "src": "88:18"
+        },
+        "douay_rheims": {
+          "src": "87:18"
         }
       }
     },
@@ -247,6 +334,8 @@
       "verse": 18,
       "latin_vulgate": " Elongasti a me amicum et proximum,  et notos meos a miseria.  ",
       "hebrew_masoretic": "הִרְחַ֣קְתָּ מִ֭מֶּנִּי אֹהֵ֣ב וָרֵ֑עַ מְֽיֻדָּעַ֥י מַחְשָֽׁךְ׃ {פ}",
+      "douay_rheims": "Friend and neighbour thou hast put far from me: and my acquaintance, because of misery. ",
+      "finnish_biblia": "Sinä teet, että minun ystäväni ja lähimmäiseni erkanevat kauvas minusta, ja minun tuttavilleni olen minä pimeydessä.   ",
       "king_james": "Lover and friend hast thou put far from me, and mine acquaintance into darkness. ",
       "refs": {
         "latin_vulgate": {
@@ -254,6 +343,9 @@
         },
         "hebrew_masoretic": {
           "src": "88:19"
+        },
+        "douay_rheims": {
+          "src": "87:19"
         }
       }
     }

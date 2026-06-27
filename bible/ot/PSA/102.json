@@ -2,6 +2,8 @@
   "book_id": "PSA",
   "latin_name": "Liber Psalmorum",
   "hebrew_name": "תְּהִלִּים",
+  "douay_name": "Psalms",
+  "finnish_name": "Psalmit",
   "english_name": "Psalms",
   "chapter": 102,
   "verses": [
@@ -9,6 +11,8 @@
       "verse": 1,
       "latin_vulgate": "  Domine, exaudi orationem meam,  et clamor meus ad te veniat. ",
       "hebrew_masoretic": "יְ֭הֹוָה שִׁמְעָ֣ה תְפִלָּתִ֑י וְ֝שַׁוְעָתִ֗י אֵלֶ֥יךָ תָבֽוֹא׃",
+      "douay_rheims": "Hear, O Lord, my prayer: and let my cry come to thee.",
+      "finnish_biblia": "Raadollisen rukous, kuin hän murheissansa on, ja valituksensa Herran eteen vuodattaa. (H102:2) Herra, kuule minun rukoukseni, ja anna minun huutoni tykös tulla! ",
       "king_james": "Hear my prayer, O Lord, and let my cry come unto thee.",
       "refs": {
         "latin_vulgate": {
@@ -16,6 +20,9 @@
         },
         "hebrew_masoretic": {
           "src": "102:2"
+        },
+        "douay_rheims": {
+          "src": "101:2"
         }
       }
     },
@@ -23,6 +30,8 @@
       "verse": 2,
       "latin_vulgate": " Non avertas faciem tuam a me :  in quacumque die tribulor, inclina ad me aurem tuam ;  in quacumque die invocavero te, velociter exaudi me. ",
       "hebrew_masoretic": "אַל־תַּסְתֵּ֬ר פָּנֶ֨יךָ ׀ מִמֶּנִּי֮ בְּי֢וֹם צַ֫ר־לִ֥י הַטֵּֽה־אֵלַ֥י אׇזְנֶ֑ךָ בְּי֥וֹם אֶ֝קְרָ֗א מַהֵ֥ר עֲנֵֽנִי׃",
+      "douay_rheims": "Turn not away thy face from me: in the day when I am in trouble, incline thy ear to me. In what day soever I shall call upon thee, hear me speedily.",
+      "finnish_biblia": "Älä kasvojas minulta peitä hädässä: kallista korvas minun puoleeni; koska minä sinua rukoilen, niin kuule pian minun rukoukseni. ",
       "king_james": "Hide not thy face from me in the day when I am in trouble; incline thine ear unto me: in the day when I call answer me speedily.",
       "refs": {
         "latin_vulgate": {
@@ -30,6 +39,9 @@
         },
         "hebrew_masoretic": {
           "src": "102:3"
+        },
+        "douay_rheims": {
+          "src": "101:3"
         }
       }
     },
@@ -37,6 +49,8 @@
       "verse": 3,
       "latin_vulgate": " Quia defecerunt sicut fumus dies mei,  et ossa mea sicut cremium aruerunt. ",
       "hebrew_masoretic": "כִּֽי־כָל֣וּ בְעָשָׁ֣ן יָמָ֑י וְ֝עַצְמוֹתַ֗י כְּמוֹקֵ֥ד נִחָֽרוּ׃",
+      "douay_rheims": "For my days are vanished like smoke, and my bones are grown dry like fuel for the fire.",
+      "finnish_biblia": "Sillä minun päiväni ovat kuluneet niinkuin savu, ja minun luuni ovat poltetut niinkuin kekäle. ",
       "king_james": "For my days are consumed like smoke, and my bones are burned as an hearth.",
       "refs": {
         "latin_vulgate": {
@@ -44,6 +58,9 @@
         },
         "hebrew_masoretic": {
           "src": "102:4"
+        },
+        "douay_rheims": {
+          "src": "101:4"
         }
       }
     },
@@ -51,6 +68,8 @@
       "verse": 4,
       "latin_vulgate": " Percussus sum ut fœnum, et aruit cor meum,  quia oblitus sum comedere panem meum. ",
       "hebrew_masoretic": "הוּכָּה־כָעֵ֣שֶׂב וַיִּבַ֣שׁ לִבִּ֑י כִּֽי־שָׁ֝כַ֗חְתִּי מֵאֲכֹ֥ל לַחְמִֽי׃",
+      "douay_rheims": "I am smitten as grass, and my heart is withered: because I forgot to eat my bread.",
+      "finnish_biblia": "Minun sydämeni on lyöty ja kuivettunut niinkuin heinä, niin että minä myös unohdan leipäni syödä. ",
       "king_james": "My heart is smitten, and withered like grass; so that I forget to eat my bread.",
       "refs": {
         "latin_vulgate": {
@@ -58,6 +77,9 @@
         },
         "hebrew_masoretic": {
           "src": "102:5"
+        },
+        "douay_rheims": {
+          "src": "101:5"
         }
       }
     },
@@ -65,6 +87,8 @@
       "verse": 5,
       "latin_vulgate": " A voce gemitus mei  adhæsit os meum carni meæ. ",
       "hebrew_masoretic": "מִקּ֥וֹל אַנְחָתִ֑י דָּבְקָ֥ה עַ֝צְמִ֗י לִבְשָׂרִֽי׃",
+      "douay_rheims": "Through the voice of my groaning, my bone hath cleaved to my flesh.",
+      "finnish_biblia": "Minun luuni tarttuvat lihaani huokauksestani. ",
       "king_james": "By reason of the voice of my groaning my bones cleave to my skin.",
       "refs": {
         "latin_vulgate": {
@@ -72,6 +96,9 @@
         },
         "hebrew_masoretic": {
           "src": "102:6"
+        },
+        "douay_rheims": {
+          "src": "101:6"
         }
       }
     },
@@ -79,6 +106,8 @@
       "verse": 6,
       "latin_vulgate": " Similis factus sum pellicano solitudinis ;  factus sum sicut nycticorax in domicilio. ",
       "hebrew_masoretic": "דָּ֭מִיתִי לִקְאַ֣ת מִדְבָּ֑ר הָ֝יִ֗יתִי כְּכ֣וֹס חֳרָבֽוֹת׃",
+      "douay_rheims": "I am become like to a pelican of the wilderness: I am like a night raven in the house.",
+      "finnish_biblia": "Minä olen niinkuin ruovonpäristäjä korvessa: minä olen niinkuin hyypiä hävitetyissä kaupungeissa. ",
       "king_james": "I am like a pelican of the wilderness: I am like an owl of the desert.",
       "refs": {
         "latin_vulgate": {
@@ -86,6 +115,9 @@
         },
         "hebrew_masoretic": {
           "src": "102:7"
+        },
+        "douay_rheims": {
+          "src": "101:7"
         }
       }
     },
@@ -93,6 +125,8 @@
       "verse": 7,
       "latin_vulgate": " Vigilavi, et factus sum sicut passer solitarius in tecto. ",
       "hebrew_masoretic": "שָׁקַ֥דְתִּי וָאֶהְיֶ֑ה כְּ֝צִפּ֗וֹר בּוֹדֵ֥ד עַל־גָּֽג׃",
+      "douay_rheims": "I have watched, and am become as a sparrow all alone on the housetop.",
+      "finnish_biblia": "Minä valvon, ja olen niinkuin yksinäinen lintu katon päällä. ",
       "king_james": "I watch, and am as a sparrow alone upon the house top.",
       "refs": {
         "latin_vulgate": {
@@ -100,6 +134,9 @@
         },
         "hebrew_masoretic": {
           "src": "102:8"
+        },
+        "douay_rheims": {
+          "src": "101:8"
         }
       }
     },
@@ -107,6 +144,8 @@
       "verse": 8,
       "latin_vulgate": " Tota die exprobrabant mihi inimici mei,  et qui laudabant me adversum me jurabant : ",
       "hebrew_masoretic": "כׇּל־הַ֭יּוֹם חֵרְפ֣וּנִי אוֹיְבָ֑י מְ֝הוֹלָלַ֗י בִּ֣י נִשְׁבָּֽעוּ׃",
+      "douay_rheims": "All the day long my enemies reproached me: and they that praised me did swear against me.",
+      "finnish_biblia": "Joka päivä häpäisevät viholliseni minua, ja jotka minua syljeskelevät, vannovat minun kauttani. ",
       "king_james": "Mine enemies reproach me all the day; and they that are mad against me are sworn against me.",
       "refs": {
         "latin_vulgate": {
@@ -114,6 +153,9 @@
         },
         "hebrew_masoretic": {
           "src": "102:9"
+        },
+        "douay_rheims": {
+          "src": "101:9"
         }
       }
     },
@@ -121,6 +163,8 @@
       "verse": 9,
       "latin_vulgate": " quia cinerem tamquam panem manducabam,  et potum meum cum fletu miscebam, ",
       "hebrew_masoretic": "כִּי־אֵ֭פֶר כַּלֶּ֣חֶם אָכָ֑לְתִּי וְ֝שִׁקֻּוַ֗י בִּבְכִ֥י מָסָֽכְתִּי׃",
+      "douay_rheims": "For I did eat ashes like bread, and mingled my drink with weeping.",
+      "finnish_biblia": "Sillä minä syön tuhkaa niinkuin leipää, ja sekoitan juomani itkulla, ",
       "king_james": "For I have eaten ashes like bread, and mingled my drink with weeping,",
       "refs": {
         "latin_vulgate": {
@@ -128,6 +172,9 @@
         },
         "hebrew_masoretic": {
           "src": "102:10"
+        },
+        "douay_rheims": {
+          "src": "101:10"
         }
       }
     },
@@ -135,6 +182,8 @@
       "verse": 10,
       "latin_vulgate": " a facie iræ et indignationis tuæ :  quia elevans allisisti me. ",
       "hebrew_masoretic": "מִפְּנֵֽי־זַעַמְךָ֥ וְקִצְפֶּ֑ךָ כִּ֥י נְ֝שָׂאתַ֗נִי וַתַּשְׁלִיכֵֽנִי׃",
+      "douay_rheims": "Because of thy anger and indignation: for having lifted me up thou hast thrown me down.",
+      "finnish_biblia": "Sinun uhkaukses ja vihas tähden, ettäs minun nostanut olet ja paiskannut maahan. ",
       "king_james": "Because of thine indignation and thy wrath: for thou hast lifted me up, and cast me down.",
       "refs": {
         "latin_vulgate": {
@@ -142,6 +191,9 @@
         },
         "hebrew_masoretic": {
           "src": "102:11"
+        },
+        "douay_rheims": {
+          "src": "101:11"
         }
       }
     },
@@ -149,6 +201,8 @@
       "verse": 11,
       "latin_vulgate": " Dies mei sicut umbra declinaverunt,  et ego sicut fœnum arui. ",
       "hebrew_masoretic": "יָ֭מַי כְּצֵ֣ל נָט֑וּי וַ֝אֲנִ֗י כָּעֵ֥שֶׂב אִיבָֽשׁ׃",
+      "douay_rheims": "My days have declined like a shadow, and I am withered like grass.",
+      "finnish_biblia": "Minun päiväni ovat kuluneet niinkuin varjo, ja minä kuivetun niinkuin ruoho. ",
       "king_james": "My days are like a shadow that declineth; and I am withered like grass.",
       "refs": {
         "latin_vulgate": {
@@ -156,6 +210,9 @@
         },
         "hebrew_masoretic": {
           "src": "102:12"
+        },
+        "douay_rheims": {
+          "src": "101:12"
         }
       }
     },
@@ -163,6 +220,8 @@
       "verse": 12,
       "latin_vulgate": " Tu autem, Domine, in æternum permanes,  et memoriale tuum in generationem et generationem. ",
       "hebrew_masoretic": "וְאַתָּ֣ה יְ֭הֹוָה לְעוֹלָ֣ם תֵּשֵׁ֑ב וְ֝זִכְרְךָ֗ לְדֹ֣ר וָדֹֽר׃",
+      "douay_rheims": "But thou, O Lord, endurest for ever: and thy memorial to all generations.",
+      "finnish_biblia": "Mutta sinä, Herra, pysyt ijankaikkisesti, ja sinun muistos sukukunnasta sukukuntaan. ",
       "king_james": "But thou, O Lord, shalt endure for ever; and thy remembrance unto all generations.",
       "refs": {
         "latin_vulgate": {
@@ -170,6 +229,9 @@
         },
         "hebrew_masoretic": {
           "src": "102:13"
+        },
+        "douay_rheims": {
+          "src": "101:13"
         }
       }
     },
@@ -177,6 +239,8 @@
       "verse": 13,
       "latin_vulgate": " Tu exsurgens misereberis Sion,  quia tempus miserendi ejus, quia venit tempus : ",
       "hebrew_masoretic": "אַתָּ֣ה תָ֭קוּם תְּרַחֵ֣ם צִיּ֑וֹן כִּי־עֵ֥ת לְ֝חֶֽנְנָ֗הּ כִּי־בָ֥א מוֹעֵֽד׃",
+      "douay_rheims": "Thou shalt arise and have mercy on Sion: for it is time to have mercy on it, for the time is come.",
+      "finnish_biblia": "Nouse siis ja armahda Zionia; sillä aika on häntä armahtaa, ja aika on tullut. ",
       "king_james": "Thou shalt arise, and have mercy upon Zion: for the time to favour her, yea, the set time, is come.",
       "refs": {
         "latin_vulgate": {
@@ -184,6 +248,9 @@
         },
         "hebrew_masoretic": {
           "src": "102:14"
+        },
+        "douay_rheims": {
+          "src": "101:14"
         }
       }
     },
@@ -191,6 +258,8 @@
       "verse": 14,
       "latin_vulgate": " quoniam placuerunt servis tuis lapides ejus,  et terræ ejus miserebuntur. ",
       "hebrew_masoretic": "כִּי־רָצ֣וּ עֲ֭בָדֶיךָ אֶת־אֲבָנֶ֑יהָ וְֽאֶת־עֲפָרָ֥הּ יְחֹנֵֽנוּ׃",
+      "douay_rheims": "For the stones thereof have pleased thy servants: and they shall have pity on the earth thereof.",
+      "finnish_biblia": "Sillä sinun palvelias halajavat sitä rakentaa, ja näkisivät mielellänsä, että hänen kivensä ja kalkkinsa valmiit olisivat, ",
       "king_james": "For thy servants take pleasure in her stones, and favour the dust thereof.",
       "refs": {
         "latin_vulgate": {
@@ -198,6 +267,9 @@
         },
         "hebrew_masoretic": {
           "src": "102:15"
+        },
+        "douay_rheims": {
+          "src": "101:15"
         }
       }
     },
@@ -205,6 +277,8 @@
       "verse": 15,
       "latin_vulgate": " Et timebunt gentes nomen tuum, Domine,  et omnes reges terræ gloriam tuam : ",
       "hebrew_masoretic": "וְיִֽירְא֣וּ ג֭וֹיִם אֶת־שֵׁ֣ם יְהֹוָ֑ה וְֽכׇל־מַלְכֵ֥י הָ֝אָ֗רֶץ אֶת־כְּבוֹדֶֽךָ׃",
+      "douay_rheims": "All the Gentiles shall fear thy name, O Lord, and all the kings of the earth thy glory.",
+      "finnish_biblia": "Että pakanat Herran nimeä pelkäisivät, ja kaikki kuninkaat maan päällä sinun kunniaas. ",
       "king_james": "So the heathen shall fear the name of the Lord, and all the kings of the earth thy glory.",
       "refs": {
         "latin_vulgate": {
@@ -212,6 +286,9 @@
         },
         "hebrew_masoretic": {
           "src": "102:16"
+        },
+        "douay_rheims": {
+          "src": "101:16"
         }
       }
     },
@@ -219,6 +296,8 @@
       "verse": 16,
       "latin_vulgate": " quia ædificavit Dominus Sion,  et videbitur in gloria sua. ",
       "hebrew_masoretic": "כִּי־בָנָ֣ה יְהֹוָ֣ה צִיּ֑וֹן נִ֝רְאָ֗ה בִּכְבוֹדֽוֹ׃",
+      "douay_rheims": "For the Lord hath built up Sion: and he shall be seen in his glory.",
+      "finnish_biblia": "Kuin Herra rakentaa Zionin, niin hän nähdään kunniassansa. ",
       "king_james": "When the Lord shall build up Zion, he shall appear in his glory.",
       "refs": {
         "latin_vulgate": {
@@ -226,6 +305,9 @@
         },
         "hebrew_masoretic": {
           "src": "102:17"
+        },
+        "douay_rheims": {
+          "src": "101:17"
         }
       }
     },
@@ -233,6 +315,8 @@
       "verse": 17,
       "latin_vulgate": " Respexit in orationem humilium  et non sprevit precem eorum. ",
       "hebrew_masoretic": "פָּ֭נָה אֶל־תְּפִלַּ֣ת הָעַרְעָ֑ר וְלֹא־בָ֝זָ֗ה אֶת־תְּפִלָּתָֽם׃",
+      "douay_rheims": "He hath had regard to the prayer of the humble: and he hath not despised their petition.",
+      "finnish_biblia": "Hän kääntää itsensä hyljättyjen rukouksen puoleen, ja ei katso heidän rukoustansa ylön. ",
       "king_james": "He will regard the prayer of the destitute, and not despise their prayer.",
       "refs": {
         "latin_vulgate": {
@@ -240,6 +324,9 @@
         },
         "hebrew_masoretic": {
           "src": "102:18"
+        },
+        "douay_rheims": {
+          "src": "101:18"
         }
       }
     },
@@ -247,6 +334,8 @@
       "verse": 18,
       "latin_vulgate": " Scribantur hæc in generatione altera,  et populus qui creabitur laudabit Dominum. ",
       "hebrew_masoretic": "תִּכָּ֣תֶב זֹ֭את לְד֣וֹר אַחֲר֑וֹן וְעַ֥ם נִ֝בְרָ֗א יְהַלֶּל־יָֽהּ׃",
+      "douay_rheims": "Let these things be written unto another generation: and the people that shall be created shall praise the Lord:",
+      "finnish_biblia": "Se pitää kirjoitettaman tulevaisille sukukunnille, ja se kansa, joka luodaan, pitää kiittämän Herraa. ",
       "king_james": "This shall be written for the generation to come: and the people which shall be created shall praise the Lord.",
       "refs": {
         "latin_vulgate": {
@@ -254,6 +343,9 @@
         },
         "hebrew_masoretic": {
           "src": "102:19"
+        },
+        "douay_rheims": {
+          "src": "101:19"
         }
       }
     },
@@ -261,6 +353,8 @@
       "verse": 19,
       "latin_vulgate": " Quia prospexit de excelso sancto suo ;  Dominus de cælo in terram aspexit : ",
       "hebrew_masoretic": "כִּֽי־הִ֭שְׁקִיף מִמְּר֣וֹם קׇדְשׁ֑וֹ יְ֝הֹוָ֗ה מִשָּׁמַ֤יִם ׀ אֶל־אֶ֬רֶץ הִבִּֽיט׃",
+      "douay_rheims": "Because he hath looked forth from his high sanctuary: from heaven the Lord hath looked upon the earth.",
+      "finnish_biblia": "Sillä hän katselee pyhästä korkeudestansa: Herra näkee taivaasta maan päälle, ",
       "king_james": "For he hath looked down from the height of his sanctuary; from heaven did the Lord behold the earth;",
       "refs": {
         "latin_vulgate": {
@@ -268,6 +362,9 @@
         },
         "hebrew_masoretic": {
           "src": "102:20"
+        },
+        "douay_rheims": {
+          "src": "101:20"
         }
       }
     },
@@ -275,6 +372,8 @@
       "verse": 20,
       "latin_vulgate": " ut audiret gemitus compeditorum ;  ut solveret filios interemptorum : ",
       "hebrew_masoretic": "לִ֭שְׁמֹעַ אֶנְקַ֣ת אָסִ֑יר לְ֝פַתֵּ֗חַ בְּנֵ֣י תְמוּתָֽה׃",
+      "douay_rheims": "That he might hear the groans of them that are in fetters: that he might release the children of the slain:",
+      "finnish_biblia": "Että hän kuulee vankein huokaukset, ja kirvoittaa kuoleman lapset; ",
       "king_james": "To hear the groaning of the prisoner; to loose those that are appointed to death;",
       "refs": {
         "latin_vulgate": {
@@ -282,6 +381,9 @@
         },
         "hebrew_masoretic": {
           "src": "102:21"
+        },
+        "douay_rheims": {
+          "src": "101:21"
         }
       }
     },
@@ -289,6 +391,8 @@
       "verse": 21,
       "latin_vulgate": " ut annuntient in Sion nomen Domini,  et laudem ejus in Jerusalem : ",
       "hebrew_masoretic": "לְסַפֵּ֣ר בְּ֭צִיּוֹן שֵׁ֣ם יְהֹוָ֑ה וּ֝תְהִלָּת֗וֹ בִּירוּשָׁלָֽ͏ִם׃",
+      "douay_rheims": "That they may declare the name of the Lord in Sion: and his praise in Jerusalem;",
+      "finnish_biblia": "Että he saarnaavat Herran nimeä Zionissa, ja hänen kiitostansa Jerusalemissa, ",
       "king_james": "To declare the name of the Lord in Zion, and his praise in Jerusalem;",
       "refs": {
         "latin_vulgate": {
@@ -296,6 +400,9 @@
         },
         "hebrew_masoretic": {
           "src": "102:22"
+        },
+        "douay_rheims": {
+          "src": "101:22"
         }
       }
     },
@@ -303,6 +410,8 @@
       "verse": 22,
       "latin_vulgate": " in conveniendo populos in unum, et reges,  ut serviant Domino. ",
       "hebrew_masoretic": "בְּהִקָּבֵ֣ץ עַמִּ֣ים יַחְדָּ֑ו וּ֝מַמְלָכ֗וֹת לַעֲבֹ֥ד אֶת־יְהֹוָֽה׃",
+      "douay_rheims": "When the people assemble together, and kings, to serve the Lord.",
+      "finnish_biblia": "Koska kansat ynnä kokoontuvat, ja valtakunnat, Herraa palvelemaan. ",
       "king_james": "When the people are gathered together, and the kingdoms, to serve the Lord.",
       "refs": {
         "latin_vulgate": {
@@ -310,6 +419,9 @@
         },
         "hebrew_masoretic": {
           "src": "102:23"
+        },
+        "douay_rheims": {
+          "src": "101:23"
         }
       }
     },
@@ -317,6 +429,8 @@
       "verse": 23,
       "latin_vulgate": " Respondit ei in via virtutis suæ :  Paucitatem dierum meorum nuntia mihi : ",
       "hebrew_masoretic": "עִנָּ֖ה בַדֶּ֥רֶךְ (כחו) [כֹּחִ֗י] קִצַּ֥ר יָמָֽי׃",
+      "douay_rheims": "He answered him in the way of his strength: Declare unto me the fewness of my days.",
+      "finnish_biblia": "Hän nöyryyttää tiellä minun voimani: hän lyhentää minun päiväni. ",
       "king_james": "He weakened my strength in the way; he shortened my days.",
       "refs": {
         "latin_vulgate": {
@@ -324,6 +438,9 @@
         },
         "hebrew_masoretic": {
           "src": "102:24"
+        },
+        "douay_rheims": {
+          "src": "101:24"
         }
       }
     },
@@ -331,6 +448,8 @@
       "verse": 24,
       "latin_vulgate": " ne revoces me in dimidio dierum meorum,  in generationem et generationem anni tui. ",
       "hebrew_masoretic": "אֹמַ֗ר אֵלִ֗י אַֽל־תַּ֭עֲלֵנִי בַּחֲצִ֣י יָמָ֑י בְּד֖וֹר דּוֹרִ֣ים שְׁנוֹתֶֽיךָ׃",
+      "douay_rheims": "Call me not away in the midst of my days: thy years are unto generation and generation.",
+      "finnish_biblia": "Minä sanoin: minun Jumalani, älä minua ota pois keski-ijässäni: sinun ajastaikas pysyvät suvusta sukuun. ",
       "king_james": "I said, O my God, take me not away in the midst of my days: thy years are throughout all generations.",
       "refs": {
         "latin_vulgate": {
@@ -338,6 +457,9 @@
         },
         "hebrew_masoretic": {
           "src": "102:25"
+        },
+        "douay_rheims": {
+          "src": "101:25"
         }
       }
     },
@@ -345,6 +467,8 @@
       "verse": 25,
       "latin_vulgate": " Initio tu, Domine, terram fundasti,  et opera manuum tuarum sunt cæli. ",
       "hebrew_masoretic": "לְ֭פָנִים הָאָ֣רֶץ יָסַ֑דְתָּ וּֽמַעֲשֵׂ֖ה יָדֶ֣יךָ שָׁמָֽיִם׃",
+      "douay_rheims": "In the beginning, O Lord, thou foundedst the earth: and the heavens are the works of thy hands.",
+      "finnish_biblia": "Sinä olet muinen maan perustanut, ja taivaat ovat sinun käsialas. ",
       "king_james": "Of old hast thou laid the foundation of the earth: and the heavens are the work of thy hands.",
       "refs": {
         "latin_vulgate": {
@@ -352,6 +476,9 @@
         },
         "hebrew_masoretic": {
           "src": "102:26"
+        },
+        "douay_rheims": {
+          "src": "101:26"
         }
       }
     },
@@ -359,6 +486,8 @@
       "verse": 26,
       "latin_vulgate": " Ipsi peribunt, tu autem permanes ;  et omnes sicut vestimentum veterascent.  Et sicut opertorium mutabis eos, et mutabuntur ; ",
       "hebrew_masoretic": "הֵ֤מָּה ׀ יֹאבֵדוּ֮ וְאַתָּ֢ה תַ֫עֲמֹ֥ד וְ֭כֻלָּם כַּבֶּ֣גֶד יִבְל֑וּ כַּלְּב֖וּשׁ תַּחֲלִיפֵ֣ם וְֽיַחֲלֹֽפוּ׃",
+      "douay_rheims": "They shall perish but thou remainest: and all of them shall grow old like a garment: And as a vesture thou shalt change them, and they shall be changed.",
+      "finnish_biblia": "Ne katoovat, mutta sinä pysyt: ne kaikki vanhenevat niinkuin vaate: ne muuttuvat niinkuin vaate, koska sinä heitä muuttelet. ",
       "king_james": "They shall perish, but thou shalt endure: yea, all of them shall wax old like a garment; as a vesture shalt thou change them, and they shall be changed:",
       "refs": {
         "latin_vulgate": {
@@ -366,6 +495,9 @@
         },
         "hebrew_masoretic": {
           "src": "102:27"
+        },
+        "douay_rheims": {
+          "src": "101:27"
         }
       }
     },
@@ -373,6 +505,8 @@
       "verse": 27,
       "latin_vulgate": " tu autem idem ipse es, et anni tui non deficient. ",
       "hebrew_masoretic": "וְאַתָּה־ה֑וּא וּ֝שְׁנוֹתֶ֗יךָ לֹ֣א יִתָּֽמּוּ׃",
+      "douay_rheims": "But thou art always the selfsame, and thy years shall not fail.",
+      "finnish_biblia": "Mutta sinä pysyt niinkuin sinä olet, ja sinun vuotes ei lopu. ",
       "king_james": "But thou art the same, and thy years shall have no end.",
       "refs": {
         "latin_vulgate": {
@@ -380,6 +514,9 @@
         },
         "hebrew_masoretic": {
           "src": "102:28"
+        },
+        "douay_rheims": {
+          "src": "101:28"
         }
       }
     },
@@ -387,6 +524,8 @@
       "verse": 28,
       "latin_vulgate": " Filii servorum tuorum habitabunt,  et semen eorum in sæculum dirigetur.  ",
       "hebrew_masoretic": "בְּנֵֽי־עֲבָדֶ֥יךָ יִשְׁכּ֑וֹנוּ וְ֝זַרְעָ֗ם לְפָנֶ֥יךָ יִכּֽוֹן׃ {פ}",
+      "douay_rheims": "The children of thy servants shall continue and their seed shall be directed for ever. ",
+      "finnish_biblia": "Sinun palveliais lapset pysyvät ja heidän sikiänsä sinun edessäs menestyvät.   ",
       "king_james": "The children of thy servants shall continue, and their seed shall be established before thee. ",
       "refs": {
         "latin_vulgate": {
@@ -394,6 +533,9 @@
         },
         "hebrew_masoretic": {
           "src": "102:29"
+        },
+        "douay_rheims": {
+          "src": "101:29"
         }
       }
     }

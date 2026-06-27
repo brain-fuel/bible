@@ -2,6 +2,8 @@
   "book_id": "GEN",
   "latin_name": "Genesis",
   "hebrew_name": "בְּרֵאשִׁית",
+  "douay_name": "Genesis",
+  "finnish_name": "1. Mooseksen kirja",
   "english_name": "Genesis",
   "chapter": 21,
   "verses": [
@@ -9,204 +11,272 @@
       "verse": 1,
       "latin_vulgate": "Visitavit autem Dominus Saram, sicut promiserat : et implevit quæ locutus est. ",
       "hebrew_masoretic": "וַֽיהֹוָ֛ה פָּקַ֥ד אֶת־שָׂרָ֖ה כַּאֲשֶׁ֣ר אָמָ֑ר וַיַּ֧עַשׂ יְהֹוָ֛ה לְשָׂרָ֖ה כַּאֲשֶׁ֥ר דִּבֵּֽר׃",
+      "douay_rheims": "And the Lord visited Sara, as he had promised: and fulfilled what he had spoken.",
+      "finnish_biblia": "Ja Herra etsi Saaraa, niinkuin hän sanonut oli: ja Herra teki Saaralle niinkuin hän puhunut oli. ",
       "king_james": "And the Lord visited Sarah as he had said, and the Lord did unto Sarah as he had spoken."
     },
     {
       "verse": 2,
       "latin_vulgate": "Concepitque et peperit filium in senectute sua, tempore quo prædixerat ei Deus. ",
       "hebrew_masoretic": "וַתַּ֩הַר֩ וַתֵּ֨לֶד שָׂרָ֧ה לְאַבְרָהָ֛ם בֵּ֖ן לִזְקֻנָ֑יו לַמּוֹעֵ֕ד אֲשֶׁר־דִּבֶּ֥ר אֹת֖וֹ אֱלֹהִֽים׃",
+      "douay_rheims": "And she conceived and bore a son in her old age, at the time that God had foretold her.",
+      "finnish_biblia": "Ja Saara tuli raskaaksi, ja synnytti Abrahamille pojan hänen vanhuudessansa; sillä ajalla kuin Jumala hänelle sanonut oli. ",
       "king_james": "For Sarah conceived, and bare Abraham a son in his old age, at the set time of which God had spoken to him."
     },
     {
       "verse": 3,
       "latin_vulgate": "Vocavitque Abraham nomen filii sui, quem genuit ei Sara, Isaac : ",
       "hebrew_masoretic": "וַיִּקְרָ֨א אַבְרָהָ֜ם אֶֽת־שֶׁם־בְּנ֧וֹ הַנּֽוֹלַד־ל֛וֹ אֲשֶׁר־יָלְדָה־לּ֥וֹ שָׂרָ֖ה יִצְחָֽק׃",
+      "douay_rheims": "And Abraham called the name of his son, whom Sara bore him, Isaac.",
+      "finnish_biblia": "Ja Abraham kutsui poikansa nimen, joka hänelle syntynyt oli, ja jonka Saara hänelle synnyttänyt oli, Isaak. ",
       "king_james": "And Abraham called the name of his son that was born unto him, whom Sarah bare to him, Isaac."
     },
     {
       "verse": 4,
       "latin_vulgate": "et circumcidit eum octavo die, sicut præceperat ei Deus, ",
       "hebrew_masoretic": "וַיָּ֤מׇל אַבְרָהָם֙ אֶת־יִצְחָ֣ק בְּנ֔וֹ בֶּן־שְׁמֹנַ֖ת יָמִ֑ים כַּאֲשֶׁ֛ר צִוָּ֥ה אֹת֖וֹ אֱלֹהִֽים׃",
+      "douay_rheims": "And he circumcised him the eighth day, as God had commanded him,",
+      "finnish_biblia": "Ja Abraham ympärileikkasi poikansa Isaakin kahdeksan päiväisenä: niinkuin Jumala hänen käskenyt oli. ",
       "king_james": "And Abraham circumcised his son Isaac being eight days old, as God had commanded him."
     },
     {
       "verse": 5,
       "latin_vulgate": "cum centum esset annorum : hac quippe ætate patris, natus est Isaac. ",
       "hebrew_masoretic": "וְאַבְרָהָ֖ם בֶּן־מְאַ֣ת שָׁנָ֑ה בְּהִוָּ֣לֶד ל֔וֹ אֵ֖ת יִצְחָ֥ק בְּנֽוֹ׃",
+      "douay_rheims": "When he was a hundred years old: for at this age of his father, was Isaac born.",
+      "finnish_biblia": "Ja Abraham oli sadan ajastaikainen, koska Isaak hänen poikansa hänelle syntyi. ",
       "king_james": "And Abraham was an hundred years old, when his son Isaac was born unto him."
     },
     {
       "verse": 6,
       "latin_vulgate": "Dixitque Sara : Risum fecit mihi Deus : quicumque audierit, corridebit mihi. ",
       "hebrew_masoretic": "וַתֹּ֣אמֶר שָׂרָ֔ה צְחֹ֕ק עָ֥שָׂה לִ֖י אֱלֹהִ֑ים כׇּל־הַשֹּׁמֵ֖עַ יִֽצְחַק־לִֽי׃",
+      "douay_rheims": "And Sara said: God hath made a laughter for me: whosoever shall hear of it will laugh with me.",
+      "finnish_biblia": "Ja Saara sanoi: Jumala on tehnyt minulle nauron: kuka ikänä sen saa kuulla, hän nauraa minua. ",
       "king_james": "And Sarah said, God hath made me to laugh, so that all that hear will laugh with me."
     },
     {
       "verse": 7,
       "latin_vulgate": "Rursumque ait : Quis auditurus crederet Abraham quod Sara lactaret filium, quem peperit ei jam seni ? ",
       "hebrew_masoretic": "וַתֹּ֗אמֶר מִ֤י מִלֵּל֙ לְאַבְרָהָ֔ם הֵינִ֥יקָה בָנִ֖ים שָׂרָ֑ה כִּֽי־יָלַ֥דְתִּי בֵ֖ן לִזְקֻנָֽיו׃",
+      "douay_rheims": "And again she said: Who would believe that Abraham should hear that Sara gave suck to a son, whom she bore to him in his old age?",
+      "finnish_biblia": "Ja sanoi vielä: kuka olis taitanut sanoa Abrahamille: Saara on lapsia imettävä; sillä minä olen synnyttänyt pojan hänen vanhuudessansa. ",
       "king_james": "And she said, Who would have said unto Abraham, that Sarah should have given children suck? for I have born him a son in his old age."
     },
     {
       "verse": 8,
       "latin_vulgate": "Crevit igitur puer, et ablactatus est : fecitque Abraham grande convivium in die ablactationis ejus.  ",
       "hebrew_masoretic": "וַיִּגְדַּ֥ל הַיֶּ֖לֶד וַיִּגָּמַ֑ל וַיַּ֤עַשׂ אַבְרָהָם֙ מִשְׁתֶּ֣ה גָד֔וֹל בְּי֖וֹם הִגָּמֵ֥ל אֶת־יִצְחָֽק׃",
+      "douay_rheims": "And the child grew, and was weaned: and Abraham made a great feast on the day of his weaning.",
+      "finnish_biblia": "Ja lapsi kasvoi ja vieroitettiin: ja Abraham teki suuren pidon sinä päivänä, jona Isaak vieroitettiin. ",
       "king_james": "And the child grew, and was weaned: and Abraham made a great feast the same day that Isaac was weaned."
     },
     {
       "verse": 9,
       "latin_vulgate": " Cumque vidisset Sara filium Agar Ægyptiæ ludentem cum Isaac filio suo, dixit ad Abraham : ",
       "hebrew_masoretic": "וַתֵּ֨רֶא שָׂרָ֜ה אֶֽת־בֶּן־הָגָ֧ר הַמִּצְרִ֛ית אֲשֶׁר־יָלְדָ֥ה לְאַבְרָהָ֖ם מְצַחֵֽק׃",
+      "douay_rheims": "And when Sara had seen the son of Agar, the Egyptian, playing with Isaac, her son, she said to Abraham:",
+      "finnish_biblia": "Ja Saara näki Egyptiläisen Hagarin pojan, jonka se Abrahamille synnyttänyt oli, pilkkaajaksi. ",
       "king_james": "And Sarah saw the son of Hagar the Egyptian, which she had born unto Abraham, mocking."
     },
     {
       "verse": 10,
       "latin_vulgate": "Ejice ancillam hanc, et filium ejus : non enim erit hæres filius ancillæ cum filio meo Isaac. ",
       "hebrew_masoretic": "וַתֹּ֙אמֶר֙ לְאַבְרָהָ֔ם גָּרֵ֛שׁ הָאָמָ֥ה הַזֹּ֖את וְאֶת־בְּנָ֑הּ כִּ֣י לֹ֤א יִירַשׁ֙ בֶּן־הָאָמָ֣ה הַזֹּ֔את עִם־בְּנִ֖י עִם־יִצְחָֽק׃",
+      "douay_rheims": "Cast out this bondwoman and her son; for the son of the bondwoman shall not be heir with my son Isaac.",
+      "finnish_biblia": "Ja sanoi Abrahamille: aja ulos tämä palkkavaimo poikinensa: sillä palkkavaimon pojan ei pidä perimän minun poikani Isaakin kanssa. ",
       "king_james": "Wherefore she said unto Abraham, Cast out this bondwoman and her son: for the son of this bondwoman shall not be heir with my son, even with Isaac."
     },
     {
       "verse": 11,
       "latin_vulgate": "Dure accepit hoc Abraham pro filio suo. ",
       "hebrew_masoretic": "וַיֵּ֧רַע הַדָּבָ֛ר מְאֹ֖ד בְּעֵינֵ֣י אַבְרָהָ֑ם עַ֖ל אוֹדֹ֥ת בְּנֽוֹ׃",
+      "douay_rheims": "Abraham took this grievously for his son.",
+      "finnish_biblia": "Ja tämä sana oli Abrahamin mielestä sangen karvas, hänen poikansa tähden. ",
       "king_james": "And the thing was very grievous in Abraham’s sight because of his son."
     },
     {
       "verse": 12,
       "latin_vulgate": "Cui dixit Deus : Non tibi videatur asperum super puero, et super ancilla tua : omnia quæ dixerit tibi Sara, audi vocem ejus : quia in Isaac vocabitur tibi semen. ",
       "hebrew_masoretic": "וַיֹּ֨אמֶר אֱלֹהִ֜ים אֶל־אַבְרָהָ֗ם אַל־יֵרַ֤ע בְּעֵינֶ֙יךָ֙ עַל־הַנַּ֣עַר וְעַל־אֲמָתֶ֔ךָ כֹּל֩ אֲשֶׁ֨ר תֹּאמַ֥ר אֵלֶ֛יךָ שָׂרָ֖ה שְׁמַ֣ע בְּקֹלָ֑הּ כִּ֣י בְיִצְחָ֔ק יִקָּרֵ֥א לְךָ֖ זָֽרַע׃",
+      "douay_rheims": "And God said to him: Let it not seem grievous to thee for the boy, and for thy bondwoman: in all that Sara hath said to thee, hearken to her voice: for in Isaac shall thy seed be called.",
+      "finnish_biblia": "Mutta Jumala sanoi Abrahamille: älä ota sitä pahakses pojasta ja palkkapiiastas: kaikki mitä Saara sinulle sanoo, niin kuule häntä: sillä Isaakissa pitää sinulle siemen kutsuttaman. ",
       "king_james": "And God said unto Abraham, Let it not be grievous in thy sight because of the lad, and because of thy bondwoman; in all that Sarah hath said unto thee, hearken unto her voice; for in Isaac shall thy seed be called."
     },
     {
       "verse": 13,
       "latin_vulgate": "Sed et filium ancillæ faciam in gentem magnam, quia semen tuum est. ",
       "hebrew_masoretic": "וְגַ֥ם אֶת־בֶּן־הָאָמָ֖ה לְג֣וֹי אֲשִׂימֶ֑נּוּ כִּ֥י זַרְעֲךָ֖ הֽוּא׃",
+      "douay_rheims": "But I will make the son also of the bondwoman a great nation, because he is thy seed.",
+      "finnish_biblia": "Minä teen myös piikas pojan (suureksi) kansaksi; että hän sinun siemenes on. ",
       "king_james": "And also of the son of the bondwoman will I make a nation, because he is thy seed."
     },
     {
       "verse": 14,
       "latin_vulgate": "Surrexit itaque Abraham mane, et tollens panem et utrem aquæ, imposuit scapulæ ejus, tradiditque puerum, et dimisit eam. Quæ cum abiisset, errabat in solitudine Bersabee. ",
       "hebrew_masoretic": "וַיַּשְׁכֵּ֣ם אַבְרָהָ֣ם ׀ בַּבֹּ֡קֶר וַיִּֽקַּֽח־לֶ֩חֶם֩ וְחֵ֨מַת מַ֜יִם וַיִּתֵּ֣ן אֶל־הָ֠גָ֠ר שָׂ֧ם עַל־שִׁכְמָ֛הּ וְאֶת־הַיֶּ֖לֶד וַֽיְשַׁלְּחֶ֑הָ וַתֵּ֣לֶךְ וַתֵּ֔תַע בְּמִדְבַּ֖ר בְּאֵ֥ר שָֽׁבַע׃",
+      "douay_rheims": "So Abraham rose up in the morning, and taking bread and a bottle of water, put it upon her shoulder, and delivered the boy, and sent her away. And she departed, and wandered in the wilderness of Bersabee.",
+      "finnish_biblia": "Niin nousi Abraham aamulla varhain, ja otti leipiä ja vesileilin; ja antoi Hagarille, ja pani hänen selkäänsä, ja (antoi hänelle) pojan, ja laski hänen menemään. Ja hän meni matkaansa, ja eksyi BerSaban korvessa. ",
       "king_james": "And Abraham rose up early in the morning, and took bread, and a bottle of water, and gave it unto Hagar, putting it on her shoulder, and the child, and sent her away: and she departed, and wandered in the wilderness of Beer–sheba."
     },
     {
       "verse": 15,
       "latin_vulgate": "Cumque consumpta esset aqua in utre, abjecit puerum subter unam arborum, quæ ibi erant. ",
       "hebrew_masoretic": "וַיִּכְל֥וּ הַמַּ֖יִם מִן־הַחֵ֑מֶת וַתַּשְׁלֵ֣ךְ אֶת־הַיֶּ֔לֶד תַּ֖חַת אַחַ֥ד הַשִּׂיחִֽם׃",
+      "douay_rheims": "And when the water in the bottle was spent, she cast the boy under one of the trees that were there.",
+      "finnish_biblia": "Koska vesi oli loppunut leilistä, heitti hän pojan puun alle. ",
       "king_james": "And the water was spent in the bottle, and she cast the child under one of the shrubs."
     },
     {
       "verse": 16,
       "latin_vulgate": "Et abiit, seditque e regione procul quantum potest arcus jacere : dixit enim : Non videbo morientem puerum : et sedens contra, levavit vocem suam et flevit. ",
       "hebrew_masoretic": "וַתֵּ֩לֶךְ֩ וַתֵּ֨שֶׁב לָ֜הּ מִנֶּ֗גֶד הַרְחֵק֙ כִּמְטַחֲוֵ֣י קֶ֔שֶׁת כִּ֣י אָֽמְרָ֔ה אַל־אֶרְאֶ֖ה בְּמ֣וֹת הַיָּ֑לֶד וַתֵּ֣שֶׁב מִנֶּ֔גֶד וַתִּשָּׂ֥א אֶת־קֹלָ֖הּ וַתֵּֽבְךְּ׃",
+      "douay_rheims": "And she went her way, and sat over against him a great way off, as far as a bow can carry, for she said: I will not see the boy die: and sitting over against, she lifted up her voice and wept.",
+      "finnish_biblia": "Ja meni pois, ja istui hänen kohdallensa taamma, liki joutsen kantamalle; sillä hän sanoi: en minä voi nähdä pojan kuolemaa. Ja hän istui hänen kohdallensa, korotti äänensä ja itki. ",
       "king_james": "And she went, and sat her down over against him a good way off, as it were a bowshot: for she said, Let me not see the death of the child. And she sat over against him, and lift up her voice, and wept."
     },
     {
       "verse": 17,
       "latin_vulgate": "Exaudivit autem Deus vocem pueri : vocavitque angelus Dei Agar de cælo, dicens : Quid agis Agar ? noli timere : exaudivit enim Deus vocem pueri de loco in quo est. ",
       "hebrew_masoretic": "וַיִּשְׁמַ֣ע אֱלֹהִים֮ אֶת־ק֣וֹל הַנַּ֒עַר֒ וַיִּקְרָא֩ מַלְאַ֨ךְ אֱלֹהִ֤ים ׀ אֶל־הָגָר֙ מִן־הַשָּׁמַ֔יִם וַיֹּ֥אמֶר לָ֖הּ מַה־לָּ֣ךְ הָגָ֑ר אַל־תִּ֣ירְאִ֔י כִּֽי־שָׁמַ֧ע אֱלֹהִ֛ים אֶל־ק֥וֹל הַנַּ֖עַר בַּאֲשֶׁ֥ר הוּא־שָֽׁם׃",
+      "douay_rheims": "And God heard the voice of the boy: and an angel of God called to Agar from heaven, saying: What art thou doing, Agar? fear not; for God hath heard the voice of the boy, from the place wherein he is.",
+      "finnish_biblia": "Ja Jumala kuuli pojan äänen, ja Jumalan enkeli huusi Hagaria taivaasta, ja sanoi hänelle: mikä sinun on, Hagar? älä pelkää; sillä Jumala on kuullut pojan äänen, kussa hän makaa. ",
       "king_james": "And God heard the voice of the lad; and the angel of God called to Hagar out of heaven, and said unto her, What aileth thee, Hagar? fear not; for God hath heard the voice of the lad where he is."
     },
     {
       "verse": 18,
       "latin_vulgate": "Surge, tolle puerum, et tene manum illius : quia in gentem magnam faciam eum. ",
       "hebrew_masoretic": "ק֚וּמִי שְׂאִ֣י אֶת־הַנַּ֔עַר וְהַחֲזִ֥יקִי אֶת־יָדֵ֖ךְ בּ֑וֹ כִּֽי־לְג֥וֹי גָּד֖וֹל אֲשִׂימֶֽנּוּ׃",
+      "douay_rheims": "Arise, take up the boy, and hold him by the hand, for I will make him a great nation.",
+      "finnish_biblia": "Nouse, ota poika, ja tue häntä kädelläs: sillä minä teen hänen suureksi kansaksi. ",
       "king_james": "Arise, lift up the lad, and hold him in thine hand; for I will make him a great nation."
     },
     {
       "verse": 19,
       "latin_vulgate": "Aperuitque oculos ejus Deus : quæ videns puteum aquæ, abiit, et implevit utrem, deditque puero bibere. ",
       "hebrew_masoretic": "וַיִּפְקַ֤ח אֱלֹהִים֙ אֶת־עֵינֶ֔יהָ וַתֵּ֖רֶא בְּאֵ֣ר מָ֑יִם וַתֵּ֜לֶךְ וַתְּמַלֵּ֤א אֶת־הַחֵ֙מֶת֙ מַ֔יִם וַתַּ֖שְׁקְ אֶת־הַנָּֽעַר׃",
+      "douay_rheims": "And God opened her eyes: and she saw a well of water, and went and filled the bottle, and gave the boy to drink.",
+      "finnish_biblia": "Ja Jumala avasi hänen silmänsä, että hän näki vesikaivon; niin hän meni ja täytti leilin vedellä, ja antoi pojan juoda. ",
       "king_james": "And God opened her eyes, and she saw a well of water; and she went, and filled the bottle with water, and gave the lad drink."
     },
     {
       "verse": 20,
       "latin_vulgate": "Et fuit cum eo : qui crevit, et moratus est in solitudine, factusque est juvenis sagittarius. ",
       "hebrew_masoretic": "וַיְהִ֧י אֱלֹהִ֛ים אֶת־הַנַּ֖עַר וַיִּגְדָּ֑ל וַיֵּ֙שֶׁב֙ בַּמִּדְבָּ֔ר וַיְהִ֖י רֹבֶ֥ה קַשָּֽׁת׃",
+      "douay_rheims": "And God was with him: and he grew, and dwelt in the wilderness, and became a young man, an archer.",
+      "finnish_biblia": "Ja Jumala oli pojan kanssa, ja hän kasvoi; ja asui korvessa, ja tuli tarkaksi joutsimieheksi. ",
       "king_james": "And God was with the lad; and he grew, and dwelt in the wilderness, and became an archer."
     },
     {
       "verse": 21,
       "latin_vulgate": "Habitavitque in deserto Pharan, et accepit illi mater sua uxorem de terra Ægypti.  ",
       "hebrew_masoretic": "וַיֵּ֖שֶׁב בְּמִדְבַּ֣ר פָּארָ֑ן וַתִּֽקַּֽח־ל֥וֹ אִמּ֛וֹ אִשָּׁ֖ה מֵאֶ֥רֶץ מִצְרָֽיִם׃ {פ}",
+      "douay_rheims": "And he dwelt in the wilderness of Pharan, and his mother took a wife for him out of the land of Egypt.",
+      "finnish_biblia": "Ja asui Paranin korvessa; ja hänen äitinsä otti hänelle emännän Egyptin maalta. ",
       "king_james": "And he dwelt in the wilderness of Paran: and his mother took him a wife out of the land of Egypt."
     },
     {
       "verse": 22,
       "latin_vulgate": " Eodem tempore dixit Abimelech, et Phicol princeps exercitus ejus, ad Abraham : Deus tecum est in universis quæ agis. ",
       "hebrew_masoretic": "וַֽיְהִי֙ בָּעֵ֣ת הַהִ֔וא וַיֹּ֣אמֶר אֲבִימֶ֗לֶךְ וּפִיכֹל֙ שַׂר־צְבָא֔וֹ אֶל־אַבְרָהָ֖ם לֵאמֹ֑ר אֱלֹהִ֣ים עִמְּךָ֔ בְּכֹ֥ל אֲשֶׁר־אַתָּ֖ה עֹשֶֽׂה׃",
+      "douay_rheims": "At the same time Abimelech, and Phicol the general of his army, said to Abraham: God is with thee in all that thou dost.",
+      "finnish_biblia": "Sillä ajalla puhui Abimelek ja hänen sotapäämiehensä Phikol Abrahamille, sanoen: Jumala on sinun kanssas kaikissa mitä sinä teet. ",
       "king_james": "And it came to pass at that time, that Abimelech and Phichol the chief captain of his host spake unto Abraham, saying, God is with thee in all that thou doest:"
     },
     {
       "verse": 23,
       "latin_vulgate": "Jura ergo per Deum, ne noceas mihi, et posteris meis, stirpique meæ : sed juxta misericordiam, quam feci tibi, facies mihi, et terræ in qua versatus es advena. ",
       "hebrew_masoretic": "וְעַתָּ֗ה הִשָּׁ֨בְעָה לִּ֤י בֵֽאלֹהִים֙ הֵ֔נָּה אִם־תִּשְׁקֹ֣ר לִ֔י וּלְנִינִ֖י וּלְנֶכְדִּ֑י כַּחֶ֜סֶד אֲשֶׁר־עָשִׂ֤יתִי עִמְּךָ֙ תַּעֲשֶׂ֣ה עִמָּדִ֔י וְעִם־הָאָ֖רֶץ אֲשֶׁר־גַּ֥רְתָּה בָּֽהּ׃",
+      "douay_rheims": "Swear therefore by God, that thou wilt not hurt me, nor my posterity, nor my stock: but according to the kindness that I have done to thee, thou shalt do to me, and to the land wherein thou hast lived a stranger.",
+      "finnish_biblia": "Niin vanno nyt minulle tässä Jumalan kautta, ettes ole minulle, ja minun pojalleni, ja poikanipojalle petollinen; vaan sen laupiuden jälkeen, jonka minä tein sinun kanssas, tee sinä myös minun kanssani, ja sen maan kanssa, jossa sinä olet muukalainen. ",
       "king_james": "Now therefore swear unto me here by God that thou wilt not deal falsely with me, nor with my son, nor with my son’s son: but according to the kindness that I have done unto thee, thou shalt do unto me, and to the land wherein thou hast sojourned."
     },
     {
       "verse": 24,
       "latin_vulgate": "Dixitque Abraham : Ego jurabo. ",
       "hebrew_masoretic": "וַיֹּ֙אמֶר֙ אַבְרָהָ֔ם אָנֹכִ֖י אִשָּׁבֵֽעַ׃",
+      "douay_rheims": "And Abraham said: I will swear.",
+      "finnish_biblia": "Niin sanoi Abraham: minä vannon. ",
       "king_james": "And Abraham said, I will swear."
     },
     {
       "verse": 25,
       "latin_vulgate": "Et increpavit Abimelech propter puteum aquæ quem vi abstulerunt servi ejus. ",
       "hebrew_masoretic": "וְהוֹכִ֥חַ אַבְרָהָ֖ם אֶת־אֲבִימֶ֑לֶךְ עַל־אֹדוֹת֙ בְּאֵ֣ר הַמַּ֔יִם אֲשֶׁ֥ר גָּזְל֖וּ עַבְדֵ֥י אֲבִימֶֽלֶךְ׃",
+      "douay_rheims": "And he reproved Abimelech for a well of water, which his servants had taken away by force.",
+      "finnish_biblia": "Ja Abraham nuhteli Abimelekiä, sen vesikaivon tähden, kun Abimelekin palveliat olivat väkivallalla ottaneet. ",
       "king_james": "And Abraham reproved Abimelech because of a well of water, which Abimelech’s servants had violently taken away."
     },
     {
       "verse": 26,
       "latin_vulgate": "Responditque Abimelech : Nescivi quis fecerit hanc rem : sed et tu non indicasti mihi, et ego non audivi præter hodie. ",
       "hebrew_masoretic": "וַיֹּ֣אמֶר אֲבִימֶ֔לֶךְ לֹ֣א יָדַ֔עְתִּי מִ֥י עָשָׂ֖ה אֶת־הַדָּבָ֣ר הַזֶּ֑ה וְגַם־אַתָּ֞ה לֹא־הִגַּ֣דְתָּ לִּ֗י וְגַ֧ם אָנֹכִ֛י לֹ֥א שָׁמַ֖עְתִּי בִּלְתִּ֥י הַיּֽוֹם׃",
+      "douay_rheims": "And Abimelech answered: I knew not who did this thing: and thou didst not tell me, and I heard not of it till today.",
+      "finnish_biblia": "Ja Abimelek sanoi: en ole minä tietänyt kuka sen teki; etkä sinä ilmoittanut minulle; enkä minä sitä ole ennen kuullut, kuin tänä päivänä. ",
       "king_james": "And Abimelech said, I wot not who hath done this thing: neither didst thou tell me, neither yet heard I of it, but to day."
     },
     {
       "verse": 27,
       "latin_vulgate": "Tulit itaque Abraham oves et boves, et dedit Abimelech : percusseruntque ambo fœdus. ",
       "hebrew_masoretic": "וַיִּקַּ֤ח אַבְרָהָם֙ צֹ֣אן וּבָקָ֔ר וַיִּתֵּ֖ן לַאֲבִימֶ֑לֶךְ וַיִּכְרְת֥וּ שְׁנֵיהֶ֖ם בְּרִֽית׃",
+      "douay_rheims": "Then Abraham took sheep and oxen, and gave them to Abimelech: and both of them made a league.",
+      "finnish_biblia": "Niin otti Abraham lampaita ja karjaa, ja antoi Abimelekille; ja he tekivät molemmat liiton keskenänsä. ",
       "king_james": "And Abraham took sheep and oxen, and gave them unto Abimelech; and both of them made a covenant."
     },
     {
       "verse": 28,
       "latin_vulgate": "Et statuit Abraham septem agnas gregis seorsum. ",
       "hebrew_masoretic": "וַיַּצֵּ֣ב אַבְרָהָ֗ם אֶת־שֶׁ֛בַע כִּבְשֹׂ֥ת הַצֹּ֖אן לְבַדְּהֶֽן׃",
+      "douay_rheims": "And Abraham set apart seven ewelambs of the flock.",
+      "finnish_biblia": "Ja Abraham asetti seitsemän karitsaa laumasta erinänsä. ",
       "king_james": "And Abraham set seven ewe lambs of the flock by themselves."
     },
     {
       "verse": 29,
       "latin_vulgate": "Cui dixit Abimelech : Quid sibi volunt septem agnæ istæ, quas stare fecisti seorsum ? ",
       "hebrew_masoretic": "וַיֹּ֥אמֶר אֲבִימֶ֖לֶךְ אֶל־אַבְרָהָ֑ם מָ֣ה הֵ֗נָּה שֶׁ֤בַע כְּבָשֹׂת֙ הָאֵ֔לֶּה אֲשֶׁ֥ר הִצַּ֖בְתָּ לְבַדָּֽנָה׃",
+      "douay_rheims": "And Abimelech said to him: What mean these seven ewelambs which thou hast set apart?",
+      "finnish_biblia": "Ja Abimelek sanoi Abrahamille: mihinkä ne seitsemän karitsaa, jotkas olet asettanut erinänsä? ",
       "king_james": "And Abimelech said unto Abraham, What mean these seven ewe lambs which thou hast set by themselves?"
     },
     {
       "verse": 30,
       "latin_vulgate": "At ille : Septem, inquit, agnas accipies de manu mea : ut sint mihi in testimonium, quoniam ego fodi puteum istum. ",
       "hebrew_masoretic": "וַיֹּ֕אמֶר כִּ֚י אֶת־שֶׁ֣בַע כְּבָשֹׂ֔ת תִּקַּ֖ח מִיָּדִ֑י בַּעֲבוּר֙ תִּֽהְיֶה־לִּ֣י לְעֵדָ֔ה כִּ֥י חָפַ֖רְתִּי אֶת־הַבְּאֵ֥ר הַזֹּֽאת׃",
+      "douay_rheims": "But he said: Thou shalt take seven ewelambs at my hand: that they may be a testimony for me, that I dug this well.",
+      "finnish_biblia": "Hän vastasi: nämät seitsemän karitsaa pitää sinun ottaman minun kädestäni, todistukseksi minulle, että minä olen tämän kaivon kaivanut. ",
       "king_james": "And he said, For these seven ewe lambs shalt thou take of my hand, that they may be a witness unto me, that I have digged this well."
     },
     {
       "verse": 31,
       "latin_vulgate": "Idcirco vocatus est locus ille Bersabee : quia ibi uterque juravit. ",
       "hebrew_masoretic": "עַל־כֵּ֗ן קָרָ֛א לַמָּק֥וֹם הַה֖וּא בְּאֵ֣ר שָׁ֑בַע כִּ֛י שָׁ֥ם נִשְׁבְּע֖וּ שְׁנֵיהֶֽם׃",
+      "douay_rheims": "Therefore that place was called Bersabee; because there both of them did swear.",
+      "finnish_biblia": "Sentähden kutsui hän sen sian BerSaba: sillä siinä he molemmat vannoivat keskenänsä. ",
       "king_james": "Wherefore he called that place Beer–sheba; because there they sware both of them."
     },
     {
       "verse": 32,
       "latin_vulgate": "Et inierunt fœdus pro puteo juramenti. ",
       "hebrew_masoretic": "וַיִּכְרְת֥וּ בְרִ֖ית בִּבְאֵ֣ר שָׁ֑בַע וַיָּ֣קׇם אֲבִימֶ֗לֶךְ וּפִיכֹל֙ שַׂר־צְבָא֔וֹ וַיָּשֻׁ֖בוּ אֶל־אֶ֥רֶץ פְּלִשְׁתִּֽים׃",
+      "douay_rheims": "And they made a league for the well of oath.",
+      "finnish_biblia": "Ja niin he tekivät liiton BerSabassa. Ja Abimelek nousi ja Phikol hänen sotapäämiehensä, ja palasivat Philistealaisten maalle. ",
       "king_james": "Thus they made a covenant at Beer–sheba: then Abimelech rose up, and Phichol the chief captain of his host, and they returned into the land of the Philistines."
     },
     {
       "verse": 33,
       "latin_vulgate": "Surrexit autem Abimelech, et Phicol princeps exercitus ejus, reversique sunt in terram Palæstinorum. Abraham vero plantavit nemus in Bersabee, et invocavit ibi nomen Domini Dei æterni. ",
       "hebrew_masoretic": "וַיִּטַּ֥ע אֶ֖שֶׁל בִּבְאֵ֣ר שָׁ֑בַע וַיִּ֨קְרָא־שָׁ֔ם בְּשֵׁ֥ם יְהֹוָ֖ה אֵ֥ל עוֹלָֽם׃",
+      "douay_rheims": "And Abimelech and Phicol, the general of his army, arose and returned to the land of the Palestines. But Abraham planted a grove in Bersabee, and there called upon the name of the Lord God eternal.",
+      "finnish_biblia": "Ja Abraham istutti puita BerSabassa; ja saarnasi siinä Herran ijankaikkisen Jumalan nimestä. ",
       "king_james": "And Abraham planted a grove in Beer–sheba, and called there on the name of the Lord, the everlasting God."
     },
     {
       "verse": 34,
       "latin_vulgate": "Et fuit colonus terræ Palæstinorum diebus multis.   ",
       "hebrew_masoretic": "וַיָּ֧גׇר אַבְרָהָ֛ם בְּאֶ֥רֶץ פְּלִשְׁתִּ֖ים יָמִ֥ים רַבִּֽים׃ {פ}",
+      "douay_rheims": "And he was a sojourner in the land of the Palestines many days. ",
+      "finnish_biblia": "Ja oli muukalainen Philistealaisten maalla kauvan aikaa.   ",
       "king_james": "And Abraham sojourned in the Philistines’ land many days. "
     }
   ]

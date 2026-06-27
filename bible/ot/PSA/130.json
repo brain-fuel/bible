@@ -2,6 +2,8 @@
   "book_id": "PSA",
   "latin_name": "Liber Psalmorum",
   "hebrew_name": "תְּהִלִּים",
+  "douay_name": "Psalms",
+  "finnish_name": "Psalmit",
   "english_name": "Psalms",
   "chapter": 130,
   "verses": [
@@ -9,9 +11,14 @@
       "verse": 1,
       "latin_vulgate": "Canticum graduum.   De profundis clamavi ad te, Domine ; ",
       "hebrew_masoretic": "שִׁ֥יר הַֽמַּעֲל֑וֹת מִמַּעֲמַקִּ֖ים קְרָאתִ֣יךָ יְהֹוָֽה׃",
+      "douay_rheims": "A gradual canticle. Out of the depths I have cried to thee, O Lord:",
+      "finnish_biblia": "Veisu korkeimmassa Kuorissa. Syvyydessä minä huudan sinua, Herra. ",
       "king_james": "Out of the depths have I cried unto thee, O Lord.",
       "refs": {
         "latin_vulgate": {
+          "src": "129:1"
+        },
+        "douay_rheims": {
           "src": "129:1"
         }
       }
@@ -20,9 +27,14 @@
       "verse": 2,
       "latin_vulgate": " Domine, exaudi vocem meam.  Fiant aures tuæ intendentes in vocem deprecationis meæ. ",
       "hebrew_masoretic": "אֲדֹנָי֮ שִׁמְעָ֢ה בְק֫וֹלִ֥י תִּהְיֶ֣ינָה אׇ֭זְנֶיךָ קַשֻּׁב֑וֹת לְ֝ק֗וֹל תַּחֲנוּנָֽי׃",
+      "douay_rheims": "Lord, hear my voice. Let thy ears be attentive to the voice of my supplication.",
+      "finnish_biblia": "Herra, kuule minun ääneni: vaarinottakaan korvas rukousteni äänestä. ",
       "king_james": "Lord, hear my voice: let thine ears be attentive to the voice of my supplications.",
       "refs": {
         "latin_vulgate": {
+          "src": "129:2"
+        },
+        "douay_rheims": {
           "src": "129:2"
         }
       }
@@ -31,9 +43,14 @@
       "verse": 3,
       "latin_vulgate": " Si iniquitates observaveris, Domine,  Domine, quis sustinebit ? ",
       "hebrew_masoretic": "אִם־עֲוֺנ֥וֹת תִּשְׁמׇר־יָ֑הּ אֲ֝דֹנָ֗י מִ֣י יַעֲמֹֽד׃",
+      "douay_rheims": "If thou, O Lord, wilt mark iniquities: Lord, who shall stand it.",
+      "finnish_biblia": "Jos sinä, Herra, soimaat syntiä: Herra, kuka siis pysyy? ",
       "king_james": "If thou, Lord, shouldest mark iniquities, O Lord, who shall stand?",
       "refs": {
         "latin_vulgate": {
+          "src": "129:3"
+        },
+        "douay_rheims": {
           "src": "129:3"
         }
       }
@@ -42,9 +59,14 @@
       "verse": 4,
       "latin_vulgate": " Quia apud te propitiatio est ;  et propter legem tuam sustinui te, Domine.  Sustinuit anima mea in verbo ejus : ",
       "hebrew_masoretic": "כִּֽי־עִמְּךָ֥ הַסְּלִיחָ֑ה לְ֝מַ֗עַן תִּוָּרֵֽא׃",
+      "douay_rheims": "For with thee there is merciful forgiveness: and by reason of thy law, I have waited for thee, O Lord. My soul hath relied on his word:",
+      "finnish_biblia": "Sillä sinun tykönäs on anteeksi antamus, että sinua peljättäisiin. ",
       "king_james": "But there is forgiveness with thee, that thou mayest be feared.",
       "refs": {
         "latin_vulgate": {
+          "src": "129:4"
+        },
+        "douay_rheims": {
           "src": "129:4"
         }
       }
@@ -53,9 +75,14 @@
       "verse": 5,
       "latin_vulgate": " speravit anima mea in Domino. ",
       "hebrew_masoretic": "קִוִּ֣יתִי יְ֭הֹוָה קִוְּתָ֣ה נַפְשִׁ֑י וְֽלִדְבָר֥וֹ הוֹחָֽלְתִּי׃",
+      "douay_rheims": "my soul hath hoped in the Lord.",
+      "finnish_biblia": "Minä odotan Herraa: sieluni odottaa, ja minä toivon hänen sanansa päälle. ",
       "king_james": "I wait for the Lord, my soul doth wait, and in his word do I hope.",
       "refs": {
         "latin_vulgate": {
+          "src": "129:5"
+        },
+        "douay_rheims": {
           "src": "129:5"
         }
       }
@@ -64,9 +91,14 @@
       "verse": 6,
       "latin_vulgate": " A custodia matutina usque ad noctem,  speret Israël in Domino. ",
       "hebrew_masoretic": "נַפְשִׁ֥י לַאדֹנָ֑י מִשֹּׁמְרִ֥ים לַ֝בֹּ֗קֶר שֹׁמְרִ֥ים לַבֹּֽקֶר׃",
+      "douay_rheims": "From the morning watch even until night, let Israel hope in the Lord.",
+      "finnish_biblia": "Sieluni vartioitsee Herraa huomenvartiosta toiseen huomenvartioon asti. ",
       "king_james": "My soul waiteth for the Lord more than they that watch for the morning: I say, more than they that watch for the morning.",
       "refs": {
         "latin_vulgate": {
+          "src": "129:6"
+        },
+        "douay_rheims": {
           "src": "129:6"
         }
       }
@@ -75,9 +107,14 @@
       "verse": 7,
       "latin_vulgate": " Quia apud Dominum misericordia,  et copiosa apud eum redemptio. ",
       "hebrew_masoretic": "יַחֵ֥ל יִשְׂרָאֵ֗ל אֶל־יְ֫הֹוָ֥ה כִּֽי־עִם־יְהֹוָ֥ה הַחֶ֑סֶד וְהַרְבֵּ֖ה עִמּ֣וֹ פְדֽוּת׃",
+      "douay_rheims": "Because with the Lord there is mercy: and with him plentiful redemption.",
+      "finnish_biblia": "Israel toivokaan Herran päälle; sillä Herralla on armo, ja runsas lunastus hänellä. ",
       "king_james": "Let Israel hope in the Lord: for with the Lord there is mercy, and with him is plenteous redemption.",
       "refs": {
         "latin_vulgate": {
+          "src": "129:7"
+        },
+        "douay_rheims": {
           "src": "129:7"
         }
       }
@@ -86,9 +123,14 @@
       "verse": 8,
       "latin_vulgate": " Et ipse redimet Israël  ex omnibus iniquitatibus ejus.  ",
       "hebrew_masoretic": "וְ֭הוּא יִפְדֶּ֣ה אֶת־יִשְׂרָאֵ֑ל מִ֝כֹּ֗ל עֲוֺנֹתָֽיו׃ {פ}",
+      "douay_rheims": "And he shall redeem Israel from all his iniquities. ",
+      "finnish_biblia": "Ja hän lunastaa Israelin kaikista synneistänsä.   ",
       "king_james": "And he shall redeem Israel from all his iniquities. ",
       "refs": {
         "latin_vulgate": {
+          "src": "129:8"
+        },
+        "douay_rheims": {
           "src": "129:8"
         }
       }

@@ -2,6 +2,8 @@
   "book_id": "GEN",
   "latin_name": "Genesis",
   "hebrew_name": "בְּרֵאשִׁית",
+  "douay_name": "Genesis",
+  "finnish_name": "1. Mooseksen kirja",
   "english_name": "Genesis",
   "chapter": 5,
   "verses": [
@@ -9,195 +11,262 @@
       "verse": 1,
       "latin_vulgate": "Hic est liber generationis Adam. In die qua creavit Deus hominem, ad similitudinem Dei fecit illum. ",
       "hebrew_masoretic": "זֶ֣ה סֵ֔פֶר תּוֹלְדֹ֖ת אָדָ֑ם בְּי֗וֹם בְּרֹ֤א אֱלֹהִים֙ אָדָ֔ם בִּדְמ֥וּת אֱלֹהִ֖ים עָשָׂ֥ה אֹתֽוֹ׃",
+      "douay_rheims": "This is the book of the generation of Adam. In the day that God created man, he made him to the likeness of God.",
+      "finnish_biblia": "Tämä on ihmisen sukukunnan kirja, siihen aikaan, koska Jumala loi ihmisen, ja teki hänen Jumalan muotoiseksi. ",
       "king_james": "This is the book of the generations of Adam. In the day that God created man, in the likeness of God made he him;"
     },
     {
       "verse": 2,
       "latin_vulgate": "Masculum et feminam creavit eos, et benedixit illis : et vocavit nomen eorum Adam, in die quo creati sunt. ",
       "hebrew_masoretic": "זָכָ֥ר וּנְקֵבָ֖ה בְּרָאָ֑ם וַיְבָ֣רֶךְ אֹתָ֗ם וַיִּקְרָ֤א אֶת־שְׁמָם֙ אָדָ֔ם בְּי֖וֹם הִבָּֽרְאָֽם׃",
+      "douay_rheims": "He created them male and female; and blessed them: and called their name Adam, in the day when they were created.",
+      "finnish_biblia": "Mieheksi ja vaimoksi loi hän heidät ja siunasi heitä, ja kutsui heidän nimensä ihminen, sinä päivänä jona he luotiin. ",
       "king_james": "Male and female created he them; and blessed them, and called their name Adam, in the day when they were created."
     },
     {
       "verse": 3,
       "latin_vulgate": "Vixit autem Adam centum triginta annis : et genuit ad imaginem et similitudinem suam, vocavitque nomen ejus Seth. ",
       "hebrew_masoretic": "וַיְחִ֣י אָדָ֗ם שְׁלֹשִׁ֤ים וּמְאַת֙ שָׁנָ֔ה וַיּ֥וֹלֶד בִּדְמוּת֖וֹ כְּצַלְמ֑וֹ וַיִּקְרָ֥א אֶת־שְׁמ֖וֹ שֵֽׁת׃",
+      "douay_rheims": "And Adam lived a hundred and thirty years, and begot a son to his own image and likeness, and called his name Seth.",
+      "finnish_biblia": "Ja Adam oli sadan ja kolmenkymmenen ajastajan vanha, ja siitti pojan, joka hänen kuvansa kaltainen oli, ja kutsui hänen nimensä Set. ",
       "king_james": "And Adam lived an hundred and thirty years, and begat a son in his own likeness, after his image; and called his name Seth:"
     },
     {
       "verse": 4,
       "latin_vulgate": "Et facti sunt dies Adam, postquam genuit Seth, octingenti anni : genuitque filios et filias. ",
       "hebrew_masoretic": "וַיִּֽהְי֣וּ יְמֵי־אָדָ֗ם אַֽחֲרֵי֙ הוֹלִיד֣וֹ אֶת־שֵׁ֔ת שְׁמֹנֶ֥ה מֵאֹ֖ת שָׁנָ֑ה וַיּ֥וֹלֶד בָּנִ֖ים וּבָנֽוֹת׃",
+      "douay_rheims": "And the days of Adam, after he begot Seth, were eight hundred years: and he begot sons and daughters.",
+      "finnish_biblia": "Ja eli sitte kahdeksansataa ajastaikaa, ja siitti poikia ja tyttäriä. ",
       "king_james": "And the days of Adam after he had begotten Seth were eight hundred years: and he begat sons and daughters:"
     },
     {
       "verse": 5,
       "latin_vulgate": "Et factum est omne tempus quod vixit Adam, anni nongenti triginta, et mortuus est. ",
       "hebrew_masoretic": "וַיִּֽהְי֞וּ כׇּל־יְמֵ֤י אָדָם֙ אֲשֶׁר־חַ֔י תְּשַׁ֤ע מֵאוֹת֙ שָׁנָ֔ה וּשְׁלֹשִׁ֖ים שָׁנָ֑ה וַיָּמֹֽת׃ {ס}",
+      "douay_rheims": "And all the time that Adam lived, came to nine hundred and thirty years, and he died.",
+      "finnish_biblia": "Ja koko hänen ikänsä oli yhdeksänsataa ja kolmekymmentä ajastaikaa, ja kuoli. ",
       "king_james": "And all the days that Adam lived were nine hundred and thirty years: and he died."
     },
     {
       "verse": 6,
       "latin_vulgate": "Vixit quoque Seth centum quinque annis, et genuit Enos. ",
       "hebrew_masoretic": "וַֽיְחִי־שֵׁ֕ת חָמֵ֥שׁ שָׁנִ֖ים וּמְאַ֣ת שָׁנָ֑ה וַיּ֖וֹלֶד אֶת־אֱנֽוֹשׁ׃",
+      "douay_rheims": "Seth also lived a hundred and five years, and begot Enos.",
+      "finnish_biblia": "Set oli sadan ja viiden ajastajan vanha, ja siitti Enoksen. ",
       "king_james": "And Seth lived an hundred and five years, and begat Enos:"
     },
     {
       "verse": 7,
       "latin_vulgate": "Vixitque Seth, postquam genuit Enos, octingentis septem annis, genuitque filios et filias. ",
       "hebrew_masoretic": "וַֽיְחִי־שֵׁ֗ת אַֽחֲרֵי֙ הוֹלִיד֣וֹ אֶת־אֱנ֔וֹשׁ שֶׁ֣בַע שָׁנִ֔ים וּשְׁמֹנֶ֥ה מֵא֖וֹת שָׁנָ֑ה וַיּ֥וֹלֶד בָּנִ֖ים וּבָנֽוֹת׃",
+      "douay_rheims": "And Seth lived after he begot Enos, eight hundred and seven years, and begot sons and daughters.",
+      "finnish_biblia": "Ja eli sitte kahdeksansataa ja seitsemän ajastaikaa, ja siitti poikia ja tyttäriä. ",
       "king_james": "And Seth lived after he begat Enos eight hundred and seven years, and begat sons and daughters:"
     },
     {
       "verse": 8,
       "latin_vulgate": "Et facti sunt omnes dies Seth nongentorum duodecim annorum, et mortuus est. ",
       "hebrew_masoretic": "וַיִּֽהְיוּ֙ כׇּל־יְמֵי־שֵׁ֔ת שְׁתֵּ֤ים עֶשְׂרֵה֙ שָׁנָ֔ה וּתְשַׁ֥ע מֵא֖וֹת שָׁנָ֑ה וַיָּמֹֽת׃ {ס}",
+      "douay_rheims": "And all the days of Seth were nine hundred and twelve years, and he died.",
+      "finnish_biblia": "Ja koko hänen ikänsä oli yhdeksänsataa ja kaksitoistakymmentä ajastaikaa, ja kuoli. ",
       "king_james": "And all the days of Seth were nine hundred and twelve years: and he died."
     },
     {
       "verse": 9,
       "latin_vulgate": "Vixit vero Enos nonaginta annis, et genuit Cainan. ",
       "hebrew_masoretic": "וַיְחִ֥י אֱנ֖וֹשׁ תִּשְׁעִ֣ים שָׁנָ֑ה וַיּ֖וֹלֶד אֶת־קֵינָֽן׃",
+      "douay_rheims": "And Enos lived ninety years, and begot Cainan.",
+      "finnish_biblia": "Enos oli yhdeksänkymmenen ajastajan vanha, ja siitti Kenanin. ",
       "king_james": "And Enos lived ninety years, and begat Cainan:"
     },
     {
       "verse": 10,
       "latin_vulgate": "Post cujus ortum vixit octingentis quindecim annis, et genuit filios et filias. ",
       "hebrew_masoretic": "וַיְחִ֣י אֱנ֗וֹשׁ אַֽחֲרֵי֙ הוֹלִיד֣וֹ אֶת־קֵינָ֔ן חֲמֵ֤שׁ עֶשְׂרֵה֙ שָׁנָ֔ה וּשְׁמֹנֶ֥ה מֵא֖וֹת שָׁנָ֑ה וַיּ֥וֹלֶד בָּנִ֖ים וּבָנֽוֹת׃",
+      "douay_rheims": "After whose birth he lived eight hundred and fifteen years, and begot sons and daughters.",
+      "finnish_biblia": "Ja eli sitte kahdeksansataa ja viisitoistakymmentä ajastaikaa, ja siitti poikia ja tyttäriä. ",
       "king_james": "And Enos lived after he begat Cainan eight hundred and fifteen years, and begat sons and daughters:"
     },
     {
       "verse": 11,
       "latin_vulgate": "Factique sunt omnes dies Enos nongenti quinque anni, et mortuus est. ",
       "hebrew_masoretic": "וַיִּֽהְיוּ֙ כׇּל־יְמֵ֣י אֱנ֔וֹשׁ חָמֵ֣שׁ שָׁנִ֔ים וּתְשַׁ֥ע מֵא֖וֹת שָׁנָ֑ה וַיָּמֹֽת׃ {ס}",
+      "douay_rheims": "And all the days of Enos were nine hundred and five years, and he died.",
+      "finnish_biblia": "Ja koko hänen ikänsä oli yhdeksänsataa ja viisi ajastaikaa, ja kuoli. ",
       "king_james": "And all the days of Enos were nine hundred and five years: and he died."
     },
     {
       "verse": 12,
       "latin_vulgate": "Vixit quoque Cainan septuaginta annis, et genuit Malaleel. ",
       "hebrew_masoretic": "וַיְחִ֥י קֵינָ֖ן שִׁבְעִ֣ים שָׁנָ֑ה וַיּ֖וֹלֶד אֶת־מַֽהֲלַלְאֵֽל׃",
+      "douay_rheims": "And Cainan lived seventy years, and begot Malaleel.",
+      "finnish_biblia": "Kenan oli seitsemänkymmenen ajastajan vanha, ja siitti Mahalaleelin. ",
       "king_james": "And Cainan lived seventy years, and begat Mahalaleel:"
     },
     {
       "verse": 13,
       "latin_vulgate": "Et vixit Cainan, postquam genuit Malaleel, octingentis quadraginta annis, genuitque filios et filias. ",
       "hebrew_masoretic": "וַיְחִ֣י קֵינָ֗ן אַחֲרֵי֙ הוֹלִיד֣וֹ אֶת־מַֽהֲלַלְאֵ֔ל אַרְבָּעִ֣ים שָׁנָ֔ה וּשְׁמֹנֶ֥ה מֵא֖וֹת שָׁנָ֑ה וַיּ֥וֹלֶד בָּנִ֖ים וּבָנֽוֹת׃",
+      "douay_rheims": "And Cainan lived after he begot Malaleel, eight hundred and forty years, and begot sons and daughters.",
+      "finnish_biblia": "Ja eli sitte kahdeksansataa ja neljäkymmentä ajastaikaa, ja siitti poikia ja tyttäriä. ",
       "king_james": "And Cainan lived after he begat Mahalaleel eight hundred and forty years, and begat sons and daughters:"
     },
     {
       "verse": 14,
       "latin_vulgate": "Et facti sunt omnes dies Cainan nongenti decem anni, et mortuus est. ",
       "hebrew_masoretic": "וַיִּֽהְיוּ֙ כׇּל־יְמֵ֣י קֵינָ֔ן עֶ֣שֶׂר שָׁנִ֔ים וּתְשַׁ֥ע מֵא֖וֹת שָׁנָ֑ה וַיָּמֹֽת׃ {ס}",
+      "douay_rheims": "And all the days of Cainan were nine hundred and ten years, and he died.",
+      "finnish_biblia": "Ja koko hänen ikänsä oli yhdeksänsataa ja kymmenen ajastaikaa, ja kuoli. ",
       "king_james": "And all the days of Cainan were nine hundred and ten years: and he died."
     },
     {
       "verse": 15,
       "latin_vulgate": "Vixit autem Malaleel sexaginta quinque annis, et genuit Jared. ",
       "hebrew_masoretic": "וַיְחִ֣י מַֽהֲלַלְאֵ֔ל חָמֵ֥שׁ שָׁנִ֖ים וְשִׁשִּׁ֣ים שָׁנָ֑ה וַיּ֖וֹלֶד אֶת־יָֽרֶד׃",
+      "douay_rheims": "And Malaleel lived sixty-five years and begot Jared.",
+      "finnish_biblia": "Mahalaleel oli viiden ajastajan seitsemättäkymmentä vanha, ja siitti Jaredin. ",
       "king_james": "And Mahalaleel lived sixty and five years, and begat Jared:"
     },
     {
       "verse": 16,
       "latin_vulgate": "Et vixit Malaleel, postquam genuit Jared, octingentis triginta annis, et genuit filios et filias. ",
       "hebrew_masoretic": "וַיְחִ֣י מַֽהֲלַלְאֵ֗ל אַֽחֲרֵי֙ הוֹלִיד֣וֹ אֶת־יֶ֔רֶד שְׁלֹשִׁ֣ים שָׁנָ֔ה וּשְׁמֹנֶ֥ה מֵא֖וֹת שָׁנָ֑ה וַיּ֥וֹלֶד בָּנִ֖ים וּבָנֽוֹת׃",
+      "douay_rheims": "And Malaleel lived after he begot Jared, eight hundred and thirty years, and begot sons and daughters.",
+      "finnish_biblia": "Ja eli sitte kahdeksansataa ja kolmekymmentä ajastaikaa, ja siitti poikia ja tyttäriä. ",
       "king_james": "And Mahalaleel lived after he begat Jared eight hundred and thirty years, and begat sons and daughters:"
     },
     {
       "verse": 17,
       "latin_vulgate": "Et facti sunt omnes dies Malaleel octingenti nonaginta quinque anni, et mortuus est. ",
       "hebrew_masoretic": "וַיִּהְיוּ֙ כׇּל־יְמֵ֣י מַהֲלַלְאֵ֔ל חָמֵ֤שׁ וְתִשְׁעִים֙ שָׁנָ֔ה וּשְׁמֹנֶ֥ה מֵא֖וֹת שָׁנָ֑ה וַיָּמֹֽת׃ {ס}",
+      "douay_rheims": "And all the days of Malaleel were eight hundred and ninety-five years, and he died.",
+      "finnish_biblia": "Ja koko hänen ikänsä oli kahdeksansataa yhdeksänkymmentä ja viisi ajastaikaa, ja kuoli. ",
       "king_james": "And all the days of Mahalaleel were eight hundred ninety and five years: and he died."
     },
     {
       "verse": 18,
       "latin_vulgate": "Vixitque Jared centum sexaginta duobus annis, et genuit Henoch. ",
       "hebrew_masoretic": "וַֽיְחִי־יֶ֕רֶד שְׁתַּ֧יִם וְשִׁשִּׁ֛ים שָׁנָ֖ה וּמְאַ֣ת שָׁנָ֑ה וַיּ֖וֹלֶד אֶת־חֲנֽוֹךְ׃",
+      "douay_rheims": "And Jared lived a hundred and sixty-two years, and begot Henoch.",
+      "finnish_biblia": "Jared oli sadan ja kahdenseitsemättäkymmentä ajastajan vanha, ja siitti Henokin. ",
       "king_james": "And Jared lived an hundred sixty and two years, and he begat Enoch:"
     },
     {
       "verse": 19,
       "latin_vulgate": "Et vixit Jared, postquam genuit Henoch, octingentis annis, et genuit filios et filias. ",
       "hebrew_masoretic": "וַֽיְחִי־יֶ֗רֶד אַֽחֲרֵי֙ הוֹלִיד֣וֹ אֶת־חֲנ֔וֹךְ שְׁמֹנֶ֥ה מֵא֖וֹת שָׁנָ֑ה וַיּ֥וֹלֶד בָּנִ֖ים וּבָנֽוֹת׃",
+      "douay_rheims": "And Jared lived after he begot Henoch, eight hundred years, and begot sons and daughters.",
+      "finnish_biblia": "Ja eli sitte kahdeksansataa ajastaikaa, ja siitti poikia ja tyttäriä. ",
       "king_james": "And Jared lived after he begat Enoch eight hundred years, and begat sons and daughters:"
     },
     {
       "verse": 20,
       "latin_vulgate": "Et facti sunt omnes dies Jared nongenti sexaginta duo anni, et mortuus est. ",
       "hebrew_masoretic": "וַיִּֽהְיוּ֙ כׇּל־יְמֵי־יֶ֔רֶד שְׁתַּ֤יִם וְשִׁשִּׁים֙ שָׁנָ֔ה וּתְשַׁ֥ע מֵא֖וֹת שָׁנָ֑ה וַיָּמֹֽת׃ {ס}",
+      "douay_rheims": "And all the days of Jared were nine hundred and sixty-two years, and he died.",
+      "finnish_biblia": "Ja koko hänen ikänsä oli yhdeksänsataa ja kaksiseitsemättäkymmentä ajastaikaa, ja kuoli. ",
       "king_james": "And all the days of Jared were nine hundred sixty and two years: and he died."
     },
     {
       "verse": 21,
       "latin_vulgate": "Porro Henoch vixit sexaginta quinque annis, et genuit Mathusalam. ",
       "hebrew_masoretic": "וַיְחִ֣י חֲנ֔וֹךְ חָמֵ֥שׁ וְשִׁשִּׁ֖ים שָׁנָ֑ה וַיּ֖וֹלֶד אֶת־מְתוּשָֽׁלַח׃",
+      "douay_rheims": "And Henoch lived sixty-five years, and begot Mathusala.",
+      "finnish_biblia": "Henok oli viidenseitsemättäkymmentä ajastajan vanha, ja siitti Metusalan. ",
       "king_james": "And Enoch lived sixty and five years, and begat Methuselah:"
     },
     {
       "verse": 22,
       "latin_vulgate": "Et ambulavit Henoch cum Deo : et vixit, postquam genuit Mathusalam, trecentis annis, et genuit filios et filias. ",
       "hebrew_masoretic": "וַיִּתְהַלֵּ֨ךְ חֲנ֜וֹךְ אֶת־הָֽאֱלֹהִ֗ים אַֽחֲרֵי֙ הוֹלִיד֣וֹ אֶת־מְתוּשֶׁ֔לַח שְׁלֹ֥שׁ מֵא֖וֹת שָׁנָ֑ה וַיּ֥וֹלֶד בָּנִ֖ים וּבָנֽוֹת׃",
+      "douay_rheims": "And Henoch walked with God: and lived after he begot Mathusala, three hundred years, and begot sons and daughters.",
+      "finnish_biblia": "Ja sitte kuin hän oli Metusalan siittänyt, pysyi hän jumalisessa elämässä kolmesataa ajastaikaa, ja siitti poikia ja tyttäriä. ",
       "king_james": "And Enoch walked with God after he begat Methuselah three hundred years, and begat sons and daughters:"
     },
     {
       "verse": 23,
       "latin_vulgate": "Et facti sunt omnes dies Henoch trecenti sexaginta quinque anni. ",
       "hebrew_masoretic": "וַיְהִ֖י כׇּל־יְמֵ֣י חֲנ֑וֹךְ חָמֵ֤שׁ וְשִׁשִּׁים֙ שָׁנָ֔ה וּשְׁלֹ֥שׁ מֵא֖וֹת שָׁנָֽה׃",
+      "douay_rheims": "And all the days of Henoch were three hundred and sixty-five years.",
+      "finnish_biblia": "Ja koko hänen ikänsä oli kolmesataa ja viisiseitsemättäkymmentä ajastaikaa. ",
       "king_james": "And all the days of Enoch were three hundred sixty and five years:"
     },
     {
       "verse": 24,
       "latin_vulgate": "Ambulavitque cum Deo, et non apparuit : quia tulit eum Deus. ",
       "hebrew_masoretic": "וַיִּתְהַלֵּ֥ךְ חֲנ֖וֹךְ אֶת־הָֽאֱלֹהִ֑ים וְאֵינֶ֕נּוּ כִּֽי־לָקַ֥ח אֹת֖וֹ אֱלֹהִֽים׃ {ס}",
+      "douay_rheims": "And he walked with God, and was seen no more: because God took him.",
+      "finnish_biblia": "Ja hän eli jumalisesti: ja ei enää ollut; sillä Jumala otti hänen pois. ",
       "king_james": "And Enoch walked with God: and he was not; for God took him."
     },
     {
       "verse": 25,
       "latin_vulgate": "Vixit quoque Mathusala centum octoginta septem annis, et genuit Lamech. ",
       "hebrew_masoretic": "וַיְחִ֣י מְתוּשֶׁ֔לַח שֶׁ֧בַע וּשְׁמֹנִ֛ים שָׁנָ֖ה וּמְאַ֣ת שָׁנָ֑ה וַיּ֖וֹלֶד אֶת־לָֽמֶךְ׃",
+      "douay_rheims": "And Mathusala lived a hundred and eighty-seven years, and begot Lamech.",
+      "finnish_biblia": "Metusalah oli sadan ja seitsemän ajastajan yhdeksättäkymmentä vanha, ja siitti Lamekin. ",
       "king_james": "And Methuselah lived an hundred eighty and seven years, and begat Lamech:"
     },
     {
       "verse": 26,
       "latin_vulgate": "Et vixit Mathusala, postquam genuit Lamech, septingentis octoginta duobus annis, et genuit filios et filias. ",
       "hebrew_masoretic": "וַיְחִ֣י מְתוּשֶׁ֗לַח אַֽחֲרֵי֙ הוֹלִיד֣וֹ אֶת־לֶ֔מֶךְ שְׁתַּ֤יִם וּשְׁמוֹנִים֙ שָׁנָ֔ה וּשְׁבַ֥ע מֵא֖וֹת שָׁנָ֑ה וַיּ֥וֹלֶד בָּנִ֖ים וּבָנֽוֹת׃",
+      "douay_rheims": "And Mathlusala lived after he begot Lamech, seven hundred and eighty-two years, and begot sons and daughters.",
+      "finnish_biblia": "Ja eli sitte seitsemänsataa ja kaksiyhdeksättäkymmentä ajastaikaa, ja siitti poikia ja tyttäriä. ",
       "king_james": "And Methuselah lived after he begat Lamech seven hundred eighty and two years, and begat sons and daughters:"
     },
     {
       "verse": 27,
       "latin_vulgate": "Et facti sunt omnes dies Mathusala nongenti sexaginta novem anni, et mortuus est. ",
       "hebrew_masoretic": "וַיִּהְיוּ֙ כׇּל־יְמֵ֣י מְתוּשֶׁ֔לַח תֵּ֤שַׁע וְשִׁשִּׁים֙ שָׁנָ֔ה וּתְשַׁ֥ע מֵא֖וֹת שָׁנָ֑ה וַיָּמֹֽת׃ {ס}",
+      "douay_rheims": "And all the days of Mathusala were nine hundred and sixty-nine years, and he died.",
+      "finnish_biblia": "Ja koko hänen ikänsä oli yhdeksänsataa ja yhdeksänseitsemättäkymmentä ajastaikaa, ja kuoli. ",
       "king_james": "And all the days of Methuselah were nine hundred sixty and nine years: and he died."
     },
     {
       "verse": 28,
       "latin_vulgate": "Vixit autem Lamech centum octoginta duobus annis, et genuit filium : ",
       "hebrew_masoretic": "וַֽיְחִי־לֶ֕מֶךְ שְׁתַּ֧יִם וּשְׁמֹנִ֛ים שָׁנָ֖ה וּמְאַ֣ת שָׁנָ֑ה וַיּ֖וֹלֶד בֵּֽן׃",
+      "douay_rheims": "And Lamech lived a hundred and eighty-two years, and begot a son.",
+      "finnish_biblia": "Lamek oli sadan ja kahden ajastajan yhdeksättäkymmentä vanha, ja siitti pojan. ",
       "king_james": "And Lamech lived an hundred eighty and two years, and begat a son:"
     },
     {
       "verse": 29,
       "latin_vulgate": "vocavitque nomen ejus Noë, dicens : Iste consolabitur nos ab operibus et laboribus manuum nostrarum in terra, cui maledixit Dominus. ",
       "hebrew_masoretic": "וַיִּקְרָ֧א אֶת־שְׁמ֛וֹ נֹ֖חַ לֵאמֹ֑ר זֶ֞֠ה יְנַחֲמֵ֤נוּ מִֽמַּעֲשֵׂ֙נוּ֙ וּמֵעִצְּב֣וֹן יָדֵ֔ינוּ מִן־הָ֣אֲדָמָ֔ה אֲשֶׁ֥ר אֵֽרְרָ֖הּ יְהֹוָֽה׃",
+      "douay_rheims": "And he called his name Noe, saying: This same shall comfort us from the works and labours of our hands on the earth, which the Lord hath cursed.",
+      "finnish_biblia": "Ja kutsui hänen nimensä Noa, sanoen: tämä on lohduttava meitä meidän vaivassamme ja töissämme maan päällä, jonka Herra kironnut on. ",
       "king_james": "And he called his name Noah, saying, This same shall comfort us concerning our work and toil of our hands, because of the ground which the Lord hath cursed."
     },
     {
       "verse": 30,
       "latin_vulgate": "Vixitque Lamech, postquam genuit Noë, quingentis nonaginta quinque annis, et genuit filios et filias. ",
       "hebrew_masoretic": "וַֽיְחִי־לֶ֗מֶךְ אַֽחֲרֵי֙ הוֹלִיד֣וֹ אֶת־נֹ֔חַ חָמֵ֤שׁ וְתִשְׁעִים֙ שָׁנָ֔ה וַחֲמֵ֥שׁ מֵאֹ֖ת שָׁנָ֑ה וַיּ֥וֹלֶד בָּנִ֖ים וּבָנֽוֹת׃",
+      "douay_rheims": "And Lamech lived after he begot Noe, five hundred and ninety-five years, and begot sons and daughters.",
+      "finnish_biblia": "Sitte eli hän viisisataa yhdeksänkymmentä ja viisi ajastaikaa, ja siitti poikia ja tyttäriä. ",
       "king_james": "And Lamech lived after he begat Noah five hundred ninety and five years, and begat sons and daughters:"
     },
     {
       "verse": 31,
       "latin_vulgate": "Et facti sunt omnes dies Lamech septingenti septuaginta septem anni, et mortuus est. Noë vero cum quingentorum esset annorum, genuit Sem, Cham et Japheth.   ",
       "hebrew_masoretic": "וַֽיְהִי֙ כׇּל־יְמֵי־לֶ֔מֶךְ שֶׁ֤בַע וְשִׁבְעִים֙ שָׁנָ֔ה וּשְׁבַ֥ע מֵא֖וֹת שָׁנָ֑ה וַיָּמֹֽת׃ {ס}",
+      "douay_rheims": "And all the days of Lamech came to seven hundred and seventy-seven years, and he died. And Noe, when he was five hundred years old, begot Sem, Cham, and Japheth. ",
+      "finnish_biblia": "Ja koko hänen ikänsä oli seitsemänsataa ja seitsemänkahdeksattakymmentä ajastaikaa, ja kuoli. ",
       "king_james": "And all the days of Lamech were seven hundred seventy and seven years: and he died."
     },
     {
       "verse": 32,
       "latin_vulgate": "Et facti sunt omnes dies Lamech septingenti septuaginta septem anni, et mortuus est. Noë vero cum quingentorum esset annorum, genuit Sem, Cham et Japheth.   ",
       "hebrew_masoretic": "וַֽיְהִי־נֹ֕חַ בֶּן־חֲמֵ֥שׁ מֵא֖וֹת שָׁנָ֑ה וַיּ֣וֹלֶד נֹ֔חַ אֶת־שֵׁ֖ם אֶת־חָ֥ם וְאֶת־יָֽפֶת׃",
+      "douay_rheims": "And all the days of Lamech came to seven hundred and seventy-seven years, and he died. And Noe, when he was five hundred years old, begot Sem, Cham, and Japheth. ",
+      "finnish_biblia": "Noa oli viidensadan ajastajan vanha, ja siitti Semin, Hamin ja Japhetin.   ",
       "king_james": "And Noah was five hundred years old: and Noah begat Shem, Ham, and Japheth. ",
       "refs": {
         "latin_vulgate": {
+          "src": "5:31"
+        },
+        "douay_rheims": {
           "src": "5:31"
         }
       }

@@ -2,6 +2,8 @@
   "book_id": "PSA",
   "latin_name": "Liber Psalmorum",
   "hebrew_name": "תְּהִלִּים",
+  "douay_name": "Psalms",
+  "finnish_name": "Psalmit",
   "english_name": "Psalms",
   "chapter": 55,
   "verses": [
@@ -9,6 +11,8 @@
       "verse": 1,
       "latin_vulgate": "  Exaudi, Deus, orationem meam,  et ne despexeris deprecationem meam : ",
       "hebrew_masoretic": "הַאֲזִ֣ינָה אֱ֭לֹהִים תְּפִלָּתִ֑י וְאַל־תִּ֝תְעַלַּ֗ם מִתְּחִנָּתִֽי׃",
+      "douay_rheims": "Hear, O God, my prayer, and despise not my supplication:",
+      "finnish_biblia": "Davidin opetus, edelläveisaajalle, kanteleilla. (H55:2) Jumala, kuule minun rukoukseni, ja älä peitä sinuas minun rukoukseni edestä. ",
       "king_james": "Give ear to my prayer, O God; and hide not thyself from my supplication.",
       "refs": {
         "latin_vulgate": {
@@ -16,6 +20,9 @@
         },
         "hebrew_masoretic": {
           "src": "55:2"
+        },
+        "douay_rheims": {
+          "src": "54:2"
         }
       }
     },
@@ -23,6 +30,8 @@
       "verse": 2,
       "latin_vulgate": " intende mihi, et exaudi me.  Contristatus sum in exercitatione mea,  et conturbatus sum ",
       "hebrew_masoretic": "הַקְשִׁ֣יבָה לִּ֣י וַעֲנֵ֑נִי אָרִ֖יד בְּשִׂיחִ֣י וְאָהִֽימָה׃",
+      "douay_rheims": "Be attentive to me and hear me. I am grieved in my exercise; and am troubled,",
+      "finnish_biblia": "Ota minusta vaari ja kuule minua; että minä surkeasti valitan rukouksissani ja parun; ",
       "king_james": "Attend unto me, and hear me: I mourn in my complaint, and make a noise;",
       "refs": {
         "latin_vulgate": {
@@ -30,6 +39,9 @@
         },
         "hebrew_masoretic": {
           "src": "55:3"
+        },
+        "douay_rheims": {
+          "src": "54:3"
         }
       }
     },
@@ -37,6 +49,8 @@
       "verse": 3,
       "latin_vulgate": " a voce inimici, et a tribulatione peccatoris.  Quoniam declinaverunt in me iniquitates,  et in ira molesti erant mihi. ",
       "hebrew_masoretic": "מִקּ֤וֹל אוֹיֵ֗ב מִ֭פְּנֵי עָקַ֣ת רָשָׁ֑ע כִּֽי־יָמִ֥יטוּ עָלַ֥י אָ֝֗וֶן וּבְאַ֥ף יִשְׂטְמֽוּנִי׃",
+      "douay_rheims": "At the voice of the enemy, and at the tribulation of the sinner. For they have cast iniquities upon me: and in wrath they were troublesome to me.",
+      "finnish_biblia": "Että vihamies niin huutaa, ja jumalatoin ahdistaa; sillä he kääntävät valheen minun päälleni, ja asettavat itsensä vihassansa minua vastaan. ",
       "king_james": "Because of the voice of the enemy, because of the oppression of the wicked: for they cast iniquity upon me, and in wrath they hate me.",
       "refs": {
         "latin_vulgate": {
@@ -44,6 +58,9 @@
         },
         "hebrew_masoretic": {
           "src": "55:4"
+        },
+        "douay_rheims": {
+          "src": "54:4"
         }
       }
     },
@@ -51,6 +68,8 @@
       "verse": 4,
       "latin_vulgate": " Cor meum conturbatum est in me,  et formido mortis cecidit super me. ",
       "hebrew_masoretic": "לִ֭בִּי יָחִ֣יל בְּקִרְבִּ֑י וְאֵימ֥וֹת מָ֝֗וֶת נָפְל֥וּ עָלָֽי׃",
+      "douay_rheims": "My heart is troubled within me: and the fear of death is fallen upon me.",
+      "finnish_biblia": "Minun sydämeni vapisee minussa, ja kuoleman pelko lankesi minun päälleni. ",
       "king_james": "My heart is sore pained within me: and the terrors of death are fallen upon me.",
       "refs": {
         "latin_vulgate": {
@@ -58,6 +77,9 @@
         },
         "hebrew_masoretic": {
           "src": "55:5"
+        },
+        "douay_rheims": {
+          "src": "54:5"
         }
       }
     },
@@ -65,6 +87,8 @@
       "verse": 5,
       "latin_vulgate": " Timor et tremor venerunt super me,  et contexerunt me tenebræ. ",
       "hebrew_masoretic": "יִרְאָ֣ה וָ֭רַעַד יָ֣בֹא בִ֑י וַ֝תְּכַסֵּ֗נִי פַּלָּצֽוּת׃",
+      "douay_rheims": "Fear and trembling are come upon me: and darkness hath covered me.",
+      "finnish_biblia": "Pelko ja vavistus tulivat minun päälleni, ja kauhistus peitti minun. ",
       "king_james": "Fearfulness and trembling are come upon me, and horror hath overwhelmed me.",
       "refs": {
         "latin_vulgate": {
@@ -72,6 +96,9 @@
         },
         "hebrew_masoretic": {
           "src": "55:6"
+        },
+        "douay_rheims": {
+          "src": "54:6"
         }
       }
     },
@@ -79,6 +106,8 @@
       "verse": 6,
       "latin_vulgate": " Et dixi : Quis dabit mihi pennas sicut columbæ,  et volabo, et requiescam ? ",
       "hebrew_masoretic": "וָאֹמַ֗ר מִֽי־יִתֶּן־לִ֣י אֵ֭בֶר כַּיּוֹנָ֗ה אָע֥וּפָה וְאֶשְׁכֹּֽנָה׃",
+      "douay_rheims": "And I said: Who will give me wings like a dove, and I will fly and be at rest?",
+      "finnish_biblia": "Ja minä sanoin: jospa minulla olisi siivet niinkuin mettisellä, että minä lentäisin, ja (joskus) lepäisin! ",
       "king_james": "And I said, Oh that I had wings like a dove! for then would I fly away, and be at rest.",
       "refs": {
         "latin_vulgate": {
@@ -86,6 +115,9 @@
         },
         "hebrew_masoretic": {
           "src": "55:7"
+        },
+        "douay_rheims": {
+          "src": "54:7"
         }
       }
     },
@@ -93,6 +125,8 @@
       "verse": 7,
       "latin_vulgate": " Ecce elongavi fugiens,  et mansi in solitudine. ",
       "hebrew_masoretic": "הִ֭נֵּה אַרְחִ֣יק נְדֹ֑ד אָלִ֖ין בַּמִּדְבָּ֣ר סֶֽלָה׃",
+      "douay_rheims": "Lo, I have gone far off flying away; and I abode in the wilderness.",
+      "finnish_biblia": "Katso, niin minä kauvas pakenisin, ja oleskelisin korvessa, Sela! ",
       "king_james": "Lo, then would I wander far off, and remain in the wilderness. Selah.",
       "refs": {
         "latin_vulgate": {
@@ -100,6 +134,9 @@
         },
         "hebrew_masoretic": {
           "src": "55:8"
+        },
+        "douay_rheims": {
+          "src": "54:8"
         }
       }
     },
@@ -107,6 +144,8 @@
       "verse": 8,
       "latin_vulgate": " Exspectabam eum qui salvum me fecit  a pusillanimitate spiritus, et tempestate. ",
       "hebrew_masoretic": "אָחִ֣ישָׁה מִפְלָ֣ט לִ֑י מֵר֖וּחַ סֹעָ֣ה מִסָּֽעַר׃",
+      "douay_rheims": "I waited for him that hath saved me from pusillanimity of spirit, and a storm.",
+      "finnish_biblia": "Minä rientäisin, että minä pääsisin tuulen puuskasta ja tuulispäästä. ",
       "king_james": "I would hasten my escape from the windy storm and tempest.",
       "refs": {
         "latin_vulgate": {
@@ -114,6 +153,9 @@
         },
         "hebrew_masoretic": {
           "src": "55:9"
+        },
+        "douay_rheims": {
+          "src": "54:9"
         }
       }
     },
@@ -121,6 +163,8 @@
       "verse": 9,
       "latin_vulgate": " Præcipita, Domine ; divide linguas eorum :  quoniam vidi iniquitatem et contradictionem in civitate. ",
       "hebrew_masoretic": "בַּלַּ֣ע אֲ֭דֹנָי פַּלַּ֣ג לְשׁוֹנָ֑ם כִּֽי־רָאִ֨יתִי חָמָ֖ס וְרִ֣יב בָּעִֽיר׃",
+      "douay_rheims": "Cast down, O Lord, and divide their tongues; for I have seen iniquity and contradiction in the city.",
+      "finnish_biblia": "Turmele, Herra, ja sekoita heidän kielensä; sillä minä näin väkivallan ja riidan kaupungissa. ",
       "king_james": "Destroy, O Lord, and divide their tongues: for I have seen violence and strife in the city.",
       "refs": {
         "latin_vulgate": {
@@ -128,6 +172,9 @@
         },
         "hebrew_masoretic": {
           "src": "55:10"
+        },
+        "douay_rheims": {
+          "src": "54:10"
         }
       }
     },
@@ -135,6 +182,8 @@
       "verse": 10,
       "latin_vulgate": " Die ac nocte circumdabit eam super muros ejus iniquitas ;  et labor in medio ejus, ",
       "hebrew_masoretic": "יוֹמָ֤ם וָלַ֗יְלָה יְסוֹבְבֻ֥הָ עַל־חוֹמֹתֶ֑יהָ וְאָ֖וֶן וְעָמָ֣ל בְּקִרְבָּֽהּ׃",
+      "douay_rheims": "Day and night shall iniquity surround it upon its walls: and in the midst thereof are labour,",
+      "finnish_biblia": "He käyvät sen ympäri päivällä ja yöllä hänen muurinsa päällä: vääryys ja vaiva on sen keskellä. ",
       "king_james": "Day and night they go about it upon the walls thereof: mischief also and sorrow are in the midst of it.",
       "refs": {
         "latin_vulgate": {
@@ -142,6 +191,9 @@
         },
         "hebrew_masoretic": {
           "src": "55:11"
+        },
+        "douay_rheims": {
+          "src": "54:11"
         }
       }
     },
@@ -149,6 +201,8 @@
       "verse": 11,
       "latin_vulgate": " et injustitia :  et non defecit de plateis ejus usura et dolus. ",
       "hebrew_masoretic": "הַוּ֥וֹת בְּקִרְבָּ֑הּ וְֽלֹא־יָמִ֥ישׁ מֵ֝רְחֹבָ֗הּ תֹּ֣ךְ וּמִרְמָֽה׃",
+      "douay_rheims": "And injustice. And usury and deceit have not departed from its streets.",
+      "finnish_biblia": "Vääryys on sen keskellä: valhe ja petos ei luovu hänen kaduiltansa. ",
       "king_james": "Wickedness is in the midst thereof: deceit and guile depart not from her streets.",
       "refs": {
         "latin_vulgate": {
@@ -156,6 +210,9 @@
         },
         "hebrew_masoretic": {
           "src": "55:12"
+        },
+        "douay_rheims": {
+          "src": "54:12"
         }
       }
     },
@@ -163,6 +220,8 @@
       "verse": 12,
       "latin_vulgate": " Quoniam si inimicus meus maledixisset mihi,  sustinuissem utique.  Et si is qui oderat me super me magna locutus fuisset,  abscondissem me forsitan ab eo. ",
       "hebrew_masoretic": "כִּ֤י לֹֽא־אוֹיֵ֥ב יְחָֽרְפֵ֗נִי וְאֶ֫שָּׂ֥א לֹא־מְ֭שַׂנְאִי עָלַ֣י הִגְדִּ֑יל וְאֶסָּתֵ֥ר מִמֶּֽנּוּ׃",
+      "douay_rheims": "For if my enemy had reviled me, I would verily have borne with it. And if he that hated me had spoken great things against me, I would perhaps have hidden my self from him.",
+      "finnish_biblia": "Sillä jos minun vihamieheni häpäisis minua, sen minä kärsisin: ja jos minun vainoojani nousis minua vastaan, niin minä kätkisin itseni hänen edestänsä. ",
       "king_james": "For it was not an enemy that reproached me; then I could have borne it: neither was it he that hated me that did magnify himself against me; then I would have hid myself from him:",
       "refs": {
         "latin_vulgate": {
@@ -170,6 +229,9 @@
         },
         "hebrew_masoretic": {
           "src": "55:13"
+        },
+        "douay_rheims": {
+          "src": "54:13"
         }
       }
     },
@@ -177,6 +239,8 @@
       "verse": 13,
       "latin_vulgate": " Tu vero homo unanimis,  dux meus, et notus meus : ",
       "hebrew_masoretic": "וְאַתָּ֣ה אֱנ֣וֹשׁ כְּעֶרְכִּ֑י אַ֝לּוּפִ֗י וּמְיֻדָּעִֽי׃",
+      "douay_rheims": "But thou a man of one mind, my guide, and my familiar,",
+      "finnish_biblia": "Vaan sinä olet minun kumppanini, minun johdattajani ja minun tuttavani: ",
       "king_james": "But it was thou, a man mine equal, my guide, and mine acquaintance.",
       "refs": {
         "latin_vulgate": {
@@ -184,6 +248,9 @@
         },
         "hebrew_masoretic": {
           "src": "55:14"
+        },
+        "douay_rheims": {
+          "src": "54:14"
         }
       }
     },
@@ -191,6 +258,8 @@
       "verse": 14,
       "latin_vulgate": " qui simul mecum dulces capiebas cibos ;  in domo Dei ambulavimus cum consensu. ",
       "hebrew_masoretic": "אֲשֶׁ֣ר יַ֭חְדָּו נַמְתִּ֣יק ס֑וֹד בְּבֵ֥ית אֱ֝לֹהִ֗ים נְהַלֵּ֥ךְ בְּרָֽגֶשׁ׃",
+      "douay_rheims": "Who didst take sweetmeats together with me: in the house of God we walked with consent.",
+      "finnish_biblia": "Me jotka ystävällisesti keskenämme neuvoa pidimme, ja vaelsimme Jumalan huoneesen joukossa. ",
       "king_james": "We took sweet counsel together, and walked unto the house of God in company.",
       "refs": {
         "latin_vulgate": {
@@ -198,6 +267,9 @@
         },
         "hebrew_masoretic": {
           "src": "55:15"
+        },
+        "douay_rheims": {
+          "src": "54:15"
         }
       }
     },
@@ -205,6 +277,8 @@
       "verse": 15,
       "latin_vulgate": " Veniat mors super illos,  et descendant in infernum viventes :  quoniam nequitiæ in habitaculis eorum, in medio eorum. ",
       "hebrew_masoretic": "(ישימות) [יַשִּׁ֤י מָ֨וֶת ׀] עָלֵ֗ימוֹ יֵרְד֣וּ שְׁא֣וֹל חַיִּ֑ים כִּֽי־רָע֖וֹת בִּמְגוּרָ֣ם בְּקִרְבָּֽם׃",
+      "douay_rheims": "Let death come upon them, and let them go down alive into hell. For there is wickedness in their dwellings: in the midst of them.",
+      "finnish_biblia": "Langetkoon kuolema heidän päällensä, ja he menkään elävänä alas helvettiin; sillä sula pahuus on heidän asuinsioissansa heidän keskellänsä. ",
       "king_james": "Let death seize upon them, and let them go down quick into hell: for wickedness is in their dwellings, and among them.",
       "refs": {
         "latin_vulgate": {
@@ -212,6 +286,9 @@
         },
         "hebrew_masoretic": {
           "src": "55:16"
+        },
+        "douay_rheims": {
+          "src": "54:16"
         }
       }
     },
@@ -219,6 +296,8 @@
       "verse": 16,
       "latin_vulgate": " Ego autem ad Deum clamavi,  et Dominus salvabit me. ",
       "hebrew_masoretic": "אֲ֭נִי אֶל־אֱלֹהִ֣ים אֶקְרָ֑א וַ֝יהֹוָ֗ה יוֹשִׁיעֵֽנִי׃",
+      "douay_rheims": "But I have cried to God: and the Lord will save me.",
+      "finnish_biblia": "Mutta minä huudan Jumalan tykö; ja Herra auttaa minua. ",
       "king_james": "As for me, I will call upon God; and the Lord shall save me.",
       "refs": {
         "latin_vulgate": {
@@ -226,6 +305,9 @@
         },
         "hebrew_masoretic": {
           "src": "55:17"
+        },
+        "douay_rheims": {
+          "src": "54:17"
         }
       }
     },
@@ -233,6 +315,8 @@
       "verse": 17,
       "latin_vulgate": " Vespere, et mane, et meridie, narrabo, et annuntiabo ;  et exaudiet vocem meam. ",
       "hebrew_masoretic": "עֶ֤רֶב וָבֹ֣קֶר וְ֭צׇהֳרַיִם אָשִׂ֣יחָה וְאֶהֱמֶ֑ה וַיִּשְׁמַ֥ע קוֹלִֽי׃",
+      "douay_rheims": "Evening and morning, and at noon I will speak and declare: and he shall hear my voice.",
+      "finnish_biblia": "Ehtoona, aamulla ja puolipäivänä minä valitan ja itken; ja hän kuulee minun ääneni. ",
       "king_james": "Evening, and morning, and at noon, will I pray, and cry aloud: and he shall hear my voice.",
       "refs": {
         "latin_vulgate": {
@@ -240,6 +324,9 @@
         },
         "hebrew_masoretic": {
           "src": "55:18"
+        },
+        "douay_rheims": {
+          "src": "54:18"
         }
       }
     },
@@ -247,6 +334,8 @@
       "verse": 18,
       "latin_vulgate": " Redimet in pace animam meam ab his qui appropinquant mihi :  quoniam inter multos erant mecum. ",
       "hebrew_masoretic": "פָּ֘דָ֤ה בְשָׁל֣וֹם נַ֭פְשִׁי מִקְּרׇב־לִ֑י כִּֽי־בְ֝רַבִּ֗ים הָי֥וּ עִמָּדִֽי׃",
+      "douay_rheims": "He shall redeem my soul in peace from them that draw near to me: for among many they were with me.",
+      "finnish_biblia": "Hän lunastaa minun sieluni niistä, jotka sotivat minua vastaan, ja saattaa hänelle rauhan; sillä monta on minua vastaan. ",
       "king_james": "He hath delivered my soul in peace from the battle that was against me: for there were many with me.",
       "refs": {
         "latin_vulgate": {
@@ -254,6 +343,9 @@
         },
         "hebrew_masoretic": {
           "src": "55:19"
+        },
+        "douay_rheims": {
+          "src": "54:19"
         }
       }
     },
@@ -261,6 +353,8 @@
       "verse": 19,
       "latin_vulgate": " Exaudiet Deus, et humiliabit illos,  qui est ante sæcula.  Non enim est illis commutatio,  et non timuerunt Deum. ",
       "hebrew_masoretic": "יִשְׁמַ֤ע ׀ אֵ֨ל ׀ וְֽיַעֲנֵם֮ וְיֹ֤שֵׁ֥ב קֶ֗דֶם סֶ֥֫לָה אֲשֶׁ֤ר אֵ֣ין חֲלִיפ֣וֹת לָ֑מוֹ וְלֹ֖א יָרְא֣וּ אֱלֹהִֽים׃",
+      "douay_rheims": "God shall hear, and the Eternal shall humble them. For there is no change with them, and they have not feared God:",
+      "finnish_biblia": "Jumala kuulkoon, ja heitä nöyryyttäköön, joka alusta ollut on, Sela! jotka ei paranna heitänsä, eikä pelkää Jumalaa. ",
       "king_james": "God shall hear, and afflict them, even he that abideth of old. Selah. Because they have no changes, therefore they fear not God.",
       "refs": {
         "latin_vulgate": {
@@ -268,6 +362,9 @@
         },
         "hebrew_masoretic": {
           "src": "55:20"
+        },
+        "douay_rheims": {
+          "src": "54:20"
         }
       }
     },
@@ -275,6 +372,8 @@
       "verse": 20,
       "latin_vulgate": " Extendit manum suam in retribuendo ;  contaminaverunt testamentum ejus : ",
       "hebrew_masoretic": "שָׁלַ֣ח יָ֭דָיו בִּשְׁלֹמָ֗יו חִלֵּ֥ל בְּרִיתֽוֹ׃",
+      "douay_rheims": "He hath stretched forth his hand to repay. They have defiled his covenant,",
+      "finnish_biblia": "He laskevat kätensä hänen rauhallistensa päälle, ja turmelevat hänen liittonsa. ",
       "king_james": "He hath put forth his hands against such as be at peace with him: he hath broken his covenant.",
       "refs": {
         "latin_vulgate": {
@@ -282,6 +381,9 @@
         },
         "hebrew_masoretic": {
           "src": "55:21"
+        },
+        "douay_rheims": {
+          "src": "54:21"
         }
       }
     },
@@ -289,6 +391,8 @@
       "verse": 21,
       "latin_vulgate": " divisi sunt ab ira vultus ejus,  et appropinquavit cor illius.  Molliti sunt sermones ejus super oleum ;  et ipsi sunt jacula. ",
       "hebrew_masoretic": "חָלְק֤וּ ׀ מַחְמָאֹ֣ת פִּיו֮ וּֽקְרָב־לִ֫בּ֥וֹ רַכּ֖וּ דְבָרָ֥יו מִשֶּׁ֗מֶן וְהֵ֣מָּה פְתִחֽוֹת׃",
+      "douay_rheims": "They are divided by the wrath of his countenance, and his heart hath drawn near. His words are smoother than oil, and the same are darts.",
+      "finnish_biblia": "Heidän suunsa on liukkaampi kuin voi, ja sota on heidän sydämessänsä: heidän sanansa ovat sileämmät kuin öljy, ja ne ovat paljaat miekat. ",
       "king_james": "The words of his mouth were smoother than butter, but war was in his heart: his words were softer than oil, yet were they drawn swords.",
       "refs": {
         "latin_vulgate": {
@@ -296,6 +400,9 @@
         },
         "hebrew_masoretic": {
           "src": "55:22"
+        },
+        "douay_rheims": {
+          "src": "54:22"
         }
       }
     },
@@ -303,6 +410,8 @@
       "verse": 22,
       "latin_vulgate": " Jacta super Dominum curam tuam, et ipse te enutriet ;  non dabit in æternum fluctuationem justo. ",
       "hebrew_masoretic": "הַשְׁלֵ֤ךְ עַל־יְהֹוָ֨ה ׀ יְהָבְךָ֮ וְה֢וּא יְכַ֫לְכְּלֶ֥ךָ לֹא־יִתֵּ֖ן לְעוֹלָ֥ם מ֗וֹט לַצַּדִּֽיק׃",
+      "douay_rheims": "Cast thy care upon the Lord, and he shall sustain thee: he shall not suffer the just to waver for ever.",
+      "finnish_biblia": "Heitä surus Herran päälle, hän sinusta murheen pitää, ja ei salli vanhurskaan olla kulkiana ijankaikkisesti. ",
       "king_james": "Cast thy burden upon the Lord, and he shall sustain thee: he shall never suffer the righteous to be moved.",
       "refs": {
         "latin_vulgate": {
@@ -310,6 +419,9 @@
         },
         "hebrew_masoretic": {
           "src": "55:23"
+        },
+        "douay_rheims": {
+          "src": "54:23"
         }
       }
     },
@@ -317,6 +429,8 @@
       "verse": 23,
       "latin_vulgate": " Tu vero, Deus, deduces eos in puteum interitus.  Viri sanguinum et dolosi non dimidiabunt dies suos ;  ego autem sperabo in te, Domine.  ",
       "hebrew_masoretic": "וְאַתָּ֤ה אֱלֹהִ֨ים ׀ תּוֹרִדֵ֬ם ׀ לִבְאֵ֬ר שַׁ֗חַת אַנְשֵׁ֤י דָמִ֣ים וּ֭מִרְמָה לֹא־יֶחֱצ֣וּ יְמֵיהֶ֑ם וַ֝אֲנִ֗י אֶבְטַח־בָּֽךְ׃ {פ}",
+      "douay_rheims": "But thou, O God, shalt bring them down into the pit of destruction. Bloody and deceitful men shall not live out half their days; but I will trust in thee, O Lord. ",
+      "finnish_biblia": "Mutta sinä, Jumala, syökset heitä syvään kuoppaan: murhamiehet ja pettäjät ei pidä tuleman puoli-ikäänsä; vaan minä toivon sinuun.   ",
       "king_james": "But thou, O God, shalt bring them down into the pit of destruction: bloody and deceitful men shall not live out half their days; but I will trust in thee. ",
       "refs": {
         "latin_vulgate": {
@@ -324,6 +438,9 @@
         },
         "hebrew_masoretic": {
           "src": "55:24"
+        },
+        "douay_rheims": {
+          "src": "54:24"
         }
       }
     }

@@ -2,6 +2,8 @@
   "book_id": "ECC",
   "latin_name": "Ecclesiastes",
   "hebrew_name": "קֹהֶלֶת",
+  "douay_name": "Ecclesiastes",
+  "finnish_name": "Saarnaaja",
   "english_name": "Ecclesiastes",
   "chapter": 7,
   "verses": [
@@ -9,9 +11,14 @@
       "verse": 1,
       "latin_vulgate": " Melius est nomen bonum quam unguenta pretiosa,  et dies mortis die nativitatis. ",
       "hebrew_masoretic": "ט֥וֹב שֵׁ֖ם מִשֶּׁ֣מֶן ט֑וֹב וְי֣וֹם הַמָּ֔וֶת מִיּ֖וֹם הִוָּלְדֽוֹ׃",
+      "douay_rheims": "A good name is better than precious ointments: and the day of death than the day of one's birth.",
+      "finnish_biblia": "Hyvä nimi on parempi kuin kallis öljy, ja kuolinpäivä parempi kuin syntymäpäivä. ",
       "king_james": "A good name is better than precious ointment; and the day of death than the day of one’s birth.",
       "refs": {
         "latin_vulgate": {
+          "src": "7:2"
+        },
+        "douay_rheims": {
           "src": "7:2"
         }
       }
@@ -20,9 +27,14 @@
       "verse": 2,
       "latin_vulgate": " Melius est ire ad domum luctus  quam ad domum convivii ;  in illa enim finis cunctorum admonetur hominum,  et vivens cogitat quid futurum sit. ",
       "hebrew_masoretic": "ט֞וֹב לָלֶ֣כֶת אֶל־בֵּֽית־אֵ֗בֶל מִלֶּ֙כֶת֙ אֶל־בֵּ֣ית מִשְׁתֶּ֔ה בַּאֲשֶׁ֕ר ה֖וּא ס֣וֹף כׇּל־הָאָדָ֑ם וְהַחַ֖י יִתֵּ֥ן אֶל־לִבּֽוֹ׃",
+      "douay_rheims": "It is better to go to the house of mourning, than to the house of feasting: for in that we are put in mind of the end of all, and the living thinketh what is to come.",
+      "finnish_biblia": "Parempi kuin pitotaloon on mennä surutaloon, sillä siinä on kaikkien ihmisten loppu, ja elossa oleva painaa sen mieleensä. ",
       "king_james": "It is better to go to the house of mourning, than to go to the house of feasting: for that is the end of all men; and the living will lay it to his heart.",
       "refs": {
         "latin_vulgate": {
+          "src": "7:3"
+        },
+        "douay_rheims": {
           "src": "7:3"
         }
       }
@@ -31,9 +43,14 @@
       "verse": 3,
       "latin_vulgate": " Melior est ira risu,  quia per tristitiam vultus corrigitur animus delinquentis. ",
       "hebrew_masoretic": "ט֥וֹב כַּ֖עַס מִשְּׂח֑וֹק כִּֽי־בְרֹ֥עַ פָּנִ֖ים יִ֥יטַב לֵֽב׃",
+      "douay_rheims": "Anger is better than laughter: because by the sadness of the countenance the mind of the offender is corrected.",
+      "finnish_biblia": "Suru on parempi kuin nauru, sillä sydämelle on hyväksi, että kasvot ovat murheelliset. ",
       "king_james": "Sorrow is better than laughter: for by the sadness of the countenance the heart is made better.",
       "refs": {
         "latin_vulgate": {
+          "src": "7:4"
+        },
+        "douay_rheims": {
           "src": "7:4"
         }
       }
@@ -42,9 +59,14 @@
       "verse": 4,
       "latin_vulgate": " Cor sapientium ubi tristitia est,  et cor stultorum ubi lætitia. ",
       "hebrew_masoretic": "לֵ֤ב חֲכָמִים֙ בְּבֵ֣ית אֵ֔בֶל וְלֵ֥ב כְּסִילִ֖ים בְּבֵ֥ית שִׂמְחָֽה׃",
+      "douay_rheims": "The heart of the wise is where there is mourning, and the heart of fools where there is mirth.",
+      "finnish_biblia": "Viisaitten sydän on surutalossa, tyhmien sydän ilotalossa. ",
       "king_james": "The heart of the wise is in the house of mourning; but the heart of fools is in the house of mirth.",
       "refs": {
         "latin_vulgate": {
+          "src": "7:5"
+        },
+        "douay_rheims": {
           "src": "7:5"
         }
       }
@@ -53,9 +75,14 @@
       "verse": 5,
       "latin_vulgate": " Melius est a sapiente corripi,  quam stultorum adulatione decipi ; ",
       "hebrew_masoretic": "ט֕וֹב לִשְׁמֹ֖עַ גַּעֲרַ֣ת חָכָ֑ם מֵאִ֕ישׁ שֹׁמֵ֖עַ שִׁ֥יר כְּסִילִֽים׃",
+      "douay_rheims": "It is better to be rebuked by a wise man, than to be deceived by the flattery of fools.",
+      "finnish_biblia": "Parempi on kuulla viisaan nuhdetta, kuin olla kuulemassa tyhmien laulua; ",
       "king_james": "It is better to hear the rebuke of the wise, than for a man to hear the song of fools.",
       "refs": {
         "latin_vulgate": {
+          "src": "7:6"
+        },
+        "douay_rheims": {
           "src": "7:6"
         }
       }
@@ -64,9 +91,14 @@
       "verse": 6,
       "latin_vulgate": " quia sicut sonitus spinarum ardentium sub olla,  sic risus stulti.  Sed et hoc vanitas. ",
       "hebrew_masoretic": "כִּ֣י כְק֤וֹל הַסִּירִים֙ תַּ֣חַת הַסִּ֔יר כֵּ֖ן שְׂחֹ֣ק הַכְּסִ֑יל וְגַם־זֶ֖ה הָֽבֶל׃",
+      "douay_rheims": "For as the crackling of thorns burning under a pot, so is the laughter of a fool: now this also is vanity.",
+      "finnish_biblia": "sillä niinkuin orjantappurain rätinä padan alla, on tyhmän nauru. Ja sekin on turhuutta. ",
       "king_james": "For as the crackling of thorns under a pot, so is the laughter of the fool: this also is vanity.",
       "refs": {
         "latin_vulgate": {
+          "src": "7:7"
+        },
+        "douay_rheims": {
           "src": "7:7"
         }
       }
@@ -75,9 +107,14 @@
       "verse": 7,
       "latin_vulgate": " Calumnia conturbat sapientem,  et perdet robur cordis illius. ",
       "hebrew_masoretic": "כִּ֥י הָעֹ֖שֶׁק יְהוֹלֵ֣ל חָכָ֑ם וִֽיאַבֵּ֥ד אֶת־לֵ֖ב מַתָּנָֽה׃",
+      "douay_rheims": "Oppression troubleth the wise, and shall destroy the strength of his heart.",
+      "finnish_biblia": "Sillä väärä voitto tekee viisaan hulluksi, ja lahja turmelee sydämen. ",
       "king_james": "Surely oppression maketh a wise man mad; and a gift destroyeth the heart.",
       "refs": {
         "latin_vulgate": {
+          "src": "7:8"
+        },
+        "douay_rheims": {
           "src": "7:8"
         }
       }
@@ -86,9 +123,14 @@
       "verse": 8,
       "latin_vulgate": " Melior est finis orationis quam principium.  Melior est patiens arrogante. ",
       "hebrew_masoretic": "ט֛וֹב אַחֲרִ֥ית דָּבָ֖ר מֵֽרֵאשִׁית֑וֹ ט֥וֹב אֶֽרֶךְ־ר֖וּחַ מִגְּבַהּ־רֽוּחַ׃",
+      "douay_rheims": "Better is the end of a speech than the beginning. Better is the patient man than the presumptuous.",
+      "finnish_biblia": "Asian loppu on parempi kuin sen alku, ja pitkämielinen on parempi kuin korkeamielinen. ",
       "king_james": "Better is the end of a thing than the beginning thereof: and the patient in spirit is better than the proud in spirit.",
       "refs": {
         "latin_vulgate": {
+          "src": "7:9"
+        },
+        "douay_rheims": {
           "src": "7:9"
         }
       }
@@ -97,9 +139,14 @@
       "verse": 9,
       "latin_vulgate": " Ne sis velox ad irascendum,  quia ira in sinu stulti requiescit. ",
       "hebrew_masoretic": "אַל־תְּבַהֵ֥ל בְּרֽוּחֲךָ֖ לִכְע֑וֹס כִּ֣י כַ֔עַס בְּחֵ֥יק כְּסִילִ֖ים יָנֽוּחַ׃",
+      "douay_rheims": "Be not quickly angry: for anger resteth in the bosom of a fool.",
+      "finnish_biblia": "Älköön mielesi olko pikainen vihaan, sillä viha majautuu tyhmäin poveen. ",
       "king_james": "Be not hasty in thy spirit to be angry: for anger resteth in the bosom of fools.",
       "refs": {
         "latin_vulgate": {
+          "src": "7:10"
+        },
+        "douay_rheims": {
           "src": "7:10"
         }
       }
@@ -108,9 +155,14 @@
       "verse": 10,
       "latin_vulgate": " Ne dicas : Quid putas causæ est  quod priora tempora meliora fuere quam nunc sunt ?  stulta enim est hujuscemodi interrogatio. ",
       "hebrew_masoretic": "אַל־תֹּאמַר֙ מֶ֣ה הָיָ֔ה שֶׁ֤הַיָּמִים֙ הָרִ֣אשֹׁנִ֔ים הָי֥וּ טוֹבִ֖ים מֵאֵ֑לֶּה כִּ֛י לֹ֥א מֵחׇכְמָ֖ה שָׁאַ֥לְתָּ עַל־זֶֽה׃",
+      "douay_rheims": "Say not: What thinkest thou is the cause that former times were better than they are now? for this manner of question is foolish.",
+      "finnish_biblia": "Älä sano: \"Mikä siinä on, että entiset ajat olivat paremmat kuin nykyiset?\" Sillä sitä et viisaudesta kysy. ",
       "king_james": "Say not thou, What is the cause that the former days were better than these? for thou dost not enquire wisely concerning this.",
       "refs": {
         "latin_vulgate": {
+          "src": "7:11"
+        },
+        "douay_rheims": {
           "src": "7:11"
         }
       }
@@ -119,9 +171,14 @@
       "verse": 11,
       "latin_vulgate": " Utilior est sapientia cum divitiis,  et magis prodest videntibus solem. ",
       "hebrew_masoretic": "טוֹבָ֥ה חׇכְמָ֖ה עִֽם־נַחֲלָ֑ה וְיֹתֵ֖ר לְרֹאֵ֥י הַשָּֽׁמֶשׁ׃",
+      "douay_rheims": "Wisdom with riches is more profitable, and bringeth more advantage to them that see the sun.",
+      "finnish_biblia": "Viisaus on yhtä hyvä kuin perintöosa ja on etu niille, jotka ovat näkemässä aurinkoa. ",
       "king_james": "Wisdom is good with an inheritance: and by it there is profit to them that see the sun.",
       "refs": {
         "latin_vulgate": {
+          "src": "7:12"
+        },
+        "douay_rheims": {
           "src": "7:12"
         }
       }
@@ -130,9 +187,14 @@
       "verse": 12,
       "latin_vulgate": " Sicut enim protegit sapientia, sic protegit pecunia ;  hoc autem plus habet eruditio et sapientia,  quod vitam tribuunt possessori suo. ",
       "hebrew_masoretic": "כִּ֛י בְּצֵ֥ל הַֽחׇכְמָ֖ה בְּצֵ֣ל הַכָּ֑סֶף וְיִתְר֣וֹן דַּ֔עַת הַֽחׇכְמָ֖ה תְּחַיֶּ֥ה בְעָלֶֽיהָ׃",
+      "douay_rheims": "For as wisdom is a defence, so money is a defence: but learning and wisdom excel in this, that they give life to him that possesseth them.",
+      "finnish_biblia": "Sillä viisauden varjossa on kuin rahan varjossa, mutta tieto on hyödyllisempi: viisaus pitää haltijansa elossa. ",
       "king_james": "For wisdom is a defence, and money is a defence: but the excellency of knowledge is, that wisdom giveth life to them that have it.",
       "refs": {
         "latin_vulgate": {
+          "src": "7:13"
+        },
+        "douay_rheims": {
           "src": "7:13"
         }
       }
@@ -141,9 +203,14 @@
       "verse": 13,
       "latin_vulgate": " Considera opera Dei,  quod nemo possit corrigere quem ille despexerit. ",
       "hebrew_masoretic": "רְאֵ֖ה אֶת־מַעֲשֵׂ֣ה הָאֱלֹהִ֑ים כִּ֣י מִ֤י יוּכַל֙ לְתַקֵּ֔ן אֵ֖ת אֲשֶׁ֥ר עִוְּתֽוֹ׃",
+      "douay_rheims": "Consider the works of God, that no man can correct whom he hath despised.",
+      "finnish_biblia": "Katso Jumalan tekoja; sillä kuka voi sen suoristaa, minkä hän on vääräksi tehnyt? ",
       "king_james": "Consider the work of God: for who can make that straight, which he hath made crooked?",
       "refs": {
         "latin_vulgate": {
+          "src": "7:14"
+        },
+        "douay_rheims": {
           "src": "7:14"
         }
       }
@@ -152,9 +219,14 @@
       "verse": 14,
       "latin_vulgate": " In die bona fruere bonis,  et malam diem præcave ;  sicut enim hanc, sic et illam fecit Deus,  ut non inveniat homo contra eum justas querimonias. ",
       "hebrew_masoretic": "בְּי֤וֹם טוֹבָה֙ הֱיֵ֣ה בְט֔וֹב וּבְי֥וֹם רָעָ֖ה רְאֵ֑ה גַּ֣ם אֶת־זֶ֤ה לְעֻמַּת־זֶה֙ עָשָׂ֣ה הָֽאֱלֹהִ֔ים עַל־דִּבְרַ֗ת שֶׁלֹּ֨א יִמְצָ֧א הָֽאָדָ֛ם אַחֲרָ֖יו מְאֽוּמָה׃",
+      "douay_rheims": "In the good day enjoy good things, and beware beforehand of the evil day: for God hath made both the one and the other, that man may not find against him any just complaint.",
+      "finnish_biblia": "Hyvänä päivänä ole hyvillä mielin, ja pahana päivänä ymmärrä, että toisen niinkuin toisenkin on Jumala tehnyt, koskapa ihminen ei saa mitään siitä, mikä hänen jälkeensä tulee. ",
       "king_james": "In the day of prosperity be joyful, but in the day of adversity consider: God also hath set the one over against the other, to the end that man should find nothing after him.",
       "refs": {
         "latin_vulgate": {
+          "src": "7:15"
+        },
+        "douay_rheims": {
           "src": "7:15"
         }
       }
@@ -163,9 +235,14 @@
       "verse": 15,
       "latin_vulgate": " Hæc quoque vidi in diebus vanitatis meæ :  justus perit in justitia sua,  et impius multo vivit tempore in malitia sua. ",
       "hebrew_masoretic": "אֶת־הַכֹּ֥ל רָאִ֖יתִי בִּימֵ֣י הֶבְלִ֑י יֵ֤שׁ צַדִּיק֙ אֹבֵ֣ד בְּצִדְק֔וֹ וְיֵ֣שׁ רָשָׁ֔ע מַאֲרִ֖יךְ בְּרָעָתֽוֹ׃",
+      "douay_rheims": "These things also I saw in the days of my vanity: A just man perisheth in his justice, and a wicked man liveth a long time in his wickedness.",
+      "finnish_biblia": "Kaikkea olen tullut näkemään turhina päivinäni: on vanhurskaita, jotka hukkuvat vanhurskaudessaan, ja on jumalattomia, jotka elävät kauan pahuudessaan. ",
       "king_james": "All things have I seen in the days of my vanity: there is a just man that perisheth in his righteousness, and there is a wicked man that prolongeth his life in his wickedness.",
       "refs": {
         "latin_vulgate": {
+          "src": "7:16"
+        },
+        "douay_rheims": {
           "src": "7:16"
         }
       }
@@ -174,9 +251,14 @@
       "verse": 16,
       "latin_vulgate": " Noli esse justus multum,  neque plus sapias quam necesse est,  ne obstupescas. ",
       "hebrew_masoretic": "אַל־תְּהִ֤י צַדִּיק֙ הַרְבֵּ֔ה וְאַל־תִּתְחַכַּ֖ם יוֹתֵ֑ר לָ֖מָּה תִּשּׁוֹמֵֽם׃",
+      "douay_rheims": "Be not over just: and be not more wise than is necessary, lest thou become stupid.",
+      "finnish_biblia": "Älä ole kovin vanhurskas äläkä esiinny ylen viisaana: miksi tuhoaisit itsesi? ",
       "king_james": "Be not righteous over much; neither make thyself over wise: why shouldest thou destroy thyself?",
       "refs": {
         "latin_vulgate": {
+          "src": "7:17"
+        },
+        "douay_rheims": {
           "src": "7:17"
         }
       }
@@ -185,9 +267,14 @@
       "verse": 17,
       "latin_vulgate": " Ne impie agas multum,  et noli esse stultus,  ne moriaris in tempore non tuo. ",
       "hebrew_masoretic": "אַל־תִּרְשַׁ֥ע הַרְבֵּ֖ה וְאַל־תְּהִ֣י סָכָ֑ל לָ֥מָּה תָמ֖וּת בְּלֹ֥א עִתֶּֽךָ׃",
+      "douay_rheims": "Be not overmuch wicked: and be not foolish, lest thou die before thy time.",
+      "finnish_biblia": "Älä ole kovin jumalaton, äläkä ole tyhmä: miksi kuolisit ennen aikaasi? ",
       "king_james": "Be not over much wicked, neither be thou foolish: why shouldest thou die before thy time?",
       "refs": {
         "latin_vulgate": {
+          "src": "7:18"
+        },
+        "douay_rheims": {
           "src": "7:18"
         }
       }
@@ -196,9 +283,14 @@
       "verse": 18,
       "latin_vulgate": " Bonum est te sustentare justum :  sed et ab illo ne subtrahas manum tuam ;  quia qui timet Deum nihil negligit. ",
       "hebrew_masoretic": "ט֚וֹב אֲשֶׁ֣ר תֶּאֱחֹ֣ז בָּזֶ֔ה וְגַם־מִזֶּ֖ה אַל־תַּנַּ֣ח אֶת־יָדֶ֑ךָ כִּֽי־יְרֵ֥א אֱלֹהִ֖ים יֵצֵ֥א אֶת־כֻּלָּֽם׃",
+      "douay_rheims": "It is good that thou shouldst hold up the just, yea and from him withdraw not thy hand: for he that feareth God, neglecteth nothing.",
+      "finnish_biblia": "Hyvä on, että pidät kiinni toisesta etkä hellitä kättäsi toisestakaan, sillä Jumalaa pelkääväinen selviää näistä kaikista. ",
       "king_james": "It is good that thou shouldest take hold of this; yea, also from this withdraw not thine hand: for he that feareth God shall come forth of them all.",
       "refs": {
         "latin_vulgate": {
+          "src": "7:19"
+        },
+        "douay_rheims": {
           "src": "7:19"
         }
       }
@@ -207,9 +299,14 @@
       "verse": 19,
       "latin_vulgate": " Sapientia confortavit sapientem  super decem principes civitatis ; ",
       "hebrew_masoretic": "הַֽחׇכְמָ֖ה תָּעֹ֣ז לֶחָכָ֑ם מֵֽעֲשָׂרָה֙ שַׁלִּיטִ֔ים אֲשֶׁ֥ר הָי֖וּ בָּעִֽיר׃",
+      "douay_rheims": "Wisdom hath strengthened the wise more than ten princes of the city.",
+      "finnish_biblia": "Viisaus auttaa viisasta voimakkaammin kuin kymmenen vallanpitäjää, jotka ovat kaupungissa. ",
       "king_james": "Wisdom strengtheneth the wise more than ten mighty men which are in the city.",
       "refs": {
         "latin_vulgate": {
+          "src": "7:20"
+        },
+        "douay_rheims": {
           "src": "7:20"
         }
       }
@@ -218,9 +315,14 @@
       "verse": 20,
       "latin_vulgate": " non est enim homo justus in terra  qui faciat bonum et non peccet. ",
       "hebrew_masoretic": "כִּ֣י אָדָ֔ם אֵ֥ין צַדִּ֖יק בָּאָ֑רֶץ אֲשֶׁ֥ר יַעֲשֶׂה־טּ֖וֹב וְלֹ֥א יֶחֱטָֽא׃",
+      "douay_rheims": "For there is no just man upon earth, that doth good, and sinneth not.",
+      "finnish_biblia": "Sillä ei ole maan päällä ihmistä niin vanhurskasta, että hän tekisi vain hyvää eikä tekisi syntiä. ",
       "king_james": "For there is not a just man upon earth, that doeth good, and sinneth not.",
       "refs": {
         "latin_vulgate": {
+          "src": "7:21"
+        },
+        "douay_rheims": {
           "src": "7:21"
         }
       }
@@ -229,9 +331,14 @@
       "verse": 21,
       "latin_vulgate": " Sed et cunctis sermonibus qui dicuntur  ne accomodes cor tuum,  ne forte audias servum tuum maledicentem tibi ; ",
       "hebrew_masoretic": "גַּ֤ם לְכׇל־הַדְּבָרִים֙ אֲשֶׁ֣ר יְדַבֵּ֔רוּ אַל־תִּתֵּ֖ן לִבֶּ֑ךָ אֲשֶׁ֛ר לֹֽא־תִשְׁמַ֥ע אֶֽת־עַבְדְּךָ֖ מְקַלְלֶֽךָ׃",
+      "douay_rheims": "But do not apply thy heart to all words that are spoken: lest perhaps thou hear thy servant reviling thee.",
+      "finnish_biblia": "Älä myöskään pane mieleesi kaikkia puheita, mitä puhutaan, ettet kuulisi palvelijasi sinua kiroilevan. ",
       "king_james": "Also take no heed unto all words that are spoken; lest thou hear thy servant curse thee:",
       "refs": {
         "latin_vulgate": {
+          "src": "7:22"
+        },
+        "douay_rheims": {
           "src": "7:22"
         }
       }
@@ -240,9 +347,14 @@
       "verse": 22,
       "latin_vulgate": " scit enim conscientia tua  quia et tu crebro maledixisti aliis. ",
       "hebrew_masoretic": "כִּ֛י גַּם־פְּעָמִ֥ים רַבּ֖וֹת יָדַ֣ע לִבֶּ֑ךָ אֲשֶׁ֥ר גַּם־[אַתָּ֖ה] (את) קִלַּ֥לְתָּ אֲחֵרִֽים׃",
+      "douay_rheims": "For thy conscience knoweth that thou also hast often spoken evil of others.",
+      "finnish_biblia": "Sillä oma sydämesikin tietää, että myös sinä olet monta kertaa kiroillut muita. ",
       "king_james": "For oftentimes also thine own heart knoweth that thou thyself likewise hast cursed others.",
       "refs": {
         "latin_vulgate": {
+          "src": "7:23"
+        },
+        "douay_rheims": {
           "src": "7:23"
         }
       }
@@ -251,9 +363,14 @@
       "verse": 23,
       "latin_vulgate": " Cuncta tentavi in sapientia.  Dixi : Sapiens efficiar :  et ipsa longius recessit a me, ",
       "hebrew_masoretic": "כׇּל־זֹ֖ה נִסִּ֣יתִי בַֽחׇכְמָ֑ה אָמַ֣רְתִּי אֶחְכָּ֔מָה וְהִ֖יא רְחוֹקָ֥ה מִמֶּֽנִּי׃",
+      "douay_rheims": "I have tried all things in wisdom. I have said: I will be wise: and it departed farther from me,",
+      "finnish_biblia": "Kaiken tämän olen viisaudella koetellut. Minä sanoin: \"Tahdon tulla viisaaksi\", mutta se pysyi minusta kaukana. ",
       "king_james": "All this have I proved by wisdom: I said, I will be wise; but it was far from me.",
       "refs": {
         "latin_vulgate": {
+          "src": "7:24"
+        },
+        "douay_rheims": {
           "src": "7:24"
         }
       }
@@ -262,9 +379,14 @@
       "verse": 24,
       "latin_vulgate": " multo magis quam erat.  Et alta profunditas, quis inveniet eam ? ",
       "hebrew_masoretic": "רָח֖וֹק מַה־שֶּׁהָיָ֑ה וְעָמֹ֥ק ׀ עָמֹ֖ק מִ֥י יִמְצָאֶֽנּוּ׃",
+      "douay_rheims": "Much more than it was: it is a great depth, who shall find it out?",
+      "finnish_biblia": "Kaukana on kaiken olemus ja syvällä, syvällä; kuka voi sen löytää? ",
       "king_james": "That which is far off, and exceeding deep, who can find it out?",
       "refs": {
         "latin_vulgate": {
+          "src": "7:25"
+        },
+        "douay_rheims": {
           "src": "7:25"
         }
       }
@@ -273,9 +395,14 @@
       "verse": 25,
       "latin_vulgate": " Lustravi universa animo meo,  ut scirem et considerarem,  et quærerem sapientiam, et rationem,  et ut cognoscerem impietatem stulti,  et errorem imprudentium : ",
       "hebrew_masoretic": "סַבּ֨וֹתִֽי אֲנִ֤י וְלִבִּי֙ לָדַ֣עַת וְלָת֔וּר וּבַקֵּ֥שׁ חׇכְמָ֖ה וְחֶשְׁבּ֑וֹן וְלָדַ֙עַת֙ רֶ֣שַׁע כֶּ֔סֶל וְהַסִּכְל֖וּת הוֹלֵלֽוֹת׃",
+      "douay_rheims": "I have surveyed all things with my mind, to know, and consider, and seek out wisdom and reason: and to know the wickedness of the fool, and the error of the imprudent:",
+      "finnish_biblia": "Minä ryhdyin sydämessäni oppimaan, miettimään ja etsimään viisautta ja tutkistelun tuloksia, tullakseni tuntemaan jumalattomuuden typeryydeksi ja tyhmyyden mielettömyydeksi. ",
       "king_james": "I applied mine heart to know, and to search, and to seek out wisdom, and the reason of things, and to know the wickedness of folly, even of foolishness and madness:",
       "refs": {
         "latin_vulgate": {
+          "src": "7:26"
+        },
+        "douay_rheims": {
           "src": "7:26"
         }
       }
@@ -284,9 +411,14 @@
       "verse": 26,
       "latin_vulgate": " et inveni amariorem morte mulierem,  quæ laqueus venatorum est,  et sagena cor ejus ;  vincula sunt manus illius.  Qui placet Deo effugiet illam ;  qui autem peccator est capietur ab illa. ",
       "hebrew_masoretic": "וּמוֹצֶ֨א אֲנִ֜י מַ֣ר מִמָּ֗וֶת אֶת־הָֽאִשָּׁה֙ אֲשֶׁר־הִ֨יא מְצוֹדִ֧ים וַחֲרָמִ֛ים לִבָּ֖הּ אֲסוּרִ֣ים יָדֶ֑יהָ ט֞וֹב לִפְנֵ֤י הָאֱלֹהִים֙ יִמָּלֵ֣ט מִמֶּ֔נָּה וְחוֹטֵ֖א יִלָּ֥כֶד בָּֽהּ׃",
+      "douay_rheims": "And I have found a woman more bitter than death, who is the hunter's snare, and her heart is a net, and her hands are bands. He that pleaseth God shall escape from her: but he that is a sinner, shall be caught by her.",
+      "finnish_biblia": "Ja minä löysin sen, mikä on kuolemaa katkerampi: naisen, joka on verkko, jonka sydän on paula ja jonka kädet ovat kahleet. Se, joka on otollinen Jumalan edessä, pelastuu hänestä, mutta synnintekijä häneen takertuu. ",
       "king_james": "And I find more bitter than death the woman, whose heart is snares and nets, and her hands as bands: whoso pleaseth God shall escape from her; but the sinner shall be taken by her.",
       "refs": {
         "latin_vulgate": {
+          "src": "7:27"
+        },
+        "douay_rheims": {
           "src": "7:27"
         }
       }
@@ -295,9 +427,14 @@
       "verse": 27,
       "latin_vulgate": " Ecce hoc inveni, dixit Ecclesiastes,  unum et alterum ut invenirem rationem, ",
       "hebrew_masoretic": "רְאֵה֙ זֶ֣ה מָצָ֔אתִי אָמְרָ֖ה קֹהֶ֑לֶת אַחַ֥ת לְאַחַ֖ת לִמְצֹ֥א חֶשְׁבּֽוֹן׃",
+      "douay_rheims": "Lo this have I found, said Ecclesiastes, weighing one thing after another, that I might find out the account,",
+      "finnish_biblia": "Katso, tämän minä olen löytänyt, sanoi saarnaaja, pyrkiessäni asia asialta löytämään tutkistelun tulosta; ",
       "king_james": "Behold, this have I found, saith the preacher, counting one by one, to find out the account:",
       "refs": {
         "latin_vulgate": {
+          "src": "7:28"
+        },
+        "douay_rheims": {
           "src": "7:28"
         }
       }
@@ -306,9 +443,14 @@
       "verse": 28,
       "latin_vulgate": " quam adhuc quærit anima mea,  et non inveni.  Virum de mille unum reperi ;  mulierem ex omnibus non inveni. ",
       "hebrew_masoretic": "אֲשֶׁ֛ר עוֹד־בִּקְשָׁ֥ה נַפְשִׁ֖י וְלֹ֣א מָצָ֑אתִי אָדָ֞ם אֶחָ֤ד מֵאֶ֙לֶף֙ מָצָ֔אתִי וְאִשָּׁ֥ה בְכׇל־אֵ֖לֶּה לֹ֥א מָצָֽאתִי׃",
+      "douay_rheims": "Which yet my soul seeketh, and I have not found it. One man among a thousand I have found, a woman among them all I have not found.",
+      "finnish_biblia": "mitä sieluni on yhäti etsinyt, mutta mitä en ole löytänyt, on tämä: olen löytänyt tuhannesta yhden miehen, mutta koko siitä luvusta en ole löytänyt yhtäkään naista. ",
       "king_james": "Which yet my soul seeketh, but I find not: one man among a thousand have I found; but a woman among all those have I not found.",
       "refs": {
         "latin_vulgate": {
+          "src": "7:29"
+        },
+        "douay_rheims": {
           "src": "7:29"
         }
       }
@@ -317,9 +459,14 @@
       "verse": 29,
       "latin_vulgate": " Solummodo hoc inveni,  quod fecerit Deus hominem rectum,  et ipse se infinitis miscuerit quæstionibus.  Quis talis ut sapiens est ?  et quis cognovit solutionem verbi ?  ",
       "hebrew_masoretic": "לְבַד֙ רְאֵה־זֶ֣ה מָצָ֔אתִי אֲשֶׁ֨ר עָשָׂ֧ה הָאֱלֹהִ֛ים אֶת־הָאָדָ֖ם יָשָׁ֑ר וְהֵ֥מָּה בִקְשׁ֖וּ חִשְּׁבֹנ֥וֹת רַבִּֽים׃",
+      "douay_rheims": "Only this I have found, that God made man right, and he hath entangled himself with an infinity of questions. Who is as the wise man? and who hath known the resolution of the word? ",
+      "finnish_biblia": "Katso, tämän ainoastaan olen löytänyt: että Jumala on tehnyt ihmiset suoriksi, mutta itse he etsivät monia mutkia.   ",
       "king_james": "Lo, this only have I found, that God hath made man upright; but they have sought out many inventions. ",
       "refs": {
         "latin_vulgate": {
+          "src": "7:30"
+        },
+        "douay_rheims": {
           "src": "7:30"
         }
       }

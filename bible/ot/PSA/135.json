@@ -2,6 +2,8 @@
   "book_id": "PSA",
   "latin_name": "Liber Psalmorum",
   "hebrew_name": "תְּהִלִּים",
+  "douay_name": "Psalms",
+  "finnish_name": "Psalmit",
   "english_name": "Psalms",
   "chapter": 135,
   "verses": [
@@ -9,9 +11,14 @@
       "verse": 1,
       "latin_vulgate": "Alleluja.   Laudate nomen Domini ;  laudate, servi, Dominum : ",
       "hebrew_masoretic": "הַ֥לְלוּ־יָ֨הּ ׀ הַֽ֭לְלוּ אֶת־שֵׁ֣ם יְהֹוָ֑ה הַֽ֝לְל֗וּ עַבְדֵ֥י יְהֹוָֽה׃",
+      "douay_rheims": "Alleluia. Praise ye the name of the Lord: O you his servants, praise the Lord:",
+      "finnish_biblia": "Halleluja! Ylistäkäät Herran nimeä, kiittäkäät, Herran palveliat. ",
       "king_james": "Praise ye the Lord. Praise ye the name of the Lord; praise him, O ye servants of the Lord.",
       "refs": {
         "latin_vulgate": {
+          "src": "134:1"
+        },
+        "douay_rheims": {
           "src": "134:1"
         }
       }
@@ -20,9 +27,14 @@
       "verse": 2,
       "latin_vulgate": " qui statis in domo Domini,  in atriis domus Dei nostri. ",
       "hebrew_masoretic": "שֶׁ֣֭עֹמְדִים בְּבֵ֣ית יְהֹוָ֑ה בְּ֝חַצְר֗וֹת בֵּ֣ית אֱלֹהֵֽינוּ׃",
+      "douay_rheims": "You that stand in the house of the Lord, in the courts of the house of our God.",
+      "finnish_biblia": "Te kuin seisotte Herran huoneessa, meidän Jumalamme esihuoneissa. ",
       "king_james": "Ye that stand in the house of the Lord, in the courts of the house of our God,",
       "refs": {
         "latin_vulgate": {
+          "src": "134:2"
+        },
+        "douay_rheims": {
           "src": "134:2"
         }
       }
@@ -31,9 +43,14 @@
       "verse": 3,
       "latin_vulgate": " Laudate Dominum, quia bonus Dominus ;  psallite nomini ejus, quoniam suave. ",
       "hebrew_masoretic": "הַֽלְלוּ־יָ֭הּ כִּֽי־ט֣וֹב יְהֹוָ֑ה זַמְּר֥וּ לִ֝שְׁמ֗וֹ כִּ֣י נָעִֽים׃",
+      "douay_rheims": "Praise ye the Lord, for the Lord is good: sing ye to his name, for it is sweet.",
+      "finnish_biblia": "Kiittäkäät Herraa, sillä Herra on hyvä, ja veisatkaat kiitosta hänen nimellensä; sillä se on suloinen. ",
       "king_james": "Praise the Lord; for the Lord is good: sing praises unto his name; for it is pleasant.",
       "refs": {
         "latin_vulgate": {
+          "src": "134:3"
+        },
+        "douay_rheims": {
           "src": "134:3"
         }
       }
@@ -42,9 +59,14 @@
       "verse": 4,
       "latin_vulgate": " Quoniam Jacob elegit sibi Dominus ;  Israël in possessionem sibi. ",
       "hebrew_masoretic": "כִּֽי־יַעֲקֹ֗ב בָּחַ֣ר ל֣וֹ יָ֑הּ יִ֝שְׂרָאֵ֗ל לִסְגֻלָּתֽוֹ׃",
+      "douay_rheims": "For the Lord hath chosen Jacob unto himself: Israel for his own possession.",
+      "finnish_biblia": "Sillä Herra on itsellensä valinnut Jakobin, Israelin omaksensa. ",
       "king_james": "For the Lord hath chosen Jacob unto himself, and Israel for his peculiar treasure.",
       "refs": {
         "latin_vulgate": {
+          "src": "134:4"
+        },
+        "douay_rheims": {
           "src": "134:4"
         }
       }
@@ -53,9 +75,14 @@
       "verse": 5,
       "latin_vulgate": " Quia ego cognovi quod magnus est Dominus,  et Deus noster præ omnibus diis. ",
       "hebrew_masoretic": "כִּ֤י אֲנִ֣י יָ֭דַעְתִּי כִּֽי־גָד֣וֹל יְהֹוָ֑ה וַ֝אֲדֹנֵ֗ינוּ מִכׇּל־אֱלֹהִֽים׃",
+      "douay_rheims": "For I have known that the Lord is great, and our God is above all gods.",
+      "finnish_biblia": "Minä tiedän, että Herra on suuri, ja meidän Jumalamme kaikkein jumalain ylitse. ",
       "king_james": "For I know that the Lord is great, and that our Lord is above all gods.",
       "refs": {
         "latin_vulgate": {
+          "src": "134:5"
+        },
+        "douay_rheims": {
           "src": "134:5"
         }
       }
@@ -64,9 +91,14 @@
       "verse": 6,
       "latin_vulgate": " Omnia quæcumque voluit Dominus fecit,  in cælo, in terra, in mari et in omnibus abyssis. ",
       "hebrew_masoretic": "כֹּ֤ל אֲשֶׁר־חָפֵ֥ץ יְהֹוָ֗ה עָ֫שָׂ֥ה בַּשָּׁמַ֥יִם וּבָאָ֑רֶץ בַּ֝יַּמִּ֗ים וְכׇל־תְּהֹמֽוֹת׃",
+      "douay_rheims": "Whatsoever the Lord pleased he hath done, in heaven, in earth, in the sea, and in all the deeps.",
+      "finnish_biblia": "Kaikki, mitä Herra tahtoo, niin hän tekee, taivaassa ja maassa, meressä ja kaikessa syvyydessä; ",
       "king_james": "Whatsoever the Lord pleased, that did he in heaven, and in earth, in the seas, and all deep places.",
       "refs": {
         "latin_vulgate": {
+          "src": "134:6"
+        },
+        "douay_rheims": {
           "src": "134:6"
         }
       }
@@ -75,9 +107,14 @@
       "verse": 7,
       "latin_vulgate": " Educens nubes ab extremo terræ,  fulgura in pluviam fecit ;  qui producit ventos de thesauris suis. ",
       "hebrew_masoretic": "מַעֲלֶ֣ה נְשִׂאִים֮ מִקְצֵ֢ה הָ֫אָ֥רֶץ בְּרָקִ֣ים לַמָּטָ֣ר עָשָׂ֑ה מֽוֹצֵא־ר֝֗וּחַ מֵאֽוֹצְרוֹתָֽיו׃",
+      "douay_rheims": "He bringeth up clouds from the end of the earth: he hath made lightnings for the rain. He bringeth forth winds out of his stores:",
+      "finnish_biblia": "Joka pilvet nostaa maan ääristä, joka pitkäisen leimauksesta sateen saattaa, ja tuulen tuo ulos tavaroistansa; ",
       "king_james": "He causeth the vapours to ascend from the ends of the earth; he maketh lightnings for the rain; he bringeth the wind out of his treasuries.",
       "refs": {
         "latin_vulgate": {
+          "src": "134:7"
+        },
+        "douay_rheims": {
           "src": "134:7"
         }
       }
@@ -86,9 +123,14 @@
       "verse": 8,
       "latin_vulgate": " Qui percussit primogenita Ægypti,  ab homine usque ad pecus. ",
       "hebrew_masoretic": "שֶׁ֭הִכָּה בְּכוֹרֵ֣י מִצְרָ֑יִם מֵ֝אָדָ֗ם עַד־בְּהֵמָֽה׃",
+      "douay_rheims": "He slew the firstborn of Egypt from man even unto beast.",
+      "finnish_biblia": "Joka esikoiset Egyptissä löi, sekä ihmisistä että karjasta, ",
       "king_james": "Who smote the firstborn of Egypt, both of man and beast.",
       "refs": {
         "latin_vulgate": {
+          "src": "134:8"
+        },
+        "douay_rheims": {
           "src": "134:8"
         }
       }
@@ -97,9 +139,14 @@
       "verse": 9,
       "latin_vulgate": " Et misit signa et prodigia in medio tui, Ægypte :  in Pharaonem, et in omnes servos ejus. ",
       "hebrew_masoretic": "שָׁלַ֤ח ׀ אוֹתֹ֣ת וּ֭מֹפְתִים בְּתוֹכֵ֣כִי מִצְרָ֑יִם בְּ֝פַרְעֹ֗ה וּבְכׇל־עֲבָדָֽיו׃",
+      "douay_rheims": "He sent forth signs and wonders in the midst of thee, O Egypt: upon Pharao, and upon all his servants.",
+      "finnish_biblia": "Ja antoi merkkinsä ja ihmeensä tulla Egyptin keskelle, Pharaolle ja kaikille hänen palvelioillensa; ",
       "king_james": "Who sent tokens and wonders into the midst of thee, O Egypt, upon Pharaoh, and upon all his servants.",
       "refs": {
         "latin_vulgate": {
+          "src": "134:9"
+        },
+        "douay_rheims": {
           "src": "134:9"
         }
       }
@@ -108,9 +155,14 @@
       "verse": 10,
       "latin_vulgate": " Qui percussit gentes multas,  et occidit reges fortes : ",
       "hebrew_masoretic": "שֶׁ֭הִכָּה גּוֹיִ֣ם רַבִּ֑ים וְ֝הָרַ֗ג מְלָכִ֥ים עֲצוּמִֽים׃",
+      "douay_rheims": "He smote many nations, and slew mighty kings:",
+      "finnish_biblia": "Joka monet pakanat löi, ja tappoi väkevät kuninkaat: ",
       "king_james": "Who smote great nations, and slew mighty kings;",
       "refs": {
         "latin_vulgate": {
+          "src": "134:10"
+        },
+        "douay_rheims": {
           "src": "134:10"
         }
       }
@@ -119,9 +171,14 @@
       "verse": 11,
       "latin_vulgate": " Sehon, regem Amorrhæorum, et Og, regem Basan,  et omnia regna Chanaan : ",
       "hebrew_masoretic": "לְסִיח֤וֹן ׀ מֶ֤לֶךְ הָאֱמֹרִ֗י וּ֭לְעוֹג מֶ֣לֶךְ הַבָּשָׁ֑ן וּ֝לְכֹ֗ל מַמְלְכ֥וֹת כְּנָֽעַן׃",
+      "douay_rheims": "Sehon king of the Amorrhites, and Og king of Basan, and all the kingdoms of Chanaan.",
+      "finnish_biblia": "Sihonin Amorilaisten kuninkaan, ja Ogin Basanin kuninkaan, ja kaikki Kanaanin valtakunnat, ",
       "king_james": "Sihon king of the Amorites, and Og king of Bashan, and all the kingdoms of Canaan:",
       "refs": {
         "latin_vulgate": {
+          "src": "134:11"
+        },
+        "douay_rheims": {
           "src": "134:11"
         }
       }
@@ -130,9 +187,14 @@
       "verse": 12,
       "latin_vulgate": " et dedit terram eorum hæreditatem,  hæreditatem Israël populo suo. ",
       "hebrew_masoretic": "וְנָתַ֣ן אַרְצָ֣ם נַחֲלָ֑ה נַ֝חֲלָ֗ה לְיִשְׂרָאֵ֥ל עַמּֽוֹ׃",
+      "douay_rheims": "And gave their land for an inheritance, for an inheritance to his people Israel.",
+      "finnish_biblia": "Ja antoi heidän maansa perimiseksi, Israelille kansallensa perimiseksi. ",
       "king_james": "And gave their land for an heritage, an heritage unto Israel his people.",
       "refs": {
         "latin_vulgate": {
+          "src": "134:12"
+        },
+        "douay_rheims": {
           "src": "134:12"
         }
       }
@@ -141,9 +203,14 @@
       "verse": 13,
       "latin_vulgate": " Domine, nomen tuum in æternum ;  Domine, memoriale tuum in generationem et generationem. ",
       "hebrew_masoretic": "יְ֭הֹוָה שִׁמְךָ֣ לְעוֹלָ֑ם יְ֝הֹוָ֗ה זִכְרְךָ֥ לְדֹר־וָדֹֽר׃",
+      "douay_rheims": "Thy name, O Lord, is for ever: thy memorial, O Lord, unto all generations.",
+      "finnish_biblia": "Herra, sinun nimes pysyy ijankaikkisesti: Herra, sinun muistos pysyy suvusta sukuun. ",
       "king_james": "Thy name, O Lord, endureth for ever; and thy memorial, O Lord, throughout all generations.",
       "refs": {
         "latin_vulgate": {
+          "src": "134:13"
+        },
+        "douay_rheims": {
           "src": "134:13"
         }
       }
@@ -152,9 +219,14 @@
       "verse": 14,
       "latin_vulgate": " Quia judicabit Dominus populum suum,  et in servis suis deprecabitur. ",
       "hebrew_masoretic": "כִּֽי־יָדִ֣ין יְהֹוָ֣ה עַמּ֑וֹ וְעַל־עֲ֝בָדָ֗יו יִתְנֶחָֽם׃",
+      "douay_rheims": "For the Lord will judge his people, and will be entreated in favour of his servants.",
+      "finnish_biblia": "Sillä Herra tuomitsee kansansa, ja on palvelioillensa armollinen. ",
       "king_james": "For the Lord will judge his people, and he will repent himself concerning his servants.",
       "refs": {
         "latin_vulgate": {
+          "src": "134:14"
+        },
+        "douay_rheims": {
           "src": "134:14"
         }
       }
@@ -163,9 +235,14 @@
       "verse": 15,
       "latin_vulgate": " Simulacra gentium argentum et aurum,  opera manuum hominum. ",
       "hebrew_masoretic": "עֲצַבֵּ֣י הַ֭גּוֹיִם כֶּ֣סֶף וְזָהָ֑ב מַ֝עֲשֵׂ֗ה יְדֵ֣י אָדָֽם׃",
+      "douay_rheims": "The idols of the Gentiles are silver and gold, the works of men's hands.",
+      "finnish_biblia": "Pakanain epäjumalat ovat hopia ja kulta, ihmisten käsillä tehdyt. ",
       "king_james": "The idols of the heathen are silver and gold, the work of men’s hands.",
       "refs": {
         "latin_vulgate": {
+          "src": "134:15"
+        },
+        "douay_rheims": {
           "src": "134:15"
         }
       }
@@ -174,9 +251,14 @@
       "verse": 16,
       "latin_vulgate": " Os habent, et non loquentur ;  oculos habent, et non videbunt. ",
       "hebrew_masoretic": "פֶּֽה־לָ֭הֶם וְלֹ֣א יְדַבֵּ֑רוּ עֵינַ֥יִם לָ֝הֶ֗ם וְלֹ֣א יִרְאֽוּ׃",
+      "douay_rheims": "They have a mouth, but they speak not: they have eyes, but they see not.",
+      "finnish_biblia": "Heillä on suu, ja ei puhu: heillä ovat silmät, ja ei näe; ",
       "king_james": "They have mouths, but they speak not; eyes have they, but they see not;",
       "refs": {
         "latin_vulgate": {
+          "src": "134:16"
+        },
+        "douay_rheims": {
           "src": "134:16"
         }
       }
@@ -185,9 +267,14 @@
       "verse": 17,
       "latin_vulgate": " Aures habent, et non audient ;  neque enim est spiritus in ore ipsorum. ",
       "hebrew_masoretic": "אׇזְנַ֣יִם לָ֭הֶם וְלֹ֣א יַאֲזִ֑ינוּ אַ֝֗ף אֵין־יֶשׁ־ר֥וּחַ בְּפִיהֶֽם׃",
+      "douay_rheims": "They have ears, but they hear not: neither is there any breath in their mouths.",
+      "finnish_biblia": "Heillä ovat korvat, ja ei kuule: eikä ole henkeä heidän suussansa. ",
       "king_james": "They have ears, but they hear not; neither is there any breath in their mouths.",
       "refs": {
         "latin_vulgate": {
+          "src": "134:17"
+        },
+        "douay_rheims": {
           "src": "134:17"
         }
       }
@@ -196,9 +283,14 @@
       "verse": 18,
       "latin_vulgate": " Similes illis fiant qui faciunt ea,  et omnes qui confidunt in eis. ",
       "hebrew_masoretic": "כְּ֭מוֹהֶם יִהְי֣וּ עֹשֵׂיהֶ֑ם כֹּ֖ל אֲשֶׁר־בֹּטֵ֣חַ בָּהֶֽם׃",
+      "douay_rheims": "Let them that make them be like to them: and every one that trusteth in them.",
+      "finnish_biblia": "Jotka niitä tekevät, he ovat niiden kaltaiset, ja kaikki, jotka heihin uskaltavat. ",
       "king_james": "They that make them are like unto them: so is every one that trusteth in them.",
       "refs": {
         "latin_vulgate": {
+          "src": "134:18"
+        },
+        "douay_rheims": {
           "src": "134:18"
         }
       }
@@ -207,9 +299,14 @@
       "verse": 19,
       "latin_vulgate": " Domus Israël, benedicite Domino ;  domus Aaron, benedicite Domino. ",
       "hebrew_masoretic": "בֵּ֣ית יִ֭שְׂרָאֵל בָּרְכ֣וּ אֶת־יְהֹוָ֑ה בֵּ֥ית אַ֝הֲרֹ֗ן בָּרְכ֥וּ אֶת־יְהֹוָֽה׃",
+      "douay_rheims": "Bless the Lord, O house of Israel: bless the Lord, O house of Aaron.",
+      "finnish_biblia": "Te Israelin huoneesta, kiittäkäät Herraa! te Aaronin huoneesta, kiittäkäät Herraa! ",
       "king_james": "Bless the Lord, O house of Israel: bless the Lord, O house of Aaron:",
       "refs": {
         "latin_vulgate": {
+          "src": "134:19"
+        },
+        "douay_rheims": {
           "src": "134:19"
         }
       }
@@ -218,9 +315,14 @@
       "verse": 20,
       "latin_vulgate": " Domus Levi, benedicite Domino ;  qui timetis Dominum, benedicite Domino. ",
       "hebrew_masoretic": "בֵּ֣ית הַ֭לֵּוִי בָּרְכ֣וּ אֶת־יְהֹוָ֑ה יִֽרְאֵ֥י יְ֝הֹוָ֗ה בָּרְכ֥וּ אֶת־יְהֹוָֽה׃",
+      "douay_rheims": "Bless the Lord, O house of Levi: you that fear the Lord, bless the Lord.",
+      "finnish_biblia": "Te Levin huoneesta, kiittäkäät Herraa! te jotka Herraa pelkäätte, kiittäkäät Herraa! ",
       "king_james": "Bless the Lord, O house of Levi: ye that fear the Lord, bless the Lord.",
       "refs": {
         "latin_vulgate": {
+          "src": "134:20"
+        },
+        "douay_rheims": {
           "src": "134:20"
         }
       }
@@ -229,9 +331,14 @@
       "verse": 21,
       "latin_vulgate": " Benedictus Dominus ex Sion,  qui habitat in Jerusalem.  ",
       "hebrew_masoretic": "בָּ֘ר֤וּךְ יְהֹוָ֨ה ׀ מִצִּיּ֗וֹן שֹׁ֘כֵ֤ן יְֽרוּשָׁלָ֗͏ִם הַֽלְלוּ־יָֽהּ׃ {פ}",
+      "douay_rheims": "Blessed be the Lord out of Sion, who dwelleth in Jerusalem. ",
+      "finnish_biblia": "Kiitetty olkoon Herra Zionista, joka Jerusalemissa asuu! Halleluja!   ",
       "king_james": "Blessed be the Lord out of Zion, which dwelleth at Jerusalem. Praise ye the Lord. ",
       "refs": {
         "latin_vulgate": {
+          "src": "134:21"
+        },
+        "douay_rheims": {
           "src": "134:21"
         }
       }

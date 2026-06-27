@@ -2,6 +2,8 @@
   "book_id": "GEN",
   "latin_name": "Genesis",
   "hebrew_name": "בְּרֵאשִׁית",
+  "douay_name": "Genesis",
+  "finnish_name": "1. Mooseksen kirja",
   "english_name": "Genesis",
   "chapter": 16,
   "verses": [
@@ -9,96 +11,128 @@
       "verse": 1,
       "latin_vulgate": "Igitur Sarai, uxor Abram, non genuerat liberos : sed habens ancillam ægyptiam nomine Agar, ",
       "hebrew_masoretic": "וְשָׂרַי֙ אֵ֣שֶׁת אַבְרָ֔ם לֹ֥א יָלְדָ֖ה ל֑וֹ וְלָ֛הּ שִׁפְחָ֥ה מִצְרִ֖ית וּשְׁמָ֥הּ הָגָֽר׃",
+      "douay_rheims": "Now Sarai, the wife of Abram, had brought forth no children: but having a handmaid, an Egyptian, named Agar,",
+      "finnish_biblia": "Ja Sarai Abramin emäntä ei synnyttänyt hänelle. Mutta hänellä oli Egyptiläinen piika, jonka nimi oli Hagar. ",
       "king_james": "Now Sarai Abram’s wife bare him no children: and she had an handmaid, an Egyptian, whose name was Hagar."
     },
     {
       "verse": 2,
       "latin_vulgate": "dixit marito suo : Ecce, conclusit me Dominus, ne parerem. Ingredere ad ancillam meam, si forte saltem ex illa suscipiam filios. Cumque ille acquiesceret deprecanti, ",
       "hebrew_masoretic": "וַתֹּ֨אמֶר שָׂרַ֜י אֶל־אַבְרָ֗ם הִנֵּה־נָ֞א עֲצָרַ֤נִי יְהֹוָה֙ מִלֶּ֔דֶת בֹּא־נָא֙ אֶל־שִׁפְחָתִ֔י אוּלַ֥י אִבָּנֶ֖ה מִמֶּ֑נָּה וַיִּשְׁמַ֥ע אַבְרָ֖ם לְק֥וֹל שָׂרָֽי׃",
+      "douay_rheims": "She said to her husband: Behold, the Lord hath restrained me from bearing: go in unto my handmaid, it may be I may have children of her at least. And when he agreed to her request,",
+      "finnish_biblia": "Ja Sarai sanoi Abramille: katso nyt; Herra on minun sulkenut synnyttämästä, menes siis minun piikani sivuun, jos minä sittenkin saisin lapsia hänestä. Ja Abram otti Sarain sanan. ",
       "king_james": "And Sarai said unto Abram, Behold now, the Lord hath restrained me from bearing: I pray thee, go in unto my maid; it may be that I may obtain children by her. And Abram hearkened to the voice of Sarai."
     },
     {
       "verse": 3,
       "latin_vulgate": "tulit Agar ægyptiam ancillam suam post annos decem quam habitare cœperant in terra Chanaan : et dedit eam viro suo uxorem. ",
       "hebrew_masoretic": "וַתִּקַּ֞ח שָׂרַ֣י אֵֽשֶׁת־אַבְרָ֗ם אֶת־הָגָ֤ר הַמִּצְרִית֙ שִׁפְחָתָ֔הּ מִקֵּץ֙ עֶ֣שֶׂר שָׁנִ֔ים לְשֶׁ֥בֶת אַבְרָ֖ם בְּאֶ֣רֶץ כְּנָ֑עַן וַתִּתֵּ֥ן אֹתָ֛הּ לְאַבְרָ֥ם אִישָׁ֖הּ ל֥וֹ לְאִשָּֽׁה׃",
+      "douay_rheims": "She took Agar the Egyptian her handmaid, ten years after they first dwelt in the land of Chanaan, and gave her to her husband to wife.",
+      "finnish_biblia": "Ja Sarai Abramin emäntä otti Egyptiläisen piikansa Hagarin, sitte kun Abram kymmenen ajastaikaa oli asunut Kanaanin maalla: ja antoi sen miehellensä Abramille emännäksi. ",
       "king_james": "And Sarai Abram’s wife took Hagar her maid the Egyptian, after Abram had dwelt ten years in the land of Canaan, and gave her to her husband Abram to be his wife."
     },
     {
       "verse": 4,
       "latin_vulgate": "Qui ingressus est ad eam. At illa concepisse se videns, despexit dominam suam. ",
       "hebrew_masoretic": "וַיָּבֹ֥א אֶל־הָגָ֖ר וַתַּ֑הַר וַתֵּ֙רֶא֙ כִּ֣י הָרָ֔תָה וַתֵּקַ֥ל גְּבִרְתָּ֖הּ בְּעֵינֶֽיהָ׃",
+      "douay_rheims": "And he went in to her. But she perceiving that she was with child, despised her mistress.",
+      "finnish_biblia": "Ja hän makasi Hagarin tykönä, joka tuli raskaaksi. Koska hän tunsi itsensä raskaaksi, tuli hänen emäntänsä halvaksi hänen silmissänsä. ",
       "king_james": "And he went in unto Hagar, and she conceived: and when she saw that she had conceived, her mistress was despised in her eyes."
     },
     {
       "verse": 5,
       "latin_vulgate": "Dixitque Sarai ad Abram : Inique agis contra me : ego dedi ancillam meam in sinum tuum, quæ videns quod conceperit, despectui me habet : judicet Dominus inter me et te. ",
       "hebrew_masoretic": "וַתֹּ֨אמֶר שָׂרַ֣י אֶל־אַבְרָם֮ חֲמָסִ֣י עָלֶ֒יךָ֒ אָנֹכִ֗י נָתַ֤תִּי שִׁפְחָתִי֙ בְּחֵיקֶ֔ךָ וַתֵּ֙רֶא֙ כִּ֣י הָרָ֔תָה וָאֵקַ֖ל בְּעֵינֶ֑יהָ יִשְׁפֹּ֥ט יְהֹוָ֖ה בֵּינִ֥י וּבֵינֶֽיׄךָ׃",
+      "douay_rheims": "And Sarai said to Abram: Thou dost unjustly with me: I gave my handmaid into thy bosom, and she perceiving herself to be with child, despiseth me. The Lord judge between me and thee.",
+      "finnish_biblia": "Niin sanoi Sarai Abramille: minulle tapahtunut vääryys lankee sinun päälles; minä annoin minun piikani sinun sivuus; ja että hän tunsi itsensä raskaaksi, halpenin minä hänen edessänsä: Herra tuomitkoon minun ja sinun välilläs. ",
       "king_james": "And Sarai said unto Abram, My wrong be upon thee: I have given my maid into thy bosom; and when she saw that she had conceived, I was despised in her eyes: the Lord judge between me and thee."
     },
     {
       "verse": 6,
       "latin_vulgate": "Cui respondens Abram : Ecce, ait, ancilla tua in manu tua est, utere ea ut libet. Affligente igitur eam Sarai, fugam iniit. ",
       "hebrew_masoretic": "וַיֹּ֨אמֶר אַבְרָ֜ם אֶל־שָׂרַ֗י הִנֵּ֤ה שִׁפְחָתֵךְ֙ בְּיָדֵ֔ךְ עֲשִׂי־לָ֖הּ הַטּ֣וֹב בְּעֵינָ֑יִךְ וַתְּעַנֶּ֣הָ שָׂרַ֔י וַתִּבְרַ֖ח מִפָּנֶֽיהָ׃",
+      "douay_rheims": "And Abram made answer, and said to her: Behold thy handmaid is in thy own hand, use her as it pleaseth thee. And when Sarai afflicted her, she ran away.",
+      "finnish_biblia": "Mutta Abram sanoi Saraille: katso, sinun piikas on sinun käsissäs, tee hänen kanssansa mitäs tahdot: Niin Sarai kuritti häntä, ja hän pakeni hänen tyköänsä. ",
       "king_james": "But Abram said unto Sarai, Behold, thy maid is in thy hand; do to her as it pleaseth thee. And when Sarai dealt hardly with her, she fled from her face."
     },
     {
       "verse": 7,
       "latin_vulgate": "Cumque invenisset eam angelus Domini juxta fontem aquæ in solitudine, qui est in via Sur in deserto, ",
       "hebrew_masoretic": "וַֽיִּמְצָאָ֞הּ מַלְאַ֧ךְ יְהֹוָ֛ה עַל־עֵ֥ין הַמַּ֖יִם בַּמִּדְבָּ֑ר עַל־הָעַ֖יִן בְּדֶ֥רֶךְ שֽׁוּר׃",
+      "douay_rheims": "And the angel of the Lord having found her, by a fountain of water in the wilderness, which is in the way to Sur in the desert,",
+      "finnish_biblia": "Mutta Herran enkeli löysi hänen vesilähteen tykönä korvessa: lähteen tykönä Surrin tiellä. ",
       "king_james": "And the angel of the Lord found her by a fountain of water in the wilderness, by the fountain in the way to Shur."
     },
     {
       "verse": 8,
       "latin_vulgate": "dixit ad illam : Agar ancilla Sarai, unde venis ? et quo vadis ? Quæ respondit : A facie Sarai dominæ meæ ego fugio. ",
       "hebrew_masoretic": "וַיֹּאמַ֗ר הָגָ֞ר שִׁפְחַ֥ת שָׂרַ֛י אֵֽי־מִזֶּ֥ה בָ֖את וְאָ֣נָה תֵלֵ֑כִי וַתֹּ֕אמֶר מִפְּנֵי֙ שָׂרַ֣י גְּבִרְתִּ֔י אָנֹכִ֖י בֹּרַֽחַת׃",
+      "douay_rheims": "He said to her: Agar, handmaid of Sarai, whence comest thou? and whither goest thou? And she answered: I flee from the face of Sarai, my mistress.",
+      "finnish_biblia": "Ja sanoi: Hagar, Sarain piika, kustas tulet? ja kuhunkas menet? hän sanoi: minä pakenin emäntääni Saraita. ",
       "king_james": "And he said, Hagar, Sarai’s maid, whence camest thou? and whither wilt thou go? And she said, I flee from the face of my mistress Sarai."
     },
     {
       "verse": 9,
       "latin_vulgate": "Dixitque ei angelus Domini : Revertere ad dominam tuam, et humiliare sub manu illius. ",
       "hebrew_masoretic": "וַיֹּ֤אמֶר לָהּ֙ מַלְאַ֣ךְ יְהֹוָ֔ה שׁ֖וּבִי אֶל־גְּבִרְתֵּ֑ךְ וְהִתְעַנִּ֖י תַּ֥חַת יָדֶֽיהָ׃",
+      "douay_rheims": "And the angel of the Lord said to her: Return to thy mistress, and humble thyself under her hand.",
+      "finnish_biblia": "Ja Herran enkeli sanoi hänelle: palaja emäntäs tykö, ja nöyryytä itses hänen kätensä alle. ",
       "king_james": "And the angel of the Lord said unto her, Return to thy mistress, and submit thyself under her hands."
     },
     {
       "verse": 10,
       "latin_vulgate": "Et rursum : Multiplicans, inquit, multiplicabo semen tuum, et non numerabitur præ multitudine. ",
       "hebrew_masoretic": "וַיֹּ֤אמֶר לָהּ֙ מַלְאַ֣ךְ יְהֹוָ֔ה הַרְבָּ֥ה אַרְבֶּ֖ה אֶת־זַרְעֵ֑ךְ וְלֹ֥א יִסָּפֵ֖ר מֵרֹֽב׃",
+      "douay_rheims": "And again he said: I will multiply thy seed exceedingly, and it shall not be numbered for multitude.",
+      "finnish_biblia": "Ja Herran enkeli sanoi hänelle: minä lisään suuresti sinun siemenes, niin ettei sitä taideta luettaa paljouden tähden. ",
       "king_james": "And the angel of the Lord said unto her, I will multiply thy seed exceedingly, that it shall not be numbered for multitude."
     },
     {
       "verse": 11,
       "latin_vulgate": "Ac deinceps : Ecce, ait, concepisti, et paries filium : vocabisque nomen ejus Ismaël, eo quod audierit Dominus afflictionem tuam. ",
       "hebrew_masoretic": "וַיֹּ֤אמֶר לָהּ֙ מַלְאַ֣ךְ יְהֹוָ֔ה הִנָּ֥ךְ הָרָ֖ה וְיֹלַ֣דְתְּ בֵּ֑ן וְקָרָ֤את שְׁמוֹ֙ יִשְׁמָעֵ֔אל כִּֽי־שָׁמַ֥ע יְהֹוָ֖ה אֶל־עׇנְיֵֽךְ׃",
+      "douay_rheims": "And again: Behold, said he, thou art with child, and thou shalt bring forth a son: and thou shalt call his name Ismael, because the Lord hath heard thy affliction.",
+      "finnish_biblia": "Ja Herran enkeli sanoi (vielä) hänelle: katso, sinä olet raskas, ja synnytät pojan: ja sinun pitää kutsuman hänen nimensä Ismael: sillä Herra on kuullut sinun vaivas. ",
       "king_james": "And the angel of the Lord said unto her, Behold, thou art with child, and shalt bear a son, and shalt call his name Ishmael; because the Lord hath heard thy affliction."
     },
     {
       "verse": 12,
       "latin_vulgate": "Hic erit ferus homo : manus ejus contra omnes, et manus omnium contra eum : et e regione universorum fratrum suorum figet tabernacula. ",
       "hebrew_masoretic": "וְה֤וּא יִהְיֶה֙ פֶּ֣רֶא אָדָ֔ם יָד֣וֹ בַכֹּ֔ל וְיַ֥ד כֹּ֖ל בּ֑וֹ וְעַל־פְּנֵ֥י כׇל־אֶחָ֖יו יִשְׁכֹּֽן׃",
+      "douay_rheims": "He shall be a wild man: his hand will be against all men, and all men's hands against him: and he shall pitch his tents over against all his brethren.",
+      "finnish_biblia": "Hän tulee tylyksi mieheksi, ja hänen kätensä jokaista vastaan, ja jokaisen käsi häntä vastaan, ja hän on asuva kaikkein veljeinsä edessä. ",
       "king_james": "And he will be a wild man; his hand will be against every man, and every man’s hand against him; and he shall dwell in the presence of all his brethren."
     },
     {
       "verse": 13,
       "latin_vulgate": "Vocavit autem nomen Domini qui loquebatur ad eam : Tu Deus qui vidisti me. Dixit enim : Profecto hic vidi posteriora videntis me. ",
       "hebrew_masoretic": "וַתִּקְרָ֤א שֵׁם־יְהֹוָה֙ הַדֹּבֵ֣ר אֵלֶ֔יהָ אַתָּ֖ה אֵ֣ל רֳאִ֑י כִּ֣י אָֽמְרָ֗ה הֲגַ֥ם הֲלֹ֛ם רָאִ֖יתִי אַחֲרֵ֥י רֹאִֽי׃",
+      "douay_rheims": "And she called the name of the Lord that spoke unto her: Thou the God who hast seen me. For she said: Verily, here have I seen the hinder parts of him that seeth me.",
+      "finnish_biblia": "Ja hän kutsui Herran nimen, joka häntä puhutteli, sinä Jumala, joka näet minun, sillä hän sanoi: enkö minä ole katsonut hänen peräänsä, joka minun näkee? ",
       "king_james": "And she called the name of the Lord that spake unto her, Thou God seest me: for she said, Have I also here looked after him that seeth me?"
     },
     {
       "verse": 14,
       "latin_vulgate": "Propterea appellavit puteum illum Puteum viventis et videntis me. Ipse est inter Cades et Barad. ",
       "hebrew_masoretic": "עַל־כֵּן֙ קָרָ֣א לַבְּאֵ֔ר בְּאֵ֥ר לַחַ֖י רֹאִ֑י הִנֵּ֥ה בֵין־קָדֵ֖שׁ וּבֵ֥ין בָּֽרֶד׃",
+      "douay_rheims": "Therefore she called that well, the well of him that liveth and seeth me. The same is between Cades and Barad.",
+      "finnish_biblia": "Sentähden nimitti hän sen kaivon, sen elävän kaivoksi, joka minun näkee, joka on Kadeksen ja Baredin välillä. ",
       "king_james": "Wherefore the well was called Beer–lahai–roi; behold, it is between Kadesh and Bered."
     },
     {
       "verse": 15,
       "latin_vulgate": "Peperitque Agar Abræ filium : qui vocavit nomen ejus Ismaël. ",
       "hebrew_masoretic": "וַתֵּ֧לֶד הָגָ֛ר לְאַבְרָ֖ם בֵּ֑ן וַיִּקְרָ֨א אַבְרָ֧ם שֶׁם־בְּנ֛וֹ אֲשֶׁר־יָלְדָ֥ה הָגָ֖ר יִשְׁמָעֵֽאל׃",
+      "douay_rheims": "And Agar brought forth a son to Abram: who called his name Ismael.",
+      "finnish_biblia": "Ja Hagar synnytti Abramille pojan: ja Abram kutsui poikansa nimen, jonka Hagar synnytti, Ismael. ",
       "king_james": "And Hagar bare Abram a son: and Abram called his son’s name, which Hagar bare, Ishmael."
     },
     {
       "verse": 16,
       "latin_vulgate": "Octoginta et sex annorum erat Abram quando peperit ei Agar Ismaëlem.   ",
       "hebrew_masoretic": "וְאַבְרָ֕ם בֶּן־שְׁמֹנִ֥ים שָׁנָ֖ה וְשֵׁ֣שׁ שָׁנִ֑ים בְּלֶֽדֶת־הָגָ֥ר אֶת־יִשְׁמָעֵ֖אל לְאַבְרָֽם׃ {ס}",
+      "douay_rheims": "Abram was four score and six years old when Agar brought him forth Ismael. ",
+      "finnish_biblia": "Ja Abram oli kuudenyhdeksättäkymmentä ajastajan vanha, koska Hagar synnytti Ismaelin Abramille.   ",
       "king_james": "And Abram was fourscore and six years old, when Hagar bare Ishmael to Abram. "
     }
   ]

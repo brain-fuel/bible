@@ -2,6 +2,8 @@
   "book_id": "PSA",
   "latin_name": "Liber Psalmorum",
   "hebrew_name": "תְּהִלִּים",
+  "douay_name": "Psalms",
+  "finnish_name": "Psalmit",
   "english_name": "Psalms",
   "chapter": 28,
   "verses": [
@@ -9,9 +11,14 @@
       "verse": 1,
       "latin_vulgate": "Psalmus ipsi David.   Ad te, Domine, clamabo ; Deus meus, ne sileas a me :  nequando taceas a me, et assimilabor descendentibus in lacum. ",
       "hebrew_masoretic": "לְדָוִ֡ד אֵ֘לֶ֤יךָ יְהֹוָ֨ה ׀ אֶקְרָ֗א צוּרִי֮ אַֽל־תֶּחֱרַ֢שׁ מִ֫מֶּ֥נִּי פֶּן־תֶּחֱשֶׁ֥ה מִמֶּ֑נִּי וְ֝נִמְשַׁ֗לְתִּי עִם־י֥וֹרְדֵי בֽוֹר׃",
+      "douay_rheims": "A psalm for David himself. Unto thee will I cry, O Lord: O my God, be not thou silent to me: lest if thou be silent to me, I become like them that go down into the pit.",
+      "finnish_biblia": "Davidin Psalmi. Koska minä huudan sinua, Herra, uskallukseni, niin älä vaikene minulle; etten, koska sinä vaikenisit minulle, minä tulisi niiden kaltaiseksi, jotka hautaan menevät. ",
       "king_james": "Unto thee will I cry, O Lord my rock; be not silent to me: lest, if thou be silent to me, I become like them that go down into the pit.",
       "refs": {
         "latin_vulgate": {
+          "src": "27:1"
+        },
+        "douay_rheims": {
           "src": "27:1"
         }
       }
@@ -20,9 +27,14 @@
       "verse": 2,
       "latin_vulgate": " Exaudi, Domine, vocem deprecationis meæ dum oro ad te ;  dum extollo manus meas ad templum sanctum tuum. ",
       "hebrew_masoretic": "שְׁמַ֤ע ק֣וֹל תַּ֭חֲנוּנַי בְּשַׁוְּעִ֣י אֵלֶ֑יךָ בְּנׇשְׂאִ֥י יָ֝דַ֗י אֶל־דְּבִ֥יר קׇדְשֶֽׁךָ׃",
+      "douay_rheims": "Hear, O Lord, the voice of my supplication, when I pray to thee; when I lift up my hands to thy holy temple.",
+      "finnish_biblia": "Kuule minun rukoukseni ääni, koska minä huudan sinua, kuin minä nostan käteni sinun pyhää kuorias päin. ",
       "king_james": "Hear the voice of my supplications, when I cry unto thee, when I lift up my hands toward thy holy oracle.",
       "refs": {
         "latin_vulgate": {
+          "src": "27:2"
+        },
+        "douay_rheims": {
           "src": "27:2"
         }
       }
@@ -31,9 +43,14 @@
       "verse": 3,
       "latin_vulgate": " Ne simul trahas me cum peccatoribus,  et cum operantibus iniquitatem ne perdas me ;  qui loquuntur pacem cum proximo suo,  mala autem in cordibus eorum. ",
       "hebrew_masoretic": "אַל־תִּמְשְׁכֵ֣נִי עִם־רְשָׁעִים֮ וְעִם־פֹּ֢עֲלֵ֫י אָ֥וֶן דֹּבְרֵ֣י שָׁ֭לוֹם עִם־רֵעֵיהֶ֑ם וְ֝רָעָ֗ה בִּלְבָבָֽם׃",
+      "douay_rheims": "Draw me not away together with the wicked; and with the workers of iniquity destroy me not: Who speak peace with their neighbour, but evils are in their hearts.",
+      "finnish_biblia": "Älä anna minun tulla jumalattomain ja pahointekiäin sekaan, jotka lähimmäistensä kanssa puhuvat ystävällisesti, vaan pahuutta on heidän sydämissänsä, ",
       "king_james": "Draw me not away with the wicked, and with the workers of iniquity, which speak peace to their neighbours, but mischief is in their hearts.",
       "refs": {
         "latin_vulgate": {
+          "src": "27:3"
+        },
+        "douay_rheims": {
           "src": "27:3"
         }
       }
@@ -42,9 +59,14 @@
       "verse": 4,
       "latin_vulgate": " Da illis secundum opera eorum,  et secundum nequitiam adinventionum ipsorum.  Secundum opera manuum eorum tribue illis ;  redde retributionem eorum ipsis. ",
       "hebrew_masoretic": "תֶּן־לָהֶ֣ם כְּפׇעֳלָם֮ וּכְרֹ֢עַ מַעַלְלֵ֫יהֶ֥ם כְּמַעֲשֵׂ֣ה יְ֭דֵיהֶם תֵּ֣ן לָהֶ֑ם הָשֵׁ֖ב גְּמוּלָ֣ם לָהֶֽם׃",
+      "douay_rheims": "Give them according to their works, and according to the wickedness of their inventions. According to the works of their hands give thou to them: render to them their reward.",
+      "finnish_biblia": "Anna heille heidän työnsä jälkeen ja heidän pahan menonsa perään: anna heille heidän kättensä töiden perään, maksa heille heidän ansionsa perästä. ",
       "king_james": "Give them according to their deeds, and according to the wickedness of their endeavours: give them after the work of their hands; render to them their desert.",
       "refs": {
         "latin_vulgate": {
+          "src": "27:4"
+        },
+        "douay_rheims": {
           "src": "27:4"
         }
       }
@@ -53,9 +75,14 @@
       "verse": 5,
       "latin_vulgate": " Quoniam non intellexerunt opera Domini,  et in opera manuum ejus destrues illos,  et non ædificabis eos. ",
       "hebrew_masoretic": "כִּ֤י לֹ֪א יָבִ֡ינוּ אֶל־פְּעֻלֹּ֣ת יְ֭הֹוָה וְאֶל־מַעֲשֵׂ֣ה יָדָ֑יו יֶ֝הֶרְסֵ֗ם וְלֹ֣א יִבְנֵֽם׃",
+      "douay_rheims": "Because they have not understood the works of the Lord, and the operations of his hands: thou shalt destroy them, and shalt not build them up.",
+      "finnish_biblia": "Sillä ei he ota vaaria Herran töistä, eikä hänen käsi-aloistansa; sentähden rikkoo hän heitä ja ei rakenna heitä. ",
       "king_james": "Because they regard not the works of the Lord, nor the operation of his hands, he shall destroy them, and not build them up.",
       "refs": {
         "latin_vulgate": {
+          "src": "27:5"
+        },
+        "douay_rheims": {
           "src": "27:5"
         }
       }
@@ -64,9 +91,14 @@
       "verse": 6,
       "latin_vulgate": " Benedictus Dominus,  quoniam exaudivit vocem deprecationis meæ. ",
       "hebrew_masoretic": "בָּר֥וּךְ יְהֹוָ֑ה כִּי־שָׁ֝מַ֗ע ק֣וֹל תַּחֲנוּנָֽי׃",
+      "douay_rheims": "Blessed be the Lord, for he hath heard the voice of my supplication.",
+      "finnish_biblia": "Kiitetty olkoon Herra; sillä hän on kuullut minun rukoukseni äänen. ",
       "king_james": "Blessed be the Lord, because he hath heard the voice of my supplications.",
       "refs": {
         "latin_vulgate": {
+          "src": "27:6"
+        },
+        "douay_rheims": {
           "src": "27:6"
         }
       }
@@ -75,9 +107,14 @@
       "verse": 7,
       "latin_vulgate": " Dominus adjutor meus et protector meus ;  in ipso speravit cor meum, et adjutus sum :  et refloruit caro mea,  et ex voluntate mea confitebor ei. ",
       "hebrew_masoretic": "יְהֹוָ֤ה ׀ עֻזִּ֥י וּמָגִנִּי֮ בּ֤וֹ בָטַ֥ח לִבִּ֗י וְֽנֶ֫עֱזָ֥רְתִּי וַיַּעֲלֹ֥ז לִבִּ֑י וּֽמִשִּׁירִ֥י אֲהוֹדֶֽנּוּ׃",
+      "douay_rheims": "The Lord is my helper and my protector: in him hath my heart confided, and I have been helped. And my flesh hath flourished again, and with my will I will give praise to him.",
+      "finnish_biblia": "Herra on minun väkevyyteni ja kilpeni, häneen minun sydämeni toivoo, ja minä olen autettu; ja minun sydämeni riemuitsee, ja minä kiitän häntä veisullani. ",
       "king_james": "The Lord is my strength and my shield; my heart trusted in him, and I am helped: therefore my heart greatly rejoiceth; and with my song will I praise him.",
       "refs": {
         "latin_vulgate": {
+          "src": "27:7"
+        },
+        "douay_rheims": {
           "src": "27:7"
         }
       }
@@ -86,9 +123,14 @@
       "verse": 8,
       "latin_vulgate": " Dominus fortitudo plebis suæ,  et protector salvationum christi sui est. ",
       "hebrew_masoretic": "יְהֹוָ֥ה עֹֽז־לָ֑מוֹ וּמָ֘ע֤וֹז יְשׁוּע֖וֹת מְשִׁיח֣וֹ הֽוּא׃",
+      "douay_rheims": "The Lord is the strength of his people, and the protector of the salvation of his anointed.",
+      "finnish_biblia": "Herra on heidän väkevyytensä; hän on väkevä, joka voideltuansa auttaa. ",
       "king_james": "The Lord is their strength, and he is the saving strength of his anointed.",
       "refs": {
         "latin_vulgate": {
+          "src": "27:8"
+        },
+        "douay_rheims": {
           "src": "27:8"
         }
       }
@@ -97,9 +139,14 @@
       "verse": 9,
       "latin_vulgate": " Salvum fac populum tuum, Domine, et benedic hæreditati tuæ ;  et rege eos, et extolle illos usque in æternum.  ",
       "hebrew_masoretic": "הוֹשִׁ֤יעָה ׀ אֶת־עַמֶּ֗ךָ וּבָרֵ֥ךְ אֶת־נַחֲלָתֶ֑ךָ וּֽרְעֵ֥ם וְ֝נַשְּׂאֵ֗ם עַד־הָעוֹלָֽם׃ {פ}",
+      "douay_rheims": "Save, O Lord, thy people, and bless thy inheritance: and rule them and exalt them for ever. ",
+      "finnish_biblia": "Auta kansaas ja siunaa perimistäs, ja ravitse heitä ja korota heitä ijankaikkisesti.   ",
       "king_james": "Save thy people, and bless thine inheritance: feed them also, and lift them up for ever. ",
       "refs": {
         "latin_vulgate": {
+          "src": "27:9"
+        },
+        "douay_rheims": {
           "src": "27:9"
         }
       }

@@ -2,6 +2,8 @@
   "book_id": "PSA",
   "latin_name": "Liber Psalmorum",
   "hebrew_name": "תְּהִלִּים",
+  "douay_name": "Psalms",
+  "finnish_name": "Psalmit",
   "english_name": "Psalms",
   "chapter": 10,
   "verses": [
@@ -9,9 +11,14 @@
       "verse": 1,
       "latin_vulgate": " Ut quid, Domine, recessisti longe ;  despicis in opportunitatibus, in tribulatione ? ",
       "hebrew_masoretic": "לָמָ֣ה יְ֭הֹוָה תַּעֲמֹ֣ד בְּרָח֑וֹק תַּ֝עְלִ֗ים לְעִתּ֥וֹת בַּצָּרָֽה׃",
+      "douay_rheims": "Why, O Lord, hast thou retired afar off? why dost thou slight us in our wants, in the time of trouble?",
+      "finnish_biblia": "Miksis Herra niin kaukana seisot, ja tuskan ajalla sinus peität? ",
       "king_james": "Why standest thou afar off, O Lord? why hidest thou thyself in times of trouble?",
       "refs": {
         "latin_vulgate": {
+          "src": "9:22"
+        },
+        "douay_rheims": {
           "src": "9:22"
         }
       }
@@ -20,9 +27,14 @@
       "verse": 2,
       "latin_vulgate": " Dum superbit impius, incenditur pauper :  comprehenduntur in consiliis quibus cogitant. ",
       "hebrew_masoretic": "בְּגַאֲוַ֣ת רָ֭שָׁע יִדְלַ֣ק עָנִ֑י יִתָּפְשׂ֓וּ ׀ בִּמְזִמּ֖וֹת ז֣וּ חָשָֽׁבוּ׃",
+      "douay_rheims": "Whilst the wicked man is proud, the poor is set on fire: they are caught in the counsels which they devise.",
+      "finnish_biblia": "Ylpeydessänsä jumalatoin vainoo köyhää: käsitettäköön he heidän juonissansa, joita he ajattelevat. ",
       "king_james": "The wicked in his pride doth persecute the poor: let them be taken in the devices that they have imagined.",
       "refs": {
         "latin_vulgate": {
+          "src": "9:23"
+        },
+        "douay_rheims": {
           "src": "9:23"
         }
       }
@@ -31,9 +43,14 @@
       "verse": 3,
       "latin_vulgate": " Quoniam laudatur peccator in desideriis animæ suæ,  et iniquus benedicitur. ",
       "hebrew_masoretic": "כִּֽי־הִלֵּ֣ל רָ֭שָׁע עַל־תַּאֲוַ֣ת נַפְשׁ֑וֹ וּבֹצֵ֥עַ בֵּ֝רֵ֗ךְ נִ֘אֵ֥ץ ׀ יְהֹוָֽה׃",
+      "douay_rheims": "For the sinner is praised in the desires of his soul: and the unjust man is blessed.",
+      "finnish_biblia": "Sillä jumalatoin itse kerskaa omaa mielivaltaansa: ahne siunailee itsiänsä, ja vihoittaa Herran. ",
       "king_james": "For the wicked boasteth of his heart’s desire, and blesseth the covetous, whom the Lord abhorreth.",
       "refs": {
         "latin_vulgate": {
+          "src": "9:24"
+        },
+        "douay_rheims": {
           "src": "9:24"
         }
       }
@@ -42,9 +59,14 @@
       "verse": 4,
       "latin_vulgate": " Exacerbavit Dominum peccator :  secundum multitudinem iræ suæ, non quæret. ",
       "hebrew_masoretic": "רָשָׁ֗ע כְּגֹ֣בַהּ אַ֭פּוֹ בַּל־יִדְרֹ֑שׁ אֵ֥ין אֱ֝לֹהִ֗ים כׇּל־מְזִמּוֹתָֽיו׃",
+      "douay_rheims": "The sinner hath provoked the Lord according to the multitude of his wrath he will not seek him:",
+      "finnish_biblia": "Jumalatoin on koria ja vihainen, ettei hän ketään tottele: ei hän Jumalaa olevankaan luule. ",
       "king_james": "The wicked, through the pride of his countenance, will not seek after God: God is not in all his thoughts.",
       "refs": {
         "latin_vulgate": {
+          "src": "9:25"
+        },
+        "douay_rheims": {
           "src": "9:25"
         }
       }
@@ -53,9 +75,14 @@
       "verse": 5,
       "latin_vulgate": " Non est Deus in conspectu ejus ;  inquinatæ sunt viæ illius in omni tempore.  Auferuntur judicia tua a facie ejus ;  omnium inimicorum suorum dominabitur. ",
       "hebrew_masoretic": "יָ֘חִ֤ילוּ דְרָכָ֨ו ׀ בְּכׇל־עֵ֗ת מָר֣וֹם מִ֭שְׁפָּטֶיךָ מִנֶּגְדּ֑וֹ כׇּל־צ֝וֹרְרָ֗יו יָפִ֥יחַ בָּהֶֽם׃",
+      "douay_rheims": "God is not before his eyes: his ways are filthy at all times. Thy judgments are removed from his sight: he shall rule over all his enemies.",
+      "finnish_biblia": "Hänen tiensä menestyvät joka aika, sinun tuomios on kaukana hänestä: hän ylpeilee kaikkein vihollistensa edessä. ",
       "king_james": "His ways are always grievous; thy judgments are far above out of his sight: as for all his enemies, he puffeth at them.",
       "refs": {
         "latin_vulgate": {
+          "src": "9:26"
+        },
+        "douay_rheims": {
           "src": "9:26"
         }
       }
@@ -64,9 +91,14 @@
       "verse": 6,
       "latin_vulgate": " Dixit enim in corde suo : Non movebor  a generatione in generationem, sine malo. ",
       "hebrew_masoretic": "אָמַ֣ר בְּ֭לִבּוֹ בַּל־אֶמּ֑וֹט לְדֹ֥ר וָ֝דֹ֗ר אֲשֶׁ֣ר לֹֽא־בְרָֽע׃",
+      "douay_rheims": "For he hath said in his heart: I shall not be moved from generation to generation, and shall be without evil.",
+      "finnish_biblia": "Sillä hän puhuu sydämessänsä: en minä ikänä kukisteta, ei sukukunnasta sukukuntaan hätää ole. ",
       "king_james": "He hath said in his heart, I shall not be moved: for I shall never be in adversity.",
       "refs": {
         "latin_vulgate": {
+          "src": "9:27"
+        },
+        "douay_rheims": {
           "src": "9:27"
         }
       }
@@ -75,9 +107,14 @@
       "verse": 7,
       "latin_vulgate": " Cujus maledictione os plenum est, et amaritudine, et dolo ;  sub lingua ejus labor et dolor. ",
       "hebrew_masoretic": "אָלָ֤ה ׀ פִּ֣יהוּ מָ֭לֵא וּמִרְמ֣וֹת וָתֹ֑ךְ תַּ֥חַת לְ֝שׁוֹנ֗וֹ עָמָ֥ל וָאָֽוֶן׃",
+      "douay_rheims": "His mouth is full of cursing, and of bitterness, and of deceit: under his tongue are labor and sorrow.",
+      "finnish_biblia": "Jonka suu on täynnä kirouksia, kavaluutta ja viettelystä, hänen kielensä saattaa vaivan ja työn. ",
       "king_james": "His mouth is full of cursing and deceit and fraud: under his tongue is mischief and vanity.",
       "refs": {
         "latin_vulgate": {
+          "src": "9:28"
+        },
+        "douay_rheims": {
           "src": "9:28"
         }
       }
@@ -86,9 +123,14 @@
       "verse": 8,
       "latin_vulgate": " Sedet in insidiis cum divitibus in occultis,  ut interficiat innocentem. ",
       "hebrew_masoretic": "יֵשֵׁ֤ב ׀ בְּמַאְרַ֬ב חֲצֵרִ֗ים בַּֽ֭מִּסְתָּרִים יַהֲרֹ֣ג נָקִ֑י עֵ֝ינָ֗יו לְֽחֵלְכָ֥ה יִצְפֹּֽנוּ׃",
+      "douay_rheims": "He sits in ambush with the rich in private places, that he may kill the innocent.",
+      "finnish_biblia": "Hän istuu ja väijyy kartanoissa, murhataksensa salaa viatointa; hänen silmänsä palaa köyhän puoleen. ",
       "king_james": "He sitteth in the lurking places of the villages: in the secret places doth he murder the innocent: his eyes are privily set against the poor.",
       "refs": {
         "latin_vulgate": {
+          "src": "9:29"
+        },
+        "douay_rheims": {
           "src": "9:29"
         }
       }
@@ -97,9 +139,14 @@
       "verse": 9,
       "latin_vulgate": " Oculi ejus in pauperem respiciunt ;  insidiatur in abscondito, quasi leo in spelunca sua.  Insidiatur ut rapiat pauperem ;  rapere pauperem dum attrahit eum. ",
       "hebrew_masoretic": "יֶאֱרֹ֬ב בַּמִּסְתָּ֨ר ׀ כְּאַרְיֵ֬ה בְסֻכֹּ֗ה יֶ֭אֱרֹב לַחֲט֣וֹף עָנִ֑י יַחְטֹ֥ף עָ֝נִ֗י בְּמׇשְׁכ֥וֹ בְרִשְׁתּֽוֹ׃",
+      "douay_rheims": "His eyes are upon the poor man: He lieth in wait in secret like a lion in his den. He lieth in ambush that he may catch the poor man: to catch the poor, whilst he draweth him to him.",
+      "finnish_biblia": "Hän väijyy salaa niinkuin jalopeura luolassansa, hän väijyy raadollista käsittääksensä, ja hän käsittää hänen, kuin hän tempaa sen verkkoihinsa. ",
       "king_james": "He lieth in wait secretly as a lion in his den: he lieth in wait to catch the poor: he doth catch the poor, when he draweth him into his net.",
       "refs": {
         "latin_vulgate": {
+          "src": "9:30"
+        },
+        "douay_rheims": {
           "src": "9:30"
         }
       }
@@ -108,9 +155,14 @@
       "verse": 10,
       "latin_vulgate": " In laqueo suo humiliabit eum ;  inclinabit se, et cadet cum dominatus fuerit pauperum. ",
       "hebrew_masoretic": "(ודכה) [יִדְכֶּ֥ה] יָשֹׁ֑חַ וְנָפַ֥ל בַּ֝עֲצוּמָ֗יו (חלכאים) [חֵ֣ל כָּאִֽים]׃",
+      "douay_rheims": "In his net he will bring him down, he will crouch and fall, when he shall have power over the poor.",
+      "finnish_biblia": "Hän paiskaa ja polkee alas, ja sysää köyhän väkivallalla maahan. ",
       "king_james": "He croucheth, and humbleth himself, that the poor may fall by his strong ones.",
       "refs": {
         "latin_vulgate": {
+          "src": "9:31"
+        },
+        "douay_rheims": {
           "src": "9:31"
         }
       }
@@ -119,9 +171,14 @@
       "verse": 11,
       "latin_vulgate": " Dixit enim in corde suo : Oblitus est Deus ;  avertit faciem suam, ne videat in finem. ",
       "hebrew_masoretic": "אָמַ֣ר בְּ֭לִבּוֹ שָׁ֣כַֽח אֵ֑ל הִסְתִּ֥יר פָּ֝נָ֗יו בַּל־רָאָ֥ה לָנֶֽצַח׃",
+      "douay_rheims": "For he hath said in his heart: God hath forgotten, he hath turned away his face not to see to the end.",
+      "finnish_biblia": "Hän sanoo sydämessänsä: Jumala on hänen unhottanut, ja verhonnut kasvonsa, ei hän ikänä näe. ",
       "king_james": "He hath said in his heart, God hath forgotten: he hideth his face; he will never see it.",
       "refs": {
         "latin_vulgate": {
+          "src": "9:32"
+        },
+        "douay_rheims": {
           "src": "9:32"
         }
       }
@@ -130,9 +187,14 @@
       "verse": 12,
       "latin_vulgate": " Exsurge, Domine Deus, exaltetur manus tua ;  ne obliviscaris pauperum. ",
       "hebrew_masoretic": "קוּמָ֤ה יְהֹוָ֗ה אֵ֭ל נְשָׂ֣א יָדֶ֑ךָ אַל־תִּשְׁכַּ֥ח (עניים) [עֲנָוִֽים]׃",
+      "douay_rheims": "Arise, O Lord God, let thy hand be exalted: forget not the poor.",
+      "finnish_biblia": "Nouse, Herra! Jumala, ylennä kätes ja älä köyhää unohda. ",
       "king_james": "Arise, O Lord; O God, lift up thine hand: forget not the humble.",
       "refs": {
         "latin_vulgate": {
+          "src": "9:33"
+        },
+        "douay_rheims": {
           "src": "9:33"
         }
       }
@@ -141,9 +203,14 @@
       "verse": 13,
       "latin_vulgate": " Propter quid irritavit impius Deum ?  dixit enim in corde suo : Non requiret. ",
       "hebrew_masoretic": "עַל־מֶ֤ה ׀ נִאֵ֖ץ רָשָׁ֥ע ׀ אֱלֹהִ֑ים אָמַ֥ר בְּ֝לִבּ֗וֹ לֹ֣א תִדְרֹֽשׁ׃",
+      "douay_rheims": "Wherefore hath the wicked provoked God? for he hath said in his heart: He will not require it.",
+      "finnish_biblia": "Miksi jumalatoin pilkkaa Jumalaa ja sanoo sydämessänsä: et sinä sitä tottele? ",
       "king_james": "Wherefore doth the wicked contemn God? he hath said in his heart, Thou wilt not require it.",
       "refs": {
         "latin_vulgate": {
+          "src": "9:34"
+        },
+        "douay_rheims": {
           "src": "9:34"
         }
       }
@@ -152,9 +219,14 @@
       "verse": 14,
       "latin_vulgate": " Vides, quoniam tu laborem et dolorem consideras,  ut tradas eos in manus tuas.  Tibi derelictus est pauper ;  orphano tu eris adjutor. ",
       "hebrew_masoretic": "רָאִ֡תָה כִּי־אַתָּ֤ה ׀ עָ֘מָ֤ל וָכַ֨עַס ׀ תַּבִּיט֮ לָתֵ֢ת בְּיָ֫דֶ֥ךָ עָ֭לֶיךָ יַעֲזֹ֣ב חֵלֵ֑כָה יָ֝ת֗וֹם אַתָּ֤ה ׀ הָיִ֬יתָ עוֹזֵֽר׃",
+      "douay_rheims": "Thou seest it, for thou considerest labour and sorrow: that thou mayst deliver them into thy hands. To thee is the poor man left: thou wilt be a helper to the orphan.",
+      "finnish_biblia": "Katso siis; sillä sinä näet tuskat ja surut, se on sinun käsissäs: sinuun köyhä itsensä luottaa, ja sinä olet orpolasten holhoja. ",
       "king_james": "Thou hast seen it; for thou beholdest mischief and spite, to requite it with thy hand: the poor committeth himself unto thee; thou art the helper of the fatherless.",
       "refs": {
         "latin_vulgate": {
+          "src": "9:35"
+        },
+        "douay_rheims": {
           "src": "9:35"
         }
       }
@@ -163,9 +235,14 @@
       "verse": 15,
       "latin_vulgate": " Contere brachium peccatoris et maligni ;  quæretur peccatum illius, et non invenietur. ",
       "hebrew_masoretic": "שְׁ֭בֹר זְר֣וֹעַ רָשָׁ֑ע וָ֝רָ֗ע תִּֽדְרוֹשׁ־רִשְׁע֥וֹ בַל־תִּמְצָֽא׃",
+      "douay_rheims": "Break thou the arm of the sinner and of the malignant: his sin shall be sought, and shall not be found.",
+      "finnish_biblia": "Särje jumalattoman käsivarsi, ja etsi pahan jumalattomuutta, niin ettei sitä enää löydettäisi. ",
       "king_james": "Break thou the arm of the wicked and the evil man: seek out his wickedness till thou find none.",
       "refs": {
         "latin_vulgate": {
+          "src": "9:36"
+        },
+        "douay_rheims": {
           "src": "9:36"
         }
       }
@@ -174,9 +251,14 @@
       "verse": 16,
       "latin_vulgate": " Dominus regnabit in æternum, et in sæculum sæculi ;  peribitis, gentes, de terra illius. ",
       "hebrew_masoretic": "יְהֹוָ֣ה מֶ֭לֶךְ עוֹלָ֣ם וָעֶ֑ד אָבְד֥וּ ג֝וֹיִ֗ם מֵאַרְצֽוֹ׃",
+      "douay_rheims": "The Lord shall reign to eternity, yea, for ever and ever: ye Gentiles shall perish from his land.",
+      "finnish_biblia": "Herra on kuningas aina ja ijankaikkisesti: pakanain pitää häviämän hänen maastansa. ",
       "king_james": "The Lord is King for ever and ever: the heathen are perished out of his land.",
       "refs": {
         "latin_vulgate": {
+          "src": "9:37"
+        },
+        "douay_rheims": {
           "src": "9:37"
         }
       }
@@ -185,9 +267,14 @@
       "verse": 17,
       "latin_vulgate": " Desiderium pauperum exaudivit Dominus ;  præparationem cordis eorum audivit auris tua : ",
       "hebrew_masoretic": "תַּאֲוַ֬ת עֲנָוִ֣ים שָׁמַ֣עְתָּ יְהֹוָ֑ה תָּכִ֥ין לִ֝בָּ֗ם תַּקְשִׁ֥יב אׇזְנֶֽךָ׃",
+      "douay_rheims": "The Lord hath heard the desire of the poor: thy ear hath heard the preparation of their heart.",
+      "finnish_biblia": "Köyhäin halauksen sinä, Herra, kuulet: heidän sydämensä sinä vahvistat, että sinun korvas siitä ottaa vaarin; ",
       "king_james": "Lord, thou hast heard the desire of the humble: thou wilt prepare their heart, thou wilt cause thine ear to hear:",
       "refs": {
         "latin_vulgate": {
+          "src": "9:38"
+        },
+        "douay_rheims": {
           "src": "9:38"
         }
       }
@@ -196,9 +283,14 @@
       "verse": 18,
       "latin_vulgate": " judicare pupillo et humili,  ut non apponat ultra magnificare se homo super terram.  ",
       "hebrew_masoretic": "לִשְׁפֹּ֥ט יָת֗וֹם וָ֫דָ֥ךְ בַּל־יוֹסִ֥יף ע֑וֹד לַעֲרֹ֥ץ אֱ֝נ֗וֹשׁ מִן־הָאָֽרֶץ׃ {פ}",
+      "douay_rheims": "To judge for the fatherless and for the humble, that man may no more presume to magnify himself upon earth. ",
+      "finnish_biblia": "Ettäs oikeuden saatat orvoille ja köyhille, ettei ihminen enää ylpeile heitä vastaan maan päällä.   ",
       "king_james": "To judge the fatherless and the oppressed, that the man of the earth may no more oppress. ",
       "refs": {
         "latin_vulgate": {
+          "src": "9:39"
+        },
+        "douay_rheims": {
           "src": "9:39"
         }
       }

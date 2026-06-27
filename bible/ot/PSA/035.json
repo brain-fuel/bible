@@ -2,6 +2,8 @@
   "book_id": "PSA",
   "latin_name": "Liber Psalmorum",
   "hebrew_name": "תְּהִלִּים",
+  "douay_name": "Psalms",
+  "finnish_name": "Psalmit",
   "english_name": "Psalms",
   "chapter": 35,
   "verses": [
@@ -9,9 +11,14 @@
       "verse": 1,
       "latin_vulgate": "Ipsi David.   Judica, Domine, nocentes me ;  expugna impugnantes me. ",
       "hebrew_masoretic": "לְדָוִ֨ד ׀ רִיבָ֣ה יְ֭הֹוָה אֶת־יְרִיבַ֑י לְ֝חַ֗ם אֶת־לֹחֲמָֽי׃",
+      "douay_rheims": "For David himself. Judge thou, O Lord, them that wrong me: overthrow them that fight against me.",
+      "finnish_biblia": "Davidin Psalmi. Riitele, Herra, riitaveljeini kanssa: sodi vihollisiani vastaan. ",
       "king_james": "Plead my cause, O Lord, with them that strive with me: fight against them that fight against me.",
       "refs": {
         "latin_vulgate": {
+          "src": "34:1"
+        },
+        "douay_rheims": {
           "src": "34:1"
         }
       }
@@ -20,9 +27,14 @@
       "verse": 2,
       "latin_vulgate": " Apprehende arma et scutum,  et exsurge in adjutorium mihi. ",
       "hebrew_masoretic": "הַחֲזֵ֣ק מָגֵ֣ן וְצִנָּ֑ה וְ֝ק֗וּמָה בְּעֶזְרָתִֽי׃",
+      "douay_rheims": "Take hold of arms and shield: and rise up to help me.",
+      "finnish_biblia": "Tempaa kilpi ja keihäs, ja nouse minua auttamaan. ",
       "king_james": "Take hold of shield and buckler, and stand up for mine help.",
       "refs": {
         "latin_vulgate": {
+          "src": "34:2"
+        },
+        "douay_rheims": {
           "src": "34:2"
         }
       }
@@ -31,9 +43,14 @@
       "verse": 3,
       "latin_vulgate": " Effunde frameam, et conclude adversus eos qui persequuntur me ;  dic animæ meæ : Salus tua ego sum. ",
       "hebrew_masoretic": "וְהָ֘רֵ֤ק חֲנִ֣ית וּ֭סְגֹר לִקְרַ֣את רֹדְפָ֑י אֱמֹ֥ר לְ֝נַפְשִׁ֗י יְֽשֻׁעָתֵ֥ךְ אָֽנִי׃",
+      "douay_rheims": "Bring out the sword, and shut up the way against them that persecute me: say to my soul: I am thy salvation.",
+      "finnish_biblia": "Sivalla ase ja suojele minua sortajiani vastaan: sano sielulleni: minä olen apus. ",
       "king_james": "Draw out also the spear, and stop the way against them that persecute me: say unto my soul, I am thy salvation.",
       "refs": {
         "latin_vulgate": {
+          "src": "34:3"
+        },
+        "douay_rheims": {
           "src": "34:3"
         }
       }
@@ -42,9 +59,14 @@
       "verse": 4,
       "latin_vulgate": " Confundantur et revereantur quærentes animam meam ;  avertantur retrorsum et confundantur cogitantes mihi mala. ",
       "hebrew_masoretic": "יֵבֹ֣שׁוּ וְיִכָּלְמוּ֮ מְבַקְשֵׁ֢י נַ֫פְשִׁ֥י יִסֹּ֣גוּ אָח֣וֹר וְיַחְפְּר֑וּ חֹ֝שְׁבֵ֗י רָעָתִֽי׃",
+      "douay_rheims": "Let them be confounded and ashamed that seek after my soul. Let them be turned back and be confounded that devise evil against me.",
+      "finnish_biblia": "Häpiään ja pilkkaan tulkoon kaikki, jotka sieluani väijyvät: palatkoon takaperin ja nauruksi tulkoon, jotka minulle pahaa suovat. ",
       "king_james": "Let them be confounded and put to shame that seek after my soul: let them be turned back and brought to confusion that devise my hurt.",
       "refs": {
         "latin_vulgate": {
+          "src": "34:4"
+        },
+        "douay_rheims": {
           "src": "34:4"
         }
       }
@@ -53,9 +75,14 @@
       "verse": 5,
       "latin_vulgate": " Fiant tamquam pulvis ante faciem venti,  et angelus Domini coarctans eos. ",
       "hebrew_masoretic": "יִֽהְי֗וּ כְּמֹ֥ץ לִפְנֵי־ר֑וּחַ וּמַלְאַ֖ךְ יְהֹוָ֣ה דּוֹחֶֽה׃",
+      "douay_rheims": "Let them become as dust before the wind: and let the angel of the Lord straiten them.",
+      "finnish_biblia": "Olkoon he niinkuin akanat tuulessa; ja Herran enkeli sysätköön heitä pois. ",
       "king_james": "Let them be as chaff before the wind: and let the angel of the Lord chase them.",
       "refs": {
         "latin_vulgate": {
+          "src": "34:5"
+        },
+        "douay_rheims": {
           "src": "34:5"
         }
       }
@@ -64,9 +91,14 @@
       "verse": 6,
       "latin_vulgate": " Fiat via illorum tenebræ et lubricum,  et angelus Domini persequens eos. ",
       "hebrew_masoretic": "יְֽהִי־דַרְכָּ֗ם חֹ֥שֶׁךְ וַחֲלַקְלַקֹּ֑ת וּמַלְאַ֥ךְ יְ֝הֹוָ֗ה רֹדְפָֽם׃",
+      "douay_rheims": "Let their way become dark and slippery; and let the angel of the Lord pursue them.",
+      "finnish_biblia": "Heidän tiensä olkaan pimiä ja niljakas; ja Herran enkeli vainotkoon heitä. ",
       "king_james": "Let their way be dark and slippery: and let the angel of the Lord persecute them.",
       "refs": {
         "latin_vulgate": {
+          "src": "34:6"
+        },
+        "douay_rheims": {
           "src": "34:6"
         }
       }
@@ -75,9 +107,14 @@
       "verse": 7,
       "latin_vulgate": " Quoniam gratis absconderunt mihi interitum laquei sui ; supervacue exprobraverunt animam meam. ",
       "hebrew_masoretic": "כִּֽי־חִנָּ֣ם טָֽמְנוּ־לִ֭י שַׁ֣חַת רִשְׁתָּ֑ם חִ֝נָּ֗ם חָפְר֥וּ לְנַפְשִֽׁי׃",
+      "douay_rheims": "For without cause they have hidden their net for me unto destruction: without cause they have upbraided my soul.",
+      "finnish_biblia": "Sillä he ovat ilman syytä verkkonsa virittäneet minua kadottaaksensa, ja ilman syytä ovat sielulleni kaivaneet haudan. ",
       "king_james": "For without cause have they hid for me their net in a pit, which without cause they have digged for my soul.",
       "refs": {
         "latin_vulgate": {
+          "src": "34:7"
+        },
+        "douay_rheims": {
           "src": "34:7"
         }
       }
@@ -86,9 +123,14 @@
       "verse": 8,
       "latin_vulgate": " Veniat illi laqueus quem ignorat,  et captio quam abscondit apprehendat eum,  et in laqueum cadat in ipsum. ",
       "hebrew_masoretic": "תְּבוֹאֵ֣הוּ שׁוֹאָה֮ לֹֽא־יֵ֫דָ֥ע וְרִשְׁתּ֣וֹ אֲשֶׁר־טָמַ֣ן תִּלְכְּד֑וֹ בְּ֝שׁוֹאָ֗ה יִפׇּל־בָּֽהּ׃",
+      "douay_rheims": "Let the snare which he knoweth not come upon him: and let the net which he hath hidden catch him: and into that very snare let them fall.",
+      "finnish_biblia": "Tulkoon hänelle vaiva, jota ei hän tiedä, ja verkko, jonka hän viritti, käsittäköön hänen: siihen hän langetkoon. ",
       "king_james": "Let destruction come upon him at unawares; and let his net that he hath hid catch himself: into that very destruction let him fall.",
       "refs": {
         "latin_vulgate": {
+          "src": "34:8"
+        },
+        "douay_rheims": {
           "src": "34:8"
         }
       }
@@ -97,9 +139,14 @@
       "verse": 9,
       "latin_vulgate": " Anima autem mea exsultabit in Domino,  et delectabitur super salutari suo. ",
       "hebrew_masoretic": "וְ֭נַפְשִׁי תָּגִ֣יל בַּיהֹוָ֑ה תָּ֝שִׂ֗ישׂ בִּישׁוּעָתֽוֹ׃",
+      "douay_rheims": "But my soul shall rejoice in the Lord; and shall be delighted in his salvation.",
+      "finnish_biblia": "Mutta minun sieluni iloitkoon Herrassa ja riemuitkaan hänen avustansa. ",
       "king_james": "And my soul shall be joyful in the Lord: it shall rejoice in his salvation.",
       "refs": {
         "latin_vulgate": {
+          "src": "34:9"
+        },
+        "douay_rheims": {
           "src": "34:9"
         }
       }
@@ -108,9 +155,14 @@
       "verse": 10,
       "latin_vulgate": " Omnia ossa mea dicent :  Domine, quis similis tibi ?  eripiens inopem de manu fortiorum ejus ;  egenum et pauperem a diripientibus eum. ",
       "hebrew_masoretic": "כׇּ֥ל־עַצְמוֹתַ֨י ׀ תֹּאמַרְנָה֮ יְהֹוָ֗ה מִ֥י־כָ֫מ֥וֹךָ מַצִּ֣יל עָ֭נִי מֵחָזָ֣ק מִמֶּ֑נּוּ וְעָנִ֥י וְ֝אֶבְי֗וֹן מִגֹּֽזְלֽוֹ׃",
+      "douay_rheims": "All my bones shall say: Lord, who is like to thee? Who deliverest the poor from the hand of them that are stronger than he; the needy and the poor from them that strip him.",
+      "finnish_biblia": "Kaikki minun luuni sanokaan: Herra, kuka on sinun vertaises? sinä joka päästät nöyrän väkevämmän käsistä, raadollisen ja köyhän raatelialtansa. ",
       "king_james": "All my bones shall say, Lord, who is like unto thee, which deliverest the poor from him that is too strong for him, yea, the poor and the needy from him that spoileth him?",
       "refs": {
         "latin_vulgate": {
+          "src": "34:10"
+        },
+        "douay_rheims": {
           "src": "34:10"
         }
       }
@@ -119,9 +171,14 @@
       "verse": 11,
       "latin_vulgate": " Surgentes testes iniqui,  quæ ignorabam interrogabant me. ",
       "hebrew_masoretic": "יְ֭קוּמוּן עֵדֵ֣י חָמָ֑ס אֲשֶׁ֥ר לֹֽא־יָ֝דַ֗עְתִּי יִשְׁאָלֽוּנִי׃",
+      "douay_rheims": "Unjust witnesses rising up have asked me things I knew not.",
+      "finnish_biblia": "Väärät todistajat astuvat edes, jotka minua niihin soimaavat, joista en mitään tiedä. ",
       "king_james": "False witnesses did rise up; they laid to my charge things that I knew not.",
       "refs": {
         "latin_vulgate": {
+          "src": "34:11"
+        },
+        "douay_rheims": {
           "src": "34:11"
         }
       }
@@ -130,9 +187,14 @@
       "verse": 12,
       "latin_vulgate": " Retribuebant mihi mala pro bonis,  sterilitatem animæ meæ. ",
       "hebrew_masoretic": "יְשַׁלְּמ֣וּנִי רָ֭עָה תַּ֥חַת טוֹבָ֗ה שְׁכ֣וֹל לְנַפְשִֽׁי׃",
+      "douay_rheims": "They repaid me evil for good: to the depriving me of my soul.",
+      "finnish_biblia": "He tekevät minulle pahaa hyvästä, minulle mielikarvaudeksi. ",
       "king_james": "They rewarded me evil for good to the spoiling of my soul.",
       "refs": {
         "latin_vulgate": {
+          "src": "34:12"
+        },
+        "douay_rheims": {
           "src": "34:12"
         }
       }
@@ -141,9 +203,14 @@
       "verse": 13,
       "latin_vulgate": " Ego autem, cum mihi molesti essent, induebar cilicio ;  humiliabam in jejunio animam meam,  et oratio mea in sinu meo convertetur. ",
       "hebrew_masoretic": "וַאֲנִ֤י ׀ בַּחֲלוֹתָ֡ם לְב֬וּשִׁי שָׂ֗ק עִנֵּ֣יתִי בַצּ֣וֹם נַפְשִׁ֑י וּ֝תְפִלָּתִ֗י עַל־חֵיקִ֥י תָשֽׁוּב׃",
+      "douay_rheims": "But as for me, when they were troublesome to me, I was clothed with haircloth. I humbled my soul with fasting; and my prayer shall be turned into my bosom.",
+      "finnish_biblia": "Mutta minä, kuin he sairastivat, puin säkin päälleni, vaivasin itsiäni paastolla, ja rukoilin sydämestäni; ",
       "king_james": "But as for me, when they were sick, my clothing was sackcloth: I humbled my soul with fasting; and my prayer returned into mine own bosom.",
       "refs": {
         "latin_vulgate": {
+          "src": "34:13"
+        },
+        "douay_rheims": {
           "src": "34:13"
         }
       }
@@ -152,9 +219,14 @@
       "verse": 14,
       "latin_vulgate": " Quasi proximum et quasi fratrem nostrum sic complacebam ;  quasi lugens et contristatus sic humiliabar. ",
       "hebrew_masoretic": "כְּרֵעַ־כְּאָ֣ח לִ֭י הִתְהַלָּ֑כְתִּי כַּאֲבֶל־אֵ֝֗ם קֹדֵ֥ר שַׁחֽוֹתִי׃",
+      "douay_rheims": "As a neighbour and as an own brother, so did I please: as one mourning and sorrowful so was I humbled.",
+      "finnish_biblia": "Minä käytin itseni kuin he olisivat olleet minun ystäväni ja veljeni: niinkuin se joka äitiänsä murehtii, kävin minä kumarruksissa murhevaatteissa. ",
       "king_james": "I behaved myself as though he had been my friend or brother: I bowed down heavily, as one that mourneth for his mother.",
       "refs": {
         "latin_vulgate": {
+          "src": "34:14"
+        },
+        "douay_rheims": {
           "src": "34:14"
         }
       }
@@ -163,9 +235,14 @@
       "verse": 15,
       "latin_vulgate": " Et adversum me lætati sunt, et convenerunt ;  congregata sunt super me flagella, et ignoravi. ",
       "hebrew_masoretic": "וּבְצַלְעִי֮ שָׂמְח֢וּ וְֽנֶ֫אֱסָ֥פוּ נֶאֶסְפ֬וּ עָלַ֣י נֵ֭כִים וְלֹ֣א יָדַ֑עְתִּי קָרְע֥וּ וְלֹא־דָֽמּוּ׃",
+      "douay_rheims": "But they rejoiced against me, and came together: scourges were gathered together upon me, and I knew not.",
+      "finnish_biblia": "Mutta he iloitsevat minun vahingostani ja kokoontuvat: ontuvat myös kokoovat heitänsä havaitsematta minua vastaan, he repivät ja ei lakkaa. ",
       "king_james": "But in mine adversity they rejoiced, and gathered themselves together: yea, the abjects gathered themselves together against me, and I knew it not; they did tear me, and ceased not:",
       "refs": {
         "latin_vulgate": {
+          "src": "34:15"
+        },
+        "douay_rheims": {
           "src": "34:15"
         }
       }
@@ -174,9 +251,14 @@
       "verse": 16,
       "latin_vulgate": " Dissipati sunt, nec compuncti ;  tentaverunt me, subsannaverunt me subsannatione ;  frenduerunt super me dentibus suis. ",
       "hebrew_masoretic": "בְּ֭חַנְפֵי לַעֲגֵ֣י מָע֑וֹג חָרֹ֖ק עָלַ֣י שִׁנֵּֽימוֹ׃",
+      "douay_rheims": "They were separated, and repented not: they tempted me, they scoffed at me with scorn: they gnashed upon me with their teeth.",
+      "finnish_biblia": "Ulkokullattuin seassa, jotka leipäkyrsänkin tähden pilkkaavat, kiristävät he hampaitansa minun päälleni. ",
       "king_james": "With hypocritical mockers in feasts, they gnashed upon me with their teeth.",
       "refs": {
         "latin_vulgate": {
+          "src": "34:16"
+        },
+        "douay_rheims": {
           "src": "34:16"
         }
       }
@@ -185,9 +267,14 @@
       "verse": 17,
       "latin_vulgate": " Domine, quando respicies ?  Restitue animam meam a malignitate eorum ;  a leonibus unicam meam. ",
       "hebrew_masoretic": "אֲדֹנָי֮ כַּמָּ֢ה תִ֫רְאֶ֥ה הָשִׁ֣יבָה נַ֭פְשִׁי מִשֹּׁאֵיהֶ֑ם מִ֝כְּפִירִ֗ים יְחִידָתִֽי׃",
+      "douay_rheims": "Lord, when wilt thou look upon me? rescue thou my soul from their malice: my only one from the lions.",
+      "finnish_biblia": "Herra, kuinka kauvan sinä tätä katselet? Päästä siis sieluni heidän hävityksestänsä, ja yksinäiseni nuorista jalopeuroista. ",
       "king_james": "Lord, how long wilt thou look on? rescue my soul from their destructions, my darling from the lions.",
       "refs": {
         "latin_vulgate": {
+          "src": "34:17"
+        },
+        "douay_rheims": {
           "src": "34:17"
         }
       }
@@ -196,9 +283,14 @@
       "verse": 18,
       "latin_vulgate": " Confitebor tibi in ecclesia magna ; in populo gravi laudabo te. ",
       "hebrew_masoretic": "א֭וֹדְךָ בְּקָהָ֣ל רָ֑ב בְּעַ֖ם עָצ֣וּם אֲהַלְלֶֽךָּ׃",
+      "douay_rheims": "I will give thanks to thee in a great church; I will praise thee in a strong people.",
+      "finnish_biblia": "Minä kiitän sinua suuressa seurakunnassa; paljon kansan keskellä minä sinua ylistän. ",
       "king_james": "I will give thee thanks in the great congregation: I will praise thee among much people.",
       "refs": {
         "latin_vulgate": {
+          "src": "34:18"
+        },
+        "douay_rheims": {
           "src": "34:18"
         }
       }
@@ -207,9 +299,14 @@
       "verse": 19,
       "latin_vulgate": " Non supergaudeant mihi qui adversantur mihi inique,  qui oderunt me gratis, et annuunt oculis. ",
       "hebrew_masoretic": "אַֽל־יִשְׂמְחוּ־לִ֣י אֹיְבַ֣י שֶׁ֑קֶר שֹׂנְאַ֥י חִ֝נָּ֗ם יִקְרְצוּ־עָֽיִן׃",
+      "douay_rheims": "Let not them that are my enemies wrongfully rejoice over me: who have hated me without cause, and wink with the eyes.",
+      "finnish_biblia": "Älä salli niiden iloita minusta, jotka syyttömästi minun viholliseni ovat, eli silmää iskeä, jotka minua ilman syytä vihaavat. ",
       "king_james": "Let not them that are mine enemies wrongfully rejoice over me: neither let them wink with the eye that hate me without a cause.",
       "refs": {
         "latin_vulgate": {
+          "src": "34:19"
+        },
+        "douay_rheims": {
           "src": "34:19"
         }
       }
@@ -218,9 +315,14 @@
       "verse": 20,
       "latin_vulgate": " Quoniam mihi quidem pacifice loquebantur ;  et in iracundia terræ loquentes, dolos cogitabant. ",
       "hebrew_masoretic": "כִּ֤י לֹ֥א שָׁל֗וֹם יְדַ֫בֵּ֥רוּ וְעַ֥ל רִגְעֵי־אֶ֑רֶץ דִּבְרֵ֥י מִ֝רְמ֗וֹת יַחֲשֹׁבֽוּן׃",
+      "douay_rheims": "For they spoke indeed peaceably to me; and speaking in the anger of the earth they devised guile.",
+      "finnish_biblia": "Sillä ei he puhu ystävällisesti, vaan etsivät vääriä syitä hiljaisia vastaan maan päällä, ",
       "king_james": "For they speak not peace: but they devise deceitful matters against them that are quiet in the land.",
       "refs": {
         "latin_vulgate": {
+          "src": "34:20"
+        },
+        "douay_rheims": {
           "src": "34:20"
         }
       }
@@ -229,9 +331,14 @@
       "verse": 21,
       "latin_vulgate": " Et dilataverunt super me os suum ;  dixerunt : Euge, euge ! viderunt oculi nostri. ",
       "hebrew_masoretic": "וַיַּרְחִ֥יבוּ עָלַ֗י פִּ֫יהֶ֥ם אָ֭מְרוּ הֶאָ֣ח ׀ הֶאָ֑ח רָאֲתָ֥ה עֵינֵֽנוּ׃",
+      "douay_rheims": "And they opened their mouth wide against me; they said: Well done, well done, our eyes have seen it.",
+      "finnish_biblia": "Ja levittävät kitansa avaralta minua vastaan, ja sanovat: niin, niin: sen me mielellämme näemme. ",
       "king_james": "Yea, they opened their mouth wide against me, and said, Aha, aha, our eye hath seen it.",
       "refs": {
         "latin_vulgate": {
+          "src": "34:21"
+        },
+        "douay_rheims": {
           "src": "34:21"
         }
       }
@@ -240,9 +347,14 @@
       "verse": 22,
       "latin_vulgate": " Vidisti, Domine : ne sileas ;  Domine, ne discedas a me. ",
       "hebrew_masoretic": "רָאִ֣יתָה יְ֭הֹוָה אַֽל־תֶּחֱרַ֑שׁ אֲ֝דֹנָ֗י אַל־תִּרְחַ֥ק מִמֶּֽנִּי׃",
+      "douay_rheims": "Thou hast seen, O Lord, be not thou silent: O Lord, depart not from me.",
+      "finnish_biblia": "Herra, sinä sen myös näet, älä siis vaiti ole: Herra, älä kaukana ole minusta. ",
       "king_james": "This thou hast seen, O Lord: keep not silence: O Lord, be not far from me.",
       "refs": {
         "latin_vulgate": {
+          "src": "34:22"
+        },
+        "douay_rheims": {
           "src": "34:22"
         }
       }
@@ -251,9 +363,14 @@
       "verse": 23,
       "latin_vulgate": " Exsurge et intende judicio meo, Deus meus ;  et Dominus meus, in causam meam. ",
       "hebrew_masoretic": "הָעִ֣ירָה וְ֭הָקִיצָה לְמִשְׁפָּטִ֑י אֱלֹהַ֖י וַאדֹנָ֣י לְרִיבִֽי׃",
+      "douay_rheims": "Arise, and be attentive to my judgment: to my cause, my God, and my Lord.",
+      "finnish_biblia": "Herää ja nouse katsomaan minun oikeuttani ja asiatani, minun Jumalani ja Herrani. ",
       "king_james": "Stir up thyself, and awake to my judgment, even unto my cause, my God and my Lord.",
       "refs": {
         "latin_vulgate": {
+          "src": "34:23"
+        },
+        "douay_rheims": {
           "src": "34:23"
         }
       }
@@ -262,9 +379,14 @@
       "verse": 24,
       "latin_vulgate": " Judica me secundum justitiam tuam, Domine Deus meus,  et non supergaudeant mihi. ",
       "hebrew_masoretic": "שׇׁפְטֵ֣נִי כְ֭צִדְקְךָ יְהֹוָ֥ה אֱלֹהָ֗י וְאַל־יִשְׂמְחוּ־לִֽי׃",
+      "douay_rheims": "Judge me, O Lord my God according to thy justice, and let them not rejoice over me.",
+      "finnish_biblia": "Herra minun Jumalani, tuomitse minua vanhurskautes jälkeen, ettei he riemuitsisi minusta. ",
       "king_james": "Judge me, O Lord my God, according to thy righteousness; and let them not rejoice over me.",
       "refs": {
         "latin_vulgate": {
+          "src": "34:24"
+        },
+        "douay_rheims": {
           "src": "34:24"
         }
       }
@@ -273,9 +395,14 @@
       "verse": 25,
       "latin_vulgate": " Non dicant in cordibus suis : Euge, euge, animæ nostræ ;  nec dicant : Devoravimus eum. ",
       "hebrew_masoretic": "אַל־יֹאמְר֣וּ בְ֭לִבָּם הֶאָ֣ח נַפְשֵׁ֑נוּ אַל־יֹ֝אמְר֗וּ בִּֽלַּעֲנֽוּהוּ׃",
+      "douay_rheims": "Let them not say in their hearts: It is well, it is well, to our mind: neither let them say: We have swallowed him up.",
+      "finnish_biblia": "Älä salli heidän sydämissänsä sanoa: niin, niin me tahdomme; ja älä anna heidän sanoa: me olemme hänen nielleet. ",
       "king_james": "Let them not say in their hearts, Ah, so would we have it: let them not say, We have swallowed him up.",
       "refs": {
         "latin_vulgate": {
+          "src": "34:25"
+        },
+        "douay_rheims": {
           "src": "34:25"
         }
       }
@@ -284,9 +411,14 @@
       "verse": 26,
       "latin_vulgate": " Erubescant et revereantur simul qui gratulantur malis meis ;  induantur confusione et reverentia qui magna loquuntur super me. ",
       "hebrew_masoretic": "יֵ֘בֹ֤שׁוּ וְיַחְפְּר֨וּ ׀ יַחְדָּו֮ שְׂמֵחֵ֢י רָעָ֫תִ֥י יִֽלְבְּשׁוּ־בֹ֥שֶׁת וּכְלִמָּ֑ה הַֽמַּגְדִּילִ֥ים עָלָֽי׃",
+      "douay_rheims": "Let them blush: and be ashamed together, who rejoice at my evils. Let them be clothed with confusion and shame, who speak great things against me.",
+      "finnish_biblia": "Häväistäköön ja nauruksi joutukoon kaikki, jotka onnettomuudestani iloitsevat: puetettakoon häpiällä ja pilkalla, jotka itsiänsä minusta kerskaavat. ",
       "king_james": "Let them be ashamed and brought to confusion together that rejoice at mine hurt: let them be clothed with shame and dishonour that magnify themselves against me.",
       "refs": {
         "latin_vulgate": {
+          "src": "34:26"
+        },
+        "douay_rheims": {
           "src": "34:26"
         }
       }
@@ -295,9 +427,14 @@
       "verse": 27,
       "latin_vulgate": " Exsultent et lætentur qui volunt justitiam meam ;  et dicant semper : Magnificetur Dominus, qui volunt pacem servi ejus. ",
       "hebrew_masoretic": "יָרֹ֣נּוּ וְיִשְׂמְחוּ֮ חֲפֵצֵ֢י צִ֫דְקִ֥י וְיֹאמְר֣וּ תָ֭מִיד יִגְדַּ֣ל יְהֹוָ֑ה הֶ֝חָפֵ֗ץ שְׁל֣וֹם עַבְדּֽוֹ׃",
+      "douay_rheims": "Let them rejoice and be glad, who are well pleased with my justice, and let them say always: The Lord be magnified, who delights in the peace of his servant.",
+      "finnish_biblia": "Iloitkaan ja riemuitkaan, jotka minun vanhurskauttani rakastavat, ja sanokaan aina: Herra olkoon suuresti kiitetty, joka suo palveliallensa rauhan. ",
       "king_james": "Let them shout for joy, and be glad, that favour my righteous cause: yea, let them say continually, Let the Lord be magnified, which hath pleasure in the prosperity of his servant.",
       "refs": {
         "latin_vulgate": {
+          "src": "34:27"
+        },
+        "douay_rheims": {
           "src": "34:27"
         }
       }
@@ -306,9 +443,14 @@
       "verse": 28,
       "latin_vulgate": " Et lingua mea meditabitur justitiam tuam ;  tota die laudem tuam.  ",
       "hebrew_masoretic": "וּ֭לְשׁוֹנִי תֶּהְגֶּ֣ה צִדְקֶ֑ךָ כׇּל־הַ֝יּ֗וֹם תְּהִלָּתֶֽךָ׃ {פ}",
+      "douay_rheims": "And my tongue shall meditate thy justice, thy praise all the day long. ",
+      "finnish_biblia": "Ja minun kieleni puhuu sinun vanhurskauttas, ja kiittää sinua joka päivä.   ",
       "king_james": "And my tongue shall speak of thy righteousness and of thy praise all the day long. ",
       "refs": {
         "latin_vulgate": {
+          "src": "34:28"
+        },
+        "douay_rheims": {
           "src": "34:28"
         }
       }

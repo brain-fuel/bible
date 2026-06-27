@@ -2,6 +2,8 @@
   "book_id": "GEN",
   "latin_name": "Genesis",
   "hebrew_name": "בְּרֵאשִׁית",
+  "douay_name": "Genesis",
+  "finnish_name": "1. Mooseksen kirja",
   "english_name": "Genesis",
   "chapter": 43,
   "verses": [
@@ -9,204 +11,272 @@
       "verse": 1,
       "latin_vulgate": "Interim fames omnem terram vehementer premebat. ",
       "hebrew_masoretic": "וְהָרָעָ֖ב כָּבֵ֥ד בָּאָֽרֶץ׃",
+      "douay_rheims": "In the mean time the famine was heavy upon all the land.",
+      "finnish_biblia": "Mutta kallis aika ahdisti maata. ",
       "king_james": "And the famine was sore in the land."
     },
     {
       "verse": 2,
       "latin_vulgate": "Consumptisque cibis quos ex Ægypto detulerant, dixit Jacob ad filios suos : Revertimini, et emite nobis pauxillum escarum. ",
       "hebrew_masoretic": "וַיְהִ֗י כַּאֲשֶׁ֤ר כִּלּוּ֙ לֶאֱכֹ֣ל אֶת־הַשֶּׁ֔בֶר אֲשֶׁ֥ר הֵבִ֖יאוּ מִמִּצְרָ֑יִם וַיֹּ֤אמֶר אֲלֵיהֶם֙ אֲבִיהֶ֔ם שֻׁ֖בוּ שִׁבְרוּ־לָ֥נוּ מְעַט־אֹֽכֶל׃",
+      "douay_rheims": "And when they had eaten up all the corn, which they had brought out of Egypt, Jacob said to his sons: Go again, and buy us a little food.",
+      "finnish_biblia": "Ja koska he loppuivat syödä ne jyvät kuin he Egyptistä tuoneet olivat, sanoi heidän isänsä heille: menkäät jällensä sinne, ja ostakaat meille jotakin elatusta. ",
       "king_james": "And it came to pass, when they had eaten up the corn which they had brought out of Egypt, their father said unto them, Go again, buy us a little food."
     },
     {
       "verse": 3,
       "latin_vulgate": "Respondit Judas : Denuntiavit nobis vir ille sub attestatione jurisjurandi, dicens : Non videbitis faciem meam, nisi fratrem vestrum minimum adduxeritis vobiscum. ",
       "hebrew_masoretic": "וַיֹּ֧אמֶר אֵלָ֛יו יְהוּדָ֖ה לֵאמֹ֑ר הָעֵ֣ד הֵעִד֩ בָּ֨נוּ הָאִ֤ישׁ לֵאמֹר֙ לֹֽא־תִרְא֣וּ פָנַ֔י בִּלְתִּ֖י אֲחִיכֶ֥ם אִתְּכֶֽם׃",
+      "douay_rheims": "Juda answered: The man declared unto us with the attestation of an oath, saying: You shall not see my face, unless you bring your youngest brother with you.",
+      "finnish_biblia": "Niin vastasi häntä Juuda, sanoen: se mies haastoi meitä sangen kovin, ja sanoi: ei pidä teidän näkemän minun kasvojani, jollei teidän veljenne ole teidän kanssanne. ",
       "king_james": "And Judah spake unto him, saying, The man did solemnly protest unto us, saying, Ye shall not see my face, except your brother be with you."
     },
     {
       "verse": 4,
       "latin_vulgate": "Si ergo vis eum mittere nobiscum, pergemus pariter, et ememus tibi necessaria : ",
       "hebrew_masoretic": "אִם־יֶשְׁךָ֛ מְשַׁלֵּ֥חַ אֶת־אָחִ֖ינוּ אִתָּ֑נוּ נֵרְדָ֕ה וְנִשְׁבְּרָ֥ה לְךָ֖ אֹֽכֶל׃",
+      "douay_rheims": "If therefore thou wilt send him with us, we will set out together, and will buy necessaries for thee.",
+      "finnish_biblia": "Jos siis sinä nyt lähetät meidän veljemme meidän kanssamme, niin me menemme alas ja ostamme sinulle elatusta. ",
       "king_james": "If thou wilt send our brother with us, we will go down and buy thee food:"
     },
     {
       "verse": 5,
       "latin_vulgate": "sin autem non vis, non ibimus : vir enim, ut sæpe diximus, denuntiavit nobis, dicens : Non videbitis faciem meam absque fratre vestro minimo. ",
       "hebrew_masoretic": "וְאִם־אֵינְךָ֥ מְשַׁלֵּ֖חַ לֹ֣א נֵרֵ֑ד כִּֽי־הָאִ֞ישׁ אָמַ֤ר אֵלֵ֙ינוּ֙ לֹֽא־תִרְא֣וּ פָנַ֔י בִּלְתִּ֖י אֲחִיכֶ֥ם אִתְּכֶֽם׃",
+      "douay_rheims": "But if thou wilt not, we will not go: for the man, as we have often said, declared unto us, saying: You shall not see my face without your youngest brother.",
+      "finnish_biblia": "Vaan jolles häntä lähetä, niin emme mekään mene; sillä se mies sanoi meille: ei teidän pidä näkemän minun kasvojani, jollei teidän veljenne ole teidän kanssanne. ",
       "king_james": "But if thou wilt not send him, we will not go down: for the man said unto us, Ye shall not see my face, except your brother be with you."
     },
     {
       "verse": 6,
       "latin_vulgate": "Dixit eis Israël : In meam hoc fecistis miseriam, ut indicaretis ei et alium habere vos fratrem. ",
       "hebrew_masoretic": "וַיֹּ֙אמֶר֙ יִשְׂרָאֵ֔ל לָמָ֥ה הֲרֵעֹתֶ֖ם לִ֑י לְהַגִּ֣יד לָאִ֔ישׁ הַע֥וֹד לָכֶ֖ם אָֽח׃",
+      "douay_rheims": "Israel said to them: You have done this for my misery, in that you told him you had also another brother.",
+      "finnish_biblia": "Israel sanoi: miksi te teitte minua vastaan niin pahoin, että te sanoitte sille miehelle teillänne vielä olevan veljen. ",
       "king_james": "And Israel said, Wherefore dealt ye so ill with me, as to tell the man whether ye had yet a brother?"
     },
     {
       "verse": 7,
       "latin_vulgate": "At illi responderunt : Interrogavit nos homo per ordinem nostram progeniem : si pater viveret : si haberemus fratrem : et nos respondimus ei consequenter juxta id quod fuerat sciscitatus : numquid scire poteramus quod dicturus esset : Adducite fratrem vestrum vobiscum ? ",
       "hebrew_masoretic": "וַיֹּאמְר֡וּ שָׁא֣וֹל שָֽׁאַל־הָ֠אִ֠ישׁ לָ֣נוּ וּלְמֽוֹלַדְתֵּ֜נוּ לֵאמֹ֗ר הַע֨וֹד אֲבִיכֶ֥ם חַי֙ הֲיֵ֣שׁ לָכֶ֣ם אָ֔ח וַנַּ֨גֶּד־ל֔וֹ עַל־פִּ֖י הַדְּבָרִ֣ים הָאֵ֑לֶּה הֲיָד֣וֹעַ נֵדַ֔ע כִּ֣י יֹאמַ֔ר הוֹרִ֖ידוּ אֶת־אֲחִיכֶֽם׃",
+      "douay_rheims": "But they answered: The man asked us in order concerning our kindred: if our father lived: if we had a brother: and we answered him regularly, according to what he demanded: could we know that he would say: Bring hither your brother with you?",
+      "finnish_biblia": "He vastasivat: se mies kysyi meistä niin visusti, ja meidän suvustamme, sanoen: vieläkö teidän isänne elää? Onko teillä vielä veljeä? Niin me vastasimme häntä kuin hän kysyi. Taitaisimmeko me ratki tietää hänen sanovan: tuokaat veljenne tänne. ",
       "king_james": "And they said, The man asked us straitly of our state, and of our kindred, saying, Is your father yet alive? have ye another brother? and we told him according to the tenor of these words: could we certainly know that he would say, Bring your brother down?"
     },
     {
       "verse": 8,
       "latin_vulgate": "Judas quoque dixit patri suo : Mitte puerum mecum, ut proficiscamur, et possimus vivere : ne moriamur nos et parvuli nostri. ",
       "hebrew_masoretic": "וַיֹּ֨אמֶר יְהוּדָ֜ה אֶל־יִשְׂרָאֵ֣ל אָבִ֗יו שִׁלְחָ֥ה הַנַּ֛עַר אִתִּ֖י וְנָק֣וּמָה וְנֵלֵ֑כָה וְנִֽחְיֶה֙ וְלֹ֣א נָמ֔וּת גַּם־אֲנַ֥חְנוּ גַם־אַתָּ֖ה גַּם־טַפֵּֽנוּ׃",
+      "douay_rheims": "And Juda said to his father: Send the boy with me, that we may set forward, and may live: lest both we and our children perish.",
+      "finnish_biblia": "Niin sanoi Juuda isällensä Israelille: lähetä nuorukainen minun kanssani, niin me valmistamme ja lähdemme matkaan: että me eläisimme ja emme kuolisi, sekä me että sinä ja meidän lapsemme. ",
       "king_james": "And Judah said unto Israel his father, Send the lad with me, and we will arise and go; that we may live, and not die, both we, and thou, and also our little ones."
     },
     {
       "verse": 9,
       "latin_vulgate": "Ego suscipio puerum : de manu mea require illum : nisi reduxero, et reddidero eum tibi, ero peccati reus in te omni tempore. ",
       "hebrew_masoretic": "אָֽנֹכִי֙ אֶֽעֶרְבֶ֔נּוּ מִיָּדִ֖י תְּבַקְשֶׁ֑נּוּ אִם־לֹ֨א הֲבִיאֹתִ֤יו אֵלֶ֙יךָ֙ וְהִצַּגְתִּ֣יו לְפָנֶ֔יךָ וְחָטָ֥אתִֽי לְךָ֖ כׇּל־הַיָּמִֽים׃",
+      "douay_rheims": "I take the boy upon me, require him at my hand: unless I bring him again, and restore him to thee, I will be guilty of sin against thee for ever.",
+      "finnish_biblia": "Minä takaan hänen edestänsä, kaipaa häntä minun käsistäni; jollen minä tuo häntä jälleen sinun tykös, ja pane häntä sinun etees, niin minä olen vikapää sinun edessäs kaikkena minun elinaikanani. ",
       "king_james": "I will be surety for him; of my hand shalt thou require him: if I bring him not unto thee, and set him before thee, then let me bear the blame for ever:"
     },
     {
       "verse": 10,
       "latin_vulgate": "Si non intercessisset dilatio, jam vice alter venissemus. ",
       "hebrew_masoretic": "כִּ֖י לוּלֵ֣א הִתְמַהְמָ֑הְנוּ כִּֽי־עַתָּ֥ה שַׁ֖בְנוּ זֶ֥ה פַעֲמָֽיִם׃",
+      "douay_rheims": "If delay had not been made, we had been here again the second time.",
+      "finnish_biblia": "Sillä jollei meillä olisi ollut viivytystä, totisesti me olisimme jo toisen kerran tulleet jällensä. ",
       "king_james": "For except we had lingered, surely now we had returned this second time."
     },
     {
       "verse": 11,
       "latin_vulgate": "Igitur Israël pater eorum dixit ad eos : Si sic necesse est, facite quod vultis : sumite de optimis terræ fructibus in vasis vestris, et deferte viro munera, modicum resinæ, et mellis, et storacis, stactes, et terebinthi, et amygdalarum. ",
       "hebrew_masoretic": "וַיֹּ֨אמֶר אֲלֵהֶ֜ם יִשְׂרָאֵ֣ל אֲבִיהֶ֗ם אִם־כֵּ֣ן ׀ אֵפוֹא֮ זֹ֣את עֲשׂוּ֒ קְח֞וּ מִזִּמְרַ֤ת הָאָ֙רֶץ֙ בִּכְלֵיכֶ֔ם וְהוֹרִ֥ידוּ לָאִ֖ישׁ מִנְחָ֑ה מְעַ֤ט צֳרִי֙ וּמְעַ֣ט דְּבַ֔שׁ נְכֹ֣את וָלֹ֔ט בׇּטְנִ֖ים וּשְׁקֵדִֽים׃",
+      "douay_rheims": "Then Israel said to them: If it must needs be so, do what you will: take of the best fruits of the land in your vessels, and carry down presents to the man, a little balm, and honey, and storax, myrrh, turpentine, and almonds.",
+      "finnish_biblia": "Niin sanoi Israel heidän isänsä heille: jos nyt kumminkin niin pitää oleman, tehkäät siis näin: ottakaat maan parhaista hedelmistä teidän astioihinne, ja viekäät sille miehelle lahjoja: jotakin mastiksia ja hunajaa, ja styraksia, ja ladanumia, ja dadelia ja mandelia. ",
       "king_james": "And their father Israel said unto them, If it must be so now, do this; take of the best fruits in the land in your vessels, and carry down the man a present, a little balm, and a little honey, spices, and myrrh, nuts, and almonds:"
     },
     {
       "verse": 12,
       "latin_vulgate": "Pecuniam quoque duplicem ferte vobiscum : et illam, quam invenistis in sacculis, reportate, ne forte errore factum sit : ",
       "hebrew_masoretic": "וְכֶ֥סֶף מִשְׁנֶ֖ה קְח֣וּ בְיֶדְכֶ֑ם וְאֶת־הַכֶּ֜סֶף הַמּוּשָׁ֨ב בְּפִ֤י אַמְתְּחֹֽתֵיכֶם֙ תָּשִׁ֣יבוּ בְיֶדְכֶ֔ם אוּלַ֥י מִשְׁגֶּ֖ה הֽוּא׃",
+      "douay_rheims": "And take with you double money, and carry back what you found in your sacks, lest perhaps it was done by mistake.",
+      "finnish_biblia": "Ottakaat myös toinen raha teidän myötänne, ja se raha, jonka te toitte jällensä säkkein suussa, viekäät myötänne; taitaa olla, että se on epähuomiosta tapahtunut. ",
       "king_james": "And take double money in your hand; and the money that was brought again in the mouth of your sacks, carry it again in your hand; peradventure it was an oversight:"
     },
     {
       "verse": 13,
       "latin_vulgate": "sed et fratrem vestrum tollite, et ite ad virum. ",
       "hebrew_masoretic": "וְאֶת־אֲחִיכֶ֖ם קָ֑חוּ וְק֖וּמוּ שׁ֥וּבוּ אֶל־הָאִֽישׁ׃",
+      "douay_rheims": "And take also your brother, and go to the man.",
+      "finnish_biblia": "Ottakaat myös teidän veljenne; ja valmistakaat, ja menkäät jälleen sen miehen tykö. ",
       "king_james": "Take also your brother, and arise, go again unto the man:"
     },
     {
       "verse": 14,
       "latin_vulgate": "Deus autem meus omnipotens faciat vobis eum placabilem : et remittat vobiscum fratrem vestrum quem tenet, et hunc Benjamin : ego autem quasi orbatus absque liberis ero.  ",
       "hebrew_masoretic": "וְאֵ֣ל שַׁדַּ֗י יִתֵּ֨ן לָכֶ֤ם רַחֲמִים֙ לִפְנֵ֣י הָאִ֔ישׁ וְשִׁלַּ֥ח לָכֶ֛ם אֶת־אֲחִיכֶ֥ם אַחֵ֖ר וְאֶת־בִּנְיָמִ֑ין וַאֲנִ֕י כַּאֲשֶׁ֥ר שָׁכֹ֖לְתִּי שָׁכָֽלְתִּי׃",
+      "douay_rheims": "And may my almighty God make him favourable to you: and send back with you your brother, whom he keepeth, and this Benjamin: and as for me I shall be desolate without children.",
+      "finnish_biblia": "Jumala kaikkivaltias antakoon teidän löytää laupiuden sen miehen edessä, että hän päästäis jälleen teille toisen teidän veljenne, ja (tämän) BenJaminin. Mutta minä, niinkuin minä olen lapsettomaksi joutunut, olen lapsetonna. ",
       "king_james": "And God Almighty give you mercy before the man, that he may send away your other brother, and Benjamin. If I be bereaved of my children, I am bereaved."
     },
     {
       "verse": 15,
       "latin_vulgate": " Tulerunt ergo viri munera, et pecuniam duplicem, et Benjamin : descenderuntque in Ægyptum, et steterunt coram Joseph. ",
       "hebrew_masoretic": "וַיִּקְח֤וּ הָֽאֲנָשִׁים֙ אֶת־הַמִּנְחָ֣ה הַזֹּ֔את וּמִשְׁנֶה־כֶּ֛סֶף לָקְח֥וּ בְיָדָ֖ם וְאֶת־בִּנְיָמִ֑ן וַיָּקֻ֙מוּ֙ וַיֵּרְד֣וּ מִצְרַ֔יִם וַיַּֽעַמְד֖וּ לִפְנֵ֥י יוֹסֵֽף׃",
+      "douay_rheims": "So the men took the presents, and double money, and Benjamin: and went down into Egypt, and stood before Joseph.",
+      "finnish_biblia": "Niin ottivat miehet nämät lahjat, ja ottivat kaksi sen vertaa rahaa myötänsä, ja BenJaminin: valmistivat itsensä ja menivät Egyptiin, ja seisoivat Josephin edessä. ",
       "king_james": "And the men took that present, and they took double money in their hand, and Benjamin; and rose up, and went down to Egypt, and stood before Joseph."
     },
     {
       "verse": 16,
       "latin_vulgate": "Quos cum ille vidisset et Benjamin simul, præcepit dispensatori domus suæ, dicens : Introduc viros domum, et occide victimas, et instrue convivium : quoniam mecum sunt comesturi meridie. ",
       "hebrew_masoretic": "וַיַּ֨רְא יוֹסֵ֣ף אִתָּם֮ אֶת־בִּנְיָמִין֒ וַיֹּ֙אמֶר֙ לַֽאֲשֶׁ֣ר עַל־בֵּית֔וֹ הָבֵ֥א אֶת־הָאֲנָשִׁ֖ים הַבָּ֑יְתָה וּטְבֹ֤חַ טֶ֙בַח֙ וְהָכֵ֔ן כִּ֥י אִתִּ֛י יֹאכְל֥וּ הָאֲנָשִׁ֖ים בַּֽצׇּהֳרָֽיִם׃",
+      "douay_rheims": "And when he had seen them, and Benjamin with them, he commanded the steward of his house, saying: Bring in the men into the house, and kill victims, and prepare a feast: because they shall eat with me at noon.",
+      "finnish_biblia": "Ja kun Joseph näki BenJaminin heidän kanssansa, sanoi hän huoneensa haltialle: vie nämät miehet huoneesen, ja tee ja teurasta ja valmista; sillä heidän pitää minun kanssani päivällistä syömän. ",
       "king_james": "And when Joseph saw Benjamin with them, he said to the ruler of his house, Bring these men home, and slay, and make ready; for these men shall dine with me at noon."
     },
     {
       "verse": 17,
       "latin_vulgate": "Fecit ille quod sibi fuerat imperatum, et introduxit viros domum. ",
       "hebrew_masoretic": "וַיַּ֣עַשׂ הָאִ֔ישׁ כַּֽאֲשֶׁ֖ר אָמַ֣ר יוֹסֵ֑ף וַיָּבֵ֥א הָאִ֛ישׁ אֶת־הָאֲנָשִׁ֖ים בֵּ֥יתָה יוֹסֵֽף׃",
+      "douay_rheims": "He did as he was commanded, and brought the men into the house.",
+      "finnish_biblia": "Ja se mies teki niinkuin Joseph oli hänelle käskenyt, ja vei miehet Josephin huoneesen. ",
       "king_james": "And the man did as Joseph bade; and the man brought the men into Joseph’s house."
     },
     {
       "verse": 18,
       "latin_vulgate": "Ibique exterriti, dixerunt mutuo : Propter pecuniam, quam retulimus prius in saccis nostris, introducti sumus : ut devolvat in nos calumniam, et violenter subjiciat servituti et nos, et asinos nostros. ",
       "hebrew_masoretic": "וַיִּֽירְא֣וּ הָֽאֲנָשִׁ֗ים כִּ֣י הֽוּבְאוּ֮ בֵּ֣ית יוֹסֵף֒ וַיֹּאמְר֗וּ עַל־דְּבַ֤ר הַכֶּ֙סֶף֙ הַשָּׁ֤ב בְּאַמְתְּחֹתֵ֙ינוּ֙ בַּתְּחִלָּ֔ה אֲנַ֖חְנוּ מֽוּבָאִ֑ים לְהִתְגֹּלֵ֤ל עָלֵ֙ינוּ֙ וּלְהִתְנַפֵּ֣ל עָלֵ֔ינוּ וְלָקַ֧חַת אֹתָ֛נוּ לַעֲבָדִ֖ים וְאֶת־חֲמֹרֵֽינוּ׃",
+      "douay_rheims": "And they being much afraid, said there one to another: Because of the money, which we carried back the first time in our sacks, we are brought in: that he may bring upon us a false accusation, and by violence make slaves of us and our asses.",
+      "finnish_biblia": "Ja he pelkäsivät, että he vietiin Josephin huoneesen, ja sanoivat: me viedään tänne sen rahan tähden jonka me tätä ennen löysimme meidän säkeistämme: että hän soimais meitä, ja saattais meitä oikeuden alle, ja ottais meitä orjiksensa, ja meidän aasimme. ",
       "king_james": "And the men were afraid, because they were brought into Joseph’s house; and they said, Because of the money that was returned in our sacks at the first time are we brought in; that he may seek occasion against us, and fall upon us, and take us for bondmen, and our asses."
     },
     {
       "verse": 19,
       "latin_vulgate": "Quam ob rem in ipsis foribus accedentes ad dispensatorem domus, ",
       "hebrew_masoretic": "וַֽיִּגְּשׁוּ֙ אֶל־הָאִ֔ישׁ אֲשֶׁ֖ר עַל־בֵּ֣ית יוֹסֵ֑ף וַיְדַבְּר֥וּ אֵלָ֖יו פֶּ֥תַח הַבָּֽיִת׃",
+      "douay_rheims": "Wherefore, going up to the steward of the house, at the door,",
+      "finnish_biblia": "Sentähden he menivät Josephin huoneenhaltian tykö, ja puhuttelivat häntä huoneen oven edessä, ",
       "king_james": "And they came near to the steward of Joseph’s house, and they communed with him at the door of the house,"
     },
     {
       "verse": 20,
       "latin_vulgate": "locuti sunt : Oramus, domine, ut audias nos. Jam ante descendimus ut emeremus escas : ",
       "hebrew_masoretic": "וַיֹּאמְר֖וּ בִּ֣י אֲדֹנִ֑י יָרֹ֥ד יָרַ֛דְנוּ בַּתְּחִלָּ֖ה לִשְׁבׇּר־אֹֽכֶל׃",
+      "douay_rheims": "They said: Sir, we desire thee to hear us. We came down once before to buy food:",
+      "finnish_biblia": "Ja sanoivat: ah, minun herrani, me olimme ennen tänne tulleet ostamaan jyviä. ",
       "king_james": "And said, O sir, we came indeed down at the first time to buy food:"
     },
     {
       "verse": 21,
       "latin_vulgate": "quibus emptis, cum venissemus ad diversorium, aperuimus saccos nostros, et invenimus pecuniam in ore saccorum : quam nunc eodem pondere reportavimus. ",
       "hebrew_masoretic": "וַיְהִ֞י כִּי־בָ֣אנוּ אֶל־הַמָּל֗וֹן וַֽנִּפְתְּחָה֙ אֶת־אַמְתְּחֹתֵ֔ינוּ וְהִנֵּ֤ה כֶֽסֶף־אִישׁ֙ בְּפִ֣י אַמְתַּחְתּ֔וֹ כַּסְפֵּ֖נוּ בְּמִשְׁקָל֑וֹ וַנָּ֥שֶׁב אֹת֖וֹ בְּיָדֵֽנוּ׃",
+      "douay_rheims": "And when we had bought, and were come to the inn, we opened our sacks, and found our money in the mouths of the sacks: which we have now brought again in the same weight.",
+      "finnish_biblia": "Ja koska me tulimme yösialle, ja avasimme meidän säkkimme, katso, niin oli itsekunkin raha säkkinsä suussa täydellä painolla: sentähden olemme me ne jällensä myötämme tuoneet. ",
       "king_james": "And it came to pass, when we came to the inn, that we opened our sacks, and, behold, every man’s money was in the mouth of his sack, our money in full weight: and we have brought it again in our hand."
     },
     {
       "verse": 22,
       "latin_vulgate": "Sed et aliud attulimus argentum, ut emamus quæ nobis necessaria sunt : non est in nostra conscientia quis posuerit eam in marsupiis nostris. ",
       "hebrew_masoretic": "וְכֶ֧סֶף אַחֵ֛ר הוֹרַ֥דְנוּ בְיָדֵ֖נוּ לִשְׁבׇּר־אֹ֑כֶל לֹ֣א יָדַ֔עְנוּ מִי־שָׂ֥ם כַּסְפֵּ֖נוּ בְּאַמְתְּחֹתֵֽינוּ׃",
+      "douay_rheims": "And we have brought other money besides, to buy what we want: we cannot tell who put it in our bags.",
+      "finnish_biblia": "Olemme myös toisen rahan myötämme tuoneet ostaaksemme jyviä; emme sitä tiedä, kuka on pannut jällensä meidän rahamme meidän säkkiimme. ",
       "king_james": "And other money have we brought down in our hands to buy food: we cannot tell who put our money in our sacks."
     },
     {
       "verse": 23,
       "latin_vulgate": "At ille respondit : Pax vobiscum, nolite timere : Deus vester, et Deus patris vestri, dedit vobis thesauros in saccis vestris : nam pecuniam, quam dedistis mihi, probatam ego habeo. Eduxitque ad eos Simeon. ",
       "hebrew_masoretic": "וַיֹּ֩אמֶר֩ שָׁל֨וֹם לָכֶ֜ם אַל־תִּירָ֗אוּ אֱלֹ֨הֵיכֶ֜ם וֵֽאלֹהֵ֤י אֲבִיכֶם֙ נָתַ֨ן לָכֶ֤ם מַטְמוֹן֙ בְּאַמְתְּחֹ֣תֵיכֶ֔ם כַּסְפְּכֶ֖ם בָּ֣א אֵלָ֑י וַיּוֹצֵ֥א אֲלֵהֶ֖ם אֶת־שִׁמְעֽוֹן׃",
+      "douay_rheims": "But he answered: Peace be with you, fear not: your God, and the God of your father, hath given you treasure in your sacks. For the money, which you gave me, I have for good. And he brought Simeon out to them.",
+      "finnish_biblia": "Mutta hän sanoi: olkaat hyvässä turvassa, älkäät peljätkö: teidän Jumalanne ja teidän isänne Jumala on teille tavaran antanut teidän säkkiinne: teidän rahanne olen minä saanut. Ja hän toi Simeonin heidän tykönsä. ",
       "king_james": "And he said, Peace be to you, fear not: your God, and the God of your father, hath given you treasure in your sacks: I had your money. And he brought Simeon out unto them."
     },
     {
       "verse": 24,
       "latin_vulgate": "Et introductis domum, attulit aquam, et laverunt pedes suos, deditque pabulum asinis eorum. ",
       "hebrew_masoretic": "וַיָּבֵ֥א הָאִ֛ישׁ אֶת־הָאֲנָשִׁ֖ים בֵּ֣יתָה יוֹסֵ֑ף וַיִּתֶּן־מַ֙יִם֙ וַיִּרְחֲצ֣וּ רַגְלֵיהֶ֔ם וַיִּתֵּ֥ן מִסְפּ֖וֹא לַחֲמֹֽרֵיהֶֽם׃",
+      "douay_rheims": "And having brought them into the house, he fetched water, and they washed their feet, and he gave provender to their asses.",
+      "finnish_biblia": "Ja se mies vei heidät Josephin huoneesen, antoi heille vettä pestä heidän jalkojansa, ja antoi ruokaa heidän aaseillensa. ",
       "king_james": "And the man brought the men into Joseph’s house, and gave them water, and they washed their feet; and he gave their asses provender."
     },
     {
       "verse": 25,
       "latin_vulgate": "Illi vero parabant munera, donec ingrederetur Joseph meridie : audierant enim quod ibi comesturi essent panem. ",
       "hebrew_masoretic": "וַיָּכִ֙ינוּ֙ אֶת־הַמִּנְחָ֔ה עַד־בּ֥וֹא יוֹסֵ֖ף בַּֽצׇּהֳרָ֑יִם כִּ֣י שָֽׁמְע֔וּ כִּי־שָׁ֖ם יֹ֥אכְלוּ לָֽחֶם׃",
+      "douay_rheims": "But they made ready the presents, against Joseph came at noon: for they had heard that they should eat bread there.",
+      "finnish_biblia": "Mutta he valmistivat lahjojansa, siihen asti kuin Joseph tuli päivälliselle; sillä he olivat kuulleet, että heidän piti siellä syömän. ",
       "king_james": "And they made ready the present against Joseph came at noon: for they heard that they should eat bread there."
     },
     {
       "verse": 26,
       "latin_vulgate": "Igitur ingressus est Joseph domum suam, obtuleruntque ei munera, tenentes in manibus suis : et adoraverunt proni in terram. ",
       "hebrew_masoretic": "וַיָּבֹ֤א יוֹסֵף֙ הַבַּ֔יְתָה וַיָּבִ֥יאּוּ ל֛וֹ אֶת־הַמִּנְחָ֥ה אֲשֶׁר־בְּיָדָ֖ם הַבָּ֑יְתָה וַיִּשְׁתַּחֲווּ־ל֖וֹ אָֽרְצָה׃",
+      "douay_rheims": "Then Joseph came in to his house, and they offered him the presents, holding them in their hands; and they bowed down with their face to the ground.",
+      "finnish_biblia": "Koska Joseph tuli huoneesen, kantoivat he lahjoja huoneesen hänelle käsissänsä, ja kumarsivat maahan hänen eteensä. ",
       "king_james": "And when Joseph came home, they brought him the present which was in their hand into the house, and bowed themselves to him to the earth."
     },
     {
       "verse": 27,
       "latin_vulgate": "At ille, clementer resalutatis eis, interrogavit eos, dicens : Salvusne est pater vester senex, de quo dixeratis mihi ? adhuc vivit ? ",
       "hebrew_masoretic": "וַיִּשְׁאַ֤ל לָהֶם֙ לְשָׁל֔וֹם וַיֹּ֗אמֶר הֲשָׁל֛וֹם אֲבִיכֶ֥ם הַזָּקֵ֖ן אֲשֶׁ֣ר אֲמַרְתֶּ֑ם הַעוֹדֶ֖נּוּ חָֽי׃",
+      "douay_rheims": "But he courteously saluting them again, asked them, saying: Is the old man your father in health, of whom you told me? Is he yet living?",
+      "finnish_biblia": "Ja hän tervehti heitä rakkaasti, ja sanoi: onko teidän vanha isänne rauhassa, josta te minulle sanoitte? Vieläkö hän elää? ",
       "king_james": "And he asked them of their welfare, and said, Is your father well, the old man of whom ye spake? Is he yet alive?"
     },
     {
       "verse": 28,
       "latin_vulgate": "Qui responderunt : Sospes est servus tuus pater noster, adhuc vivit. Et incurvati, adoraverunt eum. ",
       "hebrew_masoretic": "וַיֹּאמְר֗וּ שָׁל֛וֹם לְעַבְדְּךָ֥ לְאָבִ֖ינוּ עוֹדֶ֣נּוּ חָ֑י וַֽיִּקְּד֖וּ (וישתחו) [וַיִּֽשְׁתַּחֲוֽוּ]׃",
+      "douay_rheims": "And they answered: Thy servant our father, is in health; he is yet living. And bowing themselves, they made obeisance to him.",
+      "finnish_biblia": "He vastasivat: sinun palvelias meidän isämme on rauhassa, ja elää vielä; ja he kumarsivat ja maahan lankesivat hänen edessänsä. ",
       "king_james": "And they answered, Thy servant our father is in good health, he is yet alive. And they bowed down their heads, and made obeisance."
     },
     {
       "verse": 29,
       "latin_vulgate": "Attollens autem Joseph oculos, vidit Benjamin fratrem suum uterinum, et ait : Iste est frater vester parvulus, de quo dixeratis mihi ? Et rursum : Deus, inquit, misereatur tui, fili mi. ",
       "hebrew_masoretic": "וַיִּשָּׂ֣א עֵינָ֗יו וַיַּ֞רְא אֶת־בִּנְיָמִ֣ין אָחִיו֮ בֶּן־אִמּוֹ֒ וַיֹּ֗אמֶר הֲזֶה֙ אֲחִיכֶ֣ם הַקָּטֹ֔ן אֲשֶׁ֥ר אֲמַרְתֶּ֖ם אֵלָ֑י וַיֹּאמַ֕ר אֱלֹהִ֥ים יׇחְנְךָ֖ בְּנִֽי׃",
+      "douay_rheims": "And Joseph lifting up his eyes, saw Benjamin, his brother by the same mother, and said: Is this your young brother, of whom you told me? And he said: God be gracious to thee, my son.",
+      "finnish_biblia": "Niin hän nosti silmänsä ja näki veljensä BenJaminin, äitinsä pojan, ja sanoi: onko tämä teidän nuorin veljenne, josta te sanoitte minulle? Ja sanoi vielä: Jumala olkoon sinulle armollinen, minun poikani. ",
       "king_james": "And he lifted up his eyes, and saw his brother Benjamin, his mother’s son, and said, Is this your younger brother, of whom ye spake unto me? And he said, God be gracious unto thee, my son."
     },
     {
       "verse": 30,
       "latin_vulgate": "Festinavitque, quia commota fuerant viscera ejus super fratre suo, et erumpebant lacrimæ : et introiens cubiculum flevit. ",
       "hebrew_masoretic": "וַיְמַהֵ֣ר יוֹסֵ֗ף כִּֽי־נִכְמְר֤וּ רַחֲמָיו֙ אֶל־אָחִ֔יו וַיְבַקֵּ֖שׁ לִבְכּ֑וֹת וַיָּבֹ֥א הַחַ֖דְרָה וַיֵּ֥בְךְּ שָֽׁמָּה׃",
+      "douay_rheims": "And he made haste, because his heart was moved upon his brother, and tears gushed out: and going into his chamber, he wept.",
+      "finnish_biblia": "Ja Joseph kiiruhti itsensä; sillä hänen sydämensä paloi veljeänsä kohtaan, ja etsi siaa itkeäksensä; ja meni kamariinsa, ja itki siellä. ",
       "king_james": "And Joseph made haste; for his bowels did yearn upon his brother: and he sought where to weep; and he entered into his chamber, and wept there."
     },
     {
       "verse": 31,
       "latin_vulgate": "Rursumque lota facie egressus, continuit se, et ait : Ponite panes. ",
       "hebrew_masoretic": "וַיִּרְחַ֥ץ פָּנָ֖יו וַיֵּצֵ֑א וַיִּ֨תְאַפַּ֔ק וַיֹּ֖אמֶר שִׂ֥ימוּ לָֽחֶם׃",
+      "douay_rheims": "And when he had washed his face, coming out again, he refrained himself, and said: Set bread on the table.",
+      "finnish_biblia": "Ja kuin hän oli pessyt kasvona, tuli hän ulos; ja pidätti itsensä, ja sanoi: tuokaat leipää. ",
       "king_james": "And he washed his face, and went out, and refrained himself, and said, Set on bread."
     },
     {
       "verse": 32,
       "latin_vulgate": "Quibus appositis, seorsum Joseph, et seorsum fratribus, Ægyptiis quoque qui vescebantur simul, seorsum (illicitum est enim Ægyptiis comedere cum Hebræis, et profanum putant hujuscemodi convivium) ",
       "hebrew_masoretic": "וַיָּשִׂ֥ימוּ ל֛וֹ לְבַדּ֖וֹ וְלָהֶ֣ם לְבַדָּ֑ם וְלַמִּצְרִ֞ים הָאֹכְלִ֤ים אִתּוֹ֙ לְבַדָּ֔ם כִּי֩ לֹ֨א יוּכְל֜וּן הַמִּצְרִ֗ים לֶאֱכֹ֤ל אֶת־הָֽעִבְרִים֙ לֶ֔חֶם כִּי־תוֹעֵבָ֥ה הִ֖וא לְמִצְרָֽיִם׃",
+      "douay_rheims": "And when it was set on, for Joseph apart, and for his brethren apart, for the Egyptians also that ate with him apart, (for it is unlawful for the Egyptians to eat with the Hebrews, and they think such a feast profane):",
+      "finnish_biblia": "Ja pantiin erinänsä hänelle ja erinänsä heille, niin myös Egyptiläisille, jotka hänen kanssansa atrioitsivat, erinänsä; sillä Egyptiläiset ei saa syödä Hebrealaisten kanssa, sillä se on Egyptiläisille kauhistus. ",
       "king_james": "And they set on for him by himself, and for them by themselves, and for the Egyptians, which did eat with him, by themselves: because the Egyptians might not eat bread with the Hebrews; for that is an abomination unto the Egyptians."
     },
     {
       "verse": 33,
       "latin_vulgate": "sederunt coram eo, primogenitus juxta primogenita sua, et minimus juxta ætatem suam. Et mirabantur nimis, ",
       "hebrew_masoretic": "וַיֵּשְׁב֣וּ לְפָנָ֔יו הַבְּכֹר֙ כִּבְכֹ֣רָת֔וֹ וְהַצָּעִ֖יר כִּצְעִרָת֑וֹ וַיִּתְמְה֥וּ הָאֲנָשִׁ֖ים אִ֥ישׁ אֶל־רֵעֵֽהוּ׃",
+      "douay_rheims": "They sat before him, the firstborn according to his birthright, and the youngest according to his age. And they wondered very much;",
+      "finnish_biblia": "Ja he istutettiin hänen kohdallensa, esikoinen esikoisuutensa jälkeen, ja nuorin nuoruutensa jälkeen: sitä miehet ihmettelivät keskenänsä. ",
       "king_james": "And they sat before him, the firstborn according to his birthright, and the youngest according to his youth: and the men marvelled one at another."
     },
     {
       "verse": 34,
       "latin_vulgate": "sumptis partibus quas ab eo acceperant : majorque pars venit Benjamin, ita ut quinque partibus excederet. Biberuntque et inebriati sunt cum eo.   ",
       "hebrew_masoretic": "וַיִּשָּׂ֨א מַשְׂאֹ֜ת מֵאֵ֣ת פָּנָיו֮ אֲלֵהֶם֒ וַתֵּ֜רֶב מַשְׂאַ֧ת בִּנְיָמִ֛ן מִמַּשְׂאֹ֥ת כֻּלָּ֖ם חָמֵ֣שׁ יָד֑וֹת וַיִּשְׁתּ֥וּ וַֽיִּשְׁכְּר֖וּ עִמּֽוֹ׃",
+      "douay_rheims": "Taking the messes which they received of him: and the greater mess came to Benjamin, so that it exceeded by five parts. And they drank, and were merry with him. ",
+      "finnish_biblia": "Ja heille kannettiin ruokaa hänen pöydältänsä, mutta BenJaminille viisi kertaa enemmän kuin muille. Ja he joivat ja juopuivat hänen kanssansa.   ",
       "king_james": "And he took and sent messes unto them from before him: but Benjamin’s mess was five times so much as any of theirs. And they drank, and were merry with him. "
     }
   ]

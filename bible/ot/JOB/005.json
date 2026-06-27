@@ -2,6 +2,8 @@
   "book_id": "JOB",
   "latin_name": "Iob",
   "hebrew_name": "אִיּוֹב",
+  "douay_name": "Job",
+  "finnish_name": "Jobin kirja",
   "english_name": "Job",
   "chapter": 5,
   "verses": [
@@ -9,162 +11,216 @@
       "verse": 1,
       "latin_vulgate": "Voca ergo, si est qui tibi respondeat,  et ad aliquem sanctorum convertere. ",
       "hebrew_masoretic": "קְֽרָא־נָ֭א הֲיֵ֣שׁ עוֹנֶ֑ךָּ וְאֶל־מִ֖י מִקְּדֹשִׁ֣ים תִּפְנֶֽה׃",
+      "douay_rheims": "Call now, if there be any that will answer thee, and turn to some of the saints.",
+      "finnish_biblia": "Nimitä siis, jos joku on, joka kanssas todistaa, ja kenen tykö pyhistä sinä itses käännät? ",
       "king_james": "Call now, if there be any that will answer thee; and to which of the saints wilt thou turn?"
     },
     {
       "verse": 2,
       "latin_vulgate": " Vere stultum interficit iracundia,  et parvulum occidit invidia. ",
       "hebrew_masoretic": "כִּֽי־לֶ֭אֱוִיל יַהֲרׇג־כָּ֑עַשׂ וּ֝פֹתֶ֗ה תָּמִ֥ית קִנְאָֽה׃",
+      "douay_rheims": "Anger indeed killeth the foolish, and envy slayeth the little one.",
+      "finnish_biblia": "Mutta tyhmän tappaa viha, ja taitamattoman kuolettaa kiivaus. ",
       "king_james": "For wrath killeth the foolish man, and envy slayeth the silly one."
     },
     {
       "verse": 3,
       "latin_vulgate": " Ego vidi stultum firma radice,  et maledixi pulchritudini ejus statim. ",
       "hebrew_masoretic": "אֲֽנִי־רָ֭אִיתִי אֱוִ֣יל מַשְׁרִ֑ישׁ וָאֶקּ֖וֹב נָוֵ֣הוּ פִתְאֹֽם׃",
+      "douay_rheims": "I have seen a fool with a strong root, and I cursed his beauty immediately.",
+      "finnish_biblia": "Minä näin tyhmän juurtuneen, ja kirosin kohta hänen huonettansa. ",
       "king_james": "I have seen the foolish taking root: but suddenly I cursed his habitation."
     },
     {
       "verse": 4,
       "latin_vulgate": " Longe fient filii ejus a salute,  et conterentur in porta,  et non erit qui eruat. ",
       "hebrew_masoretic": "יִרְחֲק֣וּ בָנָ֣יו מִיֶּ֑שַׁע וְיִֽדַּכְּא֥וּ בַ֝שַּׁ֗עַר וְאֵ֣ין מַצִּֽיל׃",
+      "douay_rheims": "His children shall be far from safety, and shall be destroyed in the gate, and there shall be none to deliver them.",
+      "finnish_biblia": "Hänen lapsensa pitää oleman kaukana terveydestä; ja pitää rikki murrettaman portissa, kussa ei yhtään auttajaa ole. ",
       "king_james": "His children are far from safety, and they are crushed in the gate, neither is there any to deliver them."
     },
     {
       "verse": 5,
       "latin_vulgate": " Cujus messem famelicus comedet,  et ipsum rapiet armatus,  et bibent sitientes divitias ejus. ",
       "hebrew_masoretic": "אֲשֶׁ֤ר קְצִיר֨וֹ ׀ רָ֘עֵ֤ב יֹאכֵ֗ל וְאֶֽל־מִצִּנִּ֥ים יִקָּחֵ֑הוּ וְשָׁאַ֖ף צַמִּ֣ים חֵילָֽם׃",
+      "douay_rheims": "Whose harvest the hungry shall eat, and the armed man shall take him by violence, and the thirsty shall drink up his riches.",
+      "finnish_biblia": "Hänen elonsa pitää isoovaisen syömän, ja orjantappuroista sen ottaman; ja hänen kalunsa pitää ryövärien nielemän. ",
       "king_james": "Whose harvest the hungry eateth up, and taketh it even out of the thorns, and the robber swalloweth up their substance."
     },
     {
       "verse": 6,
       "latin_vulgate": " Nihil in terra sine causa fit,  et de humo non oritur dolor. ",
       "hebrew_masoretic": "כִּ֤י ׀ לֹא־יֵצֵ֣א מֵעָפָ֣ר אָ֑וֶן וּ֝מֵאֲדָמָ֗ה לֹא־יִצְמַ֥ח עָמָֽל׃",
+      "douay_rheims": "Nothing upon earth is done without a cause, and sorrow doth not spring out of the ground.",
+      "finnish_biblia": "Sillä ei vaiva käy ylös tomusta; ja onnettomuus ei kasva maasta. ",
       "king_james": "Although affliction cometh not forth of the dust, neither doth trouble spring out of the ground;"
     },
     {
       "verse": 7,
       "latin_vulgate": " Homo nascitur ad laborem,  et avis ad volatum. ",
       "hebrew_masoretic": "כִּֽי־אָ֭דָם לְעָמָ֣ל יוּלָּ֑ד וּבְנֵי־רֶ֝֗שֶׁף יַגְבִּ֥יהוּ עֽוּף׃",
+      "douay_rheims": "Man is born to labour, and the bird to fly.",
+      "finnish_biblia": "Vaan ihminen syntyy onnettomuuteen; niinkuin kuumain hiilten kipinät sinkoilevat ylöskäsin. ",
       "king_james": "Yet man is born unto trouble, as the sparks fly upward."
     },
     {
       "verse": 8,
       "latin_vulgate": " Quam ob rem ego deprecabor Dominum,  et ad Deum ponam eloquium meum : ",
       "hebrew_masoretic": "אוּלָ֗ם אֲ֭נִי אֶדְרֹ֣שׁ אֶל־אֵ֑ל וְאֶל־אֱ֝לֹהִ֗ים אָשִׂ֥ים דִּבְרָתִֽי׃",
+      "douay_rheims": "Wherefore I will pray to the Lord, and address my speech to God:",
+      "finnish_biblia": "Kuitenkin tahdon minä Jumalasta tutkistella: Jumalasta minä tahdon puhua, ",
       "king_james": "I would seek unto God, and unto God would I commit my cause:"
     },
     {
       "verse": 9,
       "latin_vulgate": " qui facit magna et inscrutabilia,  et mirabilia absque numero ; ",
       "hebrew_masoretic": "עֹשֶׂ֣ה גְ֭דֹלוֹת וְאֵ֣ין חֵ֑קֶר נִ֝פְלָא֗וֹת עַד־אֵ֥ין מִסְפָּֽר׃",
+      "douay_rheims": "Who doth great things, and unsearchable and wonderful things without number:",
+      "finnish_biblia": "Joka voimallisia töitä tekee, joita ei tutkia taideta, ja ihmeitä, joita ei lukea taideta; ",
       "king_james": "Which doeth great things and unsearchable; marvellous things without number:"
     },
     {
       "verse": 10,
       "latin_vulgate": " qui dat pluviam super faciem terræ,  et irrigat aquis universa ; ",
       "hebrew_masoretic": "הַנֹּתֵ֣ן מָ֭טָר עַל־פְּנֵי־אָ֑רֶץ וְשֹׁ֥לֵֽחַ מַ֝֗יִם עַל־פְּנֵ֥י חוּצֽוֹת׃",
+      "douay_rheims": "Who giveth rain upon the face of the earth, and watereth all things with waters:",
+      "finnish_biblia": "Joka antaa sateen maan päälle, ja antaa tulla veden teiden päälle; ",
       "king_james": "Who giveth rain upon the earth, and sendeth waters upon the fields:"
     },
     {
       "verse": 11,
       "latin_vulgate": " qui ponit humiles in sublime,  et mœrentes erigit sospitate ; ",
       "hebrew_masoretic": "לָשׂ֣וּם שְׁפָלִ֣ים לְמָר֑וֹם וְ֝קֹדְרִ֗ים שָׂ֣גְבוּ יֶֽשַׁע׃",
+      "douay_rheims": "Who setteth up the humble on high, and comforteth with health those that mourn.",
+      "finnish_biblia": "Joka ylentää nöyrät korkeuteen, ja korottaa sorrettuja autuuteen. ",
       "king_james": "To set up on high those that be low; that those which mourn may be exalted to safety."
     },
     {
       "verse": 12,
       "latin_vulgate": " qui dissipat cogitationes malignorum,  ne possint implere manus eorum quod cœperant ; ",
       "hebrew_masoretic": "מֵ֭פֵר מַחְשְׁב֣וֹת עֲרוּמִ֑ים וְֽלֹא־תַעֲשֶׂ֥נָה יְ֝דֵיהֶ֗ם תֻּֽשִׁיָּֽה׃",
+      "douay_rheims": "Who bringeth to nought the designs of the malignant, so that their hands cannot accomplish what they had begun:",
+      "finnish_biblia": "Hän tekee kavalain aivoitukset tyhjäksi, ettei heidän kätensä mitään toimittaa taida. ",
       "king_james": "He disappointeth the devices of the crafty, so that their hands cannot perform their enterprise."
     },
     {
       "verse": 13,
       "latin_vulgate": " qui apprehendit sapientes in astutia eorum,  et consilium pravorum dissipat. ",
       "hebrew_masoretic": "לֹכֵ֣ד חֲכָמִ֣ים בְּעׇרְמָ֑ם וַעֲצַ֖ת נִפְתָּלִ֣ים נִמְהָֽרָה׃",
+      "douay_rheims": "Who catcheth the wise in their craftiness, and disappointeth the counsel of the wicked:",
+      "finnish_biblia": "Hän käsittää taitavat kavaluudessansa, ja pahain neuvo kukistetaan, ",
       "king_james": "He taketh the wise in their own craftiness: and the counsel of the froward is carried headlong."
     },
     {
       "verse": 14,
       "latin_vulgate": " Per diem incurrent tenebras,  et quasi in nocte, sic palpabunt in meridie. ",
       "hebrew_masoretic": "יוֹמָ֥ם יְפַגְּשׁוּ־חֹ֑שֶׁךְ וְ֝כַלַּ֗יְלָה יְֽמַשְׁשׁ֥וּ בַֽצׇּהֳרָֽיִם׃",
+      "douay_rheims": "They shall meet with darkness in the day, and grope at noonday as in the night.",
+      "finnish_biblia": "Että he päivällä juoksevat pimeydessä, ja koperoitsevat puolipäivänä niinkuin yöllä. ",
       "king_james": "They meet with darkness in the daytime, and grope in the noonday as in the night."
     },
     {
       "verse": 15,
       "latin_vulgate": " Porro salvum faciet egenum a gladio oris eorum,  et de manu violenti pauperem. ",
       "hebrew_masoretic": "וַיֹּ֣שַׁע מֵ֭חֶרֶב מִפִּיהֶ֑ם וּמִיַּ֖ד חָזָ֣ק אֶבְיֽוֹן׃",
+      "douay_rheims": "But he shall save the needy from the sword of their mouth, and the poor from the hand of the violent.",
+      "finnish_biblia": "Ja hän auttaa köyhää miekasta, ja heidän suustansa, ja voimallisten kädestä. ",
       "king_james": "But he saveth the poor from the sword, from their mouth, and from the hand of the mighty."
     },
     {
       "verse": 16,
       "latin_vulgate": " Et erit egeno spes ;  iniquitas autem contrahet os suum. ",
       "hebrew_masoretic": "וַתְּהִ֣י לַדַּ֣ל תִּקְוָ֑ה וְ֝עֹלָ֗תָה קָ֣פְצָה פִּֽיהָ׃",
+      "douay_rheims": "And to the needy there shall be hope, but iniquity shall draw in her mouth.",
+      "finnish_biblia": "Ja hän on köyhän turva, että vääryys pitäis suunsa kiinni. ",
       "king_james": "So the poor hath hope, and iniquity stoppeth her mouth."
     },
     {
       "verse": 17,
       "latin_vulgate": " Beatus homo qui corripitur a Deo :  increpationem ergo Domini ne reprobes : ",
       "hebrew_masoretic": "הִנֵּ֤ה אַשְׁרֵ֣י אֱ֭נוֹשׁ יוֹכִחֶ֣נּוּ אֱל֑וֹהַּ וּמוּסַ֥ר שַׁ֝דַּ֗י אַל־תִּמְאָֽס׃",
+      "douay_rheims": "Blessed is the man whom God correcteth: refuse not, therefore, the chastising of the Lord.",
+      "finnish_biblia": "Katso, autuas on se ihminen, jota Jumala kurittaa; sentähden älä hylkää Kaikkivaltiaan kuritusta. ",
       "king_james": "Behold, happy is the man whom God correcteth: therefore despise not thou the chastening of the Almighty:"
     },
     {
       "verse": 18,
       "latin_vulgate": " quia ipse vulnerat, et medetur ;  percutit, et manus ejus sanabunt. ",
       "hebrew_masoretic": "כִּ֤י ה֣וּא יַכְאִ֣יב וְיֶחְבָּ֑שׁ יִ֝מְחַ֗ץ וְיָדָ֥ו תִּרְפֶּֽינָה׃",
+      "douay_rheims": "For he woundeth, and cureth: he striketh, and his hands shall heal.",
+      "finnish_biblia": "Sillä hän haavoittaa ja sitoo; hän lyö ja hänen kätensä terveeksi tekee. ",
       "king_james": "For he maketh sore, and bindeth up: he woundeth, and his hands make whole."
     },
     {
       "verse": 19,
       "latin_vulgate": " In sex tribulationibus liberabit te,  et in septima non tanget te malum. ",
       "hebrew_masoretic": "בְּשֵׁ֣שׁ צָ֭רוֹת יַצִּילֶ֑ךָּ וּבְשֶׁ֓בַע ׀ לֹֽא־יִגַּ֖ע בְּךָ֣ רָֽע׃",
+      "douay_rheims": "In six troubles he shall deliver thee, and in the seventh, evil shall not touch thee.",
+      "finnish_biblia": "Kuudesta murheesta päästää hän sinun; ja seitsemännestä ei tule mitään pahaa sinulle. ",
       "king_james": "He shall deliver thee in six troubles: yea, in seven there shall no evil touch thee."
     },
     {
       "verse": 20,
       "latin_vulgate": " In fame eruet te de morte,  et in bello de manu gladii. ",
       "hebrew_masoretic": "בְּֽ֭רָעָב פָּדְךָ֣ מִמָּ֑וֶת וּ֝בְמִלְחָמָ֗ה מִ֣ידֵי חָֽרֶב׃",
+      "douay_rheims": "In famine he shall deliver thee from death; and in battle, from the hand of the sword.",
+      "finnish_biblia": "Kalliilla ajalla vapahtaa hän sinun kuolemasta, ja sodassa miekasta. ",
       "king_james": "In famine he shall redeem thee from death: and in war from the power of the sword."
     },
     {
       "verse": 21,
       "latin_vulgate": " A flagello linguæ absconderis,  et non timebis calamitatem cum venerit. ",
       "hebrew_masoretic": "בְּשׁ֣וֹט לָ֭שׁוֹן תֵּחָבֵ֑א וְֽלֹא־תִירָ֥א מִ֝שֹּׁ֗ד כִּ֣י יָבֽוֹא׃",
+      "douay_rheims": "Thou shalt be hidden from the scourge of the tongue: and thou shalt not fear calamity when it cometh.",
+      "finnish_biblia": "Hän peittää sinun kielen ruoskalta; ja ei sinun pidä pelkäämän hävitystä, koska se tulee. ",
       "king_james": "Thou shalt be hid from the scourge of the tongue: neither shalt thou be afraid of destruction when it cometh."
     },
     {
       "verse": 22,
       "latin_vulgate": " In vastitate et fame ridebis,  et bestias terræ non formidabis. ",
       "hebrew_masoretic": "לְשֹׁ֣ד וּלְכָפָ֣ן תִּשְׂחָ֑ק וּֽמֵחַיַּ֥ת הָ֝אָ֗רֶץ אַל־תִּירָֽא׃",
+      "douay_rheims": "In destruction and famine thou shalt laugh: and thou shalt not be afraid of the beasts of the earth.",
+      "finnish_biblia": "Hävityksessä ja nälässä sinä naurat; ja et pelkää metsän petoja. ",
       "king_james": "At destruction and famine thou shalt laugh: neither shalt thou be afraid of the beasts of the earth."
     },
     {
       "verse": 23,
       "latin_vulgate": " Sed cum lapidibus regionum pactum tuum,  et bestiæ terræ pacificæ erunt tibi. ",
       "hebrew_masoretic": "כִּ֤י עִם־אַבְנֵ֣י הַשָּׂדֶ֣ה בְרִיתֶ֑ךָ וְחַיַּ֥ת הַ֝שָּׂדֶ֗ה הׇשְׁלְמָה־לָּֽךְ׃",
+      "douay_rheims": "But thou shalt have a covenant with the stones of the lands, and the beasts of the earth shall be at peace with thee.",
+      "finnish_biblia": "Sillä sinun liittos pitää oleman kivien kanssa kedolla, ja maan pedot pitää sinun kanssas rauhallisesti oleman. ",
       "king_james": "For thou shalt be in league with the stones of the field: and the beasts of the field shall be at peace with thee."
     },
     {
       "verse": 24,
       "latin_vulgate": " Et scies quod pacem habeat tabernaculum tuum ;  et visitans speciem tuam, non peccabis. ",
       "hebrew_masoretic": "וְֽ֭יָדַעְתָּ כִּֽי־שָׁל֣וֹם אׇהֳלֶ֑ךָ וּֽפָקַדְתָּ֥ נָ֝וְךָ֗ וְלֹ֣א תֶחֱטָֽא׃",
+      "douay_rheims": "And thou shalt know that thy tabernacle is in peace, and visiting thy beauty, thou shalt not sin.",
+      "finnish_biblia": "Sinä ymmärrät, että sinun majas on rauhassa, ja sinä oleskelet asuinsiassas ilman syntiä. ",
       "king_james": "And thou shalt know that thy tabernacle shall be in peace; and thou shalt visit thy habitation, and shalt not sin."
     },
     {
       "verse": 25,
       "latin_vulgate": " Scies quoque quoniam multiplex erit semen tuum,  et progenies tua quasi herba terræ. ",
       "hebrew_masoretic": "וְֽ֭יָדַעְתָּ כִּֽי־רַ֣ב זַרְעֶ֑ךָ וְ֝צֶאֱצָאֶ֗יךָ כְּעֵ֣שֶׂב הָאָֽרֶץ׃",
+      "douay_rheims": "Thou shalt know also that thy seed shall be multiplied, and thy offspring like the grass of the earth.",
+      "finnish_biblia": "Ja sinä saat ymmärtää, että siemenes on suureksi tuleva, ja vesas niinkuin ruoho maassa. ",
       "king_james": "Thou shalt know also that thy seed shall be great, and thine offspring as the grass of the earth."
     },
     {
       "verse": 26,
       "latin_vulgate": " Ingredieris in abundantia sepulchrum,  sicut infertur acervus tritici in tempore suo. ",
       "hebrew_masoretic": "תָּב֣וֹא בְכֶ֣לַח אֱלֵי־קָ֑בֶר כַּעֲל֖וֹת גָּדִ֣ישׁ בְּעִתּֽוֹ׃",
+      "douay_rheims": "Thou shalt enter into the grave in abundance, as a heap of wheat is brought in its season.",
+      "finnish_biblia": "Ja sinä tulet vanhalla ijällä hautaan, niinkuin elositoma ajallansa korjataan. ",
       "king_james": "Thou shalt come to thy grave in a full age, like as a shock of corn cometh in in his season."
     },
     {
       "verse": 27,
       "latin_vulgate": " Ecce hoc, ut investigavimus, ita est :  quod auditum, mente pertracta.  ",
       "hebrew_masoretic": "הִנֵּה־זֹ֖את חֲקַרְנ֥וּהָ כֶּֽן־הִ֑יא שְׁ֝מָעֶ֗נָּה וְאַתָּ֥ה דַֽע־לָֽךְ׃ {פ}",
+      "douay_rheims": "Behold, this is even so, as we have searched out: which thou having heard, consider it thoroughly in thy mind. ",
+      "finnish_biblia": "Katso, sitä me olemme tutkineet, ja se on niin: kuule sitä, ja tunne sinä myös se hyväkses.   ",
       "king_james": "Lo this, we have searched it, so it is; hear it, and know thou it for thy good. "
     }
   ]

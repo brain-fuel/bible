@@ -2,6 +2,8 @@
   "book_id": "PSA",
   "latin_name": "Liber Psalmorum",
   "hebrew_name": "תְּהִלִּים",
+  "douay_name": "Psalms",
+  "finnish_name": "Psalmit",
   "english_name": "Psalms",
   "chapter": 81,
   "verses": [
@@ -9,6 +11,8 @@
       "verse": 1,
       "latin_vulgate": "  Exsultate Deo adjutori nostro ;  jubilate Deo Jacob. ",
       "hebrew_masoretic": "הַ֭רְנִינוּ לֵאלֹהִ֣ים עוּזֵּ֑נוּ הָ֝רִ֗יעוּ לֵאלֹהֵ֥י יַעֲקֹֽב׃",
+      "douay_rheims": "Rejoice to God our helper: sing aloud to the God of Jacob.",
+      "finnish_biblia": "Gittitin päällä, edelläveisaajalle, Asaphin (Psalmi.) (H81:2) Veisatkaat iloisesti Jumalalle, joka on meidän väkevyytemme: ihastukaat Jakobin Jumalalle. ",
       "king_james": "Sing aloud unto God our strength: make a joyful noise unto the God of Jacob.",
       "refs": {
         "latin_vulgate": {
@@ -16,6 +20,9 @@
         },
         "hebrew_masoretic": {
           "src": "81:2"
+        },
+        "douay_rheims": {
+          "src": "80:2"
         }
       }
     },
@@ -23,6 +30,8 @@
       "verse": 2,
       "latin_vulgate": " Sumite psalmum, et date tympanum ;  psalterium jucundum cum cithara. ",
       "hebrew_masoretic": "שְֽׂאוּ־זִ֭מְרָה וּתְנוּ־תֹ֑ף כִּנּ֖וֹר נָעִ֣ים עִם־נָֽבֶל׃",
+      "douay_rheims": "Take a psalm, and bring hither the timbrel: the pleasant psaltery with the harp.",
+      "finnish_biblia": "Ottakaat psalmit ja tuokaat kanteleet, iloiset harput ja psaltari. ",
       "king_james": "Take a psalm, and bring hither the timbrel, the pleasant harp with the psaltery.",
       "refs": {
         "latin_vulgate": {
@@ -30,6 +39,9 @@
         },
         "hebrew_masoretic": {
           "src": "81:3"
+        },
+        "douay_rheims": {
+          "src": "80:3"
         }
       }
     },
@@ -37,6 +49,8 @@
       "verse": 3,
       "latin_vulgate": " Buccinate in neomenia tuba,  in insigni die solemnitatis vestræ : ",
       "hebrew_masoretic": "תִּקְע֣וּ בַחֹ֣דֶשׁ שׁוֹפָ֑ר בַּ֝כֵּ֗סֶה לְי֣וֹם חַגֵּֽנוּ׃",
+      "douay_rheims": "Blow up the trumpet on the new moon, on the noted day of your solemnity.",
+      "finnish_biblia": "Soittakaat pasunilla uudessa kuussa, meidän lehtimajamme juhlapäivänä. ",
       "king_james": "Blow up the trumpet in the new moon, in the time appointed, on our solemn feast day.",
       "refs": {
         "latin_vulgate": {
@@ -44,6 +58,9 @@
         },
         "hebrew_masoretic": {
           "src": "81:4"
+        },
+        "douay_rheims": {
+          "src": "80:4"
         }
       }
     },
@@ -51,6 +68,8 @@
       "verse": 4,
       "latin_vulgate": " quia præceptum in Israël est,  et judicium Deo Jacob. ",
       "hebrew_masoretic": "כִּ֤י חֹ֣ק לְיִשְׂרָאֵ֣ל ה֑וּא מִ֝שְׁפָּ֗ט לֵאלֹהֵ֥י יַעֲקֹֽב׃",
+      "douay_rheims": "For it is a commandment in Israel, and a judgment to the God of Jacob.",
+      "finnish_biblia": "Sillä se on tapa Israelissa, ja Jakobin Jumalan oikeus. ",
       "king_james": "For this was a statute for Israel, and a law of the God of Jacob.",
       "refs": {
         "latin_vulgate": {
@@ -58,6 +77,9 @@
         },
         "hebrew_masoretic": {
           "src": "81:5"
+        },
+        "douay_rheims": {
+          "src": "80:5"
         }
       }
     },
@@ -65,6 +87,8 @@
       "verse": 5,
       "latin_vulgate": " Testimonium in Joseph posuit illud,  cum exiret de terra Ægypti ;  linguam quam non noverat, audivit. ",
       "hebrew_masoretic": "עֵד֤וּת ׀ בִּיה֘וֹסֵ֤ף שָׂמ֗וֹ בְּ֭צֵאתוֹ עַל־אֶ֣רֶץ מִצְרָ֑יִם שְׂפַ֖ת לֹא־יָדַ֣עְתִּי אֶשְׁמָֽע׃",
+      "douay_rheims": "He ordained it for a testimony in Joseph, when he came out of the land of Egypt: he heard a tongue which he knew not.",
+      "finnish_biblia": "Sen hän pani Josephissa todistukseksi, koska he Egyptin maalta läksivät, ja oudon kielen kuulleet olivat. ",
       "king_james": "This he ordained in Joseph for a testimony, when he went out through the land of Egypt: where I heard a language that I understood not.",
       "refs": {
         "latin_vulgate": {
@@ -72,6 +96,9 @@
         },
         "hebrew_masoretic": {
           "src": "81:6"
+        },
+        "douay_rheims": {
+          "src": "80:6"
         }
       }
     },
@@ -79,6 +106,8 @@
       "verse": 6,
       "latin_vulgate": " Divertit ab oneribus dorsum ejus ;  manus ejus in cophino servierunt. ",
       "hebrew_masoretic": "הֲסִיר֣וֹתִי מִסֵּ֣בֶל שִׁכְמ֑וֹ כַּ֝פָּ֗יו מִדּ֥וּד תַּעֲבֹֽרְנָה׃",
+      "douay_rheims": "He removed his back from the burdens: his hands had served in baskets.",
+      "finnish_biblia": "Minä olen heidän olkansa kuormasta vapahtanut; ja heidän kätensä pääsivät tiiliä tekemästä. ",
       "king_james": "I removed his shoulder from the burden: his hands were delivered from the pots.",
       "refs": {
         "latin_vulgate": {
@@ -86,6 +115,9 @@
         },
         "hebrew_masoretic": {
           "src": "81:7"
+        },
+        "douay_rheims": {
+          "src": "80:7"
         }
       }
     },
@@ -93,6 +125,8 @@
       "verse": 7,
       "latin_vulgate": " In tribulatione invocasti me, et liberavi te.  Exaudivi te in abscondito tempestatis ;  probavi te apud aquam contradictionis. ",
       "hebrew_masoretic": "בַּצָּרָ֥ה קָרָ֗אתָ וָאֲחַ֫לְּצֶ֥ךָּ אֶ֭עֶנְךָ בְּסֵ֣תֶר רַ֑עַם אֶבְחׇנְךָ֨ עַל־מֵ֖י מְרִיבָ֣ה סֶֽלָה׃",
+      "douay_rheims": "Thou calledst upon me in affliction, and I delivered thee: I heard thee in the secret place of tempest: I proved thee at the waters of contradiction.",
+      "finnish_biblia": "Koska sinä tuskassas minua avukses huusit, niin minä autin sinua: minä kuulin sinua, koska tuulispää tuli sinun päälles, ja koettelin sinua riitaveden tykönä, Sela! ",
       "king_james": "Thou calledst in trouble, and I delivered thee; I answered thee in the secret place of thunder: I proved thee at the waters of Meribah. Selah.",
       "refs": {
         "latin_vulgate": {
@@ -100,6 +134,9 @@
         },
         "hebrew_masoretic": {
           "src": "81:8"
+        },
+        "douay_rheims": {
+          "src": "80:8"
         }
       }
     },
@@ -107,6 +144,8 @@
       "verse": 8,
       "latin_vulgate": " Audi, populus meus, et contestabor te.  Israël, si audieris me, ",
       "hebrew_masoretic": "שְׁמַ֣ע עַ֭מִּי וְאָעִ֣ידָה בָּ֑ךְ יִ֝שְׂרָאֵ֗ל אִם־תִּֽשְׁמַֽע־לִֽי׃",
+      "douay_rheims": "Hear, O my people, and I will testify to thee: O Israel, if thou wilt hearken to me,",
+      "finnish_biblia": "Kuule, minun kansani, minä todistan sinun seassas: Israel, jospa sinä minua kuulisit! ",
       "king_james": "Hear, O my people, and I will testify unto thee: O Israel, if thou wilt hearken unto me;",
       "refs": {
         "latin_vulgate": {
@@ -114,6 +153,9 @@
         },
         "hebrew_masoretic": {
           "src": "81:9"
+        },
+        "douay_rheims": {
+          "src": "80:9"
         }
       }
     },
@@ -121,6 +163,8 @@
       "verse": 9,
       "latin_vulgate": " non erit in te deus recens,  neque adorabis deum alienum. ",
       "hebrew_masoretic": "לֹא־יִהְיֶ֣ה בְ֭ךָ אֵ֣ל זָ֑ר וְלֹ֥א תִ֝שְׁתַּחֲוֶ֗ה לְאֵ֣ל נֵכָֽר׃",
+      "douay_rheims": "there shall be no new god in thee: neither shalt thou adore a strange god.",
+      "finnish_biblia": "Ei pidä sinun seassas muukalainen jumala oleman, ja ei pidä sinun vierasta jumalaa kumartaman. ",
       "king_james": "There shall no strange god be in thee; neither shalt thou worship any strange god.",
       "refs": {
         "latin_vulgate": {
@@ -128,6 +172,9 @@
         },
         "hebrew_masoretic": {
           "src": "81:10"
+        },
+        "douay_rheims": {
+          "src": "80:10"
         }
       }
     },
@@ -135,6 +182,8 @@
       "verse": 10,
       "latin_vulgate": " Ego enim sum Dominus Deus tuus,  qui eduxi te de terra Ægypti.  Dilata os tuum, et implebo illud. ",
       "hebrew_masoretic": "אָֽנֹכִ֨י ׀ יְ֘הֹוָ֤ה אֱלֹהֶ֗יךָ הַֽ֭מַּעַלְךָ מֵאֶ֣רֶץ מִצְרָ֑יִם הַרְחֶב־פִּ֝֗יךָ וַאֲמַלְאֵֽהוּ׃",
+      "douay_rheims": "For I am the Lord thy God, who brought thee out of the land of Egypt: open thy mouth wide, and I will fill it.",
+      "finnish_biblia": "Minä olen Herra sinun Jumalas, joka sinun vein ulos Egyptin maalta: levitä suus, niin minä sen täytän. ",
       "king_james": "I am the Lord thy God, which brought thee out of the land of Egypt: open thy mouth wide, and I will fill it.",
       "refs": {
         "latin_vulgate": {
@@ -142,6 +191,9 @@
         },
         "hebrew_masoretic": {
           "src": "81:11"
+        },
+        "douay_rheims": {
+          "src": "80:11"
         }
       }
     },
@@ -149,6 +201,8 @@
       "verse": 11,
       "latin_vulgate": " Et non audivit populus meus vocem meam,  et Israël non intendit mihi. ",
       "hebrew_masoretic": "וְלֹא־שָׁמַ֣ע עַמִּ֣י לְקוֹלִ֑י וְ֝יִשְׂרָאֵ֗ל לֹא־אָ֥בָה לִֽי׃",
+      "douay_rheims": "But my people heard not my voice: and Israel hearkened not to me.",
+      "finnish_biblia": "Mutta minun kansani ei kuullut minun ääntäni, ja Israel ei totellut minua. ",
       "king_james": "But my people would not hearken to my voice; and Israel would none of me.",
       "refs": {
         "latin_vulgate": {
@@ -156,6 +210,9 @@
         },
         "hebrew_masoretic": {
           "src": "81:12"
+        },
+        "douay_rheims": {
+          "src": "80:12"
         }
       }
     },
@@ -163,6 +220,8 @@
       "verse": 12,
       "latin_vulgate": " Et dimisi eos secundum desideria cordis eorum ;  ibunt in adinventionibus suis. ",
       "hebrew_masoretic": "וָ֭אֲשַׁלְּחֵהוּ בִּשְׁרִיר֣וּת לִבָּ֑ם יֵ֝לְכ֗וּ בְּֽמוֹעֲצ֖וֹתֵיהֶֽם׃",
+      "douay_rheims": "So I let them go according to the desires of their heart: they shall walk in their own inventions.",
+      "finnish_biblia": "Niin minä laskin heitä sydämensä pahuuteen, vaeltamaan neuvonsa jälkeen. ",
       "king_james": "So I gave them up unto their own hearts’ lust: and they walked in their own counsels.",
       "refs": {
         "latin_vulgate": {
@@ -170,6 +229,9 @@
         },
         "hebrew_masoretic": {
           "src": "81:13"
+        },
+        "douay_rheims": {
+          "src": "80:13"
         }
       }
     },
@@ -177,6 +239,8 @@
       "verse": 13,
       "latin_vulgate": " Si populus meus audisset me,  Israël si in viis meis ambulasset, ",
       "hebrew_masoretic": "ל֗וּ עַ֭מִּי שֹׁמֵ֣עַֽ לִ֑י יִ֝שְׂרָאֵ֗ל בִּדְרָכַ֥י יְהַלֵּֽכוּ׃",
+      "douay_rheims": "If my people had heard me: if Israel had walked in my ways:",
+      "finnish_biblia": "Jos minun kansani kuulis minua, ja Israel minun teissäni kävis, ",
       "king_james": "Oh that my people had hearkened unto me, and Israel had walked in my ways!",
       "refs": {
         "latin_vulgate": {
@@ -184,6 +248,9 @@
         },
         "hebrew_masoretic": {
           "src": "81:14"
+        },
+        "douay_rheims": {
+          "src": "80:14"
         }
       }
     },
@@ -191,6 +258,8 @@
       "verse": 14,
       "latin_vulgate": " pro nihilo forsitan inimicos eorum humiliassem,  et super tribulantes eos misissem manum meam. ",
       "hebrew_masoretic": "כִּ֭מְעַט אוֹיְבֵיהֶ֣ם אַכְנִ֑יעַ וְעַ֥ל צָ֝רֵיהֶ֗ם אָשִׁ֥יב יָדִֽי׃",
+      "douay_rheims": "I should soon have humbled their enemies, and laid my hand on them that troubled them.",
+      "finnish_biblia": "Niin minä pian heidän vihollisensa painaisin alas, ja käteni kääntäisin heidän vihollistensa päälle, ",
       "king_james": "I should soon have subdued their enemies, and turned my hand against their adversaries.",
       "refs": {
         "latin_vulgate": {
@@ -198,6 +267,9 @@
         },
         "hebrew_masoretic": {
           "src": "81:15"
+        },
+        "douay_rheims": {
+          "src": "80:15"
         }
       }
     },
@@ -205,6 +277,8 @@
       "verse": 15,
       "latin_vulgate": " Inimici Domini mentiti sunt ei,  et erit tempus eorum in sæcula. ",
       "hebrew_masoretic": "מְשַׂנְאֵ֣י יְ֭הֹוָה יְכַחֲשׁוּ־ל֑וֹ וִיהִ֖י עִתָּ֣ם לְעוֹלָֽם׃",
+      "douay_rheims": "The enemies of the Lord have lied to him: and their time shall be for ever.",
+      "finnish_biblia": "Ja Herran viholliset hukkaan tulisivat; mutta heidän aikansa olisi ijankaikkisesti pysyvä, ",
       "king_james": "The haters of the Lord should have submitted themselves unto him: but their time should have endured for ever.",
       "refs": {
         "latin_vulgate": {
@@ -212,6 +286,9 @@
         },
         "hebrew_masoretic": {
           "src": "81:16"
+        },
+        "douay_rheims": {
+          "src": "80:16"
         }
       }
     },
@@ -219,6 +296,8 @@
       "verse": 16,
       "latin_vulgate": " Et cibavit eos ex adipe frumenti,  et de petra melle saturavit eos.  ",
       "hebrew_masoretic": "וַֽ֭יַּאֲכִילֵהוּ מֵחֵ֣לֶב חִטָּ֑ה וּ֝מִצּ֗וּר דְּבַ֣שׁ אַשְׂבִּיעֶֽךָ׃ {פ}",
+      "douay_rheims": "And he fed them with the fat of wheat, and filled them with honey out of the rock. ",
+      "finnish_biblia": "Ja minä ruokkisin heitä parhailla nisuilla, ja ravitsisin heitä hunajalla kalliosta.   ",
       "king_james": "He should have fed them also with the finest of the wheat: and with honey out of the rock should I have satisfied thee. ",
       "refs": {
         "latin_vulgate": {
@@ -226,6 +305,9 @@
         },
         "hebrew_masoretic": {
           "src": "81:17"
+        },
+        "douay_rheims": {
+          "src": "80:17"
         }
       }
     }

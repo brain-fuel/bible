@@ -2,6 +2,8 @@
   "book_id": "PSA",
   "latin_name": "Liber Psalmorum",
   "hebrew_name": "תְּהִלִּים",
+  "douay_name": "Psalms",
+  "finnish_name": "Psalmit",
   "english_name": "Psalms",
   "chapter": 22,
   "verses": [
@@ -9,6 +11,8 @@
       "verse": 1,
       "latin_vulgate": "  Deus, Deus meus, respice in me : quare me dereliquisti ?  longe a salute mea verba delictorum meorum. ",
       "hebrew_masoretic": "אֵלִ֣י אֵ֭לִי לָמָ֣ה עֲזַבְתָּ֑נִי רָח֥וֹק מִֽ֝ישׁוּעָתִ֗י דִּבְרֵ֥י שַׁאֲגָתִֽי׃",
+      "douay_rheims": "O God my God, look upon me: why hast thou forsaken me? Far from my salvation are the words of my sins.",
+      "finnish_biblia": "Davidin Psalmi, edelläveisaajalle, peurasta, jota varhain väijytään. (H22:2) Minun Jumalani, minun Jumalani! miksis minun hylkäsit? minä parun, vaan minun apuni on kaukana. ",
       "king_james": "My God, my God, why hast thou forsaken me? why art thou so far from helping me, and from the words of my roaring?",
       "refs": {
         "latin_vulgate": {
@@ -16,6 +20,9 @@
         },
         "hebrew_masoretic": {
           "src": "22:2"
+        },
+        "douay_rheims": {
+          "src": "21:2"
         }
       }
     },
@@ -23,6 +30,8 @@
       "verse": 2,
       "latin_vulgate": " Deus meus, clamabo per diem, et non exaudies ;  et nocte, et non ad insipientiam mihi. ",
       "hebrew_masoretic": "אֱֽלֹהַ֗י אֶקְרָ֣א י֭וֹמָם וְלֹ֣א תַעֲנֶ֑ה וְ֝לַ֗יְלָה וְֽלֹא־דֻֽמִיָּ֥ה לִֽי׃",
+      "douay_rheims": "O my God, I shall cry by day, and thou wilt not hear: and by night, and it shall not be reputed as folly in me.",
+      "finnish_biblia": "Minun Jumalani! päivällä minä huudan, ja et sinä vastaa, ja en yölläkään vaikene. ",
       "king_james": "O my God, I cry in the daytime, but thou hearest not; and in the night season, and am not silent.",
       "refs": {
         "latin_vulgate": {
@@ -30,6 +39,9 @@
         },
         "hebrew_masoretic": {
           "src": "22:3"
+        },
+        "douay_rheims": {
+          "src": "21:3"
         }
       }
     },
@@ -37,6 +49,8 @@
       "verse": 3,
       "latin_vulgate": " Tu autem in sancto habitas, laus Israël. ",
       "hebrew_masoretic": "וְאַתָּ֥ה קָד֑וֹשׁ י֝וֹשֵׁ֗ב תְּהִלּ֥וֹת יִשְׂרָאֵֽל׃",
+      "douay_rheims": "But thou dwellest in the holy place, the praise of Israel.",
+      "finnish_biblia": "Sinä olet pyhä, joka asut Israelin kiitoksessa. ",
       "king_james": "But thou art holy, O thou that inhabitest the praises of Israel.",
       "refs": {
         "latin_vulgate": {
@@ -44,6 +58,9 @@
         },
         "hebrew_masoretic": {
           "src": "22:4"
+        },
+        "douay_rheims": {
+          "src": "21:4"
         }
       }
     },
@@ -51,6 +68,8 @@
       "verse": 4,
       "latin_vulgate": " In te speraverunt patres nostri ;  speraverunt, et liberasti eos. ",
       "hebrew_masoretic": "בְּ֭ךָ בָּטְח֣וּ אֲבֹתֵ֑ינוּ בָּ֝טְח֗וּ וַֽתְּפַלְּטֵֽמוֹ׃",
+      "douay_rheims": "In thee have our fathers hoped: they have hoped, and thou hast delivered them.",
+      "finnish_biblia": "Meidän isämme toivoivat sinuun: ja kuin he toivoivat, niin sinä vapahdit heitä. ",
       "king_james": "Our fathers trusted in thee: they trusted, and thou didst deliver them.",
       "refs": {
         "latin_vulgate": {
@@ -58,6 +77,9 @@
         },
         "hebrew_masoretic": {
           "src": "22:5"
+        },
+        "douay_rheims": {
+          "src": "21:5"
         }
       }
     },
@@ -65,6 +87,8 @@
       "verse": 5,
       "latin_vulgate": " Ad te clamaverunt, et salvi facti sunt ;  in te speraverunt, et non sunt confusi. ",
       "hebrew_masoretic": "אֵלֶ֣יךָ זָעֲק֣וּ וְנִמְלָ֑טוּ בְּךָ֖ בָטְח֣וּ וְלֹא־בֽוֹשׁוּ׃",
+      "douay_rheims": "They cried to thee, and they were saved: they trusted in thee, and were not confounded.",
+      "finnish_biblia": "Sinua he huusivat, ja vapahdettiin: sinuun he turvasivat, ja ei tulleet häpiään. ",
       "king_james": "They cried unto thee, and were delivered: they trusted in thee, and were not confounded.",
       "refs": {
         "latin_vulgate": {
@@ -72,6 +96,9 @@
         },
         "hebrew_masoretic": {
           "src": "22:6"
+        },
+        "douay_rheims": {
+          "src": "21:6"
         }
       }
     },
@@ -79,6 +106,8 @@
       "verse": 6,
       "latin_vulgate": " Ego autem sum vermis, et non homo ;  opprobrium hominum, et abjectio plebis. ",
       "hebrew_masoretic": "וְאָנֹכִ֣י תוֹלַ֣עַת וְלֹא־אִ֑ישׁ חֶרְפַּ֥ת אָ֝דָ֗ם וּבְז֥וּי עָֽם׃",
+      "douay_rheims": "But I am a worm, and no man: the reproach of men, and the outcast of the people.",
+      "finnish_biblia": "Mutta minä olen mato ja en ihminen, ihmisten pilkka ja kansan ylönkatse. ",
       "king_james": "But I am a worm, and no man; a reproach of men, and despised of the people.",
       "refs": {
         "latin_vulgate": {
@@ -86,6 +115,9 @@
         },
         "hebrew_masoretic": {
           "src": "22:7"
+        },
+        "douay_rheims": {
+          "src": "21:7"
         }
       }
     },
@@ -93,6 +125,8 @@
       "verse": 7,
       "latin_vulgate": " Omnes videntes me deriserunt me ;  locuti sunt labiis, et moverunt caput. ",
       "hebrew_masoretic": "כׇּל־רֹ֭אַי יַלְעִ֣גוּ לִ֑י יַפְטִ֥ירוּ בְ֝שָׂפָ֗ה יָנִ֥יעוּ רֹֽאשׁ׃",
+      "douay_rheims": "All they that saw me have laughed me to scorn: they have spoken with the lips, and wagged the head.",
+      "finnish_biblia": "Kaikki, jotka minun näkevät, häpäisevät minua: he vääristelevät huuliansa ja päätänsä vääntelevät. ",
       "king_james": "All they that see me laugh me to scorn: they shoot out the lip, they shake the head, saying,",
       "refs": {
         "latin_vulgate": {
@@ -100,6 +134,9 @@
         },
         "hebrew_masoretic": {
           "src": "22:8"
+        },
+        "douay_rheims": {
+          "src": "21:8"
         }
       }
     },
@@ -107,6 +144,8 @@
       "verse": 8,
       "latin_vulgate": " Speravit in Domino, eripiat eum :  salvum faciat eum, quoniam vult eum. ",
       "hebrew_masoretic": "גֹּ֣ל אֶל־יְהֹוָ֣ה יְפַלְּטֵ֑הוּ יַ֝צִּילֵ֗הוּ כִּ֘י־חָ֥פֵֽץ־בּֽוֹ׃",
+      "douay_rheims": "He hoped in the Lord, let him deliver him: let him save him, seeing he delighteth in him.",
+      "finnish_biblia": "Hän valittaa Herralle, hän vapahtakoon hänen: hän auttakoon häntä, jos hän mielistyy häneen. ",
       "king_james": "He trusted on the Lord that he would deliver him: let him deliver him, seeing he delighted in him.",
       "refs": {
         "latin_vulgate": {
@@ -114,6 +153,9 @@
         },
         "hebrew_masoretic": {
           "src": "22:9"
+        },
+        "douay_rheims": {
+          "src": "21:9"
         }
       }
     },
@@ -121,6 +163,8 @@
       "verse": 9,
       "latin_vulgate": " Quoniam tu es qui extraxisti me de ventre,  spes mea ab uberibus matris meæ. ",
       "hebrew_masoretic": "כִּֽי־אַתָּ֣ה גֹחִ֣י מִבָּ֑טֶן מַ֝בְטִיחִ֗י עַל־שְׁדֵ֥י אִמִּֽי׃",
+      "douay_rheims": "For thou art he that hast drawn me out of the womb: my hope from the breasts of my mother.",
+      "finnish_biblia": "Sillä sinä olet minun vetänyt ulos äitini kohdusta: sinä olit minun turvani, ollessani vielä äitini rinnalla. ",
       "king_james": "But thou art he that took me out of the womb: thou didst make me hope when I was upon my mother’s breasts.",
       "refs": {
         "latin_vulgate": {
@@ -128,6 +172,9 @@
         },
         "hebrew_masoretic": {
           "src": "22:10"
+        },
+        "douay_rheims": {
+          "src": "21:10"
         }
       }
     },
@@ -135,6 +182,8 @@
       "verse": 10,
       "latin_vulgate": " In te projectus sum ex utero ;  de ventre matris meæ Deus meus es tu : ",
       "hebrew_masoretic": "עָ֭לֶיךָ הׇשְׁלַ֣כְתִּי מֵרָ֑חֶם מִבֶּ֥טֶן אִ֝מִּ֗י אֵ֣לִי אָֽתָּה׃",
+      "douay_rheims": "I was cast upon thee from the womb. From my mother's womb thou art my God,",
+      "finnish_biblia": "Sinun päälles minä olen heitetty äitini kohdusta: sinä olet minun Jumalani hamasta äitini kohdusta. ",
       "king_james": "I was cast upon thee from the womb: thou art my God from my mother’s belly.",
       "refs": {
         "latin_vulgate": {
@@ -142,6 +191,9 @@
         },
         "hebrew_masoretic": {
           "src": "22:11"
+        },
+        "douay_rheims": {
+          "src": "21:11"
         }
       }
     },
@@ -149,6 +201,8 @@
       "verse": 11,
       "latin_vulgate": " ne discesseris a me,  quoniam tribulatio proxima est,  quoniam non est qui adjuvet. ",
       "hebrew_masoretic": "אַל־תִּרְחַ֣ק מִ֭מֶּנִּי כִּי־צָרָ֣ה קְרוֹבָ֑ה כִּי־אֵ֥ין עוֹזֵֽר׃",
+      "douay_rheims": "Depart not from me. For tribulation is very near: for there is none to help me.",
+      "finnish_biblia": "Älä ole kaukana minusta; sillä ahdistus on läsnä, ja ei ole auttajaa, ",
       "king_james": "Be not far from me; for trouble is near; for there is none to help.",
       "refs": {
         "latin_vulgate": {
@@ -156,6 +210,9 @@
         },
         "hebrew_masoretic": {
           "src": "22:12"
+        },
+        "douay_rheims": {
+          "src": "21:12"
         }
       }
     },
@@ -163,6 +220,8 @@
       "verse": 12,
       "latin_vulgate": " Circumdederunt me vituli multi ;  tauri pingues obsederunt me. ",
       "hebrew_masoretic": "סְ֭בָבוּנִי פָּרִ֣ים רַבִּ֑ים אַבִּירֵ֖י בָשָׁ֣ן כִּתְּרֽוּנִי׃",
+      "douay_rheims": "Many calves have surrounded me: fat bulls have besieged me.",
+      "finnish_biblia": "Suuret mullit ovat minun piirittäneet, lihavat härjät kiertäneet minun ympäri. ",
       "king_james": "Many bulls have compassed me: strong bulls of Bashan have beset me round.",
       "refs": {
         "latin_vulgate": {
@@ -170,6 +229,9 @@
         },
         "hebrew_masoretic": {
           "src": "22:13"
+        },
+        "douay_rheims": {
+          "src": "21:13"
         }
       }
     },
@@ -177,6 +239,8 @@
       "verse": 13,
       "latin_vulgate": " Aperuerunt super me os suum,  sicut leo rapiens et rugiens. ",
       "hebrew_masoretic": "פָּצ֣וּ עָלַ֣י פִּיהֶ֑ם אַ֝רְיֵ֗ה טֹרֵ֥ף וְשֹׁאֵֽג׃",
+      "douay_rheims": "They have opened their mouths against me, as a lion ravening and roaring.",
+      "finnish_biblia": "Kitansa avasivat he minua vastaan, niinkuin raateleva ja kiljuva jalopeura. ",
       "king_james": "They gaped upon me with their mouths, as a ravening and a roaring lion.",
       "refs": {
         "latin_vulgate": {
@@ -184,6 +248,9 @@
         },
         "hebrew_masoretic": {
           "src": "22:14"
+        },
+        "douay_rheims": {
+          "src": "21:14"
         }
       }
     },
@@ -191,6 +258,8 @@
       "verse": 14,
       "latin_vulgate": " Sicut aqua effusus sum,  et dispersa sunt omnia ossa mea :  factum est cor meum tamquam cera liquescens in medio ventris mei. ",
       "hebrew_masoretic": "כַּמַּ֥יִם נִשְׁפַּכְתִּי֮ וְהִתְפָּֽרְד֗וּ כׇּֽל־עַצְמ֫וֹתָ֥י הָיָ֣ה לִ֭בִּי כַּדּוֹנָ֑ג נָ֝מֵ֗ס בְּת֣וֹךְ מֵעָֽי׃",
+      "douay_rheims": "I am poured out like water; and all my bones are scattered. My heart is become like wax melting in the midst of my bowels.",
+      "finnish_biblia": "Minä olen kaadettu ulos niinkuin vesi, ja luuni ovat kaikki hajoitetut: minun sydämeni on niinkuin salattu vedenvaha ruumiissani. ",
       "king_james": "I am poured out like water, and all my bones are out of joint: my heart is like wax; it is melted in the midst of my bowels.",
       "refs": {
         "latin_vulgate": {
@@ -198,6 +267,9 @@
         },
         "hebrew_masoretic": {
           "src": "22:15"
+        },
+        "douay_rheims": {
+          "src": "21:15"
         }
       }
     },
@@ -205,6 +277,8 @@
       "verse": 15,
       "latin_vulgate": " Aruit tamquam testa virtus mea,  et lingua mea adhæsit faucibus meis :  et in pulverem mortis deduxisti me. ",
       "hebrew_masoretic": "יָ֘בֵ֤שׁ כַּחֶ֨רֶשׂ ׀ כֹּחִ֗י וּ֭לְשׁוֹנִי מֻדְבָּ֣ק מַלְקוֹחָ֑י וְֽלַעֲפַר־מָ֥וֶת תִּשְׁפְּתֵֽנִי׃",
+      "douay_rheims": "My strength is dried up like a potsherd, and my tongue hath cleaved to my jaws: and thou hast brought me down into the dust of death.",
+      "finnish_biblia": "Minun voimani on kuivettunut niinkuin kruusin muru, ja minun kieleni tarttuu suuni lakeen; ja sinä panet minun kuoleman tomuun. ",
       "king_james": "My strength is dried up like a potsherd; and my tongue cleaveth to my jaws; and thou hast brought me into the dust of death.",
       "refs": {
         "latin_vulgate": {
@@ -212,6 +286,9 @@
         },
         "hebrew_masoretic": {
           "src": "22:16"
+        },
+        "douay_rheims": {
+          "src": "21:16"
         }
       }
     },
@@ -219,6 +296,8 @@
       "verse": 16,
       "latin_vulgate": " Quoniam circumdederunt me canes multi ;  concilium malignantium obsedit me.  Foderunt manus meas et pedes meos ; ",
       "hebrew_masoretic": "כִּ֥י סְבָב֗וּנִי כְּלָ֫בִ֥ים עֲדַ֣ת מְ֭רֵעִים הִקִּיפ֑וּנִי כָּ֝אֲרִ֗י יָדַ֥י וְרַגְלָֽי׃",
+      "douay_rheims": "For many dogs have encompassed me: the council of the malignant hath besieged me. They have dug my hands and feet.",
+      "finnish_biblia": "Sillä koirat ovat minun piirittäneet: julmain parvi saartain lävistänyt kuin jalopeura käteni ja jalkani. ",
       "king_james": "For dogs have compassed me: the assembly of the wicked have inclosed me: they pierced my hands and my feet.",
       "refs": {
         "latin_vulgate": {
@@ -226,6 +305,9 @@
         },
         "hebrew_masoretic": {
           "src": "22:17"
+        },
+        "douay_rheims": {
+          "src": "21:17"
         }
       }
     },
@@ -233,6 +315,8 @@
       "verse": 17,
       "latin_vulgate": " dinumeraverunt omnia ossa mea.  Ipsi vero consideraverunt et inspexerunt me. ",
       "hebrew_masoretic": "אֲסַפֵּ֥ר כׇּל־עַצְמוֹתָ֑י הֵ֥מָּה יַ֝בִּ֗יטוּ יִרְאוּ־בִֽי׃",
+      "douay_rheims": "They have numbered all my bones. And they have looked and stared upon me.",
+      "finnish_biblia": "Minä lukisin kaikki minun luuni; mutta he katselivat ja näkivät ihastuksensa minusta. ",
       "king_james": "I may tell all my bones: they look and stare upon me.",
       "refs": {
         "latin_vulgate": {
@@ -240,6 +324,9 @@
         },
         "hebrew_masoretic": {
           "src": "22:18"
+        },
+        "douay_rheims": {
+          "src": "21:18"
         }
       }
     },
@@ -247,6 +334,8 @@
       "verse": 18,
       "latin_vulgate": " Diviserunt sibi vestimenta mea,  et super vestem meam miserunt sortem. ",
       "hebrew_masoretic": "יְחַלְּק֣וּ בְגָדַ֣י לָהֶ֑ם וְעַל־לְ֝בוּשִׁ֗י יַפִּ֥ילוּ גוֹרָֽל׃",
+      "douay_rheims": "They parted my garments amongst them; and upon my vesture they cast lots.",
+      "finnish_biblia": "He jakavat itsellensä minun vaatteeni ja heittävät hameestani arpaa. ",
       "king_james": "They part my garments among them, and cast lots upon my vesture.",
       "refs": {
         "latin_vulgate": {
@@ -254,6 +343,9 @@
         },
         "hebrew_masoretic": {
           "src": "22:19"
+        },
+        "douay_rheims": {
+          "src": "21:19"
         }
       }
     },
@@ -261,6 +353,8 @@
       "verse": 19,
       "latin_vulgate": " Tu autem, Domine, ne elongaveris auxilium tuum a me ;  ad defensionem meam conspice. ",
       "hebrew_masoretic": "וְאַתָּ֣ה יְ֭הֹוָה אַל־תִּרְחָ֑ק אֱ֝יָלוּתִ֗י לְעֶזְרָ֥תִי חֽוּשָׁה׃",
+      "douay_rheims": "But thou, O Lord, remove not thy help to a distance from me; look towards my defence.",
+      "finnish_biblia": "Mutta sinä, Herra, älä ole kaukana! minun väkevyyteni, riennä avukseni! ",
       "king_james": "But be not thou far from me, O Lord: O my strength, haste thee to help me.",
       "refs": {
         "latin_vulgate": {
@@ -268,6 +362,9 @@
         },
         "hebrew_masoretic": {
           "src": "22:20"
+        },
+        "douay_rheims": {
+          "src": "21:20"
         }
       }
     },
@@ -275,6 +372,8 @@
       "verse": 20,
       "latin_vulgate": " Erue a framea, Deus, animam meam,  et de manu canis unicam meam. ",
       "hebrew_masoretic": "הַצִּ֣ילָה מֵחֶ֣רֶב נַפְשִׁ֑י מִיַּד־כֶּ֝֗לֶב יְחִידָתִֽי׃",
+      "douay_rheims": "Deliver, O God, my soul from the sword: my only one from the hand of the dog.",
+      "finnish_biblia": "Pelasta minun sieluni miekasta, ja ainokaiseni koirilta. ",
       "king_james": "Deliver my soul from the sword; my darling from the power of the dog.",
       "refs": {
         "latin_vulgate": {
@@ -282,6 +381,9 @@
         },
         "hebrew_masoretic": {
           "src": "22:21"
+        },
+        "douay_rheims": {
+          "src": "21:21"
         }
       }
     },
@@ -289,6 +391,8 @@
       "verse": 21,
       "latin_vulgate": " Salva me ex ore leonis,  et a cornibus unicornium humilitatem meam. ",
       "hebrew_masoretic": "ה֭וֹשִׁיעֵנִי מִפִּ֣י אַרְיֵ֑ה וּמִקַּרְנֵ֖י רֵמִ֣ים עֲנִיתָֽנִי׃",
+      "douay_rheims": "Save me from the lion's mouth; and my lowness from the horns of the unicorns.",
+      "finnish_biblia": "Vapahda minua jalopeuran suusta, ja päästä minua yksisarvillisista. ",
       "king_james": "Save me from the lion’s mouth: for thou hast heard me from the horns of the unicorns.",
       "refs": {
         "latin_vulgate": {
@@ -296,6 +400,9 @@
         },
         "hebrew_masoretic": {
           "src": "22:22"
+        },
+        "douay_rheims": {
+          "src": "21:22"
         }
       }
     },
@@ -303,6 +410,8 @@
       "verse": 22,
       "latin_vulgate": " Narrabo nomen tuum fratribus meis ;  in medio ecclesiæ laudabo te. ",
       "hebrew_masoretic": "אֲסַפְּרָ֣ה שִׁמְךָ֣ לְאֶחָ֑י בְּת֖וֹךְ קָהָ֣ל אֲהַלְלֶֽךָּ׃",
+      "douay_rheims": "I will declare thy name to my brethren: in the midst of the church will I praise thee.",
+      "finnish_biblia": "Minä saarnaan sinun nimeäs veljilleni: minä ylistän sinua seurakunnassa. ",
       "king_james": "I will declare thy name unto my brethren: in the midst of the congregation will I praise thee.",
       "refs": {
         "latin_vulgate": {
@@ -310,6 +419,9 @@
         },
         "hebrew_masoretic": {
           "src": "22:23"
+        },
+        "douay_rheims": {
+          "src": "21:23"
         }
       }
     },
@@ -317,6 +429,8 @@
       "verse": 23,
       "latin_vulgate": " Qui timetis Dominum, laudate eum ;  universum semen Jacob, glorificate eum. ",
       "hebrew_masoretic": "יִרְאֵ֤י יְהֹוָ֨ה ׀ הַֽלְל֗וּהוּ כׇּל־זֶ֣רַע יַעֲקֹ֣ב כַּבְּד֑וּהוּ וְג֥וּרוּ מִ֝מֶּ֗נּוּ כׇּל־זֶ֥רַע יִשְׂרָאֵֽל׃",
+      "douay_rheims": "Ye that fear the Lord, praise him: all ye the seed of Jacob, glorify him.",
+      "finnish_biblia": "Ylistäkäät Herraa te, jotka häntä pelkäätte: koko Jakobin siemen kunnioittakoon häntä, ja kavahtakoon häntä kaikki Israelin siemen! ",
       "king_james": "Ye that fear the Lord, praise him; all ye the seed of Jacob, glorify him; and fear him, all ye the seed of Israel.",
       "refs": {
         "latin_vulgate": {
@@ -324,6 +438,9 @@
         },
         "hebrew_masoretic": {
           "src": "22:24"
+        },
+        "douay_rheims": {
+          "src": "21:24"
         }
       }
     },
@@ -331,6 +448,8 @@
       "verse": 24,
       "latin_vulgate": " Timeat eum omne semen Israël,  quoniam non sprevit, neque despexit deprecationem pauperis,  nec avertit faciem suam a me :  et cum clamarem ad eum, exaudivit me. ",
       "hebrew_masoretic": "כִּ֤י לֹֽא־בָזָ֨ה וְלֹ֪א שִׁקַּ֡ץ עֱנ֬וּת עָנִ֗י וְלֹא־הִסְתִּ֣יר פָּנָ֣יו מִמֶּ֑נּוּ וּֽבְשַׁוְּע֖וֹ אֵלָ֣יו שָׁמֵֽעַ׃",
+      "douay_rheims": "Let all the seed of Israel fear him: because he hath not slighted nor despised the supplication of the poor man. Neither hath he turned away his face from me: and when I cried to him he heard me.",
+      "finnish_biblia": "Sillä ei hän hyljännyt eikä katsonut ylön köyhän raadollisuutta, eikä kääntänyt kasvojansa hänestä pois; vaan kuin se häntä huusi, kuuli hän sitä. ",
       "king_james": "For he hath not despised nor abhorred the affliction of the afflicted; neither hath he hid his face from him; but when he cried unto him, he heard.",
       "refs": {
         "latin_vulgate": {
@@ -338,6 +457,9 @@
         },
         "hebrew_masoretic": {
           "src": "22:25"
+        },
+        "douay_rheims": {
+          "src": "21:25"
         }
       }
     },
@@ -345,6 +467,8 @@
       "verse": 25,
       "latin_vulgate": " Apud te laus mea in ecclesia magna ;  vota mea reddam in conspectu timentium eum. ",
       "hebrew_masoretic": "מֵ֥אִתְּךָ֗ תְּֽהִלָּ֫תִ֥י בְּקָהָ֥ל רָ֑ב נְדָרַ֥י אֲ֝שַׁלֵּ֗ם נֶ֣גֶד יְרֵאָֽיו׃",
+      "douay_rheims": "With thee is my praise in a great church: I will pay my vows in the sight of them that fear him.",
+      "finnish_biblia": "Sinua minä ylistän suuressa seurakunnassa: minä maksan lupaukseni heidän edessänsä, jotka häntä pelkäävät. ",
       "king_james": "My praise shall be of thee in the great congregation: I will pay my vows before them that fear him.",
       "refs": {
         "latin_vulgate": {
@@ -352,6 +476,9 @@
         },
         "hebrew_masoretic": {
           "src": "22:26"
+        },
+        "douay_rheims": {
+          "src": "21:26"
         }
       }
     },
@@ -359,6 +486,8 @@
       "verse": 26,
       "latin_vulgate": " Edent pauperes, et saturabuntur,  et laudabunt Dominum qui requirunt eum :  vivent corda eorum in sæculum sæculi. ",
       "hebrew_masoretic": "יֹאכְל֬וּ עֲנָוִ֨ים ׀ וְיִשְׂבָּ֗עוּ יְהַֽלְל֣וּ יְ֭הֹוָה דֹּ֣רְשָׁ֑יו יְחִ֖י לְבַבְכֶ֣ם לָעַֽד׃",
+      "douay_rheims": "The poor shall eat and shall be filled: and they shall praise the Lord that seek him: their hearts shall live for ever and ever.",
+      "finnish_biblia": "Raadolliset syövät ja ravitaan, ja jotka Herraa etsivät, pitää häntä ylistämän: teidän sydämenne pitää elämän ijankaikkisesti. ",
       "king_james": "The meek shall eat and be satisfied: they shall praise the Lord that seek him: your heart shall live for ever.",
       "refs": {
         "latin_vulgate": {
@@ -366,6 +495,9 @@
         },
         "hebrew_masoretic": {
           "src": "22:27"
+        },
+        "douay_rheims": {
+          "src": "21:27"
         }
       }
     },
@@ -373,6 +505,8 @@
       "verse": 27,
       "latin_vulgate": " Reminiscentur et convertentur ad Dominum universi fines terræ ;  et adorabunt in conspectu ejus universæ familiæ gentium : ",
       "hebrew_masoretic": "יִזְכְּר֤וּ ׀ וְיָשֻׁ֣בוּ אֶל־יְ֭הֹוָה כׇּל־אַפְסֵי־אָ֑רֶץ וְיִֽשְׁתַּחֲו֥וּ לְ֝פָנֶ֗יךָ כׇּֽל־מִשְׁפְּח֥וֹת גּוֹיִֽם׃",
+      "douay_rheims": "All the ends of the earth shall remember, and shall be converted to the Lord: And all the kindreds of the Gentiles shall adore in his sight.",
+      "finnish_biblia": "Kaikki maailman ääret muistakaan ja kääntykään Herran tykö, ja kumartakaan sinun edessäs kaikki pakanain sukukunnat. ",
       "king_james": "All the ends of the world shall remember and turn unto the Lord: and all the kindreds of the nations shall worship before thee.",
       "refs": {
         "latin_vulgate": {
@@ -380,6 +514,9 @@
         },
         "hebrew_masoretic": {
           "src": "22:28"
+        },
+        "douay_rheims": {
+          "src": "21:28"
         }
       }
     },
@@ -387,6 +524,8 @@
       "verse": 28,
       "latin_vulgate": " quoniam Domini est regnum,  et ipse dominabitur gentium. ",
       "hebrew_masoretic": "כִּ֣י לַ֭יהֹוָה הַמְּלוּכָ֑ה וּ֝מֹשֵׁ֗ל בַּגּוֹיִֽם׃",
+      "douay_rheims": "For the kingdom is the Lord's; and he shall have dominion over the nations.",
+      "finnish_biblia": "Sillä Herralta on valtakunta, ja hän vallitsee pakanoita. ",
       "king_james": "For the kingdom is the Lord’s: and he is the governor among the nations.",
       "refs": {
         "latin_vulgate": {
@@ -394,6 +533,9 @@
         },
         "hebrew_masoretic": {
           "src": "22:29"
+        },
+        "douay_rheims": {
+          "src": "21:29"
         }
       }
     },
@@ -401,6 +543,8 @@
       "verse": 29,
       "latin_vulgate": " Manducaverunt et adoraverunt omnes pingues terræ ;  in conspectu ejus cadent omnes qui descendunt in terram. ",
       "hebrew_masoretic": "אָכְל֬וּ וַיִּֽשְׁתַּחֲו֨וּ ׀ כׇּֽל־דִּשְׁנֵי־אֶ֗רֶץ לְפָנָ֣יו יִ֭כְרְעוּ כׇּל־יוֹרְדֵ֣י עָפָ֑ר וְ֝נַפְשׁ֗וֹ לֹ֣א חִיָּֽה׃",
+      "douay_rheims": "All the fat ones of the earth have eaten and have adored: all they that go down to the earth shall fall before him.",
+      "finnish_biblia": "Kaikki lihavat maan päällä pitää syömän ja kumartaman, hänen edessänsä polviansa notkistaman kaikki, jotka tomussa makaavat ja jotka surussansa elävät. ",
       "king_james": "All they that be fat upon earth shall eat and worship: all they that go down to the dust shall bow before him: and none can keep alive his own soul.",
       "refs": {
         "latin_vulgate": {
@@ -408,6 +552,9 @@
         },
         "hebrew_masoretic": {
           "src": "22:30"
+        },
+        "douay_rheims": {
+          "src": "21:30"
         }
       }
     },
@@ -415,6 +562,8 @@
       "verse": 30,
       "latin_vulgate": " Et anima mea illi vivet ;  et semen meum serviet ipsi. ",
       "hebrew_masoretic": "זֶ֥רַע יַֽעַבְדֶ֑נּוּ יְסֻפַּ֖ר לַֽאדֹנָ֣י לַדּֽוֹר׃",
+      "douay_rheims": "And to him my soul shall live: and my seed shall serve him.",
+      "finnish_biblia": "Hänen pitää saaman siemenen, joka häntä palvelee: Herrasta pitää ilmoitettaman lasten lapsiin. ",
       "king_james": "A seed shall serve him; it shall be accounted to the Lord for a generation.",
       "refs": {
         "latin_vulgate": {
@@ -422,6 +571,9 @@
         },
         "hebrew_masoretic": {
           "src": "22:31"
+        },
+        "douay_rheims": {
+          "src": "21:31"
         }
       }
     },
@@ -429,6 +581,8 @@
       "verse": 31,
       "latin_vulgate": " Annuntiabitur Domino generatio ventura ;  et annuntiabunt cæli justitiam ejus  populo qui nascetur, quem fecit Dominus.  ",
       "hebrew_masoretic": "יָ֭בֹאוּ וְיַגִּ֣ידוּ צִדְקָת֑וֹ לְעַ֥ם נ֝וֹלָ֗ד כִּ֣י עָשָֽׂה׃ {פ}",
+      "douay_rheims": "There shall be declared to the Lord a generation to come: and the heavens shall shew forth his justice to a people that shall be born, which the Lord hath made. ",
+      "finnish_biblia": "He tulevat ja hänen vanhurskauttansa saarnaavat syntyvälle kansalle, että hän sen tekee.   ",
       "king_james": "They shall come, and shall declare his righteousness unto a people that shall be born, that he hath done this. ",
       "refs": {
         "latin_vulgate": {
@@ -436,6 +590,9 @@
         },
         "hebrew_masoretic": {
           "src": "22:32"
+        },
+        "douay_rheims": {
+          "src": "21:32"
         }
       }
     }

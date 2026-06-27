@@ -2,6 +2,8 @@
   "book_id": "PSA",
   "latin_name": "Liber Psalmorum",
   "hebrew_name": "תְּהִלִּים",
+  "douay_name": "Psalms",
+  "finnish_name": "Psalmit",
   "english_name": "Psalms",
   "chapter": 23,
   "verses": [
@@ -9,9 +11,14 @@
       "verse": 1,
       "latin_vulgate": "Psalmus David.   Dominus regit me, et nihil mihi deerit : ",
       "hebrew_masoretic": "מִזְמ֥וֹר לְדָוִ֑ד יְהֹוָ֥ה רֹ֝עִ֗י לֹ֣א אֶחְסָֽר׃",
+      "douay_rheims": "A psalm for David. The Lord ruleth me: and I shall want nothing.",
+      "finnish_biblia": "Davidin Psalmi. Herra on minun paimeneni: ei minulta mitään puutu. ",
       "king_james": "The Lord is my shepherd; I shall not want.",
       "refs": {
         "latin_vulgate": {
+          "src": "22:1"
+        },
+        "douay_rheims": {
           "src": "22:1"
         }
       }
@@ -20,9 +27,14 @@
       "verse": 2,
       "latin_vulgate": " in loco pascuæ, ibi me collocavit.  Super aquam refectionis educavit me ; ",
       "hebrew_masoretic": "בִּנְא֣וֹת דֶּ֭שֶׁא יַרְבִּיצֵ֑נִי עַל־מֵ֖י מְנֻח֣וֹת יְנַהֲלֵֽנִי׃",
+      "douay_rheims": "He hath set me in a place of pasture. He hath brought me up, on the water of refreshment:",
+      "finnish_biblia": "Hän kaitsee minua viheriäisessä niityssä, ja vie minua virvoittavan veden tykö. ",
       "king_james": "He maketh me to lie down in green pastures: he leadeth me beside the still waters.",
       "refs": {
         "latin_vulgate": {
+          "src": "22:2"
+        },
+        "douay_rheims": {
           "src": "22:2"
         }
       }
@@ -31,9 +43,14 @@
       "verse": 3,
       "latin_vulgate": " animam meam convertit.  Deduxit me super semitas justitiæ  propter nomen suum. ",
       "hebrew_masoretic": "נַפְשִׁ֥י יְשׁוֹבֵ֑ב יַֽנְחֵ֥נִי בְמַעְגְּלֵי־צֶ֝֗דֶק לְמַ֣עַן שְׁמֽוֹ׃",
+      "douay_rheims": "He hath converted my soul. He hath led me on the paths of justice, for his own name's sake.",
+      "finnish_biblia": "Minun sieluni hän virvoittaa: hän vie minun oikialle tielle, nimensä tähden. ",
       "king_james": "He restoreth my soul: he leadeth me in the paths of righteousness for his name’s sake.",
       "refs": {
         "latin_vulgate": {
+          "src": "22:3"
+        },
+        "douay_rheims": {
           "src": "22:3"
         }
       }
@@ -42,9 +59,14 @@
       "verse": 4,
       "latin_vulgate": " Nam etsi ambulavero in medio umbræ mortis,  non timebo mala, quoniam tu mecum es.  Virga tua, et baculus tuus,  ipsa me consolata sunt. ",
       "hebrew_masoretic": "גַּ֤ם כִּֽי־אֵלֵ֨ךְ בְּגֵ֪יא צַלְמָ֡וֶת לֹא־אִ֘ירָ֤א רָ֗ע כִּי־אַתָּ֥ה עִמָּדִ֑י שִׁבְטְךָ֥ וּ֝מִשְׁעַנְתֶּ֗ךָ הֵ֣מָּה יְנַֽחֲמֻֽנִי׃",
+      "douay_rheims": "For though I should walk in the midst of the shadow of death, I will fear no evils, for thou art with me. Thy rod and thy staff, they have comforted me.",
+      "finnish_biblia": "Ja vaikka minä vaeltaisin pimiässä laaksossa, en minä pelkäisi mitään pahuutta, ettäs olet kanssani: sinun vitsas ja sauvas minun tukevat. ",
       "king_james": "Yea, though I walk through the valley of the shadow of death, I will fear no evil: for thou art with me; thy rod and thy staff they comfort me.",
       "refs": {
         "latin_vulgate": {
+          "src": "22:4"
+        },
+        "douay_rheims": {
           "src": "22:4"
         }
       }
@@ -53,9 +75,14 @@
       "verse": 5,
       "latin_vulgate": " Parasti in conspectu meo mensam  adversus eos qui tribulant me ;  impinguasti in oleo caput meum :  et calix meus inebrians, quam præclarus est ! ",
       "hebrew_masoretic": "תַּעֲרֹ֬ךְ לְפָנַ֨י ׀ שֻׁלְחָ֗ן נֶ֥גֶד צֹרְרָ֑י דִּשַּׁ֥נְתָּ בַשֶּׁ֥מֶן רֹ֝אשִׁ֗י כּוֹסִ֥י רְוָיָֽה׃",
+      "douay_rheims": "Thou hast prepared a table before me against them that afflict me. Thou hast anointed my head with oil; and my chalice which inebreateth me, how goodly is it!",
+      "finnish_biblia": "Sinä valmistat minulle pöydän vihollisteni kohdalle: sinä voitelet minun pääni öljyllä, ja minun maljani on ylitsevuotavainen. ",
       "king_james": "Thou preparest a table before me in the presence of mine enemies: thou anointest my head with oil; my cup runneth over.",
       "refs": {
         "latin_vulgate": {
+          "src": "22:5"
+        },
+        "douay_rheims": {
           "src": "22:5"
         }
       }
@@ -64,9 +91,14 @@
       "verse": 6,
       "latin_vulgate": " Et misericordia tua subsequetur me  omnibus diebus vitæ meæ ;  et ut inhabitem in domo Domini  in longitudinem dierum.  ",
       "hebrew_masoretic": "אַ֤ךְ ׀ ט֤וֹב וָחֶ֣סֶד יִ֭רְדְּפוּנִי כׇּל־יְמֵ֣י חַיָּ֑י וְשַׁבְתִּ֥י בְּבֵית־יְ֝הֹוָ֗ה לְאֹ֣רֶךְ יָמִֽים׃ {פ}",
+      "douay_rheims": "And thy mercy will follow me all the days of my life. And that I may dwell in the house of the Lord unto length of days. ",
+      "finnish_biblia": "Hyvyys ja laupius noudattavat minua kaiken elinaikani, ja minä saan asua Herran huoneessa ijankaikkisesti.   ",
       "king_james": "Surely goodness and mercy shall follow me all the days of my life: and I will dwell in the house of the Lord for ever. ",
       "refs": {
         "latin_vulgate": {
+          "src": "22:6"
+        },
+        "douay_rheims": {
           "src": "22:6"
         }
       }

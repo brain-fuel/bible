@@ -2,6 +2,8 @@
   "book_id": "DEU",
   "latin_name": "Deuteronomium",
   "hebrew_name": "דְּבָרִים",
+  "douay_name": "Deuteronomy",
+  "finnish_name": "5. Mooseksen kirja",
   "english_name": "Deuteronomy",
   "chapter": 21,
   "verses": [
@@ -9,138 +11,184 @@
       "verse": 1,
       "latin_vulgate": "Quando inventum fuerit in terra, quam Dominus Deus tuus daturus est tibi, hominis cadaver occisi, et ignorabitur cædis reus, ",
       "hebrew_masoretic": "כִּי־יִמָּצֵ֣א חָלָ֗ל בָּאֲדָמָה֙ אֲשֶׁר֩ יְהֹוָ֨ה אֱלֹהֶ֜יךָ נֹתֵ֤ן לְךָ֙ לְרִשְׁתָּ֔הּ נֹפֵ֖ל בַּשָּׂדֶ֑ה לֹ֥א נוֹדַ֖ע מִ֥י הִכָּֽהוּ׃",
+      "douay_rheims": "When there shall be found in the land, which the Lord thy God will give thee, the corpse of a man slain, and it is not known who is guilty of the murder,",
+      "finnish_biblia": "Jos joku tapettu löydetään siinä maassa, jonka Herra sinun Jumalas sinun omakses antaa, ja se makaa kedolla, ja tietämätöintä on, kuka hänen tappoi; ",
       "king_james": "If one be found slain in the land which the Lord thy God giveth thee to possess it, lying in the field, and it be not known who hath slain him:"
     },
     {
       "verse": 2,
       "latin_vulgate": "egredientur majores natu, et judices tui, et metientur a loco cadaveris singularum per circuitum spatia civitatum : ",
       "hebrew_masoretic": "וְיָצְא֥וּ זְקֵנֶ֖יךָ וְשֹׁפְטֶ֑יךָ וּמָדְדוּ֙ אֶל־הֶ֣עָרִ֔ים אֲשֶׁ֖ר סְבִיבֹ֥ת הֶחָלָֽל׃",
+      "douay_rheims": "Thy ancients and judges shall go out, and shall measure from the place where the body lieth the distance of every city round about:",
+      "finnish_biblia": "Niin käykään ulos vanhimpas ja tuomaris, ja mitatkaan sen tapetun tyköä kaupunkeihin, jotka tapetun ympärillä ovat. ",
       "king_james": "Then thy elders and thy judges shall come forth, and they shall measure unto the cities which are round about him that is slain:"
     },
     {
       "verse": 3,
       "latin_vulgate": "et quam viciniorem ceteris esse perspexerint, seniores civitatis illius tollent vitulam de armento, quæ non traxit jugum, nec terram scidit vomere, ",
       "hebrew_masoretic": "וְהָיָ֣ה הָעִ֔יר הַקְּרֹבָ֖ה אֶל־הֶחָלָ֑ל וְלָֽקְח֡וּ זִקְנֵי֩ הָעִ֨יר הַהִ֜וא עֶגְלַ֣ת בָּקָ֗ר אֲשֶׁ֤ר לֹֽא־עֻבַּד֙ בָּ֔הּ אֲשֶׁ֥ר לֹא־מָשְׁכָ֖ה בְּעֹֽל׃",
+      "douay_rheims": "And the ancients of that city which they shall perceive to be nearer than the rest, shall take a heifer of the herd, that hath not drawn in the yoke, nor ploughed the ground,",
+      "finnish_biblia": "Joka kaupunki tapettua lähin on, sen vanhimmat ottakaan nuoren lehmän karjasta, jolla ei ole työtä tehty ja joka ei ikeen alla ole ollut, ",
       "king_james": "And it shall be, that the city which is next unto the slain man, even the elders of that city shall take an heifer, which hath not been wrought with, and which hath not drawn in the yoke;"
     },
     {
       "verse": 4,
       "latin_vulgate": "et ducent eam ad vallem asperam atque saxosam, quæ numquam arata est, nec sementem recepit : et cædent in ea cervices vitulæ : ",
       "hebrew_masoretic": "וְהוֹרִ֡דוּ זִקְנֵי֩ הָעִ֨יר הַהִ֤וא אֶת־הָֽעֶגְלָה֙ אֶל־נַ֣חַל אֵיתָ֔ן אֲשֶׁ֛ר לֹא־יֵעָבֵ֥ד בּ֖וֹ וְלֹ֣א יִזָּרֵ֑עַ וְעָֽרְפוּ־שָׁ֥ם אֶת־הָעֶגְלָ֖ה בַּנָּֽחַל׃",
+      "douay_rheims": "And they shall bring her into a rough and stony valley, that never was ploughed, nor sown: and there they shall strike off the head of the heifer:",
+      "finnish_biblia": "Ja kaupungin vanhimmat taluttakaan nuoren lehmän kovaan laaksoon, jota ei kynnetä eikä kylvetä, ja leikatkaan lehmän kaulan siinä laaksossa. ",
       "king_james": "And the elders of that city shall bring down the heifer unto a rough valley, which is neither eared nor sown, and shall strike off the heifer’s neck there in the valley:"
     },
     {
       "verse": 5,
       "latin_vulgate": "accedentque sacerdotes filii Levi, quos elegerit Dominus Deus tuus ut ministrent ei, et benedicant in nomine ejus, et ad verbum eorum omne negotium, et quidquid mundum, vel immundum est, judicetur. ",
       "hebrew_masoretic": "וְנִגְּשׁ֣וּ הַכֹּהֲנִים֮ בְּנֵ֣י לֵוִי֒ כִּ֣י בָ֗ם בָּחַ֞ר יְהֹוָ֤ה אֱלֹהֶ֙יךָ֙ לְשָׁ֣רְת֔וֹ וּלְבָרֵ֖ךְ בְּשֵׁ֣ם יְהֹוָ֑ה וְעַל־פִּיהֶ֥ם יִהְיֶ֖ה כׇּל־רִ֥יב וְכׇל־נָֽגַע׃",
+      "douay_rheims": "And the priests the sons of Levi shall come, whom the Lord thy God hath chosen to minister to him, and to bless in his name, and that by their word every matter should be decided, and whatsoever is clean or unclean should be judged.",
+      "finnish_biblia": "Niin pitää papit, Levin pojat käymän edes; sillä Herra sinun Jumalas on heidät valinnut palvelemaan itseänsä, ja Herran nimeä ylistämään: ja heidän suunsa jälkeen pitää kaikki riidat ja kaikki vahingot selitettämän. ",
       "king_james": "And the priests the sons of Levi shall come near; for them the Lord thy God hath chosen to minister unto him, and to bless in the name of the Lord; and by their word shall every controversy and every stroke be tried:"
     },
     {
       "verse": 6,
       "latin_vulgate": "Et venient majores natu civitatis illius ad interfectum, lavabuntque manus suas super vitulam, quæ in valle percussa est, ",
       "hebrew_masoretic": "וְכֹ֗ל זִקְנֵי֙ הָעִ֣יר הַהִ֔וא הַקְּרֹבִ֖ים אֶל־הֶחָלָ֑ל יִרְחֲצוּ֙ אֶת־יְדֵיהֶ֔ם עַל־הָעֶגְלָ֖ה הָעֲרוּפָ֥ה בַנָּֽחַל׃",
+      "douay_rheims": "And the ancients of that city shall come to the person slain, and shall wash their hands over the heifer that was killed in the valley,",
+      "finnish_biblia": "Ja kaikki vanhimmat siitä kaupungista, joka tapettua lähinnä on, peskään kätensä nuoren lehmän päällä, jonka kaula laaksossa leikattiin, ",
       "king_james": "And all the elders of that city, that are next unto the slain man, shall wash their hands over the heifer that is beheaded in the valley:"
     },
     {
       "verse": 7,
       "latin_vulgate": "et dicent : Manus nostræ non effuderunt sanguinem hunc, nec oculi viderunt : ",
       "hebrew_masoretic": "וְעָנ֖וּ וְאָמְר֑וּ יָדֵ֗ינוּ לֹ֤א (שפכה) [שָֽׁפְכוּ֙] אֶת־הַדָּ֣ם הַזֶּ֔ה וְעֵינֵ֖ינוּ לֹ֥א רָאֽוּ׃",
+      "douay_rheims": "And shall say: Our hands did not shed this blood, nor did our eyes see it.",
+      "finnish_biblia": "Ja he vastatkaan ja sanokaan: ei meidän kätemme tätä verta vuodattaneet, eikä meidän silmämme sitä nähneet. ",
       "king_james": "And they shall answer and say, Our hands have not shed this blood, neither have our eyes seen it."
     },
     {
       "verse": 8,
       "latin_vulgate": "propitius esto populo tuo Israël, quem redemisti, Domine, et ne reputes sanguinem innocentem in medio populi tui Israël. Et auferetur ab eis reatus sanguinis : ",
       "hebrew_masoretic": "כַּפֵּר֩ לְעַמְּךָ֨ יִשְׂרָאֵ֤ל אֲשֶׁר־פָּדִ֙יתָ֙ יְהֹוָ֔ה וְאַל־תִּתֵּן֙ דָּ֣ם נָקִ֔י בְּקֶ֖רֶב עַמְּךָ֣ יִשְׂרָאֵ֑ל וְנִכַּפֵּ֥ר לָהֶ֖ם הַדָּֽם׃",
+      "douay_rheims": "Be merciful to thy people Israel, whom thou hast redeemed, O Lord, and lay not innocent blood to their charge, in the midst of thy people Israel. And the guilt of blood shall be taken from them:",
+      "finnish_biblia": "Ole armollinen kansalles Israelille, jonka sinä Herra pelastit, ja älä tätä viatointa verta anna tulla kansas Israelin päälle; ja niin he ovat sovitetut siitä verestä. ",
       "king_james": "Be merciful, O Lord, unto thy people Israel, whom thou hast redeemed, and lay not innocent blood unto thy people of Israel’s charge. And the blood shall be forgiven them."
     },
     {
       "verse": 9,
       "latin_vulgate": "tu autem alienus eris ab innocentis cruore, qui fusus est, cum feceris quod præcepit Dominus.  ",
       "hebrew_masoretic": "וְאַתָּ֗ה תְּבַעֵ֛ר הַדָּ֥ם הַנָּקִ֖י מִקִּרְבֶּ֑ךָ כִּֽי־תַעֲשֶׂ֥ה הַיָּשָׁ֖ר בְּעֵינֵ֥י יְהֹוָֽה׃ {ס}",
+      "douay_rheims": "And thou shalt be free from the innocent's blood, that was shed, when thou shalt have done what the Lord hath commanded thee.",
+      "finnish_biblia": "Ja niin sinä eroitat tyköäs viattoman veren, ettäs teet sen mikä oikia on Herran silmän edessä. ",
       "king_james": "So shalt thou put away the guilt of innocent blood from among you, when thou shalt do that which is right in the sight of the Lord."
     },
     {
       "verse": 10,
       "latin_vulgate": " Si egressus fueris ad pugnam contra inimicos tuos, et tradiderit eos Dominus Deus tuus in manu tua, captivosque duxeris, ",
       "hebrew_masoretic": "כִּֽי־תֵצֵ֥א לַמִּלְחָמָ֖ה עַל־אֹיְבֶ֑יךָ וּנְתָנ֞וֹ יְהֹוָ֧ה אֱלֹהֶ֛יךָ בְּיָדֶ֖ךָ וְשָׁבִ֥יתָ שִׁבְיֽוֹ׃",
+      "douay_rheims": "If thou go out to fight against thy enemies, and the Lord thy God deliver them into thy hand, and thou lead them away captives,",
+      "finnish_biblia": "Kuin menet sotaan vihollisias vastaan, ja Herra sinun Jumalas antaa heidät sinun käsiis, ja sinä viet heitä vankina pois. ",
       "king_james": "When thou goest forth to war against thine enemies, and the Lord thy God hath delivered them into thine hands, and thou hast taken them captive,"
     },
     {
       "verse": 11,
       "latin_vulgate": "et videris in numero captivorum mulierem pulchram, et adamaveris eam, voluerisque habere uxorem, ",
       "hebrew_masoretic": "וְרָאִ֙יתָ֙ בַּשִּׁבְיָ֔ה אֵ֖שֶׁת יְפַת־תֹּ֑אַר וְחָשַׁקְתָּ֣ בָ֔הּ וְלָקַחְתָּ֥ לְךָ֖ לְאִשָּֽׁה׃",
+      "douay_rheims": "And seest in the number of the captives a beautiful woman, and lovest her, and wilt have her to wife,",
+      "finnish_biblia": "Ja näet vankein seassa kauniin vaimon, ja himoitset häntä ottaa emännäkses: ",
       "king_james": "And seest among the captives a beautiful woman, and hast a desire unto her, that thou wouldest have her to thy wife;"
     },
     {
       "verse": 12,
       "latin_vulgate": "introduces eam in domum tuam : quæ radet cæsariem, et circumcidet ungues, ",
       "hebrew_masoretic": "וַהֲבֵאתָ֖הּ אֶל־תּ֣וֹךְ בֵּיתֶ֑ךָ וְגִלְּחָה֙ אֶת־רֹאשָׁ֔הּ וְעָשְׂתָ֖ה אֶת־צִפׇּרְנֶֽיהָ׃",
+      "douay_rheims": "Thou shalt bring her into thy house: and she shall shave her hair, and pare her nails,",
+      "finnish_biblia": "Niin vie häntä huoneeses ja anna hänen keritä hiuksensa ja leikata kyntensä, ",
       "king_james": "Then thou shalt bring her home to thine house; and she shall shave her head, and pare her nails;"
     },
     {
       "verse": 13,
       "latin_vulgate": "et deponet vestem, in qua capta est : sedensque in domo tua, flebit patrem et matrem suam uno mense : et postea intrabis ad eam, dormiesque cum illa, et erit uxor tua. ",
       "hebrew_masoretic": "וְהֵסִ֩ירָה֩ אֶת־שִׂמְלַ֨ת שִׁבְיָ֜הּ מֵעָלֶ֗יהָ וְיָֽשְׁבָה֙ בְּבֵיתֶ֔ךָ וּבָ֥כְתָ֛ה אֶת־אָבִ֥יהָ וְאֶת־אִמָּ֖הּ יֶ֣רַח יָמִ֑ים וְאַ֨חַר כֵּ֜ן תָּב֤וֹא אֵלֶ֙יהָ֙ וּבְעַלְתָּ֔הּ וְהָיְתָ֥ה לְךָ֖ לְאִשָּֽׁה׃",
+      "douay_rheims": "And shall put off the raiment, wherein she was taken: and shall remain in thy house, and mourn for her father and mother one month: and after that thou shalt go in unto her, and shalt sleep with her, and she shall be thy wife.",
+      "finnish_biblia": "Ja riisua vaatteensa, joissa hän vangittiin, ja anna hänen istua huoneessas, ja itkeä kuukauden isänsä ja äitiänsä: mene sitte hänen tykönsä ja ole hänen miehensä, ja hän olkoon sinun emäntäs. ",
       "king_james": "And she shall put the raiment of her captivity from off her, and shall remain in thine house, and bewail her father and her mother a full month: and after that thou shalt go in unto her, and be her husband, and she shall be thy wife."
     },
     {
       "verse": 14,
       "latin_vulgate": "Si autem postea non sederit animo tuo, dimittes eam liberam, nec vendere poteris pecunia, nec opprimere per potentiam : quia humiliasti eam.  ",
       "hebrew_masoretic": "וְהָיָ֞ה אִם־לֹ֧א חָפַ֣צְתָּ בָּ֗הּ וְשִׁלַּחְתָּהּ֙ לְנַפְשָׁ֔הּ וּמָכֹ֥ר לֹא־תִמְכְּרֶ֖נָּה בַּכָּ֑סֶף לֹא־תִתְעַמֵּ֣ר בָּ֔הּ תַּ֖חַת אֲשֶׁ֥ר עִנִּיתָֽהּ׃ {ס}",
+      "douay_rheims": "But if afterwards she please thee not, thou shalt let her go free, but thou mayst not sell her for money nor oppress her by might because thou hast humbled her.",
+      "finnish_biblia": "Ja jos tapahtuu, ettei hän sinulle kelpaa, niin anna hänen mennä kuhunka hän tahtoo, ja älä suinkaan myy häntä rahaan: älä myös pyydä itselles jotakin voittoa hänen kauttansa; sillä sinä alensit hänen. ",
       "king_james": "And it shall be, if thou have no delight in her, then thou shalt let her go whither she will; but thou shalt not sell her at all for money, thou shalt not make merchandise of her, because thou hast humbled her."
     },
     {
       "verse": 15,
       "latin_vulgate": " Si habuerit homo uxores duas, unam dilectam, et alteram odiosam, genuerintque ex eo liberos, et fuerit filius odiosæ primogenitus, ",
       "hebrew_masoretic": "כִּֽי־תִהְיֶ֨יןָ לְאִ֜ישׁ שְׁתֵּ֣י נָשִׁ֗ים הָאַחַ֤ת אֲהוּבָה֙ וְהָאַחַ֣ת שְׂנוּאָ֔ה וְיָֽלְדוּ־ל֣וֹ בָנִ֔ים הָאֲהוּבָ֖ה וְהַשְּׂנוּאָ֑ה וְהָיָ֛ה הַבֵּ֥ן הַבְּכֹ֖ר לַשְּׂנִיאָֽה׃",
+      "douay_rheims": "If a man have two wives, one beloved, and the other hated, and they have had children by him, and the son of the hated be the firstborn,",
+      "finnish_biblia": "Jos jollakin miehellä on kaksi emäntää, yksi, jota hän rakastaa, ja toinen, jota hän vihaa, ja ne synnyttävät hänelle lapsia, sekä se jota hän rakastaa, että se jota hän vihaa, niin että esikoinen on sen, jota hän vihaa; ",
       "king_james": "If a man have two wives, one beloved, and another hated, and they have born him children, both the beloved and the hated; and if the firstborn son be hers that was hated:"
     },
     {
       "verse": 16,
       "latin_vulgate": "volueritque substantiam inter filios suos dividere, non poterit filium dilectæ facere primogenitum, et præferre filio odiosæ : ",
       "hebrew_masoretic": "וְהָיָ֗ה בְּיוֹם֙ הַנְחִיל֣וֹ אֶת־בָּנָ֔יו אֵ֥ת אֲשֶׁר־יִהְיֶ֖ה ל֑וֹ לֹ֣א יוּכַ֗ל לְבַכֵּר֙ אֶת־בֶּן־הָ֣אֲהוּבָ֔ה עַל־פְּנֵ֥י בֶן־הַשְּׂנוּאָ֖ה הַבְּכֹֽר׃",
+      "douay_rheims": "And he meaneth to divide his substance among his sons: he may not make the son of the beloved the firstborn, and prefer him before the son of the hated.",
+      "finnish_biblia": "Ja aika tulee, että hän lastensa välillä perimisen jakaa, niin ei hän taida tehdä rakkaamman poikaa esikoiseksensa vihattavan esikoisen edestä; ",
       "king_james": "Then it shall be, when he maketh his sons to inherit that which he hath, that he may not make the son of the beloved firstborn before the son of the hated, which is indeed the firstborn:"
     },
     {
       "verse": 17,
       "latin_vulgate": "sed filium odiosæ agnoscet primogenitum, dabitque ei de his quæ habuerit cuncta duplicia : iste est enim principium liberorum ejus, et huic debentur primogenita.  ",
       "hebrew_masoretic": "כִּי֩ אֶת־הַבְּכֹ֨ר בֶּן־הַשְּׂנוּאָ֜ה יַכִּ֗יר לָ֤תֶת לוֹ֙ פִּ֣י שְׁנַ֔יִם בְּכֹ֥ל אֲשֶׁר־יִמָּצֵ֖א ל֑וֹ כִּי־הוּא֙ רֵאשִׁ֣ית אֹנ֔וֹ ל֖וֹ מִשְׁפַּ֥ט הַבְּכֹרָֽה׃ {ס}",
+      "douay_rheims": "But he shall acknowledge the son of the hated for the firstborn, and shall give him a double portion of all he hath: for this is the first of his children, and to him are due the first birthrights.",
+      "finnish_biblia": "Vaan hänen pitää tunteman vihattavan pojan esikoiseksensa, niin että hän antaa hänelle kaksinkertaisesti kaikista niistä, mitä häneltä löydetään; sillä se on hänen ensimäinen voimansa, ja hänelle tulee esikoisen oikeus. ",
       "king_james": "But he shall acknowledge the son of the hated for the firstborn, by giving him a double portion of all that he hath: for he is the beginning of his strength; the right of the firstborn is his."
     },
     {
       "verse": 18,
       "latin_vulgate": " Si genuerit homo filium contumacem et protervum, qui non audiat patris aut matris imperium, et coërcitus obedire contempserit : ",
       "hebrew_masoretic": "כִּֽי־יִהְיֶ֣ה לְאִ֗ישׁ בֵּ֚ן סוֹרֵ֣ר וּמוֹרֶ֔ה אֵינֶ֣נּוּ שֹׁמֵ֔עַ בְּק֥וֹל אָבִ֖יו וּבְק֣וֹל אִמּ֑וֹ וְיִסְּר֣וּ אֹת֔וֹ וְלֹ֥א יִשְׁמַ֖ע אֲלֵיהֶֽם׃",
+      "douay_rheims": "If a man have a stubborn and unruly son, who will not hear the commandments of his father or mother, and being corrected, slighteth obedience:",
+      "finnish_biblia": "Jos jollakin on itsevaltainen ja kovakorvainen poika, joka ei kuule isänsä ja äitinsä ääntä, ja kuin he kurittavat häntä, ei heitä tottele; ",
       "king_james": "If a man have a stubborn and rebellious son, which will not obey the voice of his father, or the voice of his mother, and that, when they have chastened him, will not hearken unto them:"
     },
     {
       "verse": 19,
       "latin_vulgate": "apprehendent eum, et ducent ad seniores civitatis illius, et ad portam judicii, ",
       "hebrew_masoretic": "וְתָ֥פְשׂוּ ב֖וֹ אָבִ֣יו וְאִמּ֑וֹ וְהוֹצִ֧יאוּ אֹת֛וֹ אֶל־זִקְנֵ֥י עִיר֖וֹ וְאֶל־שַׁ֥עַר מְקֹמֽוֹ׃",
+      "douay_rheims": "They shall take him and bring him to the ancients of the city, and to the gate of judgment,",
+      "finnish_biblia": "Niin pitää hänen isänsä ja äitinsä hänen ottaman kiinni, ja viemän kaupunkinsa vanhimpain ja portin eteen, ",
       "king_james": "Then shall his father and his mother lay hold on him, and bring him out unto the elders of his city, and unto the gate of his place;"
     },
     {
       "verse": 20,
       "latin_vulgate": "dicentque ad eos : Filius noster iste protervus et contumax est : monita nostra audire contemnit, comessationibus vacat, et luxuriæ atque conviviis : ",
       "hebrew_masoretic": "וְאָמְר֞וּ אֶל־זִקְנֵ֣י עִיר֗וֹ בְּנֵ֤נוּ זֶה֙ סוֹרֵ֣ר וּמֹרֶ֔ה אֵינֶ֥נּוּ שֹׁמֵ֖עַ בְּקֹלֵ֑נוּ זוֹלֵ֖ל וְסֹבֵֽא׃",
+      "douay_rheims": "And shall say to them: This our son is rebellious and stubborn, he slighteth hearing our admonitions, he giveth himself to revelling, and to debauchery and banquetings:",
+      "finnish_biblia": "Ja sanokaan kaupunkinsa vanhimmille: tämä meidän poikamme on itsevaltainen ja kovakorvainen, ei tottele meidän ääntämme, ja on syömäri ja juomari; ",
       "king_james": "And they shall say unto the elders of his city, This our son is stubborn and rebellious, he will not obey our voice; he is a glutton, and a drunkard."
     },
     {
       "verse": 21,
       "latin_vulgate": "lapidibus eum obruet populus civitatis, et morietur, ut auferatis malum de medio vestri, et universus Israël audiens pertimescat.  ",
       "hebrew_masoretic": "וּ֠רְגָמֻ֠הוּ כׇּל־אַנְשֵׁ֨י עִיר֤וֹ בָֽאֲבָנִים֙ וָמֵ֔ת וּבִֽעַרְתָּ֥ הָרָ֖ע מִקִּרְבֶּ֑ךָ וְכׇל־יִשְׂרָאֵ֖ל יִשְׁמְע֥וּ וְיִרָֽאוּ׃ {ס}",
+      "douay_rheims": "The people of the city shall stone him: and he shall die, that you may take away the evil out of the midst of you, and all Israel hearing it may be afraid.",
+      "finnish_biblia": "Niin pitää kaiken kaupungin kansan hänen kuoliaaksi kivittämän: ja niin sinä eroitat pahan sinustas, että koko Israel sen kuulis ja pelkäis. ",
       "king_james": "And all the men of his city shall stone him with stones, that he die: so shalt thou put evil away from among you; and all Israel shall hear, and fear."
     },
     {
       "verse": 22,
       "latin_vulgate": " Quando peccaverit homo quod morte plectendum est, et adjudicatus morti appensus fuerit in patibulo : ",
       "hebrew_masoretic": "וְכִֽי־יִהְיֶ֣ה בְאִ֗ישׁ חֵ֛טְא מִשְׁפַּט־מָ֖וֶת וְהוּמָ֑ת וְתָלִ֥יתָ אֹת֖וֹ עַל־עֵֽץ׃",
+      "douay_rheims": "When a man hath committed a crime for which he is to be punished with death, and being condemned to die is hanged on a gibbet:",
+      "finnish_biblia": "Jos joku on tehnyt jonkun synnin, joka kuoleman on ansainnut, ja hirsipuussa kuoletetaan, ",
       "king_james": "And if a man have committed a sin worthy of death, and he be to be put to death, and thou hang him on a tree:"
     },
     {
       "verse": 23,
       "latin_vulgate": "non permanebit cadaver ejus in ligno, sed in eadem die sepelietur : quia maledictus a Deo est qui pendet in ligno : et nequaquam contaminabis terram tuam, quam Dominus Deus tuus dederit tibi in possessionem.   ",
       "hebrew_masoretic": "לֹא־תָלִ֨ין נִבְלָת֜וֹ עַל־הָעֵ֗ץ כִּֽי־קָב֤וֹר תִּקְבְּרֶ֙נּוּ֙ בַּיּ֣וֹם הַה֔וּא כִּֽי־קִלְלַ֥ת אֱלֹהִ֖ים תָּל֑וּי וְלֹ֤א תְטַמֵּא֙ אֶת־אַדְמָ֣תְךָ֔ אֲשֶׁר֙ יְהֹוָ֣ה אֱלֹהֶ֔יךָ נֹתֵ֥ן לְךָ֖ נַחֲלָֽה׃ {ס}",
+      "douay_rheims": "His body shall not remain upon the tree, but shall be buried the same day: for he is accursed of God that hangeth on a tree: and thou shalt not defile thy land, which the Lord thy God shall give thee in possession. ",
+      "finnish_biblia": "Niin ei pidä hänen ruumiinsa yötä puussa pidettämän, mutta haudatkaat häntä kohta sinä päivänä; sillä se on kirottu Jumalalta, joka hirtetty on, ettet sinä saastuttaisi sinun maatas, jonka Herra sinun Jumalas sinulle perimiseksi antaa.   ",
       "king_james": "His body shall not remain all night upon the tree, but thou shalt in any wise bury him that day; (for he that is hanged is accursed of God;) that thy land be not defiled, which the Lord thy God giveth thee for an inheritance. "
     }
   ]

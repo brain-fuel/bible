@@ -2,6 +2,8 @@
   "book_id": "PSA",
   "latin_name": "Liber Psalmorum",
   "hebrew_name": "תְּהִלִּים",
+  "douay_name": "Psalms",
+  "finnish_name": "Psalmit",
   "english_name": "Psalms",
   "chapter": 26,
   "verses": [
@@ -9,9 +11,14 @@
       "verse": 1,
       "latin_vulgate": "In finem. Psalmus David.   Judica me, Domine, quoniam ego in innocentia mea ingressus sum,  et in Domino sperans non infirmabor. ",
       "hebrew_masoretic": "לְדָוִ֨ד ׀ שׇׁפְטֵ֤נִי יְהֹוָ֗ה כִּֽי־אֲ֭נִי בְּתֻמִּ֣י הָלַ֑כְתִּי וּבַיהֹוָ֥ה בָּ֝טַ֗חְתִּי לֹ֣א אֶמְעָֽד׃",
+      "douay_rheims": "Unto the end, a psalm for David. Judge me, O Lord, for I have walked in my innocence: and I have put my trust in the Lord, and shall not be weakened.",
+      "finnish_biblia": "Davidin Psalmi. Tuomitse minua, Herra; sillä minä olen vakuudessani vaeltanut: ja minä toivon Herraan, sentähden en minä livistele. ",
       "king_james": "Judge me, O Lord; for I have walked in mine integrity: I have trusted also in the Lord; therefore I shall not slide.",
       "refs": {
         "latin_vulgate": {
+          "src": "25:1"
+        },
+        "douay_rheims": {
           "src": "25:1"
         }
       }
@@ -20,9 +27,14 @@
       "verse": 2,
       "latin_vulgate": " Proba me, Domine, et tenta me ;  ure renes meos et cor meum. ",
       "hebrew_masoretic": "בְּחָנֵ֣נִי יְהֹוָ֣ה וְנַסֵּ֑נִי (צרופה) [צׇרְפָ֖ה] כִלְיוֹתַ֣י וְלִבִּֽי׃",
+      "douay_rheims": "Prove me, O Lord, and try me; burn my reins and my heart.",
+      "finnish_biblia": "Koettele minua, Herra, ja kiusaa minua: puhdista minun munaskuuni ja sydämeni. ",
       "king_james": "Examine me, O Lord, and prove me; try my reins and my heart.",
       "refs": {
         "latin_vulgate": {
+          "src": "25:2"
+        },
+        "douay_rheims": {
           "src": "25:2"
         }
       }
@@ -31,9 +43,14 @@
       "verse": 3,
       "latin_vulgate": " Quoniam misericordia tua ante oculos meos est,  et complacui in veritate tua. ",
       "hebrew_masoretic": "כִּֽי־חַ֭סְדְּךָ לְנֶ֣גֶד עֵינָ֑י וְ֝הִתְהַלַּ֗כְתִּי בַּאֲמִתֶּֽךָ׃",
+      "douay_rheims": "For thy mercy is before my eyes; and I am well pleased with thy truth.",
+      "finnish_biblia": "Sillä sinun hyvyytes on silmäini edessä, ja minä vaellan sinun totuudessas. ",
       "king_james": "For thy lovingkindness is before mine eyes: and I have walked in thy truth.",
       "refs": {
         "latin_vulgate": {
+          "src": "25:3"
+        },
+        "douay_rheims": {
           "src": "25:3"
         }
       }
@@ -42,9 +59,14 @@
       "verse": 4,
       "latin_vulgate": " Non sedi cum concilio vanitatis,  et cum iniqua gerentibus non introibo. ",
       "hebrew_masoretic": "לֹֽא־יָ֭שַׁבְתִּי עִם־מְתֵי־שָׁ֑וְא וְעִ֥ם נַ֝עֲלָמִ֗ים לֹ֣א אָבֽוֹא׃",
+      "douay_rheims": "I have not sat with the council of vanity: neither will I go in with the doers of unjust things.",
+      "finnish_biblia": "En minä istu turhain ihmisten seassa, enkä seuraa petollisia. ",
       "king_james": "I have not sat with vain persons, neither will I go in with dissemblers.",
       "refs": {
         "latin_vulgate": {
+          "src": "25:4"
+        },
+        "douay_rheims": {
           "src": "25:4"
         }
       }
@@ -53,9 +75,14 @@
       "verse": 5,
       "latin_vulgate": " Odivi ecclesiam malignantium,  et cum impiis non sedebo. ",
       "hebrew_masoretic": "שָׂ֭נֵאתִי קְהַ֣ל מְרֵעִ֑ים וְעִם־רְ֝שָׁעִ֗ים לֹ֣א אֵשֵֽׁב׃",
+      "douay_rheims": "I have hated the assembly of the malignant; and with the wicked I will not sit.",
+      "finnish_biblia": "Minä vihaan pahain seurakuntaa, enkä istu jumalattomain tykönä. ",
       "king_james": "I have hated the congregation of evil doers; and will not sit with the wicked.",
       "refs": {
         "latin_vulgate": {
+          "src": "25:5"
+        },
+        "douay_rheims": {
           "src": "25:5"
         }
       }
@@ -64,9 +91,14 @@
       "verse": 6,
       "latin_vulgate": " Lavabo inter innocentes manus meas,  et circumdabo altare tuum, Domine : ",
       "hebrew_masoretic": "אֶרְחַ֣ץ בְּנִקָּי֣וֹן כַּפָּ֑י וַאֲסֹבְבָ֖ה אֶת־מִזְבַּחֲךָ֣ יְהֹוָֽה׃",
+      "douay_rheims": "I will wash my hands among the innocent; and will compass thy altar, O Lord:",
+      "finnish_biblia": "Minä pesen käteni viattomuudessa, ja oleskelen, Herra, alttaris tykönä, ",
       "king_james": "I will wash mine hands in innocency: so will I compass thine altar, O Lord:",
       "refs": {
         "latin_vulgate": {
+          "src": "25:6"
+        },
+        "douay_rheims": {
           "src": "25:6"
         }
       }
@@ -75,9 +107,14 @@
       "verse": 7,
       "latin_vulgate": " ut audiam vocem laudis,  et enarrem universa mirabilia tua. ",
       "hebrew_masoretic": "לַ֭שְׁמִעַ בְּק֣וֹל תּוֹדָ֑ה וּ֝לְסַפֵּ֗ר כׇּל־נִפְלְאוֹתֶֽיךָ׃",
+      "douay_rheims": "That I may hear the voice of thy praise: and tell of all thy wondrous works.",
+      "finnish_biblia": "Kussa kiitossanan ääni kuullaan, ja kaikki sinun ihmees saarnataan. ",
       "king_james": "That I may publish with the voice of thanksgiving, and tell of all thy wondrous works.",
       "refs": {
         "latin_vulgate": {
+          "src": "25:7"
+        },
+        "douay_rheims": {
           "src": "25:7"
         }
       }
@@ -86,9 +123,14 @@
       "verse": 8,
       "latin_vulgate": " Domine, dilexi decorem domus tuæ,  et locum habitationis gloriæ tuæ. ",
       "hebrew_masoretic": "יְֽהֹוָ֗ה אָ֭הַבְתִּי מְע֣וֹן בֵּיתֶ֑ךָ וּ֝מְק֗וֹם מִשְׁכַּ֥ן כְּבוֹדֶֽךָ׃",
+      "douay_rheims": "I have loved, O Lord, the beauty of thy house; and the place where thy glory dwelleth.",
+      "finnish_biblia": "Herra, minä rakastin sinun huonees asuinsiaa ja sitä siaa, jossa sinun kunnias asuu. ",
       "king_james": "Lord, I have loved the habitation of thy house, and the place where thine honour dwelleth.",
       "refs": {
         "latin_vulgate": {
+          "src": "25:8"
+        },
+        "douay_rheims": {
           "src": "25:8"
         }
       }
@@ -97,9 +139,14 @@
       "verse": 9,
       "latin_vulgate": " Ne perdas cum impiis, Deus, animam meam,  et cum viris sanguinum vitam meam : ",
       "hebrew_masoretic": "אַל־תֶּאֱסֹ֣ף עִם־חַטָּאִ֣ים נַפְשִׁ֑י וְעִם־אַנְשֵׁ֖י דָמִ֣ים חַיָּֽי׃",
+      "douay_rheims": "Take not away my soul, O God, with the wicked: nor my life with bloody men:",
+      "finnish_biblia": "Älä tempaa minun sieluani pois syntisten kanssa ja henkeäni verikoirain kanssa, ",
       "king_james": "Gather not my soul with sinners, nor my life with bloody men:",
       "refs": {
         "latin_vulgate": {
+          "src": "25:9"
+        },
+        "douay_rheims": {
           "src": "25:9"
         }
       }
@@ -108,9 +155,14 @@
       "verse": 10,
       "latin_vulgate": " in quorum manibus iniquitates sunt ;  dextera eorum repleta est muneribus. ",
       "hebrew_masoretic": "אֲשֶׁר־בִּידֵיהֶ֥ם זִמָּ֑ה וִ֝ימִינָ֗ם מָ֣לְאָה שֹּֽׁחַד׃",
+      "douay_rheims": "In whose hands are iniquities: their right hand is filled with gifts.",
+      "finnish_biblia": "Jotka pahanjuoniset ovat ja mielellänsä lahjoja ottavat. ",
       "king_james": "In whose hands is mischief, and their right hand is full of bribes.",
       "refs": {
         "latin_vulgate": {
+          "src": "25:10"
+        },
+        "douay_rheims": {
           "src": "25:10"
         }
       }
@@ -119,9 +171,14 @@
       "verse": 11,
       "latin_vulgate": " Ego autem in innocentia mea ingressus sum ;  redime me, et miserere mei. ",
       "hebrew_masoretic": "וַ֭אֲנִי בְּתֻמִּ֥י אֵלֵ֗ךְ פְּדֵ֣נִי וְחׇנֵּֽנִי׃",
+      "douay_rheims": "But as for me, I have walked in my innocence: redeem me, and have mercy on me.",
+      "finnish_biblia": "Mutta minä vaellan viattomuudessani: vapahda minua ja ole minulle armollinen! ",
       "king_james": "But as for me, I will walk in mine integrity: redeem me, and be merciful unto me.",
       "refs": {
         "latin_vulgate": {
+          "src": "25:11"
+        },
+        "douay_rheims": {
           "src": "25:11"
         }
       }
@@ -130,9 +187,14 @@
       "verse": 12,
       "latin_vulgate": " Pes meus stetit in directo ;  in ecclesiis benedicam te, Domine.  ",
       "hebrew_masoretic": "רַ֭גְלִי עָמְדָ֣ה בְמִישׁ֑וֹר בְּ֝מַקְהֵלִ֗ים אֲבָרֵ֥ךְ יְהֹוָֽה׃ {פ}",
+      "douay_rheims": "My foot hath stood in the direct way: in the churches I will bless thee, O Lord. ",
+      "finnish_biblia": "Minun jalkani käy oikiasti: minä kiitän Herraa seurakunnissa.   ",
       "king_james": "My foot standeth in an even place: in the congregations will I bless the Lord. ",
       "refs": {
         "latin_vulgate": {
+          "src": "25:12"
+        },
+        "douay_rheims": {
           "src": "25:12"
         }
       }

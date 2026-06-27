@@ -2,6 +2,8 @@
   "book_id": "NUM",
   "latin_name": "Numeri",
   "hebrew_name": "בְּמִדְבַּר",
+  "douay_name": "Numbers",
+  "finnish_name": "4. Mooseksen kirja",
   "english_name": "Numbers",
   "chapter": 23,
   "verses": [
@@ -9,180 +11,240 @@
       "verse": 1,
       "latin_vulgate": "Dixitque Balaam ad Balac : Ædifica mihi hic septem aras, et para totidem vitulos, ejusdemque numeri arietes. ",
       "hebrew_masoretic": "וַיֹּ֤אמֶר בִּלְעָם֙ אֶל־בָּלָ֔ק בְּנֵה־לִ֥י בָזֶ֖ה שִׁבְעָ֣ה מִזְבְּחֹ֑ת וְהָכֵ֥ן לִי֙ בָּזֶ֔ה שִׁבְעָ֥ה פָרִ֖ים וְשִׁבְעָ֥ה אֵילִֽים׃",
+      "douay_rheims": "And Balaam said to Balac: Build me here seven altars, and prepare as many calves, and the same number of rams.",
+      "finnish_biblia": "Ja Bileam sanoi Balakille: rakenna minulle tähän seitsemän alttaria, ja valmista minulle tässä seitsemän mullia, ja seitsemän oinasta. ",
       "king_james": "And Balaam said unto Balak, Build me here seven altars, and prepare me here seven oxen and seven rams."
     },
     {
       "verse": 2,
       "latin_vulgate": "Cumque fecisset juxta sermonem Balaam, imposuerunt simul vitulum et arietem super aram. ",
       "hebrew_masoretic": "וַיַּ֣עַשׂ בָּלָ֔ק כַּאֲשֶׁ֖ר דִּבֶּ֣ר בִּלְעָ֑ם וַיַּ֨עַל בָּלָ֧ק וּבִלְעָ֛ם פָּ֥ר וָאַ֖יִל בַּמִּזְבֵּֽחַ׃",
+      "douay_rheims": "And when he had done according to the word of Balaam, they laid together a calf and a ram upon every altar.",
+      "finnish_biblia": "Balak teki niinkuin Bileam sanoi, ja Balak ja Bileam uhrasivat (kullakin) alttarilla mullin ja oinaan. ",
       "king_james": "And Balak did as Balaam had spoken; and Balak and Balaam offered on every altar a bullock and a ram."
     },
     {
       "verse": 3,
       "latin_vulgate": "Dixitque Balaam ad Balac : Sta paulisper juxta holocaustum tuum, donec vadam, si forte occurrat mihi Dominus, et quodcumque imperaverit, loquar tibi. ",
       "hebrew_masoretic": "וַיֹּ֨אמֶר בִּלְעָ֜ם לְבָלָ֗ק הִתְיַצֵּב֮ עַל־עֹלָתֶ֒ךָ֒ וְאֵֽלְכָ֗ה אוּלַ֞י יִקָּרֵ֤ה יְהֹוָה֙ לִקְרָאתִ֔י וּדְבַ֥ר מַה־יַּרְאֵ֖נִי וְהִגַּ֣דְתִּי לָ֑ךְ וַיֵּ֖לֶךְ שֶֽׁפִי׃",
+      "douay_rheims": "And Balaam said to Balac: Stand a while by thy burnt offering, until I go, to see if perhaps the Lord will meet me, and whatsoever he shall command, I will speak to thee.",
+      "finnish_biblia": "Ja Bileam sanoi Balakille: seiso polttouhris tykönä, ja minä menen tuonne. Kukaties Herra tulee minua kohtaamaan, ja mitä hän minulle tietää antaa, sen minä tahdon sinulle ilmoittaa. Ja hän meni pois korkialle paikalle. ",
       "king_james": "And Balaam said unto Balak, Stand by thy burnt offering, and I will go: peradventure the Lord will come to meet me: and whatsoever he sheweth me I will tell thee. And he went to an high place."
     },
     {
       "verse": 4,
       "latin_vulgate": "Cumque abiisset velociter, occurrit illi Deus. Locutusque ad eum Balaam : Septem, inquit, aras erexi, et imposui vitulum et arietem desuper. ",
       "hebrew_masoretic": "וַיִּקָּ֥ר אֱלֹהִ֖ים אֶל־בִּלְעָ֑ם וַיֹּ֣אמֶר אֵלָ֗יו אֶת־שִׁבְעַ֤ת הַֽמִּזְבְּחֹת֙ עָרַ֔כְתִּי וָאַ֛עַל פָּ֥ר וָאַ֖יִל בַּמִּזְבֵּֽחַ׃",
+      "douay_rheims": "And when he was gone with speed, God met him. And Balaam speaking to him, said: I have erected seven altars, and have laid on everyone a calf and a ram.",
+      "finnish_biblia": "Ja Jumala kohtasi Bileamin; mutta hän sanoi hänelle: seitsemän alttaria minä valmistin, ja olen uhrannut mullin ja oinaan (joka) alttarilla. ",
       "king_james": "And God met Balaam: and he said unto him, I have prepared seven altars, and I have offered upon every altar a bullock and a ram."
     },
     {
       "verse": 5,
       "latin_vulgate": "Dominus autem posuit verbum in ore ejus, et ait : Revertere ad Balac, et hæc loqueris. ",
       "hebrew_masoretic": "וַיָּ֧שֶׂם יְהֹוָ֛ה דָּבָ֖ר בְּפִ֣י בִלְעָ֑ם וַיֹּ֛אמֶר שׁ֥וּב אֶל־בָּלָ֖ק וְכֹ֥ה תְדַבֵּֽר׃",
+      "douay_rheims": "And the Lord put the word in his mouth, and said: Return to Balac, and thus shalt thou speak.",
+      "finnish_biblia": "Ja Herra pani Bileamin suuhun sanat, ja sanoi: palaja Balakin tykö ja puhu näin. ",
       "king_james": "And the Lord put a word in Balaam’s mouth, and said, Return unto Balak, and thus thou shalt speak."
     },
     {
       "verse": 6,
       "latin_vulgate": "Reversus invenit stantem Balac juxta holocaustum suum, et omnes principes Moabitarum : ",
       "hebrew_masoretic": "וַיָּ֣שׇׁב אֵלָ֔יו וְהִנֵּ֥ה נִצָּ֖ב עַל־עֹלָת֑וֹ ה֖וּא וְכׇל־שָׂרֵ֥י מוֹאָֽב׃",
+      "douay_rheims": "Returning he found Balac standing by his burnt offering, with all the princes of the Moabites:",
+      "finnish_biblia": "Ja koska hän tuli jälleen hänen tykönsä, katso, niin hän seisoi polttouhrinsa tykönä, kaikkein Moabin päämiesten kanssa. ",
       "king_james": "And he returned unto him, and, lo, he stood by his burnt sacrifice, he, and all the princes of Moab."
     },
     {
       "verse": 7,
       "latin_vulgate": "assumptaque parabola sua, dixit :   De Aram adduxit me Balac  rex Moabitarum, de montibus orientis :  Veni, inquit, et maledic Jacob ;  propera, et detestare Israël. ",
       "hebrew_masoretic": "וַיִּשָּׂ֥א מְשָׁל֖וֹ וַיֹּאמַ֑ר מִן־אֲ֠רָ֠ם יַנְחֵ֨נִי בָלָ֤ק מֶֽלֶךְ־מוֹאָב֙ מֵֽהַרְרֵי־קֶ֔דֶם לְכָה֙ אָֽרָה־לִּ֣י יַעֲקֹ֔ב וּלְכָ֖ה זֹעֲמָ֥ה יִשְׂרָאֵֽל׃",
+      "douay_rheims": "And taking up his parable, he said: Balac king of the Moabites hath brought me from Aram, from the mountains of the east: Come, said he, and curse Jacob: make haste and detest Israel.",
+      "finnish_biblia": "Niin alkoi hän puheensa ja sanoi: Syriasta on Balak Moabilaisten kuningas minua tuottanut, idän puolisilta vuorilta: tule ja kiroo minulle Jakob, tule sadattele Israelia. ",
       "king_james": "And he took up his parable, and said, Balak the king of Moab hath brought me from Aram, out of the mountains of the east, saying, Come, curse me Jacob, and come, defy Israel."
     },
     {
       "verse": 8,
       "latin_vulgate": " Quomodo maledicam, cui non maledixit Deus ?  qua ratione detester, quem Dominus non detestatur ? ",
       "hebrew_masoretic": "מָ֣ה אֶקֹּ֔ב לֹ֥א קַבֹּ֖ה אֵ֑ל וּמָ֣ה אֶזְעֹ֔ם לֹ֥א זָעַ֖ם יְהֹוָֽה׃",
+      "douay_rheims": "How shall I curse him, whom God hath not cursed? By what means should I detest him, whom the Lord detesteth not?",
+      "finnish_biblia": "Kuinka minun pitää kirooman sitä, jota ei Jumalakaan kiroo? kuinka minä sitä sadattelen, jota ei Herrakaan sadattele? ",
       "king_james": "How shall I curse, whom God hath not cursed? or how shall I defy, whom the Lord hath not defied?"
     },
     {
       "verse": 9,
       "latin_vulgate": " De summis silicibus videbo eum,  et de collibus considerabo illum.  Populus solus habitabit,  et inter gentes non reputabitur. ",
       "hebrew_masoretic": "כִּֽי־מֵרֹ֤אשׁ צֻרִים֙ אֶרְאֶ֔נּוּ וּמִגְּבָע֖וֹת אֲשׁוּרֶ֑נּוּ הֶן־עָם֙ לְבָדָ֣ד יִשְׁכֹּ֔ן וּבַגּוֹיִ֖ם לֹ֥א יִתְחַשָּֽׁב׃",
+      "douay_rheims": "I shall see him from the tops of the rocks, and shall consider him from the hills. This people shall dwell alone, and shall not be reckoned among the nations.",
+      "finnish_biblia": "Sillä vuorten kukkuloilta minä hänen näen, ja korkeuksista minä häntä katselen. Katso, se kansa pitää asuman yksinänsä, ja ei pidä pakanain sekaan luettaman. ",
       "king_james": "For from the top of the rocks I see him, and from the hills I behold him: lo, the people shall dwell alone, and shall not be reckoned among the nations."
     },
     {
       "verse": 10,
       "latin_vulgate": " Quis dinumerare possit pulverem Jacob,  et nosse numerum stirpis Israël ?  Moriatur anima mea morte justorum,  et fiant novissima mea horum similia.  ",
       "hebrew_masoretic": "מִ֤י מָנָה֙ עֲפַ֣ר יַעֲקֹ֔ב וּמִסְפָּ֖ר אֶת־רֹ֣בַע יִשְׂרָאֵ֑ל תָּמֹ֤ת נַפְשִׁי֙ מ֣וֹת יְשָׁרִ֔ים וּתְהִ֥י אַחֲרִיתִ֖י כָּמֹֽהוּ׃",
+      "douay_rheims": "Who can count the dust of Jacob, and know the number of the stock of Israel? Let my soul die the death of the just, and my last end be like to them.",
+      "finnish_biblia": "Kuka lukee Jakobin tomus, ja neljännen osan Israelin lapsista? Minun sieluni kuolkoon vanhurskasten kuolemalla, ja minun loppuni olkoon niinkuin heidän loppunsa. ",
       "king_james": "Who can count the dust of Jacob, and the number of the fourth part of Israel? Let me die the death of the righteous, and let my last end be like his!"
     },
     {
       "verse": 11,
       "latin_vulgate": " Dixitque Balac ad Balaam : Quid est hoc quod agis ? ut malediceres inimicis meis vocavi te, et tu e contrario benedicis eis. ",
       "hebrew_masoretic": "וַיֹּ֤אמֶר בָּלָק֙ אֶל־בִּלְעָ֔ם מֶ֥ה עָשִׂ֖יתָ לִ֑י לָקֹ֤ב אֹיְבַי֙ לְקַחְתִּ֔יךָ וְהִנֵּ֖ה בֵּרַ֥כְתָּ בָרֵֽךְ׃",
+      "douay_rheims": "And Balac said to Balaam: What is this that thou dost? I sent for thee to curse my enemies: and thou contrariwise blessest them.",
+      "finnish_biblia": "Niin sanoi Balak Bileamille: mitäs minun teet? Minä tuotin sinun kiroilemaan vihollisiani, ja katso, sinä täydellisesti siunaat heitä. ",
       "king_james": "And Balak said unto Balaam, What hast thou done unto me? I took thee to curse mine enemies, and, behold, thou hast blessed them altogether."
     },
     {
       "verse": 12,
       "latin_vulgate": "Cui ille respondit : Num aliud possum loqui, nisi quod jusserit Dominus ? ",
       "hebrew_masoretic": "וַיַּ֖עַן וַיֹּאמַ֑ר הֲלֹ֗א אֵת֩ אֲשֶׁ֨ר יָשִׂ֤ים יְהֹוָה֙ בְּפִ֔י אֹת֥וֹ אֶשְׁמֹ֖ר לְדַבֵּֽר׃",
+      "douay_rheims": "He answered him: Can I speak any thing else but what the Lord commandeth?",
+      "finnish_biblia": "Hän vastasi, ja sanoi: eikö minun pidä sitä pitämän ja puhuman, mitä Herra minun suuhuni antaa? ",
       "king_james": "And he answered and said, Must I not take heed to speak that which the Lord hath put in my mouth?"
     },
     {
       "verse": 13,
       "latin_vulgate": "Dixit ergo Balac : Veni mecum in alterum locum unde partem Israël videas, et totum videre non possis : inde maledicito ei. ",
       "hebrew_masoretic": "וַיֹּ֨אמֶר אֵלָ֜יו בָּלָ֗ק (לך) [לְכָה־]נָּ֨א אִתִּ֜י אֶל־מָק֤וֹם אַחֵר֙ אֲשֶׁ֣ר תִּרְאֶ֣נּוּ מִשָּׁ֔ם אֶ֚פֶס קָצֵ֣הוּ תִרְאֶ֔ה וְכֻלּ֖וֹ לֹ֣א תִרְאֶ֑ה וְקׇבְנוֹ־לִ֖י מִשָּֽׁם׃",
+      "douay_rheims": "Balac therefore said: Come with me to another place from whence thou mayest see part of Israel, and canst not see them all: curse them from thence.",
+      "finnish_biblia": "Balak sanoi hänelle: tule siis minun kanssani toiseen paikkaan, jostas hänen saat nähdä. Ainoastaan hänen äärimäisensä sinä taidat nähdä, vaan et näe kaikkia: kiroo häntä minulle sieltä. ",
       "king_james": "And Balak said unto him, Come, I pray thee, with me unto another place, from whence thou mayest see them: thou shalt see but the utmost part of them, and shalt not see them all: and curse me them from thence."
     },
     {
       "verse": 14,
       "latin_vulgate": "Cumque duxisset eum in locum sublimem, super verticem montis Phasga, ædificavit Balaam septem aras, et impositis supra vitulo atque ariete, ",
       "hebrew_masoretic": "וַיִּקָּחֵ֙הוּ֙ שְׂדֵ֣ה צֹפִ֔ים אֶל־רֹ֖אשׁ הַפִּסְגָּ֑ה וַיִּ֙בֶן֙ שִׁבְעָ֣ה מִזְבְּחֹ֔ת וַיַּ֛עַל פָּ֥ר וָאַ֖יִל בַּמִּזְבֵּֽחַ׃",
+      "douay_rheims": "And when he had brought him to a high place, upon the top of mount Phasga, Balaam built seven altars, and laying on every one a calf and a ram,",
+      "finnish_biblia": "Ja hän vei hänen Vartialakeudelle, Pisgan kukkulalle, ja rakensi seitsemän alttaria, ja uhrasi (joka) alttarilla mullin ja oinaan. ",
       "king_james": "And he brought him into the field of Zophim, to the top of Pisgah, and built seven altars, and offered a bullock and a ram on every altar."
     },
     {
       "verse": 15,
       "latin_vulgate": "dixit ad Balac : Sta hic juxta holocaustum tuum, donec ego obvius pergam. ",
       "hebrew_masoretic": "וַיֹּ֙אמֶר֙ אֶל־בָּלָ֔ק הִתְיַצֵּ֥ב כֹּ֖ה עַל־עֹלָתֶ֑ךָ וְאָנֹכִ֖י אִקָּ֥רֶה כֹּֽה׃",
+      "douay_rheims": "He said to Balac: Stand here by thy burnt offering while I go to meet him.",
+      "finnish_biblia": "Ja hän sanoi Balakille: seiso tässä polttouhris tykönä, ja minä tahdon kohdata (häntä) tuolla. ",
       "king_james": "And he said unto Balak, Stand here by thy burnt offering, while I meet the Lord yonder."
     },
     {
       "verse": 16,
       "latin_vulgate": "Cui cum Dominus occurrisset, posuissetque verbum in ore ejus, ait : Revertere ad Balac, et hæc loqueris ei. ",
       "hebrew_masoretic": "וַיִּקָּ֤ר יְהֹוָה֙ אֶל־בִּלְעָ֔ם וַיָּ֥שֶׂם דָּבָ֖ר בְּפִ֑יו וַיֹּ֛אמֶר שׁ֥וּב אֶל־בָּלָ֖ק וְכֹ֥ה תְדַבֵּֽר׃",
+      "douay_rheims": "And when the Lord had met him, and had put the word in his mouth, he said: Return to Balac, and thus shalt thou say to him.",
+      "finnish_biblia": "Ja Herra tuli Bileamia vastaan, ja antoi sanat hänen suuhunsa, ja sanoi: mene jälleen Balakin tykö ja sano näin. ",
       "king_james": "And the Lord met Balaam, and put a word in his mouth, and said, Go again unto Balak, and say thus."
     },
     {
       "verse": 17,
       "latin_vulgate": "Reversus invenit eum stantem juxta holocaustum suum, et principes Moabitarum cum eo. Ad quem Balac : Quid, inquit, locutus est Dominus ? ",
       "hebrew_masoretic": "וַיָּבֹ֣א אֵלָ֗יו וְהִנּ֤וֹ נִצָּב֙ עַל־עֹ֣לָת֔וֹ וְשָׂרֵ֥י מוֹאָ֖ב אִתּ֑וֹ וַיֹּ֤אמֶר לוֹ֙ בָּלָ֔ק מַה־דִּבֶּ֖ר יְהֹוָֽה׃",
+      "douay_rheims": "Returning he found him standing by his burnt sacrifice, and the princes of the Moabites with him. And Balac said to him: What hath the Lord spoken?",
+      "finnish_biblia": "Ja kuin hän tuli hänen tykönsä jälleen, katso, hän seisoi polttouhrinsa tykönä Moabin päämiesten kanssa. Ja Balak sanoi hänelle: mitä Herra sanoi? ",
       "king_james": "And when he came to him, behold, he stood by his burnt offering, and the princes of Moab with him. And Balak said unto him, What hath the Lord spoken?"
     },
     {
       "verse": 18,
       "latin_vulgate": "At ille, assumpta parabola sua, ait :   Sta, Balac, et ausculta ; audi, fili Sephor : ",
       "hebrew_masoretic": "וַיִּשָּׂ֥א מְשָׁל֖וֹ וַיֹּאמַ֑ר ק֤וּם בָּלָק֙ וּֽשְׁמָ֔ע הַאֲזִ֥ינָה עָדַ֖י בְּנ֥וֹ צִפֹּֽר׃",
+      "douay_rheims": "But he taking up his parable, said: Stand, O Balac, and give ear: hear, thou son of Sephor:",
+      "finnish_biblia": "Ja hän toi puheensa edes, ja sanoi: nouse, Balak ja kuule, kuuntele minua, Zipporin poika: ",
       "king_james": "And he took up his parable, and said, Rise up, Balak, and hear; hearken unto me, thou son of Zippor:"
     },
     {
       "verse": 19,
       "latin_vulgate": " non est Deus quasi homo, ut mentiatur,  nec ut filius hominis, ut mutetur.  Dixit ergo, et non faciet ?  locutus est, et non implebit ? ",
       "hebrew_masoretic": "לֹ֣א אִ֥ישׁ אֵל֙ וִֽיכַזֵּ֔ב וּבֶן־אָדָ֖ם וְיִתְנֶחָ֑ם הַה֤וּא אָמַר֙ וְלֹ֣א יַעֲשֶׂ֔ה וְדִבֶּ֖ר וְלֹ֥א יְקִימֶֽנָּה׃",
+      "douay_rheims": "God is not a man, that he should lie, nor is the son of man, that he should be changed. Hath he said then, and will he not do? hath he spoken, and will he not fulfil?",
+      "finnish_biblia": "Ei ole Jumala ihminen, että hän valhettelis, taikka ihmisen lapsi, että hän jotakin katuis. Pitäiskö hänen jotakin sanoman, ja ei tekemän? Pitäiskö hänen jotakin puhuman, ja ei täyttämän? ",
       "king_james": "God is not a man, that he should lie; neither the son of man, that he should repent: hath he said, and shall he not do it? or hath he spoken, and shall he not make it good?"
     },
     {
       "verse": 20,
       "latin_vulgate": " Ad benedicendum adductus sum :  benedictionem prohibere non valeo. ",
       "hebrew_masoretic": "הִנֵּ֥ה בָרֵ֖ךְ לָקָ֑חְתִּי וּבֵרֵ֖ךְ וְלֹ֥א אֲשִׁיבֶֽנָּה׃",
+      "douay_rheims": "I was brought to bless, the blessing I am not able to hinder.",
+      "finnish_biblia": "Katso, siunauksen olen minä saanut: hän myös siunasi, ja en minä taida sitä muuttaa. ",
       "king_james": "Behold, I have received commandment to bless: and he hath blessed; and I cannot reverse it."
     },
     {
       "verse": 21,
       "latin_vulgate": " Non est idolum in Jacob,  nec videtur simulacrum in Israël.  Dominus Deus ejus cum eo est,  et clangor victoriæ regis in illo. ",
       "hebrew_masoretic": "לֹֽא־הִבִּ֥יט אָ֙וֶן֙ בְּיַעֲקֹ֔ב וְלֹא־רָאָ֥ה עָמָ֖ל בְּיִשְׂרָאֵ֑ל יְהֹוָ֤ה אֱלֹהָיו֙ עִמּ֔וֹ וּתְרוּעַ֥ת מֶ֖לֶךְ בּֽוֹ׃",
+      "douay_rheims": "There is no idol in Jacob, neither is there an image god to be seen in Israel. The Lord his God is with him, and the sound of the victory of the king in him.",
+      "finnish_biblia": "Ei nähdä vääryyttä Jakobissa, eikä havaita pahuutta Israelissa. Herra hänen Jumalansa on hänen tykönänsä, ja Kuninkaan basuna on hänen seassansa. ",
       "king_james": "He hath not beheld iniquity in Jacob, neither hath he seen perverseness in Israel: the Lord his God is with him, and the shout of a king is among them."
     },
     {
       "verse": 22,
       "latin_vulgate": " Deus eduxit illum de Ægypto,  cujus fortitudo similis est rhinocerotis. ",
       "hebrew_masoretic": "אֵ֖ל מוֹצִיאָ֣ם מִמִּצְרָ֑יִם כְּתוֹעֲפֹ֥ת רְאֵ֖ם לֽוֹ׃",
+      "douay_rheims": "God hath brought him out of Egypt, whose strength is like to the rhinoceros.",
+      "finnish_biblia": "Jumala on hänen johdattanut Egyptistä: hänen väkevyytensä on niinkuin yksisarvisen väkevyys. ",
       "king_james": "God brought them out of Egypt; he hath as it were the strength of an unicorn."
     },
     {
       "verse": 23,
       "latin_vulgate": " Non est augurium in Jacob,  nec divinatio in Israël :  temporibus suis dicetur Jacob et Israëli quid operatus sit Deus. ",
       "hebrew_masoretic": "כִּ֤י לֹא־נַ֙חַשׁ֙ בְּיַעֲקֹ֔ב וְלֹא־קֶ֖סֶם בְּיִשְׂרָאֵ֑ל כָּעֵ֗ת יֵאָמֵ֤ר לְיַעֲקֹב֙ וּלְיִשְׂרָאֵ֔ל מַה־פָּ֖עַל אֵֽל׃",
+      "douay_rheims": "There is no soothsaying in Jacob, nor divination in Israel. In their times it shall be told to Jacob and to Israel what God hath wrought.",
+      "finnish_biblia": "Sillä ei yhtään velhoa ole Jakobissa eikä noitaa Israelissa: ajallansa pitää sanottaman Jakobille ja Israelille, mitä Jumala tehnyt on. ",
       "king_james": "Surely there is no enchantment against Jacob, neither is there any divination against Israel: according to this time it shall be said of Jacob and of Israel, What hath God wrought!"
     },
     {
       "verse": 24,
       "latin_vulgate": " Ecce populus ut leæna consurget,  et quasi leo erigetur :  non accubabit donec devoret prædam,  et occisorum sanguinem bibat.  ",
       "hebrew_masoretic": "הֶן־עָם֙ כְּלָבִ֣יא יָק֔וּם וְכַאֲרִ֖י יִתְנַשָּׂ֑א לֹ֤א יִשְׁכַּב֙ עַד־יֹ֣אכַל טֶ֔רֶף וְדַם־חֲלָלִ֖ים יִשְׁתֶּֽה׃",
+      "douay_rheims": "Behold the people shall rise up as a lioness, and shall lift itself up as a lion: it shall not lie down till it devour the prey, and drink the blood of the slain.",
+      "finnish_biblia": "Katso sen kansan pitää nouseman niinkuin syömäri jalopeura, ja karkaaman niinkuin tarkka jalopeura, ja ei pidä hänen maata paneman siihenasti että hän saaliin syö, ja juo niiden verta, jotka tapetut ovat. ",
       "king_james": "Behold, the people shall rise up as a great lion, and lift up himself as a young lion: he shall not lie down until he eat of the prey, and drink the blood of the slain."
     },
     {
       "verse": 25,
       "latin_vulgate": " Dixitque Balac ad Balaam : Nec maledicas ei, nec benedicas. ",
       "hebrew_masoretic": "וַיֹּ֤אמֶר בָּלָק֙ אֶל־בִּלְעָ֔ם גַּם־קֹ֖ב לֹ֣א תִקֳּבֶ֑נּוּ גַּם־בָּרֵ֖ךְ לֹ֥א תְבָרְכֶֽנּוּ׃",
+      "douay_rheims": "And Balac said to Balaam: Neither curse, nor bless him.",
+      "finnish_biblia": "Niin sanoi Balak Bileamille: ellet ollenkaan tahdo kirota heitä, niin älä suinkaan siunaakaan heitä. ",
       "king_james": "And Balak said unto Balaam, Neither curse them at all, nor bless them at all."
     },
     {
       "verse": 26,
       "latin_vulgate": "Et ille ait : Nonne dixi tibi quod quidquid mihi Deus imperaret, hoc facerem ? ",
       "hebrew_masoretic": "וַיַּ֣עַן בִּלְעָ֔ם וַיֹּ֖אמֶר אֶל־בָּלָ֑ק הֲלֹ֗א דִּבַּ֤רְתִּי אֵלֶ֙יךָ֙ לֵאמֹ֔ר כֹּ֛ל אֲשֶׁר־יְדַבֵּ֥ר יְהֹוָ֖ה אֹת֥וֹ אֶֽעֱשֶֽׂה׃",
+      "douay_rheims": "And he said: Did I not tell thee, that whatsoever God should command me, that I would do?",
+      "finnish_biblia": "Bileam vastasi, ja sanoi Balakille: enkö minä puhunut sinulle, sanoen: kaikki mitä Herra puhuva on, pitää minun tekemän? ",
       "king_james": "But Balaam answered and said unto Balak, Told not I thee, saying, All that the Lord speaketh, that I must do?"
     },
     {
       "verse": 27,
       "latin_vulgate": "Et ait Balac ad eum : Veni, et ducam te ad alium locum : si forte placeat Deo ut inde maledicas eis. ",
       "hebrew_masoretic": "וַיֹּ֤אמֶר בָּלָק֙ אֶל־בִּלְעָ֔ם לְכָה־נָּא֙ אֶקָּ֣חֲךָ֔ אֶל־מָק֖וֹם אַחֵ֑ר אוּלַ֤י יִישַׁר֙ בְּעֵינֵ֣י הָאֱלֹהִ֔ים וְקַבֹּ֥תוֹ לִ֖י מִשָּֽׁם׃",
+      "douay_rheims": "And Balac said to him: Come and I will bring thee to another place; if peradventure it please God that thou mayest curse them from thence.",
+      "finnish_biblia": "Ja Balak sanoi Bileamille: tule, minä vien sinun toiseen paikkaan: mitämaks Jumalalle kelpaa, ettäs häntä sieltä kiroilisit minulle. ",
       "king_james": "And Balak said unto Balaam, Come, I pray thee, I will bring thee unto another place; peradventure it will please God that thou mayest curse me them from thence."
     },
     {
       "verse": 28,
       "latin_vulgate": "Cumque duxisset eum super verticem montis Phogor, qui respicit solitudinem, ",
       "hebrew_masoretic": "וַיִּקַּ֥ח בָּלָ֖ק אֶת־בִּלְעָ֑ם רֹ֣אשׁ הַפְּע֔וֹר הַנִּשְׁקָ֖ף עַל־פְּנֵ֥י הַיְשִׁימֹֽן׃",
+      "douay_rheims": "And when he had brought him upon the top of mount Phogor, which looketh towards the wilderness,",
+      "finnish_biblia": "Ja Balak vei Bileamin Peorin vuoren kukkulalle, joka korpeen päin on. ",
       "king_james": "And Balak brought Balaam unto the top of Peor, that looketh toward Jeshimon."
     },
     {
       "verse": 29,
       "latin_vulgate": "dixit ei Balaam : Ædifica mihi hic septem aras, et para totidem vitulos, ejusdemque numeri arietes. ",
       "hebrew_masoretic": "וַיֹּ֤אמֶר בִּלְעָם֙ אֶל־בָּלָ֔ק בְּנֵה־לִ֥י בָזֶ֖ה שִׁבְעָ֣ה מִזְבְּחֹ֑ת וְהָכֵ֥ן לִי֙ בָּזֶ֔ה שִׁבְעָ֥ה פָרִ֖ים וְשִׁבְעָ֥ה אֵילִֽם׃",
+      "douay_rheims": "Balaam said to him: Build me here seven altars, and prepare as many calves, and the same number of rams.",
+      "finnish_biblia": "Ja Bileam sanoi Balakille: rakenna tähän minulle seitsemän alttaria, ja valmista minulle tässä seitsemän mullia ja seitsemän oinasta. ",
       "king_james": "And Balaam said unto Balak, Build me here seven altars, and prepare me here seven bullocks and seven rams."
     },
     {
       "verse": 30,
       "latin_vulgate": "Fecit Balac ut Balaam dixerat : imposuitque vitulos et arietes per singulas aras.   ",
       "hebrew_masoretic": "וַיַּ֣עַשׂ בָּלָ֔ק כַּאֲשֶׁ֖ר אָמַ֣ר בִּלְעָ֑ם וַיַּ֛עַל פָּ֥ר וָאַ֖יִל בַּמִּזְבֵּֽחַ׃",
+      "douay_rheims": "Balac did as Balaam had said: and he laid on every altar, a calf and a ram. ",
+      "finnish_biblia": "Balak teki niinkuin Bileam sanoi, ja uhrasi (kullakin) alttarilla mullin ja oinaan.   ",
       "king_james": "And Balak did as Balaam had said, and offered a bullock and a ram on every altar. "
     }
   ]

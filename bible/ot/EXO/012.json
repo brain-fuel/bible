@@ -2,6 +2,8 @@
   "book_id": "EXO",
   "latin_name": "Exodus",
   "hebrew_name": "שְׁמוֹת",
+  "douay_name": "Exodus",
+  "finnish_name": "2. Mooseksen kirja",
   "english_name": "Exodus",
   "chapter": 12,
   "verses": [
@@ -9,306 +11,408 @@
       "verse": 1,
       "latin_vulgate": "Dixit quoque Dominus ad Moysen et Aaron in terra Ægypti : ",
       "hebrew_masoretic": "וַיֹּ֤אמֶר יְהֹוָה֙ אֶל־מֹשֶׁ֣ה וְאֶֽל־אַהֲרֹ֔ן בְּאֶ֥רֶץ מִצְרַ֖יִם לֵאמֹֽר׃",
+      "douay_rheims": "And the Lord said to Moses and Aaron in the land of Egypt:",
+      "finnish_biblia": "Herra oli puhunut Mosekselle ja Aaronille Egyptin maalla, sanoen: ",
       "king_james": "And the Lord spake unto Moses and Aaron in the land of Egypt, saying,"
     },
     {
       "verse": 2,
       "latin_vulgate": "Mensis iste, vobis principium mensium : primus erit in mensibus anni. ",
       "hebrew_masoretic": "הַחֹ֧דֶשׁ הַזֶּ֛ה לָכֶ֖ם רֹ֣אשׁ חֳדָשִׁ֑ים רִאשׁ֥וֹן הוּא֙ לָכֶ֔ם לְחׇדְשֵׁ֖י הַשָּׁנָֽה׃",
+      "douay_rheims": "This month shall be to you the beginning of months; it shall be the first in the months of the year.",
+      "finnish_biblia": "Tämä kuukausi pitää oleman teidän tykönänne ensimäinen kuu; hänestä pitää teidän alkaman ajastajan kuukaudet. ",
       "king_james": "This month shall be unto you the beginning of months: it shall be the first month of the year to you."
     },
     {
       "verse": 3,
       "latin_vulgate": "Loquimini ad universum cœtum filiorum Israël, et dicite eis : Decima die mensis hujus tollat unusquisque agnum per familias et domos suas. ",
       "hebrew_masoretic": "דַּבְּר֗וּ אֶֽל־כׇּל־עֲדַ֤ת יִשְׂרָאֵל֙ לֵאמֹ֔ר בֶּעָשֹׂ֖ר לַחֹ֣דֶשׁ הַזֶּ֑ה וְיִקְח֣וּ לָהֶ֗ם אִ֛ישׁ שֶׂ֥ה לְבֵית־אָבֹ֖ת שֶׂ֥ה לַבָּֽיִת׃",
+      "douay_rheims": "Speak ye to the whole assembly of the children of Israel, and say to them: On the tenth day of this month let every man take a lamb by their families and houses.",
+      "finnish_biblia": "Puhukaat koko Israelin seurakunnalle, sanoen: kymmenentenä päivänä tällä kuulla ottakaan itsekukin itsellensä karitsan, se joka perheen isäntä on, karitsan joka huoneelle; ",
       "king_james": "Speak ye unto all the congregation of Israel, saying, In the tenth day of this month they shall take to them every man a lamb, according to the house of their fathers, a lamb for an house:"
     },
     {
       "verse": 4,
       "latin_vulgate": "Sin autem minor est numerus ut sufficere possit ad vescendum agnum, assumet vicinum suum qui junctus est domui suæ, juxta numerum animarum quæ sufficere possunt ad esum agni. ",
       "hebrew_masoretic": "וְאִם־יִמְעַ֣ט הַבַּ֘יִת֮ מִהְי֣וֹת מִשֶּׂה֒ וְלָקַ֣ח ה֗וּא וּשְׁכֵנ֛וֹ הַקָּרֹ֥ב אֶל־בֵּית֖וֹ בְּמִכְסַ֣ת נְפָשֹׁ֑ת אִ֚ישׁ לְפִ֣י אׇכְל֔וֹ תָּכֹ֖סּוּ עַל־הַשֶּֽׂה׃",
+      "douay_rheims": "But if the number be less than may suffice to eat the lamb, he shall take unto him his neighbour that joineth to his house, according to the number of souls which may be enough to eat the lamb.",
+      "finnish_biblia": "Vaan jos yksi huone vähä on karitsaa syömään, niin ottakaan kylänsä miehen kanssansa, joka likin hänen huonettansa on, että niin monta tulis, kuin voisivat karitsan syödä. ",
       "king_james": "And if the household be too little for the lamb, let him and his neighbour next unto his house take it according to the number of the souls; every man according to his eating shall make your count for the lamb."
     },
     {
       "verse": 5,
       "latin_vulgate": "Erit autem agnus absque macula, masculus, anniculus : juxta quem ritum tolletis et hædum. ",
       "hebrew_masoretic": "שֶׂ֥ה תָמִ֛ים זָכָ֥ר בֶּן־שָׁנָ֖ה יִהְיֶ֣ה לָכֶ֑ם מִן־הַכְּבָשִׂ֥ים וּמִן־הָעִזִּ֖ים תִּקָּֽחוּ׃",
+      "douay_rheims": "And it shall be a lamb without blemish, a male, of one year; according to which rite also you shall take a kid.",
+      "finnish_biblia": "Ja sen karitsan pitää teille oleman virheettömän ajastaikaisen oinaan. Karitsoista eli vohlista pitää teidän sen ottaman. ",
       "king_james": "Your lamb shall be without blemish, a male of the first year: ye shall take it out from the sheep, or from the goats:"
     },
     {
       "verse": 6,
       "latin_vulgate": "Et servabitis eum usque ad quartamdecimam diem mensis hujus : immolabitque eum universa multitudo filiorum Israël ad vesperam. ",
       "hebrew_masoretic": "וְהָיָ֤ה לָכֶם֙ לְמִשְׁמֶ֔רֶת עַ֣ד אַרְבָּעָ֥ה עָשָׂ֛ר י֖וֹם לַחֹ֣דֶשׁ הַזֶּ֑ה וְשָׁחֲט֣וּ אֹת֗וֹ כֹּ֛ל קְהַ֥ל עֲדַֽת־יִשְׂרָאֵ֖ל בֵּ֥ין הָעַרְבָּֽיִם׃",
+      "douay_rheims": "And you shall keep it until the fourteenth day of this month; and the whole multitude of the children of Israel shall sacrifice it in the evening.",
+      "finnish_biblia": "Ja sen teidän pitää tallella pitämän neljänteentoistakymmenenteen päivään asti tätä kuuta, ja koko Israelin kansan kokous pitää sen teurastaman kahden ehtoon välillä. ",
       "king_james": "And ye shall keep it up until the fourteenth day of the same month: and the whole assembly of the congregation of Israel shall kill it in the evening."
     },
     {
       "verse": 7,
       "latin_vulgate": "Et sument de sanguine ejus, ac ponent super utrumque postem, et in superliminaribus domorum, in quibus comedent illum. ",
       "hebrew_masoretic": "וְלָֽקְחוּ֙ מִן־הַדָּ֔ם וְנָ֥תְנ֛וּ עַל־שְׁתֵּ֥י הַמְּזוּזֹ֖ת וְעַל־הַמַּשְׁק֑וֹף עַ֚ל הַבָּ֣תִּ֔ים אֲשֶׁר־יֹאכְל֥וּ אֹת֖וֹ בָּהֶֽם׃",
+      "douay_rheims": "And they shall take of the blood thereof, and put it upon both the side posts, and on the upper door posts of the houses, wherein they shall eat it.",
+      "finnish_biblia": "Ja heidän pitää ottaman verestä, ja sivuman molemmat pihtipielet ja huonetten ovenpäällisen, joissa he sitä syövät. ",
       "king_james": "And they shall take of the blood, and strike it on the two side posts and on the upper door post of the houses, wherein they shall eat it."
     },
     {
       "verse": 8,
       "latin_vulgate": "Et edent carnes nocte illa assas igni, et azymos panes cum lactucis agrestibus. ",
       "hebrew_masoretic": "וְאָכְל֥וּ אֶת־הַבָּשָׂ֖ר בַּלַּ֣יְלָה הַזֶּ֑ה צְלִי־אֵ֣שׁ וּמַצּ֔וֹת עַל־מְרֹרִ֖ים יֹאכְלֻֽהוּ׃",
+      "douay_rheims": "And they shall eat the flesh that night roasted at the fire, and unleavened bread with wild lettuce.",
+      "finnish_biblia": "Ja heidän pitää sinä yönä syömän lihaa tulella paistettua ja happamatointa leipää; katkerain ruohoin kanssa pitää heidän sen syömän. ",
       "king_james": "And they shall eat the flesh in that night, roast with fire, and unleavened bread; and with bitter herbs they shall eat it."
     },
     {
       "verse": 9,
       "latin_vulgate": "Non comedetis ex eo crudum quid, nec coctum aqua, sed tantum assum igni : caput cum pedibus ejus et intestinis vorabitis. ",
       "hebrew_masoretic": "אַל־תֹּאכְל֤וּ מִמֶּ֙נּוּ֙ נָ֔א וּבָשֵׁ֥ל מְבֻשָּׁ֖ל בַּמָּ֑יִם כִּ֣י אִם־צְלִי־אֵ֔שׁ רֹאשׁ֥וֹ עַל־כְּרָעָ֖יו וְעַל־קִרְבּֽוֹ׃",
+      "douay_rheims": "You shall not eat thereof any thing raw, nor boiled in water, but only roasted at the fire; you shall eat the head with the feet and entrails thereof.",
+      "finnish_biblia": "Ei teidän pidä sitä syömän uutena eikä vedellä keitettynä, mutta tulella paistettuna, pään, jalkain ja sisällysten kanssa. ",
       "king_james": "Eat not of it raw, nor sodden at all with water, but roast with fire; his head with his legs, and with the purtenance thereof."
     },
     {
       "verse": 10,
       "latin_vulgate": "Nec remanebit quidquam ex eo usque mane ; si quid residuum fuerit, igne comburetis. ",
       "hebrew_masoretic": "וְלֹא־תוֹתִ֥ירוּ מִמֶּ֖נּוּ עַד־בֹּ֑קֶר וְהַנֹּתָ֥ר מִמֶּ֛נּוּ עַד־בֹּ֖קֶר בָּאֵ֥שׁ תִּשְׂרֹֽפוּ׃",
+      "douay_rheims": "Neither shall there remain any thing of it until morning. If there be any thing left, you shall burn it with fire.",
+      "finnish_biblia": "Eikä teidän pidä jättämän mitään huomeneksi; ja jos jotakin jää huomeneksi, se tulella poltettakaan. ",
       "king_james": "And ye shall let nothing of it remain until the morning; and that which remaineth of it until the morning ye shall burn with fire."
     },
     {
       "verse": 11,
       "latin_vulgate": "Sic autem comedetis illum : renes vestros accingetis, et calceamenta habebitis in pedibus, tenentes baculos in manibus, et comedetis festinanter : est enim Phase (id est, transitus) Domini.  ",
       "hebrew_masoretic": "וְכָ֘כָה֮ תֹּאכְל֣וּ אֹתוֹ֒ מׇתְנֵיכֶ֣ם חֲגֻרִ֔ים נַֽעֲלֵיכֶם֙ בְּרַגְלֵיכֶ֔ם וּמַקֶּלְכֶ֖ם בְּיֶדְכֶ֑ם וַאֲכַלְתֶּ֤ם אֹתוֹ֙ בְּחִפָּז֔וֹן פֶּ֥סַח ה֖וּא לַיהֹוָֽה׃",
+      "douay_rheims": "And thus you shall eat it: you shall gird your reins, and you shall have shoes on your feet, holding staves in your hands, and you shall eat in haste; for it is the Phase (that is the Passage) of the Lord.",
+      "finnish_biblia": "Mutta näin pitää teidän syömän sitä: teidän pitää oleman vyötetyt kupeista, ja kengät jalassanne, ja sauva kädessänne, ja pitää sen syömän niinkuin matkaan kiiruhtavaiset: se on Herran pääsiäinen. ",
       "king_james": "And thus shall ye eat it; with your loins girded, your shoes on your feet, and your staff in your hand; and ye shall eat it in haste: it is the Lord’s passover."
     },
     {
       "verse": 12,
       "latin_vulgate": " Et transibo per terram Ægypti nocte illa, percutiamque omne primogenitum in terra Ægypti ab homine usque ad pecus : et in cunctis diis Ægypti faciam judicia. Ego Dominus. ",
       "hebrew_masoretic": "וְעָבַרְתִּ֣י בְאֶֽרֶץ־מִצְרַ֘יִם֮ בַּלַּ֣יְלָה הַזֶּה֒ וְהִכֵּיתִ֤י כׇל־בְּכוֹר֙ בְּאֶ֣רֶץ מִצְרַ֔יִם מֵאָדָ֖ם וְעַד־בְּהֵמָ֑ה וּבְכׇל־אֱלֹהֵ֥י מִצְרַ֛יִם אֶֽעֱשֶׂ֥ה שְׁפָטִ֖ים אֲנִ֥י יְהֹוָֽה׃",
+      "douay_rheims": "And I will pass through the land of Egypt that night, and will kill every firstborn in the land of Egypt, both man and beast: and against all the gods of Egypt I will execute judgments; I am the Lord.",
+      "finnish_biblia": "Sillä minä käyn sinä yönä Egyptin maan lävitse, ja lyön kaikki esikoiset Egyptin maalla, ihmisistä karjaan asti, ja annan tulla minun rangaistukseni kaikkein Egyptiläisten epäjumalain päälle: Minä Herra. ",
       "king_james": "For I will pass through the land of Egypt this night, and will smite all the firstborn in the land of Egypt, both man and beast; and against all the gods of Egypt I will execute judgment: I am the Lord."
     },
     {
       "verse": 13,
       "latin_vulgate": "Erit autem sanguis vobis in signum in ædibus in quibus eritis : et videbo sanguinem, et transibo vos : nec erit in vobis plaga disperdens quando percussero terram Ægypti. ",
       "hebrew_masoretic": "וְהָיָה֩ הַדָּ֨ם לָכֶ֜ם לְאֹ֗ת עַ֤ל הַבָּתִּים֙ אֲשֶׁ֣ר אַתֶּ֣ם שָׁ֔ם וְרָאִ֙יתִי֙ אֶת־הַדָּ֔ם וּפָסַחְתִּ֖י עֲלֵכֶ֑ם וְלֹֽא־יִֽהְיֶ֨ה בָכֶ֥ם נֶ֙גֶף֙ לְמַשְׁחִ֔ית בְּהַכֹּתִ֖י בְּאֶ֥רֶץ מִצְרָֽיִם׃",
+      "douay_rheims": "And the blood shall be unto you for a sign in the houses where you shall be; and I shall see the blood, and shall pass over you; and the plague shall not be upon you to destroy you, when I shall strike the land of Egypt.",
+      "finnish_biblia": "Ja veren pitää oleman teille merkiksi huoneissanne, kussa te olette, että koska minä veren näen, niin minä menen teidän ohitsenne: ja ei pidä teille tuleman se rangaistus kadottamaan teitä, koska minä lyön Egyptin maata. ",
       "king_james": "And the blood shall be to you for a token upon the houses where ye are: and when I see the blood, I will pass over you, and the plague shall not be upon you to destroy you, when I smite the land of Egypt."
     },
     {
       "verse": 14,
       "latin_vulgate": "Habebitis autem hunc diem in monimentum : et celebrabitis eam solemnem Domino in generationibus vestris cultu sempiterno. ",
       "hebrew_masoretic": "וְהָיָה֩ הַיּ֨וֹם הַזֶּ֤ה לָכֶם֙ לְזִכָּר֔וֹן וְחַגֹּתֶ֥ם אֹת֖וֹ חַ֣ג לַֽיהֹוָ֑ה לְדֹרֹ֣תֵיכֶ֔ם חֻקַּ֥ת עוֹלָ֖ם תְּחׇגֻּֽהוּ׃",
+      "douay_rheims": "And this day shall be for a memorial to you; and you shall keep it a feast to the Lord in your generations, with an everlasting observance.",
+      "finnish_biblia": "Ja tämä päivä pitää oleman teille muistoksi, ja teidän pitää sen pyhittämän juhlaksi Herralle: ijankaikkiseksi säädyksi teidän sukukunnissanne teidän sen pyhittämän pitää. ",
       "king_james": "And this day shall be unto you for a memorial; and ye shall keep it a feast to the Lord throughout your generations; ye shall keep it a feast by an ordinance for ever."
     },
     {
       "verse": 15,
       "latin_vulgate": "Septem diebus azyma comedetis : in die primo non erit fermentum in domibus vestris : quicumque comederit fermentatum, peribit anima illa de Israël, a primo die usque ad diem septimum. ",
       "hebrew_masoretic": "שִׁבְעַ֤ת יָמִים֙ מַצּ֣וֹת תֹּאכֵ֔לוּ אַ֚ךְ בַּיּ֣וֹם הָרִאשׁ֔וֹן תַּשְׁבִּ֥יתוּ שְּׂאֹ֖ר מִבָּתֵּיכֶ֑ם כִּ֣י ׀ כׇּל־אֹכֵ֣ל חָמֵ֗ץ וְנִכְרְתָ֞ה הַנֶּ֤פֶשׁ הַהִוא֙ מִיִּשְׂרָאֵ֔ל מִיּ֥וֹם הָרִאשֹׁ֖ן עַד־י֥וֹם הַשְּׁבִעִֽי׃",
+      "douay_rheims": "Seven days shall you eat unleavened bread: in the first day there shall be no leaven in your houses; whosoever shall eat any thing leavened, from the first day until the seventh day, that soul shall perish out of Israel.",
+      "finnish_biblia": "Seitsemän päivää pitää teidän syömän happamatointa leipää, nimittäin ensimäisenä päivänä pitää teidän paneman pois happaman leivän teidän huoneissanne: sillä jokainen kuin hapointa leipää syö ensimäisestä päivästä niin seitsemänteen päivään asti, hänen sielunsa pitää hukutettaman Israelista. ",
       "king_james": "Seven days shall ye eat unleavened bread; even the first day ye shall put away leaven out of your houses: for whosoever eateth leavened bread from the first day until the seventh day, that soul shall be cut off from Israel."
     },
     {
       "verse": 16,
       "latin_vulgate": "Dies prima erit sancta atque solemnis, et dies septima eadem festivitate venerabilis : nihil operis facietis in eis, exceptis his, quæ ad vescendum pertinent. ",
       "hebrew_masoretic": "וּבַיּ֤וֹם הָרִאשׁוֹן֙ מִקְרָא־קֹ֔דֶשׁ וּבַיּוֹם֙ הַשְּׁבִיעִ֔י מִקְרָא־קֹ֖דֶשׁ יִהְיֶ֣ה לָכֶ֑ם כׇּל־מְלָאכָה֙ לֹא־יֵעָשֶׂ֣ה בָהֶ֔ם אַ֚ךְ אֲשֶׁ֣ר יֵאָכֵ֣ל לְכׇל־נֶ֔פֶשׁ ה֥וּא לְבַדּ֖וֹ יֵעָשֶׂ֥ה לָכֶֽם׃",
+      "douay_rheims": "The first day shall be holy and solemn, and the seventh day shall be kept with the like solemnity: you shall do no work in them, except those things that belong to eating.",
+      "finnish_biblia": "Ensimäisenä päivänä on teillä pyhä kokous, ja myös seitsemäntenä päivänä on teillä pyhä kokous. Ei yhtäkään työtä pidä tehtämän niinä päivinä, mutta vaivoin mitä ruaksi tarvitaan jokaiselle hengelle, se ainoastansa tehkäät. ",
       "king_james": "And in the first day there shall be an holy convocation, and in the seventh day there shall be an holy convocation to you; no manner of work shall be done in them, save that which every man must eat, that only may be done of you."
     },
     {
       "verse": 17,
       "latin_vulgate": "Et observabitis azyma : in eadem enim ipsa die educam exercitum vestrum de terra Ægypti, et custodietis diem istum in generationes vestras ritu perpetuo. ",
       "hebrew_masoretic": "וּשְׁמַרְתֶּם֮ אֶת־הַמַּצּוֹת֒ כִּ֗י בְּעֶ֙צֶם֙ הַיּ֣וֹם הַזֶּ֔ה הוֹצֵ֥אתִי אֶת־צִבְאוֹתֵיכֶ֖ם מֵאֶ֣רֶץ מִצְרָ֑יִם וּשְׁמַרְתֶּ֞ם אֶת־הַיּ֥וֹם הַזֶּ֛ה לְדֹרֹתֵיכֶ֖ם חֻקַּ֥ת עוֹלָֽם׃",
+      "douay_rheims": "And you shall observe the feast of the unleavened bread: for in this same day I will bring forth your army out of the land of Egypt, and you shall keep this day in your generations by a perpetual observance.",
+      "finnish_biblia": "Ja pitäkäät happamatoin leipä; sillä sinä päivänä olen minä teidän joukkonne johdattanut Egyptin maalta: ja teidän pitää pitämän tämän päivän teidän sukukunnissanne ijankaikkiseksi säädyksi. ",
       "king_james": "And ye shall observe the feast of unleavened bread; for in this selfsame day have I brought your armies out of the land of Egypt: therefore shall ye observe this day in your generations by an ordinance for ever."
     },
     {
       "verse": 18,
       "latin_vulgate": "Primo mense, quartadecima die mensis ad vesperam, comedetis azyma usque ad diem vigesimam primam ejusdem mensis ad vesperam. ",
       "hebrew_masoretic": "בָּרִאשֹׁ֡ן בְּאַרְבָּעָה֩ עָשָׂ֨ר י֤וֹם לַחֹ֙דֶשׁ֙ בָּעֶ֔רֶב תֹּאכְל֖וּ מַצֹּ֑ת עַ֠ד י֣וֹם הָאֶחָ֧ד וְעֶשְׂרִ֛ים לַחֹ֖דֶשׁ בָּעָֽרֶב׃",
+      "douay_rheims": "The first month, the fourteenth day of the month, in the evening, you shall eat unleavened bread, until the one and twentieth day of the same month, in the evening.",
+      "finnish_biblia": "Neljäntenätoistakymmenentenä päivänä ensimäisestä kuusta ehtoona pitää teidän syödä happamatointa leipää, hamaan ensimäiseen päivään asti kolmattakymmentä siitä kuusta, ehtoona. ",
       "king_james": "In the first month, on the fourteenth day of the month at even, ye shall eat unleavened bread, until the one and twentieth day of the month at even."
     },
     {
       "verse": 19,
       "latin_vulgate": "Septem diebus fermentum non invenietur in domibus vestris : qui comederit fermentatum, peribit anima ejus de cœtu Israël, tam de advenis quam de indigenis terræ. ",
       "hebrew_masoretic": "שִׁבְעַ֣ת יָמִ֔ים שְׂאֹ֕ר לֹ֥א יִמָּצֵ֖א בְּבָתֵּיכֶ֑ם כִּ֣י ׀ כׇּל־אֹכֵ֣ל מַחְמֶ֗צֶת וְנִכְרְתָ֞ה הַנֶּ֤פֶשׁ הַהִוא֙ מֵעֲדַ֣ת יִשְׂרָאֵ֔ל בַּגֵּ֖ר וּבְאֶזְרַ֥ח הָאָֽרֶץ׃",
+      "douay_rheims": "Seven days there shall not be found any leaven in your houses: he that shall eat leavened bread, his soul shall perish out of the assembly of Israel, whether he be a stranger or born in the land.",
+      "finnish_biblia": "Niin ettei seitsemänä päivänä löydetä hapointa leipää teidän huoneissanne; sillä jokainen joka hapointa leipää syö, hänen sielunsa pitää hukutettaman Israelin joukosta, joko hän muukalainen on eli omainen. ",
       "king_james": "Seven days shall there be no leaven found in your houses: for whosoever eateth that which is leavened, even that soul shall be cut off from the congregation of Israel, whether he be a stranger, or born in the land."
     },
     {
       "verse": 20,
       "latin_vulgate": "Omne fermentatum non comedetis : in cunctis habitaculis vestris edetis azyma. ",
       "hebrew_masoretic": "כׇּל־מַחְמֶ֖צֶת לֹ֣א תֹאכֵ֑לוּ בְּכֹל֙ מוֹשְׁבֹ֣תֵיכֶ֔ם תֹּאכְל֖וּ מַצּֽוֹת׃ {פ}",
+      "douay_rheims": "You shall not eat any thing leavened: in all your habitations you shall eat unleavened bread.",
+      "finnish_biblia": "Sentähden älkäät ensinkään syökö hapointa leipää; vaan happamatointa leipää syökäät kaikissa teidän asuinsioissanne. ",
       "king_james": "Ye shall eat nothing leavened; in all your habitations shall ye eat unleavened bread."
     },
     {
       "verse": 21,
       "latin_vulgate": "Vocavit autem Moyses omnes seniores filiorum Israël, et dixit ad eos : Ite tollentes animal per familias vestras, et immolate Phase. ",
       "hebrew_masoretic": "וַיִּקְרָ֥א מֹשֶׁ֛ה לְכׇל־זִקְנֵ֥י יִשְׂרָאֵ֖ל וַיֹּ֣אמֶר אֲלֵהֶ֑ם מִֽשְׁכ֗וּ וּקְח֨וּ לָכֶ֥ם צֹ֛אן לְמִשְׁפְּחֹתֵיכֶ֖ם וְשַׁחֲט֥וּ הַפָּֽסַח׃",
+      "douay_rheims": "And Moses called all the ancients of the children of Israel, and said to them: Go take a lamb by your families, and sacrifice the Phase.",
+      "finnish_biblia": "Ja Moses kutsui kaikki Israelin vanhimmat, ja sanoi heille: menkäät ja ottakaat teillenne lampaita kukin perhekuntansa jälkeen, ja teurastakaat pääsiäiseksi ",
       "king_james": "Then Moses called for all the elders of Israel, and said unto them, Draw out and take you a lamb according to your families, and kill the passover."
     },
     {
       "verse": 22,
       "latin_vulgate": "Fasciculumque hyssopi tingite in sanguine qui est in limine, et aspergite ex eo superliminare, et utrumque postem : nullus vestrum egrediatur ostium domus suæ usque mane. ",
       "hebrew_masoretic": "וּלְקַחְתֶּ֞ם אֲגֻדַּ֣ת אֵז֗וֹב וּטְבַלְתֶּם֮ בַּדָּ֣ם אֲשֶׁר־בַּסַּף֒ וְהִגַּעְתֶּ֤ם אֶל־הַמַּשְׁקוֹף֙ וְאֶל־שְׁתֵּ֣י הַמְּזוּזֹ֔ת מִן־הַדָּ֖ם אֲשֶׁ֣ר בַּסָּ֑ף וְאַתֶּ֗ם לֹ֥א תֵצְא֛וּ אִ֥ישׁ מִפֶּֽתַח־בֵּית֖וֹ עַד־בֹּֽקֶר׃",
+      "douay_rheims": "And dip a bunch of hyssop in the blood that is at the door, and sprinkle the transom of the door therewith, and both the door cheeks: let none of you go out of the door of his house till morning.",
+      "finnish_biblia": "Ja ottakaat side isoppia, ja kastakaat vereen, joka on maljassa, ja sivukaat sillä oven päällinen, ja molemmat pihtipielet: ja ei yksikään ihminen pidä menemän ulos huoneensa ovesta huomeniseen asti. ",
       "king_james": "And ye shall take a bunch of hyssop, and dip it in the blood that is in the bason, and strike the lintel and the two side posts with the blood that is in the bason; and none of you shall go out at the door of his house until the morning."
     },
     {
       "verse": 23,
       "latin_vulgate": "Transibit enim Dominus percutiens Ægyptios : cumque viderit sanguinem in superliminari, et in utroque poste, transcendet ostium domus, et non sinet percussorem ingredi domos vestras et lædere. ",
       "hebrew_masoretic": "וְעָבַ֣ר יְהֹוָה֮ לִנְגֹּ֣ף אֶת־מִצְרַ֒יִם֒ וְרָאָ֤ה אֶת־הַדָּם֙ עַל־הַמַּשְׁק֔וֹף וְעַ֖ל שְׁתֵּ֣י הַמְּזוּזֹ֑ת וּפָסַ֤ח יְהֹוָה֙ עַל־הַפֶּ֔תַח וְלֹ֤א יִתֵּן֙ הַמַּשְׁחִ֔ית לָבֹ֥א אֶל־בָּתֵּיכֶ֖ם לִנְגֹּֽף׃",
+      "douay_rheims": "For the Lord will pass through striking the Egyptians: and when he shall see the blood on the transom, and on both the posts, he will pass over the door of the house, and not suffer the destroyer to come into your houses and to hurt you.",
+      "finnish_biblia": "Sillä Herra tahtoo käydä ohitse lyömään Egyptiläisiä: ja koska hän saa nähdä veren ovenpäällisessä ja molemmissa pihtipielissä, menee Herra sen oven ohitse, ja ei salli hukuttajan tulla teidän huoneisiinne rankaisemaan. ",
       "king_james": "For the Lord will pass through to smite the Egyptians; and when he seeth the blood upon the lintel, and on the two side posts, the Lord will pass over the door, and will not suffer the destroyer to come in unto your houses to smite you."
     },
     {
       "verse": 24,
       "latin_vulgate": "Custodi verbum istud legitimum tibi et filiis tuis usque in æternum. ",
       "hebrew_masoretic": "וּשְׁמַרְתֶּ֖ם אֶת־הַדָּבָ֣ר הַזֶּ֑ה לְחׇק־לְךָ֥ וּלְבָנֶ֖יךָ עַד־עוֹלָֽם׃",
+      "douay_rheims": "Thou shalt keep this thing as a law for thee and thy children for ever.",
+      "finnish_biblia": "Sentähden pidä tämä sääty sinulle ja sinun lapsilles ijankaikkisesti. ",
       "king_james": "And ye shall observe this thing for an ordinance to thee and to thy sons for ever."
     },
     {
       "verse": 25,
       "latin_vulgate": "Cumque introieritis terram, quam Dominus daturus est vobis ut pollicitus est, observabitis cæremonias istas. ",
       "hebrew_masoretic": "וְהָיָ֞ה כִּֽי־תָבֹ֣אוּ אֶל־הָאָ֗רֶץ אֲשֶׁ֨ר יִתֵּ֧ן יְהֹוָ֛ה לָכֶ֖ם כַּאֲשֶׁ֣ר דִּבֵּ֑ר וּשְׁמַרְתֶּ֖ם אֶת־הָעֲבֹדָ֥ה הַזֹּֽאת׃",
+      "douay_rheims": "And when you have entered into the land which the Lord will give you, as he hath promised, you shall observe these ceremonies.",
+      "finnish_biblia": "Ja koska te tulette siihen maahan, jonka Herra teille antava on, niinkuin hän sanonut on, niin pitäkäät tämä palvelus. ",
       "king_james": "And it shall come to pass, when ye be come to the land which the Lord will give you, according as he hath promised, that ye shall keep this service."
     },
     {
       "verse": 26,
       "latin_vulgate": "Et cum dixerint vobis filii vestri : Quæ est ista religio ? ",
       "hebrew_masoretic": "וְהָיָ֕ה כִּֽי־יֹאמְר֥וּ אֲלֵיכֶ֖ם בְּנֵיכֶ֑ם מָ֛ה הָעֲבֹדָ֥ה הַזֹּ֖את לָכֶֽם׃",
+      "douay_rheims": "And when your children shall say to you: What is the meaning of this service?",
+      "finnish_biblia": "Ja koska teidän lapsenne sanovat teille: mikä palvelus tämä teillä on? ",
       "king_james": "And it shall come to pass, when your children shall say unto you, What mean ye by this service?"
     },
     {
       "verse": 27,
       "latin_vulgate": "Dicetis eis : Victima transitus Domini est, quando transivit super domos filiorum Israël in Ægypto, percutiens Ægyptios, et domos nostras liberans. Incurvatusque populus adoravit. ",
       "hebrew_masoretic": "וַאֲמַרְתֶּ֡ם זֶֽבַח־פֶּ֨סַח ה֜וּא לַֽיהֹוָ֗ה אֲשֶׁ֣ר פָּ֠סַ֠ח עַל־בָּתֵּ֤י בְנֵֽי־יִשְׂרָאֵל֙ בְּמִצְרַ֔יִם בְּנׇגְפּ֥וֹ אֶת־מִצְרַ֖יִם וְאֶת־בָּתֵּ֣ינוּ הִצִּ֑יל וַיִּקֹּ֥ד הָעָ֖ם וַיִּֽשְׁתַּחֲוֽוּ׃",
+      "douay_rheims": "You shall say to them: It is the victim of the passage of the Lord, when he passed over the houses of the children of Israel in Egypt, striking the Egyptians, and saving our houses. And the people bowing themselves, adored.",
+      "finnish_biblia": "Niin teidän pitää sanoman: tämä on Herran pääsiäisuhri, joka ohitse meni Israelin lasten huoneet Egyptissä, koska hän rankaisi Egyptiläisiä, ja meidän huoneemme vapahti: niin kansa maahan kumartain rukoili. ",
       "king_james": "That ye shall say, It is the sacrifice of the Lord’s passover, who passed over the houses of the children of Israel in Egypt, when he smote the Egyptians, and delivered our houses. And the people bowed the head and worshipped."
     },
     {
       "verse": 28,
       "latin_vulgate": "Et egressi filii Israël fecerunt sicut præceperat Dominus Moysi et Aaron.  ",
       "hebrew_masoretic": "וַיֵּלְכ֥וּ וַֽיַּעֲשׂ֖וּ בְּנֵ֣י יִשְׂרָאֵ֑ל כַּאֲשֶׁ֨ר צִוָּ֧ה יְהֹוָ֛ה אֶת־מֹשֶׁ֥ה וְאַהֲרֹ֖ן כֵּ֥ן עָשֽׂוּ׃ {ס}",
+      "douay_rheims": "And the children of Israel going forth, did as the Lord had commanded Moses and Aaron.",
+      "finnish_biblia": "Ja Israelin lapset menivät ja tekivät niinkuin Herra Mosekselle ja Aaronille käskenyt oli. ",
       "king_james": "And the children of Israel went away, and did as the Lord had commanded Moses and Aaron, so did they."
     },
     {
       "verse": 29,
       "latin_vulgate": " Factum est autem in noctis medio, percussit Dominus omne primogenitum in terra Ægypti, a primogenito Pharaonis, qui in solio ejus sedebat, usque ad primogenitum captivæ quæ erat in carcere, et omne primogenitum jumentorum. ",
       "hebrew_masoretic": "וַיְהִ֣י ׀ בַּחֲצִ֣י הַלַּ֗יְלָה וַֽיהֹוָה֮ הִכָּ֣ה כׇל־בְּכוֹר֮ בְּאֶ֣רֶץ מִצְרַ֒יִם֒ מִבְּכֹ֤ר פַּרְעֹה֙ הַיֹּשֵׁ֣ב עַל־כִּסְא֔וֹ עַ֚ד בְּכ֣וֹר הַשְּׁבִ֔י אֲשֶׁ֖ר בְּבֵ֣ית הַבּ֑וֹר וְכֹ֖ל בְּכ֥וֹר בְּהֵמָֽה׃",
+      "douay_rheims": "And it came to pass at midnight, the Lord slew every firstborn in the land of Egypt, from the firstborn of Pharao, who sat on his throne, unto the firstborn of the captive woman that was in the prison, and all the firstborn of cattle.",
+      "finnish_biblia": "Ja tapahtui puoliyön aikana, että Herra löi kaikki esikoiset Egyptin maalla, Pharaon esikoisesta, joka hänen istuimellansa istuman piti, niin vangin esikoiseen asti, joka oli vankihuoneessa, ja kaikki eläinten esikoiset. ",
       "king_james": "And it came to pass, that at midnight the Lord smote all the firstborn in the land of Egypt, from the firstborn of Pharaoh that sat on his throne unto the firstborn of the captive that was in the dungeon; and all the firstborn of cattle."
     },
     {
       "verse": 30,
       "latin_vulgate": "Surrexitque Pharao nocte, et omnes servi ejus, cunctaque Ægyptus : et ortus est clamor magnus in Ægypto : neque enim erat domus in qua non jaceret mortuus.  ",
       "hebrew_masoretic": "וַיָּ֨קׇם פַּרְעֹ֜ה לַ֗יְלָה ה֤וּא וְכׇל־עֲבָדָיו֙ וְכׇל־מִצְרַ֔יִם וַתְּהִ֛י צְעָקָ֥ה גְדֹלָ֖ה בְּמִצְרָ֑יִם כִּֽי־אֵ֣ין בַּ֔יִת אֲשֶׁ֥ר אֵֽין־שָׁ֖ם מֵֽת׃",
+      "douay_rheims": "And Pharao arose in the night, and all his servants, and all Egypt: and there arose a great cry in Egypt; for there was not a house wherein there lay not one dead.",
+      "finnish_biblia": "Sinä yönä nousi Pharao ja kaikki hänen palveliansa, ja kaikki Egyptiläiset, ja suuri parku oli Egyptissä; sillä ei siellä ollut huonetta, jossa ei kuollutta ollut. ",
       "king_james": "And Pharaoh rose up in the night, he, and all his servants, and all the Egyptians; and there was a great cry in Egypt; for there was not a house where there was not one dead."
     },
     {
       "verse": 31,
       "latin_vulgate": " Vocatisque Pharao Moyse et Aaron nocte, ait : Surgite et egredimini a populo meo, vos et filii Israël : ite, immolate Domino sicut dicitis. ",
       "hebrew_masoretic": "וַיִּקְרָא֩ לְמֹשֶׁ֨ה וּֽלְאַהֲרֹ֜ן לַ֗יְלָה וַיֹּ֙אמֶר֙ ק֤וּמוּ צְּאוּ֙ מִתּ֣וֹךְ עַמִּ֔י גַּם־אַתֶּ֖ם גַּם־בְּנֵ֣י יִשְׂרָאֵ֑ל וּלְכ֛וּ עִבְד֥וּ אֶת־יְהֹוָ֖ה כְּדַבֶּרְכֶֽם׃",
+      "douay_rheims": "And Pharao calling Moses and Aaron, in the night, said: Arise and go forth from among my people, you and the children of Israel: go, sacrifice to the Lord as you say.",
+      "finnish_biblia": "Ja hän kutsui Moseksen ja Aaronin yöllä, ja sanoi: nouskaat ja menkäät pois minun kansastani, sekä te että Israelin lapset: ja menkäät matkaanne ja palvelkaat Herraa, niinkuin te sanoneet olette. ",
       "king_james": "And he called for Moses and Aaron by night, and said, Rise up, and get you forth from among my people, both ye and the children of Israel; and go, serve the Lord, as ye have said."
     },
     {
       "verse": 32,
       "latin_vulgate": "Oves vestras et armenta assumite ut petieratis, et abeuntes benedicite mihi. ",
       "hebrew_masoretic": "גַּם־צֹאנְכֶ֨ם גַּם־בְּקַרְכֶ֥ם קְח֛וּ כַּאֲשֶׁ֥ר דִּבַּרְתֶּ֖ם וָלֵ֑כוּ וּבֵֽרַכְתֶּ֖ם גַּם־אֹתִֽי׃",
+      "douay_rheims": "Your sheep and herds take along with you, as you demanded, and departing bless me.",
+      "finnish_biblia": "Ottakaat myös myötänne teidän lampaanne ja teidän karjanne, niinkuin te sanoneet olette, menkäät matkaanne; ja siunatkaat myös minua. ",
       "king_james": "Also take your flocks and your herds, as ye have said, and be gone; and bless me also."
     },
     {
       "verse": 33,
       "latin_vulgate": "Urgebantque Ægyptii populum de terra exire velociter, dicentes : Omnes moriemur. ",
       "hebrew_masoretic": "וַתֶּחֱזַ֤ק מִצְרַ֙יִם֙ עַל־הָעָ֔ם לְמַהֵ֖ר לְשַׁלְּחָ֣ם מִן־הָאָ֑רֶץ כִּ֥י אָמְר֖וּ כֻּלָּ֥נוּ מֵתִֽים׃",
+      "douay_rheims": "And the Egyptians pressed the people to go forth out of the land speedily, saying: We shall all die.",
+      "finnish_biblia": "Ja Egyptiläiset vaativat kansaa, ja hoputtaen ajoivat heitä pois maalta; sillä he sanoivat: me kuolemme jokainen. ",
       "king_james": "And the Egyptians were urgent upon the people, that they might send them out of the land in haste; for they said, We be all dead men."
     },
     {
       "verse": 34,
       "latin_vulgate": "Tulit igitur populus conspersam farinam antequam fermentaretur : et ligans in palliis, posuit super humeros suos. ",
       "hebrew_masoretic": "וַיִּשָּׂ֥א הָעָ֛ם אֶת־בְּצֵק֖וֹ טֶ֣רֶם יֶחְמָ֑ץ מִשְׁאֲרֹתָ֛ם צְרֻרֹ֥ת בְּשִׂמְלֹתָ֖ם עַל־שִׁכְמָֽם׃",
+      "douay_rheims": "The people therefore took dough before it was leavened; and tying it in their cloaks, put it on their shoulders.",
+      "finnish_biblia": "Ja kansa kantoi taikinansa, ennenkuin se happani, nimittäin tähteensä, sidottuna vaatteisiin olallansa. ",
       "king_james": "And the people took their dough before it was leavened, their kneadingtroughs being bound up in their clothes upon their shoulders."
     },
     {
       "verse": 35,
       "latin_vulgate": "Feceruntque filii Israël sicut præceperat Moyses : et petierunt ab Ægyptiis vasa argentea et aurea, vestemque plurimam. ",
       "hebrew_masoretic": "וּבְנֵי־יִשְׂרָאֵ֥ל עָשׂ֖וּ כִּדְבַ֣ר מֹשֶׁ֑ה וַֽיִּשְׁאֲלוּ֙ מִמִּצְרַ֔יִם כְּלֵי־כֶ֛סֶף וּכְלֵ֥י זָהָ֖ב וּשְׂמָלֹֽת׃",
+      "douay_rheims": "And the children of Israel did as Moses had commanded: and they asked of the Egyptians vessels of silver and gold, and very much raiment.",
+      "finnish_biblia": "Ja Israelin lapset olivat tehneet Moseksen sanan jälkeen, ja olivat anoneet Egyptiläisiltä hopia- ja kultaastioita ja vaatteita. ",
       "king_james": "And the children of Israel did according to the word of Moses; and they borrowed of the Egyptians jewels of silver, and jewels of gold, and raiment:"
     },
     {
       "verse": 36,
       "latin_vulgate": "Dominus autem dedit gratiam populo coram Ægyptiis ut commodarent eis : et spoliaverunt Ægyptios.  ",
       "hebrew_masoretic": "וַֽיהֹוָ֞ה נָתַ֨ן אֶת־חֵ֥ן הָעָ֛ם בְּעֵינֵ֥י מִצְרַ֖יִם וַיַּשְׁאִל֑וּם וַֽיְנַצְּל֖וּ אֶת־מִצְרָֽיִם׃ {פ}",
+      "douay_rheims": "And the Lord gave favour to the people in the sight of the Egyptians, so that they lent unto them: and they stripped the Egyptians.",
+      "finnish_biblia": "Ja Herra oli antanut kansalle armon Egyptiläisten edessä, että he lainasivat, ja niin he paljastivat Egyptiläiset. ",
       "king_james": "And the Lord gave the people favour in the sight of the Egyptians, so that they lent unto them such things as they required. And they spoiled the Egyptians."
     },
     {
       "verse": 37,
       "latin_vulgate": " Profectique sunt filii Israël de Ramesse in Socoth, sexcenta fere millia peditum virorum, absque parvulis. ",
       "hebrew_masoretic": "וַיִּסְע֧וּ בְנֵֽי־יִשְׂרָאֵ֛ל מֵרַעְמְסֵ֖ס סֻכֹּ֑תָה כְּשֵׁשׁ־מֵא֨וֹת אֶ֧לֶף רַגְלִ֛י הַגְּבָרִ֖ים לְבַ֥ד מִטָּֽף׃",
+      "douay_rheims": "And the children of Israel set forward from Ramesse to Socoth, being about six hundred thousand men on foot, beside children.",
+      "finnish_biblia": "Niin matkustivat Israelin lapset Rameksesta Sukkotiin, lähes kuusisataa tuhatta jalkamiestä, paitsi lapsia. ",
       "king_james": "And the children of Israel journeyed from Rameses to Succoth, about six hundred thousand on foot that were men, beside children."
     },
     {
       "verse": 38,
       "latin_vulgate": "Sed et vulgus promiscuum innumerabile ascendit cum eis, oves et armenta et animantia diversi generis multa nimis. ",
       "hebrew_masoretic": "וְגַם־עֵ֥רֶב רַ֖ב עָלָ֣ה אִתָּ֑ם וְצֹ֣אן וּבָקָ֔ר מִקְנֶ֖ה כָּבֵ֥ד מְאֹֽד׃",
+      "douay_rheims": "And a mixed multitude, without number, went up also with them, sheep and herds, and beasts of divers kinds, exceeding many.",
+      "finnish_biblia": "Ja paljo kaikkinaista kansaa meni heidän kanssansa, ja lampaita, ja karjaa, ja sangen paljon eläimiä. ",
       "king_james": "And a mixed multitude went up also with them; and flocks, and herds, even very much cattle."
     },
     {
       "verse": 39,
       "latin_vulgate": "Coxeruntque farinam, quam dudum de Ægypto conspersam tulerant : et fecerunt subcinericios panes azymos : neque enim poterant fermentari, cogentibus exire Ægyptiis, et nullam facere sinentibus moram : nec pulmenti quidquam occurrerat præparare. ",
       "hebrew_masoretic": "וַיֹּאפ֨וּ אֶת־הַבָּצֵ֜ק אֲשֶׁ֨ר הוֹצִ֧יאוּ מִמִּצְרַ֛יִם עֻגֹ֥ת מַצּ֖וֹת כִּ֣י לֹ֣א חָמֵ֑ץ כִּֽי־גֹרְשׁ֣וּ מִמִּצְרַ֗יִם וְלֹ֤א יָֽכְלוּ֙ לְהִתְמַהְמֵ֔הַּ וְגַם־צֵדָ֖ה לֹא־עָשׂ֥וּ לָהֶֽם׃",
+      "douay_rheims": "And they baked the meal, which a little before they had brought out of Egypt in dough: and they made hearth cakes unleavened: for it could not be leavened, the Egyptians pressing them to depart, and not suffering them to make any stay; neither did they think of preparing any meat.",
+      "finnish_biblia": "Ja he leipoivat siitä uudesta taikinasta, jonka he olivat tuoneet Egyptistä, happamattomia leipiä; sillä ei se ollut hapannut, sentähden että he ajettiin Egyptistä pois, eikä myös saaneet viipyä, ja ei semminkään saaneet heillensä evästä valmistaa. ",
       "king_james": "And they baked unleavened cakes of the dough which they brought forth out of Egypt, for it was not leavened; because they were thrust out of Egypt, and could not tarry, neither had they prepared for themselves any victual."
     },
     {
       "verse": 40,
       "latin_vulgate": "Habitatio autem filiorum Israël qua manserunt in Ægypto, fuit quadringentorum triginta annorum. ",
       "hebrew_masoretic": "וּמוֹשַׁב֙ בְּנֵ֣י יִשְׂרָאֵ֔ל אֲשֶׁ֥ר יָשְׁב֖וּ בְּמִצְרָ֑יִם שְׁלֹשִׁ֣ים שָׁנָ֔ה וְאַרְבַּ֥ע מֵא֖וֹת שָׁנָֽה׃",
+      "douay_rheims": "And the abode of the children of Israel that they made in Egypt, was four hundred and thirty years.",
+      "finnish_biblia": "Se aika kuin Israelin lapset asuivat Egyptissä, oli neljäsataa ja kolmekymmentä ajastaikaa. ",
       "king_james": "Now the sojourning of the children of Israel, who dwelt in Egypt, was four hundred and thirty years."
     },
     {
       "verse": 41,
       "latin_vulgate": "Quibus expletis, eadem die egressus est omnis exercitus Domini de terra Ægypti. ",
       "hebrew_masoretic": "וַיְהִ֗י מִקֵּץ֙ שְׁלֹשִׁ֣ים שָׁנָ֔ה וְאַרְבַּ֥ע מֵא֖וֹת שָׁנָ֑ה וַיְהִ֗י בְּעֶ֙צֶם֙ הַיּ֣וֹם הַזֶּ֔ה יָ֥צְא֛וּ כׇּל־צִבְא֥וֹת יְהֹוָ֖ה מֵאֶ֥רֶץ מִצְרָֽיִם׃",
+      "douay_rheims": "Which being expired, the same day all the army of the Lord went forth out of the land of Egypt.",
+      "finnish_biblia": "Ja koska ne olivat kuluneet, läksi koko Herran joukko yhtenä päivänä Egyptin maalta. ",
       "king_james": "And it came to pass at the end of the four hundred and thirty years, even the selfsame day it came to pass, that all the hosts of the Lord went out from the land of Egypt."
     },
     {
       "verse": 42,
       "latin_vulgate": "Nox ista est observabilis Domini, quando eduxit eos de terra Ægypti : hanc observare debent omnes filii Israël in generationibus suis.  ",
       "hebrew_masoretic": "לֵ֣יל שִׁמֻּרִ֥ים הוּא֙ לַֽיהֹוָ֔ה לְהוֹצִיאָ֖ם מֵאֶ֣רֶץ מִצְרָ֑יִם הֽוּא־הַלַּ֤יְלָה הַזֶּה֙ לַֽיהֹוָ֔ה שִׁמֻּרִ֛ים לְכׇל־בְּנֵ֥י יִשְׂרָאֵ֖ל לְדֹרֹתָֽם׃ {פ}",
+      "douay_rheims": "This is the observable night of the Lord, when he brought them forth out of the land of Egypt: this night all the children of Israel must observe in their generations.",
+      "finnish_biblia": "Sentähden tämä yö pidetään Herralle, että hän vei heidät ulos Egyptin maalta: tämä on se yö, joka pidettämän pitää Herralle kaikilta Israelin lapsilta heidän sukukunnissansa. ",
       "king_james": "It is a night to be much observed unto the Lord for bringing them out from the land of Egypt: this is that night of the Lord to be observed of all the children of Israel in their generations."
     },
     {
       "verse": 43,
       "latin_vulgate": " Dixitque Dominus ad Moysen et Aaron : Hæc est religio Phase : omnis alienigena non comedet ex eo. ",
       "hebrew_masoretic": "וַיֹּ֤אמֶר יְהֹוָה֙ אֶל־מֹשֶׁ֣ה וְאַהֲרֹ֔ן זֹ֖את חֻקַּ֣ת הַפָּ֑סַח כׇּל־בֶּן־נֵכָ֖ר לֹא־יֹ֥אכַל בּֽוֹ׃",
+      "douay_rheims": "And the Lord said to Moses and Aaron: This is the service of the Phase; no foreigner shall eat of it.",
+      "finnish_biblia": "Ja Herra sanoi Mosekselle ja Aaronille: tämä on sääty pitää pääsiäistä: ei yksikään muukalainen pidä siitä syömän. ",
       "king_james": "And the Lord said unto Moses and Aaron, This is the ordinance of the passover: There shall no stranger eat thereof:"
     },
     {
       "verse": 44,
       "latin_vulgate": "Omnis autem servus emptitius circumcidetur, et sic comedet. ",
       "hebrew_masoretic": "וְכׇל־עֶ֥בֶד אִ֖ישׁ מִקְנַת־כָּ֑סֶף וּמַלְתָּ֣ה אֹת֔וֹ אָ֖ז יֹ֥אכַל בּֽוֹ׃",
+      "douay_rheims": "But every bought servant shall be circumcised, and so shall eat.",
+      "finnish_biblia": "Jokainen ostettu orja pitää ympärileikattaman, ja sitten syökään siitä. ",
       "king_james": "But every man’s servant that is bought for money, when thou hast circumcised him, then shall he eat thereof."
     },
     {
       "verse": 45,
       "latin_vulgate": "Advena et mercenarius non edent ex eo. ",
       "hebrew_masoretic": "תּוֹשָׁ֥ב וְשָׂכִ֖יר לֹא־יֹ֥אכַל בּֽוֹ׃",
+      "douay_rheims": "The stranger and the hireling shall not eat thereof.",
+      "finnish_biblia": "Muukalainen ja päivämiehen ei pidä syömän sitä. ",
       "king_james": "A foreigner and an hired servant shall not eat thereof."
     },
     {
       "verse": 46,
       "latin_vulgate": "In una domo comedetur, nec efferetis de carnibus ejus foras, nec os illius confringetis. ",
       "hebrew_masoretic": "בְּבַ֤יִת אֶחָד֙ יֵאָכֵ֔ל לֹא־תוֹצִ֧יא מִן־הַבַּ֛יִת מִן־הַבָּשָׂ֖ר ח֑וּצָה וְעֶ֖צֶם לֹ֥א תִשְׁבְּרוּ־בֽוֹ׃",
+      "douay_rheims": "In one house shall it be eaten, neither shall you carry forth of the flesh thereof out of the house, neither shall you break a bone thereof.",
+      "finnish_biblia": "Yhdessä huoneessa pitää se syötämän. Ei teidän pidä huoneesta viemän ulos sitä lihaa, eikä teidän pidä luuta rikkoman siitä. ",
       "king_james": "In one house shall it be eaten; thou shalt not carry forth ought of the flesh abroad out of the house; neither shall ye break a bone thereof."
     },
     {
       "verse": 47,
       "latin_vulgate": "Omnis cœtus filiorum Israël faciet illud. ",
       "hebrew_masoretic": "כׇּל־עֲדַ֥ת יִשְׂרָאֵ֖ל יַעֲשׂ֥וּ אֹתֽוֹ׃",
+      "douay_rheims": "All the assembly of the children of Israel shall keep it.",
+      "finnish_biblia": "Koko Israelin seurakunta pitää näin tekemän. ",
       "king_james": "All the congregation of Israel shall keep it."
     },
     {
       "verse": 48,
       "latin_vulgate": "Quod si quis peregrinorum in vestram voluerit transire coloniam, et facere Phase Domini, circumcidetur prius omne masculinum ejus, et tunc rite celebrabit : eritque sicut indigena terræ : si quis autem circumcisus non fuerit, non vescetur ex eo. ",
       "hebrew_masoretic": "וְכִֽי־יָג֨וּר אִתְּךָ֜ גֵּ֗ר וְעָ֣שָׂה פֶ֘סַח֮ לַיהֹוָה֒ הִמּ֧וֹל ל֣וֹ כׇל־זָכָ֗ר וְאָז֙ יִקְרַ֣ב לַעֲשֹׂת֔וֹ וְהָיָ֖ה כְּאֶזְרַ֣ח הָאָ֑רֶץ וְכׇל־עָרֵ֖ל לֹֽא־יֹ֥אכַל בּֽוֹ׃",
+      "douay_rheims": "And if any stranger be willing to dwell among you, and to keep the Phase of the Lord, all his males shall first be circumcised, and then shall he celebrate it according to the manner: and he shall be as he that is born in the land: but if any man be uncircumcised, he shall not eat thereof.",
+      "finnish_biblia": "Jos joku muukalainen asuu sinun tykönäs, ja tahtoo pitää Herralle pääsiäistä, niin ympärileikattakaan kaikki miehenpuolet, ja sitten käykään sitä tekemään, ja olkaan niinkuin maan omainen; sillä ei yhdenkään ympärileikkaamattoman pidä sitä syömän. ",
       "king_james": "And when a stranger shall sojourn with thee, and will keep the passover to the Lord, let all his males be circumcised, and then let him come near and keep it; and he shall be as one that is born in the land: for no uncircumcised person shall eat thereof."
     },
     {
       "verse": 49,
       "latin_vulgate": "Eadem lex erit indigenæ et colono qui peregrinatur apud vos. ",
       "hebrew_masoretic": "תּוֹרָ֣ה אַחַ֔ת יִהְיֶ֖ה לָֽאֶזְרָ֑ח וְלַגֵּ֖ר הַגָּ֥ר בְּתוֹכְכֶֽם׃",
+      "douay_rheims": "The same law shall be to him that is born in the land, and to the proselyte that sojourneth with you.",
+      "finnish_biblia": "Yksi sääty pitää oleman omaisella ja muukalaisella, joka asuu teidän seassanne. ",
       "king_james": "One law shall be to him that is homeborn, and unto the stranger that sojourneth among you."
     },
     {
       "verse": 50,
       "latin_vulgate": "Feceruntque omnes filii Israël sicut præceperat Dominus Moysi et Aaron. ",
       "hebrew_masoretic": "וַֽיַּעֲשׂ֖וּ כׇּל־בְּנֵ֣י יִשְׂרָאֵ֑ל כַּאֲשֶׁ֨ר צִוָּ֧ה יְהֹוָ֛ה אֶת־מֹשֶׁ֥ה וְאֶֽת־אַהֲרֹ֖ן כֵּ֥ן עָשֽׂוּ׃ {ס}",
+      "douay_rheims": "And all the children of Israel did as the Lord had commanded Moses and Aaron.",
+      "finnish_biblia": "Ja kaikki Israelin lapset tekivät niinkuin Herra oli Mosekselle ja Aaronille käskenyt. ",
       "king_james": "Thus did all the children of Israel; as the Lord commanded Moses and Aaron, so did they."
     },
     {
       "verse": 51,
       "latin_vulgate": "Et eadem die eduxit Dominus filios Israël de terra Ægypti per turmas suas.   ",
       "hebrew_masoretic": "וַיְהִ֕י בְּעֶ֖צֶם הַיּ֣וֹם הַזֶּ֑ה הוֹצִ֨יא יְהֹוָ֜ה אֶת־בְּנֵ֧י יִשְׂרָאֵ֛ל מֵאֶ֥רֶץ מִצְרַ֖יִם עַל־צִבְאֹתָֽם׃ {פ}",
+      "douay_rheims": "And the same day the Lord brought forth the children of Israel out of the land of Egypt by their companies. ",
+      "finnish_biblia": "Niin Herra yhtenä päivänä johdatti Israelin lapset ulos Egyptin maalta, heidän joukoissansa.   ",
       "king_james": "And it came to pass the selfsame day, that the Lord did bring the children of Israel out of the land of Egypt by their armies. "
     }
   ]

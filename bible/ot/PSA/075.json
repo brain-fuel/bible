@@ -2,6 +2,8 @@
   "book_id": "PSA",
   "latin_name": "Liber Psalmorum",
   "hebrew_name": "תְּהִלִּים",
+  "douay_name": "Psalms",
+  "finnish_name": "Psalmit",
   "english_name": "Psalms",
   "chapter": 75,
   "verses": [
@@ -9,6 +11,8 @@
       "verse": 1,
       "latin_vulgate": "  Confitebimur tibi, Deus, confitebimur,  et invocabimus nomen tuum ;  narrabimus mirabilia tua. ",
       "hebrew_masoretic": "ה֘וֹדִ֤ינוּ לְּךָ֨ ׀ אֱֽלֹהִ֗ים ה֭וֹדִינוּ וְקָר֣וֹב שְׁמֶ֑ךָ סִ֝פְּר֗וּ נִפְלְאוֹתֶֽיךָ׃",
+      "douay_rheims": "We will praise thee, O God: we will praise, and we will call upon thy name. We will relate thy wondrous works:",
+      "finnish_biblia": "Asaphin Psalmi ja veisu, ettei hän hukkunut, edelläveisaajalle. (H75:2) Me kiitämme sinua, ja ilmoitamme ihmeitäs, että sinun nimes on niin läsnä. ",
       "king_james": "Unto thee, O God, do we give thanks, unto thee do we give thanks: for that thy name is near thy wondrous works declare.",
       "refs": {
         "latin_vulgate": {
@@ -16,6 +20,9 @@
         },
         "hebrew_masoretic": {
           "src": "75:2"
+        },
+        "douay_rheims": {
+          "src": "74:2"
         }
       }
     },
@@ -23,6 +30,8 @@
       "verse": 2,
       "latin_vulgate": " Cum accepero tempus,  ego justitias judicabo. ",
       "hebrew_masoretic": "כִּ֭י אֶקַּ֣ח מוֹעֵ֑ד אֲ֝נִ֗י מֵישָׁרִ֥ים אֶשְׁפֹּֽט׃",
+      "douay_rheims": "When I shall take a time, I will judge justices.",
+      "finnish_biblia": "Sillä ajallansa minä oikein tuomitsen. ",
       "king_james": "When I shall receive the congregation I will judge uprightly.",
       "refs": {
         "latin_vulgate": {
@@ -30,6 +39,9 @@
         },
         "hebrew_masoretic": {
           "src": "75:3"
+        },
+        "douay_rheims": {
+          "src": "74:3"
         }
       }
     },
@@ -37,6 +49,8 @@
       "verse": 3,
       "latin_vulgate": " Liquefacta est terra et omnes qui habitant in ea :  ego confirmavi columnas ejus. ",
       "hebrew_masoretic": "נְֽמֹגִ֗ים אֶ֥רֶץ וְכׇל־יֹשְׁבֶ֑יהָ אָנֹכִ֨י תִכַּ֖נְתִּי עַמּוּדֶ֣יהָ סֶּֽלָה׃",
+      "douay_rheims": "The earth is melted, and all that dwell therein: I have established the pillars thereof.",
+      "finnish_biblia": "Maa vapisee ja kaikki, jotka sen päällä asuvat; mutta minä vahvistan lujasti hänen patsaansa, Sela! ",
       "king_james": "The earth and all the inhabitants thereof are dissolved: I bear up the pillars of it. Selah.",
       "refs": {
         "latin_vulgate": {
@@ -44,6 +58,9 @@
         },
         "hebrew_masoretic": {
           "src": "75:4"
+        },
+        "douay_rheims": {
+          "src": "74:4"
         }
       }
     },
@@ -51,6 +68,8 @@
       "verse": 4,
       "latin_vulgate": " Dixi iniquis : Nolite inique agere :  et delinquentibus : Nolite exaltare cornu : ",
       "hebrew_masoretic": "אָמַ֣רְתִּי לַ֭הוֹלְלִים אַל־תָּהֹ֑לּוּ וְ֝לָרְשָׁעִ֗ים אַל־תָּרִ֥ימוּ קָֽרֶן׃",
+      "douay_rheims": "I said to the wicked: Do not act wickedly: and to the sinners: Lift not up the horn.",
+      "finnish_biblia": "Minä sanoin öykkäreille: älkäät niin kerskatko, ja jumalattomille: älkäät vallan päälle haastako. ",
       "king_james": "I said unto the fools, Deal not foolishly: and to the wicked, Lift not up the horn:",
       "refs": {
         "latin_vulgate": {
@@ -58,6 +77,9 @@
         },
         "hebrew_masoretic": {
           "src": "75:5"
+        },
+        "douay_rheims": {
+          "src": "74:5"
         }
       }
     },
@@ -65,6 +87,8 @@
       "verse": 5,
       "latin_vulgate": " nolite extollere in altum cornu vestrum ;  nolite loqui adversus Deum iniquitatem. ",
       "hebrew_masoretic": "אַל־תָּרִ֣ימוּ לַמָּר֣וֹם קַרְנְכֶ֑ם תְּדַבְּר֖וּ בְצַוָּ֣אר עָתָֽק׃",
+      "douay_rheims": "Lift not up your horn on high: speak not iniquity against God.",
+      "finnish_biblia": "Älkäät niin pahoin haastako teidän valtanne päälle: älkäät puhuko niin niskuristi, ",
       "king_james": "Lift not up your horn on high: speak not with a stiff neck.",
       "refs": {
         "latin_vulgate": {
@@ -72,6 +96,9 @@
         },
         "hebrew_masoretic": {
           "src": "75:6"
+        },
+        "douay_rheims": {
+          "src": "74:6"
         }
       }
     },
@@ -79,6 +106,8 @@
       "verse": 6,
       "latin_vulgate": " Quia neque ab oriente, neque ab occidente,  neque a desertis montibus : ",
       "hebrew_masoretic": "כִּ֤י לֹ֣א מִ֭מּוֹצָא וּמִֽמַּעֲרָ֑ב וְ֝לֹ֗א מִמִּדְבַּ֥ר הָרִֽים׃",
+      "douay_rheims": "For neither from the east, nor from the west, nor from the desert hills:",
+      "finnish_biblia": "Niinkuin ei mitään hätää olisi, eikä idästä eikä lännestä, taikka vuorilta korvessa. ",
       "king_james": "For promotion cometh neither from the east, nor from the west, nor from the south.",
       "refs": {
         "latin_vulgate": {
@@ -86,6 +115,9 @@
         },
         "hebrew_masoretic": {
           "src": "75:7"
+        },
+        "douay_rheims": {
+          "src": "74:7"
         }
       }
     },
@@ -93,6 +125,8 @@
       "verse": 7,
       "latin_vulgate": " quoniam Deus judex est.  Hunc humiliat, et hunc exaltat : ",
       "hebrew_masoretic": "כִּֽי־אֱלֹהִ֥ים שֹׁפֵ֑ט זֶ֥ה יַ֝שְׁפִּ֗יל וְזֶ֣ה יָרִֽים׃",
+      "douay_rheims": "For God is the judge. One he putteth down, and another he lifteth up:",
+      "finnish_biblia": "Sillä Jumala on tuomari, joka tämän alentaa ja toisen ylentää. ",
       "king_james": "But God is the judge: he putteth down one, and setteth up another.",
       "refs": {
         "latin_vulgate": {
@@ -100,6 +134,9 @@
         },
         "hebrew_masoretic": {
           "src": "75:8"
+        },
+        "douay_rheims": {
+          "src": "74:8"
         }
       }
     },
@@ -107,6 +144,8 @@
       "verse": 8,
       "latin_vulgate": " quia calix in manu Domini vini meri, plenus misto.  Et inclinavit ex hoc in hoc ;  verumtamen fæx ejus non est exinanita :  bibent omnes peccatores terræ. ",
       "hebrew_masoretic": "כִּ֤י כ֪וֹס בְּֽיַד־יְהֹוָ֡ה וְיַ֤יִן חָמַ֨ר ׀ מָ֥לֵא מֶסֶךְ֮ וַיַּגֵּ֢ר מִ֫זֶּ֥ה אַךְ־שְׁ֭מָרֶיהָ יִמְצ֣וּ יִשְׁתּ֑וּ כֹּ֝֗ל רִשְׁעֵי־אָֽרֶץ׃",
+      "douay_rheims": "For in the hand of the Lord there is a cup of strong wine full of mixture. And he hath poured it out from this to that: but the dregs thereof are not emptied: all the sinners of the earth shall drink.",
+      "finnish_biblia": "Sillä Herran kädessä on malja täynnä, väkevällä viinalla täytetty, ja siitä hän panee sisälle; vaan sen rahkan täytyy kaikkein jumalattomain maan päällä juoda, ja ryypätä ulos. ",
       "king_james": "For in the hand of the Lord there is a cup, and the wine is red; it is full of mixture; and he poureth out of the same: but the dregs thereof, all the wicked of the earth shall wring them out, and drink them.",
       "refs": {
         "latin_vulgate": {
@@ -114,6 +153,9 @@
         },
         "hebrew_masoretic": {
           "src": "75:9"
+        },
+        "douay_rheims": {
+          "src": "74:9"
         }
       }
     },
@@ -121,6 +163,8 @@
       "verse": 9,
       "latin_vulgate": " Ego autem annuntiabo in sæculum ;  cantabo Deo Jacob : ",
       "hebrew_masoretic": "וַ֭אֲנִי אַגִּ֣יד לְעֹלָ֑ם אֲ֝זַמְּרָ֗ה לֵאלֹהֵ֥י יַעֲקֹֽב׃",
+      "douay_rheims": "But I will declare for ever: I will sing to the God of Jacob.",
+      "finnish_biblia": "Mutta minä ilmoitan ijankaikkisesti, ja veisaan kiitosta Jakobin Jumalalle. ",
       "king_james": "But I will declare for ever; I will sing praises to the God of Jacob.",
       "refs": {
         "latin_vulgate": {
@@ -128,6 +172,9 @@
         },
         "hebrew_masoretic": {
           "src": "75:10"
+        },
+        "douay_rheims": {
+          "src": "74:10"
         }
       }
     },
@@ -135,6 +182,8 @@
       "verse": 10,
       "latin_vulgate": " et omnia cornua peccatorum confringam,  et exaltabuntur cornua justi.  ",
       "hebrew_masoretic": "וְכׇל־קַרְנֵ֣י רְשָׁעִ֣ים אֲגַדֵּ֑עַ תְּ֝רוֹמַ֗מְנָה קַֽרְנ֥וֹת צַדִּֽיק׃ {פ}",
+      "douay_rheims": "And I will break all the horns of sinners: but the horns of the just shall be exalted. ",
+      "finnish_biblia": "Ja minä tahdon särkeä kaiken jumalattomain vallan, että vanhurskasten valta korotettaisiin.   ",
       "king_james": "All the horns of the wicked also will I cut off; but the horns of the righteous shall be exalted. ",
       "refs": {
         "latin_vulgate": {
@@ -142,6 +191,9 @@
         },
         "hebrew_masoretic": {
           "src": "75:11"
+        },
+        "douay_rheims": {
+          "src": "74:11"
         }
       }
     }

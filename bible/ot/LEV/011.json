@@ -2,6 +2,8 @@
   "book_id": "LEV",
   "latin_name": "Leviticus",
   "hebrew_name": "וַיִּקְרָא",
+  "douay_name": "Leviticus",
+  "finnish_name": "3. Mooseksen kirja",
   "english_name": "Leviticus",
   "chapter": 11,
   "verses": [
@@ -9,282 +11,376 @@
       "verse": 1,
       "latin_vulgate": "Locutusque est Dominus ad Moysen et Aaron, dicens : ",
       "hebrew_masoretic": "וַיְדַבֵּ֧ר יְהֹוָ֛ה אֶל־מֹשֶׁ֥ה וְאֶֽל־אַהֲרֹ֖ן לֵאמֹ֥ר אֲלֵהֶֽם׃",
+      "douay_rheims": "And the Lord spoke to Moses and Aaron, saying:",
+      "finnish_biblia": "Ja Herra puhui Mosekselle ja Aaronille, sanoen heille: ",
       "king_james": "And the Lord spake unto Moses and to Aaron, saying unto them,"
     },
     {
       "verse": 2,
       "latin_vulgate": "Dicite filiis Israël : Hæc sunt animalia quæ comedere debetis de cunctis animantibus terræ : ",
       "hebrew_masoretic": "דַּבְּר֛וּ אֶל־בְּנֵ֥י יִשְׂרָאֵ֖ל לֵאמֹ֑ר זֹ֤את הַֽחַיָּה֙ אֲשֶׁ֣ר תֹּאכְל֔וּ מִכׇּל־הַבְּהֵמָ֖ה אֲשֶׁ֥ר עַל־הָאָֽרֶץ׃",
+      "douay_rheims": "Say to the children of Israel: These are the animals which you are to eat of all the living things of the earth.",
+      "finnish_biblia": "Puhukaat Israelin lapsille, sanoen: nämät ovat eläimet, joita te saatte syödä, kaikkein eläinten seassa maan päällä. ",
       "king_james": "Speak unto the children of Israel, saying, These are the beasts which ye shall eat among all the beasts that are on the earth."
     },
     {
       "verse": 3,
       "latin_vulgate": "omne quod habet divisam ungulam, et ruminat in pecoribus, comedetis. ",
       "hebrew_masoretic": "כֹּ֣ל ׀ מַפְרֶ֣סֶת פַּרְסָ֗ה וְשֹׁסַ֤עַת שֶׁ֙סַע֙ פְּרָסֹ֔ת מַעֲלַ֥ת גֵּרָ֖ה בַּבְּהֵמָ֑ה אֹתָ֖הּ תֹּאכֵֽלוּ׃",
+      "douay_rheims": "Whatsoever hath the hoof divided, and cheweth the cud among the beasts, you shall eat.",
+      "finnish_biblia": "Kaikista kaksisorkkaisista eläimistä, jotka sorkkansa kokonansa hajoittavat ja märhettivät, saatte te syödä. ",
       "king_james": "Whatsoever parteth the hoof, and is clovenfooted, and cheweth the cud, among the beasts, that shall ye eat."
     },
     {
       "verse": 4,
       "latin_vulgate": "Quidquid autem ruminat quidem, et habet ungulam, sed non dividit eam, sicut camelus et cetera, non comedetis illud, et inter immunda reputabitis. ",
       "hebrew_masoretic": "אַ֤ךְ אֶת־זֶה֙ לֹ֣א תֹֽאכְל֔וּ מִֽמַּעֲלֵי֙ הַגֵּרָ֔ה וּמִמַּפְרִסֵ֖י הַפַּרְסָ֑ה אֶֽת־הַ֠גָּמָ֠ל כִּֽי־מַעֲלֵ֨ה גֵרָ֜ה ה֗וּא וּפַרְסָה֙ אֵינֶ֣נּוּ מַפְרִ֔יס טָמֵ֥א ה֖וּא לָכֶֽם׃",
+      "douay_rheims": "But whatsoever cheweth indeed the cud, and hath a hoof, but divideth it not, as the camel, and others: that you shall not eat, but shall reckon it among the unclean.",
+      "finnish_biblia": "Kuitenkin tätä ette mahda syödä niistä, jotka märhettivät ja ovat kaksisorkkaiset, nimittäin: kameli, joka kyllä märhettii, vaan ei hajota sorkkiansa, se on teille saastainen; ",
       "king_james": "Nevertheless these shall ye not eat of them that chew the cud, or of them that divide the hoof: as the camel, because he cheweth the cud, but divideth not the hoof; he is unclean unto you."
     },
     {
       "verse": 5,
       "latin_vulgate": "Chœrogryllus qui ruminat, ungulamque non dividit, immundus est. ",
       "hebrew_masoretic": "וְאֶת־הַשָּׁפָ֗ן כִּֽי־מַעֲלֵ֤ה גֵרָה֙ ה֔וּא וּפַרְסָ֖ה לֹ֣א יַפְרִ֑יס טָמֵ֥א ה֖וּא לָכֶֽם׃",
+      "douay_rheims": "The cherogrillus which cheweth the cud, but divideth not the hoof, is unclean.",
+      "finnish_biblia": "Kaninit märhettivät, mutta ei ole kaksisorkkaiset, sentähden ne ovat teille saastaiset; ",
       "king_james": "And the coney, because he cheweth the cud, but divideth not the hoof; he is unclean unto you."
     },
     {
       "verse": 6,
       "latin_vulgate": "Lepus quoque : nam et ipse ruminat, sed ungulam non dividit. ",
       "hebrew_masoretic": "וְאֶת־הָאַרְנֶ֗בֶת כִּֽי־מַעֲלַ֤ת גֵּרָה֙ הִ֔וא וּפַרְסָ֖ה לֹ֣א הִפְרִ֑יסָה טְמֵאָ֥ה הִ֖וא לָכֶֽם׃",
+      "douay_rheims": "The hare also: for that too cheweth the cud, but divideth not the hoof.",
+      "finnish_biblia": "Ja jänis myös märhettii, vaan ei ole kaksisorkkainen, sentähden se on teille saastainen; ",
       "king_james": "And the hare, because he cheweth the cud, but divideth not the hoof; he is unclean unto you."
     },
     {
       "verse": 7,
       "latin_vulgate": "Et sus : qui cum ungulam dividat, non ruminat. ",
       "hebrew_masoretic": "וְאֶת־הַ֠חֲזִ֠יר כִּֽי־מַפְרִ֨יס פַּרְסָ֜ה ה֗וּא וְשֹׁסַ֥ע שֶׁ֙סַע֙ פַּרְסָ֔ה וְה֖וּא גֵּרָ֣ה לֹֽא־יִגָּ֑ר טָמֵ֥א ה֖וּא לָכֶֽם׃",
+      "douay_rheims": "And the swine, which, though it divideth the hoof, cheweth not the cud.",
+      "finnish_biblia": "Ja sika on kaksisorkkainen, joka kokonansa hajottaa sorkkansa, mutta ei märheti, sentähden se on teille saastainen. ",
       "king_james": "And the swine, though he divide the hoof, and be clovenfooted, yet he cheweth not the cud; he is unclean to you."
     },
     {
       "verse": 8,
       "latin_vulgate": "Horum carnibus non vescemini, nec cadavera contingetis, quia immunda sunt vobis.  ",
       "hebrew_masoretic": "מִבְּשָׂרָם֙ לֹ֣א תֹאכֵ֔לוּ וּבְנִבְלָתָ֖ם לֹ֣א תִגָּ֑עוּ טְמֵאִ֥ים הֵ֖ם לָכֶֽם׃",
+      "douay_rheims": "The flesh of these you shall not eat, nor shall you touch their carcasses, because they are unclean to you.",
+      "finnish_biblia": "Näiden lihaa ei teidän pidä syömän, eikä heidän raatoihinsa tarttuman; sillä ne ovat teille saastaiset. ",
       "king_james": "Of their flesh shall ye not eat, and their carcase shall ye not touch; they are unclean to you."
     },
     {
       "verse": 9,
       "latin_vulgate": " Hæc sunt quæ gignuntur in aquis, et vesci licitum est : omne quod habet pinnulas et squamas, tam in mari quam in fluminibus et stagnis, comedetis. ",
       "hebrew_masoretic": "אֶת־זֶה֙ תֹּֽאכְל֔וּ מִכֹּ֖ל אֲשֶׁ֣ר בַּמָּ֑יִם כֹּ֣ל אֲשֶׁר־לוֹ֩ סְנַפִּ֨יר וְקַשְׂקֶ֜שֶׂת בַּמַּ֗יִם בַּיַּמִּ֛ים וּבַנְּחָלִ֖ים אֹתָ֥ם תֹּאכֵֽלוּ׃",
+      "douay_rheims": "These are the things that breed in the waters, and which it is lawful to eat. All that hath fins, and scales, as well in the sea, as in the rivers, and the pools, you shall eat.",
+      "finnish_biblia": "Näitä te saatte syödä kaikista niistä jotka vesissä ovat: kaikki, joilla on uimukset ja suomukset vesissä, meressä ja virroissa, niitä teidän pitää syömän. ",
       "king_james": "These shall ye eat of all that are in the waters: whatsoever hath fins and scales in the waters, in the seas, and in the rivers, them shall ye eat."
     },
     {
       "verse": 10,
       "latin_vulgate": "Quidquid autem pinnulas et squamas non habet, eorum quæ in aquis moventur et vivunt, abominabile vobis, ",
       "hebrew_masoretic": "וְכֹל֩ אֲשֶׁ֨ר אֵֽין־ל֜וֹ סְנַפִּ֣יר וְקַשְׂקֶ֗שֶׂת בַּיַּמִּים֙ וּבַנְּחָלִ֔ים מִכֹּל֙ שֶׁ֣רֶץ הַמַּ֔יִם וּמִכֹּ֛ל נֶ֥פֶשׁ הַחַיָּ֖ה אֲשֶׁ֣ר בַּמָּ֑יִם שֶׁ֥קֶץ הֵ֖ם לָכֶֽם׃",
+      "douay_rheims": "But whatsoever hath not fins and scales, of those things that move and live in the waters, shall be an abomination to you,",
+      "finnish_biblia": "Mutta kaikki, joilla ei ole uimuksia ja suomuksia meressä ja virroissa, kaikkein niiden seassa, jotka liikkuvat ja elävät vesissä, ne pitää oleman teille kauhistus. ",
       "king_james": "And all that have not fins and scales in the seas, and in the rivers, of all that move in the waters, and of any living thing which is in the waters, they shall be an abomination unto you:"
     },
     {
       "verse": 11,
       "latin_vulgate": "execrandumque erit : carnes eorum non comedetis, et morticina vitabitis. ",
       "hebrew_masoretic": "וְשֶׁ֖קֶץ יִהְי֣וּ לָכֶ֑ם מִבְּשָׂרָם֙ לֹ֣א תֹאכֵ֔לוּ וְאֶת־נִבְלָתָ֖ם תְּשַׁקֵּֽצוּ׃",
+      "douay_rheims": "And detestable. Their flesh you shall not eat: and their carcasses you shall avoid.",
+      "finnish_biblia": "Ne ovat teitä kauhistavat: niiden lihaa ei teidän pidä syömän, kauhistukaat heidän raatoansa. ",
       "king_james": "They shall be even an abomination unto you; ye shall not eat of their flesh, but ye shall have their carcases in abomination."
     },
     {
       "verse": 12,
       "latin_vulgate": "Cuncta quæ non habent pinnulas et squamas in aquis, polluta erunt.  ",
       "hebrew_masoretic": "כֹּ֣ל אֲשֶׁ֥ר אֵֽין־ל֛וֹ סְנַפִּ֥יר וְקַשְׂקֶ֖שֶׂת בַּמָּ֑יִם שֶׁ֥קֶץ ה֖וּא לָכֶֽם׃",
+      "douay_rheims": "All that have not fins and scales, in the waters, shall be unclean.",
+      "finnish_biblia": "Sillä kaikki, joilla ei ole uimuksia ja suomuksia vesissä, ne ovat teille kauhistus. ",
       "king_james": "Whatsoever hath no fins nor scales in the waters, that shall be an abomination unto you."
     },
     {
       "verse": 13,
       "latin_vulgate": " Hæc sunt quæ de avibus comedere non debetis, et vitanda sunt vobis : aquilam, et gryphem, et haliæetum, ",
       "hebrew_masoretic": "וְאֶת־אֵ֙לֶּה֙ תְּשַׁקְּצ֣וּ מִן־הָע֔וֹף לֹ֥א יֵאָכְל֖וּ שֶׁ֣קֶץ הֵ֑ם אֶת־הַנֶּ֙שֶׁר֙ וְאֶת־הַפֶּ֔רֶס וְאֵ֖ת הָעׇזְנִיָּֽה׃",
+      "douay_rheims": "Of birds these are they which you must not eat, and which are to be avoided by you: The eagle, and the griffon, and the osprey.",
+      "finnish_biblia": "Näitä te kauhistukaat linnuista, eikä teidän niitä pidä syömän, sillä ne ovat kauhistus: Kotka, ja luukotka ja kalakotka; ",
       "king_james": "And these are they which ye shall have in abomination among the fowls; they shall not be eaten, they are an abomination: the eagle, and the ossifrage, and the ospray,"
     },
     {
       "verse": 14,
       "latin_vulgate": "et milvum ac vulturem juxta genus suum, ",
       "hebrew_masoretic": "וְאֶ֨ת־הַדָּאָ֔ה וְאֶת־הָאַיָּ֖ה לְמִינָֽהּ׃",
+      "douay_rheims": "And the kite, and the vulture, according to their kind.",
+      "finnish_biblia": "Kokkolintu, ja harakka lainensa, ",
       "king_james": "And the vulture, and the kite after his kind;"
     },
     {
       "verse": 15,
       "latin_vulgate": "et omne corvini generis in similitudinem suam, ",
       "hebrew_masoretic": "אֵ֥ת כׇּל־עֹרֵ֖ב לְמִינֽוֹ׃",
+      "douay_rheims": "And all that is of the raven kind, according to their likeness.",
+      "finnish_biblia": "Ja kaikki kaarneet lainensa; ",
       "king_james": "Every raven after his kind;"
     },
     {
       "verse": 16,
       "latin_vulgate": "struthionem, et noctuam, et larum, et accipitrem juxta genus suum : ",
       "hebrew_masoretic": "וְאֵת֙ בַּ֣ת הַֽיַּעֲנָ֔ה וְאֶת־הַתַּחְמָ֖ס וְאֶת־הַשָּׁ֑חַף וְאֶת־הַנֵּ֖ץ לְמִינֵֽהוּ׃",
+      "douay_rheims": "The ostrich, and the owl, and the larus, and the hawk according to its kind.",
+      "finnish_biblia": "Strutsi, pääskyinen, louve ja haukka lainensa; ",
       "king_james": "And the owl, and the night hawk, and the cuckow, and the hawk after his kind,"
     },
     {
       "verse": 17,
       "latin_vulgate": "bubonem, et mergulum, et ibin, ",
       "hebrew_masoretic": "וְאֶת־הַכּ֥וֹס וְאֶת־הַשָּׁלָ֖ךְ וְאֶת־הַיַּנְשֽׁוּף׃",
+      "douay_rheims": "The screech owl, and the cormorant, and the ibis.",
+      "finnish_biblia": "Huhkaja, merimetsäs ja hyypiä; ",
       "king_james": "And the little owl, and the cormorant, and the great owl,"
     },
     {
       "verse": 18,
       "latin_vulgate": "et cygnum, et onocrotalum, et porphyrionem, ",
       "hebrew_masoretic": "וְאֶת־הַתִּנְשֶׁ֥מֶת וְאֶת־הַקָּאָ֖ת וְאֶת־הָרָחָֽם׃",
+      "douay_rheims": "And the swan, and the bittern, and the porphyrion.",
+      "finnish_biblia": "Yökkö, ruovonpäristäjä ja storkki; ",
       "king_james": "And the swan, and the pelican, and the gier eagle,"
     },
     {
       "verse": 19,
       "latin_vulgate": "herodionem, et charadrion juxta genus suum, upupam quoque, et vespertilionem.  ",
       "hebrew_masoretic": "וְאֵת֙ הַחֲסִידָ֔ה הָאֲנָפָ֖ה לְמִינָ֑הּ וְאֶת־הַדּוּכִיפַ֖ת וְאֶת־הָעֲטַלֵּֽף׃",
+      "douay_rheims": "The heron, and the charadroin according to its kind, the houp also, and the bat.",
+      "finnish_biblia": "Haikara ja mäkihaukka lainensa, puputtaja ja nahkasiipi. ",
       "king_james": "And the stork, the heron after her kind, and the lapwing, and the bat."
     },
     {
       "verse": 20,
       "latin_vulgate": " Omne de volucribus quod graditur super quatuor pedes, abominabile erit vobis. ",
       "hebrew_masoretic": "כֹּ֚ל שֶׁ֣רֶץ הָע֔וֹף הַהֹלֵ֖ךְ עַל־אַרְבַּ֑ע שֶׁ֥קֶץ ה֖וּא לָכֶֽם׃",
+      "douay_rheims": "Of things that fly, whatsoever goeth upon four feet, shall be abominable to you.",
+      "finnish_biblia": "Ja kaikki, jotka liikkuvat lintuin seassa ja käyvät neljällä jalalla, pitää oleman teille kauhistus. ",
       "king_james": "All fowls that creep, going upon all four, shall be an abomination unto you."
     },
     {
       "verse": 21,
       "latin_vulgate": "Quidquid autem ambulat quidem super quatuor pedes, sed habet longiora retro crura, per quæ salit super terram, ",
       "hebrew_masoretic": "אַ֤ךְ אֶת־זֶה֙ תֹּֽאכְל֔וּ מִכֹּל֙ שֶׁ֣רֶץ הָע֔וֹף הַהֹלֵ֖ךְ עַל־אַרְבַּ֑ע אֲשֶׁר־[ל֤וֹ] (לא) כְרָעַ֙יִם֙ מִמַּ֣עַל לְרַגְלָ֔יו לְנַתֵּ֥ר בָּהֵ֖ן עַל־הָאָֽרֶץ׃",
+      "douay_rheims": "But whatsoever walketh upon four feet, but hath the legs behind longer, wherewith it hoppeth upon the earth,",
+      "finnish_biblia": "Kuitenkin näitä saatte te syödä linnuista, jotka liikkuvat ja käyvät neljällä jalalla: joilla ovat sääret jalkain päällä, hypellä maan päällä. ",
       "king_james": "Yet these may ye eat of every flying creeping thing that goeth upon all four, which have legs above their feet, to leap withal upon the earth;"
     },
     {
       "verse": 22,
       "latin_vulgate": "comedere debetis, ut est bruchus in genere suo, et attacus atque ophiomachus, ac locusta, singula juxta genus suum. ",
       "hebrew_masoretic": "אֶת־אֵ֤לֶּה מֵהֶם֙ תֹּאכֵ֔לוּ אֶת־הָֽאַרְבֶּ֣ה לְמִינ֔וֹ וְאֶת־הַסׇּלְעָ֖ם לְמִינֵ֑הוּ וְאֶת־הַחַרְגֹּ֣ל לְמִינֵ֔הוּ וְאֶת־הֶחָגָ֖ב לְמִינֵֽהוּ׃",
+      "douay_rheims": "That you shall eat: as the bruchus in its kind, the attacus, and ophimachus, and the locust, every, one according to their kind.",
+      "finnish_biblia": "Ja näitä te saatte syödä heistä kuin on: arbe lainensa, ja selaam lainensa, ja hargol lainensa, ja hagab lainensa. ",
       "king_james": "Even these of them ye may eat; the locust after his kind, and the bald locust after his kind, and the beetle after his kind, and the grasshopper after his kind."
     },
     {
       "verse": 23,
       "latin_vulgate": "Quidquid autem ex volucribus quatuor tantum habet pedes, execrabile erit vobis : ",
       "hebrew_masoretic": "וְכֹל֙ שֶׁ֣רֶץ הָע֔וֹף אֲשֶׁר־ל֖וֹ אַרְבַּ֣ע רַגְלָ֑יִם שֶׁ֥קֶץ ה֖וּא לָכֶֽם׃",
+      "douay_rheims": "But of flying things whatsoever hath four feet only, shall be an abomination to you.",
+      "finnish_biblia": "Vaan kaikki, jotka paitsi niitä ovat nelijalkaiset lintuin seassa, ne ovat teille kauhistus. ",
       "king_james": "But all other flying creeping things, which have four feet, shall be an abomination unto you."
     },
     {
       "verse": 24,
       "latin_vulgate": "et quicumque morticina eorum tetigerit, polluetur, et erit immundus usque ad vesperum : ",
       "hebrew_masoretic": "וּלְאֵ֖לֶּה תִּטַּמָּ֑אוּ כׇּל־הַנֹּגֵ֥עַ בְּנִבְלָתָ֖ם יִטְמָ֥א עַד־הָעָֽרֶב׃",
+      "douay_rheims": "And whosoever shall touch the carcasses of them, shall be defiled: and shall be unclean until the evening:",
+      "finnish_biblia": "Ja ne pitää teidän saastaisena pitämän; ja jokainen kuin tarttuu heidän raatoihinsa, sen pitää oleman saastaisen ehtoosen asti. ",
       "king_james": "And for these ye shall be unclean: whosoever toucheth the carcase of them shall be unclean until the even."
     },
     {
       "verse": 25,
       "latin_vulgate": "et si necesse fuerit ut portet quippiam horum mortuum, lavabit vestimenta sua, et immundus erit usque ad occasum solis. ",
       "hebrew_masoretic": "וְכׇל־הַנֹּשֵׂ֖א מִנִּבְלָתָ֑ם יְכַבֵּ֥ס בְּגָדָ֖יו וְטָמֵ֥א עַד־הָעָֽרֶב׃",
+      "douay_rheims": "And if it be necessary that he carry any of these things when they are dead: he shall wash his clothes, and shall be unclean until the sun set.",
+      "finnish_biblia": "Ja jos joku heidän raatojansa kantaa, sen pitää pesemän vaatteensa ja oleman saastaisen ehtoosen asti. ",
       "king_james": "And whosoever beareth ought of the carcase of them shall wash his clothes, and be unclean until the even."
     },
     {
       "verse": 26,
       "latin_vulgate": "Omne animal quod habet quidem ungulam, sed non dividit eam, nec ruminat, immundum erit : et qui tetigerit illud, contaminabitur. ",
       "hebrew_masoretic": "לְֽכׇל־הַבְּהֵמָ֡ה אֲשֶׁ֣ר הִוא֩ מַפְרֶ֨סֶת פַּרְסָ֜ה וְשֶׁ֣סַע ׀ אֵינֶ֣נָּה שֹׁסַ֗עַת וְגֵרָה֙ אֵינֶ֣נָּה מַעֲלָ֔ה טְמֵאִ֥ים הֵ֖ם לָכֶ֑ם כׇּל־הַנֹּגֵ֥עַ בָּהֶ֖ם יִטְמָֽא׃",
+      "douay_rheims": "Every beast that hath a hoof, but divideth it not, nor cheweth the cud shall be unclean: and he that toucheth it, shall be defiled.",
+      "finnish_biblia": "Ja jokainen eläin, joka on sorkallinen, vaan ei kaksisorkkainen, eikä märheti, ne ovat teille saastaiset; ja jokainen, kuin niihin tarttuu, pitää oleman saastainen. ",
       "king_james": "The carcases of every beast which divideth the hoof, and is not clovenfooted, nor cheweth the cud, are unclean unto you: every one that toucheth them shall be unclean."
     },
     {
       "verse": 27,
       "latin_vulgate": "Quod ambulat super manus ex cunctis animantibus, quæ incedunt quadrupedia, immundum erit : qui tetigerit morticina eorum, polluetur usque ad vesperum. ",
       "hebrew_masoretic": "וְכֹ֣ל ׀ הוֹלֵ֣ךְ עַל־כַּפָּ֗יו בְּכׇל־הַֽחַיָּה֙ הַהֹלֶ֣כֶת עַל־אַרְבַּ֔ע טְמֵאִ֥ים הֵ֖ם לָכֶ֑ם כׇּל־הַנֹּגֵ֥עַ בְּנִבְלָתָ֖ם יִטְמָ֥א עַד־הָעָֽרֶב׃",
+      "douay_rheims": "That which walketh upon hands of all animals which go on all four, shall be unclean: he that shall touch their carcasses shall be defiled until evening.",
+      "finnish_biblia": "Ja jokainen kuin käy kämmenellänsä kaikkein petoin seassa, jotka käyvät neljällä jalalla, ne ovat teille saastaiset; jokainen, kuin rupee heidän raatoihinsa, sen pitää oleman saastaisen ehtoosen asti. ",
       "king_james": "And whatsoever goeth upon his paws, among all manner of beasts that go on all four, those are unclean unto you: whoso toucheth their carcase shall be unclean until the even."
     },
     {
       "verse": 28,
       "latin_vulgate": "Et qui portaverit hujuscemodi cadavera, lavabit vestimenta sua, et immundus erit usque ad vesperum : quia omnia hæc immunda sunt vobis. ",
       "hebrew_masoretic": "וְהַנֹּשֵׂא֙ אֶת־נִבְלָתָ֔ם יְכַבֵּ֥ס בְּגָדָ֖יו וְטָמֵ֣א עַד־הָעָ֑רֶב טְמֵאִ֥ים הֵ֖מָּה לָכֶֽם׃ {ס}",
+      "douay_rheims": "And he that shall carry such carcasses, shall wash his clothes, and shall be unclean until evening: because all these things are unclean to you.",
+      "finnish_biblia": "Ja joka kantaa heidän raatojansa, se peskään vaatteensa, ja pitää oleman saastaisen ehtoosen asti; sillä kaikki nämät ovat saastaiset teille. ",
       "king_james": "And he that beareth the carcase of them shall wash his clothes, and be unclean until the even: they are unclean unto you."
     },
     {
       "verse": 29,
       "latin_vulgate": "Hæc quoque inter polluta reputabuntur de his quæ moventur in terra, mustela et mus et crocodilus, singula juxta genus suum, ",
       "hebrew_masoretic": "וְזֶ֤ה לָכֶם֙ הַטָּמֵ֔א בַּשֶּׁ֖רֶץ הַשֹּׁרֵ֣ץ עַל־הָאָ֑רֶץ הַחֹ֥לֶד וְהָעַכְבָּ֖ר וְהַצָּ֥ב לְמִינֵֽהוּ׃",
+      "douay_rheims": "These also shall be reckoned among unclean things, of all that move upon the earth. The weasel, and the mouse, and the crocodile, every one according to their kind:",
+      "finnish_biblia": "Ja nämät pitää oleman myös teille saastaiset niiden eläinten seassa, jotka matelevat maalla: myyrä, hiiri, maakrokodili, jokainen lainensa. ",
       "king_james": "These also shall be unclean unto you among the creeping things that creep upon the earth; the weasel, and the mouse, and the tortoise after his kind,"
     },
     {
       "verse": 30,
       "latin_vulgate": "mygale, et chamæleon, et stellio, et lacerta, et talpa.  ",
       "hebrew_masoretic": "וְהָאֲנָקָ֥ה וְהַכֹּ֖חַ וְהַלְּטָאָ֑ה וְהַחֹ֖מֶט וְהַתִּנְשָֽׁמֶת׃",
+      "douay_rheims": "The shrew, and the chameleon, and the stellio, and the lizard, and the mole.",
+      "finnish_biblia": "Stellio, kameleon, sisilisko, sinisisilisko ja salamandra. ",
       "king_james": "And the ferret, and the chameleon, and the lizard, and the snail, and the mole."
     },
     {
       "verse": 31,
       "latin_vulgate": " Omnia hæc immunda sunt. Qui tetigerit morticina eorum, immundus erit usque ad vesperum : ",
       "hebrew_masoretic": "אֵ֛לֶּה הַטְּמֵאִ֥ים לָכֶ֖ם בְּכׇל־הַשָּׁ֑רֶץ כׇּל־הַנֹּגֵ֧עַ בָּהֶ֛ם בְּמֹתָ֖ם יִטְמָ֥א עַד־הָעָֽרֶב׃",
+      "douay_rheims": "All these are unclean. He that toucheth their carcasses shall be unclean until the evening.",
+      "finnish_biblia": "Nämät ovat teille saastaiset kaikkein niiden seassa, kuin matelevat; ja jokainen kuin rupee heihin sittekuin he kuolleet ovat, pitää oleman saastainen ehtoosen asti. ",
       "king_james": "These are unclean to you among all that creep: whosoever doth touch them, when they be dead, shall be unclean until the even."
     },
     {
       "verse": 32,
       "latin_vulgate": "et super quod ceciderit quidquam de morticinis eorum, polluetur, tam vas ligneum et vestimentum, quam pelles et cilicia : et in quocumque fit opus, tingentur aqua, et polluta erunt usque ad vesperum, et sic postea mundabuntur. ",
       "hebrew_masoretic": "וְכֹ֣ל אֲשֶׁר־יִפֹּל־עָלָיו֩ מֵהֶ֨ם ׀ בְּמֹתָ֜ם יִטְמָ֗א מִכׇּל־כְּלִי־עֵץ֙ א֣וֹ בֶ֤גֶד אוֹ־עוֹר֙ א֣וֹ שָׂ֔ק כׇּל־כְּלִ֕י אֲשֶׁר־יֵעָשֶׂ֥ה מְלָאכָ֖ה בָּהֶ֑ם בַּמַּ֧יִם יוּבָ֛א וְטָמֵ֥א עַד־הָעֶ֖רֶב וְטָהֵֽר׃",
+      "douay_rheims": "And upon what thing soever any of their carcasses shall fall, it shall be defiled, whether it be a vessel of wood, or a garment, or skins or haircloths: or any thing in which work is done. They shall be dipped in water, and shall be unclean until the evening, and so afterwards shall be clean.",
+      "finnish_biblia": "Ja kaikki, kuin senkaltainen raato päälle putoo pitää oleman saastainen, olis se kaikkinainen puuastia, eli vaate, eli nahka, eli säkki; ja kaikkinainen ase, jolla jotakin tehdään, pitää pantaman veteen, ja sen pitää oleman saastaisen ehtoosen asti, niin se tulee puhtaaksi. ",
       "king_james": "And upon whatsoever any of them, when they are dead, doth fall, it shall be unclean; whether it be any vessel of wood, or raiment, or skin, or sack, whatsoever vessel it be, wherein any work is done, it must be put into water, and it shall be unclean until the even; so it shall be cleansed."
     },
     {
       "verse": 33,
       "latin_vulgate": "Vas autem fictile, in quod horum quidquam intro cecidit, polluetur, et idcirco frangendum est. ",
       "hebrew_masoretic": "וְכׇ֨ל־כְּלִי־חֶ֔רֶשׂ אֲשֶׁר־יִפֹּ֥ל מֵהֶ֖ם אֶל־תּוֹכ֑וֹ כֹּ֣ל אֲשֶׁ֧ר בְּתוֹכ֛וֹ יִטְמָ֖א וְאֹת֥וֹ תִשְׁבֹּֽרוּ׃",
+      "douay_rheims": "But an earthen vessel, into which any of these shall fall, shall be defiled: and therefore is to be broken.",
+      "finnish_biblia": "Ja kaikkinaiset savi-astiat, joihinka senkaltainen raato putoo, ovat kaikki saastaiset, ja mitä niissä on, ja pitää rikottaman. ",
       "king_james": "And every earthen vessel, whereinto any of them falleth, whatsoever is in it shall be unclean; and ye shall break it."
     },
     {
       "verse": 34,
       "latin_vulgate": "Omnis cibus, quem comedetis, si fusa fuerit super eum aqua, immundus erit : et omne liquens quod bibitur de universo vase, immundum erit. ",
       "hebrew_masoretic": "מִכׇּל־הָאֹ֜כֶל אֲשֶׁ֣ר יֵאָכֵ֗ל אֲשֶׁ֨ר יָב֥וֹא עָלָ֛יו מַ֖יִם יִטְמָ֑א וְכׇל־מַשְׁקֶה֙ אֲשֶׁ֣ר יִשָּׁתֶ֔ה בְּכׇל־כְּלִ֖י יִטְמָֽא׃",
+      "douay_rheims": "Any meat which you eat, if water from such a vessel be poured upon it, shall be unclean; and every liquor that is drunk out of any such vessel, shall be unclean.",
+      "finnish_biblia": "Kaikki ruoka, jota syödään, jos se vesi tulee sen päälle, se on saastainen, ja kaikki juoma, jota juodaan senkaltaisista astioista, on saastainen. ",
       "king_james": "Of all meat which may be eaten, that on which such water cometh shall be unclean: and all drink that may be drunk in every such vessel shall be unclean."
     },
     {
       "verse": 35,
       "latin_vulgate": "Et quidquid de morticinis hujuscemodi ceciderit super illud, immundum erit : sive clibani, sive chytropodes, destruentur, et immundi erunt. ",
       "hebrew_masoretic": "וְ֠כֹ֠ל אֲשֶׁר־יִפֹּ֨ל מִנִּבְלָתָ֥ם ׀ עָלָיו֮ יִטְמָא֒ תַּנּ֧וּר וְכִירַ֛יִם יֻתָּ֖ץ טְמֵאִ֣ים הֵ֑ם וּטְמֵאִ֖ים יִהְי֥וּ לָכֶֽם׃",
+      "douay_rheims": "And upon whatsoever thing any of these dead beasts shall fall, it shall be unclean. Whether it be oven, or pots with feet, they shall be destroyed, and shall be unclean.",
+      "finnish_biblia": "Ja kaikki, kuin senkaltainen raato päälle putoo, se tulee saastaiseksi, olis se pätsi eli kattila, se pitää rikottaman; sillä se on saastainen, ja sen pitää oleman teille saastaisen. ",
       "king_james": "And every thing whereupon any part of their carcase falleth shall be unclean; whether it be oven, or ranges for pots, they shall be broken down: for they are unclean, and shall be unclean unto you."
     },
     {
       "verse": 36,
       "latin_vulgate": "Fontes vero et cisternæ, et omnis aquarum congregatio munda erit. Qui morticinum eorum tetigerit, polluetur. ",
       "hebrew_masoretic": "אַ֣ךְ מַעְיָ֥ן וּב֛וֹר מִקְוֵה־מַ֖יִם יִהְיֶ֣ה טָה֑וֹר וְנֹגֵ֥עַ בְּנִבְלָתָ֖ם יִטְמָֽא׃",
+      "douay_rheims": "But fountains and cisterns, and all gatherings together of waters shall be clean. He that toucheth their carcasses shall be defiled.",
+      "finnish_biblia": "Kuitenkin lähteet, kaivot ja lammikot ovat puhtaat; vaan jokainen, joka tarttuu heidän raatoonsa, sen pitää oleman saastaisen. ",
       "king_james": "Nevertheless a fountain or pit, wherein there is plenty of water, shall be clean: but that which toucheth their carcase shall be unclean."
     },
     {
       "verse": 37,
       "latin_vulgate": "Si ceciderit super sementem, non polluet eam. ",
       "hebrew_masoretic": "וְכִ֤י יִפֹּל֙ מִנִּבְלָתָ֔ם עַל־כׇּל־זֶ֥רַע זֵר֖וּעַ אֲשֶׁ֣ר יִזָּרֵ֑עַ טָה֖וֹר הֽוּא׃",
+      "douay_rheims": "If it fall upon seed corn, it shall not defile it.",
+      "finnish_biblia": "Ja jos senkaltainen raato lankee siemenen päälle, joka kylvetty on, niin on se kuitenkin puhdas. ",
       "king_james": "And if any part of their carcase fall upon any sowing seed which is to be sown, it shall be clean."
     },
     {
       "verse": 38,
       "latin_vulgate": "Si autem quispiam aqua sementem perfuderit, et postea morticinis tacta fuerit, illico polluetur. ",
       "hebrew_masoretic": "וְכִ֤י יֻתַּן־מַ֙יִם֙ עַל־זֶ֔רַע וְנָפַ֥ל מִנִּבְלָתָ֖ם עָלָ֑יו טָמֵ֥א ה֖וּא לָכֶֽם׃ {ס}",
+      "douay_rheims": "But if any man pour water upon the seed, and afterwards it be touched by the carcasses, it shall be forthwith defiled.",
+      "finnish_biblia": "Ja jos vettä kaadetaan siemenen päälle, ja lankee joku senkaltainen raato niiden päälle, niin se tulee teille saastaiseksi. ",
       "king_james": "But if any water be put upon the seed, and any part of their carcase fall thereon, it shall be unclean unto you."
     },
     {
       "verse": 39,
       "latin_vulgate": "Si mortuum fuerit animal, quod licet vobis comedere, qui cadaver ejus tetigerit, immundus erit usque ad vesperum : ",
       "hebrew_masoretic": "וְכִ֤י יָמוּת֙ מִן־הַבְּהֵמָ֔ה אֲשֶׁר־הִ֥יא לָכֶ֖ם לְאׇכְלָ֑ה הַנֹּגֵ֥עַ בְּנִבְלָתָ֖הּ יִטְמָ֥א עַד־הָעָֽרֶב׃",
+      "douay_rheims": "If any beast die, of which it is lawful for you to eat, he that toucheth the carcass thereof, shall be unclean until the evening.",
+      "finnish_biblia": "Ja jos joku eläin kuolee, jota teidän sopii syödä, se joka sen raatoon tarttuu, se on saastainen ehtoosen asti. ",
       "king_james": "And if any beast, of which ye may eat, die; he that toucheth the carcase thereof shall be unclean until the even."
     },
     {
       "verse": 40,
       "latin_vulgate": "et qui comederit ex eo quippiam, sive portaverit, lavabit vestimenta sua, et immundus erit usque ad vesperum. ",
       "hebrew_masoretic": "וְהָֽאֹכֵל֙ מִנִּבְלָתָ֔הּ יְכַבֵּ֥ס בְּגָדָ֖יו וְטָמֵ֣א עַד־הָעָ֑רֶב וְהַנֹּשֵׂא֙ אֶת־נִבְלָתָ֔הּ יְכַבֵּ֥ס בְּגָדָ֖יו וְטָמֵ֥א עַד־הָעָֽרֶב׃",
+      "douay_rheims": "And he that eateth or carrieth any thing thereof, shall wash his clothes, and shall be unclean until the evening.",
+      "finnish_biblia": "Se joka syö senkaltaista raatoa, hänen pitää pesemän vaatteensa ja oleman saastaisen ehtoosen asti, niin myös se, joka kantaa senkaltasia raatoja, pitää pesemän vaatteensa ja oleman saastaisen ehtoosen asti. ",
       "king_james": "And he that eateth of the carcase of it shall wash his clothes, and be unclean until the even: he also that beareth the carcase of it shall wash his clothes, and be unclean until the even."
     },
     {
       "verse": 41,
       "latin_vulgate": "Omne quod reptat super terram, abominabile erit, nec assumetur in cibum. ",
       "hebrew_masoretic": "וְכׇל־הַשֶּׁ֖רֶץ הַשֹּׁרֵ֣ץ עַל־הָאָ֑רֶץ שֶׁ֥קֶץ ה֖וּא לֹ֥א יֵאָכֵֽל׃",
+      "douay_rheims": "All that creepeth upon the earth shall be abominable: neither shall it be taken for meat.",
+      "finnish_biblia": "Kaikki maalla matelevainen pitää oleman teille kauhistava, ja ei pidä sitä syötämän. ",
       "king_james": "And every creeping thing that creepeth upon the earth shall be an abomination; it shall not be eaten."
     },
     {
       "verse": 42,
       "latin_vulgate": "Quidquid super pectus quadrupes graditur, et multos habet pedes, sive per humum trahitur, non comedetis, quia abominabile est. ",
       "hebrew_masoretic": "כֹּל֩ הוֹלֵ֨ךְ עַל־גָּח֜וֹן וְכֹ֣ל ׀ הוֹלֵ֣ךְ עַל־אַרְבַּ֗ע עַ֚ד כׇּל־מַרְבֵּ֣ה רַגְלַ֔יִם לְכׇל־הַשֶּׁ֖רֶץ הַשֹּׁרֵ֣ץ עַל־הָאָ֑רֶץ לֹ֥א תֹאכְל֖וּם כִּי־שֶׁ֥קֶץ הֵֽם׃",
+      "douay_rheims": "Whatsoever goeth upon the breast on four feet, or hath many feet, or traileth on the earth, you shall not eat, because it is abominable.",
+      "finnish_biblia": "Ja jokainen kuin vatsallansa käy, ja jotka käyvät neljällä eli useammalla jalalla, kaikista, jotka matelevat maalla, ei pidä teidän niitä syömän; sillä ne ovat kauhistus. ",
       "king_james": "Whatsoever goeth upon the belly, and whatsoever goeth upon all four, or whatsoever hath more feet among all creeping things that creep upon the earth, them ye shall not eat; for they are an abomination."
     },
     {
       "verse": 43,
       "latin_vulgate": "Nolite contaminare animas vestras, nec tangatis quidquam eorum, ne immundi sitis. ",
       "hebrew_masoretic": "אַל־תְּשַׁקְּצוּ֙ אֶת־נַפְשֹׁ֣תֵיכֶ֔ם בְּכׇל־הַשֶּׁ֖רֶץ הַשֹּׁרֵ֑ץ וְלֹ֤א תִֽטַּמְּאוּ֙ בָּהֶ֔ם וְנִטְמֵתֶ֖ם בָּֽם׃",
+      "douay_rheims": "Do not defile your souls, nor touch aught thereof, lest you be unclean,",
+      "finnish_biblia": "Älkäät sielujanne kauhistavaiseksi tehkö kaikissa matelevaisissa, ja älkäät saastuttako teitänne niissä, niin että te tulette saastaiseksi. ",
       "king_james": "Ye shall not make yourselves abominable with any creeping thing that creepeth, neither shall ye make yourselves unclean with them, that ye should be defiled thereby."
     },
     {
       "verse": 44,
       "latin_vulgate": "Ego enim sum Dominus Deus vester : sancti estote, quia ego sanctus sum. Ne polluatis animas vestras in omni reptili quod movetur super terram. ",
       "hebrew_masoretic": "כִּ֣י אֲנִ֣י יְהֹוָה֮ אֱלֹֽהֵיכֶם֒ וְהִתְקַדִּשְׁתֶּם֙ וִהְיִיתֶ֣ם קְדֹשִׁ֔ים כִּ֥י קָד֖וֹשׁ אָ֑נִי וְלֹ֤א תְטַמְּאוּ֙ אֶת־נַפְשֹׁ֣תֵיכֶ֔ם בְּכׇל־הַשֶּׁ֖רֶץ הָרֹמֵ֥שׂ עַל־הָאָֽרֶץ׃",
+      "douay_rheims": "For I am the Lord your God. Be holy because I am holy. Defile not your souls by any creeping thing, that moveth upon the earth.",
+      "finnish_biblia": "Sillä minä olen Herra teidän Jumalanne, sentähden teidän pitää pyhittämän teitänne, että te tulisitte pyhäksi; sillä minäkin olen pyhä. Ei teidän pidä saastuttaman teidän sielujanne jollakin matelevaisella eläimellä, joka matelee maalla. ",
       "king_james": "For I am the Lord your God: ye shall therefore sanctify yourselves, and ye shall be holy; for I am holy: neither shall ye defile yourselves with any manner of creeping thing that creepeth upon the earth."
     },
     {
       "verse": 45,
       "latin_vulgate": "Ego enim sum Dominus, qui eduxi vos de terra Ægypti, ut essem vobis in Deum. Sancti eritis, quia ego sanctus sum. ",
       "hebrew_masoretic": "כִּ֣י ׀ אֲנִ֣י יְהֹוָ֗ה הַֽמַּעֲלֶ֤ה אֶתְכֶם֙ מֵאֶ֣רֶץ מִצְרַ֔יִם לִהְיֹ֥ת לָכֶ֖ם לֵאלֹהִ֑ים וִהְיִיתֶ֣ם קְדֹשִׁ֔ים כִּ֥י קָד֖וֹשׁ אָֽנִי׃",
+      "douay_rheims": "For I am the Lord, who brought you out of the land of Egypt, that I might be your God.",
+      "finnish_biblia": "Sillä minä olen Herra, joka teidät johdatin Egyptin maalta, että minä olisin teidän Jumalanne, sentähden teidän pitää oleman pyhät; sillä minä olen pyhä. ",
       "king_james": "For I am the Lord that bringeth you up out of the land of Egypt, to be your God: ye shall therefore be holy, for I am holy."
     },
     {
       "verse": 46,
       "latin_vulgate": "Ista est lex animantium ac volucrum, et omnis animæ viventis, quæ movetur in aqua, et reptat in terra, ",
       "hebrew_masoretic": "זֹ֣את תּוֹרַ֤ת הַבְּהֵמָה֙ וְהָע֔וֹף וְכֹל֙ נֶ֣פֶשׁ הַֽחַיָּ֔ה הָרֹמֶ֖שֶׂת בַּמָּ֑יִם וּלְכׇל־נֶ֖פֶשׁ הַשֹּׁרֶ֥צֶת עַל־הָאָֽרֶץ׃",
+      "douay_rheims": "You shall be holy, because I am holy. This is the law of beasts and fowls, and of every living creature that moveth in the waters, and creepeth on the earth:",
+      "finnish_biblia": "Ja tämä on sääty kaikista eläimistä ja linnuista, ja kaikista, jotka vesissä liikkuvat, ja kaikkinaisista eläimistä, jotka maalla matelevat, ",
       "king_james": "This is the law of the beasts, and of the fowl, and of every living creature that moveth in the waters, and of every creature that creepeth upon the earth:"
     },
     {
       "verse": 47,
       "latin_vulgate": "ut differentias noveritis mundi et immundi, et sciatis quid comedere et quid respuere debeatis.   ",
       "hebrew_masoretic": "לְהַבְדִּ֕יל בֵּ֥ין הַטָּמֵ֖א וּבֵ֣ין הַטָּהֹ֑ר וּבֵ֤ין הַֽחַיָּה֙ הַֽנֶּאֱכֶ֔לֶת וּבֵין֙ הַֽחַיָּ֔ה אֲשֶׁ֖ר לֹ֥א תֵאָכֵֽל׃ {פ}",
+      "douay_rheims": "That you may know the differences of the clean, and unclean, and know what you ought to eat, and what to refuse. ",
+      "finnish_biblia": "Että tietäisitte eroittaa puhtaat saastaisista: ja mitä eläimiä syödä saadaan, ja mitä eläimiä ei sovi syödä.   ",
       "king_james": "To make a difference between the unclean and the clean, and between the beast that may be eaten and the beast that may not be eaten. "
     }
   ]

@@ -2,6 +2,8 @@
   "book_id": "PSA",
   "latin_name": "Liber Psalmorum",
   "hebrew_name": "תְּהִלִּים",
+  "douay_name": "Psalms",
+  "finnish_name": "Psalmit",
   "english_name": "Psalms",
   "chapter": 114,
   "verses": [
@@ -9,9 +11,14 @@
       "verse": 1,
       "latin_vulgate": "Alleluja.   In exitu Israël de Ægypto,  domus Jacob de populo barbaro, ",
       "hebrew_masoretic": "בְּצֵ֣את יִ֭שְׂרָאֵל מִמִּצְרָ֑יִם בֵּ֥ית יַ֝עֲקֹ֗ב מֵעַ֥ם לֹעֵֽז׃",
+      "douay_rheims": "When Israel went out of Egypt, the house of Jacob from a barbarous people:",
+      "finnish_biblia": "Kuin Israel Egyptistä läksi, Jakobin huone muukalaisesta kansasta, ",
       "king_james": "When Israel went out of Egypt, the house of Jacob from a people of strange language;",
       "refs": {
         "latin_vulgate": {
+          "src": "113:1"
+        },
+        "douay_rheims": {
           "src": "113:1"
         }
       }
@@ -20,9 +27,14 @@
       "verse": 2,
       "latin_vulgate": " facta est Judæa sanctificatio ejus ;  Israël potestas ejus. ",
       "hebrew_masoretic": "הָיְתָ֣ה יְהוּדָ֣ה לְקׇדְשׁ֑וֹ יִ֝שְׂרָאֵ֗ל מַמְשְׁלוֹתָֽיו׃",
+      "douay_rheims": "Judea was made his sanctuary, Israel his dominion.",
+      "finnish_biblia": "Niin Juuda tuli hänen pyhäksensä: Israel hänen vallaksensa. ",
       "king_james": "Judah was his sanctuary, and Israel his dominion.",
       "refs": {
         "latin_vulgate": {
+          "src": "113:2"
+        },
+        "douay_rheims": {
           "src": "113:2"
         }
       }
@@ -31,9 +43,14 @@
       "verse": 3,
       "latin_vulgate": " Mare vidit, et fugit ;  Jordanis conversus est retrorsum. ",
       "hebrew_masoretic": "הַיָּ֣ם רָ֭אָה וַיָּנֹ֑ס הַ֝יַּרְדֵּ֗ן יִסֹּ֥ב לְאָחֽוֹר׃",
+      "douay_rheims": "The sea saw and fled: Jordan was turned back.",
+      "finnish_biblia": "Sen meri näki ja pakeni: Jordan palasi takaperin, ",
       "king_james": "The sea saw it, and fled: Jordan was driven back.",
       "refs": {
         "latin_vulgate": {
+          "src": "113:3"
+        },
+        "douay_rheims": {
           "src": "113:3"
         }
       }
@@ -42,9 +59,14 @@
       "verse": 4,
       "latin_vulgate": " Montes exsultaverunt ut arietes,  et colles sicut agni ovium. ",
       "hebrew_masoretic": "הֶ֭הָרִים רָקְד֣וּ כְאֵילִ֑ים גְּ֝בָע֗וֹת כִּבְנֵי־צֹֽאן׃",
+      "douay_rheims": "The mountains skipped like rams, and the hills like the lambs of the flock.",
+      "finnish_biblia": "Vuoret hyppäsivät niinkuin oinaat, ja kukkulat niinkuin nuoret lampaat. ",
       "king_james": "The mountains skipped like rams, and the little hills like lambs.",
       "refs": {
         "latin_vulgate": {
+          "src": "113:4"
+        },
+        "douay_rheims": {
           "src": "113:4"
         }
       }
@@ -53,9 +75,14 @@
       "verse": 5,
       "latin_vulgate": " Quid est tibi, mare, quod fugisti ?  et tu, Jordanis, quia conversus es retrorsum ? ",
       "hebrew_masoretic": "מַה־לְּךָ֣ הַ֭יָּם כִּ֣י תָנ֑וּס הַ֝יַּרְדֵּ֗ן תִּסֹּ֥ב לְאָחֽוֹר׃",
+      "douay_rheims": "What ailed thee, O thou sea, that thou didst flee: and thou, O Jordan, that thou wast turned back?",
+      "finnish_biblia": "Mikä sinun oli meri, ettäs pakenit? ja sinä Jordan, ettäs palasit takaperin? ",
       "king_james": "What ailed thee, O thou sea, that thou fleddest? thou Jordan, that thou wast driven back?",
       "refs": {
         "latin_vulgate": {
+          "src": "113:5"
+        },
+        "douay_rheims": {
           "src": "113:5"
         }
       }
@@ -64,9 +91,14 @@
       "verse": 6,
       "latin_vulgate": " montes, exsultastis sicut arietes ?  et colles, sicut agni ovium ? ",
       "hebrew_masoretic": "הֶ֭הָרִים תִּרְקְד֣וּ כְאֵילִ֑ים גְּ֝בָע֗וֹת כִּבְנֵי־צֹֽאן׃",
+      "douay_rheims": "Ye mountains, that ye skipped like rams, and ye hills, like lambs of the flock?",
+      "finnish_biblia": "Te vuoret, että te hyppäsitte niinkuin oinaat? te kukkulat niinkuin nuoret lampaat? ",
       "king_james": "Ye mountains, that ye skipped like rams; and ye little hills, like lambs?",
       "refs": {
         "latin_vulgate": {
+          "src": "113:6"
+        },
+        "douay_rheims": {
           "src": "113:6"
         }
       }
@@ -75,9 +107,14 @@
       "verse": 7,
       "latin_vulgate": " A facie Domini mota est terra,  a facie Dei Jacob : ",
       "hebrew_masoretic": "מִלִּפְנֵ֣י אָ֭דוֹן ח֣וּלִי אָ֑רֶץ מִ֝לִּפְנֵ֗י אֱל֣וֹהַּ יַעֲקֹֽב׃",
+      "douay_rheims": "At the presence of the Lord the earth was moved, at the presence of the God of Jacob:",
+      "finnish_biblia": "Herran edessä vapisi maa, Jakobin Jumalan edessä, ",
       "king_james": "Tremble, thou earth, at the presence of the Lord, at the presence of the God of Jacob;",
       "refs": {
         "latin_vulgate": {
+          "src": "113:7"
+        },
+        "douay_rheims": {
           "src": "113:7"
         }
       }
@@ -86,9 +123,14 @@
       "verse": 8,
       "latin_vulgate": " qui convertit petram in stagna aquarum,  et rupem in fontes aquarum. ",
       "hebrew_masoretic": "הַהֹפְכִ֣י הַצּ֣וּר אֲגַם־מָ֑יִם חַ֝לָּמִ֗ישׁ לְמַעְיְנוֹ־מָֽיִם׃",
+      "douay_rheims": "Who turned the rock into pools of water, and the stony hill into fountains of waters.",
+      "finnish_biblia": "Joka kalliot muuttaa vesilammiksi, ja kiven vesilähteeksi.   ",
       "king_james": "Which turned the rock into a standing water, the flint into a fountain of waters. ",
       "refs": {
         "latin_vulgate": {
+          "src": "113:8"
+        },
+        "douay_rheims": {
           "src": "113:8"
         }
       }

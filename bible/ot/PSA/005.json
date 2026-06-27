@@ -2,6 +2,8 @@
   "book_id": "PSA",
   "latin_name": "Liber Psalmorum",
   "hebrew_name": "תְּהִלִּים",
+  "douay_name": "Psalms",
+  "finnish_name": "Psalmit",
   "english_name": "Psalms",
   "chapter": 5,
   "verses": [
@@ -9,12 +11,17 @@
       "verse": 1,
       "latin_vulgate": "  Verba mea auribus percipe, Domine ;  intellige clamorem meum. ",
       "hebrew_masoretic": "אֲמָרַ֖י הַאֲזִ֥ינָה ׀ יְהֹוָ֗ה בִּ֣ינָה הֲגִיגִֽי׃",
+      "douay_rheims": "Give ear, O Lord, to my words, understand my cry.",
+      "finnish_biblia": "Davidin Psalmi, edelläveisaajalle, perimisestä. (H 5:2) Herra, ota minun sanani korviis, havaitse minun puheeni. ",
       "king_james": "Give ear to my words, O Lord, consider my meditation.",
       "refs": {
         "latin_vulgate": {
           "src": "5:2"
         },
         "hebrew_masoretic": {
+          "src": "5:2"
+        },
+        "douay_rheims": {
           "src": "5:2"
         }
       }
@@ -23,12 +30,17 @@
       "verse": 2,
       "latin_vulgate": " Intende voci orationis meæ,  rex meus et Deus meus. ",
       "hebrew_masoretic": "הַקְשִׁ֤יבָה ׀ לְק֬וֹל שַׁוְעִ֗י מַלְכִּ֥י וֵאלֹהָ֑י כִּֽי־אֵ֝לֶ֗יךָ אֶתְפַּלָּֽל׃",
+      "douay_rheims": "Hearken to the voice of my prayer, O my King and my God.",
+      "finnish_biblia": "(H 5:3) Ota vaari minun huudostani, minun Kuninkaani ja minun Jumalani; sillä sinua minä rukoilen. ",
       "king_james": "Hearken unto the voice of my cry, my King, and my God: for unto thee will I pray.",
       "refs": {
         "latin_vulgate": {
           "src": "5:3"
         },
         "hebrew_masoretic": {
+          "src": "5:3"
+        },
+        "douay_rheims": {
           "src": "5:3"
         }
       }
@@ -37,12 +49,17 @@
       "verse": 3,
       "latin_vulgate": " Quoniam ad te orabo, Domine :  mane exaudies vocem meam. ",
       "hebrew_masoretic": "יְֽהֹוָ֗ה בֹּ֭קֶר תִּשְׁמַ֣ע קוֹלִ֑י בֹּ֥קֶר אֶעֱרׇךְ־לְ֝ךָ֗ וַאֲצַפֶּֽה׃",
+      "douay_rheims": "For to thee will I pray: O Lord, in the morning thou shalt hear my voice.",
+      "finnish_biblia": "(H 5:4) Herra kuultele varhain minun ääntäni: varhain hankitsen minä itseni sinun tykös, ja siitä otan vaarin. ",
       "king_james": "My voice shalt thou hear in the morning, O Lord; in the morning will I direct my prayer unto thee, and will look up.",
       "refs": {
         "latin_vulgate": {
           "src": "5:4"
         },
         "hebrew_masoretic": {
+          "src": "5:4"
+        },
+        "douay_rheims": {
           "src": "5:4"
         }
       }
@@ -51,12 +68,17 @@
       "verse": 4,
       "latin_vulgate": " Mane astabo tibi, et videbo  quoniam non Deus volens iniquitatem tu es. ",
       "hebrew_masoretic": "כִּ֤י ׀ לֹ֤א אֵֽל־חָפֵ֘ץ־רֶ֥שַׁע ׀ אָ֑תָּה לֹ֖א יְגֻרְךָ֣ רָֽע׃",
+      "douay_rheims": "In the morning I will stand before thee, and I will see: because thou art not a God that willest iniquity.",
+      "finnish_biblia": "(H 5:5) Sillä et sinä ole se Jumala, jolle jumalatoin meno kelpaa: joka paha on, ei se pysy edessäs. ",
       "king_james": "For thou art not a God that hath pleasure in wickedness: neither shall evil dwell with thee.",
       "refs": {
         "latin_vulgate": {
           "src": "5:5"
         },
         "hebrew_masoretic": {
+          "src": "5:5"
+        },
+        "douay_rheims": {
           "src": "5:5"
         }
       }
@@ -65,12 +87,17 @@
       "verse": 5,
       "latin_vulgate": " Neque habitabit juxta te malignus,  neque permanebunt injusti ante oculos tuos. ",
       "hebrew_masoretic": "לֹֽא־יִתְיַצְּב֣וּ ה֭וֹלְלִים לְנֶ֣גֶד עֵינֶ֑יךָ שָׂ֝נֵ֗אתָ כׇּל־פֹּ֥עֲלֵי אָֽוֶן׃",
+      "douay_rheims": "Neither shall the wicked dwell near thee: nor shall the unjust abide before thy eyes.",
+      "finnish_biblia": "(H 5:6) Öykkärit ei pysy sinun silmäis edessä: kaikkia pahantekiöitä sinä vihaat. ",
       "king_james": "The foolish shall not stand in thy sight: thou hatest all workers of iniquity.",
       "refs": {
         "latin_vulgate": {
           "src": "5:6"
         },
         "hebrew_masoretic": {
+          "src": "5:6"
+        },
+        "douay_rheims": {
           "src": "5:6"
         }
       }
@@ -79,12 +106,17 @@
       "verse": 6,
       "latin_vulgate": " Odisti omnes qui operantur iniquitatem ;  perdes omnes qui loquuntur mendacium.  Virum sanguinum et dolosum abominabitur Dominus. ",
       "hebrew_masoretic": "תְּאַבֵּד֮ דֹּבְרֵ֢י כָ֫זָ֥ב אִישׁ־דָּמִ֥ים וּמִרְמָ֗ה יְתָ֘עֵ֥ב ׀ יְהֹוָֽה׃",
+      "douay_rheims": "Thou hatest all the workers of iniquity: thou wilt destroy all that speak a lie. The bloody and the deceitful man the Lord will abhor.",
+      "finnish_biblia": "(H 5:7) Sinä kadotat valhetteliat: Herra kauhistuu murhaajia ja viekkaita. ",
       "king_james": "Thou shalt destroy them that speak leasing: the Lord will abhor the bloody and deceitful man.",
       "refs": {
         "latin_vulgate": {
           "src": "5:7"
         },
         "hebrew_masoretic": {
+          "src": "5:7"
+        },
+        "douay_rheims": {
           "src": "5:7"
         }
       }
@@ -93,12 +125,17 @@
       "verse": 7,
       "latin_vulgate": " Ego autem in multitudine misericordiæ tuæ  introibo in domum tuam ;  adorabo ad templum sanctum tuum in timore tuo. ",
       "hebrew_masoretic": "וַאֲנִ֗י בְּרֹ֣ב חַ֭סְדְּךָ אָב֣וֹא בֵיתֶ֑ךָ אֶשְׁתַּחֲוֶ֥ה אֶל־הֵֽיכַל־קׇ֝דְשְׁךָ֗ בְּיִרְאָתֶֽךָ׃",
+      "douay_rheims": "But as for me in the multitude of thy mercy, I will come into thy house; I will worship towards thy holy temple, in thy fear.",
+      "finnish_biblia": "(H 5:8) Mutta minä menen sinun huoneeses sinun suuressa laupiudessas, ja kumarran sinun pyhään templiis päin sinun pelvossas. ",
       "king_james": "But as for me, I will come into thy house in the multitude of thy mercy: and in thy fear will I worship toward thy holy temple.",
       "refs": {
         "latin_vulgate": {
           "src": "5:8"
         },
         "hebrew_masoretic": {
+          "src": "5:8"
+        },
+        "douay_rheims": {
           "src": "5:8"
         }
       }
@@ -107,12 +144,17 @@
       "verse": 8,
       "latin_vulgate": " Domine, deduc me in justitia tua :  propter inimicos meos dirige in conspectu tuo viam meam. ",
       "hebrew_masoretic": "יְהֹוָ֤ה ׀ נְחֵ֬נִי בְצִדְקָתֶ֗ךָ לְמַ֥עַן שׁוֹרְרָ֑י (הושר) [הַיְשַׁ֖ר] לְפָנַ֣י דַּרְכֶּֽךָ׃",
+      "douay_rheims": "Conduct me, O Lord, in thy justice: because of my enemies, direct my way in thy sight.",
+      "finnish_biblia": "(H 5:9) Herra saata minua vanhurskaudessas, minun vihollisteni tähden: ojenna ties minun eteeni. ",
       "king_james": "Lead me, O Lord, in thy righteousness because of mine enemies; make thy way straight before my face.",
       "refs": {
         "latin_vulgate": {
           "src": "5:9"
         },
         "hebrew_masoretic": {
+          "src": "5:9"
+        },
+        "douay_rheims": {
           "src": "5:9"
         }
       }
@@ -121,12 +163,17 @@
       "verse": 9,
       "latin_vulgate": " Quoniam non est in ore eorum veritas ;  cor eorum vanum est. ",
       "hebrew_masoretic": "כִּ֤י אֵ֪ין בְּפִ֡יהוּ נְכוֹנָה֮ קִרְבָּ֢ם הַ֫וּ֥וֹת קֶֽבֶר־פָּת֥וּחַ גְּרֹנָ֑ם לְ֝שׁוֹנָ֗ם יַחֲלִיקֽוּן׃",
+      "douay_rheims": "For there is no truth in their mouth: their heart is vain.",
+      "finnish_biblia": "(H 5:10) Sillä heidän suussansa ei ole mitään totuutta, heidän sisällyksensä on sydämen kipu; heidän kitansa on avoin hauta, ja kielellänsä he liehakoitsevat. ",
       "king_james": "For there is no faithfulness in their mouth; their inward part is very wickedness; their throat is an open sepulchre; they flatter with their tongue.",
       "refs": {
         "latin_vulgate": {
           "src": "5:10"
         },
         "hebrew_masoretic": {
+          "src": "5:10"
+        },
+        "douay_rheims": {
           "src": "5:10"
         }
       }
@@ -135,12 +182,17 @@
       "verse": 10,
       "latin_vulgate": " Sepulchrum patens est guttur eorum ;  linguis suis dolose agebant :  judica illos, Deus.  Decidant a cogitationibus suis ;  secundum multitudinem impietatum eorum expelle eos,  quoniam irritaverunt te, Domine. ",
       "hebrew_masoretic": "הַ֥אֲשִׁימֵ֨ם ׀ אֱֽלֹהִ֗ים יִפְּלוּ֮ מִֽמֹּעֲצ֢וֹתֵ֫יהֶ֥ם בְּרֹ֣ב פִּ֭שְׁעֵיהֶם הַדִּיחֵ֑מוֹ כִּי־מָ֥רוּ בָֽךְ׃",
+      "douay_rheims": "Their throat is an open sepulchre: they dealt deceitfully with their tongues: judge them, O God. Let them fall from their devices: according to the multitude of their wickednesses cast them out: for they have provoked thee, O Lord.",
+      "finnish_biblia": "(H 5:11) Nuhtele heitä Jumala, että he lankeisivat ajatuksistansa: syökse heitä ulos heidän suurten ylitsekäymistensä tähden; sillä he ovat sinulle vastahakoiset. ",
       "king_james": "Destroy thou them, O God; let them fall by their own counsels; cast them out in the multitude of their transgressions; for they have rebelled against thee.",
       "refs": {
         "latin_vulgate": {
           "src": "5:11"
         },
         "hebrew_masoretic": {
+          "src": "5:11"
+        },
+        "douay_rheims": {
           "src": "5:11"
         }
       }
@@ -149,12 +201,17 @@
       "verse": 11,
       "latin_vulgate": " Et lætentur omnes qui sperant in te ;  in æternum exsultabunt, et habitabis in eis.  Et gloriabuntur in te omnes qui diligunt nomen tuum, ",
       "hebrew_masoretic": "וְיִשְׂמְח֨וּ כׇל־ח֪וֹסֵי בָ֡ךְ לְעוֹלָ֣ם יְ֭רַנֵּנוּ וְתָסֵ֣ךְ עָלֵ֑ימוֹ וְֽיַעְלְצ֥וּ בְ֝ךָ֗ אֹהֲבֵ֥י שְׁמֶֽךָ׃",
+      "douay_rheims": "But let all them be glad that hope in thee: they shall rejoice for ever, and thou shalt dwell in them. And all they that love thy name shall glory in thee.",
+      "finnish_biblia": "(H 5:12) Iloitkaan kaikki, jotka sinuun uskaltavat, anna heidän riemuita ijankaikkisesti; sillä sinä varjelet heitä: iloitkaan sinussa ne, jotka sinun nimeäs rakastavat. ",
       "king_james": "But let all those that put their trust in thee rejoice: let them ever shout for joy, because thou defendest them: let them also that love thy name be joyful in thee.",
       "refs": {
         "latin_vulgate": {
           "src": "5:12"
         },
         "hebrew_masoretic": {
+          "src": "5:12"
+        },
+        "douay_rheims": {
           "src": "5:12"
         }
       }
@@ -163,12 +220,17 @@
       "verse": 12,
       "latin_vulgate": " quoniam tu benedices justo.  Domine, ut scuto bonæ voluntatis tuæ coronasti nos.  ",
       "hebrew_masoretic": "כִּֽי־אַתָּה֮ תְּבָרֵ֢ךְ צַ֫דִּ֥יק יְהֹוָ֑ה כַּ֝צִּנָּ֗ה רָצ֥וֹן תַּעְטְרֶֽנּוּ׃ {פ}",
+      "douay_rheims": "For thou wilt bless the just. O Lord, thou hast crowned us, as with a shield of thy good will. ",
+      "finnish_biblia": "(H 5:13) Sillä sinä Herra siunaat vanhurskaita: sinä kaunistat heitä armollas niinkuin kilvellä.   ",
       "king_james": "For thou, Lord, wilt bless the righteous; with favour wilt thou compass him as with a shield. ",
       "refs": {
         "latin_vulgate": {
           "src": "5:13"
         },
         "hebrew_masoretic": {
+          "src": "5:13"
+        },
+        "douay_rheims": {
           "src": "5:13"
         }
       }

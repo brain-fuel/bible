@@ -2,6 +2,8 @@
   "book_id": "LEV",
   "latin_name": "Leviticus",
   "hebrew_name": "וַיִּקְרָא",
+  "douay_name": "Leviticus",
+  "finnish_name": "3. Mooseksen kirja",
   "english_name": "Leviticus",
   "chapter": 13,
   "verses": [
@@ -9,354 +11,472 @@
       "verse": 1,
       "latin_vulgate": "Locutusque est Dominus ad Moysen, et Aaron, dicens : ",
       "hebrew_masoretic": "וַיְדַבֵּ֣ר יְהֹוָ֔ה אֶל־מֹשֶׁ֥ה וְאֶֽל־אַהֲרֹ֖ן לֵאמֹֽר׃",
+      "douay_rheims": "And the Lord spoke to Moses and Aaron, saying:",
+      "finnish_biblia": "Ja Herra puhui Mosekselle ja Aaronille, sanoen: ",
       "king_james": "And the Lord spake unto Moses and Aaron, saying,"
     },
     {
       "verse": 2,
       "latin_vulgate": "Homo, in cujus cute et carne ortus fuerit diversus color, sive pustula, aut quasi lucens quippiam, id est, plaga lepræ, adducetur ad Aaron sacerdotem, vel ad unum quemlibet filiorum ejus. ",
       "hebrew_masoretic": "אָדָ֗ם כִּֽי־יִהְיֶ֤ה בְעוֹר־בְּשָׂרוֹ֙ שְׂאֵ֤ת אֽוֹ־סַפַּ֙חַת֙ א֣וֹ בַהֶ֔רֶת וְהָיָ֥ה בְעוֹר־בְּשָׂר֖וֹ לְנֶ֣גַע צָרָ֑עַת וְהוּבָא֙ אֶל־אַהֲרֹ֣ן הַכֹּהֵ֔ן א֛וֹ אֶל־אַחַ֥ד מִבָּנָ֖יו הַכֹּהֲנִֽים׃",
+      "douay_rheims": "The man in whose skin or flesh shall arise a different colour or a blister, or as it were something shining, that is the stroke of the leprosy, shall be brought to Aaron the priest, or any or of his sons.",
+      "finnish_biblia": "Jos ihmisen ihoon tulee ajos, eli rupi, eli syhelmä, niinkuin spitalitauti tahtois tulla hänen ihoonsa, niin pitää hän vietämän papin Aaronin tykö, eli yhden hänen pojistansa pappein seasta. ",
       "king_james": "When a man shall have in the skin of his flesh a rising, a scab, or bright spot, and it be in the skin of his flesh like the plague of leprosy; then he shall be brought unto Aaron the priest, or unto one of his sons the priests:"
     },
     {
       "verse": 3,
       "latin_vulgate": "Qui cum viderit lepram in cute, et pilos in album mutatos colorem, ipsamque speciem lepræ humiliorem cute et carne reliqua : plaga lepræ est, et ad arbitrium ejus separabitur.  ",
       "hebrew_masoretic": "וְרָאָ֣ה הַכֹּהֵ֣ן אֶת־הַנֶּ֣גַע בְּעֽוֹר־הַ֠בָּשָׂ֠ר וְשֵׂעָ֨ר בַּנֶּ֜גַע הָפַ֣ךְ ׀ לָבָ֗ן וּמַרְאֵ֤ה הַנֶּ֙גַע֙ עָמֹק֙ מֵע֣וֹר בְּשָׂר֔וֹ נֶ֥גַע צָרַ֖עַת ה֑וּא וְרָאָ֥הוּ הַכֹּהֵ֖ן וְטִמֵּ֥א אֹתֽוֹ׃",
+      "douay_rheims": "And if he see the leprosy in his skin, and the hair turned white and the place where the leprosy appears lower than the skin and the rest of the flesh: it is the stroke of the leprosy, and upon his judgment he shall be separated.",
+      "finnish_biblia": "Ja sitte kuin pappi näkee merkin ihossa, ja jos karvat merkissä ovat muuttuneet valkiaksi, ja haavan paikka on nähdä matalampi kuin muu iho hänen ruumiissansa, niin se on spitalitauti, sentähden pitää papin katseleman häntä ja tuomitseman hänen saastaiseksi. ",
       "king_james": "And the priest shall look on the plague in the skin of the flesh: and when the hair in the plague is turned white, and the plague in sight be deeper than the skin of his flesh, it is a plague of leprosy: and the priest shall look on him, and pronounce him unclean."
     },
     {
       "verse": 4,
       "latin_vulgate": " Sin autem lucens candor fuerit in cute, nec humilior carne reliqua, et pili coloris pristini, recludet eum sacerdos septem diebus : ",
       "hebrew_masoretic": "וְאִם־בַּהֶ֩רֶת֩ לְבָנָ֨ה הִ֜וא בְּע֣וֹר בְּשָׂר֗וֹ וְעָמֹק֙ אֵין־מַרְאֶ֣הָ מִן־הָע֔וֹר וּשְׂעָרָ֖הֿ לֹא־הָפַ֣ךְ לָבָ֑ן וְהִסְגִּ֧יר הַכֹּהֵ֛ן אֶת־הַנֶּ֖גַע שִׁבְעַ֥ת יָמִֽים׃",
+      "douay_rheims": "But if there be a shining whiteness in the skin, and not lower than the other flesh, and the hair be of the former colour, the priest shall shut him up seven days.",
+      "finnish_biblia": "Mutta jos hänen ihossansa on valkea syhelmä, eikä kuitenkaan näy olevan syvemmällä muuta ihoa, ja karvat ei ole muuttuneet valkiaksi, niin pitää papin hänen sulkeman sisälle seitsemäksi päiväksi. ",
       "king_james": "If the bright spot be white in the skin of his flesh, and in sight be not deeper than the skin, and the hair thereof be not turned white; then the priest shall shut up him that hath the plague seven days:"
     },
     {
       "verse": 5,
       "latin_vulgate": "et considerabit die septimo : et si quidem lepra ultra non creverit, nec transierit in cute priores terminos, rursum recludet eum septem diebus aliis. ",
       "hebrew_masoretic": "וְרָאָ֣הוּ הַכֹּהֵן֮ בַּיּ֣וֹם הַשְּׁבִיעִי֒ וְהִנֵּ֤ה הַנֶּ֙גַע֙ עָמַ֣ד בְּעֵינָ֔יו לֹֽא־פָשָׂ֥ה הַנֶּ֖גַע בָּע֑וֹר וְהִסְגִּיר֧וֹ הַכֹּהֵ֛ן שִׁבְעַ֥ת יָמִ֖ים שֵׁנִֽית׃",
+      "douay_rheims": "And the seventh day he shall look on him: and if the leprosy be grown no farther, and hath not spread itself in the skin, he shall shut him up again other seven days.",
+      "finnish_biblia": "Ja seitsemäntenä päivänä katselkaan pappi häntä, jos haavat näkyvät hänessä olevan niinkuin ennekin, ja ei ole levinneet hänen ihossansa, niin papin pitää hänen jälleen toiseksi seitsemäksi päiväksi sulkeman sisälle. ",
       "king_james": "And the priest shall look on him the seventh day: and, behold, if the plague in his sight be at a stay, and the plague spread not in the skin; then the priest shall shut him up seven days more:"
     },
     {
       "verse": 6,
       "latin_vulgate": "Et die septimo contemplabitur : si obscurior fuerit lepra, et non creverit in cute, mundabit eum, quia scabies est : lavabitque homo vestimenta sua, et mundus erit. ",
       "hebrew_masoretic": "וְרָאָה֩ הַכֹּהֵ֨ן אֹת֜וֹ בַּיּ֣וֹם הַשְּׁבִיעִי֮ שֵׁנִית֒ וְהִנֵּה֙ כֵּהָ֣ה הַנֶּ֔גַע וְלֹא־פָשָׂ֥ה הַנֶּ֖גַע בָּע֑וֹר וְטִהֲר֤וֹ הַכֹּהֵן֙ מִסְפַּ֣חַת הִ֔וא וְכִבֶּ֥ס בְּגָדָ֖יו וְטָהֵֽר׃",
+      "douay_rheims": "And on the seventh day, he shall look on him. If the leprosy be somewhat obscure, and not spread in the skin, he shall declare him clean, because it is but a scab: and the man shall wash his clothes, and shall be clean.",
+      "finnish_biblia": "Ja koska pappi taas katselee hänen toisena seitsemäntenä päivänä ja löytää haavat rauvenneeksi, eikä levinneeksi hänen ihossansa, niin pitää papin tuomitseman hänen puhtaaksi; sillä se on syhelmä: ja pitää pesemän vaatteensa, ja niin on hän puhdas. ",
       "king_james": "And the priest shall look on him again the seventh day: and, behold, if the plague be somewhat dark, and the plague spread not in the skin, the priest shall pronounce him clean: it is but a scab: and he shall wash his clothes, and be clean."
     },
     {
       "verse": 7,
       "latin_vulgate": "Quod si postquam a sacerdote visus est, et redditus munditiæ, iterum lepra creverit : adducetur ad eum, ",
       "hebrew_masoretic": "וְאִם־פָּשֹׂ֨ה תִפְשֶׂ֤ה הַמִּסְפַּ֙חַת֙ בָּע֔וֹר אַחֲרֵ֧י הֵרָאֹת֛וֹ אֶל־הַכֹּהֵ֖ן לְטׇהֳרָת֑וֹ וְנִרְאָ֥ה שֵׁנִ֖ית אֶל־הַכֹּהֵֽן׃",
+      "douay_rheims": "But, if the leprosy grow again, after he was seen by the priest and restored to cleanness, he shall be brought to him:",
+      "finnish_biblia": "Mutta jos rupi leviää hänen ihossansa, sitte kuin hän on papilta katsottu ja puhtaaksi sanottu, niin hän pitää katsottaman toisen kerran papilta. ",
       "king_james": "But if the scab spread much abroad in the skin, after that he hath been seen of the priest for his cleansing, he shall be seen of the priest again:"
     },
     {
       "verse": 8,
       "latin_vulgate": "et immunditiæ condemnabitur.  ",
       "hebrew_masoretic": "וְרָאָה֙ הַכֹּהֵ֔ן וְהִנֵּ֛ה פָּשְׂתָ֥ה הַמִּסְפַּ֖חַת בָּע֑וֹר וְטִמְּא֥וֹ הַכֹּהֵ֖ן צָרַ֥עַת הִֽוא׃ {פ}",
+      "douay_rheims": "And shall be condemned of uncleanness.",
+      "finnish_biblia": "Jos siis pappi näkee, että ruvet ovat levinneet hänen ihossansa, niin pitää papin tuomitseman hänen saastaiseksi: se on spitali. ",
       "king_james": "And if the priest see that, behold, the scab spreadeth in the skin, then the priest shall pronounce him unclean: it is a leprosy."
     },
     {
       "verse": 9,
       "latin_vulgate": " Plaga lepræ si fuerit in homine, adducetur ad sacerdotem, ",
       "hebrew_masoretic": "נֶ֣גַע צָרַ֔עַת כִּ֥י תִהְיֶ֖ה בְּאָדָ֑ם וְהוּבָ֖א אֶל־הַכֹּהֵֽן׃",
+      "douay_rheims": "If the stroke of the leprosy be in a man, he shall be brought to the priest:",
+      "finnish_biblia": "Mutta koska spitalin haava tulee ihmiseen, niin hän pitää vietämän papin tykö. ",
       "king_james": "When the plague of leprosy is in a man, then he shall be brought unto the priest;"
     },
     {
       "verse": 10,
       "latin_vulgate": "et videbit eum. Cumque color albus in cute fuerit, et capillorum mutaverit aspectum, ipsa quoque caro viva apparuerit : ",
       "hebrew_masoretic": "וְרָאָ֣ה הַכֹּהֵ֗ן וְהִנֵּ֤ה שְׂאֵת־לְבָנָה֙ בָּע֔וֹר וְהִ֕יא הָפְכָ֖ה שֵׂעָ֣ר לָבָ֑ן וּמִֽחְיַ֛ת בָּשָׂ֥ר חַ֖י בַּשְׂאֵֽת׃",
+      "douay_rheims": "And he shall view him. And when there shall be a white colour in the skin, and it shall have changed the look of the hair, and the living flesh itself shall appear:",
+      "finnish_biblia": "Ja koska pappi näke valkian ajoksen tulleeksi hänen ihoonsa, ja karvat vaalistuneeksi, ja elävän lihan olevan ajoksessa. ",
       "king_james": "And the priest shall see him: and, behold, if the rising be white in the skin, and it have turned the hair white, and there be quick raw flesh in the rising;"
     },
     {
       "verse": 11,
       "latin_vulgate": "lepra vetustissima judicabitur, atque inolita cuti. Contaminabit itaque eum sacerdos, et non recludet, quia perspicuæ immunditiæ est. ",
       "hebrew_masoretic": "צָרַ֨עַת נוֹשֶׁ֤נֶת הִוא֙ בְּע֣וֹר בְּשָׂר֔וֹ וְטִמְּא֖וֹ הַכֹּהֵ֑ן לֹ֣א יַסְגִּרֶ֔נּוּ כִּ֥י טָמֵ֖א הֽוּא׃",
+      "douay_rheims": "It shall be judged an inveterate leprosy, and grown into the skin. The priest therefore shall declare him unclean: and shall not shut him up, because he is evidently unclean.",
+      "finnish_biblia": "Niin on vanha spitali hänen ihossansa, ja sentähden pitää papin tuomitseman häntä saastaiseksi, ja ei silleen sulkeman sisälle, sillä hän on jo saastainen. ",
       "king_james": "It is an old leprosy in the skin of his flesh, and the priest shall pronounce him unclean, and shall not shut him up: for he is unclean."
     },
     {
       "verse": 12,
       "latin_vulgate": "Sin autem effloruerit discurrens lepra in cute, et operuerit omnem cutem a capite usque ad pedes, quidquid sub aspectum oculorum cadit, ",
       "hebrew_masoretic": "וְאִם־פָּר֨וֹחַ תִּפְרַ֤ח הַצָּרַ֙עַת֙ בָּע֔וֹר וְכִסְּתָ֣ה הַצָּרַ֗עַת אֵ֚ת כׇּל־ע֣וֹר הַנֶּ֔גַע מֵרֹאשׁ֖וֹ וְעַד־רַגְלָ֑יו לְכׇל־מַרְאֵ֖ה עֵינֵ֥י הַכֹּהֵֽן׃",
+      "douay_rheims": "But if the leprosy spring out running about in the skin, and cover all the skin from the head to the feet, whatsoever falleth under the sight of the eyes:",
+      "finnish_biblia": "Ja jos spitali kovin leviää hänen ihossansa, ja täyttää koko ihonsa, päästä niin jalkoihin, kaiken sen jälkeen, mitä pappi näkee silmäinsä edessä. ",
       "king_james": "And if a leprosy break out abroad in the skin, and the leprosy cover all the skin of him that hath the plague from his head even to his foot, wheresoever the priest looketh;"
     },
     {
       "verse": 13,
       "latin_vulgate": "considerabit eum sacerdos, et teneri lepra mundissima judicabit : eo quod omnis in candorem versa sit, et idcirco homo mundus erit. ",
       "hebrew_masoretic": "וְרָאָ֣ה הַכֹּהֵ֗ן וְהִנֵּ֨ה כִסְּתָ֤ה הַצָּרַ֙עַת֙ אֶת־כׇּל־בְּשָׂר֔וֹ וְטִהַ֖ר אֶת־הַנָּ֑גַע כֻּלּ֛וֹ הָפַ֥ךְ לָבָ֖ן טָה֥וֹר הֽוּא׃",
+      "douay_rheims": "The priest shall view him, and shall judge that the leprosy which he has is very clean: because it is all turned into whiteness, and therefore the man shall be clean.",
+      "finnish_biblia": "Koska pappi katsoo ja näkee spitalin peittäneeksi koko hänen ihona, niin pitää hän tuomitseman hänen puhtaaksi, sentähden että kaikki on hänessä muuttunut valkiaksi; sillä hän on puhdas. ",
       "king_james": "Then the priest shall consider: and, behold, if the leprosy have covered all his flesh, he shall pronounce him clean that hath the plague: it is all turned white: he is clean."
     },
     {
       "verse": 14,
       "latin_vulgate": "Quando vero caro vivens in eo apparuerit, ",
       "hebrew_masoretic": "וּבְי֨וֹם הֵרָא֥וֹת בּ֛וֹ בָּשָׂ֥ר חַ֖י יִטְמָֽא׃",
+      "douay_rheims": "But when the live flesh shall appear in him:",
+      "finnish_biblia": "Mutta jona päivänä elävä liha hänessä näkyy, niin hän tuomitaan saastaiseksi, ",
       "king_james": "But when raw flesh appeareth in him, he shall be unclean."
     },
     {
       "verse": 15,
       "latin_vulgate": "tunc sacerdotis judicio polluetur, et inter immundos reputabitur : caro enim viva, si lepra aspergitur, immunda est. ",
       "hebrew_masoretic": "וְרָאָ֧ה הַכֹּהֵ֛ן אֶת־הַבָּשָׂ֥ר הַחַ֖י וְטִמְּא֑וֹ הַבָּשָׂ֥ר הַחַ֛י טָמֵ֥א ה֖וּא צָרַ֥עַת הֽוּא׃",
+      "douay_rheims": "Then by the judgment of the priest he shall be defiled, and shall be reckoned among the unclean. For live flesh, if it be spotted with leprosy, is unclean.",
+      "finnish_biblia": "Ja pappi nähtyänsä elävän lihan, pitää hänen tuomitseman saastaiseksi; sillä elävä liha on saastainen, ja se on spitali. ",
       "king_james": "And the priest shall see the raw flesh, and pronounce him to be unclean: for the raw flesh is unclean: it is a leprosy."
     },
     {
       "verse": 16,
       "latin_vulgate": "Quod si rursum versa fuerit in alborem, et totum hominem operuerit, ",
       "hebrew_masoretic": "א֣וֹ כִ֥י יָשׁ֛וּב הַבָּשָׂ֥ר הַחַ֖י וְנֶהְפַּ֣ךְ לְלָבָ֑ן וּבָ֖א אֶל־הַכֹּהֵֽן׃",
+      "douay_rheims": "And if again it be turned into whiteness, and cover all the man:",
+      "finnish_biblia": "Mutta jos se elävä liha muuttuu jälleen valkiaksi, niin pitää hänen tuleman papin tykö, ",
       "king_james": "Or if the raw flesh turn again, and be changed unto white, he shall come unto the priest;"
     },
     {
       "verse": 17,
       "latin_vulgate": "considerabit eum sacerdos, et mundum esse decernet.  ",
       "hebrew_masoretic": "וְרָאָ֙הוּ֙ הַכֹּהֵ֔ן וְהִנֵּ֛ה נֶהְפַּ֥ךְ הַנֶּ֖גַע לְלָבָ֑ן וְטִהַ֧ר הַכֹּהֵ֛ן אֶת־הַנֶּ֖גַע טָה֥וֹר הֽוּא׃ {פ}",
+      "douay_rheims": "The priest shall view him, and shall judge him to be clean.",
+      "finnish_biblia": "Ja koska pappi näkee haavat muuttuneen valkiaksi, niin papin pitää tuomitseman hänen puhtaaksi; sillä hän on puhdas. ",
       "king_james": "And the priest shall see him: and, behold, if the plague be turned into white; then the priest shall pronounce him clean that hath the plague: he is clean."
     },
     {
       "verse": 18,
       "latin_vulgate": " Caro autem et cutis in qua ulcus natum est, et sanatum, ",
       "hebrew_masoretic": "וּבָשָׂ֕ר כִּֽי־יִהְיֶ֥ה בֽוֹ־בְעֹר֖וֹ שְׁחִ֑ין וְנִרְפָּֽא׃",
+      "douay_rheims": "When also there has been an ulcer in the flesh and the skin, and it has been healed:",
+      "finnish_biblia": "Ja jos jonkun ihoon tulee paisuma, ja paranee jälleen, ",
       "king_james": "The flesh also, in which, even in the skin thereof, was a boil, and is healed,"
     },
     {
       "verse": 19,
       "latin_vulgate": "et in loco ulceris cicatrix alba apparuerit, sive subrufa, adducetur homo ad sacerdotem. ",
       "hebrew_masoretic": "וְהָיָ֞ה בִּמְק֤וֹם הַשְּׁחִין֙ שְׂאֵ֣ת לְבָנָ֔ה א֥וֹ בַהֶ֖רֶת לְבָנָ֣ה אֲדַמְדָּ֑מֶת וְנִרְאָ֖ה אֶל־הַכֹּהֵֽן׃",
+      "douay_rheims": "And in the place of the ulcer, there appeareth a white scar, or somewhat red, the man shall be brought to the priest.",
+      "finnish_biblia": "Ja sitte siihen siaan tulee jotakin valkiaa eli punaista rakkoa, se pitää katsottaman papilta. ",
       "king_james": "And in the place of the boil there be a white rising, or a bright spot, white, and somewhat reddish, and it be shewed to the priest;"
     },
     {
       "verse": 20,
       "latin_vulgate": "Qui cum viderit locum lepræ humiliorem carne reliqua, et pilos versos in candorem, contaminabit eum : plaga enim lepræ orta est in ulcere. ",
       "hebrew_masoretic": "וְרָאָ֣ה הַכֹּהֵ֗ן וְהִנֵּ֤ה מַרְאֶ֙הָ֙ שָׁפָ֣ל מִן־הָע֔וֹר וּשְׂעָרָ֖הּ הָפַ֣ךְ לָבָ֑ן וְטִמְּא֧וֹ הַכֹּהֵ֛ן נֶֽגַע־צָרַ֥עַת הִ֖וא בַּשְּׁחִ֥ין פָּרָֽחָה׃",
+      "douay_rheims": "And when he shall see the place of the leprosy lower than the other flesh, and the hair turned white: he shall declare him unclean, for the plague of leprosy is broken out in the ulcer.",
+      "finnish_biblia": "Koska pappi näkee sen paikan matalammaksi muuta ihoa, ja karvat ovat muuttuneet valkiaksi, niin papin pitää hänen tuomitseman saastaiseksi; sillä siitä paisumasta on spitali tullut. ",
       "king_james": "And if, when the priest seeth it, behold, it be in sight lower than the skin, and the hair thereof be turned white; the priest shall pronounce him unclean: it is a plague of leprosy broken out of the boil."
     },
     {
       "verse": 21,
       "latin_vulgate": "Quod si pilus coloris est pristini, et cicatrix subobscura, et vicina carne non est humilior, recludet eum septem diebus : ",
       "hebrew_masoretic": "וְאִ֣ם ׀ יִרְאֶ֣נָּה הַכֹּהֵ֗ן וְהִנֵּ֤ה אֵֽין־בָּהּ֙ שֵׂעָ֣ר לָבָ֔ן וּשְׁפָלָ֥הֿ אֵינֶ֛נָּה מִן־הָע֖וֹר וְהִ֣יא כֵהָ֑ה וְהִסְגִּיר֥וֹ הַכֹּהֵ֖ן שִׁבְעַ֥ת יָמִֽים׃",
+      "douay_rheims": "But if the hair be of the former colour, and the scar somewhat obscure, and be not lower than the flesh that is near it: he shall shut him up seven days.",
+      "finnish_biblia": "Mutta jos pappi näkee, ettei karvat ole siinä muuttuneet valkiaksi, ja ei ole matalampi kuin muukaan iho, ja se on kadonnut, niin papin pitää sulkeman hänen sisälle seitsemäksi päiväksi. ",
       "king_james": "But if the priest look on it, and, behold, there be no white hairs therein, and if it be not lower than the skin, but be somewhat dark; then the priest shall shut him up seven days:"
     },
     {
       "verse": 22,
       "latin_vulgate": "et si quidem creverit, adjudicabit eum lepræ ; ",
       "hebrew_masoretic": "וְאִם־פָּשֹׂ֥ה תִפְשֶׂ֖ה בָּע֑וֹר וְטִמֵּ֧א הַכֹּהֵ֛ן אֹת֖וֹ נֶ֥גַע הִֽוא׃",
+      "douay_rheims": "And if it spread, he shall judge him to have the leprosy:",
+      "finnish_biblia": "Mutta jos se paljo levenee hänen ihossansa, niin pitää papin tuomitseman hänen saastaiseksi; sillä se on spitalin haava. ",
       "king_james": "And if it spread much abroad in the skin, then the priest shall pronounce him unclean: it is a plague."
     },
     {
       "verse": 23,
       "latin_vulgate": "sin autem steterit in loco suo, ulceris est cicatrix, et homo mundus erit.  ",
       "hebrew_masoretic": "וְאִם־תַּחְתֶּ֜יהָ תַּעֲמֹ֤ד הַבַּהֶ֙רֶת֙ לֹ֣א פָשָׂ֔תָה צָרֶ֥בֶת הַשְּׁחִ֖ין הִ֑וא וְטִהֲר֖וֹ הַכֹּהֵֽן׃ {ס}",
+      "douay_rheims": "But if it stay in its place, it is but the scar of an ulcer: and the man shall be clean.",
+      "finnish_biblia": "Mutta jos se syhelmä pysyy siallansa, ja ei levitä itseänsä, niin se on paisuman arpi, ja papin pitää tuomitseman hänen puhtaaksi. ",
       "king_james": "But if the bright spot stay in his place, and spread not, it is a burning boil; and the priest shall pronounce him clean."
     },
     {
       "verse": 24,
       "latin_vulgate": " Caro autem et cutis, quam ignis exusserit, et sanata albam sive rufam habuerit cicatricem, ",
       "hebrew_masoretic": "א֣וֹ בָשָׂ֔ר כִּֽי־יִהְיֶ֥ה בְעֹר֖וֹ מִכְוַת־אֵ֑שׁ וְֽהָיְתָ֞ה מִֽחְיַ֣ת הַמִּכְוָ֗ה בַּהֶ֛רֶת לְבָנָ֥ה אֲדַמְדֶּ֖מֶת א֥וֹ לְבָנָֽה׃",
+      "douay_rheims": "The flesh also and skin that hath been burnt, and after it is healed hath a white or a red scar:",
+      "finnish_biblia": "Ja jos jonkun iho tulee rupiin tulen poltteesta ja polton haavat ovat punaiset taikka valkiat, ",
       "king_james": "Or if there be any flesh, in the skin whereof there is a hot burning, and the quick flesh that burneth have a white bright spot, somewhat reddish, or white;"
     },
     {
       "verse": 25,
       "latin_vulgate": "considerabit eam sacerdos : et ecce versa est in alborem, et locus ejus reliqua cute est humilior, contaminabit eum, quia plaga lepræ in cicatrice orta est. ",
       "hebrew_masoretic": "וְרָאָ֣ה אֹתָ֣הּ הַכֹּהֵ֡ן וְהִנֵּ֣ה נֶהְפַּךְ֩ שֵׂעָ֨ר לָבָ֜ן בַּבַּהֶ֗רֶת וּמַרְאֶ֙הָ֙ עָמֹ֣ק מִן־הָע֔וֹר צָרַ֣עַת הִ֔וא בַּמִּכְוָ֖ה פָּרָ֑חָה וְטִמֵּ֤א אֹתוֹ֙ הַכֹּהֵ֔ן נֶ֥גַע צָרַ֖עַת הִֽוא׃",
+      "douay_rheims": "The priest shall view it, and if he see it turned white, and the place thereof is lower than the other skin: he shall declare him unclean, because the evil of leprosy is broken out in the scar.",
+      "finnish_biblia": "Ja pappi näkee sen karvat muuttuneeksi valkiaksi, siitä kuin palanut on, ja matalammaksi muuta ihoa, niin on spitali tullut siitä poltteesta: sentähden pitää papin tuomitseman hänen saastaiseksi; sillä se on spitalin haava. ",
       "king_james": "Then the priest shall look upon it: and, behold, if the hair in the bright spot be turned white, and it be in sight deeper than the skin; it is a leprosy broken out of the burning: wherefore the priest shall pronounce him unclean: it is the plague of leprosy."
     },
     {
       "verse": 26,
       "latin_vulgate": "Quod si pilorum color non fuerit immutatus, nec humilior plaga carne reliqua, et ipsa lepræ species fuerit subobscura, recludet eum septem diebus, ",
       "hebrew_masoretic": "וְאִ֣ם ׀ יִרְאֶ֣נָּה הַכֹּהֵ֗ן וְהִנֵּ֤ה אֵֽין־בַּבַּהֶ֙רֶת֙ שֵׂעָ֣ר לָבָ֔ן וּשְׁפָלָ֥הֿ אֵינֶ֛נָּה מִן־הָע֖וֹר וְהִ֣וא כֵהָ֑ה וְהִסְגִּיר֥וֹ הַכֹּהֵ֖ן שִׁבְעַ֥ת יָמִֽים׃",
+      "douay_rheims": "But if the colour of the hair be not changed, nor the blemish lower than the other flesh, and the appearance of the leprosy be somewhat obscure: he shall shut him up seven days,",
+      "finnish_biblia": "Mutta jos pappi näkee, ettei karvat palaneessa ole muuttuneet valkiaksi, eikä matalammaksi ole tullut muuta ihoa, ja on siitä kadonnut, niin pitää papin sulkeman hänen sisälle seitsemäksi päiväksi. ",
       "king_james": "But if the priest look on it, and, behold, there be no white hair in the bright spot, and it be no lower than the other skin, but be somewhat dark; then the priest shall shut him up seven days:"
     },
     {
       "verse": 27,
       "latin_vulgate": "et die septimo contemplabitur : si creverit in cute lepra, contaminabit eum. ",
       "hebrew_masoretic": "וְרָאָ֥הוּ הַכֹּהֵ֖ן בַּיּ֣וֹם הַשְּׁבִיעִ֑י אִם־פָּשֹׂ֤ה תִפְשֶׂה֙ בָּע֔וֹר וְטִמֵּ֤א הַכֹּהֵן֙ אֹת֔וֹ נֶ֥גַע צָרַ֖עַת הִֽוא׃",
+      "douay_rheims": "And on the seventh day he shall view him. If the leprosy be grown farther in the skin, he shall declare him unclean.",
+      "finnish_biblia": "Ja seitsemäntenä päivänä pitää papin katseleman häntä: jos se on paljo levinnyt hänessä, niin papin pitää tuomitseman hänen saastaiseksi; sillä se on spitali. ",
       "king_james": "And the priest shall look upon him the seventh day: and if it be spread much abroad in the skin, then the priest shall pronounce him unclean: it is the plague of leprosy."
     },
     {
       "verse": 28,
       "latin_vulgate": "Sin autem in loco suo candor steterit non satis clarus, plaga combustionis est, et idcirco mundabitur, quia cicatrix est combusturæ.  ",
       "hebrew_masoretic": "וְאִם־תַּחְתֶּ֩יהָ֩ תַעֲמֹ֨ד הַבַּהֶ֜רֶת לֹא־פָשְׂתָ֤ה בָעוֹר֙ וְהִ֣וא כֵהָ֔ה שְׂאֵ֥ת הַמִּכְוָ֖ה הִ֑וא וְטִֽהֲרוֹ֙ הַכֹּהֵ֔ן כִּֽי־צָרֶ֥בֶת הַמִּכְוָ֖ה הִֽוא׃ {פ}",
+      "douay_rheims": "But if the whiteness stay in its place, and be not very clear, it is the sore of a burning: and therefore he shall be cleansed, because it is only the scar of a burning.",
+      "finnish_biblia": "Mutta jos se on alallansa pysynyt palaneessa, eikä ole levinnyt hänen ihossansa, mutta on kadonnut, niin se on arpi palaneen jälkeen, ja papin pitää tuomitseman hänen puhtaaksi; sillä se on arpi palaneen jälkeen. ",
       "king_james": "And if the bright spot stay in his place, and spread not in the skin, but it be somewhat dark; it is a rising of the burning, and the priest shall pronounce him clean: for it is an inflammation of the burning."
     },
     {
       "verse": 29,
       "latin_vulgate": " Vir, sive mulier, in cujus capite vel barba germinaverit lepra, videbit eos sacerdos. ",
       "hebrew_masoretic": "וְאִישׁ֙ א֣וֹ אִשָּׁ֔ה כִּֽי־יִהְיֶ֥ה ב֖וֹ נָ֑גַע בְּרֹ֖אשׁ א֥וֹ בְזָקָֽן׃",
+      "douay_rheims": "If the leprosy break out in the head or the beard of a man or woman, the priest shall see them,",
+      "finnish_biblia": "Jos mieheen eli vaimoon tulee syhelmä, päähän eli partaan, ",
       "king_james": "If a man or woman have a plague upon the head or the beard;"
     },
     {
       "verse": 30,
       "latin_vulgate": "Et si quidem humilior fuerit locus carne reliqua, et capillus flavus, solitoque subtilior, contaminabit eos, quia lepra capitis ac barbæ est. ",
       "hebrew_masoretic": "וְרָאָ֨ה הַכֹּהֵ֜ן אֶת־הַנֶּ֗גַע וְהִנֵּ֤ה מַרְאֵ֙הוּ֙ עָמֹ֣ק מִן־הָע֔וֹר וּב֛וֹ שֵׂעָ֥ר צָהֹ֖ב דָּ֑ק וְטִמֵּ֨א אֹת֤וֹ הַכֹּהֵן֙ נֶ֣תֶק ה֔וּא צָרַ֧עַת הָרֹ֛אשׁ א֥וֹ הַזָּקָ֖ן הֽוּא׃",
+      "douay_rheims": "And if the place be lower than the other flesh, and the hair yellow, and thinner than usual: he shall declare them unclean, because it is the leprosy of the head and the beard;",
+      "finnish_biblia": "Ja pappi katsoo sen ruven ja näkee sen matalammaksi muuta ihoa, ja karvat tulevat siitä paikasta keltaiseksi ja harvemmaksi, niin papin pitää tuomitseman sen saastaiseksi; sillä se on rupi, se on spitali päässä eli parrassa. ",
       "king_james": "Then the priest shall see the plague: and, behold, if it be in sight deeper than the skin; and there be in it a yellow thin hair; then the priest shall pronounce him unclean: it is a dry scall, even a leprosy upon the head or beard."
     },
     {
       "verse": 31,
       "latin_vulgate": "Sin autem viderit locum maculæ æqualem vicinæ carni, et capillum nigrum : recludet eum septem diebus, ",
       "hebrew_masoretic": "וְכִֽי־יִרְאֶ֨ה הַכֹּהֵ֜ן אֶת־נֶ֣גַע הַנֶּ֗תֶק וְהִנֵּ֤ה אֵין־מַרְאֵ֙הוּ֙ עָמֹ֣ק מִן־הָע֔וֹר וְשֵׂעָ֥ר שָׁחֹ֖ר אֵ֣ין בּ֑וֹ וְהִסְגִּ֧יר הַכֹּהֵ֛ן אֶת־נֶ֥גַע הַנֶּ֖תֶק שִׁבְעַ֥ת יָמִֽים׃",
+      "douay_rheims": "But if he perceive the place of the spot is equal with the flesh that is near it, and the hair black: he shall shut him up seven days,",
+      "finnish_biblia": "Mutta jos pappi näkee, ettei se rupi ole matalampi muuta ihoa, ja karvat ei ole hänessä mustat, niin pitää papin sulkeman hänen, jolla rupihaava on, sisälle seitsemäksi päiväksi. ",
       "king_james": "And if the priest look on the plague of the scall, and, behold, it be not in sight deeper than the skin, and that there is no black hair in it; then the priest shall shut up him that hath the plague of the scall seven days:"
     },
     {
       "verse": 32,
       "latin_vulgate": "et die septimo intuebitur. Si non creverit macula, et capillus sui coloris est, et locus plagæ carni reliquæ æqualis : ",
       "hebrew_masoretic": "וְרָאָ֨ה הַכֹּהֵ֣ן אֶת־הַנֶּ֘גַע֮ בַּיּ֣וֹם הַשְּׁבִיעִי֒ וְהִנֵּה֙ לֹא־פָשָׂ֣ה הַנֶּ֔תֶק וְלֹא־הָ֥יָה ב֖וֹ שֵׂעָ֣ר צָהֹ֑ב וּמַרְאֵ֣ה הַנֶּ֔תֶק אֵ֥ין עָמֹ֖ק מִן־הָעֽוֹר׃",
+      "douay_rheims": "And on the seventh day he shall look upon it. If the spot be not grown, and the hair keep its colour, and the place of the blemish be even with the other flesh:",
+      "finnish_biblia": "Ja koska pappi seitsemäntenä päivänä näkee, ettei rupi ole levinnyt ihossa, eikä ole keltaisia karvoja, ja ei ole rupi matalampi nähdä muuta ihoa, ",
       "king_james": "And in the seventh day the priest shall look on the plague: and, behold, if the scall spread not, and there be in it no yellow hair, and the scall be not in sight deeper than the skin;"
     },
     {
       "verse": 33,
       "latin_vulgate": "radetur homo absque loco maculæ, et includetur septem diebus aliis. ",
       "hebrew_masoretic": "וְהִ֨תְגַּלָּ֔ח וְאֶת־הַנֶּ֖תֶק לֹ֣א יְגַלֵּ֑חַ וְהִסְגִּ֨יר הַכֹּהֵ֧ן אֶת־הַנֶּ֛תֶק שִׁבְעַ֥ת יָמִ֖ים שֵׁנִֽית׃",
+      "douay_rheims": "The man shall be shaven all but the place of the spot: and he shall be shut up other seven days.",
+      "finnish_biblia": "Pitää hänen ajeleman itsensä, kuitenkin ettei hän ajele rupea ja papin pitää hänen, jolla rupi on, sulkeman sisälle toiseksi seitsemäksi päiväksi; ",
       "king_james": "He shall be shaven, but the scall shall he not shave; and the priest shall shut up him that hath the scall seven days more:"
     },
     {
       "verse": 34,
       "latin_vulgate": "Si die septimo visa fuerit stetisse plaga in loco suo, nec humilior carne reliqua, mundabit eum : lotisque vestibus suis, mundus erit. ",
       "hebrew_masoretic": "וְרָאָה֩ הַכֹּהֵ֨ן אֶת־הַנֶּ֜תֶק בַּיּ֣וֹם הַשְּׁבִיעִ֗י וְ֠הִנֵּ֠ה לֹא־פָשָׂ֤ה הַנֶּ֙תֶק֙ בָּע֔וֹר וּמַרְאֵ֕הוּ אֵינֶ֥נּוּ עָמֹ֖ק מִן־הָע֑וֹר וְטִהַ֤ר אֹתוֹ֙ הַכֹּהֵ֔ן וְכִבֶּ֥ס בְּגָדָ֖יו וְטָהֵֽר׃",
+      "douay_rheims": "If on the seventh day the evil seem to have stayed in its place, and not lower than the other flesh, he shall cleanse him: and his clothes being washed he shall be clean.",
+      "finnish_biblia": "Ja koska pappi seitsemäntenä päivänä näkee ruven, ja löytää, ettei rupi ole levinnyt ihossa, ja ei ole matalampi muuta ihoa, niin papin pitää tuomitseman hänen puhtaaksi, ja hänen pitää pesemän vaatteensa, ja niin puhdas oleman. ",
       "king_james": "And in the seventh day the priest shall look on the scall: and, behold, if the scall be not spread in the skin, nor be in sight deeper than the skin; then the priest shall pronounce him clean: and he shall wash his clothes, and be clean."
     },
     {
       "verse": 35,
       "latin_vulgate": "Sin autem post emundationem rursus creverit macula in cute, ",
       "hebrew_masoretic": "וְאִם־פָּשֹׂ֥ה יִפְשֶׂ֛ה הַנֶּ֖תֶק בָּע֑וֹר אַחֲרֵ֖י טׇהֳרָתֽוֹ׃",
+      "douay_rheims": "But if after his cleansing the spot spread again in the skin:",
+      "finnish_biblia": "Mutta jos rupi kovin levittää itsensä ihoon hänen puhdistuksensa jälkeen, ",
       "king_james": "But if the scall spread much in the skin after his cleansing;"
     },
     {
       "verse": 36,
       "latin_vulgate": "non quæret amplius utrum capillus in flavum colorem sit immutatus, quia aperte immundus est. ",
       "hebrew_masoretic": "וְרָאָ֙הוּ֙ הַכֹּהֵ֔ן וְהִנֵּ֛ה פָּשָׂ֥ה הַנֶּ֖תֶק בָּע֑וֹר לֹֽא־יְבַקֵּ֧ר הַכֹּהֵ֛ן לַשֵּׂעָ֥ר הַצָּהֹ֖ב טָמֵ֥א הֽוּא׃",
+      "douay_rheims": "He shall seek no more whether the hair be turned yellow, because he is evidently unclean.",
+      "finnish_biblia": "Ja pappi näkee ruven levinneeksi ihossa, niin ei pidä papin silleen kysymän, jos karvat ovat keltaiset; sillä hän on saastainen. ",
       "king_james": "Then the priest shall look on him: and, behold, if the scall be spread in the skin, the priest shall not seek for yellow hair; he is unclean."
     },
     {
       "verse": 37,
       "latin_vulgate": "Porro si steterit macula, et capilli nigri fuerint, noverit hominem sanatum esse, et confidenter eum pronuntiet mundum.  ",
       "hebrew_masoretic": "וְאִם־בְּעֵינָיו֩ עָמַ֨ד הַנֶּ֜תֶק וְשֵׂעָ֨ר שָׁחֹ֧ר צָֽמַח־בּ֛וֹ נִרְפָּ֥א הַנֶּ֖תֶק טָה֣וֹר ה֑וּא וְטִהֲר֖וֹ הַכֹּהֵֽן׃ {ס}",
+      "douay_rheims": "But if the spot be stayed, and the hair be black, let him know that the man is healed: and let him confidently pronounce him clean.",
+      "finnish_biblia": "Jos se on silmäin edessä nähdä, että rupi on yhdellänsä ollut, ja siitä ovat mustat karvat käyneet ulos, niin rupi on parantunut, ja hän on puhdas: sentähden pitää papin hänen puhtaaksi sanoman. ",
       "king_james": "But if the scall be in his sight at a stay, and that there is black hair grown up therein; the scall is healed, he is clean: and the priest shall pronounce him clean."
     },
     {
       "verse": 38,
       "latin_vulgate": " Vir, sive mulier, in cujus cute candor apparuerit, ",
       "hebrew_masoretic": "וְאִישׁ֙ אֽוֹ־אִשָּׁ֔ה כִּֽי־יִהְיֶ֥ה בְעוֹר־בְּשָׂרָ֖ם בֶּהָרֹ֑ת בֶּהָרֹ֖ת לְבָנֹֽת׃",
+      "douay_rheims": "If a whiteness appear in the skin of a man or a woman,",
+      "finnish_biblia": "Ja jos miehen eli vaimon ihoon tulee valkia syhelmä, ",
       "king_james": "If a man also or a woman have in the skin of their flesh bright spots, even white bright spots;"
     },
     {
       "verse": 39,
       "latin_vulgate": "intuebitur eos sacerdos. Si deprehenderit subobscurum alborem lucere in cute, sciat non esse lepram, sed maculam coloris candidi, et hominem mundum.  ",
       "hebrew_masoretic": "וְרָאָ֣ה הַכֹּהֵ֗ן וְהִנֵּ֧ה בְעוֹר־בְּשָׂרָ֛ם בֶּהָרֹ֖ת כֵּה֣וֹת לְבָנֹ֑ת בֹּ֥הַק ה֛וּא פָּרַ֥ח בָּע֖וֹר טָה֥וֹר הֽוּא׃ {ס}",
+      "douay_rheims": "The priest shall view them. If he find that a darkish whiteness shineth in the skin, let him know that it is not the leprosy, but a white blemish, and that the man is clean.",
+      "finnish_biblia": "Ja pappi näkee sen rauvenneeksi, niin on valkia rupi tullut hänen ihoonsa, ja hän on puhdas. ",
       "king_james": "Then the priest shall look: and, behold, if the bright spots in the skin of their flesh be darkish white; it is a freckled spot that groweth in the skin; he is clean."
     },
     {
       "verse": 40,
       "latin_vulgate": " Vir, de cujus capite capilli fluunt, calvus et mundus est : ",
       "hebrew_masoretic": "וְאִ֕ישׁ כִּ֥י יִמָּרֵ֖ט רֹאשׁ֑וֹ קֵרֵ֥חַ ה֖וּא טָה֥וֹר הֽוּא׃",
+      "douay_rheims": "The man whose hair falleth off from his head, he is bald and clean:",
+      "finnish_biblia": "Jos miehen hiukset päästä lähtevät, niin että hän tulee paljaspääksi, hän on puhdas. ",
       "king_james": "And the man whose hair is fallen off his head, he is bald; yet is he clean."
     },
     {
       "verse": 41,
       "latin_vulgate": "et si a fronte ceciderint pili, recalvaster et mundus est. ",
       "hebrew_masoretic": "וְאִם֙ מִפְּאַ֣ת פָּנָ֔יו יִמָּרֵ֖ט רֹאשׁ֑וֹ גִּבֵּ֥חַ ה֖וּא טָה֥וֹר הֽוּא׃",
+      "douay_rheims": "And if the hair fall from his forehead, he is bald before and clean.",
+      "finnish_biblia": "Ja jos ne etiseltä puolelta päätä lähtevät, niin hän on otsalta paljas, ja on puhdas. ",
       "king_james": "And he that hath his hair fallen off from the part of his head toward his face, he is forehead bald: yet is he clean."
     },
     {
       "verse": 42,
       "latin_vulgate": "Sin autem in calvitio sive in recalvatione albus vel rufus color fuerit exortus, ",
       "hebrew_masoretic": "וְכִֽי־יִהְיֶ֤ה בַקָּרַ֙חַת֙ א֣וֹ בַגַּבַּ֔חַת נֶ֖גַע לָבָ֣ן אֲדַמְדָּ֑ם צָרַ֤עַת פֹּרַ֙חַת֙ הִ֔וא בְּקָרַחְתּ֖וֹ א֥וֹ בְגַבַּחְתּֽוֹ׃",
+      "douay_rheims": "But if in the bald head or in the bald forehead there be risen a white or reddish colour:",
+      "finnish_biblia": "Mutta jos joku valkea taikka punainen haava tulee paljaan päälle, niin on siihen spitali tullut paljaan pään eli otsan päälle; ",
       "king_james": "And if there be in the bald head, or bald forehead, a white reddish sore; it is a leprosy sprung up in his bald head, or his bald forehead."
     },
     {
       "verse": 43,
       "latin_vulgate": "et hoc sacerdos viderit, condemnabit eum haud dubiæ lepræ, quæ orta est in calvitio. ",
       "hebrew_masoretic": "וְרָאָ֨ה אֹת֜וֹ הַכֹּהֵ֗ן וְהִנֵּ֤ה שְׂאֵת־הַנֶּ֙גַע֙ לְבָנָ֣ה אֲדַמְדֶּ֔מֶת בְּקָרַחְתּ֖וֹ א֣וֹ בְגַבַּחְתּ֑וֹ כְּמַרְאֵ֥ה צָרַ֖עַת ע֥וֹר בָּשָֽׂר׃",
+      "douay_rheims": "And the priest perceive this, he shall condemn him undoubtedly of leprosy which is risen in the bald part.",
+      "finnish_biblia": "Sentähden pitää papin katsoman häntä, ja koska hän näkee valkian eli punaisen haavan tulleen paljaan pään eli otsan päälle, että se näkyy niinkuin muukin spitali ihossa, ",
       "king_james": "Then the priest shall look upon it: and, behold, if the rising of the sore be white reddish in his bald head, or in his bald forehead, as the leprosy appeareth in the skin of the flesh;"
     },
     {
       "verse": 44,
       "latin_vulgate": "Quicumque ergo maculatus fuerit lepra, et separatus est ad arbitrium sacerdotis, ",
       "hebrew_masoretic": "אִישׁ־צָר֥וּעַ ה֖וּא טָמֵ֣א ה֑וּא טַמֵּ֧א יְטַמְּאֶ֛נּוּ הַכֹּהֵ֖ן בְּרֹאשׁ֥וֹ נִגְעֽוֹ׃",
+      "douay_rheims": "Now whosoever shall be defiled with the leprosy, and is separated by the judgment of the priest:",
+      "finnish_biblia": "Niin hän on spitalinen ja saastainen mies, ja papin pitää kaiketi tuomitseman hänen saastaiseksi, senkaltaisen haavan tähden hänen päässänsä. ",
       "king_james": "He is a leprous man, he is unclean: the priest shall pronounce him utterly unclean; his plague is in his head."
     },
     {
       "verse": 45,
       "latin_vulgate": "habebit vestimenta dissuta, caput nudum, os veste contectum, contaminatum ac sordidum se clamabit. ",
       "hebrew_masoretic": "וְהַצָּר֜וּעַ אֲשֶׁר־בּ֣וֹ הַנֶּ֗גַע בְּגָדָ֞יו יִהְי֤וּ פְרֻמִים֙ וְרֹאשׁוֹ֙ יִהְיֶ֣ה פָר֔וּעַ וְעַל־שָׂפָ֖ם יַעְטֶ֑ה וְטָמֵ֥א ׀ טָמֵ֖א יִקְרָֽא׃",
+      "douay_rheims": "Shall have his clothes hanging loose, his head bare, his mouth covered with a cloth: and he shall cry out that he is defiled and unclean.",
+      "finnish_biblia": "Joka spitalinen on, hänen vaatteensa pitää revityt oleman, ja pää avoin, suu peitetty, ja hänen pitää huutaman: saastainen! saastainen! ",
       "king_james": "And the leper in whom the plague is, his clothes shall be rent, and his head bare, and he shall put a covering upon his upper lip, and shall cry, Unclean, unclean."
     },
     {
       "verse": 46,
       "latin_vulgate": "Omni tempore quo leprosus est et immundus, solus habitabit extra castra.  ",
       "hebrew_masoretic": "כׇּל־יְמֵ֞י אֲשֶׁ֨ר הַנֶּ֥גַע בּ֛וֹ יִטְמָ֖א טָמֵ֣א ה֑וּא בָּדָ֣ד יֵשֵׁ֔ב מִח֥וּץ לַֽמַּחֲנֶ֖ה מוֹשָׁבֽוֹ׃ {ס}",
+      "douay_rheims": "All the time that he is a leper and unclean he shall dwell alone without the camp.",
+      "finnish_biblia": "Niinkauvan kuin haava hänessä on, pitää hänen saastainen oleman, yksinänsä asuman ja hänen asuinsiansa ulkona leiristä oleman. ",
       "king_james": "All the days wherein the plague shall be in him he shall be defiled; he is unclean: he shall dwell alone; without the camp shall his habitation be."
     },
     {
       "verse": 47,
       "latin_vulgate": " Vestis lanea sive linea, quæ lepram habuerit, ",
       "hebrew_masoretic": "וְהַבֶּ֕גֶד כִּֽי־יִהְיֶ֥ה ב֖וֹ נֶ֣גַע צָרָ֑עַת בְּבֶ֣גֶד צֶ֔מֶר א֖וֹ בְּבֶ֥גֶד פִּשְׁתִּֽים׃",
+      "douay_rheims": "A woollen or linen garment that shall have the leprosy",
+      "finnish_biblia": "Jos jonkun vaatteeseen tulee tulee spitalin haava, olkoon se lankainen eli liinainen, ",
       "king_james": "The garment also that the plague of leprosy is in, whether it be a woollen garment, or a linen garment;"
     },
     {
       "verse": 48,
       "latin_vulgate": "in stamine atque subtegmine, aut certe pellis, vel quidquid ex pelle confectum est, ",
       "hebrew_masoretic": "א֤וֹ בִֽשְׁתִי֙ א֣וֹ בְעֵ֔רֶב לַפִּשְׁתִּ֖ים וְלַצָּ֑מֶר א֣וֹ בְע֔וֹר א֖וֹ בְּכׇל־מְלֶ֥אכֶת עֽוֹר׃",
+      "douay_rheims": "In the warp, and the woof: or skin, or whatsoever is made of a skin:",
+      "finnish_biblia": "Loimeen eli kuteesen, olkoon se liinainen eli villainen, elikkä nahkaan, elikkä kaikkinaiseen nahkavaatteeseen: ",
       "king_james": "Whether it be in the warp, or woof; of linen, or of woollen; whether in a skin, or in any thing made of skin;"
     },
     {
       "verse": 49,
       "latin_vulgate": "si alba vel rufa macula fuerit infecta, lepra reputabitur, ostendeturque sacerdoti : ",
       "hebrew_masoretic": "וְהָיָ֨ה הַנֶּ֜גַע יְרַקְרַ֣ק ׀ א֣וֹ אֲדַמְדָּ֗ם בַּבֶּ֩גֶד֩ א֨וֹ בָע֜וֹר אֽוֹ־בַשְּׁתִ֤י אוֹ־בָעֵ֙רֶב֙ א֣וֹ בְכׇל־כְּלִי־ע֔וֹר נֶ֥גַע צָרַ֖עַת ה֑וּא וְהׇרְאָ֖ה אֶת־הַכֹּהֵֽן׃",
+      "douay_rheims": "If it be infected with a white or red spot, it shall be accounted the leprosy, and shall be shewn to the priest.",
+      "finnish_biblia": "Ja jos se haava kovin vihertyy, eli paljo punertuu vaatteessa, eli nahassa, eli loimessa, eli kuteessa, eli jossakussa kappaleessa, joka nahasta tehty on, se on spitalin haava; sentähden pitää papin häntä katsoman. ",
       "king_james": "And if the plague be greenish or reddish in the garment, or in the skin, either in the warp, or in the woof, or in any thing of skin; it is a plague of leprosy, and shall be shewed unto the priest:"
     },
     {
       "verse": 50,
       "latin_vulgate": "qui consideratam recludet septem diebus : ",
       "hebrew_masoretic": "וְרָאָ֥ה הַכֹּהֵ֖ן אֶת־הַנָּ֑גַע וְהִסְגִּ֥יר אֶת־הַנֶּ֖גַע שִׁבְעַ֥ת יָמִֽים׃",
+      "douay_rheims": "And he shall look upon it and shall shut it up seven days.",
+      "finnish_biblia": "Ja koska pappi senkaltaisen haavan näkee, niin hänen pitää sen sulkeman sisälle seitsemäksi päiväksi; ",
       "king_james": "And the priest shall look upon the plague, and shut up it that hath the plague seven days:"
     },
     {
       "verse": 51,
       "latin_vulgate": "et die septimo rursus aspiciens, si deprehenderit crevisse, lepra perseverans est : pollutum judicabit vestimentum, et omne in quo fuerit inventa : ",
       "hebrew_masoretic": "וְרָאָ֨ה אֶת־הַנֶּ֜גַע בַּיּ֣וֹם הַשְּׁבִיעִ֗י כִּֽי־פָשָׂ֤ה הַנֶּ֙גַע֙ בַּ֠בֶּ֠גֶד אֽוֹ־בַשְּׁתִ֤י אֽוֹ־בָעֵ֙רֶב֙ א֣וֹ בָע֔וֹר לְכֹ֛ל אֲשֶׁר־יֵעָשֶׂ֥ה הָע֖וֹר לִמְלָאכָ֑ה צָרַ֧עַת מַמְאֶ֛רֶת הַנֶּ֖גַע טָמֵ֥א הֽוּא׃",
+      "douay_rheims": "And on the seventh day when he looketh on it again, if he find that it is grown, it is a fixed leprosy. He shall judge the garment unclean, and every thing wherein it shall be found.",
+      "finnish_biblia": "Ja jos hän seitsemäntenä päivänä näkee että haava on levinnyt vaatteessa, loimessa eli kuteessa, nahassa, eli jossakussa kappaleessa joka nahasta tehty on, niin on se kuluttavainen spitali, ja se haava on saastainen. ",
       "king_james": "And he shall look on the plague on the seventh day: if the plague be spread in the garment, either in the warp, or in the woof, or in a skin, or in any work that is made of skin; the plague is a fretting leprosy; it is unclean."
     },
     {
       "verse": 52,
       "latin_vulgate": "et idcirco comburetur flammis. ",
       "hebrew_masoretic": "וְשָׂרַ֨ף אֶת־הַבֶּ֜גֶד א֥וֹ אֶֽת־הַשְּׁתִ֣י ׀ א֣וֹ אֶת־הָעֵ֗רֶב בַּצֶּ֙מֶר֙ א֣וֹ בַפִּשְׁתִּ֔ים א֚וֹ אֶת־כׇּל־כְּלִ֣י הָע֔וֹר אֲשֶׁר־יִהְיֶ֥ה ב֖וֹ הַנָּ֑גַע כִּֽי־צָרַ֤עַת מַמְאֶ֙רֶת֙ הִ֔וא בָּאֵ֖שׁ תִּשָּׂרֵֽף׃",
+      "douay_rheims": "And therefore it shall be burnt with fire.",
+      "finnish_biblia": "Ja hänen pitää vaatteet polttaman, loimen ja kuteen, eli mikä se olis, liinainen eli lankainen, eli kaikkinainen joka nahasta tehty on, jossa senkaltainen haava on; sillä se on kuluttavainen spitali, ja pitää tulessa poltettaman. ",
       "king_james": "He shall therefore burn that garment, whether warp or woof, in woollen or in linen, or any thing of skin, wherein the plague is: for it is a fretting leprosy; it shall be burnt in the fire."
     },
     {
       "verse": 53,
       "latin_vulgate": "Quod si eam viderit non crevisse, ",
       "hebrew_masoretic": "וְאִם֮ יִרְאֶ֣ה הַכֹּהֵן֒ וְהִנֵּה֙ לֹא־פָשָׂ֣ה הַנֶּ֔גַע בַּבֶּ֕גֶד א֥וֹ בַשְּׁתִ֖י א֣וֹ בָעֵ֑רֶב א֖וֹ בְּכׇל־כְּלִי־עֽוֹר׃",
+      "douay_rheims": "But if he see that it is not grown,",
+      "finnish_biblia": "Ja jos pappi näkee, ettei haava ole levinnyt vaatteessa, loimessa eli kuteessa, eli kaikkinaisessa kappaleessa joka nahasta on, ",
       "king_james": "And if the priest shall look, and, behold, the plague be not spread in the garment, either in the warp, or in the woof, or in any thing of skin;"
     },
     {
       "verse": 54,
       "latin_vulgate": "præcipiet, et lavabunt id in quo lepra est, recludetque illud septem diebus aliis. ",
       "hebrew_masoretic": "וְצִוָּה֙ הַכֹּהֵ֔ן וְכִ֨בְּס֔וּ אֵ֥ת אֲשֶׁר־בּ֖וֹ הַנָּ֑גַע וְהִסְגִּיר֥וֹ שִׁבְעַת־יָמִ֖ים שֵׁנִֽית׃",
+      "douay_rheims": "He shall give orders, and they shall wash that part wherein the leprosy is: and he shall shut it up other seven days.",
+      "finnish_biblia": "Niin pitää papin käskemän pestä sen, jossa haava on, ja pitää hänen sulkeman sisälle jällensä toiseksi seitsemäksi päiväksi. ",
       "king_james": "Then the priest shall command that they wash the thing wherein the plague is, and he shall shut it up seven days more:"
     },
     {
       "verse": 55,
       "latin_vulgate": "Et cum viderit faciem quidem pristinam non reversam, nec tamen crevisse lepram, immundum judicabit, et igne comburet, eo quod infusa sit in superficie vestimenti, vel per totum, lepra. ",
       "hebrew_masoretic": "וְרָאָ֨ה הַכֹּהֵ֜ן אַחֲרֵ֣י ׀ הֻכַּבֵּ֣ס אֶת־הַנֶּ֗גַע וְ֠הִנֵּ֠ה לֹֽא־הָפַ֨ךְ הַנֶּ֤גַע אֶת־עֵינוֹ֙ וְהַנֶּ֣גַע לֹֽא־פָשָׂ֔ה טָמֵ֣א ה֔וּא בָּאֵ֖שׁ תִּשְׂרְפֶ֑נּוּ פְּחֶ֣תֶת הִ֔וא בְּקָרַחְתּ֖וֹ א֥וֹ בְגַבַּחְתּֽוֹ׃",
+      "douay_rheims": "And when he shall see that the former colour is not returned, nor yet the leprosy spread, he shall judge it unclean: and shall burn it with fire, for the leprosy has taken hold of the outside of the garment, or through the whole.",
+      "finnish_biblia": "Ja koska pappi näkee haavan, sittekuin se pesty on, ettei haava ole muuttunut hänen silmäinsä edessä, eikä myös ole levinnyt, niin se on saastainen, ja pitää tulessa poltettaman; sillä se on syvälle itsensä laskenut, ja on sen paljaaksi kuluttanut. ",
       "king_james": "And the priest shall look on the plague, after that it is washed: and, behold, if the plague have not changed his colour, and the plague be not spread; it is unclean; thou shalt burn it in the fire; it is fret inward, whether it be bare within or without."
     },
     {
       "verse": 56,
       "latin_vulgate": "Sin autem obscurior fuerit locus lepræ, postquam vestis est lota, abrumpet eum, et a solido dividet. ",
       "hebrew_masoretic": "וְאִם֮ רָאָ֣ה הַכֹּהֵן֒ וְהִנֵּה֙ כֵּהָ֣ה הַנֶּ֔גַע אַחֲרֵ֖י הֻכַּבֵּ֣ס אֹת֑וֹ וְקָרַ֣ע אֹת֗וֹ מִן־הַבֶּ֙גֶד֙ א֣וֹ מִן־הָע֔וֹר א֥וֹ מִן־הַשְּׁתִ֖י א֥וֹ מִן־הָעֵֽרֶב׃",
+      "douay_rheims": "But if the place of the leprosy be somewhat dark, after the garment is washed, he shall tear it off, and divide it from that which is sound.",
+      "finnish_biblia": "Jos pappi näkee, ette haava kadonnut on sittekuin se pestiin, niin hänen pitää sen repäisemän pois vaatteesta, nahasta, loimesta eli kuteesta. ",
       "king_james": "And if the priest look, and, behold, the plague be somewhat dark after the washing of it; then he shall rend it out of the garment, or out of the skin, or out of the warp, or out of the woof:"
     },
     {
       "verse": 57,
       "latin_vulgate": "Quod si ultra apparuerit in his locis, quæ prius immaculata erant, lepra volatilis et vaga, debet igne comburi. ",
       "hebrew_masoretic": "וְאִם־תֵּרָאֶ֨ה ע֜וֹד בַּ֠בֶּ֠גֶד אֽוֹ־בַשְּׁתִ֤י אֽוֹ־בָעֵ֙רֶב֙ א֣וֹ בְכׇל־כְּלִי־ע֔וֹר פֹּרַ֖חַת הִ֑וא בָּאֵ֣שׁ תִּשְׂרְפֶ֔נּוּ אֵ֥ת אֲשֶׁר־בּ֖וֹ הַנָּֽגַע׃",
+      "douay_rheims": "And if after this there appear in those places that before were without spot, a flying and wandering leprosy: it must be burnt with fire.",
+      "finnish_biblia": "Ja jos se vielä sitte näkyy vaatteessa, loimessa, kuteessa eli kaikkinaisessa nahkavaatteessa, niin se on pisama, ja se pitää poltettaman tulessa ynnä sen kanssa, jossa se haava on. ",
       "king_james": "And if it appear still in the garment, either in the warp, or in the woof, or in any thing of skin; it is a spreading plague: thou shalt burn that wherein the plague is with fire."
     },
     {
       "verse": 58,
       "latin_vulgate": "Si cessaverit, lavabit aqua ea, quæ pura sunt, secundo, et munda erunt. ",
       "hebrew_masoretic": "וְהַבֶּ֡גֶד אֽוֹ־הַשְּׁתִ֨י אוֹ־הָעֵ֜רֶב אֽוֹ־כׇל־כְּלִ֤י הָעוֹר֙ אֲשֶׁ֣ר תְּכַבֵּ֔ס וְסָ֥ר מֵהֶ֖ם הַנָּ֑גַע וְכֻבַּ֥ס שֵׁנִ֖ית וְטָהֵֽר׃",
+      "douay_rheims": "If it cease, he shall wash with water the parts that are pure, the second time: and they shall be clean.",
+      "finnish_biblia": "Mutta vaate, loimi, kude, eli kaikkinainen nahkakalu, kuin pesty on, joista haava kadonnut on; se pitää vastuudesta pestämän ja puhdas oleman. ",
       "king_james": "And the garment, either warp, or woof, or whatsoever thing of skin it be, which thou shalt wash, if the plague be departed from them, then it shall be washed the second time, and shall be clean."
     },
     {
       "verse": 59,
       "latin_vulgate": "Ista est lex lepræ vestimenti lanei et linei, staminis, atque subtegminis, omnisque supellectilis pelliceæ, quomodo mundari debeat, vel contaminari.   ",
       "hebrew_masoretic": "זֹ֠את תּוֹרַ֨ת נֶֽגַע־צָרַ֜עַת בֶּ֥גֶד הַצֶּ֣מֶר ׀ א֣וֹ הַפִּשְׁתִּ֗ים א֤וֹ הַשְּׁתִי֙ א֣וֹ הָעֵ֔רֶב א֖וֹ כׇּל־כְּלִי־ע֑וֹר לְטַהֲר֖וֹ א֥וֹ לְטַמְּאֽוֹ׃ {פ}",
+      "douay_rheims": "This is the law touching the leprosy of any woollen or linen garment, either in the warp or woof, or any thing of skins: how it ought to be cleaned, or pronounced unclean. ",
+      "finnish_biblia": "Tämä on sääty spitalisesta ruvesta vaatteessa, liinaisessa, lankaisessa loimessa eli kuteessa, ja kaikkinaisessa nahkavaatteessa: niitä puhtaaksi eli saastaiseksi sanoa.   ",
       "king_james": "This is the law of the plague of leprosy in a garment of woollen or linen, either in the warp, or woof, or any thing of skins, to pronounce it clean, or to pronounce it unclean. "
     }
   ]

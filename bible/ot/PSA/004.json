@@ -2,6 +2,8 @@
   "book_id": "PSA",
   "latin_name": "Liber Psalmorum",
   "hebrew_name": "תְּהִלִּים",
+  "douay_name": "Psalms",
+  "finnish_name": "Psalmit",
   "english_name": "Psalms",
   "chapter": 4,
   "verses": [
@@ -9,12 +11,17 @@
       "verse": 1,
       "latin_vulgate": "  Cum invocarem exaudivit me Deus justitiæ meæ,  in tribulatione dilatasti mihi.  Miserere mei, et exaudi orationem meam. ",
       "hebrew_masoretic": "בְּקׇרְאִ֡י עֲנֵ֤נִי ׀ אֱלֹ֘הֵ֤י צִדְקִ֗י בַּ֭צָּר הִרְחַ֣בְתָּ לִּ֑י חׇ֝נֵּ֗נִי וּשְׁמַ֥ע תְּפִלָּתִֽי׃",
+      "douay_rheims": "When I called upon him, the God of my justice heard me: when I was in distress, thou hast enlarged me. Have mercy on me: and hear my prayer.",
+      "finnish_biblia": "Davidin Psalmi, edelläveisaajalle, kanteleilla. (H 4:2) Rukoillessani kuule minua, vanhurskauteni Jumala, joka minua lohdutat ahdistuksessani: ole minulle armollinen, ja kuule rukoukseni. ",
       "king_james": "Hear me when I call, O God of my righteousness: thou hast enlarged me when I was in distress; have mercy upon me, and hear my prayer.",
       "refs": {
         "latin_vulgate": {
           "src": "4:2"
         },
         "hebrew_masoretic": {
+          "src": "4:2"
+        },
+        "douay_rheims": {
           "src": "4:2"
         }
       }
@@ -23,12 +30,17 @@
       "verse": 2,
       "latin_vulgate": " Filii hominum, usquequo gravi corde ?  ut quid diligitis vanitatem, et quæritis mendacium ? ",
       "hebrew_masoretic": "בְּנֵ֥י אִ֡ישׁ עַד־מֶ֬ה כְבוֹדִ֣י לִ֭כְלִמָּה תֶּאֱהָב֣וּן רִ֑יק תְּבַקְשׁ֖וּ כָזָ֣ב סֶֽלָה׃",
+      "douay_rheims": "O ye sons of men, how long will you be dull of heart? why do you love vanity, and seek after lying?",
+      "finnish_biblia": "(H 4:3) Te uljaat miehet, kuinka kauvan pitää minun kunniani pilkattaman? miksi te rakastatte turhuutta ja kysytte valhetta? Sela! ",
       "king_james": "O ye sons of men, how long will ye turn my glory into shame? how long will ye love vanity, and seek after leasing? Selah.",
       "refs": {
         "latin_vulgate": {
           "src": "4:3"
         },
         "hebrew_masoretic": {
+          "src": "4:3"
+        },
+        "douay_rheims": {
           "src": "4:3"
         }
       }
@@ -37,12 +49,17 @@
       "verse": 3,
       "latin_vulgate": " Et scitote quoniam mirificavit Dominus sanctum suum ;  Dominus exaudiet me cum clamavero ad eum. ",
       "hebrew_masoretic": "וּדְע֗וּ כִּֽי־הִפְלָ֣ה יְ֭הֹוָה חָסִ֣יד ל֑וֹ יְהֹוָ֥ה יִ֝שְׁמַ֗ע בְּקׇרְאִ֥י אֵלָֽיו׃",
+      "douay_rheims": "Know ye also that the Lord hath made his holy one wonderful: the Lord will hear me when I shall cry unto him.",
+      "finnish_biblia": "(H 4:4) Niin tuntekaat, että Herra vie pyhänsä ihmeellisesti: Herra kuulee, kuin minä häntä rukoilen. ",
       "king_james": "But know that the Lord hath set apart him that is godly for himself: the Lord will hear when I call unto him.",
       "refs": {
         "latin_vulgate": {
           "src": "4:4"
         },
         "hebrew_masoretic": {
+          "src": "4:4"
+        },
+        "douay_rheims": {
           "src": "4:4"
         }
       }
@@ -51,12 +68,17 @@
       "verse": 4,
       "latin_vulgate": " Irascimini, et nolite peccare ;  quæ dicitis in cordibus vestris, in cubilibus vestris compungimini. ",
       "hebrew_masoretic": "רִגְז֗וּ וְֽאַל־תֶּ֫חֱטָ֥אוּ אִמְר֣וּ בִ֭לְבַבְכֶם עַֽל־מִשְׁכַּבְכֶ֗ם וְדֹ֣מּוּ סֶֽלָה׃",
+      "douay_rheims": "Be ye angry, and sin not: the things you say in your hearts, be sorry for them upon your beds.",
+      "finnish_biblia": "(H 4:5) Jos te vihastutte, niin älkäät syntiä tehkö: puhukaat sydämissänne, teidän vuoteissanne, ja odottakaat, Sela! ",
       "king_james": "Stand in awe, and sin not: commune with your own heart upon your bed, and be still. Selah.",
       "refs": {
         "latin_vulgate": {
           "src": "4:5"
         },
         "hebrew_masoretic": {
+          "src": "4:5"
+        },
+        "douay_rheims": {
           "src": "4:5"
         }
       }
@@ -65,12 +87,17 @@
       "verse": 5,
       "latin_vulgate": " Sacrificate sacrificium justitiæ, et sperate in Domino.  Multi dicunt : Quis ostendit nobis bona ? ",
       "hebrew_masoretic": "זִבְח֥וּ זִבְחֵי־צֶ֑דֶק וּ֝בִטְח֗וּ אֶל־יְהֹוָֽה׃",
+      "douay_rheims": "Offer up the sacrifice of justice, and trust in the Lord: many say, Who sheweth us good things?",
+      "finnish_biblia": "(H 4:6) Uhratkaat vanhurskauden uhria, ja toivokaat Herran päälle. ",
       "king_james": "Offer the sacrifices of righteousness, and put your trust in the Lord.",
       "refs": {
         "latin_vulgate": {
           "src": "4:6"
         },
         "hebrew_masoretic": {
+          "src": "4:6"
+        },
+        "douay_rheims": {
           "src": "4:6"
         }
       }
@@ -79,12 +106,17 @@
       "verse": 6,
       "latin_vulgate": " Signatum est super nos lumen vultus tui, Domine :  dedisti lætitiam in corde meo. ",
       "hebrew_masoretic": "רַבִּ֥ים אֹמְרִים֮ מִֽי־יַרְאֵ֢נ֫וּ ט֥וֹב נְֽסָה־עָ֭לֵינוּ א֨וֹר פָּנֶ֬יךָ יְהֹוָֽה׃",
+      "douay_rheims": "The light of thy countenance, O Lord, is signed upon us: thou hast given gladness in my heart.",
+      "finnish_biblia": "(H 4:7) Moni sanoo: kuka osoittais meille hyvää? Mutta nosta sinä Herra meidän päällemme sinun kasvois paiste. ",
       "king_james": "There be many that say, Who will shew us any good? Lord, lift thou up the light of thy countenance upon us.",
       "refs": {
         "latin_vulgate": {
           "src": "4:7"
         },
         "hebrew_masoretic": {
+          "src": "4:7"
+        },
+        "douay_rheims": {
           "src": "4:7"
         }
       }
@@ -93,12 +125,17 @@
       "verse": 7,
       "latin_vulgate": " A fructu frumenti, vini, et olei sui, multiplicati sunt. ",
       "hebrew_masoretic": "נָתַ֣תָּה שִׂמְחָ֣ה בְלִבִּ֑י מֵעֵ֬ת דְּגָנָ֖ם וְתִירוֹשָׁ֣ם רָֽבּוּ׃",
+      "douay_rheims": "By the fruit of their corn, their wine, and oil, they are multiplied:",
+      "finnish_biblia": "(H 4:8) Sinä ilahutat minun sydämeni; ehkä muilla on jyviä ja viinaa kyllä. ",
       "king_james": "Thou hast put gladness in my heart, more than in the time that their corn and their wine increased.",
       "refs": {
         "latin_vulgate": {
           "src": "4:8"
         },
         "hebrew_masoretic": {
+          "src": "4:8"
+        },
+        "douay_rheims": {
           "src": "4:8"
         }
       }
@@ -107,12 +144,17 @@
       "verse": 8,
       "latin_vulgate": " In pace in idipsum dormiam, et requiescam ; ",
       "hebrew_masoretic": "בְּשָׁל֣וֹם יַחְדָּו֮ אֶשְׁכְּבָ֢ה וְאִ֫ישָׁ֥ן כִּֽי־אַתָּ֣ה יְהֹוָ֣ה לְבָדָ֑ד לָ֝בֶ֗טַח תּוֹשִׁיבֵֽנִי׃ {פ}",
+      "douay_rheims": "In peace in the self same I will sleep, and I will rest:",
+      "finnish_biblia": "(H 4:9) Minä makaan ja lepään juuri rauhassa; sillä sinä Herra yksinäs autat minua turvassa asumaan.   ",
       "king_james": "I will both lay me down in peace, and sleep: for thou, Lord, only makest me dwell in safety. ",
       "refs": {
         "latin_vulgate": {
           "src": "4:9"
         },
         "hebrew_masoretic": {
+          "src": "4:9"
+        },
+        "douay_rheims": {
           "src": "4:9"
         }
       }

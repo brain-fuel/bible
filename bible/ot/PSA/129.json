@@ -2,6 +2,8 @@
   "book_id": "PSA",
   "latin_name": "Liber Psalmorum",
   "hebrew_name": "תְּהִלִּים",
+  "douay_name": "Psalms",
+  "finnish_name": "Psalmit",
   "english_name": "Psalms",
   "chapter": 129,
   "verses": [
@@ -9,9 +11,14 @@
       "verse": 1,
       "latin_vulgate": "Canticum graduum.   Sæpe expugnaverunt me a juventute mea,  dicat nunc Israël ; ",
       "hebrew_masoretic": "שִׁ֗יר הַֽמַּ֫עֲל֥וֹת רַ֭בַּת צְרָר֣וּנִי מִנְּעוּרַ֑י יֹאמַר־נָ֝֗א יִשְׂרָאֵֽל׃",
+      "douay_rheims": "A gradual canticle. Often have they fought against me from my youth, let Israel now say.",
+      "finnish_biblia": "Veisu korkeimmassa Kuorissa. He ovat usein minua ahdistaneet, hamasta nuoruudestani, sanokaan nyt Israel; ",
       "king_james": "Many a time have they afflicted me from my youth, may Israel now say:",
       "refs": {
         "latin_vulgate": {
+          "src": "128:1"
+        },
+        "douay_rheims": {
           "src": "128:1"
         }
       }
@@ -20,9 +27,14 @@
       "verse": 2,
       "latin_vulgate": " sæpe expugnaverunt me a juventute mea :  etenim non potuerunt mihi. ",
       "hebrew_masoretic": "רַ֭בַּת צְרָר֣וּנִי מִנְּעוּרָ֑י גַּ֝֗ם לֹא־יָ֥כְלוּ לִֽי׃",
+      "douay_rheims": "Often have they fought against me from my youth: but they could not prevail over me.",
+      "finnish_biblia": "He ovat usein minua ahdistaneet, hamasta nuoruudestani; mutta ei he minua voittaneet. ",
       "king_james": "Many a time have they afflicted me from my youth: yet they have not prevailed against me.",
       "refs": {
         "latin_vulgate": {
+          "src": "128:2"
+        },
+        "douay_rheims": {
           "src": "128:2"
         }
       }
@@ -31,9 +43,14 @@
       "verse": 3,
       "latin_vulgate": " Supra dorsum meum fabricaverunt peccatores ;  prolongaverunt iniquitatem suam. ",
       "hebrew_masoretic": "עַל־גַּ֭בִּי חָרְשׁ֣וּ חֹרְשִׁ֑ים הֶ֝אֱרִ֗יכוּ (למענותם) [לְמַעֲנִיתָֽם]׃",
+      "douay_rheims": "The wicked have wrought upon my back: they have lengthened their iniquity.",
+      "finnish_biblia": "Kyntäjät ovat minun selkäni päällä kyntäneet, ja vakonsa pitkäksi vetäneet. ",
       "king_james": "The plowers plowed upon my back: they made long their furrows.",
       "refs": {
         "latin_vulgate": {
+          "src": "128:3"
+        },
+        "douay_rheims": {
           "src": "128:3"
         }
       }
@@ -42,9 +59,14 @@
       "verse": 4,
       "latin_vulgate": " Dominus justus  concidit cervices peccatorum. ",
       "hebrew_masoretic": "יְהֹוָ֥ה צַדִּ֑יק קִ֝צֵּ֗ץ עֲב֣וֹת רְשָׁעִֽים׃",
+      "douay_rheims": "The Lord who is just will cut the necks of sinners:",
+      "finnish_biblia": "Herra, joka vanhurskas on, on jumalattomain köydet katkonut. ",
       "king_james": "The Lord is righteous: he hath cut asunder the cords of the wicked.",
       "refs": {
         "latin_vulgate": {
+          "src": "128:4"
+        },
+        "douay_rheims": {
           "src": "128:4"
         }
       }
@@ -53,9 +75,14 @@
       "verse": 5,
       "latin_vulgate": " Confundantur, et convertantur retrorsum  omnes qui oderunt Sion. ",
       "hebrew_masoretic": "יֵ֭בֹשׁוּ וְיִסֹּ֣גוּ אָח֑וֹר כֹּ֝֗ל שֹׂנְאֵ֥י צִיּֽוֹן׃",
+      "douay_rheims": "Let them all be confounded and turned back that hate Sion.",
+      "finnish_biblia": "Tulkoon häpiään ja kääntyköön takaperin kaikki, jotka Zionia vihaavat. ",
       "king_james": "Let them all be confounded and turned back that hate Zion.",
       "refs": {
         "latin_vulgate": {
+          "src": "128:5"
+        },
+        "douay_rheims": {
           "src": "128:5"
         }
       }
@@ -64,9 +91,14 @@
       "verse": 6,
       "latin_vulgate": " Fiant sicut fœnum tectorum,  quod priusquam evellatur exaruit : ",
       "hebrew_masoretic": "יִ֭הְיוּ כַּחֲצִ֣יר גַּגּ֑וֹת שֶׁקַּדְמַ֖ת שָׁלַ֣ף יָבֵֽשׁ׃",
+      "douay_rheims": "Let them be as grass upon the tops of houses: which withereth before it be plucked up:",
+      "finnish_biblia": "Olkoon niinkuin ruoho kattojen päällä, joka kuivettuu ennen kuin se reväistään ylös, ",
       "king_james": "Let them be as the grass upon the housetops, which withereth afore it groweth up:",
       "refs": {
         "latin_vulgate": {
+          "src": "128:6"
+        },
+        "douay_rheims": {
           "src": "128:6"
         }
       }
@@ -75,9 +107,14 @@
       "verse": 7,
       "latin_vulgate": " de quo non implevit manum suam qui metit,  et sinum suum qui manipulos colligit. ",
       "hebrew_masoretic": "שֶׁלֹּ֤א מִלֵּ֖א כַפּ֥וֹ קוֹצֵ֗ר וְחִצְנ֥וֹ מְעַמֵּֽר׃",
+      "douay_rheims": "Who with the mower filleth not his hand: nor he that gathereth sheaves his bosom.",
+      "finnish_biblia": "Joista niittäjä ei kättänsä täytä, eikä lyhteensitoja syliänsä; ",
       "king_james": "Wherewith the mower filleth not his hand; nor he that bindeth sheaves his bosom.",
       "refs": {
         "latin_vulgate": {
+          "src": "128:7"
+        },
+        "douay_rheims": {
           "src": "128:7"
         }
       }
@@ -86,9 +123,14 @@
       "verse": 8,
       "latin_vulgate": " Et non dixerunt qui præteribant :  Benedictio Domini super vos.  Benediximus vobis in nomine Domini.  ",
       "hebrew_masoretic": "וְלֹ֤א אָמְר֨וּ ׀ הָעֹבְרִ֗ים בִּרְכַּֽת־יְהֹוָ֥ה אֲלֵיכֶ֑ם בֵּרַ֥כְנוּ אֶ֝תְכֶ֗ם בְּשֵׁ֣ם יְהֹוָֽה׃ {פ}",
+      "douay_rheims": "And they that passed by have not said: The blessing of the Lord be upon you: we have blessed you in the name of the Lord. ",
+      "finnish_biblia": "Eikä yksikään ohitsekäypä sano: olkoon Herran siunaus teidän päällänne: me siunaamme teitä Herran nimeen.   ",
       "king_james": "Neither do they which go by say, The blessing of the Lord be upon you: we bless you in the name of the Lord. ",
       "refs": {
         "latin_vulgate": {
+          "src": "128:8"
+        },
+        "douay_rheims": {
           "src": "128:8"
         }
       }

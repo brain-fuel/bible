@@ -2,6 +2,8 @@
   "book_id": "PSA",
   "latin_name": "Liber Psalmorum",
   "hebrew_name": "תְּהִלִּים",
+  "douay_name": "Psalms",
+  "finnish_name": "Psalmit",
   "english_name": "Psalms",
   "chapter": 133,
   "verses": [
@@ -9,9 +11,14 @@
       "verse": 1,
       "latin_vulgate": "Canticum graduum David.   Ecce quam bonum et quam jucundum,  habitare fratres in unum ! ",
       "hebrew_masoretic": "שִׁ֥יר הַֽמַּעֲל֗וֹת לְדָ֫וִ֥ד הִנֵּ֣ה מַה־טּ֭וֹב וּמַה־נָּעִ֑ים שֶׁ֖בֶת אַחִ֣ים גַּם־יָֽחַד׃",
+      "douay_rheims": "A gradual canticle of David. Behold how good and how pleasant it is for brethren to dwell together in unity:",
+      "finnish_biblia": "Davidin veisu korkeimmassa Kuorissa. Katsos kuinka hyvä ja kuinka suloinen se on, että veljekset sovinnossa keskenänsä asuvat. ",
       "king_james": "Behold, how good and how pleasant it is for brethren to dwell together in unity!",
       "refs": {
         "latin_vulgate": {
+          "src": "132:1"
+        },
+        "douay_rheims": {
           "src": "132:1"
         }
       }
@@ -20,9 +27,14 @@
       "verse": 2,
       "latin_vulgate": " Sicut unguentum in capite,  quod descendit in barbam, barbam Aaron,  quod descendit in oram vestimenti ejus ; ",
       "hebrew_masoretic": "כַּשֶּׁ֤מֶן הַטּ֨וֹב ׀ עַל־הָרֹ֗אשׁ יֹרֵ֗ד עַֽל־הַזָּקָ֥ן זְקַֽן־אַהֲרֹ֑ן שֶׁ֝יֹּרֵ֗ד עַל־פִּ֥י מִדּוֹתָֽיו׃",
+      "douay_rheims": "Like the precious ointment on the head, that ran down upon the beard, the beard of Aaron, Which ran down to the skirt of his garment:",
+      "finnish_biblia": "Niinkuin kallis voide, joka Aaronin päästä vuotaa koko hänen partaansa, joka vuotaa hänen vaatettensa liepeesen; ",
       "king_james": "It is like the precious ointment upon the head, that ran down upon the beard, even Aaron’s beard: that went down to the skirts of his garments;",
       "refs": {
         "latin_vulgate": {
+          "src": "132:2"
+        },
+        "douay_rheims": {
           "src": "132:2"
         }
       }
@@ -31,9 +43,14 @@
       "verse": 3,
       "latin_vulgate": " sicut ros Hermon,  qui descendit in montem Sion.  Quoniam illic mandavit Dominus benedictionem,  et vitam usque in sæculum.  ",
       "hebrew_masoretic": "כְּטַל־חֶרְמ֗וֹן שֶׁיֹּרֵד֮ עַל־הַרְרֵ֢י צִ֫יּ֥וֹן כִּ֤י שָׁ֨ם ׀ צִוָּ֣ה יְ֭הֹוָה אֶת־הַבְּרָכָ֑ה חַ֝יִּ֗ים עַד־הָעוֹלָֽם׃ {פ}",
+      "douay_rheims": "As the dew of Hermon, which descendeth upon mount Sion. For there the Lord hath commanded blessing, and life for evermore. ",
+      "finnish_biblia": "Niinkuin Hermonin kaste, joka tulee alas Zionin vuorelle; sillä siellä lupaa Herra siunauksen ja elämän alati ja ijankaikkisesti.   ",
       "king_james": "As the dew of Hermon, and as the dew that descended upon the mountains of Zion: for there the Lord commanded the blessing, even life for evermore. ",
       "refs": {
         "latin_vulgate": {
+          "src": "132:3"
+        },
+        "douay_rheims": {
           "src": "132:3"
         }
       }

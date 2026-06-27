@@ -2,6 +2,8 @@
   "book_id": "DEU",
   "latin_name": "Deuteronomium",
   "hebrew_name": "דְּבָרִים",
+  "douay_name": "Deuteronomy",
+  "finnish_name": "5. Mooseksen kirja",
   "english_name": "Deuteronomy",
   "chapter": 19,
   "verses": [
@@ -9,126 +11,168 @@
       "verse": 1,
       "latin_vulgate": "Cum disperdiderit Dominus Deus tuus gentes, quarum tibi traditurus est terram, et possederis eam, habitaverisque in urbibus ejus et in ædibus : ",
       "hebrew_masoretic": "כִּֽי־יַכְרִ֞ית יְהֹוָ֤ה אֱלֹהֶ֙יךָ֙ אֶת־הַגּוֹיִ֔ם אֲשֶׁר֙ יְהֹוָ֣ה אֱלֹהֶ֔יךָ נֹתֵ֥ן לְךָ֖ אֶת־אַרְצָ֑ם וִֽירִשְׁתָּ֕ם וְיָשַׁבְתָּ֥ בְעָרֵיהֶ֖ם וּבְבָתֵּיהֶֽם׃",
+      "douay_rheims": "When the Lord thy God hath destroyed the nations, whose land he will deliver to thee, and thou shalt possess it, and shalt dwell in the cities and houses thereof:",
+      "finnish_biblia": "Kuin Herra sinun Jumalas on hävittänyt pakanat, joiden maan Herra sinun Jumalas sinulle antaa, niitä omistaakses ja asuakses heidän kaupungeissansa ja huoneissansa, ",
       "king_james": "When the Lord thy God hath cut off the nations, whose land the Lord thy God giveth thee, and thou succeedest them, and dwellest in their cities, and in their houses;"
     },
     {
       "verse": 2,
       "latin_vulgate": "tres civitates separabis tibi in medio terræ, quam Dominus Deus tuus dabit tibi in possessionem, ",
       "hebrew_masoretic": "שָׁל֥וֹשׁ עָרִ֖ים תַּבְדִּ֣יל לָ֑ךְ בְּת֣וֹךְ אַרְצְךָ֔ אֲשֶׁר֙ יְהֹוָ֣ה אֱלֹהֶ֔יךָ נֹתֵ֥ן לְךָ֖ לְרִשְׁתָּֽהּ׃",
+      "douay_rheims": "Thou shalt separate to thee three cities in the midst of the land, which the Lord will give thee in possession,",
+      "finnish_biblia": "Niin eroita sinulles kolme kaupunkia sen maan keskellä, jonka Herra sinun Jumalas antaa sinun omistaakses, ",
       "king_james": "Thou shalt separate three cities for thee in the midst of thy land, which the Lord thy God giveth thee to possess it."
     },
     {
       "verse": 3,
       "latin_vulgate": "sternens diligenter viam : et in tres æqualiter partes totam terræ tuæ provinciam divides : ut habeat e vicino qui propter homicidium profugus est, quo possit evadere. ",
       "hebrew_masoretic": "תָּכִ֣ין לְךָ֮ הַדֶּ֒רֶךְ֒ וְשִׁלַּשְׁתָּ֙ אֶת־גְּב֣וּל אַרְצְךָ֔ אֲשֶׁ֥ר יַנְחִֽילְךָ֖ יְהֹוָ֣ה אֱלֹהֶ֑יךָ וְהָיָ֕ה לָנ֥וּס שָׁ֖מָּה כׇּל־רֹצֵֽחַ׃",
+      "douay_rheims": "Paving diligently the way: and thou shalt divide the whole province of thy land equally into three parts: that he who is forced to flee for manslaughter, may have near at hand whither to escape.",
+      "finnish_biblia": "Ja valmista sinulles tie, ja jaa maas rajat, jonka Herra sinun Jumalas sinulle antaa perinnöksi, kolmeen osaan, sen paeta, joka miesvahinkoon tullut on. ",
       "king_james": "Thou shalt prepare thee a way, and divide the coasts of thy land, which the Lord thy God giveth thee to inherit, into three parts, that every slayer may flee thither."
     },
     {
       "verse": 4,
       "latin_vulgate": "Hæc erit lex homicidæ fugientis, cujus vita servanda est : qui percusserit proximum suum nesciens, et qui heri et nudiustertius nullum contra eum odium habuisse comprobatur : ",
       "hebrew_masoretic": "וְזֶה֙ דְּבַ֣ר הָרֹצֵ֔חַ אֲשֶׁר־יָנ֥וּס שָׁ֖מָּה וָחָ֑י אֲשֶׁ֨ר יַכֶּ֤ה אֶת־רֵעֵ֙הוּ֙ בִּבְלִי־דַ֔עַת וְה֛וּא לֹא־שֹׂנֵ֥א ל֖וֹ מִתְּמֹ֥ל שִׁלְשֹֽׁם׃",
+      "douay_rheims": "This shall be the law of the slayer that fleeth, whose life is to be saved: He that killeth his neighbor ignorantly, and who is proved to have had no hatred against him yesterday and the day before:",
+      "finnish_biblia": "Ja se olkaan miehentappajan meno, joka sinne paeta ja elää saa: joka tappaa lähimmäisensä tietämätä, ja ei ennen vihannut häntä, ",
       "king_james": "And this is the case of the slayer, which shall flee thither, that he may live: Whoso killeth his neighbour ignorantly, whom he hated not in time past;"
     },
     {
       "verse": 5,
       "latin_vulgate": "sed abiisse cum eo simpliciter in silvam ad ligna cædenda, et in succisione lignorum securis fugerit manu, ferrumque lapsum de manubrio amicum ejus percusserit, et occiderit : hic ad unam supradictarum urbium confugiet, et vivet : ",
       "hebrew_masoretic": "וַאֲשֶׁר֩ יָבֹ֨א אֶת־רֵעֵ֥הוּ בַיַּ֘עַר֮ לַחְטֹ֣ב עֵצִים֒ וְנִדְּחָ֨ה יָד֤וֹ בַגַּרְזֶן֙ לִכְרֹ֣ת הָעֵ֔ץ וְנָשַׁ֤ל הַבַּרְזֶל֙ מִן־הָעֵ֔ץ וּמָצָ֥א אֶת־רֵעֵ֖הוּ וָמֵ֑ת ה֗וּא יָנ֛וּס אֶל־אַחַ֥ת הֶעָרִים־הָאֵ֖לֶּה וָחָֽי׃",
+      "douay_rheims": "But to have gone with him to the wood to hew wood, and in cutting down the tree the axe slipped out of his hand, and the iron slipping from the handle struck his friend, and killed him: he shall flee to one of the cities aforesaid, and live:",
+      "finnish_biblia": "Vaan niinkuin joku menis metsään lähimmäisensä kanssa puita hakkaamaan, ja nostais käsin kirveensä hakkaamaan puuta maahan, ja kirves lähtis varresta, ja osais loukata lähimmäisensä niin että hän siitä kuolis: sen pitää yhteen näistä kaupungeista pakeneman ja saaman elää, ",
       "king_james": "As when a man goeth into the wood with his neighbour to hew wood, and his hand fetcheth a stroke with the axe to cut down the tree, and the head slippeth from the helve, and lighteth upon his neighbour, that he die; he shall flee unto one of those cities, and live:"
     },
     {
       "verse": 6,
       "latin_vulgate": "ne forsitan proximus ejus, cujus effusus est sanguis, dolore stimulatus, persequatur, et apprehendat eum si longior via fuerit, et percutiat animam ejus, qui non est reus mortis : quia nullum contra eum, qui occisus est, odium prius habuisse monstratur. ",
       "hebrew_masoretic": "פֶּן־יִרְדֹּף֩ גֹּאֵ֨ל הַדָּ֜ם אַחֲרֵ֣י הָרֹצֵ֗חַ כִּי־יֵחַם֮ לְבָבוֹ֒ וְהִשִּׂיג֛וֹ כִּֽי־יִרְבֶּ֥ה הַדֶּ֖רֶךְ וְהִכָּ֣הוּ נָ֑פֶשׁ וְלוֹ֙ אֵ֣ין מִשְׁפַּט־מָ֔וֶת כִּ֠י לֹ֣א שֹׂנֵ֥א ה֛וּא ל֖וֹ מִתְּמ֥וֹל שִׁלְשֽׁוֹם׃",
+      "douay_rheims": "Lest perhaps the next kinsman of him whose blood was shed, pushed on by his grief should pursue, and apprehend him, if the way be too long, and take away the life of him who is not guilty of death, because he is proved to have had no hatred before against him that was slain.",
+      "finnish_biblia": "Ettei verenkostaja ajaisi miehentappajaa niinkauvan kuin hänen sydämensä on katkera, ja saavuttaisi häntä että matka pitkä on, ja löis hänen kuoliaaksi, vaikka ei hän kuoleman syytä ole tehnyt; sillä ei hän ennen vihannut häntä. ",
       "king_james": "Lest the avenger of the blood pursue the slayer, while his heart is hot, and overtake him, because the way is long, and slay him; whereas he was not worthy of death, inasmuch as he hated him not in time past."
     },
     {
       "verse": 7,
       "latin_vulgate": "Idcirco præcipio tibi, ut tres civitates æqualis inter se spatii dividas. ",
       "hebrew_masoretic": "עַל־כֵּ֛ן אָנֹכִ֥י מְצַוְּךָ֖ לֵאמֹ֑ר שָׁלֹ֥שׁ עָרִ֖ים תַּבְדִּ֥יל לָֽךְ׃",
+      "douay_rheims": "Therefore I command thee, that thou separate three cities at equal distance one from another.",
+      "finnish_biblia": "Sentähden käsken minä sinua, sanoen: eroita sinulles kolme kaupunkia. ",
       "king_james": "Wherefore I command thee, saying, Thou shalt separate three cities for thee."
     },
     {
       "verse": 8,
       "latin_vulgate": "Cum autem dilataverit Dominus Deus tuus terminos tuos, sicut juravit patribus tuis, et dederit tibi cunctam terram, quam eis pollicitus est ",
       "hebrew_masoretic": "וְאִם־יַרְחִ֞יב יְהֹוָ֤ה אֱלֹהֶ֙יךָ֙ אֶת־גְּבֻ֣לְךָ֔ כַּאֲשֶׁ֥ר נִשְׁבַּ֖ע לַאֲבֹתֶ֑יךָ וְנָ֤תַן לְךָ֙ אֶת־כׇּל־הָאָ֔רֶץ אֲשֶׁ֥ר דִּבֶּ֖ר לָתֵ֥ת לַאֲבֹתֶֽיךָ׃",
+      "douay_rheims": "And when the Lord thy God shall have enlarged thy borders, as he swore to the fathers, and shall give thee all the land that he promised them,",
+      "finnish_biblia": "Ja jos Herra sinun Jumalas sinun maas rajat levittää, niinkuin hän vannoi isilles, ja antaa sinulle kaiken sen maan, jonka hän lupasi isilles antaa, ",
       "king_james": "And if the Lord thy God enlarge thy coast, as he hath sworn unto thy fathers, and give thee all the land which he promised to give unto thy fathers;"
     },
     {
       "verse": 9,
       "latin_vulgate": "(si tamen custodieris mandata ejus, et feceris, quæ hodie præcipio tibi, ut diligas Dominum Deum tuum, et ambules in viis ejus omni tempore), addes tibi tres alias civitates, et supradictarum trium urbium numerum duplicabis : ",
       "hebrew_masoretic": "כִּֽי־תִשְׁמֹר֩ אֶת־כׇּל־הַמִּצְוָ֨ה הַזֹּ֜את לַעֲשֹׂתָ֗הּ אֲשֶׁ֨ר אָנֹכִ֣י מְצַוְּךָ֮ הַיּוֹם֒ לְאַהֲבָ֞ה אֶת־יְהֹוָ֧ה אֱלֹהֶ֛יךָ וְלָלֶ֥כֶת בִּדְרָכָ֖יו כׇּל־הַיָּמִ֑ים וְיָסַפְתָּ֨ לְךָ֥ עוֹד֙ שָׁלֹ֣שׁ עָרִ֔ים עַ֖ל הַשָּׁלֹ֥שׁ הָאֵֽלֶּה׃",
+      "douay_rheims": "(Yet so, if thou keep his commandments, and do the things which I command thee this day, that thou love the Lord thy God, and walk in his ways at all times) thou shalt add to thee other three cities, and shalt double the number of the three cities aforesaid:",
+      "finnish_biblia": "Jos muutoin pidät kaikki nämät käskyt, ja teet sen jälkeen kuin minä sinulle tänäpänä käsken, ettäs rakastat Herraa sinun Jumalaas ja vaellat hänen teissänsä kaikkena elinaikanas: niin lisää vielä kolme kaupunkia näihin kolmeen, ",
       "king_james": "If thou shalt keep all these commandments to do them, which I command thee this day, to love the Lord thy God, and to walk ever in his ways; then shalt thou add three cities more for thee, beside these three:"
     },
     {
       "verse": 10,
       "latin_vulgate": "ut non effundatur sanguis innoxius in medio terræ, quam Dominus Deus tuus dabit tibi possidendam, ne sis sanguinis reus. ",
       "hebrew_masoretic": "וְלֹ֤א יִשָּׁפֵךְ֙ דָּ֣ם נָקִ֔י בְּקֶ֣רֶב אַרְצְךָ֔ אֲשֶׁר֙ יְהֹוָ֣ה אֱלֹהֶ֔יךָ נֹתֵ֥ן לְךָ֖ נַחֲלָ֑ה וְהָיָ֥ה עָלֶ֖יךָ דָּמִֽים׃ {פ}",
+      "douay_rheims": "That innocent blood may not be shed in the midst of the land which the Lord thy God will give thee to possess, lest thou be guilty of blood.",
+      "finnish_biblia": "Ettei viatointa verta vuodatettaisi sinun maassas, jonka Herra sinun Jumalas sinulle antaa perinnöksi, ja veren vika tulisi sinun päälles. ",
       "king_james": "That innocent blood be not shed in thy land, which the Lord thy God giveth thee for an inheritance, and so blood be upon thee."
     },
     {
       "verse": 11,
       "latin_vulgate": "Si quis autem, odio habens proximum suum, insidiatus fuerit vitæ ejus, surgensque percusserit illum, et mortuus fuerit, fugeritque ad unam de supradictis urbibus, ",
       "hebrew_masoretic": "וְכִֽי־יִהְיֶ֥ה אִישׁ֙ שֹׂנֵ֣א לְרֵעֵ֔הוּ וְאָ֤רַב לוֹ֙ וְקָ֣ם עָלָ֔יו וְהִכָּ֥הוּ נֶ֖פֶשׁ וָמֵ֑ת וְנָ֕ס אֶל־אַחַ֖ת הֶעָרִ֥ים הָאֵֽל׃",
+      "douay_rheims": "But if any man hating his neighbour, lie in wait for his life, and rise and strike him, and he die, and he flee to one of the cities aforesaid,",
+      "finnish_biblia": "Mutta jos joku vihaa lähimmäistänsä ja väijyy häntä ja karkaa hänen päällensä ja tappaa hänen, ja se pakenee yhteen niistä kaupungeista; ",
       "king_james": "But if any man hate his neighbour, and lie in wait for him, and rise up against him, and smite him mortally that he die, and fleeth into one of these cities:"
     },
     {
       "verse": 12,
       "latin_vulgate": "mittent seniores civitatis illius, et arripient eum de loco effugii, tradentque in manu proximi, cujus sanguis effusus est, et morietur. ",
       "hebrew_masoretic": "וְשָֽׁלְחוּ֙ זִקְנֵ֣י עִיר֔וֹ וְלָקְח֥וּ אֹת֖וֹ מִשָּׁ֑ם וְנָתְנ֣וּ אֹת֗וֹ בְּיַ֛ד גֹּאֵ֥ל הַדָּ֖ם וָמֵֽת׃",
+      "douay_rheims": "The ancients of his city shall send, and take him out of the place of refuge, and shall deliver him into the hand of the kinsman of him whose blood was shed, and he shall die.",
+      "finnish_biblia": "Niin vanhimmat hänen kaupungistansa lähettäkään sinne sanan, ja tuokaan hänen sieltä, ja antakaan hänen verenkostajan käsiin, että hän kuolis. ",
       "king_james": "Then the elders of his city shall send and fetch him thence, and deliver him into the hand of the avenger of blood, that he may die."
     },
     {
       "verse": 13,
       "latin_vulgate": "Non miseraberis ejus, et auferes innoxium sanguinem de Israël, ut bene sit tibi. ",
       "hebrew_masoretic": "לֹא־תָח֥וֹס עֵֽינְךָ֖ עָלָ֑יו וּבִֽעַרְתָּ֧ דַֽם־הַנָּקִ֛י מִיִּשְׂרָאֵ֖ל וְט֥וֹב לָֽךְ׃ {ס}",
+      "douay_rheims": "Thou shalt not pity him, and thou shalt take away the guilt of innocent blood out of Israel, that it may be well with thee.",
+      "finnish_biblia": "Ei sinun silmäs pidä armaitseman häntä, ja sinun pitää ottaman pois viattoman veren Israelista, ettäs menestyisit. ",
       "king_james": "Thine eye shall not pity him, but thou shalt put away the guilt of innocent blood from Israel, that it may go well with thee."
     },
     {
       "verse": 14,
       "latin_vulgate": "Non assumes, et transferes terminos proximi tui, quos fixerunt priores in possessione tua, quam Dominus Deus tuus dabit tibi in terra quam acceperis possidendam.  ",
       "hebrew_masoretic": "לֹ֤א תַסִּיג֙ גְּב֣וּל רֵֽעֲךָ֔ אֲשֶׁ֥ר גָּבְל֖וּ רִאשֹׁנִ֑ים בְּנַחֲלָֽתְךָ֙ אֲשֶׁ֣ר תִּנְחַ֔ל בָּאָ֕רֶץ אֲשֶׁר֙ יְהֹוָ֣ה אֱלֹהֶ֔יךָ נֹתֵ֥ן לְךָ֖ לְרִשְׁתָּֽהּ׃ {ס}",
+      "douay_rheims": "Thou shalt not take nor remove thy neighbour's landmark, which thy predecessors have set in thy possession, which the Lord thy God will give thee in the land that thou shalt receive to possess.",
+      "finnish_biblia": "Ei sinun pidä siirtämän lähimmäises rajaa, jonka entiset panneet ovat sinun perintöös, kuin sinä perit siinä maassa, jonka Herra sinun Jumalas sinulle antaa omistaakses. ",
       "king_james": "Thou shalt not remove thy neighbour’s landmark, which they of old time have set in thine inheritance, which thou shalt inherit in the land that the Lord thy God giveth thee to possess it."
     },
     {
       "verse": 15,
       "latin_vulgate": " Non stabit testis unus contra aliquem, quidquid illud peccati, et facinoris fuerit : sed in ore duorum aut trium testium stabit omne verbum. ",
       "hebrew_masoretic": "לֹֽא־יָקוּם֩ עֵ֨ד אֶחָ֜ד בְּאִ֗ישׁ לְכׇל־עָוֺן֙ וּלְכׇל־חַטָּ֔את בְּכׇל־חֵ֖טְא אֲשֶׁ֣ר יֶֽחֱטָ֑א עַל־פִּ֣י ׀ שְׁנֵ֣י עֵדִ֗ים א֛וֹ עַל־פִּ֥י שְׁלֹשָֽׁה־עֵדִ֖ים יָק֥וּם דָּבָֽר׃",
+      "douay_rheims": "One witness shall not rise up against any man, whatsoever the sin or wickedness be: but in the mouth of two or three witnesses every word shall stand.",
+      "finnish_biblia": "Ei pidä todistajan yksinänsä astuman edes ketäkään vastaan, jostakusta pahasta teosta ja synnistä, mikä ikänä paha teko se olis joka tehdään; mutta kahden eli kolmen todistajan suussa ovat kaikki asiat vahvat. ",
       "king_james": "One witness shall not rise up against a man for any iniquity, or for any sin, in any sin that he sinneth: at the mouth of two witnesses, or at the mouth of three witnesses, shall the matter be established."
     },
     {
       "verse": 16,
       "latin_vulgate": "Si steterit testis mendax contra hominem, accusans eum prævaricationis, ",
       "hebrew_masoretic": "כִּֽי־יָק֥וּם עֵד־חָמָ֖ס בְּאִ֑ישׁ לַעֲנ֥וֹת בּ֖וֹ סָרָֽה׃",
+      "douay_rheims": "If a lying witness stand against a man, accusing him of transgression,",
+      "finnish_biblia": "Jos väärä todistaja tulee ja todistaa jotakuta vastaan ja soimaa hänelle jotain syntiä, ",
       "king_james": "If a false witness rise up against any man to testify against him that which is wrong;"
     },
     {
       "verse": 17,
       "latin_vulgate": "stabunt ambo, quorum causa est, ante Dominum in conspectu sacerdotum et judicum qui fuerint in diebus illis. ",
       "hebrew_masoretic": "וְעָמְד֧וּ שְׁנֵֽי־הָאֲנָשִׁ֛ים אֲשֶׁר־לָהֶ֥ם הָרִ֖יב לִפְנֵ֣י יְהֹוָ֑ה לִפְנֵ֤י הַכֹּֽהֲנִים֙ וְהַשֹּׁ֣פְטִ֔ים אֲשֶׁ֥ר יִהְי֖וּ בַּיָּמִ֥ים הָהֵֽם׃",
+      "douay_rheims": "Both of them, between whom the controversy is, shall stand before the Lord in the sight of the priests and the judges that shall be in those days.",
+      "finnish_biblia": "Niin molemmat ne miehet, jotka riitelevät, seisokaan Herran edessä, pappein ja tuomarein edessä, jotka siihen aikaan ovat, ",
       "king_james": "Then both the men, between whom the controversy is, shall stand before the Lord, before the priests and the judges, which shall be in those days;"
     },
     {
       "verse": 18,
       "latin_vulgate": "Cumque diligentissime perscrutantes, invenerint falsum testem dixisse contra fratrem suum mendacium, ",
       "hebrew_masoretic": "וְדָרְשׁ֥וּ הַשֹּׁפְטִ֖ים הֵיטֵ֑ב וְהִנֵּ֤ה עֵֽד־שֶׁ֙קֶר֙ הָעֵ֔ד שֶׁ֖קֶר עָנָ֥ה בְאָחִֽיו׃",
+      "douay_rheims": "And when after most diligent inquisition, they shall find that the false witness hath told a lie against his brother:",
+      "finnish_biblia": "Ja tuomarit visusti tutkistelkaan sitä, ja katso, jos todistaja on väärä todistaja, ja todistaa väärin veljeänsä vastaan; ",
       "king_james": "And the judges shall make diligent inquisition: and, behold, if the witness be a false witness, and hath testified falsely against his brother;"
     },
     {
       "verse": 19,
       "latin_vulgate": "reddent ei sicut fratri suo facere cogitavit, et auferes malum de medio tui : ",
       "hebrew_masoretic": "וַעֲשִׂ֣יתֶם ל֔וֹ כַּאֲשֶׁ֥ר זָמַ֖ם לַעֲשׂ֣וֹת לְאָחִ֑יו וּבִֽעַרְתָּ֥ הָרָ֖ע מִקִּרְבֶּֽךָ׃",
+      "douay_rheims": "They shall render to him as he meant to do to his brother, and thou shalt take away the evil out of the midst of thee:",
+      "finnish_biblia": "Niin tehkäät hänelle niinkuin hän aikoi tehdä veljellensä, ettäs erottaisit pahan sinustas, ",
       "king_james": "Then shall ye do unto him, as he had thought to have done unto his brother: so shalt thou put the evil away from among you."
     },
     {
       "verse": 20,
       "latin_vulgate": "ut audientes ceteri timorem habeant, et nequaquam talia audeant facere. ",
       "hebrew_masoretic": "וְהַנִּשְׁאָרִ֖ים יִשְׁמְע֣וּ וְיִרָ֑אוּ וְלֹֽא־יֹסִ֨פוּ לַעֲשׂ֜וֹת ע֗וֹד כַּדָּבָ֥ר הָרָ֛ע הַזֶּ֖ה בְּקִרְבֶּֽךָ׃",
+      "douay_rheims": "That others hearing may fear, and may not dare to do such things.",
+      "finnish_biblia": "Ja muut sen kuulisivat ja pelkäisivät, ja ei tekisi enää senkaltaista pahaa teidän seassanne. ",
       "king_james": "And those which remain shall hear, and fear, and shall henceforth commit no more any such evil among you."
     },
     {
       "verse": 21,
       "latin_vulgate": "Non misereberis ejus, sed animam pro anima, oculum pro oculo, dentem pro dente, manum pro manu, pedem pro pede exiges.   ",
       "hebrew_masoretic": "וְלֹ֥א תָח֖וֹס עֵינֶ֑ךָ נֶ֣פֶשׁ בְּנֶ֗פֶשׁ עַ֤יִן בְּעַ֙יִן֙ שֵׁ֣ן בְּשֵׁ֔ן יָ֥ד בְּיָ֖ד רֶ֥גֶל בְּרָֽגֶל׃ {ס}",
+      "douay_rheims": "Thou shalt not pity him, but shalt require life for life, eye for eye, tooth for tooth, hand for hand, foot for foot. ",
+      "finnish_biblia": "Sinun silmäs ei pidä säästämän häntä: henki hengestä, silmä silmästä, hammas hampaasta, käsi kädestä, jalka jalasta.   ",
       "king_james": "And thine eye shall not pity; but life shall go for life, eye for eye, tooth for tooth, hand for hand, foot for foot. "
     }
   ]

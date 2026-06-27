@@ -2,6 +2,8 @@
   "book_id": "EXO",
   "latin_name": "Exodus",
   "hebrew_name": "שְׁמוֹת",
+  "douay_name": "Exodus",
+  "finnish_name": "2. Mooseksen kirja",
   "english_name": "Exodus",
   "chapter": 16,
   "verses": [
@@ -9,216 +11,288 @@
       "verse": 1,
       "latin_vulgate": "Profectique sunt de Elim, et venit omnis multitudo filiorum Israël in desertum Sin, quod est inter Elim et Sinai, quintodecimo die mensis secundi, postquam egressi sunt de terra Ægypti. ",
       "hebrew_masoretic": "וַיִּסְעוּ֙ מֵֽאֵילִ֔ם וַיָּבֹ֜אוּ כׇּל־עֲדַ֤ת בְּנֵֽי־יִשְׂרָאֵל֙ אֶל־מִדְבַּר־סִ֔ין אֲשֶׁ֥ר בֵּין־אֵילִ֖ם וּבֵ֣ין סִינָ֑י בַּחֲמִשָּׁ֨ה עָשָׂ֥ר יוֹם֙ לַחֹ֣דֶשׁ הַשֵּׁנִ֔י לְצֵאתָ֖ם מֵאֶ֥רֶץ מִצְרָֽיִם׃",
+      "douay_rheims": "And they set forward from Elim, and all the multitude of the children of Israel came into the desert of Sin, which is between Elim and Sinai: the fifteenth day of the second month, after they came out of the land of Egypt.",
+      "finnish_biblia": "Niin he matkustivat Elimistä, ja koko Israelin lasten joukko tuli Sinnin korpeen, joka on Elimin ja Sinain välillä: viidentenätoistakymmenentenä päivänä toisella kuulla sittenkuin he Egyptin maalta lähteneet olivat. ",
       "king_james": "And they took their journey from Elim, and all the congregation of the children of Israel came unto the wilderness of Sin, which is between Elim and Sinai, on the fifteenth day of the second month after their departing out of the land of Egypt."
     },
     {
       "verse": 2,
       "latin_vulgate": "Et murmuravit omnis congregatio filiorum Israël contra Moysen et Aaron in solitudine. ",
       "hebrew_masoretic": "(וילינו) [וַיִּלּ֜וֹנוּ] כׇּל־עֲדַ֧ת בְּנֵי־יִשְׂרָאֵ֛ל עַל־מֹשֶׁ֥ה וְעַֽל־אַהֲרֹ֖ן בַּמִּדְבָּֽר׃",
+      "douay_rheims": "And all the congregation of the children of Israel murmured against Moses and Aaron in the wilderness.",
+      "finnish_biblia": "Ja koko Israelin lasten joukko napisi Mosesta ja Aaronia vastaan korvessa. ",
       "king_james": "And the whole congregation of the children of Israel murmured against Moses and Aaron in the wilderness:"
     },
     {
       "verse": 3,
       "latin_vulgate": "Dixeruntque filii Israël ad eos : Utinam mortui essemus per manum Domini in terra Ægypti, quando sedebamus super ollas carnium, et comedebamus panem in saturitate : cur eduxistis nos in desertum istud, ut occideretis omnem multitudinem fame ? ",
       "hebrew_masoretic": "וַיֹּאמְר֨וּ אֲלֵהֶ֜ם בְּנֵ֣י יִשְׂרָאֵ֗ל מִֽי־יִתֵּ֨ן מוּתֵ֤נוּ בְיַד־יְהֹוָה֙ בְּאֶ֣רֶץ מִצְרַ֔יִם בְּשִׁבְתֵּ֙נוּ֙ עַל־סִ֣יר הַבָּשָׂ֔ר בְּאׇכְלֵ֥נוּ לֶ֖חֶם לָשֹׂ֑בַע כִּֽי־הוֹצֵאתֶ֤ם אֹתָ֙נוּ֙ אֶל־הַמִּדְבָּ֣ר הַזֶּ֔ה לְהָמִ֛ית אֶת־כׇּל־הַקָּהָ֥ל הַזֶּ֖ה בָּרָעָֽב׃ {ס}",
+      "douay_rheims": "And the children of Israel said to them: Would to God we had died by the hand of the Lord in the land of Egypt, when we sat over the fleshpots, and ate bread to the full: Why have you brought us into this desert, that you might destroy all the multitude with famine?",
+      "finnish_biblia": "Ja Israelin lapset sanoivat heille: joska me olisimme Egyptin maalla Herran käden kautta kuolleet, koska me istuimme lihapatain tykönä, ja oli leipää yltäkyllä syödä; sillä te olette sentähden meidän johdattaneet tähän korpeen kuolettaaksenne näljällä kaikkea tätä joukkoa. ",
       "king_james": "And the children of Israel said unto them, Would to God we had died by the hand of the Lord in the land of Egypt, when we sat by the flesh pots, and when we did eat bread to the full; for ye have brought us forth into this wilderness, to kill this whole assembly with hunger."
     },
     {
       "verse": 4,
       "latin_vulgate": "Dixit autem Dominus ad Moysen : Ecce ego pluam vobis panes de cælo : egrediatur populus, et colligat quæ sufficiunt per singulos dies : ut tentem eum utrum ambulet in lege mea, an non. ",
       "hebrew_masoretic": "וַיֹּ֤אמֶר יְהֹוָה֙ אֶל־מֹשֶׁ֔ה הִנְנִ֨י מַמְטִ֥יר לָכֶ֛ם לֶ֖חֶם מִן־הַשָּׁמָ֑יִם וְיָצָ֨א הָעָ֤ם וְלָֽקְטוּ֙ דְּבַר־י֣וֹם בְּיוֹמ֔וֹ לְמַ֧עַן אֲנַסֶּ֛נּוּ הֲיֵלֵ֥ךְ בְּתוֹרָתִ֖י אִם־לֹֽא׃",
+      "douay_rheims": "And the Lord said to Moses: Behold I will rain bread from heaven for you; let the people go forth, and gather what is sufficient for every day: that I may prove them whether they will walk in my law, or not.",
+      "finnish_biblia": "Niin sanoi Herra Mosekselle: katso, minä annan sataa teille leipää taivaasta: ja kansan pitää menemän ulos ja kokooman joka päivä niin paljo kuin he tarvitsevat, koetellakseni heitä, jos he vaeltavat minun käskyssäni elikkä ei. ",
       "king_james": "Then said the Lord unto Moses, Behold, I will rain bread from heaven for you; and the people shall go out and gather a certain rate every day, that I may prove them, whether they will walk in my law, or no."
     },
     {
       "verse": 5,
       "latin_vulgate": "Die autem sexto parent quod inferant : et sit duplum quam colligere solebant per singulos dies. ",
       "hebrew_masoretic": "וְהָיָה֙ בַּיּ֣וֹם הַשִּׁשִּׁ֔י וְהֵכִ֖ינוּ אֵ֣ת אֲשֶׁר־יָבִ֑יאוּ וְהָיָ֣ה מִשְׁנֶ֔ה עַ֥ל אֲשֶֽׁר־יִלְקְט֖וּ י֥וֹם ׀ יֽוֹם׃",
+      "douay_rheims": "But the sixth day let them provide for to bring in: and let it be double to that they were wont to gather every day.",
+      "finnish_biblia": "Ja pitää tapahtuman, että he kuudentena päivänä valmistavat sen kuin he tuovat (kotia) ja kaksikertaisesti sen suhteen, minkä he muutoin joka päivä kokoovat. ",
       "king_james": "And it shall come to pass, that on the sixth day they shall prepare that which they bring in; and it shall be twice as much as they gather daily."
     },
     {
       "verse": 6,
       "latin_vulgate": "Dixeruntque Moyses et Aaron ad omnes filios Israël : Vespere scietis quod Dominus eduxerit vos de terra Ægypti, ",
       "hebrew_masoretic": "וַיֹּ֤אמֶר מֹשֶׁה֙ וְאַהֲרֹ֔ן אֶֽל־כׇּל־בְּנֵ֖י יִשְׂרָאֵ֑ל עֶ֕רֶב וִֽידַעְתֶּ֕ם כִּ֧י יְהֹוָ֛ה הוֹצִ֥יא אֶתְכֶ֖ם מֵאֶ֥רֶץ מִצְרָֽיִם׃",
+      "douay_rheims": "And Moses and Aaron said to the children of Israel In the evening you shall know that the Lord hath brought you forth out of the land of Egypt:",
+      "finnish_biblia": "Moses ja Aaron sanoivat kaikille Israelin lapsille: ehtoona pitää teidän tietämän Herran johdattaneen teidät Egyptin maalta. ",
       "king_james": "And Moses and Aaron said unto all the children of Israel, At even, then ye shall know that the Lord hath brought you out from the land of Egypt:"
     },
     {
       "verse": 7,
       "latin_vulgate": "et mane videbitis gloriam Domini : audivit enim murmur vestrum contra Dominum : nos vero quid sumus, quia mussitastis contra nos ? ",
       "hebrew_masoretic": "וּבֹ֗קֶר וּרְאִיתֶם֙ אֶת־כְּב֣וֹד יְהֹוָ֔ה בְּשׇׁמְע֥וֹ אֶת־תְּלֻנֹּתֵיכֶ֖ם עַל־יְהֹוָ֑ה וְנַ֣חְנוּ מָ֔ה כִּ֥י (תלונו) [תַלִּ֖ינוּ] עָלֵֽינוּ׃",
+      "douay_rheims": "And in the morning you shall see the glory of the Lord: for he hath heard your murmuring against the Lord: but as for us, what are we, that you mutter against us?",
+      "finnish_biblia": "Ja huomenna pitää teidän näkemän Herran kunnian; sillä hän on kuullut teidän napistuksenne Herraa vastaan. Ja mitkä me olemme, että te napisette meitä vastaan? ",
       "king_james": "And in the morning, then ye shall see the glory of the Lord; for that he heareth your murmurings against the Lord: and what are we, that ye murmur against us?"
     },
     {
       "verse": 8,
       "latin_vulgate": "Et ait Moyses : Dabit vobis Dominus vespere carnes edere, et mane panes in saturitate : eo quod audierit murmurationes vestras quibus murmurati estis contra eum : nos enim quid sumus ? nec contra nos est murmur vestrum, sed contra Dominum. ",
       "hebrew_masoretic": "וַיֹּ֣אמֶר מֹשֶׁ֗ה בְּתֵ֣ת יְהֹוָה֩ לָכֶ֨ם בָּעֶ֜רֶב בָּשָׂ֣ר לֶאֱכֹ֗ל וְלֶ֤חֶם בַּבֹּ֙קֶר֙ לִשְׂבֹּ֔עַ בִּשְׁמֹ֤עַ יְהֹוָה֙ אֶת־תְּלֻנֹּ֣תֵיכֶ֔ם אֲשֶׁר־אַתֶּ֥ם מַלִּינִ֖ם עָלָ֑יו וְנַ֣חְנוּ מָ֔ה לֹא־עָלֵ֥ינוּ תְלֻנֹּתֵיכֶ֖ם כִּ֥י עַל־יְהֹוָֽה׃",
+      "douay_rheims": "And Moses said: In the evening the Lord will give you flesh to eat, and in the morning bread to the full: for he hath heard your murmurings, with which you have murmured against him, for what are we? your murmuring is not against us, but against the Lord.",
+      "finnish_biblia": "Vielä sanoi Moses: Herra antaa teille ehtoona lihaa syödäksenne, ja huomenna leipää teidän ravinnoksenne, että Herra on kuullut teidän napistuksenne, jolla te olette napisseet häntä vastaan. Sillä mitkä me olemme? Teidän napistuksenne ei ole meitä, vaan Herraa vastaan. ",
       "king_james": "And Moses said, This shall be, when the Lord shall give you in the evening flesh to eat, and in the morning bread to the full; for that the Lord heareth your murmurings which ye murmur against him: and what are we? your murmurings are not against us, but against the Lord."
     },
     {
       "verse": 9,
       "latin_vulgate": "Dixit quoque Moyses ad Aaron : Dic universæ congregationi filiorum Israël : Accedite coram Domino : audivit enim murmur vestrum. ",
       "hebrew_masoretic": "וַיֹּ֤אמֶר מֹשֶׁה֙ אֶֽל־אַהֲרֹ֔ן אֱמֹ֗ר אֶֽל־כׇּל־עֲדַת֙ בְּנֵ֣י יִשְׂרָאֵ֔ל קִרְב֖וּ לִפְנֵ֣י יְהֹוָ֑ה כִּ֣י שָׁמַ֔ע אֵ֖ת תְּלֻנֹּתֵיכֶֽם׃",
+      "douay_rheims": "Moses also said to Aaron: Say to the whole congregation of the children of Israel: Come before the Lord; for he hath heard your murmuring.",
+      "finnish_biblia": "Ja Moses sanoi Aaronille: sano koko Israelin lasten joukolle: tulkaat Herran eteen, sillä hän on kuullut teidän napistuksenne. ",
       "king_james": "And Moses spake unto Aaron, Say unto all the congregation of the children of Israel, Come near before the Lord: for he hath heard your murmurings."
     },
     {
       "verse": 10,
       "latin_vulgate": "Cumque loqueretur Aaron ad omnem cœtum filiorum Israël, respexerunt ad solitudinem : et ecce gloria Domini apparuit in nube. ",
       "hebrew_masoretic": "וַיְהִ֗י כְּדַבֵּ֤ר אַהֲרֹן֙ אֶל־כׇּל־עֲדַ֣ת בְּנֵֽי־יִשְׂרָאֵ֔ל וַיִּפְנ֖וּ אֶל־הַמִּדְבָּ֑ר וְהִנֵּה֙ כְּב֣וֹד יְהֹוָ֔ה נִרְאָ֖ה בֶּעָנָֽן׃ {פ}",
+      "douay_rheims": "And when Aaron spoke to all the assembly of the children of Israel, they looked towards the wilderness; and behold the glory of the Lord appeared in a cloud.",
+      "finnish_biblia": "Ja tapahtui, kun Aaron näitä puhunut oli kaikelle Israelin lasten joukolle, käänsivät he itsensä korpeen päin, ja katso, Herran kunnia näkyi pilvessä. ",
       "king_james": "And it came to pass, as Aaron spake unto the whole congregation of the children of Israel, that they looked toward the wilderness, and, behold, the glory of the Lord appeared in the cloud."
     },
     {
       "verse": 11,
       "latin_vulgate": "Locutus est autem Dominus ad Moysen, dicens : ",
       "hebrew_masoretic": "וַיְדַבֵּ֥ר יְהֹוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃",
+      "douay_rheims": "And the Lord spoke to Moses, saying:",
+      "finnish_biblia": "Ja Herra puhui Mosekselle, sanoen: ",
       "king_james": "And the Lord spake unto Moses, saying,"
     },
     {
       "verse": 12,
       "latin_vulgate": "Audivi murmurationes filiorum Israël. Loquere ad eos : Vespere comedetis carnes, et mane saturabimini panibus : scietisque quod ego sum Dominus Deus vester. ",
       "hebrew_masoretic": "שָׁמַ֗עְתִּי אֶת־תְּלוּנֹּת֮ בְּנֵ֣י יִשְׂרָאֵל֒ דַּבֵּ֨ר אֲלֵהֶ֜ם לֵאמֹ֗ר בֵּ֤ין הָֽעַרְבַּ֙יִם֙ תֹּאכְל֣וּ בָשָׂ֔ר וּבַבֹּ֖קֶר תִּשְׂבְּעוּ־לָ֑חֶם וִֽידַעְתֶּ֕ם כִּ֛י אֲנִ֥י יְהֹוָ֖ה אֱלֹהֵיכֶֽם׃",
+      "douay_rheims": "I have heard the murmuring of the children of Israel, say to them: In the evening you shall eat flesh, and in the morning you shall have your fill of bread; and you shall know that I am the Lord your God.",
+      "finnish_biblia": "Minä olen kuullut Israelin lasten napistuksen, puhu heille sanoen: kahden ehtoon välillä pitää teillä oleman lihaa syödäksenne, ja aamulla pitää teidän ravituksi tuleman leivästä: ja teidän pitää tietämän, että minä olen Herra teidän Jumalanne. ",
       "king_james": "I have heard the murmurings of the children of Israel: speak unto them, saying, At even ye shall eat flesh, and in the morning ye shall be filled with bread; and ye shall know that I am the Lord your God."
     },
     {
       "verse": 13,
       "latin_vulgate": "Factum est ergo vespere, et ascendens coturnix, cooperuit castra : mane quoque ros jacuit per circuitum castrorum. ",
       "hebrew_masoretic": "וַיְהִ֣י בָעֶ֔רֶב וַתַּ֣עַל הַשְּׂלָ֔ו וַתְּכַ֖ס אֶת־הַֽמַּחֲנֶ֑ה וּבַבֹּ֗קֶר הָֽיְתָה֙ שִׁכְבַ֣ת הַטַּ֔ל סָבִ֖יב לַֽמַּחֲנֶֽה׃",
+      "douay_rheims": "So it came to pass in the evening, that quails coming up, covered the camp: and in the morning a dew lay round about the camp.",
+      "finnish_biblia": "Ja tapahtui ehtoona, että peltokanat tulivat ja peittivät leirin, ja aamulla oli kaste leirin ympärinsä. ",
       "king_james": "And it came to pass, that at even the quails came up, and covered the camp: and in the morning the dew lay round about the host."
     },
     {
       "verse": 14,
       "latin_vulgate": "Cumque operuisset superficiem terræ, apparuit in solitudine minutum, et quasi pilo tusum in similitudinem pruinæ super terram. ",
       "hebrew_masoretic": "וַתַּ֖עַל שִׁכְבַ֣ת הַטָּ֑ל וְהִנֵּ֞ה עַל־פְּנֵ֤י הַמִּדְבָּר֙ דַּ֣ק מְחֻסְפָּ֔ס דַּ֥ק כַּכְּפֹ֖ר עַל־הָאָֽרֶץ׃",
+      "douay_rheims": "And when it had covered the face of the earth, it appeared in the wilderness small, and as it were beaten with a pestle, like unto the hoar frost on the ground.",
+      "finnish_biblia": "Ja kuin kaste nousi, katso, niin oli korvessa jotakin ymmyrjäistä ja pientä, niin kuin härmää maan päällä. ",
       "king_james": "And when the dew that lay was gone up, behold, upon the face of the wilderness there lay a small round thing, as small as the hoar frost on the ground."
     },
     {
       "verse": 15,
       "latin_vulgate": "Quod cum vidissent filii Israël, dixerunt ad invicem : Manhu ? quod significat : Quid est hoc ? ignorabant enim quid esset. Quibus ait Moyses : Iste est panis quem Dominus dedit vobis ad vescendum. ",
       "hebrew_masoretic": "וַיִּרְא֣וּ בְנֵֽי־יִשְׂרָאֵ֗ל וַיֹּ֨אמְר֜וּ אִ֤ישׁ אֶל־אָחִיו֙ מָ֣ן ה֔וּא כִּ֛י לֹ֥א יָדְע֖וּ מַה־ה֑וּא וַיֹּ֤אמֶר מֹשֶׁה֙ אֲלֵהֶ֔ם ה֣וּא הַלֶּ֔חֶם אֲשֶׁ֨ר נָתַ֧ן יְהֹוָ֛ה לָכֶ֖ם לְאׇכְלָֽה׃",
+      "douay_rheims": "And when the children of Israel saw it, they said one to another: Manhu! which signifieth: What is this! for they knew not what it was. And Moses said to them: This is the bread which the Lord hath given you to eat.",
+      "finnish_biblia": "Ja kuin Israelin lapset sen näkivät, sanoivat he toinen toisellensa: Man tämä on; sillä he ei tietäneet mitä se oli. Mutta Moses sanoi heille: tämä on se leipä, jonka Herra teille on antanut syödäksenne. ",
       "king_james": "And when the children of Israel saw it, they said one to another, It is manna: for they wist not what it was. And Moses said unto them, This is the bread which the Lord hath given you to eat."
     },
     {
       "verse": 16,
       "latin_vulgate": "Hic est sermo, quem præcepit Dominus : Colligat unusquisque ex eo quantum sufficit ad vescendum : gomor per singula capita, juxta numerum animarum vestrarum quæ habitant in tabernaculo sic tolletis. ",
       "hebrew_masoretic": "זֶ֤ה הַדָּבָר֙ אֲשֶׁ֣ר צִוָּ֣ה יְהֹוָ֔ה לִקְט֣וּ מִמֶּ֔נּוּ אִ֖ישׁ לְפִ֣י אׇכְל֑וֹ עֹ֣מֶר לַגֻּלְגֹּ֗לֶת מִסְפַּר֙ נַפְשֹׁ֣תֵיכֶ֔ם אִ֛ישׁ לַאֲשֶׁ֥ר בְּאׇהֳל֖וֹ תִּקָּֽחוּ׃",
+      "douay_rheims": "This is the word that the Lord hath commanded: Let every one gather of it as much as is enough to eat; a gomor for every man, according to the number of your souls that dwell in a tent, so shall you take of it.",
+      "finnish_biblia": "Tämä on se, josta Herra käskenyt on. Jokainen kootkaan sitä niin paljo kuin hän itse syö, ja ottakaan gomor joka pääluvulle, henkiluvun jälkeen joka on hänen majassansa. ",
       "king_james": "This is the thing which the Lord hath commanded, Gather of it every man according to his eating, an omer for every man, according to the number of your persons; take ye every man for them which are in his tents."
     },
     {
       "verse": 17,
       "latin_vulgate": "Feceruntque ita filii Israël : et collegerunt, alius plus, alius minus. ",
       "hebrew_masoretic": "וַיַּעֲשׂוּ־כֵ֖ן בְּנֵ֣י יִשְׂרָאֵ֑ל וַֽיִּלְקְט֔וּ הַמַּרְבֶּ֖ה וְהַמַּמְעִֽיט׃",
+      "douay_rheims": "And the children of Israel did so: and they gathered, one more, another less.",
+      "finnish_biblia": "Ja Israelin lapset tekivät niin, ja kokosivat muutamat enemmän ja muutamat vähemmän. ",
       "king_james": "And the children of Israel did so, and gathered, some more, some less."
     },
     {
       "verse": 18,
       "latin_vulgate": "Et mensi sunt ad mensuram gomor : nec qui plus collegerat, habuit amplius : nec qui minus paraverat, reperit minus : sed singuli juxta id quod edere poterant, congregaverunt. ",
       "hebrew_masoretic": "וַיָּמֹ֣דּוּ בָעֹ֔מֶר וְלֹ֤א הֶעְדִּיף֙ הַמַּרְבֶּ֔ה וְהַמַּמְעִ֖יט לֹ֣א הֶחְסִ֑יר אִ֥ישׁ לְפִֽי־אׇכְל֖וֹ לָקָֽטוּ׃",
+      "douay_rheims": "And they measured by the measure of a gomor: neither had he more that had gathered more; nor did he find less that had provided less: but every one had gathered, according to what they were able to eat.",
+      "finnish_biblia": "Ja kuin he mittasivat sen gomorilla, niin ei sillä mitään liiaksi ollut, joka paljo koonnut oli, eikä siltä mitään puuttunut, joka vähemmän kokosi, mutta jokainen oli koonnut niin paljo kuin he syödäksensä tarvitsivat. ",
       "king_james": "And when they did mete it with an omer, he that gathered much had nothing over, and he that gathered little had no lack; they gathered every man according to his eating."
     },
     {
       "verse": 19,
       "latin_vulgate": "Dixitque Moyses ad eos : Nullus relinquat ex eo in mane. ",
       "hebrew_masoretic": "וַיֹּ֥אמֶר מֹשֶׁ֖ה אֲלֵהֶ֑ם אִ֕ישׁ אַל־יוֹתֵ֥ר מִמֶּ֖נּוּ עַד־בֹּֽקֶר׃",
+      "douay_rheims": "And Moses said to them: Let no man leave thereof till the morning.",
+      "finnish_biblia": "Ja Moses sanoi heille: ei kenenkään pidä siitä huomeneksi mitään jättämän. ",
       "king_james": "And Moses said, Let no man leave of it till the morning."
     },
     {
       "verse": 20,
       "latin_vulgate": "Qui non audierunt eum, sed dimiserunt quidam ex eis usque mane, et scatere cœpit vermibus, atque computruit : et iratus est contra eos Moyses.  ",
       "hebrew_masoretic": "וְלֹא־שָׁמְע֣וּ אֶל־מֹשֶׁ֗ה וַיּוֹתִ֨רוּ אֲנָשִׁ֤ים מִמֶּ֙נּוּ֙ עַד־בֹּ֔קֶר וַיָּ֥רֻם תּוֹלָעִ֖ים וַיִּבְאַ֑שׁ וַיִּקְצֹ֥ף עֲלֵהֶ֖ם מֹשֶֽׁה׃",
+      "douay_rheims": "And they hearkened not to him, but some of them left until the morning, and it began to be full of worms, and it putrified, and Moses was angry with them.",
+      "finnish_biblia": "Mutta ei he kuulleet Mosesta, monikahdat jättivät siitä jotakin huomeneksi. Niin madot kasvoivat siihen, ja tuli haisemaan. Ja Moses vihastui heidän päällensä. ",
       "king_james": "Notwithstanding they hearkened not unto Moses; but some of them left of it until the morning, and it bred worms, and stank: and Moses was wroth with them."
     },
     {
       "verse": 21,
       "latin_vulgate": " Colligebant autem mane singuli, quantum sufficere poterat ad vescendum : cumque incaluisset sol, liquefiebat. ",
       "hebrew_masoretic": "וַיִּלְקְט֤וּ אֹתוֹ֙ בַּבֹּ֣קֶר בַּבֹּ֔קֶר אִ֖ישׁ כְּפִ֣י אׇכְל֑וֹ וְחַ֥ם הַשֶּׁ֖מֶשׁ וְנָמָֽס׃",
+      "douay_rheims": "Now every one of them gathered in the morning, as much as might suffice to eat: and after the sun grew hot, it melted.",
+      "finnish_biblia": "Niin he kokosivat siitä joka aamu, niin paljon kuin jokainen syödäksensä tarvitsi. Mutta koska päivä tuli palavaksi, niin se suli. ",
       "king_james": "And they gathered it every morning, every man according to his eating: and when the sun waxed hot, it melted."
     },
     {
       "verse": 22,
       "latin_vulgate": "In die autem sexta collegerunt cibos duplices, id est, duo gomor per singulos homines : venerunt autem omnes principes multitudinis, et narraverunt Moysi. ",
       "hebrew_masoretic": "וַיְהִ֣י ׀ בַּיּ֣וֹם הַשִּׁשִּׁ֗י לָֽקְט֥וּ לֶ֙חֶם֙ מִשְׁנֶ֔ה שְׁנֵ֥י הָעֹ֖מֶר לָאֶחָ֑ד וַיָּבֹ֙אוּ֙ כׇּל־נְשִׂיאֵ֣י הָֽעֵדָ֔ה וַיַּגִּ֖ידוּ לְמֹשֶֽׁה׃",
+      "douay_rheims": "But on the sixth day they gathered twice as much, that is, two gomors every man: and all the rulers of the multitude came, and told Moses.",
+      "finnish_biblia": "Ja tapahtui kuudentena päivänä, että he kokosivat kaksikertaisesti sitä leipää, kaksi gomoria kullekin. Ja kaikki päämiehet kansan seasta tulivat ja ilmoittivat sen Mosekselle. ",
       "king_james": "And it came to pass, that on the sixth day they gathered twice as much bread, two omers for one man: and all the rulers of the congregation came and told Moses."
     },
     {
       "verse": 23,
       "latin_vulgate": "Qui ait eis : Hoc est quod locutus est Dominus : Requies sabbati sanctificata est Domino cras : quodcumque operandum est, facite, et quæ coquenda sunt coquite : quidquid autem reliquum fuerit, reponite usque in mane. ",
       "hebrew_masoretic": "וַיֹּ֣אמֶר אֲלֵהֶ֗ם ה֚וּא אֲשֶׁ֣ר דִּבֶּ֣ר יְהֹוָ֔ה שַׁבָּת֧וֹן שַׁבַּת־קֹ֛דֶשׁ לַֽיהֹוָ֖ה מָחָ֑ר אֵ֣ת אֲשֶׁר־תֹּאפ֞וּ אֵפ֗וּ וְאֵ֤ת אֲשֶֽׁר־תְּבַשְּׁלוּ֙ בַּשֵּׁ֔לוּ וְאֵת֙ כׇּל־הָ֣עֹדֵ֔ף הַנִּ֧יחוּ לָכֶ֛ם לְמִשְׁמֶ֖רֶת עַד־הַבֹּֽקֶר׃",
+      "douay_rheims": "And he said to them: This is what the Lord hath spoken: To morrow is the rest of the sabbath sanctified to the Lord. Whatsoever work is to be done, do it; and the meats that are to be dressed, dress them; and whatsoever shall remain, lay it up until the morning.",
+      "finnish_biblia": "Ja hän sanoi heille: tämä on se minkä Herra sanonut on: huomenna on sabbati, pyhä lepo Herralle: mitä te leivotte, se leipokaat, ja mitä te keitätte, se keittäkäät; mutta mitä liiaksi on, jättäkäät se tähteelle pantaa huomeneksi. ",
       "king_james": "And he said unto them, This is that which the Lord hath said, To morrow is the rest of the holy sabbath unto the Lord: bake that which ye will bake to day, and seethe that ye will seethe; and that which remaineth over lay up for you to be kept until the morning."
     },
     {
       "verse": 24,
       "latin_vulgate": "Feceruntque ita ut præceperat Moyses, et non computruit, neque vermis inventus est in eo. ",
       "hebrew_masoretic": "וַיַּנִּ֤יחוּ אֹתוֹ֙ עַד־הַבֹּ֔קֶר כַּאֲשֶׁ֖ר צִוָּ֣ה מֹשֶׁ֑ה וְלֹ֣א הִבְאִ֔ישׁ וְרִמָּ֖ה לֹא־הָ֥יְתָה בּֽוֹ׃",
+      "douay_rheims": "And they did so as Moses had commanded, and it did not putrify, neither was there worm found in it.",
+      "finnish_biblia": "Ja he jättivät sitä huomeneksi, niinkuin Moses käskenyt oli: ja ei tullut se haisemaan, eikä matoa tullut siihen. ",
       "king_james": "And they laid it up till the morning, as Moses bade: and it did not stink, neither was there any worm therein."
     },
     {
       "verse": 25,
       "latin_vulgate": "Dixitque Moyses : Comedite illud hodie, quia sabbatum est Domini : non invenietur hodie in agro. ",
       "hebrew_masoretic": "וַיֹּ֤אמֶר מֹשֶׁה֙ אִכְלֻ֣הוּ הַיּ֔וֹם כִּֽי־שַׁבָּ֥ת הַיּ֖וֹם לַיהֹוָ֑ה הַיּ֕וֹם לֹ֥א תִמְצָאֻ֖הוּ בַּשָּׂדֶֽה׃",
+      "douay_rheims": "And Moses said: Eat it to day, because it is the sabbath of the Lord: to day it shall not be found in the field.",
+      "finnish_biblia": "Niin sanoi Moses: syökäät se tänäpänä, sillä tätäpänä on Herran sabbati: tänäpänä ette sitä löydä kedolta. ",
       "king_james": "And Moses said, Eat that to day; for to day is a sabbath unto the Lord: to day ye shall not find it in the field."
     },
     {
       "verse": 26,
       "latin_vulgate": "Sex diebus colligite : in die autem septimo sabbatum est Domini, idcirco non invenietur. ",
       "hebrew_masoretic": "שֵׁ֥שֶׁת יָמִ֖ים תִּלְקְטֻ֑הוּ וּבַיּ֧וֹם הַשְּׁבִיעִ֛י שַׁבָּ֖ת לֹ֥א יִֽהְיֶה־בּֽוֹ׃",
+      "douay_rheims": "Gather it six days; but on the seventh day is the sabbath of the Lord, therefore it shall not be found.",
+      "finnish_biblia": "Kuusi päivää pitää teidän kokooman; mutta seitsemäntenä päivänä on sabbati, ja ei löydetä sitä. ",
       "king_james": "Six days ye shall gather it; but on the seventh day, which is the sabbath, in it there shall be none."
     },
     {
       "verse": 27,
       "latin_vulgate": "Venitque septima dies : et egressi de populo ut colligerent, non invenerunt. ",
       "hebrew_masoretic": "וַֽיְהִי֙ בַּיּ֣וֹם הַשְּׁבִיעִ֔י יָצְא֥וּ מִן־הָעָ֖ם לִלְקֹ֑ט וְלֹ֖א מָצָֽאוּ׃ {ס}",
+      "douay_rheims": "And the seventh day came; and some of the people going forth to gather, found none.",
+      "finnish_biblia": "Ja tapahtui, että seitsemäntenä päivänä läksivät muutamat kansan seasta kokoomaan, ja ei he löytäneet mitään. ",
       "king_james": "And it came to pass, that there went out some of the people on the seventh day for to gather, and they found none."
     },
     {
       "verse": 28,
       "latin_vulgate": "Dixit autem Dominus ad Moysen : Usquequo non vultis custodire mandata mea et legem meam ? ",
       "hebrew_masoretic": "וַיֹּ֥אמֶר יְהֹוָ֖ה אֶל־מֹשֶׁ֑ה עַד־אָ֙נָה֙ מֵֽאַנְתֶּ֔ם לִשְׁמֹ֥ר מִצְוֺתַ֖י וְתוֹרֹתָֽי׃",
+      "douay_rheims": "And the Lord said to Moses: How long will you refuse to keep my commandments, and my law?",
+      "finnish_biblia": "Niin Herra sanoi Mosekselle: kuinka kauvan ette tahdo pitää minun käskyjäni ja lakiani? ",
       "king_james": "And the Lord said unto Moses, How long refuse ye to keep my commandments and my laws?"
     },
     {
       "verse": 29,
       "latin_vulgate": "videte quod Dominus dederit vobis sabbatum, et propter hoc die sexta tribuit vobis cibos duplices : maneat unusquisque apud semetipsum ; nullus egrediatur de loco suo die septimo. ",
       "hebrew_masoretic": "רְא֗וּ כִּֽי־יְהֹוָה֮ נָתַ֣ן לָכֶ֣ם הַשַּׁבָּת֒ עַל־כֵּ֠ן ה֣וּא נֹתֵ֥ן לָכֶ֛ם בַּיּ֥וֹם הַשִּׁשִּׁ֖י לֶ֣חֶם יוֹמָ֑יִם שְׁב֣וּ ׀ אִ֣ישׁ תַּחְתָּ֗יו אַל־יֵ֥צֵא אִ֛ישׁ מִמְּקֹמ֖וֹ בַּיּ֥וֹם הַשְּׁבִיעִֽי׃",
+      "douay_rheims": "See that the Lord hath given you the sabbath, and for this reason on the sixth day he giveth you a double provision: let each man stay at home, and let none go forth out of his place the seventh day.",
+      "finnish_biblia": "Katsokaat, Herra on teille antanut sabbatin, ja sen tähden on hän antanut teille kuudentena päivänä kahden päivän leivän: niin olkaan siis jokainen kotonansa, ja älkään yksikään lähtekö siastansa seitsemäntenä päivänä. ",
       "king_james": "See, for that the Lord hath given you the sabbath, therefore he giveth you on the sixth day the bread of two days; abide ye every man in his place, let no man go out of his place on the seventh day."
     },
     {
       "verse": 30,
       "latin_vulgate": "Et sabbatizavit populus die septimo. ",
       "hebrew_masoretic": "וַיִּשְׁבְּת֥וּ הָעָ֖ם בַּיּ֥וֹם הַשְּׁבִעִֽי׃",
+      "douay_rheims": "And the people kept the sabbath on the seventh day.",
+      "finnish_biblia": "Niin lepäsi kansa seitsemäntenä päivänä. ",
       "king_james": "So the people rested on the seventh day."
     },
     {
       "verse": 31,
       "latin_vulgate": "Appellavitque domus Israël nomen ejus Man : quod erat quasi semen coriandri album, gustusque ejus quasi similæ cum melle. ",
       "hebrew_masoretic": "וַיִּקְרְא֧וּ בֵֽית־יִשְׂרָאֵ֛ל אֶת־שְׁמ֖וֹ מָ֑ן וְה֗וּא כְּזֶ֤רַע גַּד֙ לָבָ֔ן וְטַעְמ֖וֹ כְּצַפִּיחִ֥ת בִּדְבָֽשׁ׃",
+      "douay_rheims": "And the house of Israel called the name thereof Manna: and it was like coriander seed, white, and the taste thereof like to flour with honey.",
+      "finnish_biblia": "Ja Israelin huone kutsui hänen nimensä man: ja se oli niinkuin korianderin siemen, valkia, ja maisti niinkuin sämpylä hunajan kanssa. ",
       "king_james": "And the house of Israel called the name thereof Manna: and it was like coriander seed, white; and the taste of it was like wafers made with honey."
     },
     {
       "verse": 32,
       "latin_vulgate": "Dixit autem Moyses : Iste est sermo, quem præcepit Dominus : Imple gomor ex eo, et custodiatur in futuras retro generationes : ut noverint panem, quo alui vos in solitudine, quando educti estis de terra Ægypti. ",
       "hebrew_masoretic": "וַיֹּ֣אמֶר מֹשֶׁ֗ה זֶ֤ה הַדָּבָר֙ אֲשֶׁ֣ר צִוָּ֣ה יְהֹוָ֔ה מְלֹ֤א הָעֹ֙מֶר֙ מִמֶּ֔נּוּ לְמִשְׁמֶ֖רֶת לְדֹרֹתֵיכֶ֑ם לְמַ֣עַן ׀ יִרְא֣וּ אֶת־הַלֶּ֗חֶם אֲשֶׁ֨ר הֶאֱכַ֤לְתִּי אֶתְכֶם֙ בַּמִּדְבָּ֔ר בְּהוֹצִיאִ֥י אֶתְכֶ֖ם מֵאֶ֥רֶץ מִצְרָֽיִם׃",
+      "douay_rheims": "And Moses said: This is the word which the Lord hath commanded: Fill a gomor of it, and let it be kept unto generations to come hereafter; that they may know the bread, wherewith I fed you in the wilderness when you were brought forth out of the land of Egypt.",
+      "finnish_biblia": "Ja Moses sanoi: tämä on se minkä Herra käskenyt on: täytä gomor siitä, kätkettää teidän jälkeentulevaisillenne: että he näkisivät sen leivän, jolla minä olen teitä ruokkinut korvessa, koska minä johdatin teitä ulos Egyptin maalta. ",
       "king_james": "And Moses said, This is the thing which the Lord commandeth, Fill an omer of it to be kept for your generations; that they may see the bread wherewith I have fed you in the wilderness, when I brought you forth from the land of Egypt."
     },
     {
       "verse": 33,
       "latin_vulgate": "Dixitque Moyses ad Aaron : Sume vas unum, et mitte ibi man, quantum potest capere gomor, et repone coram Domino ad servandum in generationes vestras, ",
       "hebrew_masoretic": "וַיֹּ֨אמֶר מֹשֶׁ֜ה אֶֽל־אַהֲרֹ֗ן קַ֚ח צִנְצֶ֣נֶת אַחַ֔ת וְתֶן־שָׁ֥מָּה מְלֹֽא־הָעֹ֖מֶר מָ֑ן וְהַנַּ֤ח אֹתוֹ֙ לִפְנֵ֣י יְהֹוָ֔ה לְמִשְׁמֶ֖רֶת לְדֹרֹתֵיכֶֽם׃",
+      "douay_rheims": "And Moses said to Aaron: Take a vessel, and put manna into it, as much as a gomor can hold; and lay it up before the Lord, to keep unto your generations,",
+      "finnish_biblia": "Ja Moses sanoi Aaronille: ota astia, ja pane siihen gomorin täysi mannaa: ja pane se Herran eteen, tallella pidettää teidän jälkeen tulevaisillenne. ",
       "king_james": "And Moses said unto Aaron, Take a pot, and put an omer full of manna therein, and lay it up before the Lord, to be kept for your generations."
     },
     {
       "verse": 34,
       "latin_vulgate": "sicut præcepit Dominus Moysi. Posuitque illud Aaron in tabernaculo reservandum. ",
       "hebrew_masoretic": "כַּאֲשֶׁ֛ר צִוָּ֥ה יְהֹוָ֖ה אֶל־מֹשֶׁ֑ה וַיַּנִּיחֵ֧הוּ אַהֲרֹ֛ן לִפְנֵ֥י הָעֵדֻ֖ת לְמִשְׁמָֽרֶת׃",
+      "douay_rheims": "As the Lord commanded Moses. And Aaron put it in the tabernacle to be kept.",
+      "finnish_biblia": "Niinkuin Herra käskenyt oli Mosekselle, niin Aaron pani sen todistuksen eteen tallella pidettäväksi. ",
       "king_james": "As the Lord commanded Moses, so Aaron laid it up before the Testimony, to be kept."
     },
     {
       "verse": 35,
       "latin_vulgate": "Filii autem Israël comederunt man quadraginta annis, donec venirent in terram habitabilem : hoc cibo aliti sunt, usquequo tangerent fines terræ Chanaan. ",
       "hebrew_masoretic": "וּבְנֵ֣י יִשְׂרָאֵ֗ל אָֽכְל֤וּ אֶת־הַמָּן֙ אַרְבָּעִ֣ים שָׁנָ֔ה עַד־בֹּאָ֖ם אֶל־אֶ֣רֶץ נוֹשָׁ֑בֶת אֶת־הַמָּן֙ אָֽכְל֔וּ עַד־בֹּאָ֕ם אֶל־קְצֵ֖ה אֶ֥רֶץ כְּנָֽעַן׃",
+      "douay_rheims": "And the children of Israel ate manna forty years, till they came to a habitable land: with this meat were they fed, until they reached the borders of the land of Chanaan.",
+      "finnish_biblia": "Ja Israelin lapset söivät mannaa neljäkymmentä ajastaikaa, siihenasti kuin he tulivat sille maalle jossa heidän asuman piti: siihenasti kuin he tulivat Kanaanin maan rajoille, söivät he mannaa. ",
       "king_james": "And the children of Israel did eat manna forty years, until they came to a land inhabited; they did eat manna, until they came unto the borders of the land of Canaan."
     },
     {
       "verse": 36,
       "latin_vulgate": "Gomor autem decima pars est ephi.   ",
       "hebrew_masoretic": "וְהָעֹ֕מֶר עֲשִׂרִ֥ית הָאֵיפָ֖ה הֽוּא׃ {פ}",
+      "douay_rheims": "Now a gomor is the tenth part of an ephi. ",
+      "finnish_biblia": "Ja gomor on kymmenes osa ephaa.   ",
       "king_james": "Now an omer is the tenth part of an ephah. "
     }
   ]

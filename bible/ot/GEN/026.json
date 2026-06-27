@@ -2,6 +2,8 @@
   "book_id": "GEN",
   "latin_name": "Genesis",
   "hebrew_name": "בְּרֵאשִׁית",
+  "douay_name": "Genesis",
+  "finnish_name": "1. Mooseksen kirja",
   "english_name": "Genesis",
   "chapter": 26,
   "verses": [
@@ -9,210 +11,280 @@
       "verse": 1,
       "latin_vulgate": "Orta autem fame super terram post eam sterilitatem, quæ acciderat in diebus Abraham, abiit Isaac ad Abimelech regem Palæstinorum in Gerara. ",
       "hebrew_masoretic": "וַיְהִ֤י רָעָב֙ בָּאָ֔רֶץ מִלְּבַד֙ הָרָעָ֣ב הָרִאשׁ֔וֹן אֲשֶׁ֥ר הָיָ֖ה בִּימֵ֣י אַבְרָהָ֑ם וַיֵּ֧לֶךְ יִצְחָ֛ק אֶל־אֲבִימֶ֥לֶךְ מֶֽלֶךְ־פְּלִשְׁתִּ֖ים גְּרָֽרָה׃",
+      "douay_rheims": "And when a famine came in the land, after that barrenness which had happened in the days of Abraham, Isaac went to Abimelech, king of the Palestines, to Gerara.",
+      "finnish_biblia": "Niin kallis aika tuli maalle sen entisen jälkeen, joka oli Abrahamin ajalla: ja Isaak meni Abimelekin Philistealaisten kuninkaan tykö Gerariin. ",
       "king_james": "And there was a famine in the land, beside the first famine that was in the days of Abraham. And Isaac went unto Abimelech king of the Philistines unto Gerar."
     },
     {
       "verse": 2,
       "latin_vulgate": "Apparuitque ei Dominus, et ait : Ne descendas in Ægyptum, sed quiesce in terra quam dixero tibi, ",
       "hebrew_masoretic": "וַיֵּרָ֤א אֵלָיו֙ יְהֹוָ֔ה וַיֹּ֖אמֶר אַל־תֵּרֵ֣ד מִצְרָ֑יְמָה שְׁכֹ֣ן בָּאָ֔רֶץ אֲשֶׁ֖ר אֹמַ֥ר אֵלֶֽיךָ׃",
+      "douay_rheims": "And the Lord appeared to him, and said: Go not down into Egypt, but stay in the land that I shall tell thee.",
+      "finnish_biblia": "Niin Herra ilmestyi hänelle, ja sanoi: älä mene Egyptiin, vaan asu sillä maalla, jonka minä sanon sinulle. ",
       "king_james": "And the Lord appeared unto him, and said, Go not down into Egypt; dwell in the land which I shall tell thee of:"
     },
     {
       "verse": 3,
       "latin_vulgate": "et peregrinare in ea : eroque tecum, et benedicam tibi : tibi enim et semini tuo dabo universas regiones has, complens juramentum quod spopondi Abraham patri tuo. ",
       "hebrew_masoretic": "גּ֚וּר בָּאָ֣רֶץ הַזֹּ֔את וְאֶֽהְיֶ֥ה עִמְּךָ֖ וַאֲבָרְכֶ֑ךָּ כִּֽי־לְךָ֣ וּֽלְזַרְעֲךָ֗ אֶתֵּן֙ אֶת־כׇּל־הָֽאֲרָצֹ֣ת הָאֵ֔ל וַהֲקִֽמֹתִי֙ אֶת־הַשְּׁבֻעָ֔ה אֲשֶׁ֥ר נִשְׁבַּ֖עְתִּי לְאַבְרָהָ֥ם אָבִֽיךָ׃",
+      "douay_rheims": "And sojourn in it, and I will be with thee, and will bless thee: for to thee and to thy seed I will give all these countries, to fulfil the oath which I swore to Abraham thy father.",
+      "finnish_biblia": "Ole muukalainen tällä maalla, ja minä olen sinun kanssas, ja siunaan sinua: sillä sinulle ja sinun siemenelles minä annan kaikki nämät maat, ja vahvistan sen valan, jonka minä Abrahamille sinun isälles vannonut olen. ",
       "king_james": "Sojourn in this land, and I will be with thee, and will bless thee; for unto thee, and unto thy seed, I will give all these countries, and I will perform the oath which I sware unto Abraham thy father;"
     },
     {
       "verse": 4,
       "latin_vulgate": "Et multiplicabo semen tuum sicut stellas cæli : daboque posteris tuis universas regiones has : et benedicentur in semine tuo omnes gentes terræ, ",
       "hebrew_masoretic": "וְהִרְבֵּיתִ֤י אֶֽת־זַרְעֲךָ֙ כְּכוֹכְבֵ֣י הַשָּׁמַ֔יִם וְנָתַתִּ֣י לְזַרְעֲךָ֔ אֵ֥ת כׇּל־הָאֲרָצֹ֖ת הָאֵ֑ל וְהִתְבָּרְכ֣וּ בְזַרְעֲךָ֔ כֹּ֖ל גּוֹיֵ֥י הָאָֽרֶץ׃",
+      "douay_rheims": "And I will multiply thy seed like the stars of heaven: and I will give to thy posterity all these countries: and in thy seed shall all the nations of the earth be blessed.",
+      "finnish_biblia": "Ja enennän sinun siemenes niinkuin taivaan tähdet: ja annan sinun siemenelles kaikki nämät maat: Ja sinun siemenes kautta pitää kaikki kansat maan päällä siunatuksi tuleman: ",
       "king_james": "And I will make thy seed to multiply as the stars of heaven, and will give unto thy seed all these countries; and in thy seed shall all the nations of the earth be blessed;"
     },
     {
       "verse": 5,
       "latin_vulgate": "eo quod obedierit Abraham voci meæ, et custodierit præcepta et mandata mea, et cæremonias legesque servaverit. ",
       "hebrew_masoretic": "עֵ֕קֶב אֲשֶׁר־שָׁמַ֥ע אַבְרָהָ֖ם בְּקֹלִ֑י וַיִּשְׁמֹר֙ מִשְׁמַרְתִּ֔י מִצְוֺתַ֖י חֻקּוֹתַ֥י וְתוֹרֹתָֽי׃",
+      "douay_rheims": "Because Abraham obeyed my voice, and kept my precepts and commandments, and observed my ceremonies and laws.",
+      "finnish_biblia": "Sillä Abraham oli kuuliainen minun äänelleni, ja piti minun oikeuteni, käskyni, säätyni ja lakini. ",
       "king_james": "Because that Abraham obeyed my voice, and kept my charge, my commandments, my statutes, and my laws."
     },
     {
       "verse": 6,
       "latin_vulgate": "Mansit itaque Isaac in Geraris.  ",
       "hebrew_masoretic": "וַיֵּ֥שֶׁב יִצְחָ֖ק בִּגְרָֽר׃",
+      "douay_rheims": "So Isaac abode in Gerara.",
+      "finnish_biblia": "Niin Isaak asui Gerarissa. ",
       "king_james": "And Isaac dwelt in Gerar:"
     },
     {
       "verse": 7,
       "latin_vulgate": " Qui cum interrogaretur a viris loci illius super uxore sua, respondit : Soror mea est : timuerat enim confiteri quod sibi esset sociata conjugio, reputans ne forte interficerent eum propter illius pulchritudinem. ",
       "hebrew_masoretic": "וַֽיִּשְׁאֲל֞וּ אַנְשֵׁ֤י הַמָּקוֹם֙ לְאִשְׁתּ֔וֹ וַיֹּ֖אמֶר אֲחֹ֣תִי הִ֑וא כִּ֤י יָרֵא֙ לֵאמֹ֣ר אִשְׁתִּ֔י פֶּן־יַֽהַרְגֻ֜נִי אַנְשֵׁ֤י הַמָּקוֹם֙ עַל־רִבְקָ֔ה כִּֽי־טוֹבַ֥ת מַרְאֶ֖ה הִֽוא׃",
+      "douay_rheims": "And when he was asked by the men of that place, concerning his wife, he answered: She is my sister: for he was afraid to confess that she was his wife, thinking lest perhaps they would kill him because of her beauty.",
+      "finnish_biblia": "Ja koska sen maan kansa kysyi hänen emännästänsä, sanoi hän: hän on minun sisareni; sillä hän pelkäsi sanoa: hän on minun emäntäni (ajatellen), ettei he joskus löisi minua kuoliaksi Rebekan tähden: sillä hän oli ihana kasvoilta. ",
       "king_james": "And the men of the place asked him of his wife; and he said, She is my sister: for he feared to say, She is my wife; lest, said he, the men of the place should kill me for Rebekah; because she was fair to look upon."
     },
     {
       "verse": 8,
       "latin_vulgate": "Cumque pertransissent dies plurimi, et ibidem moraretur, prospiciens Abimelech rex Palæstinorum per fenestram, vidit eum jocantem cum Rebecca uxore sua. ",
       "hebrew_masoretic": "וַיְהִ֗י כִּ֣י אָֽרְכוּ־ל֥וֹ שָׁם֙ הַיָּמִ֔ים וַיַּשְׁקֵ֗ף אֲבִימֶ֙לֶךְ֙ מֶ֣לֶךְ פְּלִשְׁתִּ֔ים בְּעַ֖ד הַֽחַלּ֑וֹן וַיַּ֗רְא וְהִנֵּ֤ה יִצְחָק֙ מְצַחֵ֔ק אֵ֖ת רִבְקָ֥ה אִשְׁתּֽוֹ׃",
+      "douay_rheims": "And when very many days were passed, and he abode there, Abimelech, king of the Palestines, looking out through a window, saw him playing with Rebecca, his wife.",
+      "finnish_biblia": "Ja tapahtui, koska hän siellä kappaleen aikaa viipyi, katsoi Abimelek Philistealaisten kuningas akkunasta, ja näki Isaakin hyväilevän emäntäänsä. ",
       "king_james": "And it came to pass, when he had been there a long time, that Abimelech king of the Philistines looked out at a window, and saw, and, behold, Isaac was sporting with Rebekah his wife."
     },
     {
       "verse": 9,
       "latin_vulgate": "Et accersito eo, ait : Perspicuum est quod uxor tua sit : cur mentitus es eam sororem tuam esse ? Respondit : Timui ne morerer propter eam. ",
       "hebrew_masoretic": "וַיִּקְרָ֨א אֲבִימֶ֜לֶךְ לְיִצְחָ֗ק וַיֹּ֙אמֶר֙ אַ֣ךְ הִנֵּ֤ה אִשְׁתְּךָ֙ הִ֔וא וְאֵ֥יךְ אָמַ֖רְתָּ אֲחֹ֣תִי הִ֑וא וַיֹּ֤אמֶר אֵלָיו֙ יִצְחָ֔ק כִּ֣י אָמַ֔רְתִּי פֶּן־אָמ֖וּת עָלֶֽיהָ׃",
+      "douay_rheims": "And calling for him, he said: It is evident she is thy wife: why didst thou feign her to be thy sister? He answered: I feared lest I should die for her sake.",
+      "finnish_biblia": "Niin kutsui Abimelek Isaakin, ja sanoi: katso, totisesti hän on sinun emäntäs: miksis olet sanonut: hän on minun sisareni? Ja Isaak sanoi hänelle: minä ajattelin, etten minä tapettaisi hänen tähtensä. ",
       "king_james": "And Abimelech called Isaac, and said, Behold, of a surety she is thy wife: and how saidst thou, She is my sister? And Isaac said unto him, Because I said, Lest I die for her."
     },
     {
       "verse": 10,
       "latin_vulgate": "Dixitque Abimelech : Quare imposuisti nobis ? potuit coire quispiam de populo cum uxore tua, et induxeras super nos grande peccatum. Præcepitque omni populo, dicens : ",
       "hebrew_masoretic": "וַיֹּ֣אמֶר אֲבִימֶ֔לֶךְ מַה־זֹּ֖את עָשִׂ֣יתָ לָּ֑נוּ כִּ֠מְעַ֠ט שָׁכַ֞ב אַחַ֤ד הָעָם֙ אֶת־אִשְׁתֶּ֔ךָ וְהֵבֵאתָ֥ עָלֵ֖ינוּ אָשָֽׁם׃",
+      "douay_rheims": "And Abimelech said: Why hast thou deceived us? Some man of the people might have lain with thy wife, and thou hadst brought upon us a great sin. And he commanded all the people, saying:",
+      "finnish_biblia": "Abimelek sanoi: miksis tämän meille teit? olis pikaisesti tapahtunut, että joku kansasta olis maannut sinun emäntäs kanssa, ja niin sinä olisit saattanut meidän päällemme rikoksen. ",
       "king_james": "And Abimelech said, What is this thou hast done unto us? one of the people might lightly have lien with thy wife, and thou shouldest have brought guiltiness upon us."
     },
     {
       "verse": 11,
       "latin_vulgate": "Qui tetigerit hominis hujus uxorem, morte morietur.  ",
       "hebrew_masoretic": "וַיְצַ֣ו אֲבִימֶ֔לֶךְ אֶת־כׇּל־הָעָ֖ם לֵאמֹ֑ר הַנֹּגֵ֜עַ בָּאִ֥ישׁ הַזֶּ֛ה וּבְאִשְׁתּ֖וֹ מ֥וֹת יוּמָֽת׃",
+      "douay_rheims": "He that shall touch this man's wife, shall surely be put to death.",
+      "finnish_biblia": "Niin Abimelek antoi käskyn kaikelle kansalle, sanoen: joka ryhtyy tähän mieheen, tahi hänen emäntäänsä, hänen pitää totisesti kuoleman. ",
       "king_james": "And Abimelech charged all his people, saying, He that toucheth this man or his wife shall surely be put to death."
     },
     {
       "verse": 12,
       "latin_vulgate": " Sevit autem Isaac in terra illa, et invenit in ipso anno centuplum : benedixitque ei Dominus. ",
       "hebrew_masoretic": "וַיִּזְרַ֤ע יִצְחָק֙ בָּאָ֣רֶץ הַהִ֔וא וַיִּמְצָ֛א בַּשָּׁנָ֥ה הַהִ֖וא מֵאָ֣ה שְׁעָרִ֑ים וַֽיְבָרְכֵ֖הוּ יְהֹוָֽה׃",
+      "douay_rheims": "And Isaac sowed in that land, and he found that same year a hundredfold: and the Lord blessed him.",
+      "finnish_biblia": "Ja Isaak kylvi sillä maalla, ja sai sinä vuonna satakertaisesti: sillä Herra siunasi hänen. ",
       "king_james": "Then Isaac sowed in that land, and received in the same year an hundredfold: and the Lord blessed him."
     },
     {
       "verse": 13,
       "latin_vulgate": "Et locupletatus est homo, et ibat proficiens atque succrescens, donec magnus vehementer effectus est : ",
       "hebrew_masoretic": "וַיִּגְדַּ֖ל הָאִ֑ישׁ וַיֵּ֤לֶךְ הָלוֹךְ֙ וְגָדֵ֔ל עַ֥ד כִּֽי־גָדַ֖ל מְאֹֽד׃",
+      "douay_rheims": "And the man was enriched, and he went on prospering and increasing, till he became exceeding great.",
+      "finnish_biblia": "Ja mies tuli voimalliseksi: ja menestyi sangen suuresti siihen asti, että hän juuri suureksi joutui. ",
       "king_james": "And the man waxed great, and went forward, and grew until he became very great:"
     },
     {
       "verse": 14,
       "latin_vulgate": "habuit quoque possessiones ovium et armentorum, et familiæ plurimum. Ob hoc invidentes ei Palæstini, ",
       "hebrew_masoretic": "וַֽיְהִי־ל֤וֹ מִקְנֵה־צֹאן֙ וּמִקְנֵ֣ה בָקָ֔ר וַעֲבֻדָּ֖ה רַבָּ֑ה וַיְקַנְא֥וּ אֹת֖וֹ פְּלִשְׁתִּֽים׃",
+      "douay_rheims": "And he had possessions of sheep and of herds, and a very great family. Wherefore the Palestines envying him,",
+      "finnish_biblia": "Ja hänellä oli paljo tavaraa lampaissa ja karjassa, oli myös paljo perhettä: sentähden Philistealaiset kadehtivat häntä. ",
       "king_james": "For he had possession of flocks, and possession of herds, and great store of servants: and the Philistines envied him."
     },
     {
       "verse": 15,
       "latin_vulgate": "omnes puteos, quos foderant servi patris illius Abraham, illo tempore obstruxerunt, implentes humo : ",
       "hebrew_masoretic": "וְכׇל־הַבְּאֵרֹ֗ת אֲשֶׁ֤ר חָֽפְרוּ֙ עַבְדֵ֣י אָבִ֔יו בִּימֵ֖י אַבְרָהָ֣ם אָבִ֑יו סִתְּמ֣וּם פְּלִשְׁתִּ֔ים וַיְמַלְא֖וּם עָפָֽר׃",
+      "douay_rheims": "Stopped up at that time all the wells, that the servants of his father, Abraham, had digged, filling them up with earth:",
+      "finnish_biblia": "Ja he tukitsivat kaikki kaivot, jotka hänen isänsä palveliat olivat kaivaneet, hänen isänsä Abrahamin aikana, ja täyttivät ne mullalla. ",
       "king_james": "For all the wells which his father’s servants had digged in the days of Abraham his father, the Philistines had stopped them, and filled them with earth."
     },
     {
       "verse": 16,
       "latin_vulgate": "in tantum, ut ipse Abimelech diceret ad Isaac : Recede a nobis, quoniam potentior nobis factus es valde. ",
       "hebrew_masoretic": "וַיֹּ֥אמֶר אֲבִימֶ֖לֶךְ אֶל־יִצְחָ֑ק לֵ֚ךְ מֵֽעִמָּ֔נוּ כִּֽי־עָצַ֥מְתָּ מִמֶּ֖נּוּ מְאֹֽד׃",
+      "douay_rheims": "Insomuch that Abimelech himself said to Isaac: Depart from us, for thou art become much mightier than we.",
+      "finnish_biblia": "Ja Abimelek sanoi Isaakille: mene pois meidän tyköämme: sillä sinä olet tullut paljo väkevämmäksi meitä. ",
       "king_james": "And Abimelech said unto Isaac, Go from us; for thou art much mightier than we."
     },
     {
       "verse": 17,
       "latin_vulgate": "Et ille discedens, ut veniret ad torrentem Geraræ, habitaretque ibi, ",
       "hebrew_masoretic": "וַיֵּ֥לֶךְ מִשָּׁ֖ם יִצְחָ֑ק וַיִּ֥חַן בְּנַֽחַל־גְּרָ֖ר וַיֵּ֥שֶׁב שָֽׁם׃",
+      "douay_rheims": "So he departed, and came to the torrent of Gerara, to dwell there:",
+      "finnish_biblia": "Niin Isaak läksi sieltä: ja teki majansa Gerarin laaksoon, ja asui siinä. ",
       "king_james": "And Isaac departed thence, and pitched his tent in the valley of Gerar, and dwelt there."
     },
     {
       "verse": 18,
       "latin_vulgate": "rursum fodit alios puteos, quos foderant servi patris sui Abraham, et quos, illo mortuo, olim obstruxerant Philisthiim : appellavitque eos eisdem nominibus quibus ante pater vocaverat. ",
       "hebrew_masoretic": "וַיָּ֨שׇׁב יִצְחָ֜ק וַיַּחְפֹּ֣ר ׀ אֶת־בְּאֵרֹ֣ת הַמַּ֗יִם אֲשֶׁ֤ר חָֽפְרוּ֙ בִּימֵי֙ אַבְרָהָ֣ם אָבִ֔יו וַיְסַתְּמ֣וּם פְּלִשְׁתִּ֔ים אַחֲרֵ֖י מ֣וֹת אַבְרָהָ֑ם וַיִּקְרָ֤א לָהֶן֙ שֵׁמ֔וֹת כַּשֵּׁמֹ֕ת אֲשֶׁר־קָרָ֥א לָהֶ֖ן אָבִֽיו׃",
+      "douay_rheims": "And he digged again other wells, which the servants of his father, Abraham, had digged, and which, after his death, the Philistines had of old stopped up: and he called them by the same names, by which his father before had called them.",
+      "finnish_biblia": "Ja Isaak antoi jällensä kaivaa ne vesikaivot, jotka he olivat kaivaneet hänen isänsä Abrahamin aikana, ja jotka Philistealaiset Abrahamin kuoleman jälkeen olivat tukinneet: ja nimitti ne niillä nimillä, joilla hänen isänsä ne kutsunut oli. ",
       "king_james": "And Isaac digged again the wells of water, which they had digged in the days of Abraham his father; for the Philistines had stopped them after the death of Abraham: and he called their names after the names by which his father had called them."
     },
     {
       "verse": 19,
       "latin_vulgate": "Foderuntque in torrente, et repererunt aquam vivam. ",
       "hebrew_masoretic": "וַיַּחְפְּר֥וּ עַבְדֵֽי־יִצְחָ֖ק בַּנָּ֑חַל וַיִּ֨מְצְאוּ־שָׁ֔ם בְּאֵ֖ר מַ֥יִם חַיִּֽים׃",
+      "douay_rheims": "And they digged in the torrent, and found living water:",
+      "finnish_biblia": "Niin kaivoivat myös Isaakin palveliat siihen laaksoon: ja löysivät sieltä luontolähteen. ",
       "king_james": "And Isaac’s servants digged in the valley, and found there a well of springing water."
     },
     {
       "verse": 20,
       "latin_vulgate": "Sed et ibi jurgium fuit pastorum Geraræ adversus pastores Isaac, dicentium : Nostra est aqua, quam ob rem nomen putei ex eo, quod acciderat, vocavit Calumniam. ",
       "hebrew_masoretic": "וַיָּרִ֜יבוּ רֹעֵ֣י גְרָ֗ר עִם־רֹעֵ֥י יִצְחָ֛ק לֵאמֹ֖ר לָ֣נוּ הַמָּ֑יִם וַיִּקְרָ֤א שֵֽׁם־הַבְּאֵר֙ עֵ֔שֶׂק כִּ֥י הִֽתְעַשְּׂק֖וּ עִמּֽוֹ׃",
+      "douay_rheims": "But there also the herdsmen of Gerara strove against the herdsmen of Isaac, saying: It is our water. Wherefore he called the name of the well, on occasion of that which had happened, Calumny.",
+      "finnish_biblia": "Mutta Gerarin paimenet riitelivät Isaakin paimenten kanssa, ja sanoivat: tämä on meidän vetemme. Niin hän kutsui sen kaivon Esek, että he riitelivät hänen kanssansa. ",
       "king_james": "And the herdmen of Gerar did strive with Isaac’s herdmen, saying, The water is ours: and he called the name of the well Esek; because they strove with him."
     },
     {
       "verse": 21,
       "latin_vulgate": "Foderunt autem et alium : et pro illo quoque rixati sunt, appellavitque eum Inimicitias. ",
       "hebrew_masoretic": "וַֽיַּחְפְּרוּ֙ בְּאֵ֣ר אַחֶ֔רֶת וַיָּרִ֖יבוּ גַּם־עָלֶ֑יהָ וַיִּקְרָ֥א שְׁמָ֖הּ שִׂטְנָֽה׃",
+      "douay_rheims": "And they digged also another; and for that they quarrelled likewise, and he called the name of it, Enmity.",
+      "finnish_biblia": "Niin kaivoivat he myös toisen kaivon, ja he riitelivät myös siitä: niin hän nimitti sen Sitna. ",
       "king_james": "And they digged another well, and strove for that also: and he called the name of it Sitnah."
     },
     {
       "verse": 22,
       "latin_vulgate": "Profectus inde fodit alium puteum, pro quo non contenderunt : itaque vocavit nomen ejus Latitudo, dicens : Nunc dilatavit nos Dominus, et fecit crescere super terram.  ",
       "hebrew_masoretic": "וַיַּעְתֵּ֣ק מִשָּׁ֗ם וַיַּחְפֹּר֙ בְּאֵ֣ר אַחֶ֔רֶת וְלֹ֥א רָב֖וּ עָלֶ֑יהָ וַיִּקְרָ֤א שְׁמָהּ֙ רְחֹב֔וֹת וַיֹּ֗אמֶר כִּֽי־עַתָּ֞ה הִרְחִ֧יב יְהֹוָ֛ה לָ֖נוּ וּפָרִ֥ינוּ בָאָֽרֶץ׃",
+      "douay_rheims": "Going forward from thence, he digged another well, for which they contended not; therefore he called the name thereof, Latitude, saying: Now hath the Lord given us room, and made us to increase upon the earth.",
+      "finnish_biblia": "Niin hän siirsi itsensä sieltä, ja kaivoi toisen kaivon, josta ei he riidelleet. Sen tähden nimitti hän sen Rehobot, ja sanoi: nyt Herra on antanut meille laviamman sian, ja on antanut meidän kasvaa maan päällä. ",
       "king_james": "And he removed from thence, and digged another well; and for that they strove not: and he called the name of it Rehoboth; and he said, For now the Lord hath made room for us, and we shall be fruitful in the land."
     },
     {
       "verse": 23,
       "latin_vulgate": " Ascendit autem ex illo loco in Bersabee, ",
       "hebrew_masoretic": "וַיַּ֥עַל מִשָּׁ֖ם בְּאֵ֥ר שָֽׁבַע׃",
+      "douay_rheims": "And he went up from that place to Bersabee,",
+      "finnish_biblia": "Sitte meni hän BerSabaan. ",
       "king_james": "And he went up from thence to Beer–sheba."
     },
     {
       "verse": 24,
       "latin_vulgate": "ubi apparuit ei Dominus in ipsa nocte, dicens : Ego sum Deus Abraham patris tui : noli timere, quia ego tecum sum : benedicam tibi, et multiplicabo semen tuum propter servum meum Abraham. ",
       "hebrew_masoretic": "וַיֵּרָ֨א אֵלָ֤יו יְהֹוָה֙ בַּלַּ֣יְלָה הַה֔וּא וַיֹּ֕אמֶר אָנֹכִ֕י אֱלֹהֵ֖י אַבְרָהָ֣ם אָבִ֑יךָ אַל־תִּירָא֙ כִּֽי־אִתְּךָ֣ אָנֹ֔כִי וּבֵֽרַכְתִּ֙יךָ֙ וְהִרְבֵּיתִ֣י אֶֽת־זַרְעֲךָ֔ בַּעֲב֖וּר אַבְרָהָ֥ם עַבְדִּֽי׃",
+      "douay_rheims": "Where the Lord appeared to him that same night, saying: I am the God of Abraham thy father, do not fear, for I am with thee: I will bless thee, and multiply thy seed for my servant Abraham's sake.",
+      "finnish_biblia": "Niin Herra ilmestyi hänelle sinä yönä ja sanoi: minä olen sinun isäs Abrahamin Jumala: älä pelkää, sillä minä olen kanssas, ja siunaan sinun, ja annan lisääntyä sinun siemenes, minun palveliani Abrahamin tähden. ",
       "king_james": "And the Lord appeared unto him the same night, and said, I am the God of Abraham thy father: fear not, for I am with thee, and will bless thee, and multiply thy seed for my servant Abraham’s sake."
     },
     {
       "verse": 25,
       "latin_vulgate": "Itaque ædificavit ibi altare : et invocato nomine Domini, extendit tabernaculum, præcepitque servis suis ut foderent puteum. ",
       "hebrew_masoretic": "וַיִּ֧בֶן שָׁ֣ם מִזְבֵּ֗חַ וַיִּקְרָא֙ בְּשֵׁ֣ם יְהֹוָ֔ה וַיֶּט־שָׁ֖ם אׇהֳל֑וֹ וַיִּכְרוּ־שָׁ֥ם עַבְדֵי־יִצְחָ֖ק בְּאֵֽר׃",
+      "douay_rheims": "And he built there an altar: and called upon the name of the Lord, and pitched his tent; and commanded his servants to dig a well.",
+      "finnish_biblia": "Ja hän rakensi siinä alttarin, ja saarnasi Herran nimestä, ja teki siihen majansa: ja hänen palveliansa kaivoivat siihen kaivon. ",
       "king_james": "And he builded an altar there, and called upon the name of the Lord, and pitched his tent there: and there Isaac’s servants digged a well."
     },
     {
       "verse": 26,
       "latin_vulgate": "Ad quem locum cum venissent de Geraris Abimelech, et Ochozath amicus illius, et Phicol dux militum, ",
       "hebrew_masoretic": "וַאֲבִימֶ֕לֶךְ הָלַ֥ךְ אֵלָ֖יו מִגְּרָ֑ר וַאֲחֻזַּת֙ מֵֽרֵעֵ֔הוּ וּפִיכֹ֖ל שַׂר־צְבָאֽוֹ׃",
+      "douay_rheims": "To which place when Abimelech, and Ochozath his friend, and Phicol chief captain of his soldiers, came from Gerara,",
+      "finnish_biblia": "Niin Abimelek meni hänen tykönsä Gerarista: ja Ahusat hänen ystävänsä, ja Phikol hänen sotajoukkonsa päämies. ",
       "king_james": "Then Abimelech went to him from Gerar, and Ahuzzath one of his friends, and Phichol the chief captain of his army."
     },
     {
       "verse": 27,
       "latin_vulgate": "locutus est eis Isaac : Quid venistis ad me, hominem quem odistis, et expulistis a vobis ? ",
       "hebrew_masoretic": "וַיֹּ֤אמֶר אֲלֵהֶם֙ יִצְחָ֔ק מַדּ֖וּעַ בָּאתֶ֣ם אֵלָ֑י וְאַתֶּם֙ שְׂנֵאתֶ֣ם אֹתִ֔י וַתְּשַׁלְּח֖וּנִי מֵאִתְּכֶֽם׃",
+      "douay_rheims": "Isaac said to them: Why are ye come to me, a man whom you hate, and have thrust out from you?",
+      "finnish_biblia": "Mutta Isaak sanoi heille: miksi te tulitte minun tyköni: ja te vainositte minua, ja ajoitte minun pois teidän tyköänne. ",
       "king_james": "And Isaac said unto them, Wherefore come ye to me, seeing ye hate me, and have sent me away from you?"
     },
     {
       "verse": 28,
       "latin_vulgate": "Qui responderunt : Vidimus tecum esse Dominum, et idcirco nos diximus : Sit juramentum inter nos, et ineamus fœdus, ",
       "hebrew_masoretic": "וַיֹּאמְר֗וּ רָא֣וֹ רָאִ֘ינוּ֮ כִּֽי־הָיָ֣ה יְהֹוָ֣ה ׀ עִמָּךְ֒ וַנֹּ֗אמֶר תְּהִ֨י נָ֥א אָלָ֛ה בֵּינוֹתֵ֖ינוּ בֵּינֵ֣ינוּ וּבֵינֶ֑ךָ וְנִכְרְתָ֥ה בְרִ֖ית עִמָּֽךְ׃",
+      "douay_rheims": "And they answered: We saw that the Lord is with thee, and therefore we said: Let there be an oath between us, and let us make a covenant,",
+      "finnish_biblia": "He sanoivat: me näimme ilmeissänsä, että Herra on sinun kanssas, sentähden me sanoimme: olkoon nyt vala meidän molempain vaiheellamme, meidän ja sinun välilläs, ja me teemme liiton sinun kanssas. ",
       "king_james": "And they said, We saw certainly that the Lord was with thee: and we said, Let there be now an oath betwixt us, even betwixt us and thee, and let us make a covenant with thee;"
     },
     {
       "verse": 29,
       "latin_vulgate": "ut non facias nobis quidquam mali, sicut et nos nihil tuorum attigimus, nec fecimus quod te læderet : sed cum pace dimisimus auctum benedictione Domini. ",
       "hebrew_masoretic": "אִם־תַּעֲשֵׂ֨ה עִמָּ֜נוּ רָעָ֗ה כַּאֲשֶׁר֙ לֹ֣א נְגַֽעֲנ֔וּךָ וְכַאֲשֶׁ֨ר עָשִׂ֤ינוּ עִמְּךָ֙ רַק־ט֔וֹב וַנְּשַׁלֵּֽחֲךָ֖ בְּשָׁל֑וֹם אַתָּ֥ה עַתָּ֖ה בְּר֥וּךְ יְהֹוָֽה׃",
+      "douay_rheims": "That thou do us no harm, as we on our part have touched nothing of thine, nor have done any thing to hurt thee; but with peace have sent thee away, increased with the blessing of the Lord.",
+      "finnish_biblia": "Ettes tekisi meille mitään vahinkoa, niinkuin emme mekään ole sinuun ryhtyneet, ja niinkuin emme myös tehneet sinulle muuta kuin hyvää, ja laskimme sinun rauhassa menemään. Sinä olet nyt Herran siunattu. ",
       "king_james": "That thou wilt do us no hurt, as we have not touched thee, and as we have done unto thee nothing but good, and have sent thee away in peace: thou art now the blessed of the Lord."
     },
     {
       "verse": 30,
       "latin_vulgate": "Fecit ergo eis convivium, et post cibum et potum ",
       "hebrew_masoretic": "וַיַּ֤עַשׂ לָהֶם֙ מִשְׁתֶּ֔ה וַיֹּאכְל֖וּ וַיִּשְׁתּֽוּ׃",
+      "douay_rheims": "And he made them a feast, and after they had eaten and drunk:",
+      "finnish_biblia": "Ja hän valmisti heille pidon, ja he söivät ja joivat. ",
       "king_james": "And he made them a feast, and they did eat and drink."
     },
     {
       "verse": 31,
       "latin_vulgate": "surgentes mane, juraverunt sibi mutuo : dimisitque eos Isaac pacifice in locum suum. ",
       "hebrew_masoretic": "וַיַּשְׁכִּ֣ימוּ בַבֹּ֔קֶר וַיִּשָּׁבְע֖וּ אִ֣ישׁ לְאָחִ֑יו וַיְשַׁלְּחֵ֣ם יִצְחָ֔ק וַיֵּלְכ֥וּ מֵאִתּ֖וֹ בְּשָׁלֽוֹם׃",
+      "douay_rheims": "Arising in the morning, they swore one to another: and Isaac sent them away peaceably to their own home.",
+      "finnish_biblia": "Ja nousivat aamulla varhain, ja vannoivat toinen toisellensa, ja Isaak laski heidät menemään, ja menivät pois hänen tyköänsä rauhassa. ",
       "king_james": "And they rose up betimes in the morning, and sware one to another: and Isaac sent them away, and they departed from him in peace."
     },
     {
       "verse": 32,
       "latin_vulgate": "Ecce autem venerunt in ipso die servi Isaac annuntiantes ei de puteo, quem foderant, atque dicentes : Invenimus aquam. ",
       "hebrew_masoretic": "וַיְהִ֣י ׀ בַּיּ֣וֹם הַה֗וּא וַיָּבֹ֙אוּ֙ עַבְדֵ֣י יִצְחָ֔ק וַיַּגִּ֣דוּ ל֔וֹ עַל־אֹד֥וֹת הַבְּאֵ֖ר אֲשֶׁ֣ר חָפָ֑רוּ וַיֹּ֥אמְרוּ ל֖וֹ מָצָ֥אנוּ מָֽיִם׃",
+      "douay_rheims": "And behold, the same day the servants of Isaac came, telling him of a well which they had digged, and saying: We have found water.",
+      "finnish_biblia": "Sinä samana päivänä tulivat Isaakin palveliat, ja ilmoittivat hänelle kaivosta, jonka he kaivaneet olivat, ja sanoivat hänelle: me löysimme veden. ",
       "king_james": "And it came to pass the same day, that Isaac’s servants came, and told him concerning the well which they had digged, and said unto him, We have found water."
     },
     {
       "verse": 33,
       "latin_vulgate": "Unde appellavit eum Abundantiam : et nomen urbi impositum est Bersabee, usque in præsentem diem. ",
       "hebrew_masoretic": "וַיִּקְרָ֥א אֹתָ֖הּ שִׁבְעָ֑ה עַל־כֵּ֤ן שֵׁם־הָעִיר֙ בְּאֵ֣ר שֶׁ֔בַע עַ֖ד הַיּ֥וֹם הַזֶּֽה׃ {ס}",
+      "douay_rheims": "Whereupon he called it Abundance: and the name of the city was called Bersabee, even to this day.",
+      "finnish_biblia": "Ja hän kutsui hänen Saba: siltä nimitetään kaupunki BerSaba, hamaan tähän päivään asti. ",
       "king_james": "And he called it Shebah: therefore the name of the city is Beer–sheba unto this day."
     },
     {
       "verse": 34,
       "latin_vulgate": "Esau vero quadragenarius duxit uxores, Judith filiam Beeri Hethæi, et Basemath filiam Elon ejusdem loci : ",
       "hebrew_masoretic": "וַיְהִ֤י עֵשָׂו֙ בֶּן־אַרְבָּעִ֣ים שָׁנָ֔ה וַיִּקַּ֤ח אִשָּׁה֙ אֶת־יְהוּדִ֔ית בַּת־בְּאֵרִ֖י הַֽחִתִּ֑י וְאֶת־בָּ֣שְׂמַ֔ת בַּת־אֵילֹ֖ן הַֽחִתִּֽי׃",
+      "douay_rheims": "And Esau being forty years old, married wives, Judith, the daughter of Beeri, the Hethite, and Basemath, the daughter of Elon, of the same place.",
+      "finnish_biblia": "Koska Esau oli neljänkymmenen ajastaikainen, otti hän Juditin Hetiläisen Berin tyttären emännäksensä: Ja Basmatin Hetiläisen Elonin tyttären: ",
       "king_james": "And Esau was forty years old when he took to wife Judith the daughter of Beeri the Hittite, and Bashemath the daughter of Elon the Hittite:"
     },
     {
       "verse": 35,
       "latin_vulgate": "quæ ambæ offenderant animum Isaac et Rebeccæ.   ",
       "hebrew_masoretic": "וַתִּהְיֶ֖יןָ מֹ֣רַת ר֑וּחַ לְיִצְחָ֖ק וּלְרִבְקָֽה׃ {ס}",
+      "douay_rheims": "And they both offended the mind of Isaac and Rebecca. ",
+      "finnish_biblia": "Jotka olivat Isaakille ja Rebekalle mielikarvaudeksi.   ",
       "king_james": "Which were a grief of mind unto Isaac and to Rebekah. "
     }
   ]

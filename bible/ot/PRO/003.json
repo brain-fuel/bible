@@ -2,6 +2,8 @@
   "book_id": "PRO",
   "latin_name": "Liber Proverbiorum",
   "hebrew_name": "מִשְׁלֵי",
+  "douay_name": "Proverbs",
+  "finnish_name": "Sananlaskut",
   "english_name": "Proverbs",
   "chapter": 3,
   "verses": [
@@ -9,210 +11,280 @@
       "verse": 1,
       "latin_vulgate": "Fili mi, ne obliviscaris legis meæ,  et præcepta mea cor tuum custodiat : ",
       "hebrew_masoretic": "בְּ֭נִי תּוֹרָתִ֣י אַל־תִּשְׁכָּ֑ח וּ֝מִצְוֺתַ֗י יִצֹּ֥ר לִבֶּֽךָ׃",
+      "douay_rheims": "My son, forget not my law, and let thy heart keep my commandments.",
+      "finnish_biblia": "Poikani, älä unohda minun lakiani, mutta sinun sydämes pitäköön käskyni. ",
       "king_james": "My son, forget not my law; but let thine heart keep my commandments:"
     },
     {
       "verse": 2,
       "latin_vulgate": " longitudinem enim dierum, et annos vitæ, et pacem,  apponent tibi. ",
       "hebrew_masoretic": "כִּ֤י אֹ֣רֶךְ יָ֭מִים וּשְׁנ֣וֹת חַיִּ֑ים וְ֝שָׁל֗וֹם יוֹסִ֥יפוּ לָֽךְ׃",
+      "douay_rheims": "For they shall add to thee length of days, and years of life, and peace.",
+      "finnish_biblia": "Sillä ne saatavat sinulle pitkän ijän, hyvät vuodet ja rauhan. ",
       "king_james": "For length of days, and long life, and peace, shall they add to thee."
     },
     {
       "verse": 3,
       "latin_vulgate": " Misericordia et veritas te non deserant ;  circumda eas gutturi tuo,  et describe in tabulis cordis tui : ",
       "hebrew_masoretic": "חֶ֥סֶד וֶאֱמֶ֗ת אַֽל־יַ֫עַזְבֻ֥ךָ קׇשְׁרֵ֥ם עַל־גַּרְגְּרוֹתֶ֑יךָ כׇּ֝תְבֵ֗ם עַל־ל֥וּחַ לִבֶּֽךָ׃",
+      "douay_rheims": "Let not mercy aud truth leave thee, put them about thy neck, and write them in the tables of thy heart.",
+      "finnish_biblia": "Armo ja totuus ei sinua pidä hylkäämän: ripusta ne kaulaas, ja kirjoita sydämes tauluun, ",
       "king_james": "Let not mercy and truth forsake thee: bind them about thy neck; write them upon the table of thine heart:"
     },
     {
       "verse": 4,
       "latin_vulgate": " et invenies gratiam, et disciplinam bonam,  coram Deo et hominibus. ",
       "hebrew_masoretic": "וּמְצָא־חֵ֥ן וְשֵֽׂכֶל־ט֑וֹב בְּעֵינֵ֖י אֱלֹהִ֣ים וְאָדָֽם׃",
+      "douay_rheims": "And thou shalt find grace, and good understanding before God and men.",
+      "finnish_biblia": "Niin sinä löydät armon ja hyvän toimen, Jumalan ja ihmisten edessä. ",
       "king_james": "So shalt thou find favour and good understanding in the sight of God and man."
     },
     {
       "verse": 5,
       "latin_vulgate": " Habe fiduciam in Domino ex toto corde tuo,  et ne innitaris prudentiæ tuæ. ",
       "hebrew_masoretic": "בְּטַ֣ח אֶל־יְ֭הֹוָה בְּכׇל־לִבֶּ֑ךָ וְאֶל־בִּ֥֝ינָתְךָ֗ אַל־תִּשָּׁעֵֽן׃",
+      "douay_rheims": "Have confidence in the Lord with all thy heart, and lean not upon thy own prudence.",
+      "finnish_biblia": "Luota Herraan kaikesta sydämestäs, ja älä luota ymmärryksees; ",
       "king_james": "Trust in the Lord with all thine heart; and lean not unto thine own understanding."
     },
     {
       "verse": 6,
       "latin_vulgate": " In omnibus viis tuis cogita illum,  et ipse diriget gressus tuos. ",
       "hebrew_masoretic": "בְּכׇל־דְּרָכֶ֥יךָ דָעֵ֑הוּ וְ֝ה֗וּא יְיַשֵּׁ֥ר אֹֽרְחֹתֶֽיךָ׃",
+      "douay_rheims": "In all thy ways think on him, and he will direct thy steps.",
+      "finnish_biblia": "Mutta ajattele häntä kaikissa teissäs, niin hän sinua oikein johdattaa. ",
       "king_james": "In all thy ways acknowledge him, and he shall direct thy paths."
     },
     {
       "verse": 7,
       "latin_vulgate": " Ne sis sapiens apud temetipsum ;  time Deum, et recede a malo : ",
       "hebrew_masoretic": "אַל־תְּהִ֣י חָכָ֣ם בְּעֵינֶ֑יךָ יְרָ֥א אֶת־יְ֝הֹוָ֗ה וְס֣וּר מֵרָֽע׃",
+      "douay_rheims": "Be not wise in thy own conceit: fear God, and depart from evil:",
+      "finnish_biblia": "Älä ole viisas mielestäs, vaan pelkääerraa, ja vältä pahaa. ",
       "king_james": "Be not wise in thine own eyes: fear the Lord, and depart from evil."
     },
     {
       "verse": 8,
       "latin_vulgate": " sanitas quippe erit umbilico tuo,  et irrigatio ossium tuorum. ",
       "hebrew_masoretic": "רִ֭פְאוּת תְּהִ֣י לְשׇׁרֶּ֑ךָ וְ֝שִׁקּ֗וּי לְעַצְמוֹתֶֽיךָ׃",
+      "douay_rheims": "For it shall be health to thy navel, and moistening to thy bones.",
+      "finnish_biblia": "Sillä se on navalles terveellinen, ja virvoittaa luus. ",
       "king_james": "It shall be health to thy navel, and marrow to thy bones."
     },
     {
       "verse": 9,
       "latin_vulgate": " Honora Dominum de tua substantia,  et de primitiis omnium frugum tuarum da ei : ",
       "hebrew_masoretic": "כַּבֵּ֣ד אֶת־יְ֭הֹוָה מֵהוֹנֶ֑ךָ וּ֝מֵרֵאשִׁ֗ית כׇּל־תְּבוּאָתֶֽךָ׃",
+      "douay_rheims": "Honour the Lord with thy substance, and give him of the first of all thy fruits;",
+      "finnish_biblia": "Kunnioita Herraa tavarastas, ja kaikista vuoden tulos esikoisista; ",
       "king_james": "Honour the Lord with thy substance, and with the firstfruits of all thine increase:"
     },
     {
       "verse": 10,
       "latin_vulgate": " et implebuntur horrea tua saturitate,  et vino torcularia tua redundabunt. ",
       "hebrew_masoretic": "וְיִמָּלְא֣וּ אֲסָמֶ֣יךָ שָׂבָ֑ע וְ֝תִיר֗וֹשׁ יְקָבֶ֥יךָ יִפְרֹֽצוּ׃ {פ}",
+      "douay_rheims": "And thy barns shall be filled with abundance, and thy presses shall run over with wine.",
+      "finnish_biblia": "Niin sinun riihes täytetään kyllyydellä, ja sinun viinakuurnas vuotaa ylitse. ",
       "king_james": "So shall thy barns be filled with plenty, and thy presses shall burst out with new wine."
     },
     {
       "verse": 11,
       "latin_vulgate": " Disciplinam Domini, fili mi, ne abjicias,  nec deficias cum ab eo corriperis : ",
       "hebrew_masoretic": "מוּסַ֣ר יְ֭הֹוָה בְּנִ֣י אַל־תִּמְאָ֑ס וְאַל־תָּ֝קֹ֗ץ בְּתוֹכַחְתּֽוֹ׃",
+      "douay_rheims": "My son, reject not the correction of the Lord: and do not faint when thou art chastised by him:",
+      "finnish_biblia": "Poikani, älä Herran kuritusta hylkää, ja älä ole kärsimätön, kuin hän sinua rankaisee, ",
       "king_james": "My son, despise not the chastening of the Lord; neither be weary of his correction:"
     },
     {
       "verse": 12,
       "latin_vulgate": " quem enim diligit Dominus, corripit,  et quasi pater in filio complacet sibi. ",
       "hebrew_masoretic": "כִּ֤י אֶ֥ת־אֲשֶׁ֣ר יֶאֱהַ֣ב יְהֹוָ֣ה יוֹכִ֑יחַ וּ֝כְאָ֗ב אֶת־בֵּ֥ן יִרְצֶֽה׃",
+      "douay_rheims": "For whom the Lord loveth, he chastiseth: and as a father in the son he pleaseth himself.",
+      "finnish_biblia": "Sillä, jota Herra rakastaa, sitä hän rankaisee, ja on hänelle otollinen niinkuin poika isällensä. ",
       "king_james": "For whom the Lord loveth he correcteth; even as a father the son in whom he delighteth."
     },
     {
       "verse": 13,
       "latin_vulgate": " Beatus homo qui invenit sapientiam,  et qui affluit prudentia. ",
       "hebrew_masoretic": "אַשְׁרֵ֣י אָ֭דָם מָצָ֣א חׇכְמָ֑ה וְ֝אָדָ֗ם יָפִ֥יק תְּבוּנָֽה׃",
+      "douay_rheims": "Blessed is the man that findeth wisdom, and is rich in prudence:",
+      "finnish_biblia": "Autuas on se ihminen, joka viisauden löytää, ja se ihminen, joka ymmärryksen käsittää. ",
       "king_james": "Happy is the man that findeth wisdom, and the man that getteth understanding."
     },
     {
       "verse": 14,
       "latin_vulgate": " Melior est acquisitio ejus negotiatione argenti,  et auri primi et purissimi fructus ejus. ",
       "hebrew_masoretic": "כִּ֤י ט֣וֹב סַ֭חְרָהּ מִסְּחַר־כָּ֑סֶף וּ֝מֵחָר֗וּץ תְּבוּאָתָֽהּ׃",
+      "douay_rheims": "The purchasing thereof is better than the merchandise of silver, and her fruit than the chief and purest gold:",
+      "finnish_biblia": "Sillä parempi on kaupita häntä kuin kaupita hopiaa, ja hänen hedelmänsä on parempi kuin kulta. ",
       "king_james": "For the merchandise of it is better than the merchandise of silver, and the gain thereof than fine gold."
     },
     {
       "verse": 15,
       "latin_vulgate": " Pretiosior est cunctis opibus,  et omnia quæ desiderantur huic non valent comparari. ",
       "hebrew_masoretic": "יְקָ֣רָה הִ֭יא (מפניים) [מִפְּנִינִ֑ים] וְכׇל־חֲ֝פָצֶ֗יךָ לֹ֣א יִֽשְׁווּ־בָֽהּ׃",
+      "douay_rheims": "She is more precious than all riches: and all the things that are desired, are not to be compared to her.",
+      "finnish_biblia": "Hän on kalliimpi kuin päärlyt, eikä hänen vertaansa mitään toivottaa taideta. ",
       "king_james": "She is more precious than rubies: and all the things thou canst desire are not to be compared unto her."
     },
     {
       "verse": 16,
       "latin_vulgate": " Longitudo dierum in dextera ejus,  et in sinistra illius divitiæ et gloria. ",
       "hebrew_masoretic": "אֹ֣רֶךְ יָ֭מִים בִּֽימִינָ֑הּ בִּ֝שְׂמֹאולָ֗הּ עֹ֣שֶׁר וְכָבֽוֹד׃",
+      "douay_rheims": "Length of days is in her right hand, and in her left hand riches and glory.",
+      "finnish_biblia": "Pitkä ikä on hänen oikialla kädellänsä, rikkaus ja kunnia hänen vasemmallansa. ",
       "king_james": "Length of days is in her right hand; and in her left hand riches and honour."
     },
     {
       "verse": 17,
       "latin_vulgate": " Viæ ejus viæ pulchræ,  et omnes semitæ illius pacificæ. ",
       "hebrew_masoretic": "דְּרָכֶ֥יהָ דַרְכֵי־נֹ֑עַם וְֽכׇל־נְתִ֖יבוֹתֶ֣יהָ שָׁלֽוֹם׃",
+      "douay_rheims": "Her ways are beautiful ways, and all her paths are peaceable.",
+      "finnish_biblia": "Hänen tiensä ovat iloiset, ja kaikki hänen askeleensa rauha. ",
       "king_james": "Her ways are ways of pleasantness, and all her paths are peace."
     },
     {
       "verse": 18,
       "latin_vulgate": " Lignum vitæ est his qui apprehenderint eam,  et qui tenuerit eam beatus. ",
       "hebrew_masoretic": "עֵץ־חַיִּ֣ים הִ֭יא לַמַּחֲזִיקִ֣ים בָּ֑הּ וְֽתֹמְכֶ֥יהָ מְאֻשָּֽׁר׃ {פ}",
+      "douay_rheims": "She is a tree of life to them that lay hold on her: and he that shall retain her is blessed.",
+      "finnish_biblia": "Hän on elämän puu niille, jotka häneen rupeevat; ja autuaat ovat ne, jotka hänen pitävät. ",
       "king_james": "She is a tree of life to them that lay hold upon her: and happy is every one that retaineth her."
     },
     {
       "verse": 19,
       "latin_vulgate": " Dominus sapientia fundavit terram ;  stabilivit cælos prudentia. ",
       "hebrew_masoretic": "יְֽהֹוָ֗ה בְּחׇכְמָ֥ה יָסַד־אָ֑רֶץ כּוֹנֵ֥ן שָׁ֝מַ֗יִם בִּתְבוּנָֽה׃",
+      "douay_rheims": "The Lord by wisdom hath founded the earth, hath established the heavens by prudence.",
+      "finnish_biblia": "Sillä Herra on viisaudella maan perustanut, ja taivaat toimella valmistanut. ",
       "king_james": "The Lord by wisdom hath founded the earth; by understanding hath he established the heavens."
     },
     {
       "verse": 20,
       "latin_vulgate": " Sapientia illius eruperunt abyssi,  et nubes rore concrescunt. ",
       "hebrew_masoretic": "בְּ֭דַעְתּוֹ תְּהוֹמ֣וֹת נִבְקָ֑עוּ וּ֝שְׁחָקִ֗ים יִרְעֲפוּ־טָֽל׃",
+      "douay_rheims": "By his wisdom the depths have broken out, and the clouds grow thick with dew.",
+      "finnish_biblia": "Hänen viisaudessansa ovat syvyydet eroitetut, ja pivet pisaroivat kasteen. ",
       "king_james": "By his knowledge the depths are broken up, and the clouds drop down the dew."
     },
     {
       "verse": 21,
       "latin_vulgate": " Fili mi, ne effluant hæc ab oculis tuis.  Custodi legem atque consilium, ",
       "hebrew_masoretic": "בְּ֭נִי אַל־יָלֻ֣זוּ מֵעֵינֶ֑יךָ נְצֹ֥ר תֻּ֝שִׁיָּ֗ה וּמְזִמָּֽה׃",
+      "douay_rheims": "My son, let not these things depart from thy eyes: keep the law and counsel:",
+      "finnish_biblia": "Poikani, älä salli näitä silmistäs tulla pois, niin sinä tulet onnelliseksi ja viisaaksi. ",
       "king_james": "My son, let not them depart from thine eyes: keep sound wisdom and discretion:"
     },
     {
       "verse": 22,
       "latin_vulgate": " et erit vita animæ tuæ,  et gratia faucibus tuis. ",
       "hebrew_masoretic": "וְיִֽהְי֣וּ חַיִּ֣ים לְנַפְשֶׁ֑ךָ וְ֝חֵ֗ן לְגַרְגְּרֹתֶֽיךָ׃",
+      "douay_rheims": "And there shall be life to thy soul, and grace to thy mouth.",
+      "finnish_biblia": "Se on sinun sielus elämä; ja sinun suus on otollinen. ",
       "king_james": "So shall they be life unto thy soul, and grace to thy neck."
     },
     {
       "verse": 23,
       "latin_vulgate": " Tunc ambulabis fiducialiter in via tua,  et pes tuus non impinget. ",
       "hebrew_masoretic": "אָ֤ז תֵּלֵ֣ךְ לָבֶ֣טַח דַּרְכֶּ֑ךָ וְ֝רַגְלְךָ֗ לֹ֣א תִגּֽוֹף׃",
+      "douay_rheims": "Then shalt thou walk confidently in thy way, and thy foot shall not stumble:",
+      "finnish_biblia": "Silloin sinä murheetoinna vaellat teissäs, ettet jalkaas loukkaa. ",
       "king_james": "Then shalt thou walk in thy way safely, and thy foot shall not stumble."
     },
     {
       "verse": 24,
       "latin_vulgate": " Si dormieris, non timebis ;  quiesces, et suavis erit somnus tuus. ",
       "hebrew_masoretic": "אִם־תִּשְׁכַּ֥ב לֹֽא־תִפְחָ֑ד וְ֝שָׁכַבְתָּ֗ וְֽעָרְבָ֥ה שְׁנָתֶֽךָ׃",
+      "douay_rheims": "If thou sleep, thou shalt not fear: thou shalt rest, and thy sleep shall be sweet.",
+      "finnish_biblia": "Et sinä pelkää maata pantuas, mutta makaat; ja sinun unes on sinulle makia, ",
       "king_james": "When thou liest down, thou shalt not be afraid: yea, thou shalt lie down, and thy sleep shall be sweet."
     },
     {
       "verse": 25,
       "latin_vulgate": " Ne paveas repentino terrore,  et irruentes tibi potentias impiorum. ",
       "hebrew_masoretic": "אַל־תִּ֭ירָא מִפַּ֣חַד פִּתְאֹ֑ם וּמִשֹּׁאַ֥ת רְ֝שָׁעִ֗ים כִּ֣י תָבֹֽא׃",
+      "douay_rheims": "Be not afraid of sudden fear, nor of the power of the wicked falling upon thee.",
+      "finnish_biblia": "Ettei sinun tarvitse peljätä äkillistä hirmua, eikä jumalattomain hävitystä, kuin se tulee. ",
       "king_james": "Be not afraid of sudden fear, neither of the desolation of the wicked, when it cometh."
     },
     {
       "verse": 26,
       "latin_vulgate": " Dominus enim erit in latere tuo,  et custodiet pedem tuum, ne capiaris. ",
       "hebrew_masoretic": "כִּֽי־יְ֭הֹוָה יִֽהְיֶ֣ה בְכִסְלֶ֑ךָ וְשָׁמַ֖ר רַגְלְךָ֣ מִלָּֽכֶד׃",
+      "douay_rheims": "For the Lord will be at thy side, and will keep thy foot that thou be not taken.",
+      "finnish_biblia": "Sillä Herra on sinun lohdutukses; hän varjelee sinun jalkas, ettei sitä saavuteta. ",
       "king_james": "For the Lord shall be thy confidence, and shall keep thy foot from being taken."
     },
     {
       "verse": 27,
       "latin_vulgate": " Noli prohibere benefacere eum qui potest :  si vales, et ipse benefac. ",
       "hebrew_masoretic": "אַל־תִּמְנַע־ט֥וֹב מִבְּעָלָ֑יו בִּֽהְי֨וֹת לְאֵ֖ל (ידיך) [יָדְךָ֣] לַעֲשֽׂוֹת׃",
+      "douay_rheims": "Do not withhold him from doing good, who is able: if thou art able, do good thyself also.",
+      "finnish_biblia": "Älä estele tarvitsevalle hyvää tehdä, jos sinulla on varaa, ettäs sen tehdä taidat. ",
       "king_james": "Withhold not good from them to whom it is due, when it is in the power of thine hand to do it."
     },
     {
       "verse": 28,
       "latin_vulgate": " Ne dicas amico tuo : Vade, et revertere : cras dabo tibi :  cum statim possis dare. ",
       "hebrew_masoretic": "אַל־תֹּ֘אמַ֤ר (לרעיך) [לְרֵעֲךָ֨ ׀] לֵ֣ךְ וָ֭שׁוּב וּמָחָ֥ר אֶתֵּ֗ן וְיֵ֣שׁ אִתָּֽךְ׃",
+      "douay_rheims": "Say not to thy friend: Go, and come again: and to morrow I will give to thee: when thou canst give at present.",
+      "finnish_biblia": "Älä sano ystävälle: mene ja tule jälleen, huomenna minä sinulle annan; koska sinulla on. ",
       "king_james": "Say not unto thy neighbour, Go, and come again, and to morrow I will give; when thou hast it by thee."
     },
     {
       "verse": 29,
       "latin_vulgate": " Ne moliaris amico tuo malum,  cum ille in te habeat fiduciam. ",
       "hebrew_masoretic": "אַל־תַּחֲרֹ֣שׁ עַל־רֵעֲךָ֣ רָעָ֑ה וְהֽוּא־יוֹשֵׁ֖ב לָבֶ֣טַח אִתָּֽךְ׃",
+      "douay_rheims": "Practise not evil against thy friend, when he hath confidence in thee.",
+      "finnish_biblia": "Älä pyydä sinun ystäväs vahinkoa, joka hyvässä toivossa asuu sinun tykönäs. ",
       "king_james": "Devise not evil against thy neighbour, seeing he dwelleth securely by thee."
     },
     {
       "verse": 30,
       "latin_vulgate": " Ne contendas adversus hominem frustra,  cum ipse tibi nihil mali fecerit. ",
       "hebrew_masoretic": "אַל־[תָּרִ֣יב] (תרוב) עִם־אָדָ֣ם חִנָּ֑ם אִם־לֹ֖א גְמָלְךָ֣ רָעָֽה׃",
+      "douay_rheims": "Strive not against a man without cause, when he hath done thee no evil.",
+      "finnish_biblia": "Älä kenenkään kanssa toru ilman syytä, jos hän ei mitään pahaa sinulle tehnyt ole. ",
       "king_james": "Strive not with a man without cause, if he have done thee no harm."
     },
     {
       "verse": 31,
       "latin_vulgate": " Ne æmuleris hominem injustum,  nec imiteris vias ejus : ",
       "hebrew_masoretic": "אַל־תְּ֭קַנֵּא בְּאִ֣ישׁ חָמָ֑ס וְאַל־תִּ֝בְחַ֗ר בְּכׇל־דְּרָכָֽיו׃",
+      "douay_rheims": "Envy not the unjust man, and do not follow his ways.",
+      "finnish_biblia": "Älä kiivoittele väärää miestä, älä noudata hänen retkiänsä. ",
       "king_james": "Envy thou not the oppressor, and choose none of his ways."
     },
     {
       "verse": 32,
       "latin_vulgate": " quia abominatio Domini est omnis illusor,  et cum simplicibus sermocinatio ejus. ",
       "hebrew_masoretic": "כִּ֤י תוֹעֲבַ֣ת יְהֹוָ֣ה נָל֑וֹז וְֽאֶת־יְשָׁרִ֥ים סוֹדֽוֹ׃",
+      "douay_rheims": "For every mocker is an abomination to the Lord, and his communication is with the simple.",
+      "finnish_biblia": "Sillä pahanilkiset ovat Herralle kauhistus; mutta hänen salaisuutensa on hurskasten tykönä. ",
       "king_james": "For the froward is abomination to the Lord: but his secret is with the righteous."
     },
     {
       "verse": 33,
       "latin_vulgate": " Egestas a Domino in domo impii ;  habitacula autem justorum benedicentur. ",
       "hebrew_masoretic": "מְאֵרַ֣ת יְ֭הֹוָה בְּבֵ֣ית רָשָׁ֑ע וּנְוֵ֖ה צַדִּיקִ֣ים יְבָרֵֽךְ׃",
+      "douay_rheims": "Want is from the Lord in the house of the wicked: but the habitations of the just shall be blessed.",
+      "finnish_biblia": "Jumalattoman huoneessa on Herran kirous; muttavanhurskaan maja siunataan. ",
       "king_james": "The curse of the Lord is in the house of the wicked: but he blesseth the habitation of the just."
     },
     {
       "verse": 34,
       "latin_vulgate": " Ipse deludet illusores,  et mansuetis dabit gratiam. ",
       "hebrew_masoretic": "אִם־לַלֵּצִ֥ים הֽוּא־יָלִ֑יץ (ולעניים) [וְ֝לַעֲנָוִ֗ים] יִתֶּן־חֵֽן׃",
+      "douay_rheims": "He shall scorn the scorners, and to the meek he will give grace.",
+      "finnish_biblia": "Hän pilkkaa pilkkaajia; mutta nöyrille hän antaa armon. ",
       "king_james": "Surely he scorneth the scorners: but he giveth grace unto the lowly."
     },
     {
       "verse": 35,
       "latin_vulgate": " Gloriam sapientes possidebunt ;  stultorum exaltatio ignominia.    ",
       "hebrew_masoretic": "כָּ֭בוֹד חֲכָמִ֣ים יִנְחָ֑לוּ וּ֝כְסִילִ֗ים מֵרִ֥ים קָלֽוֹן׃ {פ}",
+      "douay_rheims": "The wise shall possess glory: the promotion of fools is disgrace. ",
+      "finnish_biblia": "Viisaat kunnian perivät, mutta tyhmät häpiän saavat.   ",
       "king_james": "The wise shall inherit glory: but shame shall be the promotion of fools. "
     }
   ]

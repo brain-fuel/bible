@@ -2,6 +2,8 @@
   "book_id": "PSA",
   "latin_name": "Liber Psalmorum",
   "hebrew_name": "תְּהִלִּים",
+  "douay_name": "Psalms",
+  "finnish_name": "Psalmit",
   "english_name": "Psalms",
   "chapter": 30,
   "verses": [
@@ -9,6 +11,8 @@
       "verse": 1,
       "latin_vulgate": "  Exaltabo te, Domine, quoniam suscepisti me,  nec delectasti inimicos meos super me. ",
       "hebrew_masoretic": "אֲרוֹמִמְךָ֣ יְ֭הֹוָה כִּ֣י דִלִּיתָ֑נִי וְלֹֽא־שִׂמַּ֖חְתָּ אֹיְבַ֣י לִֽי׃",
+      "douay_rheims": "I will extol thee, O Lord, for thou hast upheld me: and hast not made my enemies to rejoice over me.",
+      "finnish_biblia": "Psalmi, veisattava Davidin huoneen vihkimisessä. (H30:2) Minä ylistän sinua, Herra, sillä sinä olet korottanut minua: et myös salli viholliseni iloita minusta. ",
       "king_james": "I will extol thee, O Lord; for thou hast lifted me up, and hast not made my foes to rejoice over me.",
       "refs": {
         "latin_vulgate": {
@@ -16,6 +20,9 @@
         },
         "hebrew_masoretic": {
           "src": "30:2"
+        },
+        "douay_rheims": {
+          "src": "29:2"
         }
       }
     },
@@ -23,6 +30,8 @@
       "verse": 2,
       "latin_vulgate": " Domine Deus meus, clamavi ad te, et sanasti me. ",
       "hebrew_masoretic": "יְהֹוָ֥ה אֱלֹהָ֑י שִׁוַּ֥עְתִּי אֵ֝לֶ֗יךָ וַתִּרְפָּאֵֽנִי׃",
+      "douay_rheims": "O Lord my God, I have cried to thee, and thou hast healed me.",
+      "finnish_biblia": "Herra minun Jumalani, kuin minä huusin sinua, niin sinä teit minun terveeksi. ",
       "king_james": "O Lord my God, I cried unto thee, and thou hast healed me.",
       "refs": {
         "latin_vulgate": {
@@ -30,6 +39,9 @@
         },
         "hebrew_masoretic": {
           "src": "30:3"
+        },
+        "douay_rheims": {
+          "src": "29:3"
         }
       }
     },
@@ -37,6 +49,8 @@
       "verse": 3,
       "latin_vulgate": " Domine, eduxisti ab inferno animam meam ;  salvasti me a descendentibus in lacum. ",
       "hebrew_masoretic": "יְֽהֹוָ֗ה הֶעֱלִ֣יתָ מִן־שְׁא֣וֹל נַפְשִׁ֑י חִ֝יִּיתַ֗נִי (מיורדי) [מִיׇּֽרְדִי־]בֽוֹר׃",
+      "douay_rheims": "Thou hast brought forth, O Lord, my soul from hell: thou hast saved me from them that go down into the pit.",
+      "finnish_biblia": "Herra, sinä veit sieluni ulos helvetistä: sinä olet minun elävänä pitänyt niiden mennessä kuoppaan. ",
       "king_james": "O Lord, thou hast brought up my soul from the grave: thou hast kept me alive, that I should not go down to the pit.",
       "refs": {
         "latin_vulgate": {
@@ -44,6 +58,9 @@
         },
         "hebrew_masoretic": {
           "src": "30:4"
+        },
+        "douay_rheims": {
+          "src": "29:4"
         }
       }
     },
@@ -51,6 +68,8 @@
       "verse": 4,
       "latin_vulgate": " Psallite Domino, sancti ejus ;  et confitemini memoriæ sanctitatis ejus. ",
       "hebrew_masoretic": "זַמְּר֣וּ לַיהֹוָ֣ה חֲסִידָ֑יו וְ֝הוֹד֗וּ לְזֵ֣כֶר קׇדְשֽׁוֹ׃",
+      "douay_rheims": "Sing to the Lord, O ye his saints: and give praise to the memory of his holiness.",
+      "finnish_biblia": "Pyhät, veisatkaat kiitosta Herralle, ja kiittäkäät hänen pyhyytensä muistoksi. ",
       "king_james": "Sing unto the Lord, O ye saints of his, and give thanks at the remembrance of his holiness.",
       "refs": {
         "latin_vulgate": {
@@ -58,6 +77,9 @@
         },
         "hebrew_masoretic": {
           "src": "30:5"
+        },
+        "douay_rheims": {
+          "src": "29:5"
         }
       }
     },
@@ -65,6 +87,8 @@
       "verse": 5,
       "latin_vulgate": " Quoniam ira in indignatione ejus,  et vita in voluntate ejus :  ad vesperum demorabitur fletus,  et ad matutinum lætitia. ",
       "hebrew_masoretic": "כִּ֤י רֶ֨גַע ׀ בְּאַפּוֹ֮ חַיִּ֢ים בִּרְצ֫וֹנ֥וֹ בָּ֭עֶרֶב יָלִ֥ין בֶּ֗כִי וְלַבֹּ֥קֶר רִנָּֽה׃",
+      "douay_rheims": "For wrath is in his indignation; and life in his good will. In the evening weeping shall have place, and in the morning gladness.",
+      "finnish_biblia": "Sillä hänen vihansa viipyy silmänräpäyksen, ja hän ihastuu elämästä: ehtoona on itku, mutta aamulla ilo. ",
       "king_james": "For his anger endureth but a moment; in his favour is life: weeping may endure for a night, but joy cometh in the morning.",
       "refs": {
         "latin_vulgate": {
@@ -72,6 +96,9 @@
         },
         "hebrew_masoretic": {
           "src": "30:6"
+        },
+        "douay_rheims": {
+          "src": "29:6"
         }
       }
     },
@@ -79,6 +106,8 @@
       "verse": 6,
       "latin_vulgate": " Ego autem dixi in abundantia mea :  Non movebor in æternum. ",
       "hebrew_masoretic": "וַ֭אֲנִי אָמַ֣רְתִּי בְשַׁלְוִ֑י בַּל־אֶמּ֥וֹט לְעוֹלָֽם׃",
+      "douay_rheims": "And in my abundance I said: I shall never be moved.",
+      "finnish_biblia": "Mutta minä sanoin myötäkäymisessäni: en minä ikänä kukistu. ",
       "king_james": "And in my prosperity I said, I shall never be moved.",
       "refs": {
         "latin_vulgate": {
@@ -86,6 +115,9 @@
         },
         "hebrew_masoretic": {
           "src": "30:7"
+        },
+        "douay_rheims": {
+          "src": "29:7"
         }
       }
     },
@@ -93,6 +125,8 @@
       "verse": 7,
       "latin_vulgate": " Domine, in voluntate tua præstitisti decori meo virtutem ;  avertisti faciem tuam a me, et factus sum conturbatus. ",
       "hebrew_masoretic": "יְֽהֹוָ֗ה בִּרְצוֹנְךָ֮ הֶעֱמַ֢דְתָּה לְֽהַרְרִ֫י־עֹ֥ז הִסְתַּ֥רְתָּ פָנֶ֗יךָ הָיִ֥יתִי נִבְהָֽל׃",
+      "douay_rheims": "O Lord, in thy favour, thou gavest strength to my beauty. Thou turnedst away thy face from me, and I became troubled.",
+      "finnish_biblia": "Sillä sinä, Herra, olet hyvässä tahdossas vuoreni vahvistanut; mutta kuin sinä kasvos peitit, niin minä hämmästyin. ",
       "king_james": "Lord, by thy favour thou hast made my mountain to stand strong: thou didst hide thy face, and I was troubled.",
       "refs": {
         "latin_vulgate": {
@@ -100,6 +134,9 @@
         },
         "hebrew_masoretic": {
           "src": "30:8"
+        },
+        "douay_rheims": {
+          "src": "29:8"
         }
       }
     },
@@ -107,6 +144,8 @@
       "verse": 8,
       "latin_vulgate": " Ad te, Domine, clamabo,  et ad Deum meum deprecabor. ",
       "hebrew_masoretic": "אֵלֶ֣יךָ יְהֹוָ֣ה אֶקְרָ֑א וְאֶל־אֲ֝דֹנָ֗י אֶתְחַנָּֽן׃",
+      "douay_rheims": "To thee, O Lord, will I cry: and I will make supplication to my God.",
+      "finnish_biblia": "Sinua, Herra, minä huudan, ja Herraa minä rukoilen. ",
       "king_james": "I cried to thee, O Lord; and unto the Lord I made supplication.",
       "refs": {
         "latin_vulgate": {
@@ -114,6 +153,9 @@
         },
         "hebrew_masoretic": {
           "src": "30:9"
+        },
+        "douay_rheims": {
+          "src": "29:9"
         }
       }
     },
@@ -121,6 +163,8 @@
       "verse": 9,
       "latin_vulgate": " Quæ utilitas in sanguine meo,  dum descendo in corruptionem ?  numquid confitebitur tibi pulvis,  aut annuntiabit veritatem tuam ? ",
       "hebrew_masoretic": "מַה־בֶּ֥צַע בְּדָמִי֮ בְּרִדְתִּ֢י אֶ֫ל־שָׁ֥חַת הֲיוֹדְךָ֥ עָפָ֑ר הֲיַגִּ֥יד אֲמִתֶּֽךָ׃",
+      "douay_rheims": "What profit is there in my blood, whilst I go down to corruption? Shall dust confess to thee, or declare thy truth?",
+      "finnish_biblia": "Mitä hyvää minun veressäni on, kuin minä hautaan alas menen? kiittäneekö tomukin sinua, ja ilmoittaneeko se sinun totuuttas? ",
       "king_james": "What profit is there in my blood, when I go down to the pit? Shall the dust praise thee? shall it declare thy truth?",
       "refs": {
         "latin_vulgate": {
@@ -128,6 +172,9 @@
         },
         "hebrew_masoretic": {
           "src": "30:10"
+        },
+        "douay_rheims": {
+          "src": "29:10"
         }
       }
     },
@@ -135,6 +182,8 @@
       "verse": 10,
       "latin_vulgate": " Audivit Dominus, et misertus est mei ;  Dominus factus est adjutor meus. ",
       "hebrew_masoretic": "שְׁמַע־יְהֹוָ֥ה וְחׇנֵּ֑נִי יְ֝הֹוָ֗ה הֱֽיֵה־עֹזֵ֥ר לִֽי׃",
+      "douay_rheims": "The Lord hath heard, and hath had mercy on me: the Lord became my helper.",
+      "finnish_biblia": "Herra, kuule, ja ole minulle armollinen: Herra, ole minun auttajani. ",
       "king_james": "Hear, O Lord, and have mercy upon me: Lord, be thou my helper.",
       "refs": {
         "latin_vulgate": {
@@ -142,6 +191,9 @@
         },
         "hebrew_masoretic": {
           "src": "30:11"
+        },
+        "douay_rheims": {
+          "src": "29:11"
         }
       }
     },
@@ -149,6 +201,8 @@
       "verse": 11,
       "latin_vulgate": " Convertisti planctum meum in gaudium mihi ;  conscidisti saccum meum, et circumdedisti me lætitia : ",
       "hebrew_masoretic": "הָפַ֣כְתָּ מִסְפְּדִי֮ לְמָח֢וֹל לִ֥֫י פִּתַּ֥חְתָּ שַׂקִּ֑י וַֽתְּאַזְּרֵ֥נִי שִׂמְחָֽה׃",
+      "douay_rheims": "Thou hast turned for me my mourning into joy: thou hast cut my sackcloth, and hast compassed me with gladness:",
+      "finnish_biblia": "Sinä olet muuttanut minun valitukseni iloksi: sinä olet riisunut minun säkkini, ja vyötit minun riemulla, ",
       "king_james": "Thou hast turned for me my mourning into dancing: thou hast put off my sackcloth, and girded me with gladness;",
       "refs": {
         "latin_vulgate": {
@@ -156,6 +210,9 @@
         },
         "hebrew_masoretic": {
           "src": "30:12"
+        },
+        "douay_rheims": {
+          "src": "29:12"
         }
       }
     },
@@ -163,6 +220,8 @@
       "verse": 12,
       "latin_vulgate": " ut cantet tibi gloria mea, et non compungar.  Domine Deus meus, in æternum confitebor tibi.  ",
       "hebrew_masoretic": "לְמַ֤עַן ׀ יְזַמֶּרְךָ֣ כָ֭בוֹד וְלֹ֣א יִדֹּ֑ם יְהֹוָ֥ה אֱ֝לֹהַ֗י לְעוֹלָ֥ם אוֹדֶֽךָּ׃ {פ}",
+      "douay_rheims": "To the end that my glory may sing to thee, and I may not regret: O Lord my God, I will give praise to thee for ever. ",
+      "finnish_biblia": "Että minun kunniani veisais sinulle kiitosta ja ei vaikenisi, Herra minun Jumalani, minä kiitän sinua ijankaikkisesti!   ",
       "king_james": "To the end that my glory may sing praise to thee, and not be silent. O Lord my God, I will give thanks unto thee for ever. ",
       "refs": {
         "latin_vulgate": {
@@ -170,6 +229,9 @@
         },
         "hebrew_masoretic": {
           "src": "30:13"
+        },
+        "douay_rheims": {
+          "src": "29:13"
         }
       }
     }

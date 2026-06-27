@@ -2,6 +2,8 @@
   "book_id": "PSA",
   "latin_name": "Liber Psalmorum",
   "hebrew_name": "תְּהִלִּים",
+  "douay_name": "Psalms",
+  "finnish_name": "Psalmit",
   "english_name": "Psalms",
   "chapter": 118,
   "verses": [
@@ -9,9 +11,14 @@
       "verse": 1,
       "latin_vulgate": "Alleluja.   Confitemini Domino, quoniam bonus,  quoniam in sæculum misericordia ejus. ",
       "hebrew_masoretic": "הוֹד֣וּ לַיהֹוָ֣ה כִּי־ט֑וֹב כִּ֖י לְעוֹלָ֣ם חַסְדּֽוֹ׃",
+      "douay_rheims": "Give praise to the Lord, for he is good: for his mercy endureth for ever.",
+      "finnish_biblia": "Kiittäkäät Herraa; sillä hän on hyvä, ja hänen laupiutensa pysyy ijankaikkisesti. ",
       "king_james": "O give thanks unto the Lord; for he is good: because his mercy endureth for ever.",
       "refs": {
         "latin_vulgate": {
+          "src": "117:1"
+        },
+        "douay_rheims": {
           "src": "117:1"
         }
       }
@@ -20,9 +27,14 @@
       "verse": 2,
       "latin_vulgate": " Dicat nunc Israël : Quoniam bonus,  quoniam in sæculum misericordia ejus. ",
       "hebrew_masoretic": "יֹאמַר־נָ֥א יִשְׂרָאֵ֑ל כִּ֖י לְעוֹלָ֣ם חַסְדּֽוֹ׃",
+      "douay_rheims": "Let Israel now say, that he is good: that his mercy endureth for ever.",
+      "finnish_biblia": "Sanokaan nyt Israel: hänen laupiutensa pysyy ijankaikkisesti. ",
       "king_james": "Let Israel now say, that his mercy endureth for ever.",
       "refs": {
         "latin_vulgate": {
+          "src": "117:2"
+        },
+        "douay_rheims": {
           "src": "117:2"
         }
       }
@@ -31,9 +43,14 @@
       "verse": 3,
       "latin_vulgate": " Dicat nunc domus Aaron :  Quoniam in sæculum misericordia ejus. ",
       "hebrew_masoretic": "יֹאמְרוּ־נָ֥א בֵֽית־אַהֲרֹ֑ן כִּ֖י לְעוֹלָ֣ם חַסְדּֽוֹ׃",
+      "douay_rheims": "Let the house of Aaron now say, that his mercy endureth for ever.",
+      "finnish_biblia": "Sanokaan nyt Aaronin huone: hänen laupiutensa pysyy ijankaikkisesti. ",
       "king_james": "Let the house of Aaron now say, that his mercy endureth for ever.",
       "refs": {
         "latin_vulgate": {
+          "src": "117:3"
+        },
+        "douay_rheims": {
           "src": "117:3"
         }
       }
@@ -42,9 +59,14 @@
       "verse": 4,
       "latin_vulgate": " Dicant nunc qui timent Dominum :  Quoniam in sæculum misericordia ejus. ",
       "hebrew_masoretic": "יֹאמְרוּ־נָ֭א יִרְאֵ֣י יְהֹוָ֑ה כִּ֖י לְעוֹלָ֣ם חַסְדּֽוֹ׃",
+      "douay_rheims": "Let them that fear the Lord now say, that his mercy endureth for ever.",
+      "finnish_biblia": "Sanokaan nyt kaikki, jotka Herraa pelkäävät: hänen laupiutensa pysyy ijankaikkisesti. ",
       "king_james": "Let them now that fear the Lord say, that his mercy endureth for ever.",
       "refs": {
         "latin_vulgate": {
+          "src": "117:4"
+        },
+        "douay_rheims": {
           "src": "117:4"
         }
       }
@@ -53,9 +75,14 @@
       "verse": 5,
       "latin_vulgate": " De tribulatione invocavi Dominum,  et exaudivit me in latitudine Dominus. ",
       "hebrew_masoretic": "מִֽן־הַ֭מֵּצַר קָרָ֣אתִי יָּ֑הּ עָנָ֖נִי בַמֶּרְחָ֣ב יָֽהּ׃",
+      "douay_rheims": "In my trouble I called upon the Lord: and the Lord heard me, and enlarged me.",
+      "finnish_biblia": "Tuskissani minä Herraa avukseni huusin, ja Herra kuuli minua, ja pelasti minun. ",
       "king_james": "I called upon the Lord in distress: the Lord answered me, and set me in a large place.",
       "refs": {
         "latin_vulgate": {
+          "src": "117:5"
+        },
+        "douay_rheims": {
           "src": "117:5"
         }
       }
@@ -64,9 +91,14 @@
       "verse": 6,
       "latin_vulgate": " Dominus mihi adjutor ;  non timebo quid faciat mihi homo. ",
       "hebrew_masoretic": "יְהֹוָ֣ה לִ֭י לֹ֣א אִירָ֑א מַה־יַּעֲשֶׂ֖ה לִ֣י אָדָֽם׃",
+      "douay_rheims": "The Lord is my helper: I will not fear what man can do unto me.",
+      "finnish_biblia": "Herra on minun kanssani; sentähden en minä pelkää, mitä ihmiset minulle tekisivät. ",
       "king_james": "The Lord is on my side; I will not fear: what can man do unto me?",
       "refs": {
         "latin_vulgate": {
+          "src": "117:6"
+        },
+        "douay_rheims": {
           "src": "117:6"
         }
       }
@@ -75,9 +107,14 @@
       "verse": 7,
       "latin_vulgate": " Dominus mihi adjutor,  et ego despiciam inimicos meos. ",
       "hebrew_masoretic": "יְהֹוָ֣ה לִ֭י בְּעֹזְרָ֑י וַ֝אֲנִ֗י אֶרְאֶ֥ה בְשֹׂנְאָֽי׃",
+      "douay_rheims": "The Lord is my helper: and I will look over my enemies.",
+      "finnish_biblia": "Herra on minun kanssani auttamassa minua, ja minä tahdon nähdä iloni minun vihollisistani. ",
       "king_james": "The Lord taketh my part with them that help me: therefore shall I see my desire upon them that hate me.",
       "refs": {
         "latin_vulgate": {
+          "src": "117:7"
+        },
+        "douay_rheims": {
           "src": "117:7"
         }
       }
@@ -86,9 +123,14 @@
       "verse": 8,
       "latin_vulgate": " Bonum est confidere in Domino,  quam confidere in homine. ",
       "hebrew_masoretic": "ט֗וֹב לַחֲס֥וֹת בַּיהֹוָ֑ה מִ֝בְּטֹ֗חַ בָּאָדָֽם׃",
+      "douay_rheims": "It is good to confide in the Lord, rather than to have confidence in man.",
+      "finnish_biblia": "Parempi on uskaltaa Herran päälle, kuin luottaa ihmisiin. ",
       "king_james": "It is better to trust in the Lord than to put confidence in man.",
       "refs": {
         "latin_vulgate": {
+          "src": "117:8"
+        },
+        "douay_rheims": {
           "src": "117:8"
         }
       }
@@ -97,9 +139,14 @@
       "verse": 9,
       "latin_vulgate": " Bonum est sperare in Domino,  quam sperare in principibus. ",
       "hebrew_masoretic": "ט֗וֹב לַחֲס֥וֹת בַּיהֹוָ֑ה מִ֝בְּטֹ֗חַ בִּנְדִיבִֽים׃",
+      "douay_rheims": "It is good to trust in the Lord, rather than to trust in princes.",
+      "finnish_biblia": "Parempi on uskaltaa Herran päälle, kuin luottaa päämiehiin. ",
       "king_james": "It is better to trust in the Lord than to put confidence in princes.",
       "refs": {
         "latin_vulgate": {
+          "src": "117:9"
+        },
+        "douay_rheims": {
           "src": "117:9"
         }
       }
@@ -108,9 +155,14 @@
       "verse": 10,
       "latin_vulgate": " Omnes gentes circuierunt me,  et in nomine Domini, quia ultus sum in eos. ",
       "hebrew_masoretic": "כׇּל־גּוֹיִ֥ם סְבָב֑וּנִי בְּשֵׁ֥ם יְ֝הֹוָ֗ה כִּ֣י אֲמִילַֽם׃",
+      "douay_rheims": "All nations compassed me about; and, in the name of the Lord I have been revenged on them.",
+      "finnish_biblia": "Kaikki pakanat piirittävät minua; mutta Herran nimeen minä heitä lyön maahan. ",
       "king_james": "All nations compassed me about: but in the name of the Lord will I destroy them.",
       "refs": {
         "latin_vulgate": {
+          "src": "117:10"
+        },
+        "douay_rheims": {
           "src": "117:10"
         }
       }
@@ -119,9 +171,14 @@
       "verse": 11,
       "latin_vulgate": " Circumdantes circumdederunt me,  et in nomine Domini, quia ultus sum in eos. ",
       "hebrew_masoretic": "סַבּ֥וּנִי גַם־סְבָב֑וּנִי בְּשֵׁ֥ם יְ֝הֹוָ֗ה כִּ֣י אֲמִילַֽם׃",
+      "douay_rheims": "Surrounding me they compassed me about: and in the name of the Lord I have been revenged on them.",
+      "finnish_biblia": "He piirittävät minua joka kulmalta; mutta Herran nimeen minä heitä lyön maahan. ",
       "king_james": "They compassed me about; yea, they compassed me about: but in the name of the Lord I will destroy them.",
       "refs": {
         "latin_vulgate": {
+          "src": "117:11"
+        },
+        "douay_rheims": {
           "src": "117:11"
         }
       }
@@ -130,9 +187,14 @@
       "verse": 12,
       "latin_vulgate": " Circumdederunt me sicut apes,  et exarserunt sicut ignis in spinis :  et in nomine Domini, quia ultus sum in eos. ",
       "hebrew_masoretic": "סַבּ֤וּנִי כִדְבוֹרִ֗ים דֹּ֭עֲכוּ כְּאֵ֣שׁ קוֹצִ֑ים בְּשֵׁ֥ם יְ֝הֹוָ֗ה כִּ֣י אֲמִילַֽם׃",
+      "douay_rheims": "They surrounded me like bees, and they burned like fire among thorns: and in the name of the Lord I was revenged on them.",
+      "finnish_biblia": "He piirittävät minua niinkuin kimalaiset, ja he sammuvat niinkuin tuli orjantappuroissa; mutta Herran nimeen minä heitä lyön maahan. ",
       "king_james": "They compassed me about like bees; they are quenched as the fire of thorns: for in the name of the Lord I will destroy them.",
       "refs": {
         "latin_vulgate": {
+          "src": "117:12"
+        },
+        "douay_rheims": {
           "src": "117:12"
         }
       }
@@ -141,9 +203,14 @@
       "verse": 13,
       "latin_vulgate": " Impulsus eversus sum, ut caderem,  et Dominus suscepit me. ",
       "hebrew_masoretic": "דַּחֹ֣ה דְחִיתַ֣נִי לִנְפֹּ֑ל וַ֖יהֹוָ֣ה עֲזָרָֽנִי׃",
+      "douay_rheims": "Being pushed I was overturned that I might fall: but the Lord supported me.",
+      "finnish_biblia": "Minua kovin sysätään lankeemaan; mutta Herra auttaa minua. ",
       "king_james": "Thou hast thrust sore at me that I might fall: but the Lord helped me.",
       "refs": {
         "latin_vulgate": {
+          "src": "117:13"
+        },
+        "douay_rheims": {
           "src": "117:13"
         }
       }
@@ -152,9 +219,14 @@
       "verse": 14,
       "latin_vulgate": " Fortitudo mea et laus mea Dominus,  et factus est mihi in salutem. ",
       "hebrew_masoretic": "עׇזִּ֣י וְזִמְרָ֣ת יָ֑הּ וַֽיְהִי־לִ֝֗י לִישׁוּעָֽה׃",
+      "douay_rheims": "The Lord is my strength and my praise: and he is become my salvation.",
+      "finnish_biblia": "Herra on minun väkevyyteni, ja minun virteni, ja on minun autuuteni. ",
       "king_james": "The Lord is my strength and song, and is become my salvation.",
       "refs": {
         "latin_vulgate": {
+          "src": "117:14"
+        },
+        "douay_rheims": {
           "src": "117:14"
         }
       }
@@ -163,9 +235,14 @@
       "verse": 15,
       "latin_vulgate": " Vox exsultationis et salutis  in tabernaculis justorum. ",
       "hebrew_masoretic": "ק֤וֹל ׀ רִנָּ֬ה וִישׁוּעָ֗ה בְּאׇהֳלֵ֥י צַדִּיקִ֑ים יְמִ֥ין יְ֝הֹוָ֗ה עֹ֣שָׂה חָֽיִל׃",
+      "douay_rheims": "The voice of rejoicing and of salvation is in the tabernacles of the just.",
+      "finnish_biblia": "Ilon ja autuuden ääni on vanhurskasten majoissa: Herran oikia käsi saa voiton. ",
       "king_james": "The voice of rejoicing and salvation is in the tabernacles of the righteous: the right hand of the Lord doeth valiantly.",
       "refs": {
         "latin_vulgate": {
+          "src": "117:15"
+        },
+        "douay_rheims": {
           "src": "117:15"
         }
       }
@@ -174,9 +251,14 @@
       "verse": 16,
       "latin_vulgate": " Dextera Domini fecit virtutem ;  dextera Domini exaltavit me :  dextera Domini fecit virtutem. ",
       "hebrew_masoretic": "יְמִ֣ין יְ֭הֹוָה רוֹמֵמָ֑ה יְמִ֥ין יְ֝הֹוָ֗ה עֹ֣שָׂה חָֽיִל׃",
+      "douay_rheims": "The right hand of the Lord hath wrought strength: the right hand of the Lord hath exalted me: the right hand of the Lord hath wrought strength.",
+      "finnish_biblia": "Herran oikia käsi on koroitettu: Herran oikia käsi saa voiton. ",
       "king_james": "The right hand of the Lord is exalted: the right hand of the Lord doeth valiantly.",
       "refs": {
         "latin_vulgate": {
+          "src": "117:16"
+        },
+        "douay_rheims": {
           "src": "117:16"
         }
       }
@@ -185,9 +267,14 @@
       "verse": 17,
       "latin_vulgate": " Non moriar, sed vivam,  et narrabo opera Domini. ",
       "hebrew_masoretic": "לֹא־אָמ֥וּת כִּֽי־אֶחְיֶ֑ה וַ֝אֲסַפֵּ֗ר מַעֲשֵׂ֥י יָֽהּ׃",
+      "douay_rheims": "I shall not die, but live: and shall declare the works of the Lord.",
+      "finnish_biblia": "En minä kuole, vaan elän, ja Herran tekoja luettelen. ",
       "king_james": "I shall not die, but live, and declare the works of the Lord.",
       "refs": {
         "latin_vulgate": {
+          "src": "117:17"
+        },
+        "douay_rheims": {
           "src": "117:17"
         }
       }
@@ -196,9 +283,14 @@
       "verse": 18,
       "latin_vulgate": " Castigans castigavit me Dominus,  et morti non tradidit me. ",
       "hebrew_masoretic": "יַסֹּ֣ר יִסְּרַ֣נִּי יָּ֑הּ וְ֝לַמָּ֗וֶת לֹ֣א נְתָנָֽנִי׃",
+      "douay_rheims": "The Lord chastising hath chastised me: but he hath not delivered me over to death.",
+      "finnish_biblia": "Kyllä Herra minua kurittaa, vaan ei hän minua kuolemalle anna. ",
       "king_james": "The Lord hath chastened me sore: but he hath not given me over unto death.",
       "refs": {
         "latin_vulgate": {
+          "src": "117:18"
+        },
+        "douay_rheims": {
           "src": "117:18"
         }
       }
@@ -207,9 +299,14 @@
       "verse": 19,
       "latin_vulgate": " Aperite mihi portas justitiæ :  ingressus in eas confitebor Domino. ",
       "hebrew_masoretic": "פִּתְחוּ־לִ֥י שַׁעֲרֵי־צֶ֑דֶק אָבֹא־בָ֝֗ם אוֹדֶ֥ה יָֽהּ׃",
+      "douay_rheims": "Open ye to me the gates of justice: I will go in to them, and give praise to the Lord.",
+      "finnish_biblia": "Avatkaat minulle vanhurskauden portit, minun käydäkseni sisälle, kiittämään Herraa. ",
       "king_james": "Open to me the gates of righteousness: I will go into them, and I will praise the Lord:",
       "refs": {
         "latin_vulgate": {
+          "src": "117:19"
+        },
+        "douay_rheims": {
           "src": "117:19"
         }
       }
@@ -218,9 +315,14 @@
       "verse": 20,
       "latin_vulgate": " Hæc porta Domini :  justi intrabunt in eam. ",
       "hebrew_masoretic": "זֶה־הַשַּׁ֥עַר לַיהֹוָ֑ה צַ֝דִּיקִ֗ים יָבֹ֥אוּ בֽוֹ׃",
+      "douay_rheims": "This is the gate of the Lord, the just shall enter into it.",
+      "finnish_biblia": "Tämä on Herran portti: vanhurskaat siitä käyvät sisälle. ",
       "king_james": "This gate of the Lord, into which the righteous shall enter.",
       "refs": {
         "latin_vulgate": {
+          "src": "117:20"
+        },
+        "douay_rheims": {
           "src": "117:20"
         }
       }
@@ -229,9 +331,14 @@
       "verse": 21,
       "latin_vulgate": " Confitebor tibi quoniam exaudisti me,  et factus es mihi in salutem. ",
       "hebrew_masoretic": "א֭וֹדְךָ כִּ֣י עֲנִיתָ֑נִי וַתְּהִי־לִ֝֗י לִישׁוּעָֽה׃",
+      "douay_rheims": "I will give glory to thee because thou hast heard me: and art become my salvation.",
+      "finnish_biblia": "Minä kiitän sinua, ettäs minun rukoukseni kuulit, ja autit minua. ",
       "king_james": "I will praise thee: for thou hast heard me, and art become my salvation.",
       "refs": {
         "latin_vulgate": {
+          "src": "117:21"
+        },
+        "douay_rheims": {
           "src": "117:21"
         }
       }
@@ -240,9 +347,14 @@
       "verse": 22,
       "latin_vulgate": " Lapidem quem reprobaverunt ædificantes,  hic factus est in caput anguli. ",
       "hebrew_masoretic": "אֶ֭בֶן מָאֲס֣וּ הַבּוֹנִ֑ים הָ֝יְתָ֗ה לְרֹ֣אשׁ פִּנָּֽה׃",
+      "douay_rheims": "The stone which the builders rejected; the same is become the head of the corner.",
+      "finnish_biblia": "Se kivi, jonka rakentajat hylkäsivät, on tullut kulmakiveksi. ",
       "king_james": "The stone which the builders refused is become the head stone of the corner.",
       "refs": {
         "latin_vulgate": {
+          "src": "117:22"
+        },
+        "douay_rheims": {
           "src": "117:22"
         }
       }
@@ -251,9 +363,14 @@
       "verse": 23,
       "latin_vulgate": " A Domino factum est istud,  et est mirabile in oculis nostris. ",
       "hebrew_masoretic": "מֵאֵ֣ת יְ֭הֹוָה הָ֣יְתָה זֹּ֑את הִ֖יא נִפְלָ֣את בְּעֵינֵֽינוּ׃",
+      "douay_rheims": "This is the Lord's doing, and it is wonderful in our eyes.",
+      "finnish_biblia": "Herralta se on tapahtunut, ja on ihme meidän silmäimme edessä. ",
       "king_james": "This is the Lord’s doing; it is marvellous in our eyes.",
       "refs": {
         "latin_vulgate": {
+          "src": "117:23"
+        },
+        "douay_rheims": {
           "src": "117:23"
         }
       }
@@ -262,9 +379,14 @@
       "verse": 24,
       "latin_vulgate": " Hæc est dies quam fecit Dominus ;  exsultemus, et lætemur in ea. ",
       "hebrew_masoretic": "זֶה־הַ֭יּוֹם עָשָׂ֣ה יְהֹוָ֑ה נָגִ֖ילָה וְנִשְׂמְחָ֣ה בֽוֹ׃",
+      "douay_rheims": "This is the day which the Lord hath made: let us be glad and rejoice therein.",
+      "finnish_biblia": "Tämä on se päivä, jonka Herra teki: iloitkaamme ja riemuitkaamme hänessä. ",
       "king_james": "This is the day which the Lord hath made; we will rejoice and be glad in it.",
       "refs": {
         "latin_vulgate": {
+          "src": "117:24"
+        },
+        "douay_rheims": {
           "src": "117:24"
         }
       }
@@ -273,9 +395,14 @@
       "verse": 25,
       "latin_vulgate": " O Domine, salvum me fac ;  o Domine, bene prosperare. ",
       "hebrew_masoretic": "אָנָּ֣א יְ֭הֹוָה הוֹשִׁ֘יעָ֥ה נָּ֑א אָנָּ֥א יְ֝הֹוָ֗ה הַצְלִ֘יחָ֥ה נָּֽא׃",
+      "douay_rheims": "O Lord, save me: O Lord, give good success.",
+      "finnish_biblia": "O Herra, auta, o Herra, anna menestyä! ",
       "king_james": "Save now, I beseech thee, O Lord: O Lord, I beseech thee, send now prosperity.",
       "refs": {
         "latin_vulgate": {
+          "src": "117:25"
+        },
+        "douay_rheims": {
           "src": "117:25"
         }
       }
@@ -284,9 +411,14 @@
       "verse": 26,
       "latin_vulgate": " Benedictus qui venit in nomine Domini :  benediximus vobis de domo Domini. ",
       "hebrew_masoretic": "בָּר֣וּךְ הַ֭בָּא בְּשֵׁ֣ם יְהֹוָ֑ה בֵּ֝רַ֥כְנוּכֶ֗ם מִבֵּ֥ית יְהֹוָֽה׃",
+      "douay_rheims": "Blessed be he that cometh in the name of the Lord. We have blessed you out of the house of the Lord.",
+      "finnish_biblia": "Siunattu olkoon se,joka tulee Herran nimeen! me siunaamme teitä Herran huoneesta. ",
       "king_james": "Blessed be he that cometh in the name of the Lord: we have blessed you out of the house of the Lord.",
       "refs": {
         "latin_vulgate": {
+          "src": "117:26"
+        },
+        "douay_rheims": {
           "src": "117:26"
         }
       }
@@ -295,9 +427,14 @@
       "verse": 27,
       "latin_vulgate": " Deus Dominus, et illuxit nobis.  Constituite diem solemnem in condensis,  usque ad cornu altaris. ",
       "hebrew_masoretic": "אֵ֤ל ׀ יְהֹוָה֮ וַיָּ֢אֶ֫ר לָ֥נוּ אִסְרוּ־חַ֥ג בַּעֲבֹתִ֑ים עַד־קַ֝רְנ֗וֹת הַמִּזְבֵּֽחַ׃",
+      "douay_rheims": "The Lord is God, and he hath shone upon us. Appoint a solemn day, with shady boughs, even to the horn of the altar.",
+      "finnish_biblia": "Herra on Jumala, joka meitä valistaa: kaunistakaat juhlalehdillä hamaan alttarin sarviin asti. ",
       "king_james": "God is the Lord, which hath shewed us light: bind the sacrifice with cords, even unto the horns of the altar.",
       "refs": {
         "latin_vulgate": {
+          "src": "117:27"
+        },
+        "douay_rheims": {
           "src": "117:27"
         }
       }
@@ -306,9 +443,14 @@
       "verse": 28,
       "latin_vulgate": " Deus meus es tu, et confitebor tibi ;  Deus meus es tu, et exaltabo te.  Confitebor tibi quoniam exaudisti me,  et factus es mihi in salutem. ",
       "hebrew_masoretic": "אֵלִ֣י אַתָּ֣ה וְאוֹדֶ֑ךָּ אֱ֝לֹהַ֗י אֲרוֹמְמֶֽךָּ׃",
+      "douay_rheims": "Thou art my God, and I will praise thee: thou art my God, and I will exalt thee. I will praise thee, because thou hast heard me, and art become my salvation.",
+      "finnish_biblia": "Sinä olet minun Jumalani, ja minä kiitän sinua; minun Jumalani! sinua minä ylistän. ",
       "king_james": "Thou art my God, and I will praise thee: thou art my God, I will exalt thee.",
       "refs": {
         "latin_vulgate": {
+          "src": "117:28"
+        },
+        "douay_rheims": {
           "src": "117:28"
         }
       }
@@ -317,9 +459,14 @@
       "verse": 29,
       "latin_vulgate": " Confitemini Domino, quoniam bonus,  quoniam in sæculum misericordia ejus.  ",
       "hebrew_masoretic": "הוֹד֣וּ לַיהֹוָ֣ה כִּי־ט֑וֹב כִּ֖י לְעוֹלָ֣ם חַסְדּֽוֹ׃ {פ}",
+      "douay_rheims": "O praise ye the Lord, for he is good: for his mercy endureth for ever. ",
+      "finnish_biblia": "Kiittäkäät Herraa; sillä hän on hyvä, ja hänen laupiutensa pysyy ijankaikkisesti.   ",
       "king_james": "O give thanks unto the Lord; for he is good: for his mercy endureth for ever. ",
       "refs": {
         "latin_vulgate": {
+          "src": "117:29"
+        },
+        "douay_rheims": {
           "src": "117:29"
         }
       }

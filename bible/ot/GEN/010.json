@@ -2,6 +2,8 @@
   "book_id": "GEN",
   "latin_name": "Genesis",
   "hebrew_name": "בְּרֵאשִׁית",
+  "douay_name": "Genesis",
+  "finnish_name": "1. Mooseksen kirja",
   "english_name": "Genesis",
   "chapter": 10,
   "verses": [
@@ -9,192 +11,256 @@
       "verse": 1,
       "latin_vulgate": "Hæ sunt generationes filiorum Noë, Sem, Cham et Japheth : natique sunt eis filii post diluvium. ",
       "hebrew_masoretic": "וְאֵ֙לֶּה֙ תּוֹלְדֹ֣ת בְּנֵי־נֹ֔חַ שֵׁ֖ם חָ֣ם וָיָ֑פֶת וַיִּוָּלְד֥וּ לָהֶ֛ם בָּנִ֖ים אַחַ֥ר הַמַּבּֽוּל׃",
+      "douay_rheims": "These are the generations of the sons of Noe: Sem, Cham, and Japheth: and unto them sons were born after the flood.",
+      "finnish_biblia": "Tämä on Noan lasten sukukunta: Semin, Hamin ja Japhetin: ja heille syntyi lapsia vedenpaisumisen jälkeen. ",
       "king_james": "Now these are the generations of the sons of Noah, Shem, Ham, and Japheth: and unto them were sons born after the flood."
     },
     {
       "verse": 2,
       "latin_vulgate": "Filii Japheth : Gomer, et Magog, et Madai, et Javan, et Thubal, et Mosoch, et Thiras. ",
       "hebrew_masoretic": "בְּנֵ֣י יֶ֔פֶת גֹּ֣מֶר וּמָג֔וֹג וּמָדַ֖י וְיָוָ֣ן וְתֻבָ֑ל וּמֶ֖שֶׁךְ וְתִירָֽס׃",
+      "douay_rheims": "The sons of Japheth: Gomer, and Magog, and Madai, and Javan, and Thubal, and Mosoch, and Thiras.",
+      "finnish_biblia": "Japhetin lapset: Gomer, Magog, Madai, Javan ja Tubal: Mesek ja Tiras. ",
       "king_james": "The sons of Japheth; Gomer, and Magog, and Madai, and Javan, and Tubal, and Meshech, and Tiras."
     },
     {
       "verse": 3,
       "latin_vulgate": "Porro filii Gomer : Ascenez et Riphath et Thogorma. ",
       "hebrew_masoretic": "וּבְנֵ֖י גֹּ֑מֶר אַשְׁכְּנַ֥ז וְרִיפַ֖ת וְתֹגַרְמָֽה׃",
+      "douay_rheims": "And the sons of Gomer: Ascenez and Riphath and Thogorma.",
+      "finnish_biblia": "Mutta Gomerin lapset: Askenas, Riphad ja Togarma. ",
       "king_james": "And the sons of Gomer; Ashkenaz, and Riphath, and Togarmah."
     },
     {
       "verse": 4,
       "latin_vulgate": "Filii autem Javan : Elisa et Tharsis, Cetthim et Dodanim. ",
       "hebrew_masoretic": "וּבְנֵ֥י יָוָ֖ן אֱלִישָׁ֣ה וְתַרְשִׁ֑ישׁ כִּתִּ֖ים וְדֹדָנִֽים׃",
+      "douay_rheims": "And the sons of Javan: Elisa and Tharsis, Cetthim and Dodanim.",
+      "finnish_biblia": "Javanin lapset: Elisa ja Tarsis: Kittim ja Dodanim. ",
       "king_james": "And the sons of Javan; Elishah, and Tarshish, Kittim, and Dodanim."
     },
     {
       "verse": 5,
       "latin_vulgate": "Ab his divisæ sunt insulæ gentium in regionibus suis, unusquisque secundum linguam suam et familias suas in nationibus suis.  ",
       "hebrew_masoretic": "מֵ֠אֵ֠לֶּה נִפְרְד֞וּ אִיֵּ֤י הַגּוֹיִם֙ בְּאַרְצֹתָ֔ם אִ֖ישׁ לִלְשֹׁנ֑וֹ לְמִשְׁפְּחֹתָ֖ם בְּגוֹיֵהֶֽם׃",
+      "douay_rheims": "By these were divided the islands of the Gentiles in their lands, every one according to his tongue and their families in their nations.",
+      "finnish_biblia": "Näistä ovat hajoitetut pakanain luodot, heidän maakunnissansa, itsekukin oman kielensä jälkeen: heidän sukukuntainsa jälkeen, heidän kansoissansa. ",
       "king_james": "By these were the isles of the Gentiles divided in their lands; every one after his tongue, after their families, in their nations."
     },
     {
       "verse": 6,
       "latin_vulgate": " Filii autem Cham : Chus, et Mesraim, et Phuth, et Chanaan. ",
       "hebrew_masoretic": "וּבְנֵ֖י חָ֑ם כּ֥וּשׁ וּמִצְרַ֖יִם וּפ֥וּט וּכְנָֽעַן׃",
+      "douay_rheims": "And the Sons of Cham: Chus, and Mesram, and Phuth, and Chanaan.",
+      "finnish_biblia": "Hamin lapset: Kus, Misraim, Put ja Kanaan. ",
       "king_james": "And the sons of Ham; Cush, and Mizraim, and Phut, and Canaan."
     },
     {
       "verse": 7,
       "latin_vulgate": "Filii Chus : Saba, et Hevila, et Sabatha, et Regma, et Sabatacha. Filii Regma : Saba et Dadan. ",
       "hebrew_masoretic": "וּבְנֵ֣י כ֔וּשׁ סְבָא֙ וַֽחֲוִילָ֔ה וְסַבְתָּ֥ה וְרַעְמָ֖ה וְסַבְתְּכָ֑א וּבְנֵ֥י רַעְמָ֖ה שְׁבָ֥א וּדְדָֽן׃",
+      "douay_rheims": "And the sons of Chus: Saba, and Hevila, and Sabatha, and Regma, and Sabatacha. The sons of Regma: Saba, and Dadan.",
+      "finnish_biblia": "Kuksen lapset: Seba, Hevila, Sabta, Naema ja Sabteka. Naeman lapset: Skepa ja Dedan. ",
       "king_james": "And the sons of Cush; Seba, and Havilah, and Sabtah, and Raamah, and Sabtecha: and the sons of Raamah; Sheba, and Dedan."
     },
     {
       "verse": 8,
       "latin_vulgate": "Porro Chus genuit Nemrod : ipse cœpit esse potens in terra, ",
       "hebrew_masoretic": "וְכ֖וּשׁ יָלַ֣ד אֶת־נִמְרֹ֑ד ה֣וּא הֵחֵ֔ל לִֽהְי֥וֹת גִּבֹּ֖ר בָּאָֽרֶץ׃",
+      "douay_rheims": "Now Chus begot Nemrod: he began to be mighty on the earth.",
+      "finnish_biblia": "Mutta Kus siitti Nimrodin: hän rupesi olemaan valtias maalla. ",
       "king_james": "And Cush begat Nimrod: he began to be a mighty one in the earth."
     },
     {
       "verse": 9,
       "latin_vulgate": "et erat robustus venator coram Domino. Ob hoc exivit proverbium : Quasi Nemrod robustus venator coram Domino. ",
       "hebrew_masoretic": "הֽוּא־הָיָ֥ה גִבֹּֽר־צַ֖יִד לִפְנֵ֣י יְהֹוָ֑ה עַל־כֵּן֙ יֵֽאָמַ֔ר כְּנִמְרֹ֛ד גִּבּ֥וֹר צַ֖יִד לִפְנֵ֥י יְהֹוָֽה׃",
+      "douay_rheims": "And he was a stout hunter before the Lord. Hence came a proverb: Even as Nemrod the stout hunter before the Lord.",
+      "finnish_biblia": "Ja hän oli jalo metsämies Herran edessä. Siitä on sananlasku: se on jalo metsämies Herran edessä, niinkuin Nimrod. ",
       "king_james": "He was a mighty hunter before the Lord: wherefore it is said, Even as Nimrod the mighty hunter before the Lord."
     },
     {
       "verse": 10,
       "latin_vulgate": "Fuit autem principium regni ejus Babylon, et Arach et Achad, et Chalanne, in terra Sennaar. ",
       "hebrew_masoretic": "וַתְּהִ֨י רֵאשִׁ֤ית מַמְלַכְתּוֹ֙ בָּבֶ֔ל וְאֶ֖רֶךְ וְאַכַּ֣ד וְכַלְנֵ֑ה בְּאֶ֖רֶץ שִׁנְעָֽר׃",
+      "douay_rheims": "And the beginning of his kingdom was Babylon, and Arach, and Achad, and Chalanne in the land of Sennaar.",
+      "finnish_biblia": "Ja hänen valtakuntansa alku oli Babel, Erek, Akad ja Kalne, Sinearin maalla. ",
       "king_james": "And the beginning of his kingdom was Babel, and Erech, and Accad, and Calneh, in the land of Shinar."
     },
     {
       "verse": 11,
       "latin_vulgate": "De terra illa egressus est Assur, et ædificavit Niniven, et plateas civitatis, et Chale. ",
       "hebrew_masoretic": "מִן־הָאָ֥רֶץ הַהִ֖וא יָצָ֣א אַשּׁ֑וּר וַיִּ֙בֶן֙ אֶת־נִ֣ינְוֵ֔ה וְאֶת־רְחֹבֹ֥ת עִ֖יר וְאֶת־כָּֽלַח׃",
+      "douay_rheims": "Out of that land came forth Assur, and built Ninive, and the streets of the city, and Chale.",
+      "finnish_biblia": "Siitä maakunnasta tuli hän Assyriaan: ja rakensi Niniven, ja Rehobotin kaupungin, ja Kalan. ",
       "king_james": "Out of that land went forth Asshur, and builded Nineveh, and the city Rehoboth, and Calah,"
     },
     {
       "verse": 12,
       "latin_vulgate": "Resen quoque inter Niniven et Chale : hæc est civitas magna. ",
       "hebrew_masoretic": "וְֽאֶת־רֶ֔סֶן בֵּ֥ין נִֽינְוֵ֖ה וּבֵ֣ין כָּ֑לַח הִ֖וא הָעִ֥יר הַגְּדֹלָֽה׃",
+      "douay_rheims": "Resen also between Ninive and Chale: this is the great city.",
+      "finnish_biblia": "Ja myös Ressen, Niniven ja Kalan vaiheelle: joka on suuri kaupunki. ",
       "king_james": "And Resen between Nineveh and Calah: the same is a great city."
     },
     {
       "verse": 13,
       "latin_vulgate": "At vero Mesraim genuit Ludim, et Anamim et Laabim, Nephthuim, ",
       "hebrew_masoretic": "וּמִצְרַ֡יִם יָלַ֞ד אֶת־לוּדִ֧ים וְאֶת־עֲנָמִ֛ים וְאֶת־לְהָבִ֖ים וְאֶת־נַפְתֻּחִֽים׃",
+      "douay_rheims": "And Mesraim begot Ludim, and Anamim and Laabim, Nephthuim.",
+      "finnish_biblia": "Misraim siitti Ludimin, Anamimin, Leabimin, Naphtuhimin. ",
       "king_james": "And Mizraim begat Ludim, and Anamim, and Lehabim, and Naphtuhim,"
     },
     {
       "verse": 14,
       "latin_vulgate": "et Phetrusim, et Chasluim : de quibus egressi sunt Philisthiim et Caphtorim. ",
       "hebrew_masoretic": "וְֽאֶת־פַּתְרֻסִ֞ים וְאֶת־כַּסְלֻחִ֗ים אֲשֶׁ֨ר יָצְא֥וּ מִשָּׁ֛ם פְּלִשְׁתִּ֖ים וְאֶת־כַּפְתֹּרִֽים׃ {ס}",
+      "douay_rheims": "And Phetrusim, and Chasluim; of whom came forth the Philistines, and the Capthorim.",
+      "finnish_biblia": "Patrusimin ja Kasluhimin; joista tulleet ovat Philistim ja Kaphtorim. ",
       "king_james": "And Pathrusim, and Casluhim, (out of whom came Philistim,) and Caphtorim."
     },
     {
       "verse": 15,
       "latin_vulgate": "Chanaan autem genuit Sidonem primogenitum suum. Hethæum, ",
       "hebrew_masoretic": "וּכְנַ֗עַן יָלַ֛ד אֶת־צִידֹ֥ן בְּכֹר֖וֹ וְאֶת־חֵֽת׃",
+      "douay_rheims": "And Chanaan begot Sidon his firstborn, the Hethite,",
+      "finnish_biblia": "Mutta Kanaan siitti esikoisensa Sidonin ja Hetin. ",
       "king_james": "And Canaan begat Sidon his firstborn, and Heth,"
     },
     {
       "verse": 16,
       "latin_vulgate": "et Jebusæum, et Amorrhæum, Gergesæum, ",
       "hebrew_masoretic": "וְאֶת־הַיְבוּסִי֙ וְאֶת־הָ֣אֱמֹרִ֔י וְאֵ֖ת הַגִּרְגָּשִֽׁי׃",
+      "douay_rheims": "And the Jebusite, and the Amorrhite, and the Gergesite.",
+      "finnish_biblia": "Ja Jebusin, Emorin, Girgosin. ",
       "king_james": "And the Jebusite, and the Amorite, and the Girgasite,"
     },
     {
       "verse": 17,
       "latin_vulgate": "Hevæum, et Aracæum : Sinæum, ",
       "hebrew_masoretic": "וְאֶת־הַֽחִוִּ֥י וְאֶת־הַֽעַרְקִ֖י וְאֶת־הַסִּינִֽי׃",
+      "douay_rheims": "The Hevite and Aracite: the Sinite,",
+      "finnish_biblia": "Hivin, Arkin, Sinin, ",
       "king_james": "And the Hivite, and the Arkite, and the Sinite,"
     },
     {
       "verse": 18,
       "latin_vulgate": "et Aradium, Samaræum, et Amathæum : et post hæc disseminati sunt populi Chananæorum. ",
       "hebrew_masoretic": "וְאֶת־הָֽאַרְוָדִ֥י וְאֶת־הַצְּמָרִ֖י וְאֶת־הַֽחֲמָתִ֑י וְאַחַ֣ר נָפֹ֔צוּ מִשְׁפְּח֖וֹת הַֽכְּנַעֲנִֽי׃",
+      "douay_rheims": "And the Aradian, the Samarite, and the Hamathite: and afterwards the families of the Chanaanites were spread abroad.",
+      "finnish_biblia": "Ja Arvadin, Semarin ja Hamatin. Sitten ovat hajoitetut Kanaanealaisten suvut. ",
       "king_james": "And the Arvadite, and the Zemarite, and the Hamathite: and afterward were the families of the Canaanites spread abroad."
     },
     {
       "verse": 19,
       "latin_vulgate": "Factique sunt termini Chanaan venientibus a Sidone Geraram usque Gazam, donec ingrediaris Sodomam et Gomorrham, et Adamam, et Seboim usque Lesa. ",
       "hebrew_masoretic": "וַיְהִ֞י גְּב֤וּל הַֽכְּנַעֲנִי֙ מִצִּידֹ֔ן בֹּאֲכָ֥ה גְרָ֖רָה עַד־עַזָּ֑ה בֹּאֲכָ֞ה סְדֹ֧מָה וַעֲמֹרָ֛ה וְאַדְמָ֥ה וּצְבֹיִ֖ם עַד־לָֽשַׁע׃",
+      "douay_rheims": "And the limits of Chanaan were from Sidon as one comes to Gerara even to Gaza, until thou enter Sodom and Gomorrha, and Adama, and Seboim even to Lesa.",
+      "finnish_biblia": "Ja Kanaanealaisten rajat olivat Sidonista Gerarin kautta hamaan Gatsaan: Sodomaan, ja Gomorraan, ja Adamaan, Seboimiin päin, Lasaan asti. ",
       "king_james": "And the border of the Canaanites was from Sidon, as thou comest to Gerar, unto Gaza; as thou goest, unto Sodom, and Gomorrah, and Admah, and Zeboim, even unto Lasha."
     },
     {
       "verse": 20,
       "latin_vulgate": "Hi sunt filii Cham in cognationibus, et linguis, et generationibus, terrisque et gentibus suis.  ",
       "hebrew_masoretic": "אֵ֣לֶּה בְנֵי־חָ֔ם לְמִשְׁפְּחֹתָ֖ם לִלְשֹֽׁנֹתָ֑ם בְּאַרְצֹתָ֖ם בְּגוֹיֵהֶֽם׃ {ס}",
+      "douay_rheims": "These are the children of Cham in their kindreds and tongues, and generations, and lands, and nations.",
+      "finnish_biblia": "Nämät ovat Hamin lapset heidän sukukuntainsa ja kieltensä jälkeen: heidän maakunnissansa ja kansoissansa. ",
       "king_james": "These are the sons of Ham, after their families, after their tongues, in their countries, and in their nations."
     },
     {
       "verse": 21,
       "latin_vulgate": " De Sem quoque nati sunt, patre omnium filiorum Heber, fratre Japheth majore. ",
       "hebrew_masoretic": "וּלְשֵׁ֥ם יֻלַּ֖ד גַּם־ה֑וּא אֲבִי֙ כׇּל־בְּנֵי־עֵ֔בֶר אֲחִ֖י יֶ֥פֶת הַגָּדֽוֹל׃",
+      "douay_rheims": "Of Sem also the father of all the children of Heber, the elder brother of Japheth, sons were born.",
+      "finnish_biblia": "Mutta myös itse Semille syntyi lapsia: hän oli kaikkein Eberin lasten isä: Japhetin sen vanhimman veli. ",
       "king_james": "Unto Shem also, the father of all the children of Eber, the brother of Japheth the elder, even to him were children born."
     },
     {
       "verse": 22,
       "latin_vulgate": "Filii Sem : Ælam, et Assur, et Arphaxad, et Lud, et Aram. ",
       "hebrew_masoretic": "בְּנֵ֥י שֵׁ֖ם עֵילָ֣ם וְאַשּׁ֑וּר וְאַרְפַּכְשַׁ֖ד וְל֥וּד וַֽאֲרָֽם׃",
+      "douay_rheims": "The sons of Sem: Elam and Assur, and Arphaxad, and Lud, and Aram.",
+      "finnish_biblia": "(Ja nämät ovat) Semin lapset: Elam ja Assur: Arphaksad, Lud ja Aram. ",
       "king_james": "The children of Shem; Elam, and Asshur, and Arphaxad, and Lud, and Aram."
     },
     {
       "verse": 23,
       "latin_vulgate": "Filii Aram : Us, et Hul, et Gether, et Mes. ",
       "hebrew_masoretic": "וּבְנֵ֖י אֲרָ֑ם ע֥וּץ וְח֖וּל וְגֶ֥תֶר וָמַֽשׁ׃",
+      "douay_rheims": "The sons of Aram: Us, and Hull, and Gether; and Mes.",
+      "finnish_biblia": "Ja Aramin lapset: Uts, Hul, Geter ja Mas. ",
       "king_james": "And the children of Aram; Uz, and Hul, and Gether, and Mash."
     },
     {
       "verse": 24,
       "latin_vulgate": "At vero Arphaxad genuit Sale, de quo ortus est Heber. ",
       "hebrew_masoretic": "וְאַרְפַּכְשַׁ֖ד יָלַ֣ד אֶת־שָׁ֑לַח וְשֶׁ֖לַח יָלַ֥ד אֶת־עֵֽבֶר׃",
+      "douay_rheims": "But Arphaxad begot Sale, of whom was born Heber.",
+      "finnish_biblia": "Mutta Arphaksad siitti Salan: Sala siitti Eberin. ",
       "king_james": "And Arphaxad begat Salah; and Salah begat Eber."
     },
     {
       "verse": 25,
       "latin_vulgate": "Natique sunt Heber filii duo : nomen uni Phaleg, eo quod in diebus ejus divisa sit terra : et nomen fratris ejus Jectan. ",
       "hebrew_masoretic": "וּלְעֵ֥בֶר יֻלַּ֖ד שְׁנֵ֣י בָנִ֑ים שֵׁ֣ם הָֽאֶחָ֞ד פֶּ֗לֶג כִּ֤י בְיָמָיו֙ נִפְלְגָ֣ה הָאָ֔רֶץ וְשֵׁ֥ם אָחִ֖יו יׇקְטָֽן׃",
+      "douay_rheims": "And to Heber were born two sons: the name of the one was Phaleg, because in his days was the earth divided: and his brother's name Jectan.",
+      "finnish_biblia": "Eberille syntyi kaksi poikaa: yksi kutsuttiin Peleg, että hänen aikanansa maailma jaettiin: hänen veljensä kutsuttiin Joktan. ",
       "king_james": "And unto Eber were born two sons: the name of one was Peleg; for in his days was the earth divided; and his brother’s name was Joktan."
     },
     {
       "verse": 26,
       "latin_vulgate": "Qui Jectan genuit Elmodad, et Saleph, et Asarmoth, Jare, ",
       "hebrew_masoretic": "וְיׇקְטָ֣ן יָלַ֔ד אֶת־אַלְמוֹדָ֖ד וְאֶת־שָׁ֑לֶף וְאֶת־חֲצַרְמָ֖וֶת וְאֶת־יָֽרַח׃",
+      "douay_rheims": "Which Jectan begot Elmodad, and Saleph, and Asarmoth, Jare,",
+      "finnish_biblia": "Joktan siitti Almodadin ja Salephin: Hasarmavetin ja Jaran. ",
       "king_james": "And Joktan begat Almodad, and Sheleph, and Hazarmaveth, and Jerah,"
     },
     {
       "verse": 27,
       "latin_vulgate": "et Aduram, et Uzal, et Decla, ",
       "hebrew_masoretic": "וְאֶת־הֲדוֹרָ֥ם וְאֶת־אוּזָ֖ל וְאֶת־דִּקְלָֽה׃",
+      "douay_rheims": "And Aduram, and Uzal, and Decla,",
+      "finnish_biblia": "Hadoramin, Usalin, Dikelan. ",
       "king_james": "And Hadoram, and Uzal, and Diklah,"
     },
     {
       "verse": 28,
       "latin_vulgate": "et Ebal, et Abimaël, Saba, ",
       "hebrew_masoretic": "וְאֶת־עוֹבָ֥ל וְאֶת־אֲבִֽימָאֵ֖ל וְאֶת־שְׁבָֽא׃",
+      "douay_rheims": "And Ebal, and Abimael, Saba,",
+      "finnish_biblia": "Obalin, Abimaelin, Seban. ",
       "king_james": "And Obal, and Abimael, and Sheba,"
     },
     {
       "verse": 29,
       "latin_vulgate": "et Ophir, et Hevila, et Jobab : omnes isti, filii Jectan. ",
       "hebrew_masoretic": "וְאֶת־אוֹפִ֥ר וְאֶת־חֲוִילָ֖ה וְאֶת־יוֹבָ֑ב כׇּל־אֵ֖לֶּה בְּנֵ֥י יׇקְטָֽן׃",
+      "douay_rheims": "And Ophir, and Hevila, and Jobab. All these were the sons of Jectan.",
+      "finnish_biblia": "Ophirin, Hevilan ja Jobabin. Kaikki nämä ovat Joktanin pojat. ",
       "king_james": "And Ophir, and Havilah, and Jobab: all these were the sons of Joktan."
     },
     {
       "verse": 30,
       "latin_vulgate": "Et facta est habitatio eorum de Messa pergentibus usque Sephar montem orientalem. ",
       "hebrew_masoretic": "וַיְהִ֥י מוֹשָׁבָ֖ם מִמֵּשָׁ֑א בֹּאֲכָ֥ה סְפָ֖רָה הַ֥ר הַקֶּֽדֶם׃",
+      "douay_rheims": "And their dwelling was from Messa as we go on as far as Sephar, a mountain in the east.",
+      "finnish_biblia": "Ja heidän asumasiansa oli Mesasta: siihen asti kuin Sephariin tullaan, vuoren tykö, itään päin. ",
       "king_james": "And their dwelling was from Mesha, as thou goest unto Sephar a mount of the east."
     },
     {
       "verse": 31,
       "latin_vulgate": "Isti filii Sem secundum cognationes, et linguas, et regiones in gentibus suis. ",
       "hebrew_masoretic": "אֵ֣לֶּה בְנֵי־שֵׁ֔ם לְמִשְׁפְּחֹתָ֖ם לִלְשֹׁנֹתָ֑ם בְּאַרְצֹתָ֖ם לְגוֹיֵהֶֽם׃",
+      "douay_rheims": "These are the children of Sem according to their kindreds and tongues, and countries in their nations.",
+      "finnish_biblia": "Nämät ovat Semin lapset, sukukuntainsa ja kieltensä jälkeen: heidän maakunnissansa, kansainsa jälkeen. ",
       "king_james": "These are the sons of Shem, after their families, after their tongues, in their lands, after their nations."
     },
     {
       "verse": 32,
       "latin_vulgate": "Hæ familiæ Noë juxta populos et nationes suas. Ab his divisæ sunt gentes in terra post diluvium.   ",
       "hebrew_masoretic": "אֵ֣לֶּה מִשְׁפְּחֹ֧ת בְּנֵי־נֹ֛חַ לְתוֹלְדֹתָ֖ם בְּגוֹיֵהֶ֑ם וּמֵאֵ֜לֶּה נִפְרְד֧וּ הַגּוֹיִ֛ם בָּאָ֖רֶץ אַחַ֥ר הַמַּבּֽוּל׃ {פ}",
+      "douay_rheims": "These are the families of Noe, according to their people and nations. By these were the nations divided on the earth after the flood. ",
+      "finnish_biblia": "Nämät ovat Noan lasten sukukunnat, heidän heimokuntainsa jälkeen, heidän kansoissansa. Ja näistä ovat kansat jaetut maan päälle vedenpaisumisen jälkeen.   ",
       "king_james": "These are the families of the sons of Noah, after their generations, in their nations: and by these were the nations divided in the earth after the flood. "
     }
   ]

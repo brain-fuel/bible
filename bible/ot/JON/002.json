@@ -2,6 +2,8 @@
   "book_id": "JON",
   "latin_name": "Ionas",
   "hebrew_name": "יוֹנָה",
+  "douay_name": "Jonas",
+  "finnish_name": "Joona",
   "english_name": "Jonah",
   "chapter": 2,
   "verses": [
@@ -9,12 +11,17 @@
       "verse": 1,
       "latin_vulgate": "Et oravit Jonas ad Dominum Deum suum de ventre piscis, ",
       "hebrew_masoretic": "וַיִּתְפַּלֵּ֣ל יוֹנָ֔ה אֶל־יְהֹוָ֖ה אֱלֹהָ֑יו מִמְּעֵ֖י הַדָּגָֽה׃",
+      "douay_rheims": "And Jonah prayed to the Lord, his God, out of the belly of the fish.",
+      "finnish_biblia": " Ja Jona rukoili Herraa Jumalaansa kalan vatsassa, ",
       "king_james": "Then Jonah prayed unto the Lord his God out of the fish’s belly,",
       "refs": {
         "latin_vulgate": {
           "src": "2:2"
         },
         "hebrew_masoretic": {
+          "src": "2:2"
+        },
+        "douay_rheims": {
           "src": "2:2"
         }
       }
@@ -23,12 +30,17 @@
       "verse": 2,
       "latin_vulgate": "et dixit :   Clamavi de tribulatione mea ad Dominum,  et exaudivit me ;  de ventre inferi clamavi,  et exaudisti vocem meam. ",
       "hebrew_masoretic": "וַיֹּ֗אמֶר קָ֠רָ֠אתִי מִצָּ֥רָה לִ֛י אֶל־יְהֹוָ֖ה וַֽיַּעֲנֵ֑נִי מִבֶּ֧טֶן שְׁא֛וֹל שִׁוַּ֖עְתִּי שָׁמַ֥עְתָּ קוֹלִֽי׃",
+      "douay_rheims": "And he said: I cried out of my affliction to the Lord, and he heard me: I cried out of the belly of hell, and thou hast heard my voice.",
+      "finnish_biblia": " Ja sanoi: minä huusin Herraa minun ahdistuksessani, ja hän vastasi minua; minä paruin helvetin vatsasta, ja sinä kuulit minun ääneni. ",
       "king_james": "And said, I cried by reason of mine affliction unto the Lord, and he heard me; out of the belly of hell cried I, and thou heardest my voice.",
       "refs": {
         "latin_vulgate": {
           "src": "2:3"
         },
         "hebrew_masoretic": {
+          "src": "2:3"
+        },
+        "douay_rheims": {
           "src": "2:3"
         }
       }
@@ -37,12 +49,17 @@
       "verse": 3,
       "latin_vulgate": " Et projecisti me in profundum in corde maris,  et flumen circumdedit me :  omnes gurgites tui, et fluctus tui super me transierunt. ",
       "hebrew_masoretic": "וַתַּשְׁלִיכֵ֤נִי מְצוּלָה֙ בִּלְבַ֣ב יַמִּ֔ים וְנָהָ֖ר יְסֹבְבֵ֑נִי כׇּל־מִשְׁבָּרֶ֥יךָ וְגַלֶּ֖יךָ עָלַ֥י עָבָֽרוּ׃",
+      "douay_rheims": "And thou hast cast me forth into the deep, in the heart of the sea, and a flood hast compassed me: all thy billows, and thy waves have passed over me.",
+      "finnish_biblia": " Sinä heitit minun syvyyteen keskelle merta, niin että aallot minua pyörsivät ympäriinsä; kaikki sinun lainees ja aaltos kävivät minun päällitseni. ",
       "king_james": "For thou hadst cast me into the deep, in the midst of the seas; and the floods compassed me about: all thy billows and thy waves passed over me.",
       "refs": {
         "latin_vulgate": {
           "src": "2:4"
         },
         "hebrew_masoretic": {
+          "src": "2:4"
+        },
+        "douay_rheims": {
           "src": "2:4"
         }
       }
@@ -51,12 +68,17 @@
       "verse": 4,
       "latin_vulgate": " Et ego dixi :  Abjectus sum a conspectu oculorum tuorum ;  verumtamen rursus videbo templum sanctum tuum. ",
       "hebrew_masoretic": "וַאֲנִ֣י אָמַ֔רְתִּי נִגְרַ֖שְׁתִּי מִנֶּ֣גֶד עֵינֶ֑יךָ אַ֚ךְ אוֹסִ֣יף לְהַבִּ֔יט אֶל־הֵיכַ֖ל קׇדְשֶֽׁךָ׃",
+      "douay_rheims": "And I said: I am cast away out of the sight of thy eyes: but yet I shall see the holy temple again.",
+      "finnish_biblia": " Minä ajattelin minuni hyljätyksi sinun silmäis edestä; kuitenkin saan minä vielä nähdä sinun pyhän templis. ",
       "king_james": "Then I said, I am cast out of thy sight; yet I will look again toward thy holy temple.",
       "refs": {
         "latin_vulgate": {
           "src": "2:5"
         },
         "hebrew_masoretic": {
+          "src": "2:5"
+        },
+        "douay_rheims": {
           "src": "2:5"
         }
       }
@@ -65,12 +87,17 @@
       "verse": 5,
       "latin_vulgate": " Circumdederunt me aquæ usque ad animam :  abyssus vallavit me,  pelagus operuit caput meum. ",
       "hebrew_masoretic": "אֲפָפ֤וּנִי מַ֙יִם֙ עַד־נֶ֔פֶשׁ תְּה֖וֹם יְסֹבְבֵ֑נִי ס֖וּף חָב֥וּשׁ לְרֹאשִֽׁי׃",
+      "douay_rheims": "The waters compassed me about even to the soul: the deep hath closed me round about, the sea hath covered my head.",
+      "finnish_biblia": " Vedet piirsivät minua ympäri sieluuni asti; syvyydet piirittivät minun; kaislisto peitti minun pääni. ",
       "king_james": "The waters compassed me about, even to the soul: the depth closed me round about, the weeds were wrapped about my head.",
       "refs": {
         "latin_vulgate": {
           "src": "2:6"
         },
         "hebrew_masoretic": {
+          "src": "2:6"
+        },
+        "douay_rheims": {
           "src": "2:6"
         }
       }
@@ -79,12 +106,17 @@
       "verse": 6,
       "latin_vulgate": " Ad extrema montium descendi ;  terræ vectes concluserunt me in æternum :  et sublevabis de corruptione vitam meam, Domine Deus meus. ",
       "hebrew_masoretic": "לְקִצְבֵ֤י הָרִים֙ יָרַ֔דְתִּי הָאָ֛רֶץ בְּרִחֶ֥יהָ בַעֲדִ֖י לְעוֹלָ֑ם וַתַּ֧עַל מִשַּׁ֛חַת חַיַּ֖י יְהֹוָ֥ה אֱלֹהָֽי׃",
+      "douay_rheims": "I went down to the lowest parts of the mountains: the bars of the earth have shut me up for ever: and thou wilt bring up my life from corruption, O Lord, my God.",
+      "finnish_biblia": " Minä vajosin vuorten perustukseen asti; maa salpasi minun teljillänsä ijankaikkisesti; mutta sinä otit minun elämäni ulos kadotuksesta, Herra minun Jumalani. ",
       "king_james": "I went down to the bottoms of the mountains; the earth with her bars was about me for ever: yet hast thou brought up my life from corruption, O Lord my God.",
       "refs": {
         "latin_vulgate": {
           "src": "2:7"
         },
         "hebrew_masoretic": {
+          "src": "2:7"
+        },
+        "douay_rheims": {
           "src": "2:7"
         }
       }
@@ -93,12 +125,17 @@
       "verse": 7,
       "latin_vulgate": " Cum angustiaretur in me anima mea,  Domini recordatus sum :  ut veniat ad te oratio mea,  ad templum sanctum tuum. ",
       "hebrew_masoretic": "בְּהִתְעַטֵּ֤ף עָלַי֙ נַפְשִׁ֔י אֶת־יְהֹוָ֖ה זָכָ֑רְתִּי וַתָּב֤וֹא אֵלֶ֙יךָ֙ תְּפִלָּתִ֔י אֶל־הֵיכַ֖ל קׇדְשֶֽׁךָ׃",
+      "douay_rheims": "When my soul was in distress within me, I remembered the Lord: that my prayer may come to thee, unto the holy temple.",
+      "finnish_biblia": " Kuin minun sieluni epäili minussa, niin minä muistin Herraa; ja minun rukoukseni tuli sinun tykös, sinun pyhään templiis. ",
       "king_james": "When my soul fainted within me I remembered the Lord: and my prayer came in unto thee, into thine holy temple.",
       "refs": {
         "latin_vulgate": {
           "src": "2:8"
         },
         "hebrew_masoretic": {
+          "src": "2:8"
+        },
+        "douay_rheims": {
           "src": "2:8"
         }
       }
@@ -107,12 +144,17 @@
       "verse": 8,
       "latin_vulgate": " Qui custodiunt vanitates frustra,  misericordiam suam derelinquunt. ",
       "hebrew_masoretic": "מְשַׁמְּרִ֖ים הַבְלֵי־שָׁ֑וְא חַסְדָּ֖ם יַעֲזֹֽבוּ׃",
+      "douay_rheims": "They that in vain observe vanities, forsake their own mercy.",
+      "finnish_biblia": " Mutta jotka luottavat turhaan valheeseen, ne hylkäävät laupiuden itse kohtaansa. ",
       "king_james": "They that observe lying vanities forsake their own mercy.",
       "refs": {
         "latin_vulgate": {
           "src": "2:9"
         },
         "hebrew_masoretic": {
+          "src": "2:9"
+        },
+        "douay_rheims": {
           "src": "2:9"
         }
       }
@@ -121,12 +163,17 @@
       "verse": 9,
       "latin_vulgate": " Ego autem in voce laudis immolabo tibi :  quæcumque vovi, reddam pro salute Domino. ",
       "hebrew_masoretic": "וַאֲנִ֗י בְּק֤וֹל תּוֹדָה֙ אֶזְבְּחָה־לָּ֔ךְ אֲשֶׁ֥ר נָדַ֖רְתִּי אֲשַׁלֵּ֑מָה יְשׁוּעָ֖תָה לַיהֹוָֽה׃ {פ}",
+      "douay_rheims": "But I with the voice of praise will sacrifice to thee: I will pay whatsoever I have vowed for my salvation to the Lord.",
+      "finnish_biblia": " Mutta minä tahdon uhrata sinulle kiitoksella, minä tahdon maksaa lupaukseni; Herran tykönä on apu. ",
       "king_james": "But I will sacrifice unto thee with the voice of thanksgiving; I will pay that that I have vowed. Salvation is of the Lord.",
       "refs": {
         "latin_vulgate": {
           "src": "2:10"
         },
         "hebrew_masoretic": {
+          "src": "2:10"
+        },
+        "douay_rheims": {
           "src": "2:10"
         }
       }
@@ -135,12 +182,17 @@
       "verse": 10,
       "latin_vulgate": "Et dixit Dominus pisci, et evomuit Jonam in aridam.  ",
       "hebrew_masoretic": "וַיֹּ֥אמֶר יְהֹוָ֖ה לַדָּ֑ג וַיָּקֵ֥א אֶת־יוֹנָ֖ה אֶל־הַיַּבָּשָֽׁה׃ {ס}",
+      "douay_rheims": "And the Lord spoke to the fish: and it vomited out Jonah upon the dry land. ",
+      "finnish_biblia": " Ja Herra sanoi kalalle, että hän oksensi Jonan maan päälle.   ",
       "king_james": "And the Lord spake unto the fish, and it vomited out Jonah upon the dry land. ",
       "refs": {
         "latin_vulgate": {
           "src": "2:11"
         },
         "hebrew_masoretic": {
+          "src": "2:11"
+        },
+        "douay_rheims": {
           "src": "2:11"
         }
       }

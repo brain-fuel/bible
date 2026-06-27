@@ -2,6 +2,8 @@
   "book_id": "GEN",
   "latin_name": "Genesis",
   "hebrew_name": "בְּרֵאשִׁית",
+  "douay_name": "Genesis",
+  "finnish_name": "1. Mooseksen kirja",
   "english_name": "Genesis",
   "chapter": 11,
   "verses": [
@@ -9,192 +11,256 @@
       "verse": 1,
       "latin_vulgate": "Erat autem terra labii unius, et sermonum eorumdem. ",
       "hebrew_masoretic": "וַיְהִ֥י כׇל־הָאָ֖רֶץ שָׂפָ֣ה אֶחָ֑ת וּדְבָרִ֖ים אֲחָדִֽים׃",
+      "douay_rheims": "And the earth was of one tongue, and of the same speech.",
+      "finnish_biblia": "Ja koko maailmalla oli yhtäläinen kieli ja yhtäläinen puheenparsi. ",
       "king_james": "And the whole earth was of one language, and of one speech."
     },
     {
       "verse": 2,
       "latin_vulgate": "Cumque proficiscerentur de oriente, invenerunt campum in terra Sennaar, et habitaverunt in eo. ",
       "hebrew_masoretic": "וַיְהִ֖י בְּנׇסְעָ֣ם מִקֶּ֑דֶם וַֽיִּמְצְא֥וּ בִקְעָ֛ה בְּאֶ֥רֶץ שִׁנְעָ֖ר וַיֵּ֥שְׁבוּ שָֽׁם׃",
+      "douay_rheims": "And when they removed from the east, they found a plain in the land of Sennaar, and dwelt in it.",
+      "finnish_biblia": "Ja koska he matkustivat idästä, löysivät he kedon Sinearin maalla, ja asuivat siellä. ",
       "king_james": "And it came to pass, as they journeyed from the east, that they found a plain in the land of Shinar; and they dwelt there."
     },
     {
       "verse": 3,
       "latin_vulgate": "Dixitque alter ad proximum suum : Venite, faciamus lateres, et coquamus eos igni. Habueruntque lateres pro saxis, et bitumen pro cæmento : ",
       "hebrew_masoretic": "וַיֹּאמְר֞וּ אִ֣ישׁ אֶל־רֵעֵ֗הוּ הָ֚בָה נִלְבְּנָ֣ה לְבֵנִ֔ים וְנִשְׂרְפָ֖ה לִשְׂרֵפָ֑ה וַתְּהִ֨י לָהֶ֤ם הַלְּבֵנָה֙ לְאָ֔בֶן וְהַ֣חֵמָ֔ר הָיָ֥ה לָהֶ֖ם לַחֹֽמֶר׃",
+      "douay_rheims": "And each one said to his neighbour: Come let us make brick, and bake them with fire. And they had brick instead of stones, and slime instead of mortar:",
+      "finnish_biblia": "Ja sanoivat keskenänsä: käykäämme tiilejä tekemään ja polttamaan. Ja heillä olivat tiilit kivein siassa, ja maan pihka siteeksi. ",
       "king_james": "And they said one to another, Go to, let us make brick, and burn them throughly. And they had brick for stone, and slime had they for morter."
     },
     {
       "verse": 4,
       "latin_vulgate": "et dixerunt : Venite, faciamus nobis civitatem et turrim, cujus culmen pertingat ad cælum : et celebremus nomen nostrum antequam dividamur in universas terras. ",
       "hebrew_masoretic": "וַיֹּאמְר֞וּ הָ֣בָה ׀ נִבְנֶה־לָּ֣נוּ עִ֗יר וּמִגְדָּל֙ וְרֹאשׁ֣וֹ בַשָּׁמַ֔יִם וְנַֽעֲשֶׂה־לָּ֖נוּ שֵׁ֑ם פֶּן־נָפ֖וּץ עַל־פְּנֵ֥י כׇל־הָאָֽרֶץ׃",
+      "douay_rheims": "And they said: Come, let us make a city and a tower, the top whereof may reach to heaven; and let us make our name famous before we be scattered abroad into all lands.",
+      "finnish_biblia": "Ja sanoivat: käykäämme, rakentakaamme meillemme kaupunki ja torni, joka taivaaseen ulottuisi, tehdäksemme meillemme nimeä; ettei meitä hajoitettaisi kaikkiin maihin. ",
       "king_james": "And they said, Go to, let us build us a city and a tower, whose top may reach unto heaven; and let us make us a name, lest we be scattered abroad upon the face of the whole earth."
     },
     {
       "verse": 5,
       "latin_vulgate": "Descendit autem Dominus ut videret civitatem et turrim, quam ædificabant filii Adam, ",
       "hebrew_masoretic": "וַיֵּ֣רֶד יְהֹוָ֔ה לִרְאֹ֥ת אֶת־הָעִ֖יר וְאֶת־הַמִּגְדָּ֑ל אֲשֶׁ֥ר בָּנ֖וּ בְּנֵ֥י הָאָדָֽם׃",
+      "douay_rheims": "And the Lord came down to see the city and the tower, which the children of Adam were building.",
+      "finnish_biblia": "Silloin Herra astui alas katsomaan kaupunkia ja tornia, jota ihmisten lapset rakensivat. ",
       "king_james": "And the Lord came down to see the city and the tower, which the children of men builded."
     },
     {
       "verse": 6,
       "latin_vulgate": "et dixit : Ecce, unus est populus, et unum labium omnibus : cœperuntque hoc facere, nec desistent a cogitationibus suis, donec eas opere compleant. ",
       "hebrew_masoretic": "וַיֹּ֣אמֶר יְהֹוָ֗ה הֵ֣ן עַ֤ם אֶחָד֙ וְשָׂפָ֤ה אַחַת֙ לְכֻלָּ֔ם וְזֶ֖ה הַחִלָּ֣ם לַעֲשׂ֑וֹת וְעַתָּה֙ לֹֽא־יִבָּצֵ֣ר מֵהֶ֔ם כֹּ֛ל אֲשֶׁ֥ר יָזְמ֖וּ לַֽעֲשֽׂוֹת׃",
+      "douay_rheims": "And he said: Behold, it is one people, and all have one tongue: and they have begun to do this, neither will they leave off from their designs, till they accomplish them in deed.",
+      "finnish_biblia": "Ja Herra sanoi: katso, se on yhtäläinen kansa, ja yhtäläinen kieli on kaikkein heidän seassansa, ja he ovat ruvenneet tätä tekemään: ja nyt ei heitä taideta estettää mistään, kuin he ovat aikoneet tehdä. ",
       "king_james": "And the Lord said, Behold, the people is one, and they have all one language; and this they begin to do: and now nothing will be restrained from them, which they have imagined to do."
     },
     {
       "verse": 7,
       "latin_vulgate": "Venite igitur, descendamus, et confundamus ibi linguam eorum, ut non audiat unusquisque vocem proximi sui. ",
       "hebrew_masoretic": "הָ֚בָה נֵֽרְדָ֔ה וְנָבְלָ֥ה שָׁ֖ם שְׂפָתָ֑ם אֲשֶׁר֙ לֹ֣א יִשְׁמְע֔וּ אִ֖ישׁ שְׂפַ֥ת רֵעֵֽהוּ׃",
+      "douay_rheims": "Come ye, therefore, let us go down, and there confound their tongue, that they may not understand one another's speech.",
+      "finnish_biblia": "Käykäämme, astukaamme alas ja sekoittakaamme siellä heidän kielensä; niin ettei kenkään ymmärtäisi toisensa kieltä. ",
       "king_james": "Go to, let us go down, and there confound their language, that they may not understand one another’s speech."
     },
     {
       "verse": 8,
       "latin_vulgate": "Atque ita divisit eos Dominus ex illo loco in universas terras, et cessaverunt ædificare civitatem. ",
       "hebrew_masoretic": "וַיָּ֨פֶץ יְהֹוָ֥ה אֹתָ֛ם מִשָּׁ֖ם עַל־פְּנֵ֣י כׇל־הָאָ֑רֶץ וַֽיַּחְדְּל֖וּ לִבְנֹ֥ת הָעִֽיר׃",
+      "douay_rheims": "And so the Lord scattered them from that place into all lands, and they ceased to build the city.",
+      "finnish_biblia": "Ja niin Herra hajoitti heidät sieltä kaikkiin maihin; ja he lakkasivat sitä kaupunkia rakentamasta. ",
       "king_james": "So the Lord scattered them abroad from thence upon the face of all the earth: and they left off to build the city."
     },
     {
       "verse": 9,
       "latin_vulgate": "Et idcirco vocatum est nomen ejus Babel, quia ibi confusum est labium universæ terræ : et inde dispersit eos Dominus super faciem cunctarum regionum.  ",
       "hebrew_masoretic": "עַל־כֵּ֞ן קָרָ֤א שְׁמָהּ֙ בָּבֶ֔ל כִּי־שָׁ֛ם בָּלַ֥ל יְהֹוָ֖ה שְׂפַ֣ת כׇּל־הָאָ֑רֶץ וּמִשָּׁם֙ הֱפִיצָ֣ם יְהֹוָ֔ה עַל־פְּנֵ֖י כׇּל־הָאָֽרֶץ׃ {פ}",
+      "douay_rheims": "And therefore the name thereof was called Babel, because there the language of the whole earth was confounded: and from thence the Lord scattered them abroad upon the face of all countries.",
+      "finnish_biblia": "Ja sentähden kutsuttiin hänen nimensä Babel: sillä siellä Herra sekoitti koko maan kielen: ja Herra hajoitti heidät sieltä kaikkiin maihin. ",
       "king_james": "Therefore is the name of it called Babel; because the Lord did there confound the language of all the earth: and from thence did the Lord scatter them abroad upon the face of all the earth."
     },
     {
       "verse": 10,
       "latin_vulgate": " Hæ sunt generationes Sem : Sem erat centum annorum quando genuit Arphaxad, biennio post diluvium. ",
       "hebrew_masoretic": "אֵ֚לֶּה תּוֹלְדֹ֣ת שֵׁ֔ם שֵׁ֚ם בֶּן־מְאַ֣ת שָׁנָ֔ה וַיּ֖וֹלֶד אֶת־אַרְפַּכְשָׁ֑ד שְׁנָתַ֖יִם אַחַ֥ר הַמַּבּֽוּל׃",
+      "douay_rheims": "These are the generations of Sem: Sem was a hundred years old when he begot Arphaxad, two years after the flood.",
+      "finnish_biblia": "Nämät ovat Semin sukukunnat: Sem oli sadan ajastajan vanha, ja siitti Arphaksadin, kaksi ajastaikaa vedenpaisumisen jälkeen. ",
       "king_james": "These are the generations of Shem: Shem was an hundred years old, and begat Arphaxad two years after the flood:"
     },
     {
       "verse": 11,
       "latin_vulgate": "Vixitque Sem, postquam genuit Arphaxad, quingentis annis : et genuit filios et filias. ",
       "hebrew_masoretic": "וַֽיְחִי־שֵׁ֗ם אַֽחֲרֵי֙ הוֹלִיד֣וֹ אֶת־אַרְפַּכְשָׁ֔ד חֲמֵ֥שׁ מֵא֖וֹת שָׁנָ֑ה וַיּ֥וֹלֶד בָּנִ֖ים וּבָנֽוֹת׃ {ס}",
+      "douay_rheims": "And Sem lived after he begot Arphaxad, five hundred years, and begot sons and daughters.",
+      "finnish_biblia": "Ja eli sitte viisisataa ajastaikaa, ja siitti poikia ja tyttäriä. ",
       "king_james": "And Shem lived after he begat Arphaxad five hundred years, and begat sons and daughters."
     },
     {
       "verse": 12,
       "latin_vulgate": "Porro Arphaxad vixit triginta quinque annis, et genuit Sale. ",
       "hebrew_masoretic": "וְאַרְפַּכְשַׁ֣ד חַ֔י חָמֵ֥שׁ וּשְׁלֹשִׁ֖ים שָׁנָ֑ה וַיּ֖וֹלֶד אֶת־שָֽׁלַח׃",
+      "douay_rheims": "And Arphaxad lived thirty-five years, and begot Sale.",
+      "finnish_biblia": "Arphaksad oli viidenneljättäkymmentä ajastajan vanha, ja siitti Salan. ",
       "king_james": "And Arphaxad lived five and thirty years, and begat Salah:"
     },
     {
       "verse": 13,
       "latin_vulgate": "Vixitque Arphaxad, postquam genuit Sale, trecentis tribus annis : et genuit filios et filias. ",
       "hebrew_masoretic": "וַיְחִ֣י אַרְפַּכְשַׁ֗ד אַֽחֲרֵי֙ הוֹלִיד֣וֹ אֶת־שֶׁ֔לַח שָׁלֹ֣שׁ שָׁנִ֔ים וְאַרְבַּ֥ע מֵא֖וֹת שָׁנָ֑ה וַיּ֥וֹלֶד בָּנִ֖ים וּבָנֽוֹת׃ {ס}",
+      "douay_rheims": "And Arphaxad lived after he begot Sale, three hundred and three years, and begot sons and daughters.",
+      "finnish_biblia": "Ja eli sitte neljäsataa ja kolme ajastaikaa, ja siitti poikia ja tyttäriä. ",
       "king_james": "And Arphaxad lived after he begat Salah four hundred and three years, and begat sons and daughters."
     },
     {
       "verse": 14,
       "latin_vulgate": "Sale quoque vixit triginta annis, et genuit Heber. ",
       "hebrew_masoretic": "וְשֶׁ֥לַח חַ֖י שְׁלֹשִׁ֣ים שָׁנָ֑ה וַיּ֖וֹלֶד אֶת־עֵֽבֶר׃",
+      "douay_rheims": "Sale also lived thirty years, and begot Heber.",
+      "finnish_biblia": "Sala oli kolmenkymmenen ajastajan vanha, ja siitti Eberin. ",
       "king_james": "And Salah lived thirty years, and begat Eber:"
     },
     {
       "verse": 15,
       "latin_vulgate": "Vixitque Sale, postquam genuit Heber, quadringentis tribus annis : et genuit filios et filias. ",
       "hebrew_masoretic": "וַֽיְחִי־שֶׁ֗לַח אַחֲרֵי֙ הוֹלִיד֣וֹ אֶת־עֵ֔בֶר שָׁלֹ֣שׁ שָׁנִ֔ים וְאַרְבַּ֥ע מֵא֖וֹת שָׁנָ֑ה וַיּ֥וֹלֶד בָּנִ֖ים וּבָנֽוֹת׃ {ס}",
+      "douay_rheims": "And Sale lived after he begot Heber, four hundred and three years: and begot sons and daughters.",
+      "finnish_biblia": "Ja eli sitte neljäsataa ja kolme ajastaikaa, ja siitti poikia ja tyttäriä. ",
       "king_james": "And Salah lived after he begat Eber four hundred and three years, and begat sons and daughters."
     },
     {
       "verse": 16,
       "latin_vulgate": "Vixit autem Heber triginta quatuor annis, et genuit Phaleg. ",
       "hebrew_masoretic": "וַֽיְחִי־עֵ֕בֶר אַרְבַּ֥ע וּשְׁלֹשִׁ֖ים שָׁנָ֑ה וַיּ֖וֹלֶד אֶת־פָּֽלֶג׃",
+      "douay_rheims": "And Heber lived thirty-four years, and begot Phaleg.",
+      "finnish_biblia": "Eber oli neljänneljättäkymmentä ajastajan vanha, ja siitti Pelegin. ",
       "king_james": "And Eber lived four and thirty years, and begat Peleg:"
     },
     {
       "verse": 17,
       "latin_vulgate": "Et vixit Heber postquam genuit Phaleg, quadringentis triginta annis : et genuit filios et filias. ",
       "hebrew_masoretic": "וַֽיְחִי־עֵ֗בֶר אַחֲרֵי֙ הוֹלִיד֣וֹ אֶת־פֶּ֔לֶג שְׁלֹשִׁ֣ים שָׁנָ֔ה וְאַרְבַּ֥ע מֵא֖וֹת שָׁנָ֑ה וַיּ֥וֹלֶד בָּנִ֖ים וּבָנֽוֹת׃ {ס}",
+      "douay_rheims": "And Heber lived after he begot Phaleg, four hundred and thirty years: and begot sons and daughters.",
+      "finnish_biblia": "Ja eli sitte neljäsataa ja kolmekymmentä ajastaikaa, ja siitti poikia ja tyttäriä. ",
       "king_james": "And Eber lived after he begat Peleg four hundred and thirty years, and begat sons and daughters."
     },
     {
       "verse": 18,
       "latin_vulgate": "Vixit quoque Phaleg triginta annis, et genuit Reu. ",
       "hebrew_masoretic": "וַֽיְחִי־פֶ֖לֶג שְׁלֹשִׁ֣ים שָׁנָ֑ה וַיּ֖וֹלֶד אֶת־רְעֽוּ׃",
+      "douay_rheims": "Phaleg also lived thirty years, and begot Reu.",
+      "finnish_biblia": "Peleg oli kolmenkymmenen ajastajan vanha, ja siitti Regun. ",
       "king_james": "And Peleg lived thirty years, and begat Reu:"
     },
     {
       "verse": 19,
       "latin_vulgate": "Vixitque Phaleg, postquam genuit Reu, ducentis novem annis : et genuit filios et filias. ",
       "hebrew_masoretic": "וַֽיְחִי־פֶ֗לֶג אַחֲרֵי֙ הוֹלִיד֣וֹ אֶת־רְע֔וּ תֵּ֥שַׁע שָׁנִ֖ים וּמָאתַ֣יִם שָׁנָ֑ה וַיּ֥וֹלֶד בָּנִ֖ים וּבָנֽוֹת׃ {ס}",
+      "douay_rheims": "And Phaleg lived after he begot Reu, two hundred and nine years, and begot sons and daughters.",
+      "finnish_biblia": "Ja eli sitte kaksisataa ja yhdeksän ajastaikaa, ja siitti poikia ja tyttäriä. ",
       "king_james": "And Peleg lived after he begat Reu two hundred and nine years, and begat sons and daughters."
     },
     {
       "verse": 20,
       "latin_vulgate": "Vixit autem Reu triginta duobus annis, et genuit Sarug. ",
       "hebrew_masoretic": "וַיְחִ֣י רְע֔וּ שְׁתַּ֥יִם וּשְׁלֹשִׁ֖ים שָׁנָ֑ה וַיּ֖וֹלֶד אֶת־שְׂרֽוּג׃",
+      "douay_rheims": "And Reu lived thirty-two years, and begot Sarug.",
+      "finnish_biblia": "Regu oli kahdenneljättäkymmentä ajastajan vanha, ja siitti Serugin. ",
       "king_james": "And Reu lived two and thirty years, and begat Serug:"
     },
     {
       "verse": 21,
       "latin_vulgate": "Vixit quoque Reu, postquam genuit Sarug, ducentis septem annis : et genuit filios et filias. ",
       "hebrew_masoretic": "וַיְחִ֣י רְע֗וּ אַחֲרֵי֙ הוֹלִיד֣וֹ אֶת־שְׂר֔וּג שֶׁ֥בַע שָׁנִ֖ים וּמָאתַ֣יִם שָׁנָ֑ה וַיּ֥וֹלֶד בָּנִ֖ים וּבָנֽוֹת׃ {ס}",
+      "douay_rheims": "And Reu lived after he begot Sarug, two hundred and seven years, and begot sons and daughters.",
+      "finnish_biblia": "Ja eli sitte kaksisataa ja seitsemän ajastaikaa, ja siitti poikia ja tyttäriä. ",
       "king_james": "And Reu lived after he begat Serug two hundred and seven years, and begat sons and daughters."
     },
     {
       "verse": 22,
       "latin_vulgate": "Vixit vero Sarug triginta annis, et genuit Nachor. ",
       "hebrew_masoretic": "וַיְחִ֥י שְׂר֖וּג שְׁלֹשִׁ֣ים שָׁנָ֑ה וַיּ֖וֹלֶד אֶת־נָחֽוֹר׃",
+      "douay_rheims": "And Sarug lived thirty years, and begot Nachor.",
+      "finnish_biblia": "Serug oli kolmenkymmenen ajastajan vanha ja siitti Nahorin. ",
       "king_james": "And Serug lived thirty years, and begat Nahor:"
     },
     {
       "verse": 23,
       "latin_vulgate": "Vixitque Sarug, postquam genuit Nachor, ducentis annis : et genuit filios et filias. ",
       "hebrew_masoretic": "וַיְחִ֣י שְׂר֗וּג אַחֲרֵ֛י הוֹלִיד֥וֹ אֶת־נָח֖וֹר מָאתַ֣יִם שָׁנָ֑ה וַיּ֥וֹלֶד בָּנִ֖ים וּבָנֽוֹת׃ {ס}",
+      "douay_rheims": "And Sarug lived after he begot Nachor, two hundred years, and begot sons and daughters.",
+      "finnish_biblia": "Ja eli sitte kaksisataa ajastaikaa, ja siitti poikia ja tyttäriä. ",
       "king_james": "And Serug lived after he begat Nahor two hundred years, and begat sons and daughters."
     },
     {
       "verse": 24,
       "latin_vulgate": "Vixit autem Nachor viginti novem annis, et genuit Thare. ",
       "hebrew_masoretic": "וַיְחִ֣י נָח֔וֹר תֵּ֥שַׁע וְעֶשְׂרִ֖ים שָׁנָ֑ה וַיּ֖וֹלֶד אֶת־תָּֽרַח׃",
+      "douay_rheims": "And Nachor lived nine and twenty years, and begot Thare.",
+      "finnish_biblia": "Nahor oli yhdeksänkolmattakymmentä ajastajan vanha, ja siitti Taran. ",
       "king_james": "And Nahor lived nine and twenty years, and begat Terah:"
     },
     {
       "verse": 25,
       "latin_vulgate": "Vixitque Nachor, postquam genuit Thare, centum decem et novem annis : et genuit filios et filias. ",
       "hebrew_masoretic": "וַיְחִ֣י נָח֗וֹר אַחֲרֵי֙ הוֹלִיד֣וֹ אֶת־תֶּ֔רַח תְּשַֽׁע־עֶשְׂרֵ֥ה שָׁנָ֖ה וּמְאַ֣ת שָׁנָ֑ה וַיּ֥וֹלֶד בָּנִ֖ים וּבָנֽוֹת׃ {ס}",
+      "douay_rheims": "And Nachor lived after he begot Thare, a hundred and nineteen years, and begot sons and daughters.",
+      "finnish_biblia": "Ja eli sitte sata ja yhdeksäntoistakymmentä ajastaikaa, ja siitti poikia ja tyttäriä. ",
       "king_james": "And Nahor lived after he begat Terah an hundred and nineteen years, and begat sons and daughters."
     },
     {
       "verse": 26,
       "latin_vulgate": "Vixitque Thare septuaginta annis, et genuit Abram, et Nachor, et Aran.  ",
       "hebrew_masoretic": "וַֽיְחִי־תֶ֖רַח שִׁבְעִ֣ים שָׁנָ֑ה וַיּ֙וֹלֶד֙ אֶת־אַבְרָ֔ם אֶת־נָח֖וֹר וְאֶת־הָרָֽן׃",
+      "douay_rheims": "And Thare lived seventy years, and begot Abram, and Nachor, and Aran.",
+      "finnish_biblia": "Tara oli seitsemänkymmenen ajastajan vanha, ja siitti Abramin, Nahorin ja Haranin. ",
       "king_james": "And Terah lived seventy years, and begat Abram, Nahor, and Haran."
     },
     {
       "verse": 27,
       "latin_vulgate": " Hæ sunt autem generationes Thare : Thare genuit Abram, Nachor et Aran. Porro Aran genuit Lot. ",
       "hebrew_masoretic": "וְאֵ֙לֶּה֙ תּוֹלְדֹ֣ת תֶּ֔רַח תֶּ֚רַח הוֹלִ֣יד אֶת־אַבְרָ֔ם אֶת־נָח֖וֹר וְאֶת־הָרָ֑ן וְהָרָ֖ן הוֹלִ֥יד אֶת־לֽוֹט׃",
+      "douay_rheims": "And these are the generations of Thare: Thare begot Abram, Nachor, and Aran. And Aran begot Lot.",
+      "finnish_biblia": "Nämät ovat Taran sukukunnat: Tara siitti Abramin, Nahorin ja Haranin. Haran siitti Lotin. ",
       "king_james": "Now these are the generations of Terah: Terah begat Abram, Nahor, and Haran; and Haran begat Lot."
     },
     {
       "verse": 28,
       "latin_vulgate": "Mortuusque est Aran ante Thare patrem suum, in terra nativitatis suæ, in Ur Chaldæorum. ",
       "hebrew_masoretic": "וַיָּ֣מׇת הָרָ֔ן עַל־פְּנֵ֖י תֶּ֣רַח אָבִ֑יו בְּאֶ֥רֶץ מוֹלַדְתּ֖וֹ בְּא֥וּר כַּשְׂדִּֽים׃",
+      "douay_rheims": "And Aran died before Thare his father, in the land of his nativity in Ur of the Chaldees.",
+      "finnish_biblia": "Ja Haran kuoli isänsä, Taran edessä, isänsä maalla Kaldean Uurissa. ",
       "king_james": "And Haran died before his father Terah in the land of his nativity, in Ur of the Chaldees."
     },
     {
       "verse": 29,
       "latin_vulgate": "Duxerunt autem Abram et Nachor uxores : nomen uxoris Abram, Sarai : et nomen uxoris Nachor, Melcha filia Aran, patris Melchæ, et patris Jeschæ. ",
       "hebrew_masoretic": "וַיִּקַּ֨ח אַבְרָ֧ם וְנָח֛וֹר לָהֶ֖ם נָשִׁ֑ים שֵׁ֤ם אֵֽשֶׁת־אַבְרָם֙ שָׂרָ֔י וְשֵׁ֤ם אֵֽשֶׁת־נָחוֹר֙ מִלְכָּ֔ה בַּת־הָרָ֥ן אֲבִֽי־מִלְכָּ֖ה וַֽאֲבִ֥י יִסְכָּֽה׃",
+      "douay_rheims": "And Abram and Nachor married wives: the name of Abram's wife was Sarai: and the name of Nachor's wife, Melcha, the daughter of Aran, father of Melcha and father of Jescha.",
+      "finnish_biblia": "Silloin Abram ja Nahor ottivat heillensä emännät: Abramin emännän nimi oli Sarai, ja Nahorin emännän nimi oli Milka, Haranin tytär, joka oli Milkan ja Jiskan isä. ",
       "king_james": "And Abram and Nahor took them wives: the name of Abram’s wife was Sarai; and the name of Nahor’s wife, Milcah, the daughter of Haran, the father of Milcah, and the father of Iscah."
     },
     {
       "verse": 30,
       "latin_vulgate": "Erat autem Sarai sterilis, nec habebat liberos. ",
       "hebrew_masoretic": "וַתְּהִ֥י שָׂרַ֖י עֲקָרָ֑ה אֵ֥ין לָ֖הּ וָלָֽד׃",
+      "douay_rheims": "And Sarai was barren, and had no children.",
+      "finnish_biblia": "Mutta Sarai oli hedelmätöin, eikä ollut hänellä lasta. ",
       "king_james": "But Sarai was barren; she had no child."
     },
     {
       "verse": 31,
       "latin_vulgate": "Tulit itaque Thare Abram filium suum, et Lot filium Aran, filium filii sui, et Sarai nurum suam, uxorem Abram filii sui, et eduxit eos de Ur Chaldæorum, ut irent in terram Chanaan : veneruntque usque Haran, et habitaverunt ibi. ",
       "hebrew_masoretic": "וַיִּקַּ֨ח תֶּ֜רַח אֶת־אַבְרָ֣ם בְּנ֗וֹ וְאֶת־ל֤וֹט בֶּן־הָרָן֙ בֶּן־בְּנ֔וֹ וְאֵת֙ שָׂרַ֣י כַּלָּת֔וֹ אֵ֖שֶׁת אַבְרָ֣ם בְּנ֑וֹ וַיֵּצְא֨וּ אִתָּ֜ם מֵא֣וּר כַּשְׂדִּ֗ים לָלֶ֙כֶת֙ אַ֣רְצָה כְּנַ֔עַן וַיָּבֹ֥אוּ עַד־חָרָ֖ן וַיֵּ֥שְׁבוּ שָֽׁם׃",
+      "douay_rheims": "And Thare took Abram his son, and Lot the son of Aran, his son's son, and Sarai his daughter in law, the wife of Abram his son, and brought them out of Ur of the Chaldees, to go into the land of Chanaan: and they came as far as Haran, and dwelt there.",
+      "finnish_biblia": "Ja Tara otti poikansa Abramin ja Lotin Haranin pojan, poikansa pojan, ja miniänsä Sarain, poikansa Abramin emännän, ja he läksivät ulos ynnä Kaldean Uurista menemään Kanaanin maalle, ja tulivat Haraniin, ja asuivat siellä. ",
       "king_james": "And Terah took Abram his son, and Lot the son of Haran his son’s son, and Sarai his daughter in law, his son Abram’s wife; and they went forth with them from Ur of the Chaldees, to go into the land of Canaan; and they came unto Haran, and dwelt there."
     },
     {
       "verse": 32,
       "latin_vulgate": "Et facti sunt dies Thare ducentorum quinque annorum, et mortuus est in Haran.   ",
       "hebrew_masoretic": "וַיִּהְי֣וּ יְמֵי־תֶ֔רַח חָמֵ֥שׁ שָׁנִ֖ים וּמָאתַ֣יִם שָׁנָ֑ה וַיָּ֥מׇת תֶּ֖רַח בְּחָרָֽן׃ {פ}",
+      "douay_rheims": "And the days of Thare were two hundred and five years, and he died in Haran. ",
+      "finnish_biblia": "Ja Tara oli kahdensadan ja viiden ajastajan vanha ja kuoli Haranissa.   ",
       "king_james": "And the days of Terah were two hundred and five years: and Terah died in Haran. "
     }
   ]

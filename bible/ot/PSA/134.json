@@ -2,6 +2,8 @@
   "book_id": "PSA",
   "latin_name": "Liber Psalmorum",
   "hebrew_name": "תְּהִלִּים",
+  "douay_name": "Psalms",
+  "finnish_name": "Psalmit",
   "english_name": "Psalms",
   "chapter": 134,
   "verses": [
@@ -9,9 +11,14 @@
       "verse": 1,
       "latin_vulgate": "Canticum graduum.   Ecce nunc benedicite Dominum, omnes servi Domini :  qui statis in domo Domini,  in atriis domus Dei nostri. ",
       "hebrew_masoretic": "שִׁ֗יר הַֽמַּ֫עֲל֥וֹת הִנֵּ֤ה ׀ בָּרְכ֣וּ אֶת־יְ֭הֹוָה כׇּל־עַבְדֵ֣י יְהֹוָ֑ה הָעֹמְדִ֥ים בְּבֵית־יְ֝הֹוָ֗ה בַּלֵּילֽוֹת׃",
+      "douay_rheims": "A gradual canticle. Behold now bless ye the Lord, all ye servants of the Lord: Who stand in the house of the Lord, in the courts of the house of our God.",
+      "finnish_biblia": "Veisu korkeimmassa Kuorissa. Katso, kiittäkäät Herraa, kaikki Herran palveliat, jotka yöllä seisotte Herran huoneessa! ",
       "king_james": "Behold, bless ye the Lord, all ye servants of the Lord, which by night stand in the house of the Lord.",
       "refs": {
         "latin_vulgate": {
+          "src": "133:1"
+        },
+        "douay_rheims": {
           "src": "133:1"
         }
       }
@@ -20,9 +27,14 @@
       "verse": 2,
       "latin_vulgate": " In noctibus extollite manus vestras in sancta,  et benedicite Dominum. ",
       "hebrew_masoretic": "שְׂאֽוּ־יְדֵכֶ֥ם קֹ֑דֶשׁ וּ֝בָרְכ֗וּ אֶת־יְהֹוָֽה׃",
+      "douay_rheims": "In the nights lift up your hands to the holy places, and bless ye the Lord.",
+      "finnish_biblia": "Nostakaat kätenne pyhään päin, ja kiittäkäät Herraa. ",
       "king_james": "Lift up your hands in the sanctuary, and bless the Lord.",
       "refs": {
         "latin_vulgate": {
+          "src": "133:2"
+        },
+        "douay_rheims": {
           "src": "133:2"
         }
       }
@@ -31,9 +43,14 @@
       "verse": 3,
       "latin_vulgate": " Benedicat te Dominus ex Sion,  qui fecit cælum et terram.  ",
       "hebrew_masoretic": "יְבָרֶכְךָ֣ יְ֭הֹוָה מִצִּיּ֑וֹן עֹ֝שֵׂ֗ה שָׁמַ֥יִם וָאָֽרֶץ׃ {פ}",
+      "douay_rheims": "May the Lord out of Sion bless thee, he that made heaven and earth. ",
+      "finnish_biblia": "Herra siunatkoon sinua Zionista, joka taivaan ja maan tehnyt on.   ",
       "king_james": "The Lord that made heaven and earth bless thee out of Zion. ",
       "refs": {
         "latin_vulgate": {
+          "src": "133:3"
+        },
+        "douay_rheims": {
           "src": "133:3"
         }
       }

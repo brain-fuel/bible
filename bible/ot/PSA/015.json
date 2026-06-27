@@ -2,6 +2,8 @@
   "book_id": "PSA",
   "latin_name": "Liber Psalmorum",
   "hebrew_name": "תְּהִלִּים",
+  "douay_name": "Psalms",
+  "finnish_name": "Psalmit",
   "english_name": "Psalms",
   "chapter": 15,
   "verses": [
@@ -9,9 +11,14 @@
       "verse": 1,
       "latin_vulgate": "Psalmus David.   Domine, quis habitabit in tabernaculo tuo ?  aut quis requiescet in monte sancto tuo ? ",
       "hebrew_masoretic": "מִזְמ֗וֹר לְדָ֫וִ֥ד יְ֭הֹוָה מִי־יָג֣וּר בְּאׇהֳלֶ֑ךָ מִֽי־יִ֝שְׁכֹּ֗ן בְּהַ֣ר קׇדְשֶֽׁךָ׃",
+      "douay_rheims": "A psalm for David. Lord, who shall dwell in thy tabernacle? or who shall rest in thy holy hill?",
+      "finnish_biblia": "Davidin Psalmi. Herra, kuka asuu sinun majassas? eli kuka on pysyväinen sinun pyhällä vuorellas? ",
       "king_james": "Lord, who shall abide in thy tabernacle? who shall dwell in thy holy hill?",
       "refs": {
         "latin_vulgate": {
+          "src": "14:1"
+        },
+        "douay_rheims": {
           "src": "14:1"
         }
       }
@@ -20,9 +27,14 @@
       "verse": 2,
       "latin_vulgate": " Qui ingreditur sine macula,  et operatur justitiam ; ",
       "hebrew_masoretic": "הוֹלֵ֣ךְ תָּ֭מִים וּפֹעֵ֥ל צֶ֑דֶק וְדֹבֵ֥ר אֱ֝מֶ֗ת בִּלְבָבֽוֹ׃",
+      "douay_rheims": "He that walketh without blemish, and worketh justice:",
+      "finnish_biblia": "Joka vaeltaa ja tekee oikeuden, ja puhuu totuuden sydämestänsä; ",
       "king_james": "He that walketh uprightly, and worketh righteousness, and speaketh the truth in his heart.",
       "refs": {
         "latin_vulgate": {
+          "src": "14:2"
+        },
+        "douay_rheims": {
           "src": "14:2"
         }
       }
@@ -31,9 +43,14 @@
       "verse": 3,
       "latin_vulgate": " qui loquitur veritatem in corde suo :  qui non egit dolum in lingua sua,  nec fecit proximo suo malum,  et opprobrium non accepit adversus proximos suos. ",
       "hebrew_masoretic": "לֹֽא־רָגַ֨ל ׀ עַל־לְשֹׁנ֗וֹ לֹא־עָשָׂ֣ה לְרֵעֵ֣הוּ רָעָ֑ה וְ֝חֶרְפָּ֗ה לֹא־נָשָׂ֥א עַל־קְרֹבֽוֹ׃",
+      "douay_rheims": "He that speaketh truth in his heart, who hath not used deceit in his tongue: Nor hath done evil to his neighbour: nor taken up a reproach against his neighbours.",
+      "finnish_biblia": "Joka ei kielellänsä panettele, eikä lähimmäisellensä mitään pahaa tee, ja ei häpäise lähimmäistänsä; ",
       "king_james": "He that backbiteth not with his tongue, nor doeth evil to his neighbour, nor taketh up a reproach against his neighbour.",
       "refs": {
         "latin_vulgate": {
+          "src": "14:3"
+        },
+        "douay_rheims": {
           "src": "14:3"
         }
       }
@@ -42,9 +59,14 @@
       "verse": 4,
       "latin_vulgate": " Ad nihilum deductus est in conspectu ejus malignus ;  timentes autem Dominum glorificat.  Qui jurat proximo suo, et non decipit ; ",
       "hebrew_masoretic": "נִבְזֶ֤ה ׀ בְּֽעֵ֘ינָ֤יו נִמְאָ֗ס וְאֶת־יִרְאֵ֣י יְהֹוָ֣ה יְכַבֵּ֑ד נִשְׁבַּ֥ע לְ֝הָרַ֗ע וְלֹ֣א יָמִֽר׃",
+      "douay_rheims": "In his sight the malignant is brought to nothing: but he glorifieth them that fear the Lord. He that sweareth to his neighbour, and deceiveth not;",
+      "finnish_biblia": "Joka jumalattomat katsoo ylön, vaan kunnioittaa Jumalaa pelkääväisiä; joka lähimmäisellensä vannoo ja pitää. ",
       "king_james": "In whose eyes a vile person is contemned; but he honoureth them that fear the Lord. He that sweareth to his own hurt, and changeth not.",
       "refs": {
         "latin_vulgate": {
+          "src": "14:4"
+        },
+        "douay_rheims": {
           "src": "14:4"
         }
       }
@@ -53,9 +75,14 @@
       "verse": 5,
       "latin_vulgate": " qui pecuniam suam non dedit ad usuram,  et munera super innocentem non accepit :  qui facit hæc non movebitur in æternum.  ",
       "hebrew_masoretic": "כַּסְפּ֤וֹ ׀ לֹא־נָתַ֣ן בְּנֶשֶׁךְ֮ וְשֹׁ֥חַד עַל־נָקִ֗י לֹ֥א־לָ֫קָ֥ח עֹֽשֵׂה־אֵ֑לֶּה לֹ֖א יִמּ֣וֹט לְעוֹלָֽם׃ {פ}",
+      "douay_rheims": "He that hath not put out his money to usury, nor taken bribes against the innocent: He that doth these things, shall not be moved for ever. ",
+      "finnish_biblia": "Joka ei anna rahaansa korolle, eikä ota lahjoja viatointa vastaan. Joka näin tekee, ei hän horjahda ijankaikkisesti.   ",
       "king_james": "He that putteth not out his money to usury, nor taketh reward against the innocent. He that doeth these things shall never be moved. ",
       "refs": {
         "latin_vulgate": {
+          "src": "14:5"
+        },
+        "douay_rheims": {
           "src": "14:5"
         }
       }

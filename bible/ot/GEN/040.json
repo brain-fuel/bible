@@ -2,6 +2,8 @@
   "book_id": "GEN",
   "latin_name": "Genesis",
   "hebrew_name": "בְּרֵאשִׁית",
+  "douay_name": "Genesis",
+  "finnish_name": "1. Mooseksen kirja",
   "english_name": "Genesis",
   "chapter": 40,
   "verses": [
@@ -9,138 +11,184 @@
       "verse": 1,
       "latin_vulgate": "His ita gestis, accidit ut peccarent duo eunuchi, pincerna regis Ægypti, et pistor, domino suo. ",
       "hebrew_masoretic": "וַיְהִ֗י אַחַר֙ הַדְּבָרִ֣ים הָאֵ֔לֶּה חָ֥טְא֛וּ מַשְׁקֵ֥ה מֶֽלֶךְ־מִצְרַ֖יִם וְהָאֹפֶ֑ה לַאֲדֹנֵיהֶ֖ם לְמֶ֥לֶךְ מִצְרָֽיִם׃",
+      "douay_rheims": "After this, it came to pass, that two eunuchs, the butler and the baker of the king of Egypt, offended their lord.",
+      "finnish_biblia": "Ja sitte tapahtui, että Egyptin kuninkaan ylimmäinen juomanlaskia ja leipoja rikkoivat herraansa Egyptin kuningasta vastaan: ",
       "king_james": "And it came to pass after these things, that the butler of the king of Egypt and his baker had offended their lord the king of Egypt."
     },
     {
       "verse": 2,
       "latin_vulgate": "Iratusque contra eos Pharao (nam alter pincernis præerat, alter pistoribus), ",
       "hebrew_masoretic": "וַיִּקְצֹ֣ף פַּרְעֹ֔ה עַ֖ל שְׁנֵ֣י סָרִיסָ֑יו עַ֚ל שַׂ֣ר הַמַּשְׁקִ֔ים וְעַ֖ל שַׂ֥ר הָאוֹפִֽים׃",
+      "douay_rheims": "And Pharao being angry with them, (now the one was chief butler, the other chief baker,)",
+      "finnish_biblia": "Niin Pharao vihastui molempain palveliainsa, ylimmäisen juomanlaskian ja ylimmäisen leipojan päälle. ",
       "king_james": "And Pharaoh was wroth against two of his officers, against the chief of the butlers, and against the chief of the bakers."
     },
     {
       "verse": 3,
       "latin_vulgate": "misit eos in carcerem principis militum, in quo erat vinctus et Joseph. ",
       "hebrew_masoretic": "וַיִּתֵּ֨ן אֹתָ֜ם בְּמִשְׁמַ֗ר בֵּ֛ית שַׂ֥ר הַטַּבָּחִ֖ים אֶל־בֵּ֣ית הַסֹּ֑הַר מְק֕וֹם אֲשֶׁ֥ר יוֹסֵ֖ף אָס֥וּר שָֽׁם׃",
+      "douay_rheims": "He sent them to the prison of the commander of the soldiers, in which Joseph also was prisoner.",
+      "finnish_biblia": "Ja heitti heidät vankiuteen huovinhaltian huoneesen, vankihuoneesen siihen paikkaan, jossa Joseph oli vankina. ",
       "king_james": "And he put them in ward in the house of the captain of the guard, into the prison, the place where Joseph was bound."
     },
     {
       "verse": 4,
       "latin_vulgate": "At custos carceris tradidit eos Joseph, qui et ministrabat eis : aliquantulum temporis fluxerat, et illi in custodia tenebantur. ",
       "hebrew_masoretic": "וַ֠יִּפְקֹ֠ד שַׂ֣ר הַטַּבָּחִ֧ים אֶת־יוֹסֵ֛ף אִתָּ֖ם וַיְשָׁ֣רֶת אֹתָ֑ם וַיִּהְי֥וּ יָמִ֖ים בְּמִשְׁמָֽר׃",
+      "douay_rheims": "But the keeper of the prison delivered them to Joseph, and he served them. Some little time passed, and they were kept in custody.",
+      "finnish_biblia": "Ja huovinhaltia pani Josephin heidän kanssansa palvelemaan heitä. Ja he olivat vankiudessa kappaleen aikaa. ",
       "king_james": "And the captain of the guard charged Joseph with them, and he served them: and they continued a season in ward."
     },
     {
       "verse": 5,
       "latin_vulgate": "Videruntque ambo somnium nocte una, juxta interpretationem congruam sibi : ",
       "hebrew_masoretic": "וַיַּֽחַלְמוּ֩ חֲל֨וֹם שְׁנֵיהֶ֜ם אִ֤ישׁ חֲלֹמוֹ֙ בְּלַ֣יְלָה אֶחָ֔ד אִ֖ישׁ כְּפִתְר֣וֹן חֲלֹמ֑וֹ הַמַּשְׁקֶ֣ה וְהָאֹפֶ֗ה אֲשֶׁר֙ לְמֶ֣לֶךְ מִצְרַ֔יִם אֲשֶׁ֥ר אֲסוּרִ֖ים בְּבֵ֥ית הַסֹּֽהַר׃",
+      "douay_rheims": "And they both dreamed a dream the same night, according to the interpretation agreeing to themselves:",
+      "finnish_biblia": "Ja molemmat näkivät unta, kumpikin unensa yhtenä yönä, kukin unensa selityksen jälkeen, Egyptin kuninkaan juomanlaskia ja leipoja, jotka olivat sidottuna vankihuoneessa. ",
       "king_james": "And they dreamed a dream both of them, each man his dream in one night, each man according to the interpretation of his dream, the butler and the baker of the king of Egypt, which were bound in the prison."
     },
     {
       "verse": 6,
       "latin_vulgate": "ad quos cum introisset Joseph mane, et vidisset eos tristes, ",
       "hebrew_masoretic": "וַיָּבֹ֧א אֲלֵיהֶ֛ם יוֹסֵ֖ף בַּבֹּ֑קֶר וַיַּ֣רְא אֹתָ֔ם וְהִנָּ֖ם זֹעֲפִֽים׃",
+      "douay_rheims": "And when Joseph was come into them in the morning, and saw them sad,",
+      "finnish_biblia": "Koska Joseph tuli aamulla heidän tykönsä, ja näki heidän murheelliseksi. ",
       "king_james": "And Joseph came in unto them in the morning, and looked upon them, and, behold, they were sad."
     },
     {
       "verse": 7,
       "latin_vulgate": "sciscitatus est eos, dicens : Cur tristior est hodie solito facies vestra ? ",
       "hebrew_masoretic": "וַיִּשְׁאַ֞ל אֶת־סְרִיסֵ֣י פַרְעֹ֗ה אֲשֶׁ֨ר אִתּ֧וֹ בְמִשְׁמַ֛ר בֵּ֥ית אֲדֹנָ֖יו לֵאמֹ֑ר מַדּ֛וּעַ פְּנֵיכֶ֥ם רָעִ֖ים הַיּֽוֹם׃",
+      "douay_rheims": "He asked them, saying: Why is your countenance sadder today than usual?",
+      "finnish_biblia": "Kysyi hän niiltä Pharaon palvelioilta, jotka hänen kanssansa herransa vankihuoneessa olivat, ja sanoi: miksi te olette tänäpänä surulliset? ",
       "king_james": "And he asked Pharaoh’s officers that were with him in the ward of his lord’s house, saying, Wherefore look ye so sadly to day?"
     },
     {
       "verse": 8,
       "latin_vulgate": "Qui responderunt : Somnium vidimus, et non est qui interpretetur nobis. Dixitque ad eos Joseph : Numquid non Dei est interpretatio ? referte mihi quid videritis. ",
       "hebrew_masoretic": "וַיֹּאמְר֣וּ אֵלָ֔יו חֲל֣וֹם חָלַ֔מְנוּ וּפֹתֵ֖ר אֵ֣ין אֹת֑וֹ וַיֹּ֨אמֶר אֲלֵהֶ֜ם יוֹסֵ֗ף הֲל֤וֹא לֵֽאלֹהִים֙ פִּתְרֹנִ֔ים סַפְּרוּ־נָ֖א לִֽי׃",
+      "douay_rheims": "They answered: We have dreamed a dream, and there is nobody to interpret it to us. And Joseph said to them: Doth not interpretation belong to God? Tell me what you have dreamed:",
+      "finnish_biblia": "He vastasivat häntä: me olemme nähneet unta, ja ei ole, joka sen selittää. Niin sanoi Joseph heille: Jumalan on selitys, kuitenkin jutelkaat se minulle. ",
       "king_james": "And they said unto him, We have dreamed a dream, and there is no interpreter of it. And Joseph said unto them, Do not interpretations belong to God? tell me them, I pray you."
     },
     {
       "verse": 9,
       "latin_vulgate": "Narravit prior, præpositus pincernarum, somnium suum : Videbam coram me vitem, ",
       "hebrew_masoretic": "וַיְסַפֵּ֧ר שַֽׂר־הַמַּשְׁקִ֛ים אֶת־חֲלֹמ֖וֹ לְיוֹסֵ֑ף וַיֹּ֣אמֶר ל֔וֹ בַּחֲלוֹמִ֕י וְהִנֵּה־גֶ֖פֶן לְפָנָֽי׃",
+      "douay_rheims": "The chief butler first told his dream: I saw before me a vine,",
+      "finnish_biblia": "Niin ylimmäinen juomanlaskia jutteli unensa Josephille, ja sanoi hänelle: minä näin unta ja katso, viinapuu oli minun edessäni. ",
       "king_james": "And the chief butler told his dream to Joseph, and said to him, In my dream, behold, a vine was before me;"
     },
     {
       "verse": 10,
       "latin_vulgate": "in qua erant tres propagines, crescere paulatim in gemmas, et post flores uvas maturescere : ",
       "hebrew_masoretic": "וּבַגֶּ֖פֶן שְׁלֹשָׁ֣ה שָׂרִיגִ֑ם וְהִ֤וא כְפֹרַ֙חַת֙ עָלְתָ֣ה נִצָּ֔הּ הִבְשִׁ֥ילוּ אַשְׁכְּלֹתֶ֖יהָ עֲנָבִֽים׃",
+      "douay_rheims": "On which were three branches, which by little and little sent out buds, and after the blossoms brought forth ripe grapes:",
+      "finnish_biblia": "Ja sillä viinapuulla oli kolme haaraa ja se oli niinkuin viheriöitsemällänsä, sen kukoistus kävi ylös, ja sen rypäleet tuleentuivat viinamarjoiksi. ",
       "king_james": "And in the vine were three branches: and it was as though it budded, and her blossoms shot forth; and the clusters thereof brought forth ripe grapes:"
     },
     {
       "verse": 11,
       "latin_vulgate": "calicemque Pharaonis in manu mea : tuli ergo uvas, et expressi in calicem quem tenebam, et tradidi poculum Pharaoni. ",
       "hebrew_masoretic": "וְכ֥וֹס פַּרְעֹ֖ה בְּיָדִ֑י וָאֶקַּ֣ח אֶת־הָֽעֲנָבִ֗ים וָֽאֶשְׂחַ֤ט אֹתָם֙ אֶל־כּ֣וֹס פַּרְעֹ֔ה וָאֶתֵּ֥ן אֶת־הַכּ֖וֹס עַל־כַּ֥ף פַּרְעֹֽה׃",
+      "douay_rheims": "And the cup of Pharao was in my hand: and I took the grapes, and pressed them into the cup which I held, and I gave the cup to Pharao.",
+      "finnish_biblia": "Ja Pharaon juoma-astia oli minun kädessäni: niin minä otin viinamarjat, ja pusersin ne Pharaon juomaastiaan, ja annoin sen juoma-astian Pharaon käteen. ",
       "king_james": "And Pharaoh’s cup was in my hand: and I took the grapes, and pressed them into Pharaoh’s cup, and I gave the cup into Pharaoh’s hand."
     },
     {
       "verse": 12,
       "latin_vulgate": "Respondit Joseph : Hæc est interpretatio somnii : tres propagines, tres adhuc dies sunt : ",
       "hebrew_masoretic": "וַיֹּ֤אמֶר לוֹ֙ יוֹסֵ֔ף זֶ֖ה פִּתְרֹנ֑וֹ שְׁלֹ֙שֶׁת֙ הַשָּׂ֣רִגִ֔ים שְׁלֹ֥שֶׁת יָמִ֖ים הֵֽם׃",
+      "douay_rheims": "Joseph answered: This is the interpretation of the dream: The three branches, are yet three days:",
+      "finnish_biblia": "Ja Joseph sanoi hänelle: tämä on sen selitys: Kolme haaraa ovat kolme päivää. ",
       "king_james": "And Joseph said unto him, This is the interpretation of it: The three branches are three days:"
     },
     {
       "verse": 13,
       "latin_vulgate": "post quos recordabitur Pharao ministerii tui, et restituet te in gradum pristinum : dabisque ei calicem juxta officium tuum, sicut ante facere consueveras. ",
       "hebrew_masoretic": "בְּע֣וֹד ׀ שְׁלֹ֣שֶׁת יָמִ֗ים יִשָּׂ֤א פַרְעֹה֙ אֶת־רֹאשֶׁ֔ךָ וַהֲשִֽׁיבְךָ֖ עַל־כַּנֶּ֑ךָ וְנָתַתָּ֤ כוֹס־פַּרְעֹה֙ בְּיָד֔וֹ כַּמִּשְׁפָּט֙ הָֽרִאשׁ֔וֹן אֲשֶׁ֥ר הָיִ֖יתָ מַשְׁקֵֽהוּ׃",
+      "douay_rheims": "After which Pharao will remember thy service, and will restore thee to thy former place: and thou shalt present him the cup according to thy office, as before thou was wont to do.",
+      "finnish_biblia": "Kolmen päivän sisällä korottaa Pharao sinun pääs, ja asettaa sinun jällensä entiseen virkaas: ja sinä annat Pharaon käteen juoma-astian niinkuin ennenkin, koska olit hänen juomansa laskia. ",
       "king_james": "Yet within three days shall Pharaoh lift up thine head, and restore thee unto thy place: and thou shalt deliver Pharaoh’s cup into his hand, after the former manner when thou wast his butler."
     },
     {
       "verse": 14,
       "latin_vulgate": "Tantum memento mei, cum bene tibi fuerit, et facias mecum misericordiam : ut suggeras Pharaoni ut educat me de isto carcere : ",
       "hebrew_masoretic": "כִּ֧י אִם־זְכַרְתַּ֣נִי אִתְּךָ֗ כַּאֲשֶׁר֙ יִ֣יטַב לָ֔ךְ וְעָשִֽׂיתָ־נָּ֥א עִמָּדִ֖י חָ֑סֶד וְהִזְכַּרְתַּ֙נִי֙ אֶל־פַּרְעֹ֔ה וְהוֹצֵאתַ֖נִי מִן־הַבַּ֥יִת הַזֶּֽה׃",
+      "douay_rheims": "Only remember me when it shall be well with thee, and do me this kindness: to put Pharao in mind to take me out of this prison:",
+      "finnish_biblia": "Mutta muista minua tykönäs, koska sinun hyvin käy, ja tee sitte laupius minun kanssani, ettäs ilmoittaisit minun Pharaolle, ja antaisit minun ottaa täältä ulos. ",
       "king_james": "But think on me when it shall be well with thee, and shew kindness, I pray thee, unto me, and make mention of me unto Pharaoh, and bring me out of this house:"
     },
     {
       "verse": 15,
       "latin_vulgate": "quia furto sublatus sum de terra Hebræorum, et hic innocens in lacum missus sum. ",
       "hebrew_masoretic": "כִּֽי־גֻנֹּ֣ב גֻּנַּ֔בְתִּי מֵאֶ֖רֶץ הָעִבְרִ֑ים וְגַם־פֹּה֙ לֹא־עָשִׂ֣יתִֽי מְא֔וּמָה כִּֽי־שָׂמ֥וּ אֹתִ֖י בַּבּֽוֹר׃",
+      "douay_rheims": "For I was stolen away out of the land of the Hebrews, and here without any fault was cast into the dungeon.",
+      "finnish_biblia": "Sillä minä olen salaisesti varastettu Hebrealaisten maalta; enkä ole tässä mitään tehnyt, että he minun tähän vankiuteen panivat. ",
       "king_james": "For indeed I was stolen away out of the land of the Hebrews: and here also have I done nothing that they should put me into the dungeon."
     },
     {
       "verse": 16,
       "latin_vulgate": "Videns pistorum magister quod prudenter somnium dissolvisset, ait : Et ego vidi somnium : quod tria canistra farinæ haberem super caput meum : ",
       "hebrew_masoretic": "וַיַּ֥רְא שַׂר־הָאֹפִ֖ים כִּ֣י ט֣וֹב פָּתָ֑ר וַיֹּ֙אמֶר֙ אֶל־יוֹסֵ֔ף אַף־אֲנִי֙ בַּחֲלוֹמִ֔י וְהִנֵּ֗ה שְׁלֹשָׁ֛ה סַלֵּ֥י חֹרִ֖י עַל־רֹאשִֽׁי׃",
+      "douay_rheims": "The chief baker seeing that he had wisely interpreted the dream, said: I also dreamed a dream, That I had three baskets of meal upon my head:",
+      "finnish_biblia": "Koska ylimmäinen leipoja näki, että selitys oli hyvä; sanoi hän Josephille: minä myös uneksuin, ja katso, kolme palmikoittua koria oli minun pääni päällä. ",
       "king_james": "When the chief baker saw that the interpretation was good, he said unto Joseph, I also was in my dream, and, behold, I had three white baskets on my head:"
     },
     {
       "verse": 17,
       "latin_vulgate": "et in uno canistro quod erat excelsius, portare me omnes cibos qui fiunt arte pistoria, avesque comedere ex eo. ",
       "hebrew_masoretic": "וּבַסַּ֣ל הָֽעֶלְי֗וֹן מִכֹּ֛ל מַאֲכַ֥ל פַּרְעֹ֖ה מַעֲשֵׂ֣ה אֹפֶ֑ה וְהָע֗וֹף אֹכֵ֥ל אֹתָ֛ם מִן־הַסַּ֖ל מֵעַ֥ל רֹאשִֽׁי׃",
+      "douay_rheims": "And that in one basket which was uppermost, I carried all meats that are made by the art of baking, and that the birds ate out of it.",
+      "finnish_biblia": "Ja ylimmäisessä korissa oli kaikkinaisia leivotuita ruokia Pharaon tarpeeksi: ja linnut söivät niitä korista minun pääni päältä. ",
       "king_james": "And in the uppermost basket there was of all manner of bakemeats for Pharaoh; and the birds did eat them out of the basket upon my head."
     },
     {
       "verse": 18,
       "latin_vulgate": "Respondit Joseph : Hæc est interpretatio somnii : tria canistra, tres adhuc dies sunt : ",
       "hebrew_masoretic": "וַיַּ֤עַן יוֹסֵף֙ וַיֹּ֔אמֶר זֶ֖ה פִּתְרֹנ֑וֹ שְׁלֹ֙שֶׁת֙ הַסַּלִּ֔ים שְׁלֹ֥שֶׁת יָמִ֖ים הֵֽם׃",
+      "douay_rheims": "Joseph answered: This is the interpretation of the dream: The three baskets, are yet three days:",
+      "finnish_biblia": "Joseph vastasi, ja sanoi: tämä on sen selitys: kolme koria ovat kolme päivää. ",
       "king_james": "And Joseph answered and said, This is the interpretation thereof: The three baskets are three days:"
     },
     {
       "verse": 19,
       "latin_vulgate": "post quos auferet Pharao caput tuum, ac suspendet te in cruce, et lacerabunt volucres carnes tuas. ",
       "hebrew_masoretic": "בְּע֣וֹד ׀ שְׁלֹ֣שֶׁת יָמִ֗ים יִשָּׂ֨א פַרְעֹ֤ה אֶת־רֹֽאשְׁךָ֙ מֵֽעָלֶ֔יךָ וְתָלָ֥ה אוֹתְךָ֖ עַל־עֵ֑ץ וְאָכַ֥ל הָע֛וֹף אֶת־בְּשָׂרְךָ֖ מֵעָלֶֽיךָ׃",
+      "douay_rheims": "After which Pharao will take thy head from thee, and hang thee on a cross, and the birds shall tear thy flesh.",
+      "finnish_biblia": "Ja kolmen päivän sisällä ylentää Pharao sinun pääs, ja ripustaa sinun hirsipuuhun: ja linnut syövät sinun lihas sinun päältäs. ",
       "king_james": "Yet within three days shall Pharaoh lift up thy head from off thee, and shall hang thee on a tree; and the birds shall eat thy flesh from off thee."
     },
     {
       "verse": 20,
       "latin_vulgate": "Exinde dies tertius natalitius Pharaonis erat : qui faciens grande convivium pueris suis, recordatus est inter epulas magistri pincernarum, et pistorum principis. ",
       "hebrew_masoretic": "וַיְהִ֣י ׀ בַּיּ֣וֹם הַשְּׁלִישִׁ֗י י֚וֹם הֻלֶּ֣דֶת אֶת־פַּרְעֹ֔ה וַיַּ֥עַשׂ מִשְׁתֶּ֖ה לְכׇל־עֲבָדָ֑יו וַיִּשָּׂ֞א אֶת־רֹ֣אשׁ ׀ שַׂ֣ר הַמַּשְׁקִ֗ים וְאֶת־רֹ֛אשׁ שַׂ֥ר הָאֹפִ֖ים בְּת֥וֹךְ עֲבָדָֽיו׃",
+      "douay_rheims": "The third day after this was the birthday of Pharao: and he made a great feast for his servants, and at the banquet remembered the chief butler, and the chief baker.",
+      "finnish_biblia": "Ja tapahtui kolmantena päivänä, koska Pharao piti syntymäpäiväänsä, teki hän pidon kaikille palvelioillensa, ja ylensi ylimmäisen juomanlaskian pään, ja ylimmäisen leipojan pään palvelioittensa seassa. ",
       "king_james": "And it came to pass the third day, which was Pharaoh’s birthday, that he made a feast unto all his servants: and he lifted up the head of the chief butler and of the chief baker among his servants."
     },
     {
       "verse": 21,
       "latin_vulgate": "Restituitque alterum in locum suum, ut porrigeret ei poculum : ",
       "hebrew_masoretic": "וַיָּ֛שֶׁב אֶת־שַׂ֥ר הַמַּשְׁקִ֖ים עַל־מַשְׁקֵ֑הוּ וַיִּתֵּ֥ן הַכּ֖וֹס עַל־כַּ֥ף פַּרְעֹֽה׃",
+      "douay_rheims": "And he restored the one to his place, to present him the cup:",
+      "finnish_biblia": "Ja asetti ylimmäisen juomanlaskian jälleen (entiseen) virkaansa, antamaan Pharaon käteen juomaastian. ",
       "king_james": "And he restored the chief butler unto his butlership again; and he gave the cup into Pharaoh’s hand:"
     },
     {
       "verse": 22,
       "latin_vulgate": "alterum suspendit in patibulo, ut conjectoris veritas probaretur. ",
       "hebrew_masoretic": "וְאֵ֛ת שַׂ֥ר הָאֹפִ֖ים תָּלָ֑ה כַּאֲשֶׁ֥ר פָּתַ֛ר לָהֶ֖ם יוֹסֵֽף׃",
+      "douay_rheims": "The other he hanged on a gibbet, that the truth of the interpreter might be shewn.",
+      "finnish_biblia": "Mutta ylimmäisen leipojan antoi hän hirttää; niinkuin Joseph oli heille selittänyt. ",
       "king_james": "But he hanged the chief baker: as Joseph had interpreted to them."
     },
     {
       "verse": 23,
       "latin_vulgate": "Et tamen succedentibus prosperis, præpositus pincernarum oblitus est interpretis sui.   ",
       "hebrew_masoretic": "וְלֹֽא־זָכַ֧ר שַֽׂר־הַמַּשְׁקִ֛ים אֶת־יוֹסֵ֖ף וַיִּשְׁכָּחֵֽהוּ׃ {פ}",
+      "douay_rheims": "But the chief butler, when things prospered with him, forgot his interpreter. ",
+      "finnish_biblia": "Mutta ylimmäinen juomanlaskia ei muistanut Josephia, vaan unhotti hänen.   ",
       "king_james": "Yet did not the chief butler remember Joseph, but forgat him. "
     }
   ]

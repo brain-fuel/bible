@@ -2,6 +2,8 @@
   "book_id": "JER",
   "latin_name": "Ieremias",
   "hebrew_name": "יִרְמְיָהוּ",
+  "douay_name": "Jeremias",
+  "finnish_name": "Jeremia",
   "english_name": "Jeremiah",
   "chapter": 37,
   "verses": [
@@ -9,39 +11,54 @@
       "verse": 1,
       "latin_vulgate": "Et regnavit rex Sedecias filius Josiæ pro Jechonia filio Joakim, quem constituit regem Nabuchodonosor rex Babylonis in terra Juda : ",
       "hebrew_masoretic": "וַיִּ֨מְלׇךְ־מֶ֔לֶךְ צִדְקִיָּ֖הוּ בֶּן־יֹאשִׁיָּ֑הוּ תַּ֗חַת כָּנְיָ֙הוּ֙ בֶּן־יְה֣וֹיָקִ֔ים אֲשֶׁ֥ר הִמְלִ֛יךְ נְבוּכַדְרֶאצַּ֥ר מֶלֶךְ־בָּבֶ֖ל בְּאֶ֥רֶץ יְהוּדָֽה׃",
+      "douay_rheims": "Now king Sedecias the son of Josias reigned instead of Jechonias the son of Joakim: whom Nabuchodonosor king of Babylon made king in the land of Juda.",
+      "finnish_biblia": "Ja Zedekia Josian poika tuli kuninkaaksi Konian Jojakimin pojan siaan; sillä Nebukadnetsar, Babelin kuningas, teki hänen Juudan maan kuninkaaksi. ",
       "king_james": "And king Zedekiah the son of Josiah reigned instead of Coniah the son of Jehoiakim, whom Nebuchadrezzar king of Babylon made king in the land of Judah."
     },
     {
       "verse": 2,
       "latin_vulgate": "et non obedivit ipse, et servi ejus, et populus terræ, verbis Domini, quæ locutus est in manu Jeremiæ prophetæ. ",
       "hebrew_masoretic": "וְלֹ֥א שָׁמַ֛ע ה֥וּא וַעֲבָדָ֖יו וְעַ֣ם הָאָ֑רֶץ אֶל־דִּבְרֵ֣י יְהֹוָ֔ה אֲשֶׁ֣ר דִּבֶּ֔ר בְּיַ֖ד יִרְמְיָ֥הוּ הַנָּבִֽיא׃",
+      "douay_rheims": "But neither he, nor his servants, nor the people of the land did obey the words of the Lord, that he spoke in the hand of Jeremiah the prophet.",
+      "finnish_biblia": "Mutta hän ja hänen palveliansa ja maan kansa ei totelleet Herran sanaa, jonka hän propheta Jeremian kautta puhui. ",
       "king_james": "But neither he, nor his servants, nor the people of the land, did hearken unto the words of the Lord, which he spake by the prophet Jeremiah."
     },
     {
       "verse": 3,
       "latin_vulgate": "Et misit rex Sedecias Juchal filium Selemiæ, et Sophoniam filium Maasiæ, sacerdotem, ad Jeremiam prophetam, dicens : Ora pro nobis Dominum Deum nostrum. ",
       "hebrew_masoretic": "וַיִּשְׁלַח֩ הַמֶּ֨לֶךְ צִדְקִיָּ֜הוּ אֶת־יְהוּכַ֣ל בֶּן־שֶׁלֶמְיָ֗ה וְאֶת־צְפַנְיָ֤הוּ בֶן־מַעֲשֵׂיָה֙ הַכֹּהֵ֔ן אֶל־יִרְמְיָ֥הוּ הַנָּבִ֖יא לֵאמֹ֑ר הִתְפַּלֶּל־נָ֣א בַעֲדֵ֔נוּ אֶל־יְהֹוָ֖ה אֱלֹהֵֽינוּ׃",
+      "douay_rheims": "And king Sedecias sent Juchal the son of Selemias, and Sophonias the son of Maasias the priest to Jeremiah the prophet, saying: Pray to the Lord our God for us.",
+      "finnish_biblia": "Kuitenkin lähetti kuningas Zedekia Jukalin Selamjan pojan, ja Zephanian Maasejan pojan, papin, propheta Jeremian tykö sanomaan: rukoile meidän edestämme Herraa meidän Jumalaamme. ",
       "king_james": "And Zedekiah the king sent Jehucal the son of Shelemiah and Zephaniah the son of Maaseiah the priest to the prophet Jeremiah, saying, Pray now unto the Lord our God for us."
     },
     {
       "verse": 4,
       "latin_vulgate": "Jeremias autem libere ambulabat in medio populi : non enim miserant eum in custodiam carceris. Igitur exercitus Pharaonis egressus est de Ægypto, et audientes Chaldæi qui obsidebant Jerusalem, hujuscemodi nuntium, recesserunt ab Jerusalem. ",
       "hebrew_masoretic": "וְיִרְמְיָ֕הוּ בָּ֥א וְיֹצֵ֖א בְּת֣וֹךְ הָעָ֑ם וְלֹא־נָתְנ֥וּ אֹת֖וֹ בֵּ֥ית (הכליא) [הַכְּלֽוּא]׃",
+      "douay_rheims": "Now Jeremiah walked freely in the midst of the people: for they had not as yet cast him into prison. And the army of Pharao was come out of Egypt: and the Chaldeans that besieged Jerusalem, hearing these tidings, departed from Jerusalem.",
+      "finnish_biblia": "Sillä Jeremia kävi ulos ja sisälle kansan seassa, ja ei kenkään pannut häntä vankiuteen. ",
       "king_james": "Now Jeremiah came in and went out among the people: for they had not put him into prison."
     },
     {
       "verse": 5,
       "latin_vulgate": "Et factum est verbum Domini ad Jeremiam prophetam, dicens : ",
       "hebrew_masoretic": "וְחֵ֥יל פַּרְעֹ֖ה יָצָ֣א מִמִּצְרָ֑יִם וַיִּשְׁמְע֨וּ הַכַּשְׂדִּ֜ים הַצָּרִ֤ים עַל־יְרוּשָׁלַ֙͏ִם֙ אֶת־שִׁמְעָ֔ם וַיֵּ֣עָל֔וּ מֵעַ֖ל יְרוּשָׁלָֽ͏ִם׃ {פ}",
+      "douay_rheims": "And the word of the Lord came to Jeremiah the prophet, saying:",
+      "finnish_biblia": "Niin oli Pharaon sotajoukko lähtenyt Egyptistä; ja Kaldealaiset, jotka olivat Jerusalemin piirittäneet, kuulivat heistä sanoman, ja läksivät pois Jerusalemista. ",
       "king_james": "Then Pharaoh’s army was come forth out of Egypt: and when the Chaldeans that besieged Jerusalem heard tidings of them, they departed from Jerusalem."
     },
     {
       "verse": 6,
       "latin_vulgate": "Et factum est verbum Domini ad Jeremiam prophetam, dicens : ",
       "hebrew_masoretic": "וַֽיְהִי֙ דְּבַר־יְהֹוָ֔ה אֶל־יִרְמְיָ֥הוּ הַנָּבִ֖יא לֵאמֹֽר׃",
+      "douay_rheims": "And the word of the Lord came to Jeremiah the prophet, saying:",
+      "finnish_biblia": "Ja Herran sana tapahtui propheta Jeremialle ja sanoi: ",
       "king_james": "Then came the word of the Lord unto the prophet Jeremiah, saying,",
       "refs": {
         "latin_vulgate": {
+          "src": "37:5"
+        },
+        "douay_rheims": {
           "src": "37:5"
         }
       }
@@ -50,9 +67,14 @@
       "verse": 7,
       "latin_vulgate": "Hæc dicit Dominus Deus Israël : Sic dicetis regi Juda, qui misit vos ad me interrogandum : Ecce exercitus Pharaonis, qui egressus est vobis in auxilium, revertetur in terram suam in Ægyptum : ",
       "hebrew_masoretic": "כֹּה־אָמַ֤ר יְהֹוָה֙ אֱלֹהֵ֣י יִשְׂרָאֵ֔ל כֹּ֤ה תֹֽאמְרוּ֙ אֶל־מֶ֣לֶךְ יְהוּדָ֔ה הַשֹּׁלֵ֧חַ אֶתְכֶ֛ם אֵלַ֖י לְדׇרְשֵׁ֑נִי הִנֵּ֣ה ׀ חֵ֣יל פַּרְעֹ֗ה הַיֹּצֵ֤א לָכֶם֙ לְעֶזְרָ֔ה שָׁ֥ב לְאַרְצ֖וֹ מִצְרָֽיִם׃",
+      "douay_rheims": "Thus saith the Lord the God of Israel: Thus shall you say to the king of Juda, who sent you to inquire of me: Behold the army of Pharao, which is come forth to help you, shall return into their own land, into Egypt.",
+      "finnish_biblia": "Näin sanoo Herra, Israelin Jumala: näin sanokaat Juudan kuninkaalle, joka teidät on minun tyköni lähettänyt kysymään minulta: katso, Pharaon joukko, joka teidän avuksenne on lähtenyt, pitää jälleen menemän kotiansa Egyptiin. ",
       "king_james": "Thus saith the Lord, the God of Israel; Thus shall ye say to the king of Judah, that sent you unto me to enquire of me; Behold, Pharaoh’s army, which is come forth to help you, shall return to Egypt into their own land.",
       "refs": {
         "latin_vulgate": {
+          "src": "37:6"
+        },
+        "douay_rheims": {
           "src": "37:6"
         }
       }
@@ -61,9 +83,14 @@
       "verse": 8,
       "latin_vulgate": "et redient Chaldæi, et bellabunt contra civitatem hanc, et capient eam, et succendent eam igni. ",
       "hebrew_masoretic": "וְשָׁ֙בוּ֙ הַכַּשְׂדִּ֔ים וְנִלְחֲמ֖וּ עַל־הָעִ֣יר הַזֹּ֑את וּלְכָדֻ֖הָ וּשְׂרָפֻ֥הָ בָאֵֽשׁ׃ {פ}",
+      "douay_rheims": "And the Chaldeans shall come again, and fight against this city, and take it, and burn it with fire.",
+      "finnish_biblia": "Ja Kaldealaisten pitää palajaman ja sotiman tätä kaupunkia vastaan, ja voittaman sen, ja polttaman sen tulella. ",
       "king_james": "And the Chaldeans shall come again, and fight against this city, and take it, and burn it with fire.",
       "refs": {
         "latin_vulgate": {
+          "src": "37:7"
+        },
+        "douay_rheims": {
           "src": "37:7"
         }
       }
@@ -72,9 +99,14 @@
       "verse": 9,
       "latin_vulgate": "Hæc dicit Dominus : Nolite decipere animas vestras, dicentes : Euntes abibunt, et recedent a nobis Chaldæi : quia non abibunt. ",
       "hebrew_masoretic": "כֹּ֣ה ׀ אָמַ֣ר יְהֹוָ֗ה אַל־תַּשִּׁ֤אוּ נַפְשֹֽׁתֵיכֶם֙ לֵאמֹ֔ר הָלֹ֛ךְ יֵלְכ֥וּ מֵעָלֵ֖ינוּ הַכַּשְׂדִּ֑ים כִּי־לֹ֖א יֵלֵֽכוּ׃",
+      "douay_rheims": "Thus saith the Lord: Deceive not your souls, saying: The Chaldeans shall surely depart and go away from us: for they shall not go away.",
+      "finnish_biblia": "Sentähden sanoo Herra näin: älkäät pettäkö teidän sielujanne, ajatellen: Kaldealaiset menevät peräti pois meidän tyköämme, sillä ei heidän pidä menemän pois. ",
       "king_james": "Thus saith the Lord; Deceive not yourselves, saying, The Chaldeans shall surely depart from us: for they shall not depart.",
       "refs": {
         "latin_vulgate": {
+          "src": "37:8"
+        },
+        "douay_rheims": {
           "src": "37:8"
         }
       }
@@ -83,9 +115,14 @@
       "verse": 10,
       "latin_vulgate": "Sed etsi percusseritis omnem exercitum Chaldæorum qui præliantur adversum vos, et derelicti fuerint ex eis aliqui vulnerati, singuli de tentorio suo consurgent, et incendent civitatem hanc igni. ",
       "hebrew_masoretic": "כִּ֣י אִם־הִכִּיתֶ֞ם כׇּל־חֵ֤יל כַּשְׂדִּים֙ הַנִּלְחָמִ֣ים אִתְּכֶ֔ם וְנִ֨שְׁאֲרוּ־בָ֔ם אֲנָשִׁ֖ים מְדֻקָּרִ֑ים אִ֤ישׁ בְּאׇֽהֳלוֹ֙ יָק֔וּמוּ וְשָׂ֥רְפ֛וּ אֶת־הָעִ֥יר הַזֹּ֖את בָּאֵֽשׁ׃",
+      "douay_rheims": "But if you should even beat all the army of the Chaldeans that fight against you, and there should be left of them some wounded men: they shall rise up, every man from his heart, and burn this city with fire.",
+      "finnish_biblia": "Ja vaikka te vielä löisitte koko Kaldealaisten sotajoukon, jotka teitä vastaan sotivat, ja muutamat heistä saisivat haavoja; niin pitäis heidän vielä sittenkin kunkin majastansa nouseman, ja polttaman tämän kaupungin tulella. ",
       "king_james": "For though ye had smitten the whole army of the Chaldeans that fight against you, and there remained but wounded men among them, yet should they rise up every man in his tent, and burn this city with fire.",
       "refs": {
         "latin_vulgate": {
+          "src": "37:9"
+        },
+        "douay_rheims": {
           "src": "37:9"
         }
       }
@@ -94,9 +131,14 @@
       "verse": 11,
       "latin_vulgate": "Ergo cum recessisset exercitus Chaldæorum ab Jerusalem, propter exercitum Pharaonis, ",
       "hebrew_masoretic": "וְהָיָ֗ה בְּהֵעָלוֹת֙ חֵ֣יל הַכַּשְׂדִּ֔ים מֵעַ֖ל יְרוּשָׁלָ֑͏ִם מִפְּנֵ֖י חֵ֥יל פַּרְעֹֽה׃ {ס}",
+      "douay_rheims": "Now when the army of the Chaldeans was gone away from Jerusalem, because of Pharao's army,",
+      "finnish_biblia": "Kuin Kaldealaisten sotajoukko oli lähtenyt Jerusalemista, Pharaon sotajoukon tähden, ",
       "king_james": "And it came to pass, that when the army of the Chaldeans was broken up from Jerusalem for fear of Pharaoh’s army,",
       "refs": {
         "latin_vulgate": {
+          "src": "37:10"
+        },
+        "douay_rheims": {
           "src": "37:10"
         }
       }
@@ -105,9 +147,14 @@
       "verse": 12,
       "latin_vulgate": "egressus est Jeremias de Jerusalem ut iret in terram Benjamin, et divideret ibi possessionem in conspectu civium. ",
       "hebrew_masoretic": "וַיֵּצֵ֤א יִרְמְיָ֙הוּ֙ מִיר֣וּשָׁלַ֔͏ִם לָלֶ֖כֶת אֶ֣רֶץ בִּנְיָמִ֑ן לַחֲלִ֥ק מִשָּׁ֖ם בְּת֥וֹךְ הָעָֽם׃",
+      "douay_rheims": "Jeremiah went forth out of Jerusalem to go into the land of Benjamin: and to divide a possession there in the presence of the citizens,",
+      "finnish_biblia": "Meni Jeremia ulos Jerusalemista, ja tahtoi mennä Benjaminin maalle, ratkaisemaan ja kirvottamaan itsiänsä siellä kansan seasta. ",
       "king_james": "Then Jeremiah went forth out of Jerusalem to go into the land of Benjamin, to separate himself thence in the midst of the people.",
       "refs": {
         "latin_vulgate": {
+          "src": "37:11"
+        },
+        "douay_rheims": {
           "src": "37:11"
         }
       }
@@ -116,9 +163,14 @@
       "verse": 13,
       "latin_vulgate": "Cumque pervenisset ad portam Benjamin, erat ibi custos portæ per vices, nomine Jerias filius Selemiæ filii Hananiæ : et apprehendit Jeremiam prophetam, dicens : Ad Chaldæos profugis. ",
       "hebrew_masoretic": "וַֽיְהִי־ה֞וּא בְּשַׁ֣עַר בִּנְיָמִ֗ן וְשָׁם֙ בַּ֣עַל פְּקִדֻ֔ת וּשְׁמוֹ֙ יִרְאִיָּ֔יה בֶּן־שֶׁלֶמְיָ֖ה בֶּן־חֲנַנְיָ֑ה וַיִּתְפֹּ֞שׂ אֶֽת־יִרְמְיָ֤הוּ הַנָּבִיא֙ לֵאמֹ֔ר אֶל־הַכַּשְׂדִּ֖ים אַתָּ֥ה נֹפֵֽל׃",
+      "douay_rheims": "And when he was come to the gate of Benjamin, the captain of the gate, who was there in his turn, was one named Jerias, the son of Selemias, the son of Hananias: and he took hold of Jeremiah the prophet, saying: Thou art fleeing to the Chaldeans.",
+      "finnish_biblia": "Ja kuin hän tuli Benjaminin porttiin, niin siellä oli oven vartion päämies, nimeltä Jirja Selemjan poika, Hananian pojan; se tarttui propheta Jeremiaan, ja sanoi: sinä tahdot mennä Kaldealaisten tykö. ",
       "king_james": "And when he was in the gate of Benjamin, a captain of the ward was there, whose name was Irijah, the son of Shelemiah, the son of Hananiah; and he took Jeremiah the prophet, saying, Thou fallest away to the Chaldeans.",
       "refs": {
         "latin_vulgate": {
+          "src": "37:12"
+        },
+        "douay_rheims": {
           "src": "37:12"
         }
       }
@@ -127,9 +179,14 @@
       "verse": 14,
       "latin_vulgate": "Et respondit Jeremias : Falsum est : non fugio ad Chaldæos. Et non audivit eum, sed comprehendit Jerias Jeremiam, et adduxit eum ad principes : ",
       "hebrew_masoretic": "וַיֹּ֨אמֶר יִרְמְיָ֜הוּ שֶׁ֗קֶר אֵינֶ֤נִּי נֹפֵל֙ עַל־הַכַּשְׂדִּ֔ים וְלֹ֥א שָׁמַ֖ע אֵלָ֑יו וַיִּתְפֹּ֤שׂ יִרְאִיָּיה֙ בְּיִרְמְיָ֔הוּ וַיְבִאֵ֖הוּ אֶל־הַשָּׂרִֽים׃",
+      "douay_rheims": "And Jeremiah answered: It is not so, I am not fleeing to the Chaldeans. But he hearkened not to him: so Jerias took Jeremiah and brought him to the princes.",
+      "finnish_biblia": "Jeremia sanoi: ei se ole tosi, en minä mene Kaldealaisten tykö. Mutta ei Jirja tahtonut häntä kuulla, vaan otti Jeremian kiinni ja vei hänen pääruhtinasten tykö. ",
       "king_james": "Then said Jeremiah, It is false; I fall not away to the Chaldeans. But he hearkened not to him: so Irijah took Jeremiah, and brought him to the princes.",
       "refs": {
         "latin_vulgate": {
+          "src": "37:13"
+        },
+        "douay_rheims": {
           "src": "37:13"
         }
       }
@@ -138,9 +195,14 @@
       "verse": 15,
       "latin_vulgate": "quam ob rem irati principes contra Jeremiam, cæsum eum miserunt in carcerem qui erat in domo Jonathan scribæ : ipse enim præpositus erat super carcerem. ",
       "hebrew_masoretic": "וַיִּקְצְפ֧וּ הַשָּׂרִ֛ים עַֽל־יִרְמְיָ֖הוּ וְהִכּ֣וּ אֹת֑וֹ וְנָתְנ֨וּ אוֹת֜וֹ בֵּ֣ית הָאֵס֗וּר בֵּ֚ית יְהוֹנָתָ֣ן הַסֹּפֵ֔ר כִּי־אֹת֥וֹ עָשׂ֖וּ לְבֵ֥ית הַכֶּֽלֶא׃",
+      "douay_rheims": "Wherefore the princes were angry with Jeremiah, and they beat him, and cast him into the prison that was in the house of Jonathan the scribe: for he was chief over the prison.",
+      "finnish_biblia": "Ja pääruhtinaat olivat Jeremialle vihaiset, ja antoivat lyödä häntä, ja heittivät hänen vankiuteen Jonatanin, kirjoittajan, huoneesen; sillä sen he panivat vankihuoneeksi. ",
       "king_james": "Wherefore the princes were wroth with Jeremiah, and smote him, and put him in prison in the house of Jonathan the scribe: for they had made that the prison.",
       "refs": {
         "latin_vulgate": {
+          "src": "37:14"
+        },
+        "douay_rheims": {
           "src": "37:14"
         }
       }
@@ -149,9 +211,14 @@
       "verse": 16,
       "latin_vulgate": "Itaque ingressus est Jeremias in domum laci et in ergastulum : et sedit ibi Jeremias diebus multis. ",
       "hebrew_masoretic": "כִּ֣י בָ֧א יִרְמְיָ֛הוּ אֶל־בֵּ֥ית הַבּ֖וֹר וְאֶל־הַחֲנֻי֑וֹת וַיֵּשֶׁב־שָׁ֥ם יִרְמְיָ֖הוּ יָמִ֥ים רַבִּֽים׃",
+      "douay_rheims": "So Jeremiah went into the house of the prison, and into the dungeon: and Jeremiah remained there many days.",
+      "finnish_biblia": "Niin meni Jeremia luolaan ja vankiuteen, ja oli siellä kauvan aikaa. ",
       "king_james": "When Jeremiah was entered into the dungeon, and into the cabins, and Jeremiah had remained there many days;",
       "refs": {
         "latin_vulgate": {
+          "src": "37:15"
+        },
+        "douay_rheims": {
           "src": "37:15"
         }
       }
@@ -160,9 +227,14 @@
       "verse": 17,
       "latin_vulgate": "Mittens autem Sedecias rex, tulit eum : et interrogavit eum in domo sua abscondite, et dixit : Putasne est sermo a Domino ? Et dixit Jeremias : Est : et ait : In manus regis Babylonis traderis. ",
       "hebrew_masoretic": "וַיִּשְׁלַח֩ הַמֶּ֨לֶךְ צִדְקִיָּ֜הוּ וַיִּקָּחֵ֗הוּ וַיִּשְׁאָלֵ֨הוּ הַמֶּ֤לֶךְ בְּבֵיתוֹ֙ בַּסֵּ֔תֶר וַיֹּ֕אמֶר הֲיֵ֥שׁ דָּבָ֖ר מֵאֵ֣ת יְהֹוָ֑ה וַיֹּ֤אמֶר יִרְמְיָ֙הוּ֙ יֵ֔שׁ וַיֹּ֕אמֶר בְּיַ֥ד מֶלֶךְ־בָּבֶ֖ל תִּנָּתֵֽן׃",
+      "douay_rheims": "Then Sedecias the king, sending, took him: and asked him secretly in his house, and said: Is there, thinkest thou, any word from the Lord? And Jeremiah said. There is. And he said: Thou shalt be delivered into the hands of the king of Babylon.",
+      "finnish_biblia": "Ja kuningas Zedekia lähetti noutamaan häntä, ja kysyi salaa häneltä huoneessansa ja sanoi: onko nyt joku sana ilmaantunut Herralta? Jeremia sanoi: on, ja sanoi: sinä pitää annettaman Babelin kuninkaan käsiin. ",
       "king_james": "Then Zedekiah the king sent, and took him out: and the king asked him secretly in his house, and said, Is there any word from the Lord? And Jeremiah said, There is: for, said he, thou shalt be delivered into the hand of the king of Babylon.",
       "refs": {
         "latin_vulgate": {
+          "src": "37:16"
+        },
+        "douay_rheims": {
           "src": "37:16"
         }
       }
@@ -171,9 +243,14 @@
       "verse": 18,
       "latin_vulgate": "Et dixit Jeremias ad regem Sedeciam : Quid peccavi tibi, et servis tuis, et populo tuo, quia misisti me in domum carceris ? ",
       "hebrew_masoretic": "וַיֹּ֣אמֶר יִרְמְיָ֔הוּ אֶל־הַמֶּ֖לֶךְ צִדְקִיָּ֑הוּ מֶה֩ חָטָ֨אתִֽי לְךָ֤ וְלַעֲבָדֶ֙יךָ֙ וְלָעָ֣ם הַזֶּ֔ה כִּֽי־נְתַתֶּ֥ם אוֹתִ֖י אֶל־בֵּ֥ית הַכֶּֽלֶא׃",
+      "douay_rheims": "And Jeremiah said to king Sedecias: In what have I offended against thee, or thy servants, or thy people, that thou hast cast me into prison?",
+      "finnish_biblia": "Ja Jeremia sanoi kuningas Zedekialle: mitä minä olen rikkonut sinua, palvelioitas ja tätä kansaa vastaan, että te minun vankiuteen olette heittäneet? ",
       "king_james": "Moreover Jeremiah said unto king Zedekiah, What have I offended against thee, or against thy servants, or against this people, that ye have put me in prison?",
       "refs": {
         "latin_vulgate": {
+          "src": "37:17"
+        },
+        "douay_rheims": {
           "src": "37:17"
         }
       }
@@ -182,9 +259,14 @@
       "verse": 19,
       "latin_vulgate": "ubi sunt prophetæ vestri, qui prophetabant vobis, et dicebant : Non veniet rex Babylonis super vos, et super terram hanc ? ",
       "hebrew_masoretic": "(ואיו) [וְאַיֵּה֙] נְבִ֣יאֵיכֶ֔ם אֲשֶׁר־נִבְּא֥וּ לָכֶ֖ם לֵאמֹ֑ר לֹא־יָבֹ֤א מֶֽלֶךְ־בָּבֶל֙ עֲלֵיכֶ֔ם וְעַ֖ל הָאָ֥רֶץ הַזֹּֽאת׃",
+      "douay_rheims": "Where are your prophets that prophesied to you, and said: The king of Babylon shall not come against you, and against this land?",
+      "finnish_biblia": "Kussa nyt ovat teidän prophetanne, jotka teille ennustivat ja sanoivat: ei Babelin kuningas tule teidän päällenne, eikä tämän maan päälle. ",
       "king_james": "Where are now your prophets which prophesied unto you, saying, The king of Babylon shall not come against you, nor against this land?",
       "refs": {
         "latin_vulgate": {
+          "src": "37:18"
+        },
+        "douay_rheims": {
           "src": "37:18"
         }
       }
@@ -193,9 +275,14 @@
       "verse": 20,
       "latin_vulgate": "Nunc ergo audi, obsecro, domine mi rex : valeat deprecatio mea in conspectu tuo, et ne me remittas in domum Jonathan scribæ, ne moriar ibi. ",
       "hebrew_masoretic": "וְעַתָּ֕ה שְֽׁמַֽע־נָ֖א אֲדֹנִ֣י הַמֶּ֑לֶךְ תִּפׇּל־נָ֤א תְחִנָּתִי֙ לְפָנֶ֔יךָ וְאַל־תְּשִׁבֵ֗נִי בֵּ֚ית יְהוֹנָתָ֣ן הַסֹּפֵ֔ר וְלֹ֥א אָמ֖וּת שָֽׁם׃",
+      "douay_rheims": "Now therefore hear, I beseech thee, my lord the king: let my petition be accepted in thy sight: and send me not back into the house of Jonathan the scribe, lest I die there.",
+      "finnish_biblia": "Ja nyt, herrani kuningas, kuule minua, ja anna minun rukoukseni tulla sinulta kuulluksi, ja älä minua taas lähetä Jonatanin, kirjoittajan, huoneesen, etten minä siellä kuolisi. ",
       "king_james": "Therefore hear now, I pray thee, O my lord the king: let my supplication, I pray thee, be accepted before thee; that thou cause me not to return to the house of Jonathan the scribe, lest I die there.",
       "refs": {
         "latin_vulgate": {
+          "src": "37:19"
+        },
+        "douay_rheims": {
           "src": "37:19"
         }
       }
@@ -204,9 +291,14 @@
       "verse": 21,
       "latin_vulgate": "Præcepit ergo rex Sedecias ut traderetur Jeremias in vestibulo carceris, et daretur ei torta panis quotidie, excepto pulmento, donec consumerentur omnes panes de civitate : et mansit Jeremias in vestibulo carceris.   ",
       "hebrew_masoretic": "וַיְצַוֶּ֞ה הַמֶּ֣לֶךְ צִדְקִיָּ֗הוּ וַיַּפְקִ֣דוּ אֶֽת־יִרְמְיָ֘הוּ֮ בַּחֲצַ֣ר הַמַּטָּרָה֒ וְנָתֹן֩ ל֨וֹ כִכַּר־לֶ֤חֶם לַיּוֹם֙ מִח֣וּץ הָאֹפִ֔ים עַד־תֹּ֥ם כׇּל־הַלֶּ֖חֶם מִן־הָעִ֑יר וַיֵּ֣שֶׁב יִרְמְיָ֔הוּ בַּחֲצַ֖ר הַמַּטָּרָֽה׃",
+      "douay_rheims": "Then king Sedecias commanded that Jeremiah should be committed into the entry of the prison: and that they should give him daily a piece of bread, beside broth, till all the bread in the city were spent: and Jeremiah remained in the entry of the prison. ",
+      "finnish_biblia": "Silloin käski kuningas Zedekia, että Jeremia piti tallella pidettämän pihassa vankihuoneen edessä, ja käski hänelle antaa päiväksi osan leipää Leipojan kujalta, siihenasti kuin kaikki leivät kaupungista kuluneeksi tulivat. Niin Jeremia siis oli vankihuoneen pihassa.   ",
       "king_james": "Then Zedekiah the king commanded that they should commit Jeremiah into the court of the prison, and that they should give him daily a piece of bread out of the bakers’ street, until all the bread in the city were spent. Thus Jeremiah remained in the court of the prison. ",
       "refs": {
         "latin_vulgate": {
+          "src": "37:20"
+        },
+        "douay_rheims": {
           "src": "37:20"
         }
       }

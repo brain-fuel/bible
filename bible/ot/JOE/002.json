@@ -2,6 +2,8 @@
   "book_id": "JOE",
   "latin_name": "Ioel",
   "hebrew_name": "יוֹאֵל",
+  "douay_name": "Joel",
+  "finnish_name": "Jooel",
   "english_name": "Joel",
   "chapter": 2,
   "verses": [
@@ -9,168 +11,224 @@
       "verse": 1,
       "latin_vulgate": "Canite tuba in Sion,  ululate in monte sancto meo,  conturbentur omnes habitatores terræ :  quia venit dies Domini, quia prope est. ",
       "hebrew_masoretic": "תִּקְע֨וּ שׁוֹפָ֜ר בְּצִיּ֗וֹן וְהָרִ֙יעוּ֙ בְּהַ֣ר קׇדְשִׁ֔י יִרְגְּז֕וּ כֹּ֖ל יֹשְׁבֵ֣י הָאָ֑רֶץ כִּי־בָ֥א יוֹם־יְהֹוָ֖ה כִּ֥י קָרֽוֹב׃",
+      "douay_rheims": "Blow ye the trumpet in Sion, sound an alarm in my holy mountain, let all the inhabitants of the land tremble: because the day of the Lord cometh, because it is nigh at hand.",
+      "finnish_biblia": "Soittakaat basunalla Zionissa, huutakaat minun pyhällä vuorellani, vaviskaat kaikki maan asuvaiset; sillä Herran päivä tulee ja on läsnä: ",
       "king_james": "Blow ye the trumpet in Zion, and sound an alarm in my holy mountain: let all the inhabitants of the land tremble: for the day of the Lord cometh, for it is nigh at hand;"
     },
     {
       "verse": 2,
       "latin_vulgate": " Dies tenebrarum et caliginis,  dies nubis et turbinis ;  quasi mane expansum super montes  populus multus et fortis :  similis ei non fuit a principio,  et post eum non erit  usque in annos generationis et generationis. ",
       "hebrew_masoretic": "י֧וֹם חֹ֣שֶׁךְ וַאֲפֵלָ֗ה י֤וֹם עָנָן֙ וַעֲרָפֶ֔ל כְּשַׁ֖חַר פָּרֻ֣שׂ עַל־הֶהָרִ֑ים עַ֚ם רַ֣ב וְעָצ֔וּם כָּמֹ֗הוּ לֹ֤א נִֽהְיָה֙ מִן־הָ֣עוֹלָ֔ם וְאַֽחֲרָיו֙ לֹ֣א יוֹסֵ֔ף עַד־שְׁנֵ֖י דּ֥וֹר וָדֽוֹר׃",
+      "douay_rheims": "A day of darkness, and of gloominess, a day of clouds and whirlwinds: a numerous and strong people as the morning spread upon the mountains: the like to it hath not been from the beginning, nor shall be after it, even to the years of generation and generation.",
+      "finnish_biblia": "Pimiä päivä, synkiä päivä, sumuinen päivä ja utuinen päivä; niinkuin aamurusko itsensä levittää vuorten ylitse; suuri ja väkevä kansa, jonka kaltaista ei ikänä ole ollut, eikä vasta tule ijankaikkiseen aikaan. ",
       "king_james": "A day of darkness and of gloominess, a day of clouds and of thick darkness, as the morning spread upon the mountains: a great people and a strong; there hath not been ever the like, neither shall be any more after it, even to the years of many generations."
     },
     {
       "verse": 3,
       "latin_vulgate": " Ante faciem ejus ignis vorans,  et post eum exurens flamma.  Quasi hortus voluptatis terra coram eo,  et post eum solitudo deserti,  neque est qui effugiat eum. ",
       "hebrew_masoretic": "לְפָנָיו֙ אָ֣כְלָה אֵ֔שׁ וְאַחֲרָ֖יו תְּלַהֵ֣ט לֶהָבָ֑ה כְּגַן־עֵ֨דֶן הָאָ֜רֶץ לְפָנָ֗יו וְאַֽחֲרָיו֙ מִדְבַּ֣ר שְׁמָמָ֔ה וְגַם־פְּלֵיטָ֖ה לֹא־הָ֥יְתָה לּֽוֹ׃",
+      "douay_rheims": "Before the face thereof a devouring fire, and behind it a burning flame: the land is like a garden of pleasure before it, and behind it a desolate wilderness, neither is there any one that can escape it.",
+      "finnish_biblia": "Hänen edellänsä käy kuluttavainen tuli, ja hänen jälissänsä polttavainen liekki. Maa on hänen edessänsä niinkuin Edenin puutarha, mutta hänen jälissänsä niinkuin autio erämaa, ja ei pidä kenenkään pääsemän häneltä pois. ",
       "king_james": "A fire devoureth before them; and behind them a flame burneth: the land is as the garden of Eden before them, and behind them a desolate wilderness; yea, and nothing shall escape them."
     },
     {
       "verse": 4,
       "latin_vulgate": " Quasi aspectus equorum, aspectus eorum ;  et quasi equites, sic current. ",
       "hebrew_masoretic": "כְּמַרְאֵ֥ה סוּסִ֖ים מַרְאֵ֑הוּ וּכְפָרָשִׁ֖ים כֵּ֥ן יְרוּצֽוּן׃",
+      "douay_rheims": "The appearance of them is as the appearance of horses, and they shall run like horsemen.",
+      "finnish_biblia": "Hänen muotonsa on niinkuin hevosten muoto; ja he karkaavat niinkuin ratsasmiehet. ",
       "king_james": "The appearance of them is as the appearance of horses; and as horsemen, so shall they run."
     },
     {
       "verse": 5,
       "latin_vulgate": " Sicut sonitus quadrigarum super capita montium exilient,  sicut sonitus flammæ ignis devorantis stipulam,  velut populus fortis præparatus ad prælium. ",
       "hebrew_masoretic": "כְּק֣וֹל מַרְכָּב֗וֹת עַל־רָאשֵׁ֤י הֶהָרִים֙ יְרַקֵּד֔וּן כְּקוֹל֙ לַ֣הַב אֵ֔שׁ אֹכְלָ֖ה קָ֑שׁ כְּעַ֣ם עָצ֔וּם עֱר֖וּךְ מִלְחָמָֽה׃",
+      "douay_rheims": "They shall leap like the noise of chariots upon the tops of mountains, like the noise of a flame of fire devouring the stubble, as a strong people prepared to battle.",
+      "finnish_biblia": "He hyppäävät ylhäällä vuorten kukkuloilla niinkuin rattaat kitisevät, niinkuin liekki korsissa kihisis; niinkuin väkevä kansa, joka sotaan on hankittu. ",
       "king_james": "Like the noise of chariots on the tops of mountains shall they leap, like the noise of a flame of fire that devoureth the stubble, as a strong people set in battle array."
     },
     {
       "verse": 6,
       "latin_vulgate": " A facie ejus cruciabuntur populi ;  omnes vultus redigentur in ollam. ",
       "hebrew_masoretic": "מִפָּנָ֖יו יָחִ֣ילוּ עַמִּ֑ים כׇּל־פָּנִ֖ים קִבְּצ֥וּ פָארֽוּר׃",
+      "douay_rheims": "At their presence the people shall be in grievous pains: all faces shall be made like a kettle.",
+      "finnish_biblia": "Kansat pitää hänen edessänsä hämmästymän, että kaikki kasvot valjuksi muuttuvat. ",
       "king_james": "Before their face the people shall be much pained: all faces shall gather blackness."
     },
     {
       "verse": 7,
       "latin_vulgate": " Sicut fortes current ;  quasi viri bellatores ascendent murum :  viri in viis suis gradientur,  et non declinabunt a semitis suis. ",
       "hebrew_masoretic": "כְּגִבּוֹרִ֣ים יְרֻצ֔וּן כְּאַנְשֵׁ֥י מִלְחָמָ֖ה יַעֲל֣וּ חוֹמָ֑ה וְאִ֤ישׁ בִּדְרָכָיו֙ יֵֽלֵכ֔וּן וְלֹ֥א יְעַבְּט֖וּן אֹרְחוֹתָֽם׃",
+      "douay_rheims": "They shall run like valiant men: like men of war they shall scale the wall: the men shall march every one on his way, and they shall not turn aside from their ranks.",
+      "finnish_biblia": "He juoksevat niinkuin uljaat, ja karkaavat muurien ylitse niinkuin sotamiehet; ja kukin käy kohdastansa edes, ja ei poikkee ulos tiestänsä. ",
       "king_james": "They shall run like mighty men; they shall climb the wall like men of war; and they shall march every one on his ways, and they shall not break their ranks:"
     },
     {
       "verse": 8,
       "latin_vulgate": " Unusquisque fratrem suum non coarctabit,  singuli in calle suo ambulabunt ;  sed et per fenestras cadent, et non demolientur. ",
       "hebrew_masoretic": "וְאִ֤ישׁ אָחִיו֙ לֹ֣א יִדְחָק֔וּן גֶּ֥בֶר בִּמְסִלָּת֖וֹ יֵלֵכ֑וּן וּבְעַ֥ד הַשֶּׁ֛לַח יִפֹּ֖לוּ לֹ֥א יִבְצָֽעוּ׃",
+      "douay_rheims": "No one shall press upon his brother: they shall walk every one in his path: yea, and they shall fall through the windows, and shall take no harm.",
+      "finnish_biblia": "Ei estä kenkään kumppaniansa, vaan kukin matkustaa asetuksessansa; ja kuin he sota-aseiden välistä tunkevat sisälle, niin ei heitä haavoiteta. ",
       "king_james": "Neither shall one thrust another; they shall walk every one in his path: and when they fall upon the sword, they shall not be wounded."
     },
     {
       "verse": 9,
       "latin_vulgate": " Urbem ingredientur, in muro current,  domos conscendent, per fenestras intrabunt quasi fur. ",
       "hebrew_masoretic": "בָּעִ֣יר יָשֹׁ֗קּוּ בַּֽחוֹמָה֙ יְרֻצ֔וּן בַּבָּתִּ֖ים יַעֲל֑וּ בְּעַ֧ד הַחַלּוֹנִ֛ים יָבֹ֖אוּ כַּגַּנָּֽב׃",
+      "douay_rheims": "They shall enter into the city: they shall run upon the wall, they shall climb up the houses, they shall come in at the windows, as a thief.",
+      "finnish_biblia": "He ajelevat ympäri kaupungissa, ja muurien päällä juoksevat, ja kiipeevät huoneisiin, ja tulevat akkunoista sisälle, niinkuin varas. ",
       "king_james": "They shall run to and fro in the city; they shall run upon the wall, they shall climb up upon the houses; they shall enter in at the windows like a thief."
     },
     {
       "verse": 10,
       "latin_vulgate": " A facie ejus contremuit terra,  moti sunt cæli,  sol et luna obtenebrati sunt,  et stellæ retraxerunt splendorem suum. ",
       "hebrew_masoretic": "לְפָנָיו֙ רָ֣גְזָה אֶ֔רֶץ רָעֲשׁ֖וּ שָׁמָ֑יִם שֶׁ֤מֶשׁ וְיָרֵ֙חַ֙ קָדָ֔רוּ וְכוֹכָבִ֖ים אָסְפ֥וּ נׇגְהָֽם׃",
+      "douay_rheims": "At their presence the earth hath trembled, the heavens are moved: the sun and moon are darkened, and the stars have withdrawn their shining.",
+      "finnish_biblia": "Hänen edessänsä vapisee maa, ja taivas värisee: aurinko ja kuu pimenevät, ja tähdet peittävät valkeutensa. ",
       "king_james": "The earth shall quake before them; the heavens shall tremble: the sun and the moon shall be dark, and the stars shall withdraw their shining:"
     },
     {
       "verse": 11,
       "latin_vulgate": " Et Dominus dedit vocem suam ante faciem exercitus sui,  quia multa sunt nimis castra ejus,  quia fortia et facientia verbum ejus :  magnus enim dies Domini, et terribilis valde,  et quis sustinebit eum ? ",
       "hebrew_masoretic": "וַיהֹוָ֗ה נָתַ֤ן קוֹלוֹ֙ לִפְנֵ֣י חֵיל֔וֹ כִּ֣י רַ֤ב מְאֹד֙ מַחֲנֵ֔הוּ כִּ֥י עָצ֖וּם עֹשֵׂ֣ה דְבָר֑וֹ כִּֽי־גָד֧וֹל יוֹם־יְהֹוָ֛ה וְנוֹרָ֥א מְאֹ֖ד וּמִ֥י יְכִילֶֽנּוּ׃",
+      "douay_rheims": "And the Lord hath uttered his voice before the face of his army: for his armies are exceedingly great, for they are strong, and execute his word: for the day of the Lord is great and very terrible: and who can stand it?",
+      "finnish_biblia": "Sillä Herra on paneva jylinänsä hänen sotaväkensä edellä; sillä hänen sotaväkensä on sangen suuri ja väkevä, joka hänen käskynsä toimittaa; sillä Herran päivä on suuri ja sangen hirmuinen, kuka sitä voi kärsiä? ",
       "king_james": "And the Lord shall utter his voice before his army: for his camp is very great: for he is strong that executeth his word: for the day of the Lord is great and very terrible; and who can abide it?"
     },
     {
       "verse": 12,
       "latin_vulgate": " Nunc ergo, dicit Dominus,  convertimini ad me in toto corde vestro,  in jejunio, et in fletu, et in planctu. ",
       "hebrew_masoretic": "וְגַם־עַתָּה֙ נְאֻם־יְהֹוָ֔ה שֻׁ֥בוּ עָדַ֖י בְּכׇל־לְבַבְכֶ֑ם וּבְצ֥וֹם וּבִבְכִ֖י וּבְמִסְפֵּֽד׃",
+      "douay_rheims": "Now, therefore, saith the Lord. Be converted to me with all your heart, in fasting, and in weeping, and mourning.",
+      "finnish_biblia": "Niin sanoo nyt Herra: kääntykäät kaikesta sydämestänne minun tyköni, paastolla, itkulla ja murheella. ",
       "king_james": "Therefore also now, saith the Lord, turn ye even to me with all your heart, and with fasting, and with weeping, and with mourning:"
     },
     {
       "verse": 13,
       "latin_vulgate": " Et scindite corda vestra, et non vestimenta vestra ;  et convertimini ad Dominum Deum vestrum,  quia benignus et misericors est,  patiens et multæ misericordiæ,  et præstabilis super malitia. ",
       "hebrew_masoretic": "וְקִרְע֤וּ לְבַבְכֶם֙ וְאַל־בִּגְדֵיכֶ֔ם וְשׁ֖וּבוּ אֶל־יְהֹוָ֣ה אֱלֹהֵיכֶ֑ם כִּֽי־חַנּ֤וּן וְרַחוּם֙ ה֔וּא אֶ֤רֶךְ אַפַּ֙יִם֙ וְרַב־חֶ֔סֶד וְנִחָ֖ם עַל־הָרָעָֽה׃",
+      "douay_rheims": "And rend your hearts, and not your garments and turn to the Lord your God: for he is gracious and merciful, patient and rich in mercy, and ready to repent of the evil.",
+      "finnish_biblia": "Leikatkaat teidän sydämenne, ja älkäät teidän vaatteitanne, ja palatkaat Herran teidän Jumalanne tykö; sillä hän on armollinen ja laupias, pitkämielinen ja suuresta hyvyydestä, ja katuu rangaistusta. ",
       "king_james": "And rend your heart, and not your garments, and turn unto the Lord your God: for he is gracious and merciful, slow to anger, and of great kindness, and repenteth him of the evil."
     },
     {
       "verse": 14,
       "latin_vulgate": " Quis scit si convertatur, et ignoscat,  et relinquat post se benedictionem, sacrificium et libamen Domino Deo vestro ? ",
       "hebrew_masoretic": "מִ֥י יוֹדֵ֖עַ יָשׁ֣וּב וְנִחָ֑ם וְהִשְׁאִ֤יר אַחֲרָיו֙ בְּרָכָ֔ה מִנְחָ֣ה וָנֶ֔סֶךְ לַיהֹוָ֖ה אֱלֹהֵיכֶֽם׃ {פ}",
+      "douay_rheims": "Who knoweth but he will return, and forgive, and leave a blessing behind him, sacrifice and libation to the Lord your God?",
+      "finnish_biblia": "Kukaties hän kääntyy ja katuu, ja jättää jälkeensä siunauksen, ruokauhrin ja juomauhrin Herralle teidän Jumalallenne. ",
       "king_james": "Who knoweth if he will return and repent, and leave a blessing behind him; even a meat offering and a drink offering unto the Lord your God?"
     },
     {
       "verse": 15,
       "latin_vulgate": " Canite tuba in Sion,  sanctificate jejunium, vocate cœtum : ",
       "hebrew_masoretic": "תִּקְע֥וּ שׁוֹפָ֖ר בְּצִיּ֑וֹן קַדְּשׁוּ־צ֖וֹם קִרְא֥וּ עֲצָרָֽה׃",
+      "douay_rheims": "Blow the trumpet in Sion, sanctify a fast, call a solemn assembly,",
+      "finnish_biblia": "Soittakaat basunalla Zionissa, pyhittäkäät paasto, kutsukaat seurakunta kokoon. ",
       "king_james": "Blow the trumpet in Zion, sanctify a fast, call a solemn assembly:"
     },
     {
       "verse": 16,
       "latin_vulgate": " congregate populum, sanctificate ecclesiam,  coadunate senes, congregate parvulos, et sugentes ubera ;  egrediatur sponsus de cubili suo,  et sponsa de thalamo suo. ",
       "hebrew_masoretic": "אִסְפוּ־עָ֞ם קַדְּשׁ֤וּ קָהָל֙ קִבְצ֣וּ זְקֵנִ֔ים אִסְפוּ֙ עֽוֹלָלִ֔ים וְיֹנְקֵ֖י שָׁדָ֑יִם יֵצֵ֤א חָתָן֙ מֵֽחֶדְר֔וֹ וְכַלָּ֖ה מֵחֻפָּתָֽהּ׃",
+      "douay_rheims": "Gather together the people, sanctify the church, assemble the ancients, gather together the little ones, and them that suck at the breasts: let the bridegroom go forth from his bed, and the bride out of her bridal chamber.",
+      "finnish_biblia": "Kootkaat kansa, pyhittäkäät kokous, kutsukaat yhteen vanhimmat, saattakaat yhteen nuorukaiset ja imeväiset; ylkä lähtekään kammiostansa, ja morsian makaushuoneestansa. ",
       "king_james": "Gather the people, sanctify the congregation, assemble the elders, gather the children, and those that suck the breasts: let the bridegroom go forth of his chamber, and the bride out of her closet."
     },
     {
       "verse": 17,
       "latin_vulgate": " Inter vestibulum et altare plorabunt sacerdotes, ministri Domini,  et dicent : Parce, Domine, parce populo tuo ;  et ne des hæreditatem tuam in opprobrium,  ut dominentur eis nationes.  Quare dicunt in populis : Ubi est Deus eorum ? ",
       "hebrew_masoretic": "בֵּ֤ין הָאוּלָם֙ וְלַמִּזְבֵּ֔חַ יִבְכּוּ֙ הַכֹּ֣הֲנִ֔ים מְשָׁרְתֵ֖י יְהֹוָ֑ה וְֽיֹאמְר֞וּ ח֧וּסָה יְהֹוָ֣ה עַל־עַמֶּ֗ךָ וְאַל־תִּתֵּ֨ן נַחֲלָתְךָ֤ לְחֶרְפָּה֙ לִמְשׇׁל־בָּ֣ם גּוֹיִ֔ם לָ֚מָּה יֹאמְר֣וּ בָעַמִּ֔ים אַיֵּ֖ה אֱלֹהֵיהֶֽם׃",
+      "douay_rheims": "Between the porch and the altar the priests, the Lord's ministers, shall weep, and shall say: Spare, O Lord, spare thy people: and give not thy inheritance to reproach, that the heathens should rule over them. Why should they say among the nations: Where is their God?",
+      "finnish_biblia": "Papit, Herran palveliat, itkekään esihuoneen ja alttarin välillä, ja sanokaan: armahda, Herra, sinun kansaas, ja älä laske sinun perikuntaas pilkkaan, niin ettei pakanat saisi valtaa heidän päällensä! miksi pitäis sanottaman kansain seassa: kussa on nyt heidän Jumalansa? ",
       "king_james": "Let the priests, the ministers of the Lord, weep between the porch and the altar, and let them say, Spare thy people, O Lord, and give not thine heritage to reproach, that the heathen should rule over them: wherefore should they say among the people, Where is their God?"
     },
     {
       "verse": 18,
       "latin_vulgate": " Zelatus est Dominus terram suam,  et pepercit populo suo. ",
       "hebrew_masoretic": "וַיְקַנֵּ֥א יְהֹוָ֖ה לְאַרְצ֑וֹ וַיַּחְמֹ֖ל עַל־עַמּֽוֹ׃",
+      "douay_rheims": "The Lord hath been zealous for his land, and hath spared his people.",
+      "finnish_biblia": "Niin Herralla on kiivaus maastansa; ja hän armahtaa kansaansa. ",
       "king_james": "Then will the Lord be jealous for his land, and pity his people."
     },
     {
       "verse": 19,
       "latin_vulgate": " Et respondit Dominus, et dixit populo suo :  Ecce ego mittam vobis frumentum, et vinum, et oleum,  et replebimini eis ;  et non dabo vos ultra opprobrium in gentibus. ",
       "hebrew_masoretic": "וַיַּ֨עַן יְהֹוָ֜ה וַיֹּ֣אמֶר לְעַמּ֗וֹ הִנְנִ֨י שֹׁלֵ֤חַ לָכֶם֙ אֶת־הַדָּגָן֙ וְהַתִּיר֣וֹשׁ וְהַיִּצְהָ֔ר וּשְׂבַעְתֶּ֖ם אֹת֑וֹ וְלֹא־אֶתֵּ֨ן אֶתְכֶ֥ם ע֛וֹד חֶרְפָּ֖ה בַּגּוֹיִֽם׃",
+      "douay_rheims": "And the Lord answered, and said to his people: Behold I will send you corn, and wine, and oil, and you shall be filled with them: and I will no more make you a reproach among the nations.",
+      "finnish_biblia": "Ja Herra vastaa ja sanoo kansallensa: katso, minä lähetin teille jyviä, viinaa ja öljyä, että teillä piti niistä kyllä oleman; ja en salli teitä enään häpiään tulla pakanain sekaan. ",
       "king_james": "Yea, the Lord will answer and say unto his people, Behold, I will send you corn, and wine, and oil, and ye shall be satisfied therewith: and I will no more make you a reproach among the heathen:"
     },
     {
       "verse": 20,
       "latin_vulgate": " Et eum qui ab aquilone est procul faciam a vobis,  et expellam eum in terram inviam et desertam :  faciem ejus contra mare orientale,  et extremum ejus ad mare novissimum :  et ascendet fœtor ejus,  et ascendet putredo ejus,  quia superbe egit. ",
       "hebrew_masoretic": "וְֽאֶת־הַצְּפוֹנִ֞י אַרְחִ֣יק מֵעֲלֵיכֶ֗ם וְהִדַּחְתִּיו֮ אֶל־אֶ֣רֶץ צִיָּ֣ה וּשְׁמָמָה֒ אֶת־פָּנָ֗יו אֶל־הַיָּם֙ הַקַּדְמֹנִ֔י וְסֹפ֖וֹ אֶל־הַיָּ֣ם הָאַחֲר֑וֹן וְעָלָ֣ה בׇאְשׁ֗וֹ וְתַ֙עַל֙ צַחֲנָת֔וֹ כִּ֥י הִגְדִּ֖יל לַעֲשֽׂוֹת׃",
+      "douay_rheims": "And I will remove far off from you the northern enemy: and I will drive him into a land unpassable, and desert, with his face towards the east sea, and his hinder part towards the utmost sea: and his stench shall ascend, and his rottenness shall go up, because he hath done proudly.",
+      "finnish_biblia": "Ja tahdon sen, joka pohjoisesta tullut on, teiltä kauvas saattaa, ja ajaa hänen pois korkiaan ja hävitettyyn maahan, hänen kasvonsa itäistä merta päin, ja hänen loppunsa äärimäisen meren puoleen; ja hänen pitää mätänemän ja haiseman; sillä hän on suuria tehnyt. ",
       "king_james": "But I will remove far off from you the northern army, and will drive him into a land barren and desolate, with his face toward the east sea, and his hinder part toward the utmost sea, and his stink shall come up, and his ill savour shall come up, because he hath done great things."
     },
     {
       "verse": 21,
       "latin_vulgate": " Noli timere, terra :  exsulta, et lætare,  quoniam magnificavit Dominus ut faceret. ",
       "hebrew_masoretic": "אַל־תִּֽירְאִ֖י אֲדָמָ֑ה גִּ֣ילִי וּשְׂמָ֔חִי כִּֽי־הִגְדִּ֥יל יְהֹוָ֖ה לַעֲשֽׂוֹת׃",
+      "douay_rheims": "Fear not, O land, be glad, and rejoice: for the Lord hath done great things.",
+      "finnish_biblia": "Älä pelkää, sinä maa, vaan iloise ja riemuitse; sillä Herra taitaa myös suuria tehdä. ",
       "king_james": "Fear not, O land; be glad and rejoice: for the Lord will do great things."
     },
     {
       "verse": 22,
       "latin_vulgate": " Nolite timere, animalia regionis,  quia germinaverunt speciosa deserti ;  quia lignum attulit fructum suum,  ficus et vinea dederunt virtutem suam. ",
       "hebrew_masoretic": "אַל־תִּֽירְאוּ֙ בַּהֲמ֣וֹת שָׂדַ֔י כִּ֥י דָשְׁא֖וּ נְא֣וֹת מִדְבָּ֑ר כִּי־עֵץ֙ נָשָׂ֣א פִרְי֔וֹ תְּאֵנָ֥ה וָגֶ֖פֶן נָתְנ֥וּ חֵילָֽם׃",
+      "douay_rheims": "Fear not, ye beasts of the fields: for the beautiful places of the wilderness are sprung, for the tree hath brought forth its fruit, the fig tree, and the vine have yielded their strength.",
+      "finnish_biblia": "Älkäät peljätkö, te pedot kedolla; sillä laitumet korvessa pitää viheriöitsemän, ja puut hedelmänsä kantaman, fikunapuut ja viinapuut kyllä hedelmöitsemän. ",
       "king_james": "Be not afraid, ye beasts of the field: for the pastures of the wilderness do spring, for the tree beareth her fruit, the fig tree and the vine do yield their strength."
     },
     {
       "verse": 23,
       "latin_vulgate": " Et, filii Sion, exsultate,  et lætamini in Domino Deo vestro,  quia dedit vobis doctorem justitiæ,  et descendere faciet ad vos imbrem matutinum et serotinum,  sicut in principio. ",
       "hebrew_masoretic": "וּבְנֵ֣י צִיּ֗וֹן גִּ֤ילוּ וְשִׂמְחוּ֙ בַּיהֹוָ֣ה אֱלֹהֵיכֶ֔ם כִּֽי־נָתַ֥ן לָכֶ֛ם אֶת־הַמּוֹרֶ֖ה לִצְדָקָ֑ה וַיּ֣וֹרֶד לָכֶ֗ם גֶּ֛שֶׁם מוֹרֶ֥ה וּמַלְק֖וֹשׁ בָּרִאשֽׁוֹן׃",
+      "douay_rheims": "And you, O children of Sion, rejoice, and be joyful in the Lord your God: because he hath given you a teacher of justice, and he will make the early and the latter rain to come down to you as in the beginning.",
+      "finnish_biblia": "Ja te, Zionin lapset, iloitkaat ja riemuitkaat Herrassa teidän Jumalassanne, joka teille antaa vanhurskauden opettajan, ja laskee alas teille aamu- ja ehtoosateen niinkuin ennenkin; ",
       "king_james": "Be glad then, ye children of Zion, and rejoice in the Lord your God: for he hath given you the former rain moderately, and he will cause to come down for you the rain, the former rain, and the latter rain in the first month."
     },
     {
       "verse": 24,
       "latin_vulgate": " Et implebuntur areæ frumento,  et redundabunt torcularia vino et oleo. ",
       "hebrew_masoretic": "וּמָלְא֥וּ הַגֳּרָנ֖וֹת בָּ֑ר וְהֵשִׁ֥יקוּ הַיְקָבִ֖ים תִּיר֥וֹשׁ וְיִצְהָֽר׃",
+      "douay_rheims": "And the floors shall be filled with wheat, and the presses shall overflow with wine, and oil.",
+      "finnish_biblia": "Että aitat jyviä täynnä olisivat, ja kuurnat nuoresta viinasta ja öljystä ylitse vuotaisivat. ",
       "king_james": "And the floors shall be full of wheat, and the fats shall overflow with wine and oil."
     },
     {
       "verse": 25,
       "latin_vulgate": " Et reddam vobis annos, quos comedit locusta,  bruchus, et rubigo, et eruca :  fortitudo mea magna quam misi in vos. ",
       "hebrew_masoretic": "וְשִׁלַּמְתִּ֤י לָכֶם֙ אֶת־הַשָּׁנִ֔ים אֲשֶׁר֙ אָכַ֣ל הָאַרְבֶּ֔ה הַיֶּ֖לֶק וְהֶחָסִ֣יל וְהַגָּזָ֑ם חֵילִי֙ הַגָּד֔וֹל אֲשֶׁ֥ר שִׁלַּ֖חְתִּי בָּכֶֽם׃",
+      "douay_rheims": "And I will restore to you the years which the locust, and the bruchus, and the mildew, and the palmerworm hath eaten; my great host which I sent upon you.",
+      "finnish_biblia": "Ja minä saatan teille jälleen ne vuodet, jotka heinäsirkka, lehtimato, jyvämato ja ruohomato söi; se minun suuri sotaväkeni, jonka minä teidän sekaanne lähetin; ",
       "king_james": "And I will restore to you the years that the locust hath eaten, the cankerworm, and the caterpiller, and the palmerworm, my great army which I sent among you."
     },
     {
       "verse": 26,
       "latin_vulgate": " Et comedetis vescentes, et saturabimini ;  et laudabitis nomen Domini Dei vestri,  qui fecit mirabilia vobiscum ;  et non confundetur populus meus in sempiternum. ",
       "hebrew_masoretic": "וַאֲכַלְתֶּ֤ם אָכוֹל֙ וְשָׂב֔וֹעַ וְהִלַּלְתֶּ֗ם אֶת־שֵׁ֤ם יְהֹוָה֙ אֱלֹ֣הֵיכֶ֔ם אֲשֶׁר־עָשָׂ֥ה עִמָּכֶ֖ם לְהַפְלִ֑יא וְלֹא־יֵבֹ֥שׁוּ עַמִּ֖י לְעוֹלָֽם׃",
+      "douay_rheims": "And you shall eat in plenty, and shall be filled and you shall praise the name of the Lord your God; who hath done wonders with you, and my people shall not be confounded for ever.",
+      "finnish_biblia": "Että teidän pitää kyllä syömän ja ravituksi tuleman, ja ylistämän Herran teidän Jumalanne nimeä, joka teidän seassanne on ihmeitä tehnyt; ja ei minun kansani pidä ikänä häpiään tuleman. ",
       "king_james": "And ye shall eat in plenty, and be satisfied, and praise the name of the Lord your God, that hath dealt wondrously with you: and my people shall never be ashamed."
     },
     {
       "verse": 27,
       "latin_vulgate": " Et scietis quia in medio Israël ego sum,  et ego Dominus Deus vester, et non est amplius ;  et non confundetur populus meus in æternum. ",
       "hebrew_masoretic": "וִידַעְתֶּ֗ם כִּ֣י בְקֶ֤רֶב יִשְׂרָאֵל֙ אָ֔נִי וַאֲנִ֛י יְהֹוָ֥ה אֱלֹהֵיכֶ֖ם וְאֵ֣ין ע֑וֹד וְלֹא־יֵבֹ֥שׁוּ עַמִּ֖י לְעוֹלָֽם׃ {פ}",
+      "douay_rheims": "And you shall know that I am in the midst of Israel: and I am the Lord your God, and there is none besides: and my people shall not be confounded forever.",
+      "finnish_biblia": "Ja teidän pitää ymmärtämän, että minä olen Israelin keskellä, ja että minä olen Herra teidän Jumalanne ja ei kenkään muu; eikä minun kansani pidä ikänä häpiään tuleman. ",
       "king_james": "And ye shall know that I am in the midst of Israel, and that I am the Lord your God, and none else: and my people shall never be ashamed."
     },
     {
       "verse": 28,
       "latin_vulgate": " Et erit post hæc :  effundam spiritum meum super omnem carnem,  et prophetabunt filii vestri et filiæ vestræ :  senes vestri somnia somniabunt,  et juvenes vestri visiones videbunt. ",
       "hebrew_masoretic": "וְהָיָ֣ה אַחֲרֵי־כֵ֗ן אֶשְׁפּ֤וֹךְ אֶת־רוּחִי֙ עַל־כׇּל־בָּשָׂ֔ר וְנִבְּא֖וּ בְּנֵיכֶ֣ם וּבְנוֹתֵיכֶ֑ם זִקְנֵיכֶם֙ חֲלֹמ֣וֹת יַחֲלֹמ֔וּן בַּח֣וּרֵיכֶ֔ם חֶזְיֹנ֖וֹת יִרְאֽוּ׃",
+      "douay_rheims": "And it shall come to pass after this, that I will pour out my spirit upon all flesh: and your sons and your daughters shall prophesy: your old men shall dream dreams, and your young men shall see visions.",
+      "finnish_biblia": "Ja sitte pitää tapahtuman, että minä tahdon vuodattaa minun Henkeni kaiken lihan päälle; ja teidän poikanne ja tyttärenne pitää ennustaman, teidän vanhimpanne pitää unia uneksuman, ja teidän nuorukaisenne pitää näkyjä näkemän. ",
       "king_james": "And it shall come to pass afterward, that I will pour out my spirit upon all flesh; and your sons and your daughters shall prophesy, your old men shall dream dreams, your young men shall see visions:",
       "refs": {
         "hebrew_masoretic": {
@@ -182,6 +240,8 @@
       "verse": 29,
       "latin_vulgate": " Sed et super servos meos et ancillas  in diebus illis effundam spiritum meum. ",
       "hebrew_masoretic": "וְגַ֥ם עַל־הָעֲבָדִ֖ים וְעַל־הַשְּׁפָח֑וֹת בַּיָּמִ֣ים הָהֵ֔מָּה אֶשְׁפּ֖וֹךְ אֶת־רוּחִֽי׃",
+      "douay_rheims": "Moreover, upon my servants and handmaids in those days I will pour forth my spirit.",
+      "finnish_biblia": "Ja myös niinä päivinä tahdon minä palveliain ja piikain päälle vuodattaa minun Henkeni. ",
       "king_james": "And also upon the servants and upon the handmaids in those days will I pour out my spirit.",
       "refs": {
         "hebrew_masoretic": {
@@ -193,6 +253,8 @@
       "verse": 30,
       "latin_vulgate": " Et dabo prodigia in cælo et in terra,  sanguinem, et ignem, et vaporem fumi. ",
       "hebrew_masoretic": "וְנָֽתַתִּי֙ מֽוֹפְתִ֔ים בַּשָּׁמַ֖יִם וּבָאָ֑רֶץ דָּ֣ם וָאֵ֔שׁ וְתִֽימְר֖וֹת עָשָֽׁן׃",
+      "douay_rheims": "And I will shew wonders in heaven; and in earth, blood, and fire, and vapour of smoke.",
+      "finnish_biblia": "Ja tahdon antaa tapahtua tunnustähdet taivaassa ja maassa, veren, tulen ja savun suitsun. ",
       "king_james": "And I will shew wonders in the heavens and in the earth, blood, and fire, and pillars of smoke.",
       "refs": {
         "hebrew_masoretic": {
@@ -204,6 +266,8 @@
       "verse": 31,
       "latin_vulgate": " Sol convertetur in tenebras,  et luna in sanguinem,  antequam veniat dies Domini magnus et horribilis. ",
       "hebrew_masoretic": "הַשֶּׁ֙מֶשׁ֙ יֵהָפֵ֣ךְ לְחֹ֔שֶׁךְ וְהַיָּרֵ֖חַ לְדָ֑ם לִפְנֵ֗י בּ֚וֹא י֣וֹם יְהֹוָ֔ה הַגָּד֖וֹל וְהַנּוֹרָֽא׃",
+      "douay_rheims": "The sun shall be turned into darkness, and the moon into blood: before the great and dreadful day of the Lord doth come.",
+      "finnish_biblia": "Auringon pitää muuttuman pimiäksi, ja kuun vereksi; ennenkuin se suuri ja hirmuinen Herran päivä tulee. ",
       "king_james": "The sun shall be turned into darkness, and the moon into blood, before the great and the terrible day of the Lord come.",
       "refs": {
         "hebrew_masoretic": {
@@ -215,6 +279,8 @@
       "verse": 32,
       "latin_vulgate": " Et erit : omnis qui invocaverit nomen Domini, salvus erit :  quia in monte Sion et in Jerusalem  erit salvatio, sicut dixit Dominus,  et in residuis quos Dominus vocaverit.  ",
       "hebrew_masoretic": "וְהָיָ֗ה כֹּ֧ל אֲשֶׁר־יִקְרָ֛א בְּשֵׁ֥ם יְהֹוָ֖ה יִמָּלֵ֑ט כִּ֠י בְּהַר־צִיּ֨וֹן וּבִירוּשָׁלַ֜͏ִם תִּהְיֶ֣ה פְלֵיטָ֗ה כַּֽאֲשֶׁר֙ אָמַ֣ר יְהֹוָ֔ה וּבַ֨שְּׂרִידִ֔ים אֲשֶׁ֥ר יְהֹוָ֖ה קֹרֵֽא׃",
+      "douay_rheims": "And it shall come to pass, that every one that shall call upon the name of the Lord, shall be saved: for in Mount Sion, and in Jerusalem shall be salvation, as the Lord hath said, and in the residue whom the Lord shall call. ",
+      "finnish_biblia": "Ja on tapahtuva, että jokainen, joka Herran nimeä avuksensa huutaa, se tulee autuaaksi; sillä Zionin vuorella ja Jerusalemissa on vapaus oleva, niinkuin Herra on luvannut, ja jääneiden tykönä, jotka Herra kutsuva on.   ",
       "king_james": "And it shall come to pass, that whosoever shall call on the name of the Lord shall be delivered: for in mount Zion and in Jerusalem shall be deliverance, as the Lord hath said, and in the remnant whom the Lord shall call. ",
       "refs": {
         "hebrew_masoretic": {

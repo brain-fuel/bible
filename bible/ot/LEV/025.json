@@ -2,6 +2,8 @@
   "book_id": "LEV",
   "latin_name": "Leviticus",
   "hebrew_name": "וַיִּקְרָא",
+  "douay_name": "Leviticus",
+  "finnish_name": "3. Mooseksen kirja",
   "english_name": "Leviticus",
   "chapter": 25,
   "verses": [
@@ -9,330 +11,440 @@
       "verse": 1,
       "latin_vulgate": "Locutusque est Dominus ad Moysen in monte Sinai, dicens : ",
       "hebrew_masoretic": "וַיְדַבֵּ֤ר יְהֹוָה֙ אֶל־מֹשֶׁ֔ה בְּהַ֥ר סִינַ֖י לֵאמֹֽר׃",
+      "douay_rheims": "And the Lord spoke to Moses in mount Sinai, saying:",
+      "finnish_biblia": "Ja Herra puhui Mosekselle Sinain vuorella, sanoen: ",
       "king_james": "And the Lord spake unto Moses in mount Sinai, saying,"
     },
     {
       "verse": 2,
       "latin_vulgate": "Loquere filiis Israël, et dices ad eos : Quando ingressi fueritis terram quam ego dabo vobis, sabbatizes sabbatum Domino. ",
       "hebrew_masoretic": "דַּבֵּ֞ר אֶל־בְּנֵ֤י יִשְׂרָאֵל֙ וְאָמַרְתָּ֣ אֲלֵהֶ֔ם כִּ֤י תָבֹ֙אוּ֙ אֶל־הָאָ֔רֶץ אֲשֶׁ֥ר אֲנִ֖י נֹתֵ֣ן לָכֶ֑ם וְשָׁבְתָ֣ה הָאָ֔רֶץ שַׁבָּ֖ת לַיהֹוָֽה׃",
+      "douay_rheims": "Speak to the children of Israel, and thou shalt say to them: When you shall have entered into the land which I will give you, observe the rest of the sabbath of the Lord.",
+      "finnish_biblia": "Puhu Israelin lapsille ja sano heille: koska te tulette siihen maahan, jonka minä teille annan, niin maan pitää pitämän Herralle lepoa. ",
       "king_james": "Speak unto the children of Israel, and say unto them, When ye come into the land which I give you, then shall the land keep a sabbath unto the Lord."
     },
     {
       "verse": 3,
       "latin_vulgate": "Sex annis seres agrum tuum, et sex annis putabis vineam tuam, colligesque fructus ejus : ",
       "hebrew_masoretic": "שֵׁ֤שׁ שָׁנִים֙ תִּזְרַ֣ע שָׂדֶ֔ךָ וְשֵׁ֥שׁ שָׁנִ֖ים תִּזְמֹ֣ר כַּרְמֶ֑ךָ וְאָסַפְתָּ֖ אֶת־תְּבוּאָתָֽהּ׃",
+      "douay_rheims": "Six years thou shalt sow thy field and six years thou shalt prune thy vineyard, and shalt gather the fruits thereof.",
+      "finnish_biblia": "Kuusi vuotta pitää sinun peltos kylvämän, ja kuusi vuotta viinamäkes leikkaaman, ja sen hedelmät kokooman; ",
       "king_james": "Six years thou shalt sow thy field, and six years thou shalt prune thy vineyard, and gather in the fruit thereof;"
     },
     {
       "verse": 4,
       "latin_vulgate": "septimo autem anno sabbatum erit terræ, requietionis Domini : agrum non seres, et vineam non putabis. ",
       "hebrew_masoretic": "וּבַשָּׁנָ֣ה הַשְּׁבִיעִ֗ת שַׁבַּ֤ת שַׁבָּתוֹן֙ יִהְיֶ֣ה לָאָ֔רֶץ שַׁבָּ֖ת לַיהֹוָ֑ה שָֽׂדְךָ֙ לֹ֣א תִזְרָ֔ע וְכַרְמְךָ֖ לֹ֥א תִזְמֹֽר׃",
+      "douay_rheims": "But in the seventh year there shall be a sabbath to the land, of the resting of the Lord. Thou shalt not sow thy field, nor prune thy vineyard.",
+      "finnish_biblia": "Mutta seitsemäntenä vuonna pitää maan pitämän Herralle suuren pyhän, jona ei sinun pidä kylvämän sinun peltoas taikka leikkaaman sinun viinamäkeäs. ",
       "king_james": "But in the seventh year shall be a sabbath of rest unto the land, a sabbath for the Lord: thou shalt neither sow thy field, nor prune thy vineyard."
     },
     {
       "verse": 5,
       "latin_vulgate": "Quæ sponte gignet humus, non metes : et uvas primitiarum tuarum non colliges quasi vindemiam : annus enim requietionis terræ est : ",
       "hebrew_masoretic": "אֵ֣ת סְפִ֤יחַ קְצִֽירְךָ֙ לֹ֣א תִקְצ֔וֹר וְאֶת־עִנְּבֵ֥י נְזִירֶ֖ךָ לֹ֣א תִבְצֹ֑ר שְׁנַ֥ת שַׁבָּת֖וֹן יִהְיֶ֥ה לָאָֽרֶץ׃",
+      "douay_rheims": "What the ground shall bring forth of itself, thou shalt not reap: neither shalt thou gather the grapes or the firstfruits as a vintage. For it is a year of rest to the land.",
+      "finnish_biblia": "Ja mitä itsestänsä kasvaa laihostas, ei sinun pidä leikkaaman, ja viinamarjoja, jotka ilman sinun työtäs ovat kasvaneet, ei sinun pidä noukkiman; sillä se on maan lepovuosi. ",
       "king_james": "That which groweth of its own accord of thy harvest thou shalt not reap, neither gather the grapes of thy vine undressed: for it is a year of rest unto the land."
     },
     {
       "verse": 6,
       "latin_vulgate": "sed erunt vobis in cibum, tibi et servo tuo, ancillæ et mercenario tuo, et advenæ qui peregrinantur apud te : ",
       "hebrew_masoretic": "וְ֠הָיְתָ֠ה שַׁבַּ֨ת הָאָ֤רֶץ לָכֶם֙ לְאׇכְלָ֔ה לְךָ֖ וּלְעַבְדְּךָ֣ וְלַאֲמָתֶ֑ךָ וְלִשְׂכִֽירְךָ֙ וּלְתוֹשָׁ֣בְךָ֔ הַגָּרִ֖ים עִמָּֽךְ׃",
+      "douay_rheims": "But they shall be unto you for meat, to thee and to thy manservant, to thy maidservant and thy hireling, and to the strangers that sojourn with thee.",
+      "finnish_biblia": "Mutta maan lepoa sinun pitää sentähdn pitämän, että sinun pitää siitä syömän, sinun palvelias ja piikas, niin myös päivämiehes, huonekuntaises, ja muukalaiset sinun tykönäs. ",
       "king_james": "And the sabbath of the land shall be meat for you; for thee, and for thy servant, and for thy maid, and for thy hired servant, and for thy stranger that sojourneth with thee,"
     },
     {
       "verse": 7,
       "latin_vulgate": "jumentis tuis et pecoribus, omnia quæ nascuntur præbebunt cibum.  ",
       "hebrew_masoretic": "וְלִ֨בְהֶמְתְּךָ֔ וְלַֽחַיָּ֖ה אֲשֶׁ֣ר בְּאַרְצֶ֑ךָ תִּהְיֶ֥ה כׇל־תְּבוּאָתָ֖הּ לֶאֱכֹֽל׃ {ס}",
+      "douay_rheims": "All things that grow shall be meat to thy beasts and to thy cattle.",
+      "finnish_biblia": "Ja sinun karjalles ja eläimilles sinun maallas kaikki, mitä siinä kasvaa, pitää oleman ruaksi. ",
       "king_james": "And for thy cattle, and for the beast that are in thy land, shall all the increase thereof be meat."
     },
     {
       "verse": 8,
       "latin_vulgate": " Numerabis quoque tibi septem hebdomadas annorum, id est, septies septem, quæ simul faciunt annos quadraginta novem : ",
       "hebrew_masoretic": "וְסָפַרְתָּ֣ לְךָ֗ שֶׁ֚בַע שַׁבְּתֹ֣ת שָׁנִ֔ים שֶׁ֥בַע שָׁנִ֖ים שֶׁ֣בַע פְּעָמִ֑ים וְהָי֣וּ לְךָ֗ יְמֵי֙ שֶׁ֚בַע שַׁבְּתֹ֣ת הַשָּׁנִ֔ים תֵּ֥שַׁע וְאַרְבָּעִ֖ים שָׁנָֽה׃",
+      "douay_rheims": "Thou shalt also number to thee seven weeks of years: that is to say, seven times seven, which together make forty-nine years.",
+      "finnish_biblia": "Ja sinun pitää lukeman sinulles seitsemän lepovuotta, niin että seitsemän vuotta pitää seitsemän kertaa luettaman: ja ne seitsemän lepovuoden aikaa tekee yhdeksän vuotta viidettäkymmentä. ",
       "king_james": "And thou shalt number seven sabbaths of years unto thee, seven times seven years; and the space of the seven sabbaths of years shall be unto thee forty and nine years."
     },
     {
       "verse": 9,
       "latin_vulgate": "et clanges buccina mense septimo, decima die mensis, propitiationis tempore, in universa terra vestra. ",
       "hebrew_masoretic": "וְהַֽעֲבַרְתָּ֞ שׁוֹפַ֤ר תְּרוּעָה֙ בַּחֹ֣דֶשׁ הַשְּׁבִעִ֔י בֶּעָשׂ֖וֹר לַחֹ֑דֶשׁ בְּיוֹם֙ הַכִּפֻּרִ֔ים תַּעֲבִ֥ירוּ שׁוֹפָ֖ר בְּכׇל־אַרְצְכֶֽם׃",
+      "douay_rheims": "And thou shalt sound the trumpet in the seventh month, the tenth day of the month, in the time of the expiation in all your land.",
+      "finnish_biblia": "Niin sinun pitää antaman soittaa basunalla ylitse koko teidän maakuntanne, kymmenentenä päivänä seitsemäntenä kuukautena: juuri sovintopäivänä pitää teidän antaman basunan käydä yli koko teidän maakuntanne. ",
       "king_james": "Then shalt thou cause the trumpet of the jubile to sound on the tenth day of the seventh month, in the day of atonement shall ye make the trumpet sound throughout all your land."
     },
     {
       "verse": 10,
       "latin_vulgate": "Sanctificabisque annum quinquagesimum, et vocabis remissionem cunctis habitatoribus terræ tuæ : ipse est enim jubilæus. Revertetur homo ad possessionem suam, et unusquisque rediet ad familiam pristinam : ",
       "hebrew_masoretic": "וְקִדַּשְׁתֶּ֗ם אֵ֣ת שְׁנַ֤ת הַחֲמִשִּׁים֙ שָׁנָ֔ה וּקְרָאתֶ֥ם דְּר֛וֹר בָּאָ֖רֶץ לְכׇל־יֹשְׁבֶ֑יהָ יוֹבֵ֥ל הִוא֙ תִּהְיֶ֣ה לָכֶ֔ם וְשַׁבְתֶּ֗ם אִ֚ישׁ אֶל־אֲחֻזָּת֔וֹ וְאִ֥ישׁ אֶל־מִשְׁפַּחְתּ֖וֹ תָּשֻֽׁבוּ׃",
+      "douay_rheims": "And thou shalt sanctify the fiftieth year, and shalt proclaim remission to all the inhabitants of thy land: for it is the year of jubilee. Every man shall return to his possession, and every one shall go back to his former family:",
+      "finnish_biblia": "Ja teidän pitää sen viidennenkymmenennen vuoden pyhittämän, ja pitää kuuluttaman vapauden maassa kaikille niille, jotka siinä asuvat; sillä se on teidän riemuvuotenne: silloin pitää itsekunkin pääsemän jälleen omaan saamaansa, itsekukin omaan sukuunsa. ",
       "king_james": "And ye shall hallow the fiftieth year, and proclaim liberty throughout all the land unto all the inhabitants thereof: it shall be a jubile unto you; and ye shall return every man unto his possession, and ye shall return every man unto his family."
     },
     {
       "verse": 11,
       "latin_vulgate": "quia jubilæus est, et quinquagesimus annus. Non seretis neque metetis sponte in agro nascentia, et primitias vindemiæ non colligetis, ",
       "hebrew_masoretic": "יוֹבֵ֣ל הִ֗וא שְׁנַ֛ת הַחֲמִשִּׁ֥ים שָׁנָ֖ה תִּהְיֶ֣ה לָכֶ֑ם לֹ֣א תִזְרָ֔עוּ וְלֹ֤א תִקְצְרוּ֙ אֶת־סְפִיחֶ֔יהָ וְלֹ֥א תִבְצְר֖וּ אֶת־נְזִרֶֽיהָ׃",
+      "douay_rheims": "Because it is the jubilee and the fiftieth year. You shall not sow, nor reap the things that grow in the field of their own accord, neither shall you gather the firstfruits of the vines,",
+      "finnish_biblia": "Sillä viideskymmenes vuosi on teidän riemuvuotenne: ei teidän pidä kylvämän, eikä leikkaaman itsestänsä kasvanutta, eikä myös hakeman niitä, mitkä ilman työtä kasvaneet ovat. ",
       "king_james": "A jubile shall that fiftieth year be unto you: ye shall not sow, neither reap that which groweth of itself in it, nor gather the grapes in it of thy vine undressed."
     },
     {
       "verse": 12,
       "latin_vulgate": "ob sanctificationem jubilæi : sed statim oblata comedetis.  ",
       "hebrew_masoretic": "כִּ֚י יוֹבֵ֣ל הִ֔וא קֹ֖דֶשׁ תִּהְיֶ֣ה לָכֶ֑ם מִ֨ן־הַשָּׂדֶ֔ה תֹּאכְל֖וּ אֶת־תְּבוּאָתָֽהּ׃",
+      "douay_rheims": "Because of the sanctification of the jubilee. But as they grow you shall presently eat them.",
+      "finnish_biblia": "Sillä se on riemuvuosi, se pitää pyhitettämän teiltä. Mutta teidän pitää syömän niitä kaikkia, mitä maa kantaa. ",
       "king_james": "For it is the jubile; it shall be holy unto you: ye shall eat the increase thereof out of the field."
     },
     {
       "verse": 13,
       "latin_vulgate": " Anno jubilæi, redient omnes ad possessiones suas. ",
       "hebrew_masoretic": "בִּשְׁנַ֥ת הַיּוֹבֵ֖ל הַזֹּ֑את תָּשֻׁ֕בוּ אִ֖ישׁ אֶל־אֲחֻזָּתֽוֹ׃",
+      "douay_rheims": "In the year of the jubilee all shall return to their possessions.",
+      "finnish_biblia": "Tämä on riemuvuosi, jona itsekunkin teistä pitää omaan saamaansa pääsemän jällensä. ",
       "king_james": "In the year of this jubile ye shall return every man unto his possession."
     },
     {
       "verse": 14,
       "latin_vulgate": "Quando vendes quippiam civi tuo, vel emes ab eo, ne contristes fratrem tuum, sed juxta numerum annorum jubilæi emes ab eo, ",
       "hebrew_masoretic": "וְכִֽי־תִמְכְּר֤וּ מִמְכָּר֙ לַעֲמִיתֶ֔ךָ א֥וֹ קָנֹ֖ה מִיַּ֣ד עֲמִיתֶ֑ךָ אַל־תּוֹנ֖וּ אִ֥ישׁ אֶת־אָחִֽיו׃",
+      "douay_rheims": "When thou shalt sell any thing to thy neighbour, or shalt buy of him: grieve not thy brother. But thou shalt buy of him according to the number of years from the jubilee.",
+      "finnish_biblia": "Jos sinä jotakin myyt lähimmäiselles, taikka ostat jotakin häneltä, niin ei yhdenkään pidä pettämän veljeänsä. ",
       "king_james": "And if thou sell ought unto thy neighbour, or buyest ought of thy neighbour’s hand, ye shall not oppress one another:"
     },
     {
       "verse": 15,
       "latin_vulgate": "et juxta supputationem frugum vendet tibi. ",
       "hebrew_masoretic": "בְּמִסְפַּ֤ר שָׁנִים֙ אַחַ֣ר הַיּוֹבֵ֔ל תִּקְנֶ֖ה מֵאֵ֣ת עֲמִיתֶ֑ךָ בְּמִסְפַּ֥ר שְׁנֵֽי־תְבוּאֹ֖ת יִמְכׇּר־לָֽךְ׃",
+      "douay_rheims": "And he shall sell to thee according to the computation of the fruits.",
+      "finnish_biblia": "Vaan riemuvuoden luvun jälkeen pitää sinun ostaman lähimmäiseltäs, ja vuoden tulon jälkeen pitää hänen sinulle myymän. ",
       "king_james": "According to the number of years after the jubile thou shalt buy of thy neighbour, and according unto the number of years of the fruits he shall sell unto thee:"
     },
     {
       "verse": 16,
       "latin_vulgate": "Quanto plures anni remanserint post jubilæum, tanto crescet et pretium : et quanto minus temporis numeraveris, tanto minoris et emptio constabit : tempus enim frugum vendet tibi. ",
       "hebrew_masoretic": "לְפִ֣י ׀ רֹ֣ב הַשָּׁנִ֗ים תַּרְבֶּה֙ מִקְנָת֔וֹ וּלְפִי֙ מְעֹ֣ט הַשָּׁנִ֔ים תַּמְעִ֖יט מִקְנָת֑וֹ כִּ֚י מִסְפַּ֣ר תְּבוּאֹ֔ת ה֥וּא מֹכֵ֖ר לָֽךְ׃",
+      "douay_rheims": "The more years remain after the jubilee, the more shall the price increase: and the less time is counted, so much the less shall the purchase cost. For he shall sell to thee the time of the fruits.",
+      "finnish_biblia": "Sitä usiammat kuin vuodet ovat, pitää sinun korottaman hinnan, ja sen harvemmat kuin vuodet ovat, pitää sinun alentaman hinnan; sillä vuoden tulon luvun jälkeen pitää hänen myymän sinulle. ",
       "king_james": "According to the multitude of years thou shalt increase the price thereof, and according to the fewness of years thou shalt diminish the price of it: for according to the number of the years of the fruits doth he sell unto thee."
     },
     {
       "verse": 17,
       "latin_vulgate": "Nolite affligere contribules vestros, sed timeat unusquisque Deum suum, quia ego Dominus Deus vester. ",
       "hebrew_masoretic": "וְלֹ֤א תוֹנוּ֙ אִ֣ישׁ אֶת־עֲמִית֔וֹ וְיָרֵ֖אתָ מֵֽאֱלֹהֶ֑יךָ כִּ֛י אֲנִ֥י יְהֹוָ֖ה אֱלֹהֵיכֶֽם׃",
+      "douay_rheims": "Do not afflict your countrymen: but let every one fear his God. Because I am the Lord your God.",
+      "finnish_biblia": "Älkään kenkään pettäkö lähimmäistänsä, mutta pelkää sinun Jumalaas; sillä minä olen Herra teidän Jumalanne. ",
       "king_james": "Ye shall not therefore oppress one another; but thou shalt fear thy God: for I am the Lord your God."
     },
     {
       "verse": 18,
       "latin_vulgate": "Facite præcepta mea, et judicia custodite, et implete ea : ut habitare possitis in terra absque ullo pavore, ",
       "hebrew_masoretic": "וַעֲשִׂיתֶם֙ אֶת־חֻקֹּתַ֔י וְאֶת־מִשְׁפָּטַ֥י תִּשְׁמְר֖וּ וַעֲשִׂיתֶ֣ם אֹתָ֑ם וִֽישַׁבְתֶּ֥ם עַל־הָאָ֖רֶץ לָבֶֽטַח׃",
+      "douay_rheims": "Do my precepts, and keep my judgments, and fulfil them: that you may dwell in the land without any fear.",
+      "finnish_biblia": "Sentähden tehkäät minun säätyni ja pitäkäät minun oikeuteni, että te ne teette, ja turvallisesti asutte maassa. ",
       "king_james": "Wherefore ye shall do my statutes, and keep my judgments, and do them; and ye shall dwell in the land in safety."
     },
     {
       "verse": 19,
       "latin_vulgate": "et gignat vobis humus fructus suos, quibus vescamini usque ad saturitatem, nullius impetum formidantes. ",
       "hebrew_masoretic": "וְנָתְנָ֤ה הָאָ֙רֶץ֙ פִּרְיָ֔הּ וַאֲכַלְתֶּ֖ם לָשֹׂ֑בַע וִֽישַׁבְתֶּ֥ם לָבֶ֖טַח עָלֶֽיהָ׃",
+      "douay_rheims": "And the ground may yield you its fruits, of which you may eat your fill, fearing no man's invasion.",
+      "finnish_biblia": "Ja maan pitää antaman teille hedelmänsä, ja teillä pitää oleman kyllä syötävää, ja asuman pelkäämätä siinä. ",
       "king_james": "And the land shall yield her fruit, and ye shall eat your fill, and dwell therein in safety."
     },
     {
       "verse": 20,
       "latin_vulgate": "Quod si dixeritis : Quid comedemus anno septimo, si non severimus, neque collegerimus fruges nostras ? ",
       "hebrew_masoretic": "וְכִ֣י תֹאמְר֔וּ מַה־נֹּאכַ֖ל בַּשָּׁנָ֣ה הַשְּׁבִיעִ֑ת הֵ֚ן לֹ֣א נִזְרָ֔ע וְלֹ֥א נֶאֱסֹ֖ף אֶת־תְּבוּאָתֵֽנוּ׃",
+      "douay_rheims": "But if you say: What shall we eat the seventh year, if we sow not, nor gather our fruits?",
+      "finnish_biblia": "Ja jos te sanotte: mitä meidän pitää syömän seitsemäntenä vuonna? katso, ei meidän pidä kylvämän, eikä vuoden tuloa kokooman. ",
       "king_james": "And if ye shall say, What shall we eat the seventh year? behold, we shall not sow, nor gather in our increase:"
     },
     {
       "verse": 21,
       "latin_vulgate": "dabo benedictionem meam vobis anno sexto, et faciet fructus trium annorum : ",
       "hebrew_masoretic": "וְצִוִּ֤יתִי אֶת־בִּרְכָתִי֙ לָכֶ֔ם בַּשָּׁנָ֖ה הַשִּׁשִּׁ֑ית וְעָשָׂת֙ אֶת־הַתְּבוּאָ֔ה לִשְׁלֹ֖שׁ הַשָּׁנִֽים׃",
+      "douay_rheims": "I will give you my blessing the sixth year: and it shall yield the fruits of three years.",
+      "finnish_biblia": "Niin minä käsken minun siunaukseni tulla kuudentena vuotena teidän ylitsenne, niin että sen pitää tekemän teille kolmen vuoden tulon. ",
       "king_james": "Then I will command my blessing upon you in the sixth year, and it shall bring forth fruit for three years."
     },
     {
       "verse": 22,
       "latin_vulgate": "seretisque anno octavo, et comedetis veteres fruges usque ad nonum annum : donec nova nascantur, edetis vetera. ",
       "hebrew_masoretic": "וּזְרַעְתֶּ֗ם אֵ֚ת הַשָּׁנָ֣ה הַשְּׁמִינִ֔ת וַאֲכַלְתֶּ֖ם מִן־הַתְּבוּאָ֣ה יָשָׁ֑ן עַ֣ד ׀ הַשָּׁנָ֣ה הַתְּשִׁיעִ֗ת עַד־בּוֹא֙ תְּב֣וּאָתָ֔הּ תֹּאכְל֖וּ יָשָֽׁן׃",
+      "douay_rheims": "And the eighth year you shall sow, and shall eat of the old fruits, until the ninth year: till new grow up, you shall eat the old store.",
+      "finnish_biblia": "Ja teidän pitää kylvämän kahdeksantena vuonna, ja vanhasta vuoden kasvusta syömän yhdeksänteen vuoteen asti, niin että te syötte vanhasta uutiseen asti. ",
       "king_james": "And ye shall sow the eighth year, and eat yet of old fruit until the ninth year; until her fruits come in ye shall eat of the old store."
     },
     {
       "verse": 23,
       "latin_vulgate": "Terra quoque non vendetur in perpetuum, quia mea est, et vos advenæ et coloni mei estis : ",
       "hebrew_masoretic": "וְהָאָ֗רֶץ לֹ֤א תִמָּכֵר֙ לִצְמִתֻ֔ת כִּי־לִ֖י הָאָ֑רֶץ כִּֽי־גֵרִ֧ים וְתוֹשָׁבִ֛ים אַתֶּ֖ם עִמָּדִֽי׃",
+      "douay_rheims": "The land also shall not be sold for ever: because it is mine, and you are strangers and sojourners with me.",
+      "finnish_biblia": "Sentähden ei teidän pidä maata peräti myymän; sillä maan on minun, ja te olette muukalaiset ja vieraat minun edessäni. ",
       "king_james": "The land shall not be sold for ever: for the land is mine; for ye are strangers and sojourners with me."
     },
     {
       "verse": 24,
       "latin_vulgate": "unde cuncta regio possessionis vestræ sub redemptionis conditione vendetur. ",
       "hebrew_masoretic": "וּבְכֹ֖ל אֶ֣רֶץ אֲחֻזַּתְכֶ֑ם גְּאֻלָּ֖ה תִּתְּנ֥וּ לָאָֽרֶץ׃ {ס}",
+      "douay_rheims": "For which cause all the country of your possession shall be under the condition of redemption.",
+      "finnish_biblia": "Ja teidän pitää koko teidän omassa maassanne antaman maan lunastettaa. ",
       "king_james": "And in all the land of your possession ye shall grant a redemption for the land."
     },
     {
       "verse": 25,
       "latin_vulgate": "Si attenuatus frater tuus vendiderit possessiunculam suam, et voluerit propinquus ejus, potest redimere quod ille vendiderat. ",
       "hebrew_masoretic": "כִּֽי־יָמ֣וּךְ אָחִ֔יךָ וּמָכַ֖ר מֵאֲחֻזָּת֑וֹ וּבָ֤א גֹֽאֲלוֹ֙ הַקָּרֹ֣ב אֵלָ֔יו וְגָאַ֕ל אֵ֖ת מִמְכַּ֥ר אָחִֽיו׃",
+      "douay_rheims": "If thy brother being impoverished sell his little possession, and his kinsman will: he may redeem what he had sold.",
+      "finnish_biblia": "Jos sinun veljes köyhtyy, ja myy sinulle omaisuudestansa, ja hänen lähimmäinen lankonsa tulee hänen tykönsä, ja tahtoo lunastaa, niin pitää hänen lunastaman sen, minkä hänen veljensä myynyt on. ",
       "king_james": "If thy brother be waxen poor, and hath sold away some of his possession, and if any of his kin come to redeem it, then shall he redeem that which his brother sold."
     },
     {
       "verse": 26,
       "latin_vulgate": "Sin autem non habuerit proximum, et ipse pretium ad redimendum potuerit invenire, ",
       "hebrew_masoretic": "וְאִ֕ישׁ כִּ֛י לֹ֥א יִֽהְיֶה־לּ֖וֹ גֹּאֵ֑ל וְהִשִּׂ֣יגָה יָד֔וֹ וּמָצָ֖א כְּדֵ֥י גְאֻלָּתֽוֹ׃",
+      "douay_rheims": "But if he have no kinsman, and he himself can find the price to redeem it:",
+      "finnish_biblia": "Ja jos joku on, jolla ei yhtään lunastajaa ole, ja taitaa niin paljo matkaan saada, kuin sen lunastukseksi tarvitaan. ",
       "king_james": "And if the man have none to redeem it, and himself be able to redeem it;"
     },
     {
       "verse": 27,
       "latin_vulgate": "computabuntur fructus ex eo tempore quo vendidit : et quod reliquum est, reddet emptori, sicque recipiet possessionem suam. ",
       "hebrew_masoretic": "וְחִשַּׁב֙ אֶת־שְׁנֵ֣י מִמְכָּר֔וֹ וְהֵשִׁיב֙ אֶת־הָ֣עֹדֵ֔ף לָאִ֖ישׁ אֲשֶׁ֣ר מָֽכַר־ל֑וֹ וְשָׁ֖ב לַאֲחֻזָּתֽוֹ׃",
+      "douay_rheims": "The value of the fruits shall be counted from that time when he sold it. And the overplus he shall restore to the buyer, and so shall receive his possession again.",
+      "finnish_biblia": "Niin pitää luettaman vuosiluku sittenkuin hän myi, ja annettaman hänelle, joka myi, mitä liiaksi on, että hän tulis omaisuuteensa jälleen. ",
       "king_james": "Then let him count the years of the sale thereof, and restore the overplus unto the man to whom he sold it; that he may return unto his possession."
     },
     {
       "verse": 28,
       "latin_vulgate": "Quod si non invenerit manus ejus ut reddat pretium, habebit emptor quod emerat, usque ad annum jubilæum. In ipso enim omnis venditio redibit ad dominum et ad possessorem pristinum. ",
       "hebrew_masoretic": "וְאִ֨ם לֹֽא־מָצְאָ֜ה יָד֗וֹ דֵּי֮ הָשִׁ֣יב לוֹ֒ וְהָיָ֣ה מִמְכָּר֗וֹ בְּיַד֙ הַקֹּנֶ֣ה אֹת֔וֹ עַ֖ד שְׁנַ֣ת הַיּוֹבֵ֑ל וְיָצָא֙ בַּיֹּבֵ֔ל וְשָׁ֖ב לַאֲחֻזָּתֽוֹ׃ {ס}",
+      "douay_rheims": "But if his hands find not the means to repay the price, the buyer shall have what he bought, until the year of the jubilee. For in that year all that is sold shall return to the owner, and to the ancient possessor.",
+      "finnish_biblia": "Mutta jos ei hän takaansa löydä niin paljo että hän sais sen jälleen, niin pitää sen, minkä hän myynyt on, oleman ostajan kädessä riemuvuoteen asti; niin hänen pitää oleman vapaan ja saaman omansa jälleen. ",
       "king_james": "But if he be not able to restore it to him, then that which is sold shall remain in the hand of him that hath bought it until the year of jubile: and in the jubile it shall go out, and he shall return unto his possession."
     },
     {
       "verse": 29,
       "latin_vulgate": "Qui vendiderit domum intra urbis muros, habebit licentiam redimendi, donec unus impleatur annus. ",
       "hebrew_masoretic": "וְאִ֗ישׁ כִּֽי־יִמְכֹּ֤ר בֵּית־מוֹשַׁב֙ עִ֣יר חוֹמָ֔ה וְהָיְתָה֙ גְּאֻלָּת֔וֹ עַד־תֹּ֖ם שְׁנַ֣ת מִמְכָּר֑וֹ יָמִ֖ים תִּהְיֶ֥ה גְאֻלָּתֽוֹ׃",
+      "douay_rheims": "He that selleth a house within the walls of a city, shall have the liberty to redeem it, until one year be expired.",
+      "finnish_biblia": "Se joka myy asuttavan huoneen kaupungin muurin sisältä, hänellä on vapaa ehto ajastajassa, sitä lunastaa jällensä: ja sen pitää oleman ajan, jolla hän lunastaa sen. ",
       "king_james": "And if a man sell a dwelling house in a walled city, then he may redeem it within a whole year after it is sold; within a full year may he redeem it."
     },
     {
       "verse": 30,
       "latin_vulgate": "Si non redemerit, et anni circulus fuerit evolutus, emptor possidebit eam, et posteri ejus in perpetuum, et redimi non poterit, etiam in jubilæo. ",
       "hebrew_masoretic": "וְאִ֣ם לֹֽא־יִגָּאֵ֗ל עַד־מְלֹ֣את לוֹ֮ שָׁנָ֣ה תְמִימָה֒ וְ֠קָ֠ם הַבַּ֨יִת אֲשֶׁר־בָּעִ֜יר אֲשֶׁר־[ל֣וֹ] (לא) חֹמָ֗ה לַצְּמִיתֻ֛ת לַקֹּנֶ֥ה אֹת֖וֹ לְדֹרֹתָ֑יו לֹ֥א יֵצֵ֖א בַּיֹּבֵֽל׃",
+      "douay_rheims": "If he redeem it not, and the whole year be fully out, the buyer shall possess it, and his posterity for ever, and it cannot be redeemed, not even in the jubilee.",
+      "finnish_biblia": "Ja jos ei hän lunasta sitä koko ajastajassa, niin pitää ostajan sen huoneen kaupungin muurin sisältä pitämän ijankaikkisesti ja hänen sukunsa, ja ei pidä vapaaksi tuleman ilovuotena. ",
       "king_james": "And if it be not redeemed within the space of a full year, then the house that is in the walled city shall be established for ever to him that bought it throughout his generations: it shall not go out in the jubile."
     },
     {
       "verse": 31,
       "latin_vulgate": "Sin autem in villa domus, quæ muros non habet, agrorum jure vendetur : si ante redempta non fuerit, in jubilæo revertetur ad dominum. ",
       "hebrew_masoretic": "וּבָתֵּ֣י הַחֲצֵרִ֗ים אֲשֶׁ֨ר אֵין־לָהֶ֤ם חֹמָה֙ סָבִ֔יב עַל־שְׂדֵ֥ה הָאָ֖רֶץ יֵחָשֵׁ֑ב גְּאֻלָּה֙ תִּהְיֶה־לּ֔וֹ וּבַיֹּבֵ֖ל יֵצֵֽא׃",
+      "douay_rheims": "But if the house be in a village, that hath no walls, it shall be sold according to the same law as the fields. If it be not redeemed before, in the jubilee it shall return to the owner.",
+      "finnish_biblia": "Mutta jos huone on maan kylässä, kussa ei yhtään muuria ympärillä ole, niin se pitää luettaman peltomaaksi: se lunastetaan ja tulee ilovuotena vapaaksi. ",
       "king_james": "But the houses of the villages which have no wall round about them shall be counted as the fields of the country: they may be redeemed, and they shall go out in the jubile."
     },
     {
       "verse": 32,
       "latin_vulgate": "Ædes Levitarum quæ in urbibus sunt, semper possunt redimi : ",
       "hebrew_masoretic": "וְעָרֵי֙ הַלְוִיִּ֔ם בָּתֵּ֖י עָרֵ֣י אֲחֻזָּתָ֑ם גְּאֻלַּ֥ת עוֹלָ֖ם תִּהְיֶ֥ה לַלְוִיִּֽם׃",
+      "douay_rheims": "The houses of Levites, which are in cities, may always be redeemed.",
+      "finnish_biblia": "Leviläisten kaupungit ja huoneet kaupungeissa, joissa heidän tavaransa ovat, saavat he aina lunastaa. ",
       "king_james": "Notwithstanding the cities of the Levites, and the houses of the cities of their possession, may the Levites redeem at any time."
     },
     {
       "verse": 33,
       "latin_vulgate": "si redemptæ non fuerint, in jubilæo revertentur ad dominos, quia domus urbium Levitarum pro possessionibus sunt inter filios Israël. ",
       "hebrew_masoretic": "וַאֲשֶׁ֤ר יִגְאַל֙ מִן־הַלְוִיִּ֔ם וְיָצָ֧א מִמְכַּר־בַּ֛יִת וְעִ֥יר אֲחֻזָּת֖וֹ בַּיֹּבֵ֑ל כִּ֣י בָתֵּ֞י עָרֵ֣י הַלְוִיִּ֗ם הִ֚וא אֲחֻזָּתָ֔ם בְּת֖וֹךְ בְּנֵ֥י יִשְׂרָאֵֽל׃",
+      "douay_rheims": "If they be not redeemed, in the jubilee they shall all return to the owners: because the houses of the cities of the Levites are for their possessions among the children of Israel.",
+      "finnish_biblia": "Se joka jotakin lunastaa Leviläisiltä, hänen pitää siitä luopuman ilovuonna, olkoon se ostettu huone eli omaisuus kaupungissa, jossa hän asunut on; sillä huoneet Leviläisten kaupungeissa ovat heidän omaisuutensa Israelin lasten seassa. ",
       "king_james": "And if a man purchase of the Levites, then the house that was sold, and the city of his possession, shall go out in the year of jubile: for the houses of the cities of the Levites are their possession among the children of Israel."
     },
     {
       "verse": 34,
       "latin_vulgate": "Suburbana autem eorum non veneant, quia possessio sempiterna est.  ",
       "hebrew_masoretic": "וּֽשְׂדֵ֛ה מִגְרַ֥שׁ עָרֵיהֶ֖ם לֹ֣א יִמָּכֵ֑ר כִּֽי־אֲחֻזַּ֥ת עוֹלָ֛ם ה֖וּא לָהֶֽם׃ {ס}",
+      "douay_rheims": "But let not their suburbs be sold, because it is a perpetual possession.",
+      "finnish_biblia": "Mutta maata heidän kaupunkeinsa ympäriltä ei pidä myytämän; sillä se on heidän saamansa ijankaikkisesti. ",
       "king_james": "But the field of the suburbs of their cities may not be sold; for it is their perpetual possession."
     },
     {
       "verse": 35,
       "latin_vulgate": " Si attenuatus fuerit frater tuus, et infirmus manu, et susceperis eum quasi advenam et peregrinum, et vixerit tecum, ",
       "hebrew_masoretic": "וְכִֽי־יָמ֣וּךְ אָחִ֔יךָ וּמָ֥טָה יָד֖וֹ עִמָּ֑ךְ וְהֶֽחֱזַ֣קְתָּ בּ֔וֹ גֵּ֧ר וְתוֹשָׁ֛ב וָחַ֖י עִמָּֽךְ׃",
+      "douay_rheims": "If thy brother be impoverished, and weak of hand, and thou receive him as a stranger and sojourner, and he live with thee:",
+      "finnish_biblia": "Jos veljes köyhtyy ja tulee voimattomaksi tykönäs, niin sinun pitää pitämän hänen ylös, niinkuin muukalaisen, taikka huonekuntaisen, että hän eläis sinun kanssas. ",
       "king_james": "And if thy brother be waxen poor, and fallen in decay with thee; then thou shalt relieve him: yea, though he be a stranger, or a sojourner; that he may live with thee."
     },
     {
       "verse": 36,
       "latin_vulgate": "ne accipias usuras ab eo, nec amplius quam dedisti : time Deum tuum, ut vivere possit frater tuus apud te. ",
       "hebrew_masoretic": "אַל־תִּקַּ֤ח מֵֽאִתּוֹ֙ נֶ֣שֶׁךְ וְתַרְבִּ֔ית וְיָרֵ֖אתָ מֵֽאֱלֹהֶ֑יךָ וְחֵ֥י אָחִ֖יךָ עִמָּֽךְ׃",
+      "douay_rheims": "Take not usury of him nor more than thou gavest. Fear thy God, that thy brother may live with thee.",
+      "finnish_biblia": "Ja ei sinun pidä ottaman korkoa eli voittoa häneltä; vaan pelkää sinun Jumalaas, että sinun veljes sais elää sinun kanssas. ",
       "king_james": "Take thou no usury of him, or increase: but fear thy God; that thy brother may live with thee."
     },
     {
       "verse": 37,
       "latin_vulgate": "Pecuniam tuam non dabis ei ad usuram, et frugum superabundantiam non exiges. ",
       "hebrew_masoretic": "אֶ֨ת־כַּסְפְּךָ֔ לֹֽא־תִתֵּ֥ן ל֖וֹ בְּנֶ֑שֶׁךְ וּבְמַרְבִּ֖ית לֹא־תִתֵּ֥ן אׇכְלֶֽךָ׃",
+      "douay_rheims": "Thou shalt not give him thy money upon usury: nor exact of him any increase of fruits.",
+      "finnish_biblia": "Ei sinun pidä antaman rahaas hänelle korolle, eikä antaman viljaas kasvulle. ",
       "king_james": "Thou shalt not give him thy money upon usury, nor lend him thy victuals for increase."
     },
     {
       "verse": 38,
       "latin_vulgate": "Ego Dominus Deus vester, qui eduxi vos de terra Ægypti, ut darem vobis terram Chanaan, et essem vester Deus.  ",
       "hebrew_masoretic": "אֲנִ֗י יְהֹוָה֙ אֱלֹ֣הֵיכֶ֔ם אֲשֶׁר־הוֹצֵ֥אתִי אֶתְכֶ֖ם מֵאֶ֣רֶץ מִצְרָ֑יִם לָתֵ֤ת לָכֶם֙ אֶת־אֶ֣רֶץ כְּנַ֔עַן לִהְי֥וֹת לָכֶ֖ם לֵאלֹהִֽים׃ {ס}",
+      "douay_rheims": "I am the Lord your God, who brought you out of the land of Egypt, that I might give you the land of Chanaan, and might be your God.",
+      "finnish_biblia": "Sillä minä olen Herra teidän Jumalanne, joka teidän johdatin Egyptin maalta, antaakseni teille Kanaanin maan, ja ollakseni teidän Jumalanne. ",
       "king_james": "I am the Lord your God, which brought you forth out of the land of Egypt, to give you the land of Canaan, and to be your God."
     },
     {
       "verse": 39,
       "latin_vulgate": " Si paupertate compulsus vendiderit se tibi frater tuus, non eum opprimes servitute famulorum, ",
       "hebrew_masoretic": "וְכִֽי־יָמ֥וּךְ אָחִ֛יךָ עִמָּ֖ךְ וְנִמְכַּר־לָ֑ךְ לֹא־תַעֲבֹ֥ד בּ֖וֹ עֲבֹ֥דַת עָֽבֶד׃",
+      "douay_rheims": "If thy brother constrained by poverty, sell himself to thee: thou shalt not oppress him with the service of bondservants.",
+      "finnish_biblia": "Jos veljes köyhtyy sinun tykönäs, ja myy itsensä sinulle, niin ei sinun pidä häntä pitämän niinkuin orjaa. ",
       "king_james": "And if thy brother that dwelleth by thee be waxen poor, and be sold unto thee; thou shalt not compel him to serve as a bondservant:"
     },
     {
       "verse": 40,
       "latin_vulgate": "sed quasi mercenarius et colonus erit : usque ad annum jubilæum operabitur apud te, ",
       "hebrew_masoretic": "כְּשָׂכִ֥יר כְּתוֹשָׁ֖ב יִהְיֶ֣ה עִמָּ֑ךְ עַד־שְׁנַ֥ת הַיֹּבֵ֖ל יַעֲבֹ֥ד עִמָּֽךְ׃",
+      "douay_rheims": "But he shall be as a hireling, and a sojourner: he shall work with thee until the year of the jubilee.",
+      "finnish_biblia": "Mutta hänen pitää oleman sinun tykönäs niinkuin päivämiehen, eli huonekuntaisen, palvellen sinua riemuvuoteen asti. ",
       "king_james": "But as an hired servant, and as a sojourner, he shall be with thee, and shall serve thee unto the year of jubile:"
     },
     {
       "verse": 41,
       "latin_vulgate": "et postea egredietur cum liberis suis, et revertetur ad cognationem, ad possessionem patrum suorum. ",
       "hebrew_masoretic": "וְיָצָא֙ מֵֽעִמָּ֔ךְ ה֖וּא וּבָנָ֣יו עִמּ֑וֹ וְשָׁב֙ אֶל־מִשְׁפַּחְתּ֔וֹ וְאֶל־אֲחֻזַּ֥ת אֲבֹתָ֖יו יָשֽׁוּב׃",
+      "douay_rheims": "And afterwards he shall go out with his children: and shall return to his kindred and to the possession of his fathers.",
+      "finnish_biblia": "Silloin pitää hänen käymän ulos vapaana sinun tyköäs lapsinensa, ja pitää tuleman sukunsa tykö jälleen, ja isäinsä saaman päälle. ",
       "king_james": "And then shall he depart from thee, both he and his children with him, and shall return unto his own family, and unto the possession of his fathers shall he return."
     },
     {
       "verse": 42,
       "latin_vulgate": "Mei enim servi sunt, et ego eduxi eos de terra Ægypti : non veneant conditione servorum : ",
       "hebrew_masoretic": "כִּֽי־עֲבָדַ֣י הֵ֔ם אֲשֶׁר־הוֹצֵ֥אתִי אֹתָ֖ם מֵאֶ֣רֶץ מִצְרָ֑יִם לֹ֥א יִמָּכְר֖וּ מִמְכֶּ֥רֶת עָֽבֶד׃",
+      "douay_rheims": "For they are my servants, and I brought them out of the land of Egypt: let them not be sold as bondmen.",
+      "finnish_biblia": "Sillä he ovat minun palveliani, jotka minä Egyptin maalta johdattanut olen: sentähden ei pidä heitä orjan tavalla myytämän. ",
       "king_james": "For they are my servants, which I brought forth out of the land of Egypt: they shall not be sold as bondmen."
     },
     {
       "verse": 43,
       "latin_vulgate": "ne affligas eum per potentiam, sed metuito Deum tuum. ",
       "hebrew_masoretic": "לֹא־תִרְדֶּ֥ה ב֖וֹ בְּפָ֑רֶךְ וְיָרֵ֖אתָ מֵאֱלֹהֶֽיךָ׃",
+      "douay_rheims": "Afflict him not by might: but fear thy God.",
+      "finnish_biblia": "Ei sinun pidä ankarasti heitä hallitseman, vaan pelkäämän sinun Jumalaas. ",
       "king_james": "Thou shalt not rule over him with rigour; but shalt fear thy God."
     },
     {
       "verse": 44,
       "latin_vulgate": "Servus et ancilla sint vobis de nationibus quæ in circuitu vestro sunt : ",
       "hebrew_masoretic": "וְעַבְדְּךָ֥ וַאֲמָתְךָ֖ אֲשֶׁ֣ר יִהְיוּ־לָ֑ךְ מֵאֵ֣ת הַגּוֹיִ֗ם אֲשֶׁר֙ סְבִיבֹ֣תֵיכֶ֔ם מֵהֶ֥ם תִּקְנ֖וּ עֶ֥בֶד וְאָמָֽה׃",
+      "douay_rheims": "Let your bondmen, and your bondwomen, be of the nations that are round about you:",
+      "finnish_biblia": "Jos tahdot pitää orjaa ja piikaa, niin sinun pitää ostaman ne pakanoilta, jotka teidän ympärillänne ovat. ",
       "king_james": "Both thy bondmen, and thy bondmaids, which thou shalt have, shall be of the heathen that are round about you; of them shall ye buy bondmen and bondmaids."
     },
     {
       "verse": 45,
       "latin_vulgate": "et de advenis qui peregrinantur apud vos, vel qui ex his nati fuerint in terra vestra, hos habebitis famulos : ",
       "hebrew_masoretic": "וְ֠גַ֠ם מִבְּנֵ֨י הַתּוֹשָׁבִ֜ים הַגָּרִ֤ים עִמָּכֶם֙ מֵהֶ֣ם תִּקְנ֔וּ וּמִמִּשְׁפַּחְתָּם֙ אֲשֶׁ֣ר עִמָּכֶ֔ם אֲשֶׁ֥ר הוֹלִ֖ידוּ בְּאַרְצְכֶ֑ם וְהָי֥וּ לָכֶ֖ם לַֽאֲחֻזָּֽה׃",
+      "douay_rheims": "And of the strangers that sojourn among you, or that were born of them in your land. These you shall have for servants:",
+      "finnish_biblia": "Ja huonekuntalaisilta, jotka muukalaiset ovat teidän seassanne, pitää teidän ne ostaman, ja heidän suvuiltansa, jotka he teidän tykönänne teidän maassanne synnyttäneet ovat: ja ne pitää teidän omanne oleman. ",
       "king_james": "Moreover of the children of the strangers that do sojourn among you, of them shall ye buy, and of their families that are with you, which they begat in your land: and they shall be your possession."
     },
     {
       "verse": 46,
       "latin_vulgate": "et hæreditario jure transmittetis ad posteros, ac possidebitis in æternum : fratres autem vestros filios Israël ne opprimatis per potentiam. ",
       "hebrew_masoretic": "וְהִתְנַחַלְתֶּ֨ם אֹתָ֜ם לִבְנֵיכֶ֤ם אַחֲרֵיכֶם֙ לָרֶ֣שֶׁת אֲחֻזָּ֔ה לְעֹלָ֖ם בָּהֶ֣ם תַּעֲבֹ֑דוּ וּבְאַ֨חֵיכֶ֤ם בְּנֵֽי־יִשְׂרָאֵל֙ אִ֣ישׁ בְּאָחִ֔יו לֹא־תִרְדֶּ֥ה ב֖וֹ בְּפָֽרֶךְ׃ {ס}",
+      "douay_rheims": "And by right of inheritance shall leave them to your posterity, and shall possess them for ever. But oppress not your brethren the children of Israel by might.",
+      "finnish_biblia": "Ja pitäkäät heitä omananne, ja teidän lapsillenne teidän jälkeenne ijankaikkiseksi perimiseksi, ja niiden pitää oleman teidän orjanne; mutta veljenne Israelin lapset ei pidä toinen toistansa ankarasti hallitseman. ",
       "king_james": "And ye shall take them as an inheritance for your children after you, to inherit them for a possession; they shall be your bondmen for ever: but over your brethren the children of Israel, ye shall not rule one over another with rigour."
     },
     {
       "verse": 47,
       "latin_vulgate": "Si invaluerit apud vos manus advenæ atque peregrini, et attenuatus frater tuus vendiderit se ei, aut cuiquam de stirpe ejus : ",
       "hebrew_masoretic": "וְכִ֣י תַשִּׂ֗יג יַ֣ד גֵּ֤ר וְתוֹשָׁב֙ עִמָּ֔ךְ וּמָ֥ךְ אָחִ֖יךָ עִמּ֑וֹ וְנִמְכַּ֗ר לְגֵ֤ר תּוֹשָׁב֙ עִמָּ֔ךְ א֥וֹ לְעֵ֖קֶר מִשְׁפַּ֥חַת גֵּֽר׃",
+      "douay_rheims": "If the hand of a stranger or a sojourner grow strong among you, and thy brother being impoverished sell himself to him, or to any of his race:",
+      "finnish_biblia": "Jos muukalainen eli huonekuntainen hyötyy sinun tykönäs, ja sinun veljes köyhtyy hänen tykönänsä, niin että hän myy itsensä muukalaiselle, joka huonekuntainen sinun tykönäs on, eli jollekulle muukalaisen suvusta, ",
       "king_james": "And if a sojourner or stranger wax rich by thee, and thy brother that dwelleth by him wax poor, and sell himself unto the stranger or sojourner by thee, or to the stock of the stranger’s family:"
     },
     {
       "verse": 48,
       "latin_vulgate": "post venditionem potest redimi. Qui voluerit ex fratribus suis, redimet eum, ",
       "hebrew_masoretic": "אַחֲרֵ֣י נִמְכַּ֔ר גְּאֻלָּ֖ה תִּהְיֶה־לּ֑וֹ אֶחָ֥ד מֵאֶחָ֖יו יִגְאָלֶֽנּוּ׃",
+      "douay_rheims": "After the sale he may be redeemed. He that will of his brethren shall redeem him:",
+      "finnish_biblia": "Niin pitää hänellä oikeus oleman lunastettaa jälleen sittekuin hän myyty on, että joku hänen veljistänsä pitäis hänen lunastaman jällensä; ",
       "king_james": "After that he is sold he may be redeemed again; one of his brethren may redeem him:"
     },
     {
       "verse": 49,
       "latin_vulgate": "et patruus, et patruelis, et consanguineus, et affinis. Sin autem et ipse potuerit, redimet se, ",
       "hebrew_masoretic": "אוֹ־דֹד֞וֹ א֤וֹ בֶן־דֹּדוֹ֙ יִגְאָלֶ֔נּוּ אֽוֹ־מִשְּׁאֵ֧ר בְּשָׂר֛וֹ מִמִּשְׁפַּחְתּ֖וֹ יִגְאָלֶ֑נּוּ אֽוֹ־הִשִּׂ֥יגָה יָד֖וֹ וְנִגְאָֽל׃",
+      "douay_rheims": "Either his uncle, or his uncle's son, or his kinsman, by blood, or by affinity. But if he himself be able also, he shall redeem himself:",
+      "finnish_biblia": "Eli hänen setänsä eli setänsä poika lunastakaan hänen, taikka joku hänen lähimmäisestä suvustansa, eli jos hän itse taitaa niin paljo matkaan saada, niin pitää hänen lunastaman itsensä. ",
       "king_james": "Either his uncle, or his uncle’s son, may redeem him, or any that is nigh of kin unto him of his family may redeem him; or if he be able, he may redeem himself."
     },
     {
       "verse": 50,
       "latin_vulgate": "supputatis dumtaxat annis a tempore venditionis suæ usque ad annum jubilæum : et pecunia, qua venditus fuerat, juxta annorum numerum, et rationem mercenarii supputata. ",
       "hebrew_masoretic": "וְחִשַּׁב֙ עִם־קֹנֵ֔הוּ מִשְּׁנַת֙ הִמָּ֣כְרוֹ ל֔וֹ עַ֖ד שְׁנַ֣ת הַיֹּבֵ֑ל וְהָיָ֞ה כֶּ֤סֶף מִמְכָּרוֹ֙ בְּמִסְפַּ֣ר שָׁנִ֔ים כִּימֵ֥י שָׂכִ֖יר יִהְיֶ֥ה עִמּֽוֹ׃",
+      "douay_rheims": "Counting only the years from the time of his selling unto the year of the jubilee: and counting the money that he was sold for, according to the number of the years and the reckoning of a hired servant.",
+      "finnish_biblia": "Ja hänen pitää lukua laskeman ostajansa kanssa, siitä vuodesta kuin hän myi itsensä ilovuoteen asti, ja raha pitää luettaman vuoden luvun jälkeen, sittekuin hän myytiin, ja kaiken sen ajan palkka pitää siihen luettaman: ",
       "king_james": "And he shall reckon with him that bought him from the year that he was sold to him unto the year of jubile: and the price of his sale shall be according unto the number of years, according to the time of an hired servant shall it be with him."
     },
     {
       "verse": 51,
       "latin_vulgate": "Si plures fuerint anni qui remanent usque ad jubilæum, secundum hos reddet et pretium : ",
       "hebrew_masoretic": "אִם־ע֥וֹד רַבּ֖וֹת בַּשָּׁנִ֑ים לְפִיהֶן֙ יָשִׁ֣יב גְּאֻלָּת֔וֹ מִכֶּ֖סֶף מִקְנָתֽוֹ׃",
+      "douay_rheims": "If there be many years that remain until the jubilee, according to them shall he also repay the price.",
+      "finnish_biblia": "Ja jos vielä monta vuotta on ilovuoteen, niin hänen pitää sitä enemmän antaman lunastuksestansa, senjälkeen kuin hän ostettu on. ",
       "king_james": "If there be yet many years behind, according unto them he shall give again the price of his redemption out of the money that he was bought for."
     },
     {
       "verse": 52,
       "latin_vulgate": "si pauci, ponet rationem cum eo juxta annorum numerum, et reddet emptori quod reliquum est annorum, ",
       "hebrew_masoretic": "וְאִם־מְעַ֞ט נִשְׁאַ֧ר בַּשָּׁנִ֛ים עַד־שְׁנַ֥ת הַיֹּבֵ֖ל וְחִשַּׁב־ל֑וֹ כְּפִ֣י שָׁנָ֔יו יָשִׁ֖יב אֶת־גְּאֻלָּתֽוֹ׃",
+      "douay_rheims": "If few, he shall make the reckoning with him according to the number of the years: and shall repay to the buyer of what remaineth of the years.",
+      "finnish_biblia": "Mutta jos harvat vuodet ovat ilovuoteen, niin laskekaan lukua hänen kanssansa ja hänen pitää vuotten jälkeen antaman lunastuksensa. ",
       "king_james": "And if there remain but few years unto the year of jubile, then he shall count with him, and according unto his years shall he give him again the price of his redemption."
     },
     {
       "verse": 53,
       "latin_vulgate": "quibus ante servivit mercedibus imputatis : non affliget eum violenter in conspectu tuo. ",
       "hebrew_masoretic": "כִּשְׂכִ֥יר שָׁנָ֛ה בְּשָׁנָ֖ה יִהְיֶ֣ה עִמּ֑וֹ לֹֽא־יִרְדֶּ֥נּֽוּ בְּפֶ֖רֶךְ לְעֵינֶֽיךָ׃",
+      "douay_rheims": "His wages being allowed for which he served before: he shall not afflict him violently in thy sight.",
+      "finnish_biblia": "Ja pitää hänen palkkansa myös siihen luettaman vuosi vuodelta, ja ei hänen pidä ankaruudella häntä hallitseman sinun edessäs. ",
       "king_james": "And as a yearly hired servant shall he be with him: and the other shall not rule with rigour over him in thy sight."
     },
     {
       "verse": 54,
       "latin_vulgate": "Quod si per hæc redimi non potuerit, anno jubilæo egredietur cum liberis suis. ",
       "hebrew_masoretic": "וְאִם־לֹ֥א יִגָּאֵ֖ל בְּאֵ֑לֶּה וְיָצָא֙ בִּשְׁנַ֣ת הַיֹּבֵ֔ל ה֖וּא וּבָנָ֥יו עִמּֽוֹ׃",
+      "douay_rheims": "And if by these means he cannot be redeemed, in the year of the jubilee he shall go out with his children.",
+      "finnish_biblia": "Jos ei hän näin lunasta itsiänsä, niin hänen pitää ilovuonna vapaana käymän ulos lapsinensa. ",
       "king_james": "And if he be not redeemed in these years, then he shall go out in the year of jubile, both he, and his children with him."
     },
     {
       "verse": 55,
       "latin_vulgate": "Mei enim sunt servi filii Israël, quos eduxi de terra Ægypti.   ",
       "hebrew_masoretic": "כִּֽי־לִ֤י בְנֵֽי־יִשְׂרָאֵל֙ עֲבָדִ֔ים עֲבָדַ֣י הֵ֔ם אֲשֶׁר־הוֹצֵ֥אתִי אוֹתָ֖ם מֵאֶ֣רֶץ מִצְרָ֑יִם אֲנִ֖י יְהֹוָ֥ה אֱלֹהֵיכֶֽם׃",
+      "douay_rheims": "For the children of Israel are my servants, whom I brought forth out of the land of Egypt. ",
+      "finnish_biblia": "Sillä Israelin lapset ovat minun palveliani; he ovat minun palveliani, jotka minä olen Egyptin maalta johdattanut ulos: Minä olen Herra teidän Jumalanne.   ",
       "king_james": "For unto me the children of Israel are servants; they are my servants whom I brought forth out of the land of Egypt: I am the Lord your God. "
     }
   ]

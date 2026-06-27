@@ -2,6 +2,8 @@
   "book_id": "PSA",
   "latin_name": "Liber Psalmorum",
   "hebrew_name": "תְּהִלִּים",
+  "douay_name": "Psalms",
+  "finnish_name": "Psalmit",
   "english_name": "Psalms",
   "chapter": 56,
   "verses": [
@@ -9,6 +11,8 @@
       "verse": 1,
       "latin_vulgate": "  Miserere mei, Deus, quoniam conculcavit me homo ;  tota die impugnans, tribulavit me. ",
       "hebrew_masoretic": "חׇנֵּ֣נִי אֱ֭לֹהִים כִּֽי־שְׁאָפַ֣נִי אֱנ֑וֹשׁ כׇּל־הַ֝יּ֗וֹם לֹחֵ֥ם יִלְחָצֵֽנִי׃",
+      "douay_rheims": "Have mercy on me, O God, for man hath trodden me under foot; all the day long he hath afflicted me fighting against me.",
+      "finnish_biblia": "Davidin kultainen kappale mykästä mettisestä muukalaisten seassa, kuin Philistealaiset käsittivät hänen Gatissa. (H56:2) Jumala, ole minulle armollinen; sillä ihmiset tahtovat minua niellä ylös: joka päivä he sotivat ja ahdistavat minua. ",
       "king_james": "Be merciful unto me, O God: for man would swallow me up; he fighting daily oppresseth me.",
       "refs": {
         "latin_vulgate": {
@@ -16,6 +20,9 @@
         },
         "hebrew_masoretic": {
           "src": "56:2"
+        },
+        "douay_rheims": {
+          "src": "55:2"
         }
       }
     },
@@ -23,6 +30,8 @@
       "verse": 2,
       "latin_vulgate": " Conculcaverunt me inimici mei tota die,  quoniam multi bellantes adversum me. ",
       "hebrew_masoretic": "שָׁאֲפ֣וּ שׁ֭וֹרְרַי כׇּל־הַיּ֑וֹם כִּֽי־רַבִּ֨ים לֹחֲמִ֖ים לִ֣י מָרֽוֹם׃",
+      "douay_rheims": "My enemies have trodden on me all the day long; for they are many that make war against me.",
+      "finnish_biblia": "Minun kadehtiani tahtovat joka päivä minua niellä ylös; sillä moni sotii ylpiästi minua vastaan. ",
       "king_james": "Mine enemies would daily swallow me up: for they be many that fight against me, O thou most High.",
       "refs": {
         "latin_vulgate": {
@@ -30,6 +39,9 @@
         },
         "hebrew_masoretic": {
           "src": "56:3"
+        },
+        "douay_rheims": {
+          "src": "55:3"
         }
       }
     },
@@ -37,6 +49,8 @@
       "verse": 3,
       "latin_vulgate": " Ab altitudine diei timebo :  ego vero in te sperabo. ",
       "hebrew_masoretic": "י֥וֹם אִירָ֑א אֲ֝נִ֗י אֵלֶ֥יךָ אֶבְטָֽח׃",
+      "douay_rheims": "From the height of the day I shall fear: but I will trust in thee.",
+      "finnish_biblia": "Kuin minä pelkään, niin minä toivon sinuun. ",
       "king_james": "What time I am afraid, I will trust in thee.",
       "refs": {
         "latin_vulgate": {
@@ -44,6 +58,9 @@
         },
         "hebrew_masoretic": {
           "src": "56:4"
+        },
+        "douay_rheims": {
+          "src": "55:4"
         }
       }
     },
@@ -51,6 +68,8 @@
       "verse": 4,
       "latin_vulgate": " In Deo laudabo sermones meos ;  in Deo speravi :  non timebo quid faciat mihi caro. ",
       "hebrew_masoretic": "בֵּאלֹהִים֮ אֲהַלֵּ֢ל דְּבָ֫ר֥וֹ בֵּאלֹהִ֣ים בָּ֭טַחְתִּי לֹ֣א אִירָ֑א מַה־יַּעֲשֶׂ֖ה בָשָׂ֣ר לִֽי׃",
+      "douay_rheims": "In God I will praise my words, in God I have put my trust: I will not fear what flesh can do against me.",
+      "finnish_biblia": "Jumalassa minä kerskaan hänen sanaansa: Jumalaan minä toivon, en minä pelkää: mitä liha minun tekis? ",
       "king_james": "In God I will praise his word, in God I have put my trust; I will not fear what flesh can do unto me.",
       "refs": {
         "latin_vulgate": {
@@ -58,6 +77,9 @@
         },
         "hebrew_masoretic": {
           "src": "56:5"
+        },
+        "douay_rheims": {
+          "src": "55:5"
         }
       }
     },
@@ -65,6 +87,8 @@
       "verse": 5,
       "latin_vulgate": " Tota die verba mea execrabantur ;  adversum me omnes cogitationes eorum in malum. ",
       "hebrew_masoretic": "כׇּל־הַ֭יּוֹם דְּבָרַ֣י יְעַצֵּ֑בוּ עָלַ֖י כׇּל־מַחְשְׁבֹתָ֣ם לָרָֽע׃",
+      "douay_rheims": "All the day long they detested my words: all their thoughts were against me unto evil.",
+      "finnish_biblia": "Joka päivä he minun sanojani kääntelevät; kaikki heidän ajatuksensa ovat pahuuteen minua vastaan. ",
       "king_james": "Every day they wrest my words: all their thoughts are against me for evil.",
       "refs": {
         "latin_vulgate": {
@@ -72,6 +96,9 @@
         },
         "hebrew_masoretic": {
           "src": "56:6"
+        },
+        "douay_rheims": {
+          "src": "55:6"
         }
       }
     },
@@ -79,6 +106,8 @@
       "verse": 6,
       "latin_vulgate": " Inhabitabunt, et abscondent ;  ipsi calcaneum meum observabunt.  Sicut sustinuerunt animam meam, ",
       "hebrew_masoretic": "יָג֤וּרוּ ׀ (יצפינו) [יִצְפּ֗וֹנוּ] הֵ֭מָּה עֲקֵבַ֣י יִשְׁמֹ֑רוּ כַּ֝אֲשֶׁ֗ר קִוּ֥וּ נַפְשִֽׁי׃",
+      "douay_rheims": "They will dwell and hide themselves: they will watch my heel. As they have waited for my soul,",
+      "finnish_biblia": "He pitävät yhtä, ja väijyvät, ja ottavat minun askeleistani vaarin, kuinka he minun sieluni käsittäisivät. ",
       "king_james": "They gather themselves together, they hide themselves, they mark my steps, when they wait for my soul.",
       "refs": {
         "latin_vulgate": {
@@ -86,6 +115,9 @@
         },
         "hebrew_masoretic": {
           "src": "56:7"
+        },
+        "douay_rheims": {
+          "src": "55:7"
         }
       }
     },
@@ -93,6 +125,8 @@
       "verse": 7,
       "latin_vulgate": " pro nihilo salvos facies illos ;  in ira populos confringes. ",
       "hebrew_masoretic": "עַל־אָ֥וֶן פַּלֶּט־לָ֑מוֹ בְּ֝אַ֗ף עַמִּ֤ים ׀ הוֹרֵ֬ד אֱלֹהִֽים׃",
+      "douay_rheims": "For nothing shalt thou save them: in thy anger thou shalt break the people in pieces. O God,",
+      "finnish_biblia": "Pitäiskö heidän vääryydestänsä pääsemän? Syökse, Jumala, se kansa alas vihassas. ",
       "king_james": "Shall they escape by iniquity? in thine anger cast down the people, O God.",
       "refs": {
         "latin_vulgate": {
@@ -100,6 +134,9 @@
         },
         "hebrew_masoretic": {
           "src": "56:8"
+        },
+        "douay_rheims": {
+          "src": "55:8"
         }
       }
     },
@@ -107,6 +144,8 @@
       "verse": 8,
       "latin_vulgate": " Deus, vitam meam annuntiavi tibi ;  posuisti lacrimas meas in conspectu tuo,  sicut et in promissione tua : ",
       "hebrew_masoretic": "נֹדִי֮ סָפַ֢רְתָּ֫ה אָ֥תָּה שִׂ֣ימָה דִמְעָתִ֣י בְנֹאדֶ֑ךָ הֲ֝לֹ֗א בְּסִפְרָתֶֽךָ׃",
+      "douay_rheims": "I have declared to thee my life: thou hast set me tears in thy sight, As also in thy promise.",
+      "finnish_biblia": "Sinä olet lukenut minun kulkemukseni: sinä panet minun kyyneleeni leiliis: eikö ne ole sinun kirjassas? ",
       "king_james": "Thou tellest my wanderings: put thou my tears into thy bottle: are they not in thy book?",
       "refs": {
         "latin_vulgate": {
@@ -114,6 +153,9 @@
         },
         "hebrew_masoretic": {
           "src": "56:9"
+        },
+        "douay_rheims": {
+          "src": "55:9"
         }
       }
     },
@@ -121,6 +163,8 @@
       "verse": 9,
       "latin_vulgate": " tunc convertentur inimici mei retrorsum.  In quacumque die invocavero te,  ecce cognovi quoniam Deus meus es. ",
       "hebrew_masoretic": "אָ֨ז יָ֘שׁ֤וּבוּ אוֹיְבַ֣י אָ֭חוֹר בְּי֣וֹם אֶקְרָ֑א זֶֽה־יָ֝דַ֗עְתִּי כִּֽי־אֱלֹהִ֥ים לִֽי׃",
+      "douay_rheims": "Then shall my enemies be turned back. In what day soever I shall call upon thee, behold I know thou art my God.",
+      "finnish_biblia": "Silloin pitää viholliseni kääntämän heitänsä takaperin, sinä päivänä, kuin minä huudan: sen minä tiedän, ettäs minun Jumalani olet. ",
       "king_james": "When I cry unto thee, then shall mine enemies turn back: this I know; for God is for me.",
       "refs": {
         "latin_vulgate": {
@@ -128,6 +172,9 @@
         },
         "hebrew_masoretic": {
           "src": "56:10"
+        },
+        "douay_rheims": {
+          "src": "55:10"
         }
       }
     },
@@ -135,6 +182,8 @@
       "verse": 10,
       "latin_vulgate": " In Deo laudabo verbum ;  in Domino laudabo sermonem.  In Deo speravi :  non timebo quid faciat mihi homo. ",
       "hebrew_masoretic": "בֵּ֭אלֹהִים אֲהַלֵּ֣ל דָּבָ֑ר בַּ֝יהֹוָ֗ה אֲהַלֵּ֥ל דָּבָֽר׃",
+      "douay_rheims": "In God will I praise the word, in the Lord will I praise his speech. In God have I hoped, I will not fear what man can do to me.",
+      "finnish_biblia": "Jumalassa minä kerskaan hänen sanaansa: Herrassa minä kerskaan hänen sanaansa. ",
       "king_james": "In God will I praise his word: in the Lord will I praise his word.",
       "refs": {
         "latin_vulgate": {
@@ -142,6 +191,9 @@
         },
         "hebrew_masoretic": {
           "src": "56:11"
+        },
+        "douay_rheims": {
+          "src": "55:11"
         }
       }
     },
@@ -149,6 +201,8 @@
       "verse": 11,
       "latin_vulgate": " quoniam magnificata est usque ad cælos misericordia tua,  et usque ad nubes veritas tua. ",
       "hebrew_masoretic": "בֵּאלֹהִ֣ים בָּ֭טַחְתִּי לֹּ֣א אִירָ֑א מַה־יַּעֲשֶׂ֖ה אָדָ֣ם לִֽי׃",
+      "douay_rheims": "For thy mercy is magnified even to the heavens: and thy truth unto the clouds.",
+      "finnish_biblia": "Jumalaan minä toivon, en minä pelkää: mitä ihminen tekis? ",
       "king_james": "In God have I put my trust: I will not be afraid what man can do unto me.",
       "refs": {
         "hebrew_masoretic": {
@@ -160,6 +214,8 @@
       "verse": 12,
       "latin_vulgate": " In me sunt, Deus, vota tua,  quæ reddam, laudationes tibi : ",
       "hebrew_masoretic": "עָלַ֣י אֱלֹהִ֣ים נְדָרֶ֑יךָ אֲשַׁלֵּ֖ם תּוֹדֹ֣ת לָֽךְ׃",
+      "douay_rheims": "In me, O God, are vows to thee, which I will pay, praises to thee:",
+      "finnish_biblia": "Minä olen sinulle, Jumala, luvannut, minä tahdon sinua kiittää. ",
       "king_james": "Thy vows are upon me, O God: I will render praises unto thee.",
       "refs": {
         "latin_vulgate": {
@@ -167,6 +223,9 @@
         },
         "hebrew_masoretic": {
           "src": "56:13"
+        },
+        "douay_rheims": {
+          "src": "55:12"
         }
       }
     },
@@ -174,6 +233,8 @@
       "verse": 13,
       "latin_vulgate": " quoniam eripuisti animam meam de morte,  et pedes meos de lapsu,  ut placeam coram Deo in lumine viventium.  ",
       "hebrew_masoretic": "כִּ֤י הִצַּ֪לְתָּ נַפְשִׁ֡י מִמָּוֶת֮ הֲלֹ֥א רַגְלַ֗י מִ֫דֶּ֥חִי לְ֭הִֽתְהַלֵּךְ לִפְנֵ֣י אֱלֹהִ֑ים בְּ֝א֗וֹר הַחַיִּֽים׃ {פ}",
+      "douay_rheims": "Because thou hast delivered my soul from death, my feet from falling: that I may please in the sight of God, in the light of the living. ",
+      "finnish_biblia": "Sillä sinä olet pelastanut minun sieluni kuolemasta, minun jalkani lankeemisesta; että minä vaeltaisin Jumalan edessä eläväin valkeudessa.   ",
       "king_james": "For thou hast delivered my soul from death: wilt not thou deliver my feet from falling, that I may walk before God in the light of the living? ",
       "refs": {
         "latin_vulgate": {
@@ -181,6 +242,9 @@
         },
         "hebrew_masoretic": {
           "src": "56:14"
+        },
+        "douay_rheims": {
+          "src": "55:13"
         }
       }
     }

@@ -2,6 +2,8 @@
   "book_id": "PSA",
   "latin_name": "Liber Psalmorum",
   "hebrew_name": "תְּהִלִּים",
+  "douay_name": "Psalms",
+  "finnish_name": "Psalmit",
   "english_name": "Psalms",
   "chapter": 44,
   "verses": [
@@ -9,6 +11,8 @@
       "verse": 1,
       "latin_vulgate": "  Deus, auribus nostris audivimus,  patres nostri annuntiaverunt nobis,  opus quod operatus es in diebus eorum,  et in diebus antiquis. ",
       "hebrew_masoretic": "אֱלֹהִ֤ים ׀ בְּאׇזְנֵ֬ינוּ שָׁמַ֗עְנוּ אֲבוֹתֵ֥ינוּ סִפְּרוּ־לָ֑נוּ פֹּ֥עַל פָּעַ֥לְתָּ בִ֝ימֵיהֶ֗ם בִּ֣ימֵי קֶֽדֶם׃",
+      "douay_rheims": "We have heard, O God, with our ears: our fathers have declared to us, The work thou hast wrought in their days, and in the days of old.",
+      "finnish_biblia": "Koran lasten opetus, edelläveisaajalle. (H44:2) Jumala! me olemme korvillamme kuulleet, meidän isämme ovat meille luetelleet, mitäs heidän aikanansa ja muinen tehnyt olet. ",
       "king_james": "We have heard with our ears, O God, our fathers have told us, what work thou didst in their days, in the times of old.",
       "refs": {
         "latin_vulgate": {
@@ -16,6 +20,9 @@
         },
         "hebrew_masoretic": {
           "src": "44:2"
+        },
+        "douay_rheims": {
+          "src": "43:2"
         }
       }
     },
@@ -23,6 +30,8 @@
       "verse": 2,
       "latin_vulgate": " Manus tua gentes disperdidit, et plantasti eos ;  afflixisti populos, et expulisti eos. ",
       "hebrew_masoretic": "אַתָּ֤ה ׀ יָדְךָ֡ גּוֹיִ֣ם ה֭וֹרַשְׁתָּ וַתִּטָּעֵ֑ם תָּרַ֥ע לְ֝אֻמִּ֗ים וַֽתְּשַׁלְּחֵֽם׃",
+      "douay_rheims": "Thy hand destroyed the Gentiles, and thou plantedst them: thou didst afflict the people and cast them out.",
+      "finnish_biblia": "Sinä olet ajanut pakanat pois kädelläs; mutta heidät sinä olet istuttanut siaan: sinä olet kansat kadottanut, mutta heitä sinä olet levittänyt. ",
       "king_james": "How thou didst drive out the heathen with thy hand, and plantedst them; how thou didst afflict the people, and cast them out.",
       "refs": {
         "latin_vulgate": {
@@ -30,6 +39,9 @@
         },
         "hebrew_masoretic": {
           "src": "44:3"
+        },
+        "douay_rheims": {
+          "src": "43:3"
         }
       }
     },
@@ -37,6 +49,8 @@
       "verse": 3,
       "latin_vulgate": " Nec enim in gladio suo possederunt terram,  et brachium eorum non salvavit eos :  sed dextera tua et brachium tuum,  et illuminatio vultus tui, quoniam complacuisti in eis. ",
       "hebrew_masoretic": "כִּ֤י לֹ֪א בְחַרְבָּ֡ם יָ֥רְשׁוּ אָ֗רֶץ וּזְרוֹעָם֮ לֹא־הוֹשִׁ֢יעָ֫ה לָּ֥מוֹ כִּֽי־יְמִינְךָ֣ וּ֭זְרוֹעֲךָ וְא֥וֹר פָּנֶ֗יךָ כִּ֣י רְצִיתָֽם׃",
+      "douay_rheims": "For they got not the possession of the land by their own sword: neither did their own arm save them. But thy right hand and thy arm, and the light of thy countenance: because thou wast pleased with them.",
+      "finnish_biblia": "Sillä ei he ole miekallansa maata omistaneet, ja heidän käsivartensa ei auttaneet heitä, vaan sinun oikia kätes ja sinun käsivartes, ja sinun kasvois valkeus; sillä sinä mielistyit heihin. ",
       "king_james": "For they got not the land in possession by their own sword, neither did their own arm save them: but thy right hand, and thine arm, and the light of thy countenance, because thou hadst a favour unto them.",
       "refs": {
         "latin_vulgate": {
@@ -44,6 +58,9 @@
         },
         "hebrew_masoretic": {
           "src": "44:4"
+        },
+        "douay_rheims": {
+          "src": "43:4"
         }
       }
     },
@@ -51,6 +68,8 @@
       "verse": 4,
       "latin_vulgate": " Tu es ipse rex meus et Deus meus,  qui mandas salutes Jacob. ",
       "hebrew_masoretic": "אַתָּה־ה֣וּא מַלְכִּ֣י אֱלֹהִ֑ים צַ֝וֵּ֗ה יְשׁוּע֥וֹת יַעֲקֹֽב׃",
+      "douay_rheims": "Thou art thyself my king and my God, who commandest the saving of Jacob.",
+      "finnish_biblia": "Jumala, sinä olet minun kuninkaani, joka autuuden Jakobille lupaat. ",
       "king_james": "Thou art my King, O God: command deliverances for Jacob.",
       "refs": {
         "latin_vulgate": {
@@ -58,6 +77,9 @@
         },
         "hebrew_masoretic": {
           "src": "44:5"
+        },
+        "douay_rheims": {
+          "src": "43:5"
         }
       }
     },
@@ -65,6 +87,8 @@
       "verse": 5,
       "latin_vulgate": " In te inimicos nostros ventilabimus cornu,  et in nomine tuo spernemus insurgentes in nobis. ",
       "hebrew_masoretic": "בְּ֭ךָ צָרֵ֣ינוּ נְנַגֵּ֑חַ בְּ֝שִׁמְךָ֗ נָב֥וּס קָמֵֽינוּ׃",
+      "douay_rheims": "Through thee we will push down our enemies with the horn: and through thy name we will despise them that rise up against us.",
+      "finnish_biblia": "Sinun kauttas me vihollisemme paiskaamme maahan; sinun nimessäs me tallaamme vastaankarkaajamme. ",
       "king_james": "Through thee will we push down our enemies: through thy name will we tread them under that rise up against us.",
       "refs": {
         "latin_vulgate": {
@@ -72,6 +96,9 @@
         },
         "hebrew_masoretic": {
           "src": "44:6"
+        },
+        "douay_rheims": {
+          "src": "43:6"
         }
       }
     },
@@ -79,6 +106,8 @@
       "verse": 6,
       "latin_vulgate": " Non enim in arcu meo sperabo,  et gladius meus non salvabit me : ",
       "hebrew_masoretic": "כִּ֤י לֹ֣א בְקַשְׁתִּ֣י אֶבְטָ֑ח וְ֝חַרְבִּ֗י לֹ֣א תוֹשִׁיעֵֽנִי׃",
+      "douay_rheims": "For I will not trust in my bow: neither shall my sword save me.",
+      "finnish_biblia": "Sillä en minä luota joutseeni, eikä miekkani auta minua. ",
       "king_james": "For I will not trust in my bow, neither shall my sword save me.",
       "refs": {
         "latin_vulgate": {
@@ -86,6 +115,9 @@
         },
         "hebrew_masoretic": {
           "src": "44:7"
+        },
+        "douay_rheims": {
+          "src": "43:7"
         }
       }
     },
@@ -93,6 +125,8 @@
       "verse": 7,
       "latin_vulgate": " salvasti enim nos de affligentibus nos,  et odientes nos confudisti. ",
       "hebrew_masoretic": "כִּ֣י ה֭וֹשַׁעְתָּנוּ מִצָּרֵ֑ינוּ וּמְשַׂנְאֵ֥ינוּ הֱבִישֽׁוֹתָ׃",
+      "douay_rheims": "But thou hast saved us from them that afflict us: and hast put them to shame that hate us.",
+      "finnish_biblia": "Mutta sinä autat meitä vihollisistamme, ja saatat niitä häpiään, jotka meitä vihaavat. ",
       "king_james": "But thou hast saved us from our enemies, and hast put them to shame that hated us.",
       "refs": {
         "latin_vulgate": {
@@ -100,6 +134,9 @@
         },
         "hebrew_masoretic": {
           "src": "44:8"
+        },
+        "douay_rheims": {
+          "src": "43:8"
         }
       }
     },
@@ -107,6 +144,8 @@
       "verse": 8,
       "latin_vulgate": " In Deo laudabimur tota die,  et in nomine tuo confitebimur in sæculum. ",
       "hebrew_masoretic": "בֵּ֭אלֹהִים הִלַּ֣לְנוּ כׇל־הַיּ֑וֹם וְשִׁמְךָ֓ ׀ לְעוֹלָ֖ם נוֹדֶ֣ה סֶֽלָה׃",
+      "douay_rheims": "In God shall we glory all the day long: and in thy name we will give praise for ever.",
+      "finnish_biblia": "Jumalasta me kerskaamme joka päivä, ja kiitämme sinun nimeäs ijankaikkisesti, Sela! ",
       "king_james": "In God we boast all the day long, and praise thy name for ever. Selah.",
       "refs": {
         "latin_vulgate": {
@@ -114,6 +153,9 @@
         },
         "hebrew_masoretic": {
           "src": "44:9"
+        },
+        "douay_rheims": {
+          "src": "43:9"
         }
       }
     },
@@ -121,6 +163,8 @@
       "verse": 9,
       "latin_vulgate": " Nunc autem repulisti et confudisti nos,  et non egredieris, Deus, in virtutibus nostris. ",
       "hebrew_masoretic": "אַף־זָ֭נַחְתָּ וַתַּכְלִימֵ֑נוּ וְלֹא־תֵ֝צֵ֗א בְּצִבְאוֹתֵֽינוּ׃",
+      "douay_rheims": "But now thou hast cast us off, and put us to shame: and thou , O God, wilt not go out with our armies.",
+      "finnish_biblia": "Miksi sinä nyt sysäät meitä pois, ja annat meidän häpiään tulla, etkä lähde meidän sotajoukkomme kanssa? ",
       "king_james": "But thou hast cast off, and put us to shame; and goest not forth with our armies.",
       "refs": {
         "latin_vulgate": {
@@ -128,6 +172,9 @@
         },
         "hebrew_masoretic": {
           "src": "44:10"
+        },
+        "douay_rheims": {
+          "src": "43:10"
         }
       }
     },
@@ -135,6 +182,8 @@
       "verse": 10,
       "latin_vulgate": " Avertisti nos retrorsum post inimicos nostros,  et qui oderunt nos diripiebant sibi. ",
       "hebrew_masoretic": "תְּשִׁיבֵ֣נוּ אָ֭חוֹר מִנִּי־צָ֑ר וּ֝מְשַׂנְאֵ֗ינוּ שָׁ֣סוּ לָֽמוֹ׃",
+      "douay_rheims": "Thou hast made us turn our back to our enemies: and they that hated us plundered for themselves.",
+      "finnish_biblia": "Sinä annat meidän paeta vihollistemme edessä, että ne raatelisivat meitä, jotka meitä vihaavat. ",
       "king_james": "Thou makest us to turn back from the enemy: and they which hate us spoil for themselves.",
       "refs": {
         "latin_vulgate": {
@@ -142,6 +191,9 @@
         },
         "hebrew_masoretic": {
           "src": "44:11"
+        },
+        "douay_rheims": {
+          "src": "43:11"
         }
       }
     },
@@ -149,6 +201,8 @@
       "verse": 11,
       "latin_vulgate": " Dedisti nos tamquam oves escarum,  et in gentibus dispersisti nos. ",
       "hebrew_masoretic": "תִּ֭תְּנֵנוּ כְּצֹ֣אן מַאֲכָ֑ל וּ֝בַגּוֹיִ֗ם זֵרִיתָֽנוּ׃",
+      "douay_rheims": "Thou hast given us up like sheep to be eaten: thou hast scattered us among the nations.",
+      "finnish_biblia": "Sinä annat meitä syötäviksi niinkuin lampaita, ja hajoitat pakanain sekaan. ",
       "king_james": "Thou hast given us like sheep appointed for meat; and hast scattered us among the heathen.",
       "refs": {
         "latin_vulgate": {
@@ -156,6 +210,9 @@
         },
         "hebrew_masoretic": {
           "src": "44:12"
+        },
+        "douay_rheims": {
+          "src": "43:12"
         }
       }
     },
@@ -163,6 +220,8 @@
       "verse": 12,
       "latin_vulgate": " Vendidisti populum tuum sine pretio,  et non fuit multitudo in commutationibus eorum. ",
       "hebrew_masoretic": "תִּמְכֹּֽר־עַמְּךָ֥ בְלֹא־ה֑וֹן וְלֹֽא־רִ֝בִּ֗יתָ בִּמְחִירֵיהֶֽם׃",
+      "douay_rheims": "Thou hast sold thy people for no price: and there was no reckoning in the exchange of them.",
+      "finnish_biblia": "Sinä myit kansas ilman hintaa, ja et mitään siitä ottanut. ",
       "king_james": "Thou sellest thy people for nought, and dost not increase thy wealth by their price.",
       "refs": {
         "latin_vulgate": {
@@ -170,6 +229,9 @@
         },
         "hebrew_masoretic": {
           "src": "44:13"
+        },
+        "douay_rheims": {
+          "src": "43:13"
         }
       }
     },
@@ -177,6 +239,8 @@
       "verse": 13,
       "latin_vulgate": " Posuisti nos opprobrium vicinis nostris ;  subsannationem et derisum his qui sunt in circuitu nostro. ",
       "hebrew_masoretic": "תְּשִׂימֵ֣נוּ חֶ֭רְפָּה לִשְׁכֵנֵ֑ינוּ לַ֥עַג וָ֝קֶ֗לֶס לִסְבִיבוֹתֵֽינוּ׃",
+      "douay_rheims": "Thou hast made us a reproach to our neighbours, a scoff and derision to them that are round about us.",
+      "finnish_biblia": "Sinä panet meitä häpiäksi läsnä-asuvaisillemme, pilkaksi ja nauruksi niille, jotka meidän ympärillämme ovat. ",
       "king_james": "Thou makest us a reproach to our neighbours, a scorn and a derision to them that are round about us.",
       "refs": {
         "latin_vulgate": {
@@ -184,6 +248,9 @@
         },
         "hebrew_masoretic": {
           "src": "44:14"
+        },
+        "douay_rheims": {
+          "src": "43:14"
         }
       }
     },
@@ -191,6 +258,8 @@
       "verse": 14,
       "latin_vulgate": " Posuisti nos in similitudinem gentibus ;  commotionem capitis in populis. ",
       "hebrew_masoretic": "תְּשִׂימֵ֣נוּ מָ֭שָׁל בַּגּוֹיִ֑ם מְנֽוֹד־רֹ֝֗אשׁ בַּלְאֻמִּֽים׃",
+      "douay_rheims": "Thou hast made us a byword among the Gentiles: a shaking of the head among the people.",
+      "finnish_biblia": "Sinä teet meitä sananlaskuksi pakanain seassa, ja että kansat vääntelevät päätänsä meidän tähtemme. ",
       "king_james": "Thou makest us a byword among the heathen, a shaking of the head among the people.",
       "refs": {
         "latin_vulgate": {
@@ -198,6 +267,9 @@
         },
         "hebrew_masoretic": {
           "src": "44:15"
+        },
+        "douay_rheims": {
+          "src": "43:15"
         }
       }
     },
@@ -205,6 +277,8 @@
       "verse": 15,
       "latin_vulgate": " Tota die verecundia mea contra me est,  et confusio faciei meæ cooperuit me : ",
       "hebrew_masoretic": "כׇּל־הַ֭יּוֹם כְּלִמָּתִ֣י נֶגְדִּ֑י וּבֹ֖שֶׁת פָּנַ֣י כִּסָּֽתְנִי׃",
+      "douay_rheims": "All the day long my shame is before me: and the confusion of my face hath covered me,",
+      "finnish_biblia": "Joka päivä on minun häväistykseni minun edessäni; ja minun kasvoini häpiä peittää minun, ",
       "king_james": "My confusion is continually before me, and the shame of my face hath covered me,",
       "refs": {
         "latin_vulgate": {
@@ -212,6 +286,9 @@
         },
         "hebrew_masoretic": {
           "src": "44:16"
+        },
+        "douay_rheims": {
+          "src": "43:16"
         }
       }
     },
@@ -219,6 +296,8 @@
       "verse": 16,
       "latin_vulgate": " a voce exprobrantis et obloquentis,  a facie inimici et persequentis. ",
       "hebrew_masoretic": "מִ֭קּוֹל מְחָרֵ֣ף וּמְגַדֵּ֑ף מִפְּנֵ֥י א֝וֹיֵ֗ב וּמִתְנַקֵּֽם׃",
+      "douay_rheims": "At the voice of him that reproacheth and detracteth me: at the face of the enemy and persecutor.",
+      "finnish_biblia": "Että minun pitää pilkkaajia ja laittajia kuuleman, ja viholliset ja tylyt kostajat näkemän. ",
       "king_james": "For the voice of him that reproacheth and blasphemeth; by reason of the enemy and avenger.",
       "refs": {
         "latin_vulgate": {
@@ -226,6 +305,9 @@
         },
         "hebrew_masoretic": {
           "src": "44:17"
+        },
+        "douay_rheims": {
+          "src": "43:17"
         }
       }
     },
@@ -233,6 +315,8 @@
       "verse": 17,
       "latin_vulgate": " Hæc omnia venerunt super nos ; nec obliti sumus te,  et inique non egimus in testamento tuo. ",
       "hebrew_masoretic": "כׇּל־זֹ֣את בָּ֭אַתְנוּ וְלֹ֣א שְׁכַחֲנ֑וּךָ וְלֹֽא־שִׁ֝קַּ֗רְנוּ בִּבְרִיתֶֽךָ׃",
+      "douay_rheims": "All these things have come upon us, yet we have not forgotten thee: and we have not done wickedly in thy covenant.",
+      "finnish_biblia": "Nämät kaikki ovat tulleet meidän päällemme; ja emme sentähden ole sinua unhottaneet, emmekä petollisesti sinun liittoas vastaan tehneet. ",
       "king_james": "All this is come upon us; yet have we not forgotten thee, neither have we dealt falsely in thy covenant.",
       "refs": {
         "latin_vulgate": {
@@ -240,6 +324,9 @@
         },
         "hebrew_masoretic": {
           "src": "44:18"
+        },
+        "douay_rheims": {
+          "src": "43:18"
         }
       }
     },
@@ -247,6 +334,8 @@
       "verse": 18,
       "latin_vulgate": " Et non recessit retro cor nostrum ;  et declinasti semitas nostras a via tua : ",
       "hebrew_masoretic": "לֹא־נָס֣וֹג אָח֣וֹר לִבֵּ֑נוּ וַתֵּ֥ט אֲ֝שֻׁרֵ֗ינוּ מִנִּ֥י אׇרְחֶֽךָ׃",
+      "douay_rheims": "And our heart hath not turned back: neither hast thou turned aside our steps from thy way.",
+      "finnish_biblia": "Ja ei meidän sydämemme takaperin kääntynyt, eikä meidän käymisemme poikennut sinun tiestäs; ",
       "king_james": "Our heart is not turned back, neither have our steps declined from thy way;",
       "refs": {
         "latin_vulgate": {
@@ -254,6 +343,9 @@
         },
         "hebrew_masoretic": {
           "src": "44:19"
+        },
+        "douay_rheims": {
+          "src": "43:19"
         }
       }
     },
@@ -261,6 +353,8 @@
       "verse": 19,
       "latin_vulgate": " quoniam humiliasti nos in loco afflictionis,  et cooperuit nos umbra mortis. ",
       "hebrew_masoretic": "כִּ֣י דִ֭כִּיתָנוּ בִּמְק֣וֹם תַּנִּ֑ים וַתְּכַ֖ס עָלֵ֣ינוּ בְצַלְמָֽוֶת׃",
+      "douay_rheims": "For thou hast humbled us in the place of affliction: and the shadow of death hath covered us.",
+      "finnish_biblia": "Ettäs meitä niin löit rikki lohikärmeiden seassa ja peitit meitä kuoleman varjolla. ",
       "king_james": "Though thou hast sore broken us in the place of dragons, and covered us with the shadow of death.",
       "refs": {
         "latin_vulgate": {
@@ -268,6 +362,9 @@
         },
         "hebrew_masoretic": {
           "src": "44:20"
+        },
+        "douay_rheims": {
+          "src": "43:20"
         }
       }
     },
@@ -275,6 +372,8 @@
       "verse": 20,
       "latin_vulgate": " Si obliti sumus nomen Dei nostri,  et si expandimus manus nostras ad deum alienum, ",
       "hebrew_masoretic": "אִם־שָׁ֭כַחְנוּ שֵׁ֣ם אֱלֹהֵ֑ינוּ וַנִּפְרֹ֥שׂ כַּ֝פֵּ֗ינוּ לְאֵ֣ל זָֽר׃",
+      "douay_rheims": "If we have forgotten the name of our God, and if we have spread forth our hands to a strange god:",
+      "finnish_biblia": "Jos me olisimme meidän Jumalamme nimen unhottaneet, ja meidän kätemme nostaneet vieraalle Jumalalle, ",
       "king_james": "If we have forgotten the name of our God, or stretched out our hands to a strange god;",
       "refs": {
         "latin_vulgate": {
@@ -282,6 +381,9 @@
         },
         "hebrew_masoretic": {
           "src": "44:21"
+        },
+        "douay_rheims": {
+          "src": "43:21"
         }
       }
     },
@@ -289,6 +391,8 @@
       "verse": 21,
       "latin_vulgate": " nonne Deus requiret ista ?  ipse enim novit abscondita cordis.  Quoniam propter te mortificamur tota die ;  æstimati sumus sicut oves occisionis. ",
       "hebrew_masoretic": "הֲלֹ֣א אֱ֭לֹהִים יַחֲקׇר־זֹ֑את כִּי־ה֥וּא יֹ֝דֵ֗עַ תַּעֲלֻמ֥וֹת לֵֽב׃",
+      "douay_rheims": "Shall not God search out these things: for he knoweth the secrets of the heart. Because for thy sake we are killed all the day long: we are counted as sheep for the slaughter.",
+      "finnish_biblia": "Eikö Jumala sitä etsisi? vaan hän itse tietää meidän sydämemme pohjan. ",
       "king_james": "Shall not God search this out? for he knoweth the secrets of the heart.",
       "refs": {
         "latin_vulgate": {
@@ -296,6 +400,9 @@
         },
         "hebrew_masoretic": {
           "src": "44:22"
+        },
+        "douay_rheims": {
+          "src": "43:22"
         }
       }
     },
@@ -303,6 +410,8 @@
       "verse": 22,
       "latin_vulgate": "",
       "hebrew_masoretic": "כִּֽי־עָ֭לֶיךָ הֹרַ֣גְנוּ כׇל־הַיּ֑וֹם נֶ֝חְשַׁ֗בְנוּ כְּצֹ֣אן טִבְחָֽה׃",
+      "douay_rheims": "",
+      "finnish_biblia": "Sillä sinun tähtes me surmataan joka päivä: ja me luetaan teuraslampaiksi. ",
       "king_james": "Yea, for thy sake are we killed all the day long; we are counted as sheep for the slaughter.",
       "refs": {
         "latin_vulgate": {
@@ -310,6 +419,9 @@
         },
         "hebrew_masoretic": {
           "src": "44:23"
+        },
+        "douay_rheims": {
+          "absent": true
         }
       }
     },
@@ -317,6 +429,8 @@
       "verse": 23,
       "latin_vulgate": " Exsurge ; quare obdormis, Domine ?  exsurge, et ne repellas in finem. ",
       "hebrew_masoretic": "ע֤וּרָה ׀ לָ֖מָּה תִישַׁ֥ן ׀ אֲדֹנָ֑י הָ֝קִ֗יצָה אַל־תִּזְנַ֥ח לָנֶֽצַח׃",
+      "douay_rheims": "Arise, why sleepest thou, O Lord? arise, and cast us not off to the end.",
+      "finnish_biblia": "Herää, Herra, miksis makaat? valvo, ja älä meitä sysää pois kaiketikaan. ",
       "king_james": "Awake, why sleepest thou, O Lord? arise, cast us not off for ever.",
       "refs": {
         "latin_vulgate": {
@@ -324,6 +438,9 @@
         },
         "hebrew_masoretic": {
           "src": "44:24"
+        },
+        "douay_rheims": {
+          "src": "43:23"
         }
       }
     },
@@ -331,6 +448,8 @@
       "verse": 24,
       "latin_vulgate": " Quare faciem tuam avertis ?  oblivisceris inopiæ nostræ et tribulationis nostræ ? ",
       "hebrew_masoretic": "לָֽמָּה־פָנֶ֥יךָ תַסְתִּ֑יר תִּשְׁכַּ֖ח עׇנְיֵ֣נוּ וְֽלַחֲצֵֽנוּ׃",
+      "douay_rheims": "Why turnest thou thy face away? and forgettest our want and our trouble?",
+      "finnish_biblia": "Miksis peität kasvos, ja unohdat meidän raadollisuutemme ja ahdistuksemme? ",
       "king_james": "Wherefore hidest thou thy face, and forgettest our affliction and our oppression?",
       "refs": {
         "latin_vulgate": {
@@ -338,6 +457,9 @@
         },
         "hebrew_masoretic": {
           "src": "44:25"
+        },
+        "douay_rheims": {
+          "src": "43:24"
         }
       }
     },
@@ -345,6 +467,8 @@
       "verse": 25,
       "latin_vulgate": " Quoniam humiliata est in pulvere anima nostra ;  conglutinatus est in terra venter noster. ",
       "hebrew_masoretic": "כִּ֤י שָׁ֣חָה לֶעָפָ֣ר נַפְשֵׁ֑נוּ דָּבְקָ֖ה לָאָ֣רֶץ בִּטְנֵֽנוּ׃",
+      "douay_rheims": "For our soul is humbled down to the dust: our belly cleaveth to the earth.",
+      "finnish_biblia": "Sillä meidän sielumme on painettu alas maahan asti: meidän vatsamme riippuu maassa. ",
       "king_james": "For our soul is bowed down to the dust: our belly cleaveth unto the earth.",
       "refs": {
         "latin_vulgate": {
@@ -352,6 +476,9 @@
         },
         "hebrew_masoretic": {
           "src": "44:26"
+        },
+        "douay_rheims": {
+          "src": "43:25"
         }
       }
     },
@@ -359,6 +486,8 @@
       "verse": 26,
       "latin_vulgate": " Exsurge, Domine, adjuva nos,  et redime nos propter nomen tuum.  ",
       "hebrew_masoretic": "ק֭וּמָֽה עֶזְרָ֣תָה לָּ֑נוּ וּ֝פְדֵ֗נוּ לְמַ֣עַן חַסְדֶּֽךָ׃ {פ}",
+      "douay_rheims": "Arise, O Lord, help us and redeem us for thy name's sake. ",
+      "finnish_biblia": "Nouse, auta meitä, ja lunasta meitä laupiutes tähden!   ",
       "king_james": "Arise for our help, and redeem us for thy mercies’ sake. ",
       "refs": {
         "latin_vulgate": {
@@ -366,6 +495,9 @@
         },
         "hebrew_masoretic": {
           "src": "44:27"
+        },
+        "douay_rheims": {
+          "src": "43:26"
         }
       }
     }

@@ -2,6 +2,8 @@
   "book_id": "JOB",
   "latin_name": "Iob",
   "hebrew_name": "אִיּוֹב",
+  "douay_name": "Job",
+  "finnish_name": "Jobin kirja",
   "english_name": "Job",
   "chapter": 6,
   "verses": [
@@ -9,180 +11,240 @@
       "verse": 1,
       "latin_vulgate": "Respondens autem Job, dixit :  ",
       "hebrew_masoretic": "וַיַּ֥עַן אִיּ֗וֹב וַיֹּאמַֽר׃",
+      "douay_rheims": "But Job answered, and said:",
+      "finnish_biblia": "Niin Job vastasi ja sanoi: ",
       "king_james": "But Job answered and said,"
     },
     {
       "verse": 2,
       "latin_vulgate": "  Utinam appenderentur peccata mea quibus iram merui,  et calamitas quam patior, in statera ! ",
       "hebrew_masoretic": "ל֗וּ שָׁק֣וֹל יִשָּׁקֵ֣ל כַּעְשִׂ֑י (והיתי) [וְ֝הַוָּתִ֗י] בְּֽמֹאזְנַ֥יִם יִשְׂאוּ־יָֽחַד׃",
+      "douay_rheims": "O that my sins, whereby I have deserved wrath, and the calamity that I suffer, were weighed in a balance.",
+      "finnish_biblia": "Jos minun surkeuteni punnittaisiin, ja minun kärsimiseni yhtä haavaa laskettaisiin vaa´an päälle, ",
       "king_james": "Oh that my grief were throughly weighed, and my calamity laid in the balances together!"
     },
     {
       "verse": 3,
       "latin_vulgate": " Quasi arena maris hæc gravior appareret ;  unde et verba mea dolore sunt plena : ",
       "hebrew_masoretic": "כִּֽי־עַתָּ֗ה מֵח֣וֹל יַמִּ֣ים יִכְבָּ֑ד עַל־כֵּ֝֗ן דְּבָרַ֥י לָֽעוּ׃",
+      "douay_rheims": "As the sand of the sea, this would appear heavier: therefore, my words are full of sorrow:",
+      "finnish_biblia": "Niin se olis raskaampi kuin santa meressä; sentähden ovat minun sanani nielletyt ylös. ",
       "king_james": "For now it would be heavier than the sand of the sea: therefore my words are swallowed up."
     },
     {
       "verse": 4,
       "latin_vulgate": " quia sagittæ Domini in me sunt,  quarum indignatio ebibit spiritum meum ;  et terrores Domini militant contra me. ",
       "hebrew_masoretic": "כִּ֤י חִצֵּ֪י שַׁדַּ֡י עִמָּדִ֗י אֲשֶׁ֣ר חֲ֭מָתָם שֹׁתָ֣ה רוּחִ֑י בִּעוּתֵ֖י אֱל֣וֹהַּ יַעַרְכֽוּנִי׃",
+      "douay_rheims": "For the arrows of the Lord are in me, the rage whereof drinketh up my spirit, and the terrors of the Lord war against me.",
+      "finnish_biblia": "Sillä Kaikkivaltiaan nuolet ovat minussa, joiden myrkky särpää minun henkeni; ja Jumalan kauhistus tarkoittaa minua. ",
       "king_james": "For the arrows of the Almighty are within me, the poison whereof drinketh up my spirit: the terrors of God do set themselves in array against me."
     },
     {
       "verse": 5,
       "latin_vulgate": " Numquid rugiet onager cum habuerit herbam ?  aut mugiet bos cum ante præsepe plenum steterit ? ",
       "hebrew_masoretic": "הֲיִֽנְהַק־פֶּ֥רֶא עֲלֵי־דֶ֑שֶׁא אִ֥ם יִגְעֶה־שּׁ֝֗וֹר עַל־בְּלִילֽוֹ׃",
+      "douay_rheims": "Will the wild ass bray when he hath grass? or will the ox low when he standeth before a full manger?",
+      "finnish_biblia": "Huutaako metsä-aasi, kuin hänellä ruohoja on? ammuuko härkä, kuin hänellä on ruokaa? ",
       "king_james": "Doth the wild ass bray when he hath grass? or loweth the ox over his fodder?"
     },
     {
       "verse": 6,
       "latin_vulgate": " aut poterit comedi insulsum, quod non est sale conditum ?  aut potest aliquis gustare quod gustatum affert mortem ? ",
       "hebrew_masoretic": "הֲיֵאָכֵ֣ל תָּ֭פֵל מִבְּלִי־מֶ֑לַח אִם־יֶשׁ־טַ֝֗עַם בְּרִ֣יר חַלָּמֽוּת׃",
+      "douay_rheims": "Or can an unsavoury thing be eaten, that is not seasoned with salt? or can a man taste that which, when tasted, bringeth death?",
+      "finnish_biblia": "Syödäänkö mautointa ilman suolaa? eli maistaako valkuainen munan ruskuaisen ympäriltä? ",
       "king_james": "Can that which is unsavoury be eaten without salt? or is there any taste in the white of an egg?"
     },
     {
       "verse": 7,
       "latin_vulgate": " Quæ prius nolebat tangere anima mea,  nunc, præ angustia, cibi mei sunt. ",
       "hebrew_masoretic": "מֵאֲנָ֣ה לִנְגּ֣וֹעַ נַפְשִׁ֑י הֵ֝֗מָּה כִּדְוֵ֥י לַחְמִֽי׃",
+      "douay_rheims": "The things which before my soul would not touch, now, through anguish, are my meats.",
+      "finnish_biblia": "Jota minun sieluni ennen kuoitti, se on nyt minun ruokani minun kipuni tähden. ",
       "king_james": "The things that my soul refused to touch are as my sorrowful meat."
     },
     {
       "verse": 8,
       "latin_vulgate": " Quis det ut veniat petitio mea,  et quod expecto tribuat mihi Deus ? ",
       "hebrew_masoretic": "מִֽי־יִ֭תֵּן תָּב֣וֹא שֶׁאֱלָתִ֑י וְ֝תִקְוָתִ֗י יִתֵּ֥ן אֱלֽוֹהַּ׃",
+      "douay_rheims": "Who will grant that my request may come: and that God may give me what I look for?",
+      "finnish_biblia": "Jospa minun rukoukseni tapahtuis, ja Jumala antais minulle, mitä minä toivon! ",
       "king_james": "Oh that I might have my request; and that God would grant me the thing that I long for!"
     },
     {
       "verse": 9,
       "latin_vulgate": " et qui cœpit, ipse me conterat ;  solvat manum suam, et succidat me ? ",
       "hebrew_masoretic": "וְיֹאֵ֣ל אֱ֭לוֹהַּ וִידַכְּאֵ֑נִי יַתֵּ֥ר יָ֝ד֗וֹ וִיבַצְּעֵֽנִי׃",
+      "douay_rheims": "And that he that hath begun may destroy me, that he may let loose his hand, and cut me off?",
+      "finnish_biblia": "Että Jumala tahtois ja löis minun rikki, ja päästäis kätensä särkemään minua; ",
       "king_james": "Even that it would please God to destroy me; that he would let loose his hand, and cut me off!"
     },
     {
       "verse": 10,
       "latin_vulgate": " Et hæc mihi sit consolatio, ut affligens me dolore, non parcat,  nec contradicam sermonibus Sancti. ",
       "hebrew_masoretic": "וּ֥תְהִי־ע֨וֹד ׀ נֶ֘חָ֤מָתִ֗י וַאֲסַלְּדָ֣ה בְ֭חִילָה לֹ֣א יַחְמ֑וֹל כִּי־לֹ֥א כִ֝חַ֗דְתִּי אִמְרֵ֥י קָדֽוֹשׁ׃",
+      "douay_rheims": "And that this may be my comfort, that afflicting me with sorrow, he spare not, nor I contradict the words of the Holy one.",
+      "finnish_biblia": "Niin olis minulla vielä sitte lohdutus, ja minä vahvistuisin sairaudessani, ellei hän säästäisi minua: en ole mitään kuitenkaan kieltänyt pyhän puhetta. ",
       "king_james": "Then should I yet have comfort; yea, I would harden myself in sorrow: let him not spare; for I have not concealed the words of the Holy One."
     },
     {
       "verse": 11,
       "latin_vulgate": " Quæ est enim fortitudo mea, ut sustineam ?  aut quis finis meus, ut patienter agam ? ",
       "hebrew_masoretic": "מַה־כֹּחִ֥י כִֽי־אֲיַחֵ֑ל וּמַה־קִּ֝צִּ֗י כִּֽי־אַאֲרִ֥יךְ נַפְשִֽׁי׃",
+      "douay_rheims": "For what is my strength, that I can hold out? or what is my end, that I should keep patience?",
+      "finnish_biblia": "Mikä on minun väkeni, että minä voisin toivoa? ja mikä on minun loppuni, että minun sieluni vois kärsiväinen olla? ",
       "king_james": "What is my strength, that I should hope? and what is mine end, that I should prolong my life?"
     },
     {
       "verse": 12,
       "latin_vulgate": " Nec fortitudo lapidum fortitudo mea,  nec caro mea ænea est. ",
       "hebrew_masoretic": "אִם־כֹּ֣חַ אֲבָנִ֣ים כֹּחִ֑י אִֽם־בְּשָׂרִ֥י נָחֽוּשׁ׃",
+      "douay_rheims": "My strength is not the strength of stones, nor is my flesh of brass.",
+      "finnish_biblia": "Onko minun väkeni kivinen? eli minun lihani vaskinen? ",
       "king_james": "Is my strength the strength of stones? or is my flesh of brass?"
     },
     {
       "verse": 13,
       "latin_vulgate": " Ecce non est auxilium mihi in me,  et necessarii quoque mei recesserunt a me. ",
       "hebrew_masoretic": "הַאִ֬ם אֵ֣ין עֶזְרָתִ֣י בִ֑י וְ֝תֻשִׁיָּ֗ה נִדְּחָ֥ה מִמֶּֽנִּי׃",
+      "douay_rheims": "Behold there is no help for me in myself, and my familiar friends also are departed from me.",
+      "finnish_biblia": "Ei ole minulla missään apua; ja minun saatuni on pois ajettu minulta. ",
       "king_james": "Is not my help in me? and is wisdom driven quite from me?"
     },
     {
       "verse": 14,
       "latin_vulgate": " Qui tollit ab amico suo misericordiam,  timorem Domini derelinquit. ",
       "hebrew_masoretic": "לַמָּ֣ס מֵרֵעֵ֣הוּ חָ֑סֶד וְיִרְאַ֖ת שַׁדַּ֣י יַעֲזֽוֹב׃",
+      "douay_rheims": "He that taketh away mercy from his friend, forsaketh the fear of the Lord.",
+      "finnish_biblia": "Joka ei osoita lähimmäisellensä laupiutta, hän hylkää Kaikkivaltiaan pelvon. ",
       "king_james": "To him that is afflicted pity should be shewed from his friend; but he forsaketh the fear of the Almighty."
     },
     {
       "verse": 15,
       "latin_vulgate": " Fratres mei præterierunt me,  sicut torrens qui raptim transit in convallibus. ",
       "hebrew_masoretic": "אַ֭חַי בָּגְד֣וּ כְמוֹ־נָ֑חַל כַּאֲפִ֖יק נְחָלִ֣ים יַעֲבֹֽרוּ׃",
+      "douay_rheims": "My brethren have passed by me, as the torrent that passeth swiftly in the valleys.",
+      "finnish_biblia": "Minun veljeni ovat rikkoneet minua vastaan, niinkuin oja ja niinkuin väkevä virta ohitse menneet, ",
       "king_james": "My brethren have dealt deceitfully as a brook, and as the stream of brooks they pass away;"
     },
     {
       "verse": 16,
       "latin_vulgate": " Qui timent pruinam,  irruet super eos nix. ",
       "hebrew_masoretic": "הַקֹּדְרִ֥ים מִנִּי־קָ֑רַח עָ֝לֵ֗ימוֹ יִתְעַלֶּם־שָֽׁלֶג׃",
+      "douay_rheims": "They that fear the hoary frost, the snow shall fall upon them.",
+      "finnish_biblia": "Jotka ovat kauhiat jäästä, ja jotka lumi peittää. ",
       "king_james": "Which are blackish by reason of the ice, and wherein the snow is hid:"
     },
     {
       "verse": 17,
       "latin_vulgate": " Tempore quo fuerint dissipati, peribunt ;  et ut incaluerit, solventur de loco suo. ",
       "hebrew_masoretic": "בְּעֵ֣ת יְזֹרְב֣וּ נִצְמָ֑תוּ בְּ֝חֻמּ֗וֹ נִדְעֲכ֥וּ מִמְּקוֹמָֽם׃",
+      "douay_rheims": "At the time when they shall be scattered they shall perish: and after it groweth hot, they shall be melted out of their place.",
+      "finnish_biblia": "Kuin helle heitä ahdistaa, pitää heidän nääntymän, ja kuin palava on, pitää heidän katooman paikastansa. ",
       "king_james": "What time they wax warm, they vanish: when it is hot, they are consumed out of their place."
     },
     {
       "verse": 18,
       "latin_vulgate": " Involutæ sunt semitæ gressuum eorum ;  ambulabunt in vacuum, et peribunt. ",
       "hebrew_masoretic": "יִ֭לָּ֣פְתוּ אׇרְח֣וֹת דַּרְכָּ֑ם יַעֲל֖וּ בַתֹּ֣הוּ וְיֹאבֵֽדוּ׃",
+      "douay_rheims": "The paths of their steps are entangled: they shall walk in vain, and shall perish.",
+      "finnish_biblia": "Heidän polkunsa poikkeevat pois; he raukeevat tyhjään ja hukkuvat. ",
       "king_james": "The paths of their way are turned aside; they go to nothing, and perish."
     },
     {
       "verse": 19,
       "latin_vulgate": " Considerate semitas Thema, itinera Saba,  et expectate paulisper. ",
       "hebrew_masoretic": "הִ֭בִּיטוּ אׇרְח֣וֹת תֵּמָ֑א הֲלִיכֹ֥ת שְׁ֝בָ֗א קִוּוּ־לָֽמוֹ׃",
+      "douay_rheims": "Consider the paths of Thema, the ways of Saba, and wait a little while.",
+      "finnish_biblia": "He katsoivat Temanin tietä, rikkaan Arabian polkuja he toivoivat. ",
       "king_james": "The troops of Tema looked, the companies of Sheba waited for them."
     },
     {
       "verse": 20,
       "latin_vulgate": " Confusi sunt, quia speravi :  venerunt quoque usque ad me, et pudore cooperti sunt. ",
       "hebrew_masoretic": "בֹּ֥שׁוּ כִֽי־בָטָ֑ח בָּ֥אוּ עָ֝דֶ֗יהָ וַיֶּחְפָּֽרוּ׃",
+      "douay_rheims": "They are confounded, because I have hoped: they are come also even unto me, and are covered with shame.",
+      "finnish_biblia": "Mutta heidän pitää häpiään tuleman, ratki surutoinna ollessansa; ja heidän pitää häpeemän siihen tultuansa. ",
       "king_james": "They were confounded because they had hoped; they came thither, and were ashamed."
     },
     {
       "verse": 21,
       "latin_vulgate": " Nunc venistis ;  et modo videntes plagam meam, timetis. ",
       "hebrew_masoretic": "כִּֽי־עַ֭תָּה הֱיִ֣יתֶם לֹ֑א תִּֽרְא֥וּ חֲ֝תַ֗ת וַתִּירָֽאוּ׃",
+      "douay_rheims": "Now you are come: and now, seeing my affliction, you are afraid.",
+      "finnish_biblia": "Sillä ette nyt mitään ole; ja että te näette surkeuden, pelkäätte te. ",
       "king_james": "For now ye are nothing; ye see my casting down, and are afraid."
     },
     {
       "verse": 22,
       "latin_vulgate": " Numquid dixi : Afferte mihi,  et de substantia vestra donate mihi ? ",
       "hebrew_masoretic": "הֲֽכִי־אָ֭מַרְתִּי הָ֣בוּ לִ֑י וּ֝מִכֹּחֲכֶ֗ם שִׁחֲד֥וּ בַעֲדִֽי׃",
+      "douay_rheims": "Did I say: Bring to me, and give me of your substance?",
+      "finnish_biblia": "Olenko minä sanonut: Tuokaat minulle! eli antakaat minun edestäni lahjoja teidän tavarastanne? ",
       "king_james": "Did I say, Bring unto me? or, Give a reward for me of your substance?"
     },
     {
       "verse": 23,
       "latin_vulgate": " vel : Liberate me de manu hostis,  et de manu robustorum eruite me ? ",
       "hebrew_masoretic": "וּמַלְּט֥וּנִי מִיַּד־צָ֑ר וּמִיַּ֖ד עָרִיצִ֣ים תִּפְדּֽוּנִי׃",
+      "douay_rheims": "Or deliver me from the hand of the enemy, and rescue me out of the hand of the mighty?",
+      "finnish_biblia": "Ja pelastakaat minua vihollisten kädestä, ja vapahtakaat minua tyrannein käsistä? ",
       "king_james": "Or, Deliver me from the enemy’s hand? or, Redeem me from the hand of the mighty?"
     },
     {
       "verse": 24,
       "latin_vulgate": " Docete me, et ego tacebo :  et si quid forte ignoravi, instruite me. ",
       "hebrew_masoretic": "ה֭וֹרוּנִי וַאֲנִ֣י אַחֲרִ֑ישׁ וּמַה־שָּׁ֝גִ֗יתִי הָבִ֥ינוּ לִֽי׃",
+      "douay_rheims": "Teach me, and I will hold my peace: and if I have been ignorant of any thing, instruct me.",
+      "finnish_biblia": "Opettakaat minua, minä olen ääneti, ja jota en minä tiedä, niin neuvokaat minua. ",
       "king_james": "Teach me, and I will hold my tongue: and cause me to understand wherein I have erred."
     },
     {
       "verse": 25,
       "latin_vulgate": " Quare detraxistis sermonibus veritatis,  cum e vobis nullus sit qui possit arguere me ? ",
       "hebrew_masoretic": "מַה־נִּמְרְצ֥וּ אִמְרֵי־יֹ֑שֶׁר וּמַה־יּוֹכִ֖יחַ הוֹכֵ֣חַ מִכֶּֽם׃",
+      "douay_rheims": "Why have you detracted the words of truth, whereas there is none of you that can reprove me?",
+      "finnish_biblia": "Kuinka vahvat ovat oikeuden puheet? kuka teissä on se, joka sitä laittaa taitaa? ",
       "king_james": "How forcible are right words! but what doth your arguing reprove?"
     },
     {
       "verse": 26,
       "latin_vulgate": " Ad increpandum tantum eloquia concinnatis,  et in ventum verba profertis. ",
       "hebrew_masoretic": "הַלְהוֹכַ֣ח מִלִּ֣ים תַּחְשֹׁ֑בוּ וּ֝לְר֗וּחַ אִמְרֵ֥י נֹאָֽשׁ׃",
+      "douay_rheims": "You dress up speeches only to rebuke, and you utter words to the wind.",
+      "finnish_biblia": "Te ajattelette sanoja, ainoastaan nuhdellaksenne, ja teette sanoillanne epäileväisen mielen. ",
       "king_james": "Do ye imagine to reprove words, and the speeches of one that is desperate, which are as wind?"
     },
     {
       "verse": 27,
       "latin_vulgate": " Super pupillum irruitis,  et subvertere nitimini amicum vestrum. ",
       "hebrew_masoretic": "אַף־עַל־יָת֥וֹם תַּפִּ֑ילוּ וְ֝תִכְר֗וּ עַֽל־רֵיעֲכֶֽם׃",
+      "douay_rheims": "You rush in upon the fatherless, and you endeavour to overthrow your friend.",
+      "finnish_biblia": "Te karkaatte köyhän orvon päälle, ja kaivatte lähimmäisellenne kuoppaa. ",
       "king_james": "Yea, ye overwhelm the fatherless, and ye dig a pit for your friend."
     },
     {
       "verse": 28,
       "latin_vulgate": " Verumtamen quod cœpistis explete :  præbete aurem, et videte an mentiar. ",
       "hebrew_masoretic": "וְ֭עַתָּה הוֹאִ֣ילוּ פְנוּ־בִ֑י וְעַל־פְּ֝נֵיכֶ֗ם אִם־אֲכַזֵּֽב׃",
+      "douay_rheims": "However, finish what you have begun: give ear and see whether I lie.",
+      "finnish_biblia": "Mutta että te nyt tahdotte, niin katsokaat minun päälleni, jos minä teidän edessänne valhettelen. ",
       "king_james": "Now therefore be content, look upon me; for it is evident unto you if I lie."
     },
     {
       "verse": 29,
       "latin_vulgate": " Respondete, obsecro, absque contentione ;  et loquentes id quod justum est, judicate. ",
       "hebrew_masoretic": "שֽׁוּבוּ־נָ֭א אַל־תְּהִ֣י עַוְלָ֑ה (ושבי) [וְשׁ֥וּבוּ] ע֝֗וֹד צִדְקִי־בָֽהּ׃",
+      "douay_rheims": "Answer, I beseech you, without contention: and speaking that which is just, judge ye.",
+      "finnish_biblia": "Palatkaat nyt, olkoon pois vääryys: Tulkaat jälleen; minun vastaukseni pitää oikia oleman. ",
       "king_james": "Return, I pray you, let it not be iniquity; yea, return again, my righteousness is in it."
     },
     {
       "verse": 30,
       "latin_vulgate": " Et non invenietis in lingua mea iniquitatem,  nec in faucibus meis stultitia personabit.  ",
       "hebrew_masoretic": "הֲיֵשׁ־בִּלְשׁוֹנִ֥י עַוְלָ֑ה אִם־חִ֝כִּ֗י לֹא־יָבִ֥ין הַוּֽוֹת׃",
+      "douay_rheims": "And you shall not find iniquity in my tongue, neither shall folly sound in my mouth. ",
+      "finnish_biblia": "Onko minun kielessäni vääryyttä? eikö minun suulakeni ymmärrä vaivoja?   ",
       "king_james": "Is there iniquity in my tongue? cannot my taste discern perverse things? "
     }
   ]

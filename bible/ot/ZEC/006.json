@@ -2,6 +2,8 @@
   "book_id": "ZEC",
   "latin_name": "Zacharias",
   "hebrew_name": "זְכַרְיָה",
+  "douay_name": "Zacharias",
+  "finnish_name": "Sakarja",
   "english_name": "Zechariah",
   "chapter": 6,
   "verses": [
@@ -9,90 +11,120 @@
       "verse": 1,
       "latin_vulgate": "Et conversus sum, et levavi oculos meos, et vidi : et ecce quatuor quadrigæ egredientes de medio duorum montium : et montes, montes ærei. ",
       "hebrew_masoretic": "וָאָשֻׁ֗ב וָאֶשָּׂ֤א עֵינַי֙ וָֽאֶרְאֶ֔ה וְהִנֵּ֨ה אַרְבַּ֤ע מַרְכָּבוֹת֙ יֹֽצְא֔וֹת מִבֵּ֖ין שְׁנֵ֣י הֶֽהָרִ֑ים וְהֶהָרִ֖ים הָרֵ֥י נְחֹֽשֶׁת׃",
+      "douay_rheims": "And I turned, and lifted up my eyes, and saw: and behold four chariots came out from the midst of two mountains: and the mountains were mountains of brass.",
+      "finnish_biblia": "Ja minä taas nostin silmäni ja näin: ja katso, siellä olivat neljät rattaat, jotka lähtivät kahden vuoren välistä; ja ne vuoret olivat vaskiset vuoret. ",
       "king_james": "And I turned, and lifted up mine eyes, and looked, and, behold, there came four chariots out from between two mountains; and the mountains were mountains of brass."
     },
     {
       "verse": 2,
       "latin_vulgate": "In quadriga prima equi rufi, et in quadriga secunda equi nigri, ",
       "hebrew_masoretic": "בַּמֶּרְכָּבָ֥ה הָרִֽאשֹׁנָ֖ה סוּסִ֣ים אֲדֻמִּ֑ים וּבַמֶּרְכָּבָ֥ה הַשֵּׁנִ֖ית סוּסִ֥ים שְׁחֹרִֽים׃",
+      "douay_rheims": "In the first chariot were red horses, and in the second chariot black horses.",
+      "finnish_biblia": "Ensimäisten ratasten edessä olivat ruskiat orhiit, ja toisten ratasten edessä mustat orhiit; ",
       "king_james": "In the first chariot were red horses; and in the second chariot black horses;"
     },
     {
       "verse": 3,
       "latin_vulgate": "et in quadriga tertia equi albi, et in quadriga quarta equi varii et fortes. ",
       "hebrew_masoretic": "וּבַמֶּרְכָּבָ֥ה הַשְּׁלִשִׁ֖ית סוּסִ֣ים לְבָנִ֑ים וּבַמֶּרְכָּבָה֙ הָרְבִעִ֔ית סוּסִ֥ים בְּרֻדִּ֖ים אֲמֻצִּֽים׃",
+      "douay_rheims": "And in the third chariot white horses, and in the fourth chariot grisled horses, and strong ones.",
+      "finnish_biblia": "Mutta kolmanten ratasten edessä valkiat orhiit, ja neljänten ratasten edessä kirjavat, väkevät orhiit. ",
       "king_james": "And in the third chariot white horses; and in the fourth chariot grisled and bay horses."
     },
     {
       "verse": 4,
       "latin_vulgate": "Et respondi, et dixi ad angelum qui loquebatur in me : Quid sunt hæc, domine mi ? ",
       "hebrew_masoretic": "וָאַ֙עַן֙ וָֽאֹמַ֔ר אֶל־הַמַּלְאָ֖ךְ הַדֹּבֵ֣ר בִּ֑י מָה־אֵ֖לֶּה אֲדֹנִֽי׃",
+      "douay_rheims": "And I answered, and said to the angel that spoke in me: What are these, my lord?",
+      "finnish_biblia": "Ja minä vastasin ja sanoin enkelille, joka minun kanssani puhui: minun herrani, mitä nämät ovat? ",
       "king_james": "Then I answered and said unto the angel that talked with me, What are these, my lord?"
     },
     {
       "verse": 5,
       "latin_vulgate": "Et respondit angelus, et ait ad me : Isti sunt quatuor venti cæli, qui egrediuntur ut stent coram Dominatore omnis terræ. ",
       "hebrew_masoretic": "וַיַּ֥עַן הַמַּלְאָ֖ךְ וַיֹּ֣אמֶר אֵלָ֑י אֵ֗לֶּה אַרְבַּע֙ רוּח֣וֹת הַשָּׁמַ֔יִם יוֹצְא֕וֹת מֵֽהִתְיַצֵּ֖ב עַל־אֲד֥וֹן כׇּל־הָאָֽרֶץ׃",
+      "douay_rheims": "And the angel answered, and said to me: These are the four winds of the heaven, which go forth to stand before the Lord of all the earth.",
+      "finnish_biblia": "Ja enkeli vastasi ja sanoi minulle: ne ovat neljä tuulta taivaan alla, jotka tulevat ulos, astumaan kaiken maan hallitsian eteen. ",
       "king_james": "And the angel answered and said unto me, These are the four spirits of the heavens, which go forth from standing before the Lord of all the earth."
     },
     {
       "verse": 6,
       "latin_vulgate": "In qua erant equi nigri, egrediebantur in terram aquilonis : et albi egressi sunt post eos, et varii egressi sunt ad terram austri. ",
       "hebrew_masoretic": "אֲשֶׁר־בָּ֞הּ הַסּוּסִ֣ים הַשְּׁחֹרִ֗ים יֹֽצְאִים֙ אֶל־אֶ֣רֶץ צָפ֔וֹן וְהַ֨לְּבָנִ֔ים יָצְא֖וּ אֶל־אַֽחֲרֵיהֶ֑ם וְהַ֨בְּרֻדִּ֔ים יָצְא֖וּ אֶל־אֶ֥רֶץ הַתֵּימָֽן׃",
+      "douay_rheims": "That in which were the black horses went forth into the land of the north, and the white went forth after them: and the grisled went forth to the land the south.",
+      "finnish_biblia": "Jossa ne mustat orhiit, ne menivät pohjaa päin, ja valkiat noudattivat niitä; mutta kirjavat menivät etelää päin. ",
       "king_james": "The black horses which are therein go forth into the north country; and the white go forth after them; and the grisled go forth toward the south country."
     },
     {
       "verse": 7,
       "latin_vulgate": "Qui autem erant robustissimi, exierunt, et quærebant ire et discurrere per omnem terram. Et dixit : Ite, perambulate terram : et perambulaverunt terram. ",
       "hebrew_masoretic": "וְהָאֲמֻצִּ֣ים יָצְא֗וּ וַיְבַקְשׁוּ֙ לָלֶ֙כֶת֙ לְהִתְהַלֵּ֣ךְ בָּאָ֔רֶץ וַיֹּ֕אמֶר לְכ֖וּ הִתְהַלְּכ֣וּ בָאָ֑רֶץ וַתִּתְהַלַּ֖כְנָה בָּאָֽרֶץ׃",
+      "douay_rheims": "And they that were most strong, went out, and sought to go, and to run to and fro through all the earth. And he said: Go, walk throughout the earth: and they walked throughout the earth.",
+      "finnish_biblia": "Ja ne väkevät läksivät ja menivät ympärinsä, niin että he kaikki maat vaelsivat. Ja hän sanoi: menkäät ja vaeltakaat maata ympäri; ja he vaelsivat maan lävitse. ",
       "king_james": "And the bay went forth, and sought to go that they might walk to and fro through the earth: and he said, Get you hence, walk to and fro through the earth. So they walked to and fro through the earth."
     },
     {
       "verse": 8,
       "latin_vulgate": "Et vocavit me, et locutus est ad me, dicens : Ecce qui egrediuntur in terram aquilonis, requiescere fecerunt spiritum meum in terra aquilonis.  ",
       "hebrew_masoretic": "וַיַּזְעֵ֣ק אֹתִ֔י וַיְדַבֵּ֥ר אֵלַ֖י לֵאמֹ֑ר רְאֵ֗ה הַיּֽוֹצְאִים֙ אֶל־אֶ֣רֶץ צָפ֔וֹן הֵנִ֥יחוּ אֶת־רוּחִ֖י בְּאֶ֥רֶץ צָפֽוֹן׃ {פ}",
+      "douay_rheims": "And he called me, and spoke to me, saying: Behold they that go forth into the land of the north, have quieted my spirit in the land of the north.",
+      "finnish_biblia": "Ja hän kutsui minua, puhutteli minua ja sanoi: katso, ne jotka pohjaan menevät, antavat minun henkeni levätä pohjan maalla. ",
       "king_james": "Then cried he upon me, and spake unto me, saying, Behold, these that go toward the north country have quieted my spirit in the north country."
     },
     {
       "verse": 9,
       "latin_vulgate": " Et factum est verbum Domini ad me, dicens : ",
       "hebrew_masoretic": "וַיְהִ֥י דְבַר־יְהֹוָ֖ה אֵלַ֥י לֵאמֹֽר׃",
+      "douay_rheims": "And the word of the Lord came to me, saying:",
+      "finnish_biblia": "Ja Herran sana tapahtui minulle ja sanoi: ",
       "king_james": "And the word of the Lord came unto me, saying,"
     },
     {
       "verse": 10,
       "latin_vulgate": "Sume a transmigratione, ab Holdai, et a Tobia, et ab Idaia : et venies tu in die illa, et intrabis domum Josiæ filii Sophoniæ, qui venerunt de Babylone. ",
       "hebrew_masoretic": "לָק֙וֹחַ֙ מֵאֵ֣ת הַגּוֹלָ֔ה מֵחֶלְדַּ֕י וּמֵאֵ֥ת טוֹבִיָּ֖ה וּמֵאֵ֣ת יְדַֽעְיָ֑ה וּבָאתָ֤ אַתָּה֙ בַּיּ֣וֹם הַה֔וּא וּבָ֗אתָ בֵּ֚ית יֹאשִׁיָּ֣ה בֶן־צְפַנְיָ֔ה אֲשֶׁר־בָּ֖אוּ מִבָּבֶֽל׃",
+      "douay_rheims": "Take of them of the captivity, of Holdai, and of Tobias, and of Idaias; thou shalt come in that day, and shalt go into the house of Josias, the son of Sophonias, who came out of Babylon.",
+      "finnish_biblia": "Ota vangeilta, Heldailta ja Tobialta ja Jedajalta, ja tule jälleen sinä päivänä, ja mene Josian Zephanjan pojan huoneeseen, jotka Babelista tulleet ovat. ",
       "king_james": "Take of them of the captivity, even of Heldai, of Tobijah, and of Jedaiah, which are come from Babylon, and come thou the same day, and go into the house of Josiah the son of Zephaniah;"
     },
     {
       "verse": 11,
       "latin_vulgate": "Et sumes aurum et argentum, et facies coronas, et pones in capite Jesu filii Josedec, sacerdotis magni : ",
       "hebrew_masoretic": "וְלָקַחְתָּ֥ כֶֽסֶף־וְזָהָ֖ב וְעָשִׂ֣יתָ עֲטָר֑וֹת וְשַׂמְתָּ֗ בְּרֹ֛אשׁ יְהוֹשֻׁ֥עַ בֶּן־יְהוֹצָדָ֖ק הַכֹּהֵ֥ן הַגָּדֽוֹל׃",
+      "douay_rheims": "And thou shalt take gold and silver: and shalt make crowns, and thou shalt set them on the head of Jesus the son of Josedec, the high priest.",
+      "finnish_biblia": "Mutta ota hopiaa ja kultaa, ja tee kruunuja, ja pane Josuan Jotsadakin pojan, ylimmäisen papin päähän, ",
       "king_james": "Then take silver and gold, and make crowns, and set them upon the head of Joshua the son of Josedech, the high priest;"
     },
     {
       "verse": 12,
       "latin_vulgate": "et loqueris ad eum, dicens : Hæc ait Dominus exercituum, dicens : Ecce vir, Oriens nomen ejus, et subter eum orietur, et ædificabit templum Domino. ",
       "hebrew_masoretic": "וְאָמַרְתָּ֤ אֵלָיו֙ לֵאמֹ֔ר כֹּ֥ה אָמַ֛ר יְהֹוָ֥ה צְבָא֖וֹת לֵאמֹ֑ר הִנֵּה־אִ֞ישׁ צֶ֤מַח שְׁמוֹ֙ וּמִתַּחְתָּ֣יו יִצְמָ֔ח וּבָנָ֖ה אֶת־הֵיכַ֥ל יְהֹוָֽה׃",
+      "douay_rheims": "And thou shalt speak to him, saying: Thus saith the Lord of hosts, saying: BEHOLD A MAN, THE ORIENT IS HIS NAME: and under him shall he spring up, and shall build a temple to the Lord.",
+      "finnish_biblia": "Ja sano hänelle: näin sanoo Herra Zebaot: katso, yksi mies on, jonka nimi on Vesa; sillä hänen allansa pitää kasvaman, ja hän on rakentava Herran templin. ",
       "king_james": "And speak unto him, saying, Thus speaketh the Lord of hosts, saying, Behold the man whose name is The BRANCH; and he shall grow up out of his place, and he shall build the temple of the Lord:"
     },
     {
       "verse": 13,
       "latin_vulgate": "Et ipse exstruet templum Domino : et ipse portabit gloriam, et sedebit, et dominabitur super solio suo : et erit sacerdos super solio suo, et consilium pacis erit inter illos duos. ",
       "hebrew_masoretic": "וְ֠ה֠וּא יִבְנֶ֞ה אֶת־הֵיכַ֤ל יְהֹוָה֙ וְהֽוּא־יִשָּׂ֣א ה֔וֹד וְיָשַׁ֥ב וּמָשַׁ֖ל עַל־כִּסְא֑וֹ וְהָיָ֤ה כֹהֵן֙ עַל־כִּסְא֔וֹ וַעֲצַ֣ת שָׁל֔וֹם תִּהְיֶ֖ה בֵּ֥ין שְׁנֵיהֶֽם׃",
+      "douay_rheims": "Yea, he shall build a temple to the Lord: and he shall bear the glory, and shall sit, and rule upon his throne: and he shall be a priest upon his throne, and the counsel of peace shall be between them both.",
+      "finnish_biblia": "Ja Herran templin on hän rakentava, ja hänen pitää kunnian kantaman, istuman ja hallitseman istuimellansa, ja oleman papin istuimellansa, ja heillä pitää molemmilla rauha oleman. ",
       "king_james": "Even he shall build the temple of the Lord; and he shall bear the glory, and shall sit and rule upon his throne; and he shall be a priest upon his throne: and the counsel of peace shall be between them both."
     },
     {
       "verse": 14,
       "latin_vulgate": "Et coronæ erunt Helem, et Tobiæ, et Idaiæ, et Hem filio Sophoniæ, memoriale in templo Domini. ",
       "hebrew_masoretic": "וְהָעֲטָרֹ֗ת תִּֽהְיֶה֙ לְחֵ֙לֶם֙ וּלְטוֹבִיָּ֣ה וְלִידַֽעְיָ֔ה וּלְחֵ֖ן בֶּן־צְפַנְיָ֑ה לְזִכָּר֖וֹן בְּהֵיכַ֥ל יְהֹוָֽה׃",
+      "douay_rheims": "And the crowns shall be to Helem, and Tobias, and Idaias, and to Hem, the son of Sophonias, a memorial in the temple of the Lord.",
+      "finnish_biblia": "Ja ne kruunut pitää oleman Helemin, Tobian, Jedajan ja Henin, Zephanjan pojan, muistoksi Herran templissä. ",
       "king_james": "And the crowns shall be to Helem, and to Tobijah, and to Jedaiah, and to Hen the son of Zephaniah, for a memorial in the temple of the Lord."
     },
     {
       "verse": 15,
       "latin_vulgate": "Et qui procul sunt, venient, et ædificabunt in templo Domini : et scietis quia Dominus exercituum misit me ad vos. Erit autem hoc, si auditu audieritis vocem Domini Dei vestri.   ",
       "hebrew_masoretic": "וּרְחוֹקִ֣ים ׀ יָבֹ֗אוּ וּבָנוּ֙ בְּהֵיכַ֣ל יְהֹוָ֔ה וִידַעְתֶּ֕ם כִּֽי־יְהֹוָ֥ה צְבָא֖וֹת שְׁלָחַ֣נִי אֲלֵיכֶ֑ם וְהָיָה֙ אִם־שָׁמ֣וֹעַ תִּשְׁמְע֔וּן בְּק֖וֹל יְהֹוָ֥ה אֱלֹהֵיכֶֽם׃ {פ}",
+      "douay_rheims": "And they that are far off, shall come and shall build in the temple of the Lord: and you shall know that the Lord of hosts sent me to you. But this shall come to pass, if hearing you will hear the voice of the Lord your God. ",
+      "finnish_biblia": "Heidän pitää kaukaa tuleman ja rakentaman Herran templin, ja teidän pitää ymmärtämän Herran Zebaotin lähettäneen minun teidän tykönne. Tämä pitää tapahtuman, jos te muutoin Herran teidän Jumalanne äänelle hyvin kuuliaiset olette.   ",
       "king_james": "And they that are far off shall come and build in the temple of the Lord, and ye shall know that the Lord of hosts hath sent me unto you. And this shall come to pass, if ye will diligently obey the voice of the Lord your God. "
     }
   ]

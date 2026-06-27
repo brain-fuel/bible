@@ -2,6 +2,8 @@
   "book_id": "PRO",
   "latin_name": "Liber Proverbiorum",
   "hebrew_name": "מִשְׁלֵי",
+  "douay_name": "Proverbs",
+  "finnish_name": "Sananlaskut",
   "english_name": "Proverbs",
   "chapter": 28,
   "verses": [
@@ -9,168 +11,224 @@
       "verse": 1,
       "latin_vulgate": "Fugit impius nemine persequente ;  justus autem, quasi leo confidens, absque terrore erit. ",
       "hebrew_masoretic": "נָ֣סוּ וְאֵין־רֹדֵ֣ף רָשָׁ֑ע וְ֝צַדִּיקִ֗ים כִּכְפִ֥יר יִבְטָֽח׃",
+      "douay_rheims": "The wicked man fleeth, when no man pursueth: but the just, bold as a lion, shall be without dread.",
+      "finnish_biblia": "Jumalatoin pakenee, ja ei kenkään aja häntä takaa; vaan jumalinen on rohkia niinkuin nuori jalopeura. ",
       "king_james": "The wicked flee when no man pursueth: but the righteous are bold as a lion."
     },
     {
       "verse": 2,
       "latin_vulgate": " Propter peccata terræ multi principes ejus ;  et propter hominis sapientiam, et horum scientiam quæ dicuntur,  vita ducis longior erit. ",
       "hebrew_masoretic": "בְּפֶ֣שַֽׁע אֶ֭רֶץ רַבִּ֣ים שָׂרֶ֑יהָ וּבְאָדָ֥ם מֵבִ֥ין יֹ֝דֵ֗עַ כֵּ֣ן יַאֲרִֽיךְ׃",
+      "douay_rheims": "For the sins of the land many are the princes thereof: and for the wisdom of a man, and the knowledge of those things that are said, the life of the prince shall be prolonged.",
+      "finnish_biblia": "Maakunnan synnin tähden tulee valtakuntaan monta päämiestä; vaan toimellisten ja ymmärtäväisten ihmisten tähden pysyy se kauvan. ",
       "king_james": "For the transgression of a land many are the princes thereof: but by a man of understanding and knowledge the state thereof shall be prolonged."
     },
     {
       "verse": 3,
       "latin_vulgate": " Vir pauper calumnians pauperes  similis est imbri vehementi in quo paratur fames. ",
       "hebrew_masoretic": "גֶּֽבֶר־רָ֭שׁ וְעֹשֵׁ֣ק דַּלִּ֑ים מָטָ֥ר סֹ֝חֵ֗ף וְאֵ֣ין לָֽחֶם׃",
+      "douay_rheims": "A poor man that oppresseth the poor, is like a violent shower, which bringeth a famine.",
+      "finnish_biblia": "Nälkäinen, joka köyhiä vaivaa, on niinkuin sadekuuro, joka hedelmän turmelee. ",
       "king_james": "A poor man that oppresseth the poor is like a sweeping rain which leaveth no food."
     },
     {
       "verse": 4,
       "latin_vulgate": " Qui derelinquunt legem laudant impium ;  qui custodiunt, succenduntur contra eum. ",
       "hebrew_masoretic": "עֹזְבֵ֣י ת֭וֹרָה יְהַלְל֣וּ רָשָׁ֑ע וְשֹׁמְרֵ֥י ת֝וֹרָ֗ה יִתְגָּ֥רוּ בָֽם׃ {פ}",
+      "douay_rheims": "They that forsake the law, praise the wicked man: they that keep it, are incensed against him.",
+      "finnish_biblia": "Jotka lain hylkäävät, ne ylistävät jumalattomia; vaan jotka lain kätkevät, ovat heille vihaiset. ",
       "king_james": "They that forsake the law praise the wicked: but such as keep the law contend with them."
     },
     {
       "verse": 5,
       "latin_vulgate": " Viri mali non cogitant judicium ;  qui autem inquirunt Dominum animadvertunt omnia. ",
       "hebrew_masoretic": "אַנְשֵׁי־רָ֭ע לֹא־יָבִ֣ינוּ מִשְׁפָּ֑ט וּמְבַקְשֵׁ֥י יְ֝הֹוָ֗ה יָבִ֥ינוּ כֹֽל׃",
+      "douay_rheims": "Evil men think not on judgment: but they that seek after the Lord, take notice of all things.",
+      "finnish_biblia": "Ei pahat ihmiset oikeudesta lukua pidä; vaan jotka Herraa etsivät, he ottavat kaikista vaarin. ",
       "king_james": "Evil men understand not judgment: but they that seek the Lord understand all things."
     },
     {
       "verse": 6,
       "latin_vulgate": " Melior est pauper ambulans in simplicitate sua  quam dives in pravis itineribus. ",
       "hebrew_masoretic": "טֽוֹב־רָ֭שׁ הוֹלֵ֣ךְ בְּתֻמּ֑וֹ מֵעִקֵּ֥שׁ דְּ֝רָכַ֗יִם וְה֣וּא עָשִֽׁיר׃",
+      "douay_rheims": "Better is the poor man walking in his simplicity, than the rich in crooked ways.",
+      "finnish_biblia": "Parempi on köyhä joka vakuudessansa vaeltaa, kuin rikas, joka väärillä teillä käyskentelee. ",
       "king_james": "Better is the poor that walketh in his uprightness, than he that is perverse in his ways, though he be rich."
     },
     {
       "verse": 7,
       "latin_vulgate": " Qui custodit legem filius sapiens est ;  qui autem comessatores pascit confundit patrem suum. ",
       "hebrew_masoretic": "נוֹצֵ֣ר תּ֭וֹרָה בֵּ֣ן מֵבִ֑ין וְרֹעֶ֥ה ז֝וֹלְלִ֗ים יַכְלִ֥ים אָבִֽיו׃",
+      "douay_rheims": "He that keepeth the law, is a wise son: but he that feedeth gluttons, shameth his father.",
+      "finnish_biblia": "Joka lain kätkee, se on toimellinen lapsi; mutta joka tuhlaajaa ruokkii, se häpäisee isänsä. ",
       "king_james": "Whoso keepeth the law is a wise son: but he that is a companion of riotous men shameth his father."
     },
     {
       "verse": 8,
       "latin_vulgate": " Qui coacervat divitias usuris et fœnore,  liberali in pauperes congregat eas. ",
       "hebrew_masoretic": "מַרְבֶּ֣ה ה֭וֹנוֹ בְּנֶ֣שֶׁךְ (ובתרבית) [וְתַרְבִּ֑ית] לְחוֹנֵ֖ן דַּלִּ֣ים יִקְבְּצֶֽנּוּ׃",
+      "douay_rheims": "He that heapeth together riches by usury and loan, gathereth them for him that will be bountiful to the poor.",
+      "finnish_biblia": "Joka tavaransa enentää korolla ja voitolla, se kokoo köyhäin tarpeeksi. ",
       "king_james": "He that by usury and unjust gain increaseth his substance, he shall gather it for him that will pity the poor."
     },
     {
       "verse": 9,
       "latin_vulgate": " Qui declinat aures suas ne audiat legem,  oratio ejus erit execrabilis. ",
       "hebrew_masoretic": "מֵסִ֣יר אׇ֭זְנוֹ מִשְּׁמֹ֣עַ תּוֹרָ֑ה גַּ֥ם תְּ֝פִלָּת֗וֹ תּוֹעֵבָֽה׃",
+      "douay_rheims": "He that turneth away his ears from hearing the law, his prayer shall be an abomination.",
+      "finnish_biblia": "Joka korvansa kääntää pois lain kuulosta, hänen rukouksensakin on kauhistus. ",
       "king_james": "He that turneth away his ear from hearing the law, even his prayer shall be abomination."
     },
     {
       "verse": 10,
       "latin_vulgate": " Qui decipit justos in via mala, in interitu suo corruet,  et simplices possidebunt bona ejus. ",
       "hebrew_masoretic": "מַשְׁגֶּ֤ה יְשָׁרִ֨ים ׀ בְּדֶ֥רֶךְ רָ֗ע בִּשְׁחוּת֥וֹ הֽוּא־יִפּ֑וֹל וּ֝תְמִימִ֗ים יִנְחֲלוּ־טֽוֹב׃ {פ}",
+      "douay_rheims": "He that deceiveth the just in a wicked way, shall fall in his own destruction: and the upright shall possess his goods.",
+      "finnish_biblia": "Joka jumaliset saattaa väärälle tielle, hän lankee omaan kuoppaansa; mutta hurskaat perivät hyvyyden. ",
       "king_james": "Whoso causeth the righteous to go astray in an evil way, he shall fall himself into his own pit: but the upright shall have good things in possession."
     },
     {
       "verse": 11,
       "latin_vulgate": " Sapiens sibi videtur vir dives ;  pauper autem prudens scrutabitur eum. ",
       "hebrew_masoretic": "חָכָ֣ם בְּ֭עֵינָיו אִ֣ישׁ עָשִׁ֑יר וְדַ֖ל מֵבִ֣ין יַחְקְרֶֽנּוּ׃",
+      "douay_rheims": "The rich man seemeth to himself wise: but the poor man that is prudent shall search him out.",
+      "finnish_biblia": "Rikas luulee itsensä viisaaksi, vaan toimellinen köyhä ymmärtää hänen. ",
       "king_james": "The rich man is wise in his own conceit; but the poor that hath understanding searcheth him out."
     },
     {
       "verse": 12,
       "latin_vulgate": " In exsultatione justorum multa gloria est ;  regnantibus impiis, ruinæ hominum. ",
       "hebrew_masoretic": "בַּעֲלֹ֣ץ צַ֭דִּיקִים רַבָּ֣ה תִפְאָ֑רֶת וּבְק֥וּם רְ֝שָׁעִ֗ים יְחֻפַּ֥שׂ אָדָֽם׃",
+      "douay_rheims": "In the joy of the just there is great glory: when the wicked reign, men are ruined.",
+      "finnish_biblia": "Kuin vanhurskaat vallitsevat, niin käy sangen hyvin; vaan koska jumalattomat hallitsevat, niin muuttet ovat kansan seassa. ",
       "king_james": "When righteous men do rejoice, there is great glory: but when the wicked rise, a man is hidden."
     },
     {
       "verse": 13,
       "latin_vulgate": " Qui abscondit scelera sua non dirigetur ;  qui autem confessus fuerit et reliquerit ea, misericordiam consequetur. ",
       "hebrew_masoretic": "מְכַסֶּ֣ה פְ֭שָׁעָיו לֹ֣א יַצְלִ֑יחַ וּמוֹדֶ֖ה וְעֹזֵ֣ב יְרֻחָֽם׃",
+      "douay_rheims": "He that hideth his sins, shall not prosper: but he that shall confess, and forsake them, shall obtain mercy.",
+      "finnish_biblia": "Joka pahan tekonsa kieltää, ei hän menesty; vaan joka sen tunnustaa ja hylkää, hänelle tapahtuu laupius. ",
       "king_james": "He that covereth his sins shall not prosper: but whoso confesseth and forsaketh them shall have mercy."
     },
     {
       "verse": 14,
       "latin_vulgate": " Beatus homo qui semper est pavidus ;  qui vero mentis est duræ corruet in malum. ",
       "hebrew_masoretic": "אַשְׁרֵ֣י אָ֭דָם מְפַחֵ֣ד תָּמִ֑יד וּמַקְשֶׁ֥ה לִ֝בּ֗וֹ יִפּ֥וֹל בְּרָעָֽה׃",
+      "douay_rheims": "Blessed is the man that is always fearful: but he that is hardened in mind shall fall into evil.",
+      "finnish_biblia": "Autuas on se ihminen, joka aina pelkää; vaan joka sydämensä paaduttaa, se lankee onnettomuuteen. ",
       "king_james": "Happy is the man that feareth alway: but he that hardeneth his heart shall fall into mischief."
     },
     {
       "verse": 15,
       "latin_vulgate": " Leo rugiens et ursus esuriens,  princeps impius super populum pauperem. ",
       "hebrew_masoretic": "אֲֽרִי־נֹ֭הֵם וְדֹ֣ב שׁוֹקֵ֑ק מוֹשֵׁ֥ל רָ֝שָׁ֗ע עַ֣ל עַם־דָּֽל׃",
+      "douay_rheims": "As a roaring lion, and a hungry bear, so is a wicked prince over the poor people.",
+      "finnish_biblia": "Jumalatoin päämies, joka köyhää kansaa hallitsee, on kiljuva jalopeura ja ahne karhu. ",
       "king_james": "As a roaring lion, and a ranging bear; so is a wicked ruler over the poor people."
     },
     {
       "verse": 16,
       "latin_vulgate": " Dux indigens prudentia multos opprimet per calumniam ;  qui autem odit avaritiam, longi fient dies ejus. ",
       "hebrew_masoretic": "נָגִ֗יד חֲסַ֣ר תְּ֭בוּנוֹת וְרַ֥ב מַעֲשַׁקּ֑וֹת (שנאי) [שֹׂ֥נֵא] בֶ֝֗צַע יַאֲרִ֥יךְ יָמִֽים׃ {פ}",
+      "douay_rheims": "A prince void of prudence shall oppress many by calumny: but he that hateth covetousness, shall prolong his days.",
+      "finnish_biblia": "Kuin hallitsia on ilman toimeta, niin paljon vääryyttä tapahtuu; vaan joka vihaa ahneutta, hän saa kauvan elää. ",
       "king_james": "The prince that wanteth understanding is also a great oppressor: but he that hateth covetousness shall prolong his days."
     },
     {
       "verse": 17,
       "latin_vulgate": " Hominem qui calumniatur animæ sanguinem,  si usque ad lacum fugerit, nemo sustinet. ",
       "hebrew_masoretic": "אָ֭דָם עָשֻׁ֣ק בְּדַם־נָ֑פֶשׁ עַד־בּ֥וֹר יָ֝נ֗וּס אַל־יִתְמְכוּ־בֽוֹ׃",
+      "douay_rheims": "A man that doth violence to the blood of a person, if he flee even to the pit, no man will stay him.",
+      "finnish_biblia": "Ihminen, joka jonkun sielun veressä vääryyttä tekee, ei pääse, vaikka hän hamaan hautaan pakenis. ",
       "king_james": "A man that doeth violence to the blood of any person shall flee to the pit; let no man stay him."
     },
     {
       "verse": 18,
       "latin_vulgate": " Qui ambulat simpliciter salvus erit ;  qui perversis graditur viis concidet semel. ",
       "hebrew_masoretic": "הוֹלֵ֣ךְ תָּ֭מִים יִוָּשֵׁ֑עַ וְנֶעְקַ֥שׁ דְּ֝רָכַ֗יִם יִפּ֥וֹל בְּאֶחָֽת׃",
+      "douay_rheims": "He that walketh uprightly, shall be saved: he that is perverse in his ways, shall fall at once.",
+      "finnish_biblia": "Joka vakuudessa vaeltaa, se on tallessa; mutta joka käy pahaa tietä, hänen täytyy joskus langeta. ",
       "king_james": "Whoso walketh uprightly shall be saved: but he that is perverse in his ways shall fall at once."
     },
     {
       "verse": 19,
       "latin_vulgate": " Qui operatur terram suam satiabitur panibus ;  qui autem sectatur otium replebitur egestate. ",
       "hebrew_masoretic": "עֹבֵ֣ד אַ֭דְמָתוֹ יִֽשְׂבַּֽע־לָ֑חֶם וּמְרַדֵּ֥ף רֵ֝יקִ֗ים יִֽשְׂבַּֽע־רִֽישׁ׃",
+      "douay_rheims": "He that tilleth his ground, shall be filled with bread: but he that followeth idleness, shall be filled with poverty.",
+      "finnish_biblia": "Joka peltonsa viljelee, hän saa leipää yltäisesti; vaan joka pyytää joutilaana käydä, se ravitaan köyhyydellä. ",
       "king_james": "He that tilleth his land shall have plenty of bread: but he that followeth after vain persons shall have poverty enough."
     },
     {
       "verse": 20,
       "latin_vulgate": " Vir fidelis multum laudabitur ;  qui autem festinat ditari non erit innocens. ",
       "hebrew_masoretic": "אִ֣ישׁ אֱ֭מוּנוֹת רַב־בְּרָכ֑וֹת וְאָ֥ץ לְ֝הַעֲשִׁ֗יר לֹ֣א יִנָּקֶֽה׃",
+      "douay_rheims": "A faithful man shall be much praised: but he that maketh haste to be rich, shall not be innocent.",
+      "finnish_biblia": "Uskollinen mies runsaasti siunataan; vaan joka pyrkii rikkauden perään, ei hän ole viaton. ",
       "king_james": "A faithful man shall abound with blessings: but he that maketh haste to be rich shall not be innocent."
     },
     {
       "verse": 21,
       "latin_vulgate": " Qui cognoscit in judicio faciem non bene facit ;  iste et pro buccella panis deserit veritatem. ",
       "hebrew_masoretic": "הַֽכֵּר־פָּנִ֥ים לֹא־ט֑וֹב וְעַל־פַּת־לֶ֝֗חֶם יִפְשַׁע־גָּֽבֶר׃",
+      "douay_rheims": "He that hath respect to a person in judgment, doth not well: such a man even for a morsel of bread forsaketh the truth.",
+      "finnish_biblia": "Ei ole se hyvä, että joku katsoo muotoa; sillä ihminen taitaa tehdä leivän kappaleen tähden väärin. ",
       "king_james": "To have respect of persons is not good: for for a piece of bread that man will transgress."
     },
     {
       "verse": 22,
       "latin_vulgate": " Vir qui festinat ditari, et aliis invidet,  ignorat quod egestas superveniet ei. ",
       "hebrew_masoretic": "נִ֥בְהָֽל־לַה֗וֹן אִ֭ישׁ רַ֣ע עָ֑יִן וְלֹא־יֵ֝דַ֗ע כִּי־חֶ֥סֶר יְבֹאֶֽנּוּ׃",
+      "douay_rheims": "A man that maketh haste to be rich, and envieth others, is ignorant that poverty shall come upon him.",
+      "finnish_biblia": "Joka äkisti rikkautta pyytää, ja on kade, hänelle tulee köyhyys, ettei hän tiedäkään. ",
       "king_james": "He that hasteth to be rich hath an evil eye, and considereth not that poverty shall come upon him."
     },
     {
       "verse": 23,
       "latin_vulgate": " Qui corripit hominem gratiam postea inveniet apud eum,  magis quam ille qui per linguæ blandimenta decipit. ",
       "hebrew_masoretic": "מ֘וֹכִ֤יחַ אָדָ֣ם אַ֭חֲרַי חֵ֣ן יִמְצָ֑א מִֽמַּחֲלִ֥יק לָשֽׁוֹן׃",
+      "douay_rheims": "He that rebuketh a man, shall afterward find favour with him, more than he that by a flattering tongue deceiveth him.",
+      "finnish_biblia": "Joka ihmistä rankaisee, hän löytää paremman ystävyyden kuin se, joka puhuu ymötämielin. ",
       "king_james": "He that rebuketh a man afterwards shall find more favour than he that flattereth with the tongue."
     },
     {
       "verse": 24,
       "latin_vulgate": " Qui subtrahit aliquid a patre suo et a matre,  et dicit hoc non esse peccatum,  particeps homicidæ est. ",
       "hebrew_masoretic": "גּוֹזֵ֤ל ׀ אָ֘בִ֤יו וְאִמּ֗וֹ וְאֹמֵ֥ר אֵֽין־פָּ֑שַׁע חָבֵ֥ר ה֝֗וּא לְאִ֣ישׁ מַשְׁחִֽית׃",
+      "douay_rheims": "He that stealeth any thing from his father, or from his mother: and saith, This is no sin, is the partner of a murderer.",
+      "finnish_biblia": "Joka ottaa isältänsä ja äidiltänsä, ja sanoo; ei se ole synti, hän on hävittäjän kanssaveli. ",
       "king_james": "Whoso robbeth his father or his mother, and saith, It is no transgression; the same is the companion of a destroyer."
     },
     {
       "verse": 25,
       "latin_vulgate": " Qui se jactat et dilatat, jurgia concitat ;  qui vero sperat in Domino sanabitur. ",
       "hebrew_masoretic": "רְחַב־נֶ֭פֶשׁ יְגָרֶ֣ה מָד֑וֹן וּבֹטֵ֖חַ עַל־יְהֹוָ֣ה יְדֻשָּֽׁן׃",
+      "douay_rheims": "He that boasteth and puffeth up himself, stirreth up quarrels: but he that trusteth in the Lord, shall be healed.",
+      "finnish_biblia": "Ylpiä ihminen saattaa riidan; mutta joka luottaa Herraan, hän kostuu. ",
       "king_james": "He that is of a proud heart stirreth up strife: but he that putteth his trust in the Lord shall be made fat."
     },
     {
       "verse": 26,
       "latin_vulgate": " Qui confidit in corde suo stultus est ;  qui autem graditur sapienter, ipse salvabitur. ",
       "hebrew_masoretic": "בּוֹטֵ֣חַ בְּ֭לִבּוֹ ה֣וּא כְסִ֑יל וְהוֹלֵ֥ךְ בְּ֝חׇכְמָ֗ה ה֣וּא יִמָּלֵֽט׃",
+      "douay_rheims": "He that trusteth in his own heart, is a fool: but he that walketh wisely, he shall be saved.",
+      "finnish_biblia": "Joka omaan sydämeensä uskaltaa, hän on tyhmä; mutta joka viisaudessa vaeltaa, hän vapahdetaan. ",
       "king_james": "He that trusteth in his own heart is a fool: but whoso walketh wisely, he shall be delivered."
     },
     {
       "verse": 27,
       "latin_vulgate": " Qui dat pauperi non indigebit ;  qui despicit deprecantem sustinebit penuriam. ",
       "hebrew_masoretic": "נוֹתֵ֣ן לָ֭רָשׁ אֵ֣ין מַחְס֑וֹר וּמַעְלִ֥ים עֵ֝ינָ֗יו רַב־מְאֵרֽוֹת׃",
+      "douay_rheims": "He that giveth to the poor shall not want: he that despiseth his entreaty, shall suffer indigence.",
+      "finnish_biblia": "Joka vaivaiselle antaa, ei häneltä puutu; vaan joka silmänsä hänestä kääntää, se tulee pahasti kirotuksi. ",
       "king_james": "He that giveth unto the poor shall not lack: but he that hideth his eyes shall have many a curse."
     },
     {
       "verse": 28,
       "latin_vulgate": " Cum surrexerint impii, abscondentur homines ;  cum illi perierint, multiplicabuntur justi.  ",
       "hebrew_masoretic": "בְּק֣וּם רְ֭שָׁעִים יִסָּתֵ֣ר אָדָ֑ם וּ֝בְאׇבְדָ֗ם יִרְבּ֥וּ צַדִּיקִֽים׃",
+      "douay_rheims": "When the wicked rise up, men shall hide themselves: when they perish, the just shall be multiplied. ",
+      "finnish_biblia": "Kuin jumalattomat tulevat, niin kansa itsensä kätkee; mutta kuin ne hukkuvat, niin vanhurskaat enenevät.   ",
       "king_james": "When the wicked rise, men hide themselves: but when they perish, the righteous increase. "
     }
   ]

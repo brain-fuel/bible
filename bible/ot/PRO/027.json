@@ -2,6 +2,8 @@
   "book_id": "PRO",
   "latin_name": "Liber Proverbiorum",
   "hebrew_name": "מִשְׁלֵי",
+  "douay_name": "Proverbs",
+  "finnish_name": "Sananlaskut",
   "english_name": "Proverbs",
   "chapter": 27,
   "verses": [
@@ -9,162 +11,216 @@
       "verse": 1,
       "latin_vulgate": "Ne glorieris in crastinum,  ignorans quid superventura pariat dies. ",
       "hebrew_masoretic": "אַֽל־תִּ֭תְהַלֵּל בְּי֣וֹם מָחָ֑ר כִּ֤י לֹֽא־תֵ֝דַ֗ע מַה־יֵּ֥לֶד יֽוֹם׃",
+      "douay_rheims": "Boast not for to morrow, for thou knowest not what the day to come may bring forth.",
+      "finnish_biblia": "Älä kehu huomisesta päivästä; sillä et sinä tiedä, mitä tänäpänä tapahtuu. ",
       "king_james": "Boast not thyself of to morrow; for thou knowest not what a day may bring forth."
     },
     {
       "verse": 2,
       "latin_vulgate": " Laudet te alienus, et non os tuum ;  extraneus, et non labia tua. ",
       "hebrew_masoretic": "יְהַלֶּלְךָ֣ זָ֣ר וְלֹא־פִ֑יךָ נׇ֝כְרִ֗י וְאַל־שְׂפָתֶֽיךָ׃",
+      "douay_rheims": "Let another praise thee, and not thy own mouth: a stranger, and not thy own lips.",
+      "finnish_biblia": "Anna toisen sinuas kiittää, ja ei sinun oman suus, muukalaisen, ja ei omin huultes. ",
       "king_james": "Let another man praise thee, and not thine own mouth; a stranger, and not thine own lips."
     },
     {
       "verse": 3,
       "latin_vulgate": " Grave est saxum, et onerosa arena,  sed ira stulti utroque gravior. ",
       "hebrew_masoretic": "כֹּֽבֶד־אֶ֭בֶן וְנֵ֣טֶל הַח֑וֹל וְכַ֥עַס אֱ֝וִ֗יל כָּבֵ֥ד מִשְּׁנֵיהֶֽם׃",
+      "douay_rheims": "A stone is heavy, and sand weighty: but the anger of a fool is heavier than them both.",
+      "finnish_biblia": "Kivi on raskas ja santa painaa; vaan tyhmän viha on raskaampi kuin ne molemmat. ",
       "king_james": "A stone is heavy, and the sand weighty; but a fool’s wrath is heavier than them both."
     },
     {
       "verse": 4,
       "latin_vulgate": " Ira non habet misericordiam nec erumpens furor,  et impetum concitati ferre quis poterit ? ",
       "hebrew_masoretic": "אַכְזְרִיּ֣וּת חֵ֭מָה וְשֶׁ֣טֶף אָ֑ף וּמִ֥י יַ֝עֲמֹ֗ד לִפְנֵ֥י קִנְאָֽה׃",
+      "douay_rheims": "Anger hath no mercy: nor fury, when it breaketh forth: and who can bear the violence of one provoked?",
+      "finnish_biblia": "Viha on julma kappale ja karvas mieli on myrsky; ja kuka taitaa olla kateutta vastaan? ",
       "king_james": "Wrath is cruel, and anger is outrageous; but who is able to stand before envy?"
     },
     {
       "verse": 5,
       "latin_vulgate": " Melior est manifesta correptio  quam amor absconditus. ",
       "hebrew_masoretic": "ט֭וֹבָה תּוֹכַ֣חַת מְגֻלָּ֑ה מֵאַהֲבָ֥ה מְסֻתָּֽרֶת׃",
+      "douay_rheims": "Open rebuke is better than hidden love.",
+      "finnish_biblia": "Julkinen kuritus on parempi kuin salainen rakkaus. ",
       "king_james": "Open rebuke is better than secret love."
     },
     {
       "verse": 6,
       "latin_vulgate": " Meliora sunt vulnera diligentis  quam fraudulenta oscula odientis. ",
       "hebrew_masoretic": "נֶ֭אֱמָנִים פִּצְעֵ֣י אוֹהֵ֑ב וְ֝נַעְתָּר֗וֹת נְשִׁיק֥וֹת שׂוֹנֵֽא׃",
+      "douay_rheims": "Better are the wounds of a friend, than the deceitful kisses of an enemy.",
+      "finnish_biblia": "Hyvänsuovan haavat ovat paremmet kuin petolliset Vainoojain suunantamiset. ",
       "king_james": "Faithful are the wounds of a friend; but the kisses of an enemy are deceitful."
     },
     {
       "verse": 7,
       "latin_vulgate": " Anima saturata calcabit favum,  et anima esuriens etiam amarum pro dulci sumet. ",
       "hebrew_masoretic": "נֶ֣פֶשׁ שְׂ֭בֵעָה תָּב֣וּס נֹ֑פֶת וְנֶ֥פֶשׁ רְ֝עֵבָ֗ה כׇּל־מַ֥ר מָתֽוֹק׃",
+      "douay_rheims": "A soul that is full shall tread upon the honeycomb: and a soul that is hungry shall take even bitter for sweet.",
+      "finnish_biblia": "Ravittu sielu polkee hunajaa; vaan isoovaiselle sielulle ovat kaikki karvaatkin makiat. ",
       "king_james": "The full soul loatheth an honeycomb; but to the hungry soul every bitter thing is sweet."
     },
     {
       "verse": 8,
       "latin_vulgate": " Sicut avis transmigrans de nido suo,  sic vir qui derelinquit locum suum. ",
       "hebrew_masoretic": "כְּ֭צִפּוֹר נוֹדֶ֣דֶת מִן־קִנָּ֑הּ כֵּֽן־אִ֝֗ישׁ נוֹדֵ֥ד מִמְּקוֹמֽוֹ׃",
+      "douay_rheims": "As a bird that wandereth from her nest, so is a man that leaveth his place.",
+      "finnish_biblia": "Niinkuin lintu, joka pesästänsä kulkee, niin on se mies, joka siastansa siirtää. ",
       "king_james": "As a bird that wandereth from her nest, so is a man that wandereth from his place."
     },
     {
       "verse": 9,
       "latin_vulgate": " Unguento et variis odoribus delectatur cor,  et bonis amici consiliis anima dulcoratur. ",
       "hebrew_masoretic": "שֶׁ֣מֶן וּ֭קְטֹרֶת יְשַׂמַּֽח־לֵ֑ב וּמֶ֥תֶק רֵ֝עֵ֗הוּ מֵעֲצַת־נָֽפֶשׁ׃",
+      "douay_rheims": "Ointment and perfumes rejoice the heart: and the good counsels of a friend are sweet to the soul.",
+      "finnish_biblia": "Voiteesta ja suitsutuksesta sydän iloitsee, ja ystävän hyvä neuvo on sielulle otollinen. ",
       "king_james": "Ointment and perfume rejoice the heart: so doth the sweetness of a man’s friend by hearty counsel."
     },
     {
       "verse": 10,
       "latin_vulgate": " Amicum tuum et amicum patris tui ne dimiseris,  et domum fratris tui ne ingrediaris in die afflictionis tuæ.  Melior est vicinus juxta  quam frater procul. ",
       "hebrew_masoretic": "רֵ֥עֲךָ֨ (ורעה) [וְרֵ֪עַ] אָבִ֡יךָ אַֽל־תַּעֲזֹ֗ב וּבֵ֥ית אָחִ֗יךָ אַל־תָּ֭בוֹא בְּי֣וֹם אֵידֶ֑ךָ ט֥וֹב שָׁכֵ֥ן קָ֝ר֗וֹב מֵאָ֥ח רָחֽוֹק׃",
+      "douay_rheims": "Thy own friend, and thy father's friend, forsake not: and go not into thy brother's house in the day of thy affliction. Better is a neighbour that is near than a brother afar off.",
+      "finnish_biblia": "Älä hylkää ystävääs, ja isäs ystäviä, ja älä mene veljes huoneesen, kuin sinun väärin käy; sillä parempi on kylänmies, joka läsnä on, kuin veli, joka taampana on. ",
       "king_james": "Thine own friend, and thy father’s friend, forsake not; neither go into thy brother’s house in the day of thy calamity: for better is a neighbour that is near than a brother far off."
     },
     {
       "verse": 11,
       "latin_vulgate": " Stude sapientiæ, fili mi, et lætifica cor meum,  ut possis exprobranti respondere sermonem. ",
       "hebrew_masoretic": "חֲכַ֣ם בְּ֭נִי וְשַׂמַּ֣ח לִבִּ֑י וְאָשִׁ֖יבָה חֹרְפִ֣י דָבָֽר׃",
+      "douay_rheims": "Study wisdom, my son, and make my heart joyful, that thou mayst give an answer to him that reproacheth.",
+      "finnish_biblia": "Ole viisas, poikani, ja iloita sydämeni, että minä taitaisin vastata sitä, joka minua pilkkaa. ",
       "king_james": "My son, be wise, and make my heart glad, that I may answer him that reproacheth me."
     },
     {
       "verse": 12,
       "latin_vulgate": " Astutus videns malum, absconditus est :  parvuli transeuntes sustinuerunt dispendia. ",
       "hebrew_masoretic": "עָר֤וּם ׀ רָאָ֣ה רָעָ֣ה נִסְתָּ֑ר פְּ֝תָאיִ֗ם עָבְר֥וּ נֶעֱנָֽשׁוּ׃",
+      "douay_rheims": "The prudent man seeing evil hideth himself: little ones passing on have suffered losses.",
+      "finnish_biblia": "Viisas näkee vaaran, ja lymyttää itsensä; vaan tyhmät menevät siihen, ja saavat vahingon. ",
       "king_james": "A prudent man foreseeth the evil, and hideth himself; but the simple pass on, and are punished."
     },
     {
       "verse": 13,
       "latin_vulgate": " Tolle vestimentum ejus qui spopondit pro extraneo,  et pro alienis aufer ei pignus. ",
       "hebrew_masoretic": "קַח־בִּ֭גְדוֹ כִּי־עָ֣רַב זָ֑ר וּבְעַ֖ד נׇכְרִיָּ֣ה חַבְלֵֽהוּ׃",
+      "douay_rheims": "Take away his garment that hath been surety for a stranger: and take from him a pledge for strangers.",
+      "finnish_biblia": "Ota hänen vaattensa, joka toisen takaa, ja ota häneltä pantti muukalaisen edestä. ",
       "king_james": "Take his garment that is surety for a stranger, and take a pledge of him for a strange woman."
     },
     {
       "verse": 14,
       "latin_vulgate": " Qui benedicit proximo suo voce grandi,  de nocte consurgens maledicenti similis erit. ",
       "hebrew_masoretic": "מְבָ֘רֵ֤ךְ רֵעֵ֨הוּ ׀ בְּק֣וֹל גָּ֭דוֹל בַּבֹּ֣קֶר הַשְׁכֵּ֑ים קְ֝לָלָ֗ה תֵּחָ֥שֶׁב לֽוֹ׃",
+      "douay_rheims": "He that blesseth his neighbour with a loud voice, rising in the night, shall be like to him that curseth.",
+      "finnish_biblia": "Joka lähimmäistänsä siunaa korkialla äänellä, ja nousee varhain, se luetaan hänelle kiroukseksi. ",
       "king_james": "He that blesseth his friend with a loud voice, rising early in the morning, it shall be counted a curse to him."
     },
     {
       "verse": 15,
       "latin_vulgate": " Tecta perstillantia in die frigoris  et litigiosa mulier comparantur. ",
       "hebrew_masoretic": "דֶּ֣לֶף ט֭וֹרֵד בְּי֣וֹם סַגְרִ֑יר וְאֵ֥שֶׁת (מדונים) [מִ֝דְיָנִ֗ים] נִשְׁתָּוָֽה׃",
+      "douay_rheims": "Roofs dropping through in a cold day, and a contentious woman are alike.",
+      "finnish_biblia": "Riitainen vaimo, ja alinomainen tiukkuminen suuresta sateesta, nämät oikein yhteen verrataan. ",
       "king_james": "A continual dropping in a very rainy day and a contentious woman are alike."
     },
     {
       "verse": 16,
       "latin_vulgate": " Qui retinet eam quasi qui ventum teneat,  et oleum dexteræ suæ vocabit. ",
       "hebrew_masoretic": "צֹפְנֶ֥יהָ צָפַן־ר֑וּחַ וְשֶׁ֖מֶן יְמִינ֣וֹ יִקְרָֽא׃",
+      "douay_rheims": "He that retaineth her, is as he that would hold the wind, and shall call the oil of his right hand.",
+      "finnish_biblia": "Joka häntä tahtoo kätkeä, hän käsittelee tuulta, ja pivo öljyä kädessänsä. ",
       "king_james": "Whosoever hideth her hideth the wind, and the ointment of his right hand, which bewrayeth itself."
     },
     {
       "verse": 17,
       "latin_vulgate": " Ferrum ferro exacuitur,  et homo exacuit faciem amici sui. ",
       "hebrew_masoretic": "בַּרְזֶ֣ל בְּבַרְזֶ֣ל יָ֑חַד וְ֝אִ֗ישׁ יַ֣חַד פְּנֵֽי־רֵעֵֽהוּ׃",
+      "douay_rheims": "Iron sharpeneth iron, so a man sharpeneth the countenance of his friend.",
+      "finnish_biblia": "Veitsi hioo veitsen, ja mies teroittaa ystävänsä. ",
       "king_james": "Iron sharpeneth iron; so a man sharpeneth the countenance of his friend."
     },
     {
       "verse": 18,
       "latin_vulgate": " Qui servat ficum comedet fructus ejus,  et qui custos est domini sui glorificabitur. ",
       "hebrew_masoretic": "נֹצֵ֣ר תְּ֭אֵנָה יֹאכַ֣ל פִּרְיָ֑הּ וְשֹׁמֵ֖ר אֲדֹנָ֣יו יְכֻבָּֽד׃",
+      "douay_rheims": "He that keepeth the fig tree, shall eat the fruit thereof: and he that is the keeper of his master, shall be glorified.",
+      "finnish_biblia": "Joka fikunapuunsa varjelee, se syö siitä hedelmän, ja joka herraansa vartioitsee, se kunnioitetaan. ",
       "king_james": "Whoso keepeth the fig tree shall eat the fruit thereof: so he that waiteth on his master shall be honoured."
     },
     {
       "verse": 19,
       "latin_vulgate": " Quomodo in aquis resplendent vultus prospicientium,  sic corda hominum manifesta sunt prudentibus. ",
       "hebrew_masoretic": "כַּ֭מַּיִם הַפָּנִ֣ים לַפָּנִ֑ים כֵּ֤ן לֵֽב־הָ֝אָדָ֗ם לָאָדָֽם׃",
+      "douay_rheims": "As the faces of them that look therein, shine in the water, so the hearts of men are laid open to the wise.",
+      "finnish_biblia": "Niinkuin varjo on vedessä ihmisen kasvon suhteen, niin on ihmisen sydän toisia vastaan. ",
       "king_james": "As in water face answereth to face, so the heart of man to man."
     },
     {
       "verse": 20,
       "latin_vulgate": " Infernus et perditio numquam implentur :  similiter et oculi hominum insatiabiles. ",
       "hebrew_masoretic": "שְׁא֣וֹל וַ֭אֲבַדֹּה לֹ֣א תִשְׂבַּ֑עְנָה וְעֵינֵ֥י הָ֝אָדָ֗ם לֹ֣א תִשְׂבַּֽעְנָה׃",
+      "douay_rheims": "Hell and destruction are never filled: so the eyes of men are never satisfied.",
+      "finnish_biblia": "Helvetti ja kadotus ei tule ikänä täyteen, ja ihmisen silmät ovat tyytymättömät. ",
       "king_james": "Hell and destruction are never full; so the eyes of man are never satisfied."
     },
     {
       "verse": 21,
       "latin_vulgate": " Quomodo probatur in conflatorio argentum et in fornace aurum,  sic probatur homo ore laudantis.  Cor iniqui inquirit mala,  cor autem rectum inquirit scientiam. ",
       "hebrew_masoretic": "מַצְרֵ֣ף לַ֭כֶּסֶף וְכ֣וּר לַזָּהָ֑ב וְ֝אִ֗ישׁ לְפִ֣י מַהֲלָלֽוֹ׃",
+      "douay_rheims": "As silver is tried in the fining-pot, and gold in the furnace: so a man is tried by the mouth of him that praiseth. The heart of the wicked seeketh after evils, but the righteous heart seeketh after knowledge.",
+      "finnish_biblia": "Mies tulee kiusatuksi kiittäjän suun kautta, niinkuin hopia ahjossa ja kulta pätsissä. ",
       "king_james": "As the fining pot for silver, and the furnace for gold; so is a man to his praise."
     },
     {
       "verse": 22,
       "latin_vulgate": " Si contuderis stultum in pila  quasi ptisanas feriente desuper pilo,  non auferetur ab eo stultitia ejus. ",
       "hebrew_masoretic": "אִ֥ם־תִּכְתּֽוֹשׁ־אֶת־הָאֱוִ֨יל ׀ בַּ֥מַּכְתֵּ֡שׁ בְּת֣וֹךְ הָ֭רִיפוֹת בַּעֱלִ֑י לֹא־תָס֥וּר מֵ֝עָלָ֗יו אִוַּלְתּֽוֹ׃ {פ}",
+      "douay_rheims": "Though thou shouldst bray a fool in the mortar, as when a pestle striketh upon sodden barley, his folly would not be taken from him.",
+      "finnish_biblia": "Jos sinä huhmaressa survoisit tyhmän niinkuin ryynit, niin ei kuitenkaan hänen hulluutensa hänestä erkane. ",
       "king_james": "Though thou shouldest bray a fool in a mortar among wheat with a pestle, yet will not his foolishness depart from him."
     },
     {
       "verse": 23,
       "latin_vulgate": " Diligenter agnosce vultum pecoris tui,  tuosque greges considera : ",
       "hebrew_masoretic": "יָדֹ֣עַ תֵּ֭דַע פְּנֵ֣י צֹאנֶ֑ךָ שִׁ֥ית לִ֝בְּךָ֗ לַעֲדָרִֽים׃",
+      "douay_rheims": "Be diligent to know the countenance of thy cattle, and consider thy own flocks:",
+      "finnish_biblia": "Ota ahkera vaari lampaistas, ja pidä murhe laumastas; ",
       "king_james": "Be thou diligent to know the state of thy flocks, and look well to thy herds."
     },
     {
       "verse": 24,
       "latin_vulgate": " non enim habebis jugiter potestatem,  sed corona tribuetur in generationem et generationem. ",
       "hebrew_masoretic": "כִּ֤י לֹ֣א לְעוֹלָ֣ם חֹ֑סֶן וְאִם־נֵ֝֗זֶר לְד֣וֹר (דור) [וָדֽוֹר]׃",
+      "douay_rheims": "For thou shalt not always have power: but a crown shall be given to generation and generation.",
+      "finnish_biblia": "Sillä ei tavara ole ijankaikkisesti, eikä kruunu suvusta sukuun. ",
       "king_james": "For riches are not for ever: and doth the crown endure to every generation?"
     },
     {
       "verse": 25,
       "latin_vulgate": " Aperta sunt prata, et apparuerunt herbæ virentes,  et collecta sunt fœna de montibus. ",
       "hebrew_masoretic": "גָּלָ֣ה חָ֭צִיר וְנִרְאָה־דֶ֑שֶׁא וְ֝נֶאֶסְפ֗וּ עִשְּׂב֥וֹת הָרִֽים׃",
+      "douay_rheims": "The meadows are open, and the green herbs have appeared, and the hay is gathered out of the mountains.",
+      "finnish_biblia": "Ruoho käy ylös ja kukkaset puhkeevat, ja heinät vuorilla kootaan. ",
       "king_james": "The hay appeareth, and the tender grass sheweth itself, and herbs of the mountains are gathered."
     },
     {
       "verse": 26,
       "latin_vulgate": " Agni ad vestimentum tuum,  et hædi ad agri pretium. ",
       "hebrew_masoretic": "כְּבָשִׂ֥ים לִלְבוּשֶׁ֑ךָ וּמְחִ֥יר שָׂ֝דֶ֗ה עַתּוּדִֽים׃",
+      "douay_rheims": "Lambs are for thy clothing: and kids for the price of the field.",
+      "finnish_biblia": "Lampaat vaatettavat sinua, ja kauriit antavat pellon vuoron. ",
       "king_james": "The lambs are for thy clothing, and the goats are the price of the field."
     },
     {
       "verse": 27,
       "latin_vulgate": " Sufficiat tibi lac caprarum in cibos tuos,  et in necessaria domus tuæ, et ad victum ancillis tuis.  ",
       "hebrew_masoretic": "וְדֵ֤י ׀ חֲלֵ֬ב עִזִּ֗ים לְֽ֭לַחְמְךָ לְלֶ֣חֶם בֵּיתֶ֑ךָ וְ֝חַיִּ֗ים לְנַעֲרוֹתֶֽיךָ׃",
+      "douay_rheims": "Let the milk of the goats be enough for thy food, and for the necessities of thy house, and for maintenance for thy handmaids. ",
+      "finnish_biblia": "Sinulla on vuohten rieskaa kyllä sekä omaksi settä huonees ravinnoksi, ja piikais elatukseksi.   ",
       "king_james": "And thou shalt have goats’ milk enough for thy food, for the food of thy household, and for the maintenance for thy maidens. "
     }
   ]

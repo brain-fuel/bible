@@ -2,6 +2,8 @@
   "book_id": "EZE",
   "latin_name": "Ezechiel",
   "hebrew_name": "יְחֶזְקֵאל",
+  "douay_name": "Ezechiel",
+  "finnish_name": "Hesekiel",
   "english_name": "Ezekiel",
   "chapter": 17,
   "verses": [
@@ -9,144 +11,192 @@
       "verse": 1,
       "latin_vulgate": "Et factum est verbum Domini ad me, dicens : ",
       "hebrew_masoretic": "וַיְהִ֥י דְבַר־יְהֹוָ֖ה אֵלַ֥י לֵאמֹֽר׃",
+      "douay_rheims": "And the word of the Lord came to me, saying:",
+      "finnish_biblia": "Ja Herran sana tapahtui minulle ja sanoi: ",
       "king_james": "And the word of the Lord came unto me, saying,"
     },
     {
       "verse": 2,
       "latin_vulgate": "Fili hominis, propone ænigma, et narra parabolam ad domum Israël, ",
       "hebrew_masoretic": "בֶּן־אָדָ֕ם ח֥וּד חִידָ֖ה וּמְשֹׁ֣ל מָשָׁ֑ל אֶל־בֵּ֖ית יִשְׂרָאֵֽל׃",
+      "douay_rheims": "Son of man, put forth a riddle, and speak a parable to the house of Israel,",
+      "finnish_biblia": "Sinä ihmisen poika, anna Israelin huoneelle tapaus ja juttele vertaus, ",
       "king_james": "Son of man, put forth a riddle, and speak a parable unto the house of Israel;"
     },
     {
       "verse": 3,
       "latin_vulgate": "et dices : Hæc dicit Dominus Deus : Aquila grandis magnarum alarum, longo membrorum ductu, plena plumis et varietate, venit ad Libanum, et tulit medullam cedri. ",
       "hebrew_masoretic": "וְאָמַרְתָּ֞ כֹּה־אָמַ֣ר ׀ אֲדֹנָ֣י יֱהֹוִ֗ה הַנֶּ֤שֶׁר הַגָּדוֹל֙ גְּד֤וֹל הַכְּנָפַ֙יִם֙ אֶ֣רֶךְ הָאֵ֔בֶר מָלֵא֙ הַנּוֹצָ֔ה אֲשֶׁר־ל֖וֹ הָרִקְמָ֑ה בָּ֚א אֶל־הַלְּבָנ֔וֹן וַיִּקַּ֖ח אֶת־צַמֶּ֥רֶת הָאָֽרֶז׃",
+      "douay_rheims": "And say: Thus saith the Lord God; A large eagle with great wings, long-limbed, full of feathers, and of variety, came to Libanus, and took away the marrow of the cedar.",
+      "finnish_biblia": "Ja sano: näin sanoo Herra, Herra: suuri kotka suurella lennolla ja pitkillä siivillä ja täynnä sulkia, jotka olivat kirjavat, tuli Libanonin päälle, ja otti sedripuun latvan. ",
       "king_james": "And say, Thus saith the Lord God; A great eagle with great wings, longwinged, full of feathers, which had divers colours, came unto Lebanon, and took the highest branch of the cedar:"
     },
     {
       "verse": 4,
       "latin_vulgate": "Summitatem frondium ejus avulsit, et transportavit eam in terram Chanaan : in urbe negotiatorum posuit illam. ",
       "hebrew_masoretic": "אֵ֛ת רֹ֥אשׁ יְנִיקוֹתָ֖יו קָטָ֑ף וַיְבִיאֵ֙הוּ֙ אֶל־אֶ֣רֶץ כְּנַ֔עַן בְּעִ֥יר רֹכְלִ֖ים שָׂמֽוֹ׃",
+      "douay_rheims": "He cropped off the top of the twigs thereof: and carried it away into the land of Chanaan, and he set it in a city of merchants.",
+      "finnish_biblia": "Ja mursi pois sen pienten vesain latvan, ja vei sen kauppamaahan, ja pani sen kauppamiesten kaupunkiin. ",
       "king_james": "He cropped off the top of his young twigs, and carried it into a land of traffick; he set it in a city of merchants."
     },
     {
       "verse": 5,
       "latin_vulgate": "Et tulit de semine terræ, et posuit illud in terra pro semine, ut firmaret radicem super aquas multas : in superficie posuit illud. ",
       "hebrew_masoretic": "וַיִּקַּח֙ מִזֶּ֣רַע הָאָ֔רֶץ וַֽיִּתְּנֵ֖הוּ בִּשְׂדֵה־זָ֑רַע קָ֚ח עַל־מַ֣יִם רַבִּ֔ים צַפְצָפָ֖ה שָׂמֽוֹ׃",
+      "douay_rheims": "And he took of the seed of the land, and put it in the ground for seed, that it might take a firm root over many waters: he planted it on the surface of the earth.",
+      "finnish_biblia": "Ja otti myös siemeniä siitä maakunnasta ja kylvi ne hyvään peltoon, ja asetti siihen, kussa paljo vettä läsnä oli, ja istutti sen taitavasti. ",
       "king_james": "He took also of the seed of the land, and planted it in a fruitful field; he placed it by great waters, and set it as a willow tree."
     },
     {
       "verse": 6,
       "latin_vulgate": "Cumque germinasset, crevit in vineam latiorem, humili statura, respicientibus ramis ejus ad eam, et radices ejus sub illa erant : facta est ergo vinea, et fructificavit in palmites, et emisit propagines. ",
       "hebrew_masoretic": "וַיִּצְמַ֡ח וַיְהִי֩ לְגֶ֨פֶן סֹרַ֜חַת שִׁפְלַ֣ת קוֹמָ֗ה לִפְנ֤וֹת דָּֽלִיּוֹתָיו֙ אֵלָ֔יו וְשׇׁרָשָׁ֖יו תַּחְתָּ֣יו יִהְי֑וּ וַתְּהִ֣י לְגֶ֔פֶן וַתַּ֣עַשׂ בַּדִּ֔ים וַתְּשַׁלַּ֖ח פֹּרֹֽאות׃",
+      "douay_rheims": "And it sprung up and grew into a spreading vine of low stature, and the branches thereof looked towards him: and the roots thereof were under him. So it became a vine, and grew into branches, and shot forth sprigs.",
+      "finnish_biblia": "Ja se kasvoi ja tuli avaraksi viinapuuksi, vaan matalaksi varreltansa, sillä oksat taittivat itsensä siihen päin, ja olivat juuret sen alla; ja se tuli jaloksi viinapuuksi, ja kasvoi oksat, ja putkautti itsestänsä vesat. ",
       "king_james": "And it grew, and became a spreading vine of low stature, whose branches turned toward him, and the roots thereof were under him: so it became a vine, and brought forth branches, and shot forth sprigs."
     },
     {
       "verse": 7,
       "latin_vulgate": "Et facta est aquila altera grandis, magnis alis, multisque plumis : et ecce vinea ista quasi mittens radices suas ad eam, palmites suos extendit ad illam, ut irrigaret eam de areolis germinis sui. ",
       "hebrew_masoretic": "וַיְהִ֤י נֶֽשֶׁר־אֶחָד֙ גָּד֔וֹל גְּד֥וֹל כְּנָפַ֖יִם וְרַב־נוֹצָ֑ה וְהִנֵּה֩ הַגֶּ֨פֶן הַזֹּ֜את כָּפְנָ֧ה שׇׁרָשֶׁ֣יהָ עָלָ֗יו וְדָֽלִיּוֹתָיו֙ שִׁלְחָה־לּ֔וֹ לְהַשְׁק֣וֹת אוֹתָ֔הּ מֵעֲרֻג֖וֹת מַטָּעָֽהּ׃",
+      "douay_rheims": "And there was another large eagle, with great wings, and many feathers: and behold this vine, bending as it were her roots towards him, stretched forth her branches to him, that he might water it by the furrows of her plantation.",
+      "finnish_biblia": "Ja siellä oli toinen suuri kotka, jolla olivat isot siivet ja paljo sulkia, ja katso, tämä viinapuu sovitti juurensa hänen puoleensa, ja ojensi oksansa hänen puoleensa, että sen piti kastetuksi tuleman hänen ojistansa. ",
       "king_james": "There was also another great eagle with great wings and many feathers: and, behold, this vine did bend her roots toward him, and shot forth her branches toward him, that he might water it by the furrows of her plantation."
     },
     {
       "verse": 8,
       "latin_vulgate": "In terra bona super aquas multas plantata est, ut faciat frondes, et portet fructum, ut sit in vineam grandem. ",
       "hebrew_masoretic": "אֶל־שָׂ֥דֶה טּ֛וֹב אֶל־מַ֥יִם רַבִּ֖ים הִ֣יא שְׁתוּלָ֑ה לַעֲשׂ֤וֹת עָנָף֙ וְלָשֵׂ֣את פֶּ֔רִי לִהְי֖וֹת לְגֶ֥פֶן אַדָּֽרֶת׃",
+      "douay_rheims": "It was planted in a good ground upon many waters, that it might bring forth branches, and bear fruit, that it might become a large vine.",
+      "finnish_biblia": "Ja oli kuitenkin hyvällä maalla paljon veden tykönä istutettu, niin että se kyllä sai kasvaa oksia, hedelmää kantaa ja suureksi viinapuuksi tulla. ",
       "king_james": "It was planted in a good soil by great waters, that it might bring forth branches, and that it might bear fruit, that it might be a goodly vine."
     },
     {
       "verse": 9,
       "latin_vulgate": "Dic : Hæc dicit Dominus Deus : Ergone prosperabitur ? nonne radices ejus evellet, et fructus ejus distringet, et siccabit omnes palmites germinis ejus, et arescet, et non in brachio grandi, neque in populo multo, ut evelleret eam radicitus ? ",
       "hebrew_masoretic": "אֱמֹ֗ר כֹּ֥ה אָמַ֛ר אֲדֹנָ֥י יֱהֹוִ֖ה תִּצְלָ֑ח הֲלוֹא֩ אֶת־שׇׁרָשֶׁ֨יהָ יְנַתֵּ֜ק וְאֶת־פִּרְיָ֣הּ ׀ יְקוֹסֵ֣ס וְיָבֵ֗שׁ כׇּל־טַרְפֵּ֤י צִמְחָהּ֙ תִּיבָ֔שׁ וְלֹֽא־בִזְרֹ֤עַ גְּדוֹלָה֙ וּבְעַם־רָ֔ב לְמַשְׂא֥וֹת אוֹתָ֖הּ מִשׇּׁרָשֶֽׁיהָ׃",
+      "douay_rheims": "Say thou: Thus saith the Lord God: Shall it prosper then? shall he not pull up the roots thereof, and strip off its fruit, and dry up all the branches it hath shot forth, and make it wither: and this without a strong arm, or many people to pluck it up by the root?",
+      "finnish_biblia": "Niin sano nyt: näin sanoo Herra, Herra: pitäisikö sen menestymän? eikö sen juuret pidä reväistämän ylös, ja sen hedelmät varistettaman, että se kuivettuis? sen pitää kuivettuman kaikissa vesoissansa, ja ei suuren käsivarren, taikka paljon kansan kautta, juurinensa revittämän ylös. ",
       "king_james": "Say thou, Thus saith the Lord God; Shall it prosper? shall he not pull up the roots thereof, and cut off the fruit thereof, that it wither? it shall wither in all the leaves of her spring, even without great power or many people to pluck it up by the roots thereof."
     },
     {
       "verse": 10,
       "latin_vulgate": "Ecce plantata est : ergone prosperabitur ? nonne, cum tetigerit eam ventus urens, siccabitur, et in areis germinis sui arescet ?  ",
       "hebrew_masoretic": "וְהִנֵּ֥ה שְׁתוּלָ֖ה הֲתִצְלָ֑ח הֲלֹא֩ כְגַ֨עַת בָּ֜הּ ר֤וּחַ הַקָּדִים֙ תִּיבַ֣שׁ יָבֹ֔שׁ עַל־עֲרֻגֹ֥ת צִמְחָ֖הּ תִּיבָֽשׁ׃ {פ}",
+      "douay_rheims": "Behold, it is planted: shall it prosper then? shall it not be dried up when the burning wind shall touch it, and shall it not wither in the furrows where it grew?",
+      "finnish_biblia": "Katso, se on istutettu; vaan pitäiskö sen menestymän? ja niin pian kuin siihen tulee itätuuli, niin pitää sen kuivettuman paikkoinensa. ",
       "king_james": "Yea, behold, being planted, shall it prosper? shall it not utterly wither, when the east wind toucheth it? it shall wither in the furrows where it grew."
     },
     {
       "verse": 11,
       "latin_vulgate": " Et factum est verbum Domini ad me, dicens : ",
       "hebrew_masoretic": "וַיְהִ֥י דְבַר־יְהֹוָ֖ה אֵלַ֥י לֵאמֹֽר׃",
+      "douay_rheims": "And the word of the Lord came to me, saying:",
+      "finnish_biblia": "Ja Herran sana tapahtui minulle ja sanoi: ",
       "king_james": "Moreover the word of the Lord came unto me, saying,"
     },
     {
       "verse": 12,
       "latin_vulgate": "Dic ad domum exasperantem : Nescitis quid ista significent ? Dic : Ecce venit rex Babylonis in Jerusalem, et assumet regem et principes ejus, et adducet eos ad semetipsum in Babylonem. ",
       "hebrew_masoretic": "אֱמׇר־נָא֙ לְבֵ֣ית הַמֶּ֔רִי הֲלֹ֥א יְדַעְתֶּ֖ם מָה־אֵ֑לֶּה אֱמֹ֗ר הִנֵּה־בָ֨א מֶלֶךְ־בָּבֶ֤ל יְרוּשָׁלַ֙͏ִם֙ וַיִּקַּ֤ח אֶת־מַלְכָּהּ֙ וְאֶת־שָׂרֶ֔יהָ וַיָּבֵ֥א אוֹתָ֛ם אֵלָ֖יו בָּבֶֽלָה׃",
+      "douay_rheims": "Say to the provoking house: Know you not what these things mean? Tell them: Behold the king of Babylon cometh to Jerusalem: and he shall take away the king and the princes thereof and carry them with him to Babylon.",
+      "finnish_biblia": "Sanos tälle kovakorvaiselle huoneelle: ettekö te tiedä, mikä tämä on? ja sano: katso, Babelin kuningas tuli Jerusalemiin, ja otti hänen kuninkaansa ja päämiehensä, ja vei heidät tykönsä Babeliin. ",
       "king_james": "Say now to the rebellious house, Know ye not what these things mean? tell them, Behold, the king of Babylon is come to Jerusalem, and hath taken the king thereof, and the princes thereof, and led them with him to Babylon;"
     },
     {
       "verse": 13,
       "latin_vulgate": "Et tollet de semine regni, ferietque cum eo fœdus, et ab eo accipiet jusjurandum. Sed et fortes terræ tollet, ",
       "hebrew_masoretic": "וַיִּקַּח֙ מִזֶּ֣רַע הַמְּלוּכָ֔ה וַיִּכְרֹ֥ת אִתּ֖וֹ בְּרִ֑ית וַיָּבֵ֤א אֹתוֹ֙ בְּאָלָ֔ה וְאֶת־אֵילֵ֥י הָאָ֖רֶץ לָקָֽח׃",
+      "douay_rheims": "And he shall take one of the king's seed, and make a covenant with him, and take an oath of him. Yea, and he shall take away the mighty men of the land,",
+      "finnish_biblia": "Ja otti yhden kuninkaallisesta siemenestä, ja teki liiton hänen kanssansa, ja otti valan häneltä; mutta ne jalot maakunnassa otti hän pois. ",
       "king_james": "And hath taken of the king’s seed, and made a covenant with him, and hath taken an oath of him: he hath also taken the mighty of the land:"
     },
     {
       "verse": 14,
       "latin_vulgate": "ut sit regnum humile, et non elevetur, sed custodiat pactum ejus, et servet illud. ",
       "hebrew_masoretic": "לִֽהְיוֹת֙ מַמְלָכָ֣ה שְׁפָלָ֔ה לְבִלְתִּ֖י הִתְנַשֵּׂ֑א לִשְׁמֹ֥ר אֶת־בְּרִית֖וֹ לְעׇמְדָֽהּ׃",
+      "douay_rheims": "That it may be a low kingdom and not lift itself up, but keep his covenant and observe it.",
+      "finnish_biblia": "Että valtakunta piti nöyryytetyksi tuleman, ja ei itsiänsä paisuttaman, että liitto piti pidettämän ja seisovainen oleman. ",
       "king_james": "That the kingdom might be base, that it might not lift itself up, but that by keeping of his covenant it might stand."
     },
     {
       "verse": 15,
       "latin_vulgate": "Qui recedens ab eo misit nuntios ad Ægyptum, ut daret sibi equos et populum multum : numquid prosperabitur, vel consequetur salutem, qui fecit hæc ? et qui dissolvit pactum, numquid effugiet ? ",
       "hebrew_masoretic": "וַיִּמְרׇד־בּ֗וֹ לִשְׁלֹ֤חַ מַלְאָכָיו֙ מִצְרַ֔יִם לָתֶת־ל֥וֹ סוּסִ֖ים וְעַם־רָ֑ב הֲיִצְלָ֤ח הֲיִמָּלֵט֙ הָעֹשֵׂ֣ה אֵ֔לֶּה וְהֵפֵ֥ר בְּרִ֖ית וְנִמְלָֽט׃",
+      "douay_rheims": "But he hath revolted from him and sent ambassadors to Egypt, that it might give him horses, and much people. And shall he that hath done thus prosper, or be saved? and shall he escape that hath broken the covenant?",
+      "finnish_biblia": "Mutta se luopui hänestä, ja lähetti käskyläisensä Egyptiin, että hänelle piti lähettämän hevosia ja paljon väkeä; pitäiskö se menestymän hänelle? taikka pitäiskö hänen hyvin siitä pääsemän, joka senkaltaista tekee? ja se kuin liiton särkee, pitäiskö sen pääsemän? ",
       "king_james": "But he rebelled against him in sending his ambassadors into Egypt, that they might give him horses and much people. Shall he prosper? shall he escape that doeth such things? or shall he break the covenant, and be delivered?"
     },
     {
       "verse": 16,
       "latin_vulgate": "Vivo ego, dicit Dominus Deus, quoniam in loco regis qui constituit eum regem, cujus fecit irritum juramentum, et solvit pactum quod habebat cum eo, in medio Babylonis morietur. ",
       "hebrew_masoretic": "חַי־אָ֗נִי נְאֻם֮ אֲדֹנָ֣י יֱהֹוִה֒ אִם־לֹ֗א בִּמְקוֹם֙ הַמֶּ֙לֶךְ֙ הַמַּמְלִ֣יךְ אֹת֔וֹ אֲשֶׁ֤ר בָּזָה֙ אֶת־אָ֣לָת֔וֹ וַאֲשֶׁ֥ר הֵפֵ֖ר אֶת־בְּרִית֑וֹ אִתּ֥וֹ בְתוֹךְ־בָּבֶ֖ל יָמֽוּת׃",
+      "douay_rheims": "As I live, saith the Lord God: In the place where the king dwelleth that made him king, whose oath he hath made void, and whose covenant he broke, even in the midst of Babylon shall he die.",
+      "finnish_biblia": "Niin totta kuin minä elän, sanoo Herra, Herra: sen kuninkaan paikassa, joka hänen kuninkaaksi asetti, jonka valan hän katsoi ylön, ja jonka liiton hän särki, siellä hänen pitää kuoleman Babelissa. ",
       "king_james": "As I live, saith the Lord God, surely in the place where the king dwelleth that made him king, whose oath he despised, and whose covenant he brake, even with him in the midst of Babylon he shall die."
     },
     {
       "verse": 17,
       "latin_vulgate": "Et non in exercitu grandi, neque in populo multo, faciet contra eum Pharao prælium : in jactu aggeris, et in exstructione vallorum, ut interficiat animas multas. ",
       "hebrew_masoretic": "וְלֹא֩ בְחַ֨יִל גָּד֜וֹל וּבְקָהָ֣ל רָ֗ב יַעֲשֶׂ֨ה אוֹת֤וֹ פַרְעֹה֙ בַּמִּלְחָמָ֔ה בִּשְׁפֹּ֥ךְ סֹלְלָ֖ה וּבִבְנ֣וֹת דָּיֵ֑ק לְהַכְרִ֖ית נְפָשׁ֥וֹת רַבּֽוֹת׃",
+      "douay_rheims": "And not with a great army, nor with much people shall Pharao fight against him: when he shall cast up mounts, and build forts, to cut off many souls.",
+      "finnish_biblia": "Ja Pharaon ei pidä seisovaisen oleman häntä auttaissansa sodassa, sotajoukolla ja paljolla väellä, koska vallit pantaman ylös ja multaseinät rakennettaman pitää, että monta sielua surmattaisiin. ",
       "king_james": "Neither shall Pharaoh with his mighty army and great company make for him in the war, by casting up mounts, and building forts, to cut off many persons:"
     },
     {
       "verse": 18,
       "latin_vulgate": "Spreverat enim juramentum, ut solveret fœdus, et ecce dedit manum suam : et cum omnia hæc fecerit, non effugiet. ",
       "hebrew_masoretic": "וּבָזָ֥ה אָלָ֖ה לְהָפֵ֣ר בְּרִ֑ית וְהִנֵּ֨ה נָתַ֥ן יָד֛וֹ וְכׇל־אֵ֥לֶּה עָשָׂ֖ה לֹ֥א יִמָּלֵֽט׃ {ס}",
+      "douay_rheims": "For he had despised the oath, breaking his covenant, and behold he hath given his hand: and having done all these things, he shall not escape.",
+      "finnish_biblia": "Sillä hän on katsonut valan ylön, ja särkenyt liiton; katso, että hän on kätensä ojentanut, ja kaikkia näitä tekee, niin ei hänen pidä pääsemän. ",
       "king_james": "Seeing he despised the oath by breaking the covenant, when, lo, he had given his hand, and hath done all these things, he shall not escape."
     },
     {
       "verse": 19,
       "latin_vulgate": "Propterea hæc dicit Dominus Deus : Vivo ego, quoniam juramentum quod sprevit, et fœdus quod prævaricatus est, ponam in caput ejus. ",
       "hebrew_masoretic": "לָכֵ֞ן כֹּה־אָמַ֨ר אֲדֹנָ֣י יֱהֹוִה֮ חַי־אָ֒נִי֒ אִם־לֹ֗א אָֽלָתִי֙ אֲשֶׁ֣ר בָּזָ֔ה וּבְרִיתִ֖י אֲשֶׁ֣ר הֵפִ֑יר וּנְתַתִּ֖יו בְּרֹאשֽׁוֹ׃",
+      "douay_rheims": "Therefore thus saith the Lord God: As I live, I will lay upon his head the oath he hath despised, and the covenant he hath broken.",
+      "finnish_biblia": "Sentähden sanoo Herra, Herra näin: niin totta kuin minä elän, tahdon minä valani, jonka hän on katsonut ylön, ja liittoni, jonka hän särkenyt on, antaa tulla hänen päänsä päälle. ",
       "king_james": "Therefore thus saith the Lord God; As I live, surely mine oath that he hath despised, and my covenant that he hath broken, even it will I recompense upon his own head."
     },
     {
       "verse": 20,
       "latin_vulgate": "Et expandam super eum rete meum, et comprehendetur in sagena mea : et adducam eum in Babylonem, et judicabo eum ibi in prævaricatione qua despexit me. ",
       "hebrew_masoretic": "וּפָרַשְׂתִּ֤י עָלָיו֙ רִשְׁתִּ֔י וְנִתְפַּ֖שׂ בִּמְצוּדָתִ֑י וַהֲבִיאוֹתִ֣יהוּ בָבֶ֗לָה וְנִשְׁפַּטְתִּ֤י אִתּוֹ֙ שָׁ֔ם מַעֲל֖וֹ אֲשֶׁ֥ר מָעַל־בִּֽי׃",
+      "douay_rheims": "And I will spread my net over him, and he shall be taken in my net: and I will bring him into Babylon, and will judge him there for the transgression by which he hath despised me.",
+      "finnish_biblia": "Sillä minä tahdon heittää verkkoni hänen päällensä, ja hän pitää minun pyydyksilläni otettaman kiinni; ja minä tahdon antaa hänen vietää Babeliin, ja tahdon siellä olla oikeudella hänen kanssansa, että hän niin itsensä on asettanut minua vastaan. ",
       "king_james": "And I will spread my net upon him, and he shall be taken in my snare, and I will bring him to Babylon, and will plead with him there for his trespass that he hath trespassed against me."
     },
     {
       "verse": 21,
       "latin_vulgate": "Et omnes profugi ejus, cum universo agmine suo, gladio cadent : residui autem in omnem ventum dispergentur : et scietis quia ego Dominus locutus sum. ",
       "hebrew_masoretic": "וְאֵ֨ת כׇּל־מִבְרָחָ֤ו בְּכׇל־אֲגַפָּיו֙ בַּחֶ֣רֶב יִפֹּ֔לוּ וְהַנִּשְׁאָרִ֖ים לְכׇל־ר֣וּחַ יִפָּרֵ֑שׂוּ וִידַעְתֶּ֕ם כִּ֛י אֲנִ֥י יְהֹוָ֖ה דִּבַּֽרְתִּי׃ {פ}",
+      "douay_rheims": "And all his fugitives with all his bands shall fall by the sword: and the residue shall be scattered into every wind: and you shall know that I the Lord have spoken.",
+      "finnish_biblia": "Ja kaikki, jotka pakenevat ja hänen puoltansa pitävät, pitää miekalla lankeeman, ja ne, jotka heistä pääsevät, pitää kaikkiin tuuliin hajoitetuiksi tuleman; ja teidän pitää ymmärtämän, että minä Herra olen tämän puhunut. ",
       "king_james": "And all his fugitives with all his bands shall fall by the sword, and they that remain shall be scattered toward all winds: and ye shall know that I the Lord have spoken it."
     },
     {
       "verse": 22,
       "latin_vulgate": "Hæc dicit Dominus Deus : Et sumam ego de medulla cedri sublimis, et ponam : de vertice ramorum ejus tenerum distringam, et plantabo super montem excelsum et eminentem. ",
       "hebrew_masoretic": "כֹּ֤ה אָמַר֙ אֲדֹנָ֣י יֱהֹוִ֔ה וְלָקַ֣חְתִּי אָ֗נִי מִצַּמֶּ֧רֶת הָאֶ֛רֶז הָרָמָ֖ה וְנָתָ֑תִּי מֵרֹ֤אשׁ יֹֽנְקוֹתָיו֙ רַ֣ךְ אֶקְטֹ֔ף וְשָׁתַ֣לְתִּי אָ֔נִי עַ֥ל הַר־גָּבֹ֖הַּ וְתָלֽוּל׃",
+      "douay_rheims": "Thus saith the Lord God: I myself will take of the marrow of the high cedar, and will set it: I will crop off a tender twig from the top of the branches thereof, and I will plant it on a mountain high and eminent.",
+      "finnish_biblia": "Näin sanoo Herra, Herra: minä tahdon myös ottaa korkian sedrin latvasta, ja murtaa nuorten vesain latvan, ja minä tahdon istuttaa sen korkialle vuorelle. ",
       "king_james": "Thus saith the Lord God; I will also take of the highest branch of the high cedar, and will set it; I will crop off from the top of his young twigs a tender one, and will plant it upon an high mountain and eminent:"
     },
     {
       "verse": 23,
       "latin_vulgate": "In monte sublimi Israël plantabo illud, et erumpet in germen, et faciet fructum, et erit in cedrum magnam : et habitabunt sub ea omnes volucres, et universum volatile sub umbra frondium ejus nidificabit : ",
       "hebrew_masoretic": "בְּהַ֨ר מְר֤וֹם יִשְׂרָאֵל֙ אֶשְׁתֳּלֶ֔נּוּ וְנָשָׂ֤א עָנָף֙ וְעָ֣שָׂה פֶ֔רִי וְהָיָ֖ה לְאֶ֣רֶז אַדִּ֑יר וְשָׁכְנ֣וּ תַחְתָּ֗יו כֹּ֚ל צִפּ֣וֹר כׇּל־כָּנָ֔ף בְּצֵ֥ל דָּלִיּוֹתָ֖יו תִּשְׁכֹּֽנָּה׃",
+      "douay_rheims": "On the high mountains of Israel will I plant it, and it shall shoot forth into branches and shall bear fruit, and it shall become a great cedar: and all birds shall dwell under it, and every fowl shall make its nest under the shadow of the branches thereof.",
+      "finnish_biblia": "Minä tahdon sen korkialle Israelin vuorelle istuttaa, että sen pitää oksia saaman, ja hedelmän kantaman, ja suureksi sedripuuksi tuleman: niin että kaikkinaiset linnut pitää taitaman asua hänen allansa, ja hänen oksainsa varjon alla lepäämän. ",
       "king_james": "In the mountain of the height of Israel will I plant it: and it shall bring forth boughs, and bear fruit, and be a goodly cedar: and under it shall dwell all fowl of every wing; in the shadow of the branches thereof shall they dwell."
     },
     {
       "verse": 24,
       "latin_vulgate": "et scient omnia ligna regionis quia ego Dominus humiliavi lignum sublime, et exaltavi lignum humile ; et siccavi lignum viride, et frondere feci lignum aridum. Ego Dominus locutus sum, et feci.   ",
       "hebrew_masoretic": "וְֽיָדְע֞וּ כׇּל־עֲצֵ֣י הַשָּׂדֶ֗ה כִּ֣י אֲנִ֤י יְהֹוָה֙ הִשְׁפַּ֣לְתִּי ׀ עֵ֣ץ גָּבֹ֗הַּ הִגְבַּ֙הְתִּי֙ עֵ֣ץ שָׁפָ֔ל הוֹבַ֙שְׁתִּי֙ עֵ֣ץ לָ֔ח וְהִפְרַ֖חְתִּי עֵ֣ץ יָבֵ֑שׁ אֲנִ֥י יְהֹוָ֖ה דִּבַּ֥רְתִּי וְעָשִֽׂיתִי׃ {פ}",
+      "douay_rheims": "And all the trees of the country shall know that I the Lord have brought down the high tree, and exalted the low tree: and have dried up the green tree, and have caused the dry tree to flourish. I the Lord have spoken and have done it. ",
+      "finnish_biblia": "Ja kaikki puut maan päällä pitää tietämän, että minä Herra olen korkian puun alentanut, ja matalan puun ylentänyt, ja viheriäisen puun kuivannut, ja kuivan puun viheriäiseksi tehnyt; minä Herra sen puhun, ja teen sen myös.   ",
       "king_james": "And all the trees of the field shall know that I the Lord have brought down the high tree, have exalted the low tree, have dried up the green tree, and have made the dry tree to flourish: I the Lord have spoken and have done it. "
     }
   ]

@@ -2,6 +2,8 @@
   "book_id": "PSA",
   "latin_name": "Liber Psalmorum",
   "hebrew_name": "תְּהִלִּים",
+  "douay_name": "Psalms",
+  "finnish_name": "Psalmit",
   "english_name": "Psalms",
   "chapter": 50,
   "verses": [
@@ -9,9 +11,14 @@
       "verse": 1,
       "latin_vulgate": "Psalmus Asaph.   Deus deorum Dominus locutus est,  et vocavit terram a solis ortu usque ad occasum. ",
       "hebrew_masoretic": "מִזְמ֗וֹר לְאָ֫סָ֥ף אֵ֤ל ׀ אֱֽלֹהִ֡ים יְֽהֹוָ֗ה דִּבֶּ֥ר וַיִּקְרָא־אָ֑רֶץ מִמִּזְרַח־שֶׁ֝֗מֶשׁ עַד־מְבֹאֽוֹ׃",
+      "douay_rheims": "A psalm for Asaph. The God of gods, the Lord hath spoken: and he hath called the earth. From the rising of the sun, to the going down thereof:",
+      "finnish_biblia": "Asaphin Psalmi. Herra, väkevä Jumala, puhuu, ja kutsuu maailman hamasta auringon koitosta niin laskemiseen asti. ",
       "king_james": "The mighty God, even the Lord, hath spoken, and called the earth from the rising of the sun unto the going down thereof.",
       "refs": {
         "latin_vulgate": {
+          "src": "49:1"
+        },
+        "douay_rheims": {
           "src": "49:1"
         }
       }
@@ -20,9 +27,14 @@
       "verse": 2,
       "latin_vulgate": " Ex Sion species decoris ejus : ",
       "hebrew_masoretic": "מִצִּיּ֥וֹן מִכְלַל־יֹ֗פִי אֱלֹהִ֥ים הוֹפִֽיעַ׃",
+      "douay_rheims": "Out of Sion the loveliness of his beauty.",
+      "finnish_biblia": "Zionista antaa Jumala täydellisen kirkkauden paistaa. ",
       "king_james": "Out of Zion, the perfection of beauty, God hath shined.",
       "refs": {
         "latin_vulgate": {
+          "src": "49:2"
+        },
+        "douay_rheims": {
           "src": "49:2"
         }
       }
@@ -31,9 +43,14 @@
       "verse": 3,
       "latin_vulgate": " Deus manifeste veniet ;  Deus noster, et non silebit.  Ignis in conspectu ejus exardescet ;  et in circuitu ejus tempestas valida. ",
       "hebrew_masoretic": "יָ֤בֹ֥א אֱלֹהֵ֗ינוּ וְֽאַל־יֶ֫חֱרַ֥שׁ אֵשׁ־לְפָנָ֥יו תֹּאכֵ֑ל וּ֝סְבִיבָ֗יו נִשְׂעֲרָ֥ה מְאֹֽד׃",
+      "douay_rheims": "God shall come manifestly: our God shall come, and shall not keep silence. A fire shall burn before him: and a mighty tempest shall be round about him.",
+      "finnish_biblia": "Meidän Jumalamme tulee, ja ei vaikene: kuluttavainen tuli käy hänen edellänsä, ja hänen ympärillänsä väkevä ilma. ",
       "king_james": "Our God shall come, and shall not keep silence: a fire shall devour before him, and it shall be very tempestuous round about him.",
       "refs": {
         "latin_vulgate": {
+          "src": "49:3"
+        },
+        "douay_rheims": {
           "src": "49:3"
         }
       }
@@ -42,9 +59,14 @@
       "verse": 4,
       "latin_vulgate": " Advocabit cælum desursum, et terram,  discernere populum suum. ",
       "hebrew_masoretic": "יִקְרָ֣א אֶל־הַשָּׁמַ֣יִם מֵעָ֑ל וְאֶל־הָ֝אָ֗רֶץ לָדִ֥ין עַמּֽוֹ׃",
+      "douay_rheims": "He shall call heaven from above, and the earth, to judge his people.",
+      "finnish_biblia": "Hän kutsuu taivaat ylhäältä ja maan, tuomitaksensa kansaansa. ",
       "king_james": "He shall call to the heavens from above, and to the earth, that he may judge his people.",
       "refs": {
         "latin_vulgate": {
+          "src": "49:4"
+        },
+        "douay_rheims": {
           "src": "49:4"
         }
       }
@@ -53,9 +75,14 @@
       "verse": 5,
       "latin_vulgate": " Congregate illi sanctos ejus,  qui ordinant testamentum ejus super sacrificia. ",
       "hebrew_masoretic": "אִסְפוּ־לִ֥י חֲסִידָ֑י כֹּרְתֵ֖י בְרִיתִ֣י עֲלֵי־זָֽבַח׃",
+      "douay_rheims": "Gather ye together his saints to him: who set his covenant before sacrifices.",
+      "finnish_biblia": "Kootkaat minulle minun pyhäni, jotka liitostani enemmän pitävät kuin uhrista. ",
       "king_james": "Gather my saints together unto me; those that have made a covenant with me by sacrifice.",
       "refs": {
         "latin_vulgate": {
+          "src": "49:5"
+        },
+        "douay_rheims": {
           "src": "49:5"
         }
       }
@@ -64,9 +91,14 @@
       "verse": 6,
       "latin_vulgate": " Et annuntiabunt cæli justitiam ejus,  quoniam Deus judex est. ",
       "hebrew_masoretic": "וַיַּגִּ֣ידוּ שָׁמַ֣יִם צִדְק֑וֹ כִּֽי־אֱלֹהִ֓ים ׀ שֹׁפֵ֖ט ה֣וּא סֶֽלָה׃",
+      "douay_rheims": "And the heavens shall declare his justice: for God is judge.",
+      "finnish_biblia": "Ja taivaat pitää hänen vanhurskauttansa ilmoittaman; sillä Jumala on tuomari, Sela! ",
       "king_james": "And the heavens shall declare his righteousness: for God is judge himself. Selah.",
       "refs": {
         "latin_vulgate": {
+          "src": "49:6"
+        },
+        "douay_rheims": {
           "src": "49:6"
         }
       }
@@ -75,9 +107,14 @@
       "verse": 7,
       "latin_vulgate": " Audi, populus meus, et loquar ;  Israël, et testificabor tibi :  Deus, Deus tuus ego sum. ",
       "hebrew_masoretic": "שִׁמְעָ֤ה עַמִּ֨י ׀ וַאֲדַבֵּ֗רָה יִ֭שְׂרָאֵל וְאָעִ֣ידָה בָּ֑ךְ אֱלֹהִ֖ים אֱלֹהֶ֣יךָ אָנֹֽכִי׃",
+      "douay_rheims": "Hear, O my people, and I will speak: O Israel, and I will testify to thee: I am God, thy God.",
+      "finnish_biblia": "Kuule, kansani! minä tahdon puhua, ja sinun seassas, Israel, todistaa: minä Jumala olen sinun Jumalas, ",
       "king_james": "Hear, O my people, and I will speak; O Israel, and I will testify against thee: I am God, even thy God.",
       "refs": {
         "latin_vulgate": {
+          "src": "49:7"
+        },
+        "douay_rheims": {
           "src": "49:7"
         }
       }
@@ -86,9 +123,14 @@
       "verse": 8,
       "latin_vulgate": " Non in sacrificiis tuis arguam te ;  holocausta autem tua in conspectu meo sunt semper. ",
       "hebrew_masoretic": "לֹ֣א עַל־זְ֭בָחֶיךָ אוֹכִיחֶ֑ךָ וְעוֹלֹתֶ֖יךָ לְנֶגְדִּ֣י תָמִֽיד׃",
+      "douay_rheims": "I will not reprove thee for thy sacrifices: and thy burnt offerings are always in my sight.",
+      "finnish_biblia": "Uhreistas en minä sinua nuhtele; sillä sinun polttouhris ovat alati minun edessäni. ",
       "king_james": "I will not reprove thee for thy sacrifices or thy burnt offerings, to have been continually before me.",
       "refs": {
         "latin_vulgate": {
+          "src": "49:8"
+        },
+        "douay_rheims": {
           "src": "49:8"
         }
       }
@@ -97,9 +139,14 @@
       "verse": 9,
       "latin_vulgate": " Non accipiam de domo tua vitulos,  neque de gregibus tuis hircos : ",
       "hebrew_masoretic": "לֹא־אֶקַּ֣ח מִבֵּיתְךָ֣ פָ֑ר מִ֝מִּכְלְאֹתֶ֗יךָ עַתּוּדִֽים׃",
+      "douay_rheims": "I will not take calves out of thy house: nor he goats out of thy flocks.",
+      "finnish_biblia": "En minä ota härkiä sinun huoneestas, enkä kauriita navetastas; ",
       "king_james": "I will take no bullock out of thy house, nor he goats out of thy folds.",
       "refs": {
         "latin_vulgate": {
+          "src": "49:9"
+        },
+        "douay_rheims": {
           "src": "49:9"
         }
       }
@@ -108,9 +155,14 @@
       "verse": 10,
       "latin_vulgate": " quoniam meæ sunt omnes feræ silvarum,  jumenta in montibus, et boves. ",
       "hebrew_masoretic": "כִּי־לִ֥י כׇל־חַיְתוֹ־יָ֑עַר בְּ֝הֵמ֗וֹת בְּהַרְרֵי־אָֽלֶף׃",
+      "douay_rheims": "For all the beasts of the woods are mine: the cattle on the hills, and the oxen.",
+      "finnish_biblia": "Sillä kaikki metsän eläimet ovat minun, ja eläimet vuorilla tuhansin. ",
       "king_james": "For every beast of the forest is mine, and the cattle upon a thousand hills.",
       "refs": {
         "latin_vulgate": {
+          "src": "49:10"
+        },
+        "douay_rheims": {
           "src": "49:10"
         }
       }
@@ -119,9 +171,14 @@
       "verse": 11,
       "latin_vulgate": " Cognovi omnia volatilia cæli,  et pulchritudo agri mecum est. ",
       "hebrew_masoretic": "יָ֭דַעְתִּי כׇּל־ע֣וֹף הָרִ֑ים וְזִ֥יז שָׂ֝דַ֗י עִמָּדִֽי׃",
+      "douay_rheims": "I know all the fowls of the air: and with me is the beauty of the field.",
+      "finnish_biblia": "Minä tunnen kaikki linnut vuorten päällä, ja metsän pedot ovat minun edessäni. ",
       "king_james": "I know all the fowls of the mountains: and the wild beasts of the field are mine.",
       "refs": {
         "latin_vulgate": {
+          "src": "49:11"
+        },
+        "douay_rheims": {
           "src": "49:11"
         }
       }
@@ -130,9 +187,14 @@
       "verse": 12,
       "latin_vulgate": " Si esuriero, non dicam tibi :  meus est enim orbis terræ et plenitudo ejus. ",
       "hebrew_masoretic": "אִם־אֶ֭רְעַב לֹא־אֹ֣מַר לָ֑ךְ כִּי־לִ֥י תֵ֝בֵ֗ל וּמְלֹאָֽהּ׃",
+      "douay_rheims": "If I should be hungry, I would not tell thee: for the world is mine, and the fulness thereof.",
+      "finnish_biblia": "Jos minä isoon, en minä sitä sano sinulle; sillä maan piiri on minun, ja kaikki mitä siinä on. ",
       "king_james": "If I were hungry, I would not tell thee: for the world is mine, and the fulness thereof.",
       "refs": {
         "latin_vulgate": {
+          "src": "49:12"
+        },
+        "douay_rheims": {
           "src": "49:12"
         }
       }
@@ -141,9 +203,14 @@
       "verse": 13,
       "latin_vulgate": " Numquid manducabo carnes taurorum ?  aut sanguinem hircorum potabo ? ",
       "hebrew_masoretic": "הַ֭אוֹכַל בְּשַׂ֣ר אַבִּירִ֑ים וְדַ֖ם עַתּוּדִ֣ים אֶשְׁתֶּֽה׃",
+      "douay_rheims": "Shall I eat the flesh of bullocks? or shall I drink the blood of goats?",
+      "finnish_biblia": "Luuletkos minun syövän härjän lihaa? ja kauristen verta juovan? ",
       "king_james": "Will I eat the flesh of bulls, or drink the blood of goats?",
       "refs": {
         "latin_vulgate": {
+          "src": "49:13"
+        },
+        "douay_rheims": {
           "src": "49:13"
         }
       }
@@ -152,9 +219,14 @@
       "verse": 14,
       "latin_vulgate": " Immola Deo sacrificium laudis,  et redde Altissimo vota tua. ",
       "hebrew_masoretic": "זְבַ֣ח לֵאלֹהִ֣ים תּוֹדָ֑ה וְשַׁלֵּ֖ם לְעֶלְי֣וֹן נְדָרֶֽיךָ׃",
+      "douay_rheims": "Offer to God the sacrifice of praise: and pay thy vows to the most High.",
+      "finnish_biblia": "Uhraa Jumalalle kiitosuhri, ja maksa Ylimmäiselle lupaukses; ",
       "king_james": "Offer unto God thanksgiving; and pay thy vows unto the most High:",
       "refs": {
         "latin_vulgate": {
+          "src": "49:14"
+        },
+        "douay_rheims": {
           "src": "49:14"
         }
       }
@@ -163,9 +235,14 @@
       "verse": 15,
       "latin_vulgate": " Et invoca me in die tribulationis :  eruam te, et honorificabis me. ",
       "hebrew_masoretic": "וּ֭קְרָאֵנִי בְּי֣וֹם צָרָ֑ה אֲ֝חַלֶּצְךָ֗ וּֽתְכַבְּדֵֽנִי׃",
+      "douay_rheims": "And call upon me in the day of trouble: I will deliver thee, and thou shalt glorify me.",
+      "finnish_biblia": "Ja avukses huuda minua hädässäs, niin minä tahdon auttaa sinua, ja sinun pitää kunnioittaman minua. ",
       "king_james": "And call upon me in the day of trouble: I will deliver thee, and thou shalt glorify me.",
       "refs": {
         "latin_vulgate": {
+          "src": "49:15"
+        },
+        "douay_rheims": {
           "src": "49:15"
         }
       }
@@ -174,9 +251,14 @@
       "verse": 16,
       "latin_vulgate": " Peccatori autem dixit Deus : Quare tu enarras justitias meas ?  et assumis testamentum meum per os tuum ? ",
       "hebrew_masoretic": "וְלָ֤רָשָׁ֨ע ׀ אָ֘מַ֤ר אֱלֹהִ֗ים מַה־לְּ֭ךָ לְסַפֵּ֣ר חֻקָּ֑י וַתִּשָּׂ֖א בְרִיתִ֣י עֲלֵי־פִֽיךָ׃",
+      "douay_rheims": "But to the sinner God hath said: Why dost thou declare my justices, and take my covenant in thy mouth?",
+      "finnish_biblia": "Mutta jumalattomalle sanoo Jumala: miksi sinä ilmoitat minun säätyjäni? ja otat minun liittoni suulles? ",
       "king_james": "But unto the wicked God saith, What hast thou to do to declare my statutes, or that thou shouldest take my covenant in thy mouth?",
       "refs": {
         "latin_vulgate": {
+          "src": "49:16"
+        },
+        "douay_rheims": {
           "src": "49:16"
         }
       }
@@ -185,9 +267,14 @@
       "verse": 17,
       "latin_vulgate": " Tu vero odisti disciplinam,  et projecisti sermones meos retrorsum. ",
       "hebrew_masoretic": "וְ֭אַתָּה שָׂנֵ֣אתָ מוּסָ֑ר וַתַּשְׁלֵ֖ךְ דְּבָרַ֣י אַחֲרֶֽיךָ׃",
+      "douay_rheims": "Seeing thou hast hated discipline: and hast cast my words behind thee.",
+      "finnish_biblia": "Ettäs kuritusta vihaat, ja heität minun sanani taakses. ",
       "king_james": "Seeing thou hatest instruction, and castest my words behind thee.",
       "refs": {
         "latin_vulgate": {
+          "src": "49:17"
+        },
+        "douay_rheims": {
           "src": "49:17"
         }
       }
@@ -196,9 +283,14 @@
       "verse": 18,
       "latin_vulgate": " Si videbas furem, currebas cum eo ;  et cum adulteris portionem tuam ponebas. ",
       "hebrew_masoretic": "אִם־רָאִ֣יתָ גַ֭נָּב וַתִּ֣רֶץ עִמּ֑וֹ וְעִ֖ם מְנָאֲפִ֣ים חֶלְקֶֽךָ׃",
+      "douay_rheims": "If thou didst see a thief thou didst run with him: and with adulterers thou hast been a partaker.",
+      "finnish_biblia": "Koskas varkaan näet, niin sinä juokset hänen kanssansa, ja pidät yhtä huorintekiäin kanssa. ",
       "king_james": "When thou sawest a thief, then thou consentedst with him, and hast been partaker with adulterers.",
       "refs": {
         "latin_vulgate": {
+          "src": "49:18"
+        },
+        "douay_rheims": {
           "src": "49:18"
         }
       }
@@ -207,9 +299,14 @@
       "verse": 19,
       "latin_vulgate": " Os tuum abundavit malitia,  et lingua tua concinnabat dolos. ",
       "hebrew_masoretic": "פִּ֭יךָ שָׁלַ֣חְתָּ בְרָעָ֑ה וּ֝לְשׁוֹנְךָ֗ תַּצְמִ֥יד מִרְמָֽה׃",
+      "douay_rheims": "Thy mouth hath abounded with evil, and thy tongue framed deceits.",
+      "finnish_biblia": "Sinun suus sallit sinä pahaa puhua, ja kieles saattaa petosta matkaan. ",
       "king_james": "Thou givest thy mouth to evil, and thy tongue frameth deceit.",
       "refs": {
         "latin_vulgate": {
+          "src": "49:19"
+        },
+        "douay_rheims": {
           "src": "49:19"
         }
       }
@@ -218,9 +315,14 @@
       "verse": 20,
       "latin_vulgate": " Sedens adversus fratrem tuum loquebaris,  et adversus filium matris tuæ ponebas scandalum. ",
       "hebrew_masoretic": "תֵּ֭שֵׁב בְּאָחִ֣יךָ תְדַבֵּ֑ר בְּבֶֽן־אִ֝מְּךָ֗ תִּתֶּן־דֹּֽפִי׃",
+      "douay_rheims": "Sitting thou didst speak against thy brother, and didst lay a scandal against thy mother's son:",
+      "finnish_biblia": "Sinä istut ja puhut veljeäs vastaan, äitis poikaa sinä pilkkaat. ",
       "king_james": "Thou sittest and speakest against thy brother; thou slanderest thine own mother’s son.",
       "refs": {
         "latin_vulgate": {
+          "src": "49:20"
+        },
+        "douay_rheims": {
           "src": "49:20"
         }
       }
@@ -229,9 +331,14 @@
       "verse": 21,
       "latin_vulgate": " Hæc fecisti, et tacui.  Existimasti inique quod ero tui similis :  arguam te, et statuam contra faciem tuam. ",
       "hebrew_masoretic": "אֵ֤לֶּה עָשִׂ֨יתָ ׀ וְֽהֶחֱרַ֗שְׁתִּי דִּמִּ֗יתָ הֱיֽוֹת־אֶהְיֶ֥ה כָמ֑וֹךָ אוֹכִיחֲךָ֖ וְאֶעֶרְכָ֣ה לְעֵינֶֽיךָ׃",
+      "douay_rheims": "These things hast thou done, and I was silent. Thou thoughtest unjustly that I should be like to thee: but I will reprove thee, and set before thy face.",
+      "finnish_biblia": "Näitä teet, ja minä olen vaiti; niin sinä luulet, että minä olen sinun kaltaises; mutta minä nuhtelen sinua ja asetan näitä silmäis eteen. ",
       "king_james": "These things hast thou done, and I kept silence; thou thoughtest that I was altogether such an one as thyself: but I will reprove thee, and set them in order before thine eyes.",
       "refs": {
         "latin_vulgate": {
+          "src": "49:21"
+        },
+        "douay_rheims": {
           "src": "49:21"
         }
       }
@@ -240,9 +347,14 @@
       "verse": 22,
       "latin_vulgate": " Intelligite hæc, qui obliviscimini Deum,  nequando rapiat, et non sit qui eripiat. ",
       "hebrew_masoretic": "בִּינוּ־נָ֣א זֹ֭את שֹׁכְחֵ֣י אֱל֑וֹהַּ פֶּן־אֶ֝טְרֹ֗ף וְאֵ֣ין מַצִּֽיל׃",
+      "douay_rheims": "Understand these things, you that forget God; lest he snatch you away, and there be none to deliver you.",
+      "finnish_biblia": "Ymmärtäkäät siis näitä te, jotka Jumalan unhotatte; etten minä tempaisi joskus pois, ja ei olisi vapahtajaa. ",
       "king_james": "Now consider this, ye that forget God, lest I tear you in pieces, and there be none to deliver.",
       "refs": {
         "latin_vulgate": {
+          "src": "49:22"
+        },
+        "douay_rheims": {
           "src": "49:22"
         }
       }
@@ -251,9 +363,14 @@
       "verse": 23,
       "latin_vulgate": " Sacrificium laudis honorificabit me,  et illic iter quo ostendam illi salutare Dei.  ",
       "hebrew_masoretic": "זֹבֵ֥חַ תּוֹדָ֗ה יְֽכַ֫בְּדָ֥נְנִי וְשָׂ֥ם דֶּ֑רֶךְ אַ֝רְאֶ֗נּוּ בְּיֵ֣שַׁע אֱלֹהִֽים׃ {פ}",
+      "douay_rheims": "The sacrifice of praise shall glorify me: and there is the way by which I will shew him the salvation of God. ",
+      "finnish_biblia": "Joka kiitosta uhraa, se ylistää minua, ja siinä on se tie, että minä osoitan hänelle Jumalan autuuden.   ",
       "king_james": "Whoso offereth praise glorifieth me: and to him that ordereth his conversation aright will I shew the salvation of God. ",
       "refs": {
         "latin_vulgate": {
+          "src": "49:23"
+        },
+        "douay_rheims": {
           "src": "49:23"
         }
       }

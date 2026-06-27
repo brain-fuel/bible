@@ -2,6 +2,8 @@
   "book_id": "ISA",
   "latin_name": "Isaias",
   "hebrew_name": "יְשַׁעְיָהוּ",
+  "douay_name": "Isaias",
+  "finnish_name": "Jesaja",
   "english_name": "Isaiah",
   "chapter": 18,
   "verses": [
@@ -9,42 +11,56 @@
       "verse": 1,
       "latin_vulgate": "Væ terræ cymbalo alarum,  quæ est trans flumina Æthiopiæ, ",
       "hebrew_masoretic": "ה֥וֹי אֶ֖רֶץ צִלְצַ֣ל כְּנָפָ֑יִם אֲשֶׁ֥ר מֵעֵ֖בֶר לְנַהֲרֵי־כֽוּשׁ׃",
+      "douay_rheims": "Woe to the land, the winged cymbal, which is beyond the rivers of Ethiopia,",
+      "finnish_biblia": "Voi sitä maata, joka vaeltaa siipein varjon alla, tällä puolella Etiopian virtoja! ",
       "king_james": "Woe to the land shadowing with wings, which is beyond the rivers of Ethiopia:"
     },
     {
       "verse": 2,
       "latin_vulgate": " qui mittit in mare legatos,  et in vasis papyri super aquas.  Ite, angeli veloces,  ad gentem convulsam et dilaceratam ;  ad populum terribilem, post quem non est alius ;  ad gentem exspectantem et conculcatam,  cujus diripuerunt flumina terram ejus. ",
       "hebrew_masoretic": "הַשֹּׁלֵ֨חַ בַּיָּ֜ם צִירִ֗ים וּבִכְלֵי־גֹ֘מֶא֮ עַל־פְּנֵי־מַ֒יִם֒ לְכ֣וּ ׀ מַלְאָכִ֣ים קַלִּ֗ים אֶל־גּוֹי֙ מְמֻשָּׁ֣ךְ וּמוֹרָ֔ט אֶל־עַ֥ם נוֹרָ֖א מִן־ה֣וּא וָהָ֑לְאָה גּ֚וֹי קַו־קָ֣ו וּמְבוּסָ֔ה אֲשֶׁר־בָּזְא֥וּ נְהָרִ֖ים אַרְצֽוֹ׃",
+      "douay_rheims": "That sendeth ambassadors by the sea, and in vessels of bulrushes upon the waters. Go, ye swift angels, to a nation rent and torn in pieces: to a terrible people, after which there is no other: to a nation expecting and trodden underfoot, whose land the rivers have spoiled.",
+      "finnish_biblia": "Joka sanansaattajat lähettää merelle, ja kulkee vedellä ruokoisessa haahdessa: menkäät nopiasti matkaan, sanansaattajat, sen kansan tykö, joka reväisty ja ryöstetty on, sen kansan tykö, joka julmempi on kuin joku muu, sen kansan tykö, joka siellä ja täällä mitattu ja tallattu on, jonka maa virtain hallussa on. ",
       "king_james": "That sendeth ambassadors by the sea, even in vessels of bulrushes upon the waters, saying, Go, ye swift messengers, to a nation scattered and peeled, to a people terrible from their beginning hitherto; a nation meted out and trodden down, whose land the rivers have spoiled!"
     },
     {
       "verse": 3,
       "latin_vulgate": " Omnes habitatores orbis, qui moramini in terra, cum elevatum fuerit signum in montibus, videbitis,  et clangorem tubæ audietis. ",
       "hebrew_masoretic": "כׇּל־יֹשְׁבֵ֥י תֵבֵ֖ל וְשֹׁ֣כְנֵי אָ֑רֶץ כִּנְשֹׂא־נֵ֤ס הָרִים֙ תִּרְא֔וּ וְכִתְקֹ֥עַ שׁוֹפָ֖ר תִּשְׁמָֽעוּ׃ {ס}",
+      "douay_rheims": "All ye inhabitants of the world, who dwell on the earth, when the sign shall be lifted up on the mountains, you shall see, and you shall hear the sound of the trumpet.",
+      "finnish_biblia": "Te kaikki, jotka asutte maan päällä, ja te, jotka maassa olette, saatte nähdä, kuinka lippu nostetaan vuorella, ja kuulla, kuinka vaskitorvella soitetaan. ",
       "king_james": "All ye inhabitants of the world, and dwellers on the earth, see ye, when he lifteth up an ensign on the mountains; and when he bloweth a trumpet, hear ye."
     },
     {
       "verse": 4,
       "latin_vulgate": " Quia hæc dicit Dominus ad me :  Quiescam et considerabo in loco meo,  sicut meridiana lux clara est,  et sicut nubes roris in die messis. ",
       "hebrew_masoretic": "כִּי֩ כֹ֨ה אָמַ֤ר יְהֹוָה֙ אֵלַ֔י (אשקוטה) [אֶשְׁקֳטָ֖ה] וְאַבִּ֣יטָה בִמְכוֹנִ֑י כְּחֹ֥ם צַח֙ עֲלֵי־א֔וֹר כְּעָ֥ב טַ֖ל בְּחֹ֥ם קָצִֽיר׃",
+      "douay_rheims": "For thus saith the Lord to me: I will take my rest, and consider in my place, as the noon light is clear, and as a cloud of dew in the day of harvest.",
+      "finnish_biblia": "Sillä näin sanoo Herra minulle: minä olen hiljakseni ja katselen majastani, niinkuin palavuus, joka sateen kuivaa, ja niinkuin kaste elonajan palavuudessa. ",
       "king_james": "For so the Lord said unto me, I will take my rest, and I will consider in my dwelling place like a clear heat upon herbs, and like a cloud of dew in the heat of harvest."
     },
     {
       "verse": 5,
       "latin_vulgate": " Ante messem enim totus effloruit,  et immatura perfectio germinabit ;  et præcidentur ramusculi ejus falcibus,  et quæ derelicta fuerint abscindentur et excutientur. ",
       "hebrew_masoretic": "כִּֽי־לִפְנֵ֤י קָצִיר֙ כְּתׇם־פֶּ֔רַח וּבֹ֥סֶר גֹּמֵ֖ל יִֽהְיֶ֣ה נִצָּ֑הֿ וְכָרַ֤ת הַזַּלְזַלִּים֙ בַּמַּזְמֵר֔וֹת וְאֶת־הַנְּטִישׁ֖וֹת הֵסִ֥יר הֵתַֽז׃",
+      "douay_rheims": "For before the harvest it was all flourishing, and it shall bud without perfect ripeness, and the sprigs thereof shall be cut off with pruning hooks: and what is left shall be cut away and shaken out.",
+      "finnish_biblia": "Sillä ennen elonaikaa, kuin tulo valmiiksi tulee, ja rohkamarjat kypsentyvät, täytyy oksat leikata sirpillä, ja viinapuut hakata ja heittää pois: ",
       "king_james": "For afore the harvest, when the bud is perfect, and the sour grape is ripening in the flower, he shall both cut off the sprigs with pruning hooks, and take away and cut down the branches."
     },
     {
       "verse": 6,
       "latin_vulgate": " Et relinquentur simul avibus montium  et bestiis terræ ;  et æstate perpetua erunt super eum volucres,  et omnes bestiæ terræ super illum hiemabunt. ",
       "hebrew_masoretic": "יֵעָזְב֤וּ יַחְדָּו֙ לְעֵ֣יט הָרִ֔ים וּֽלְבֶהֱמַ֖ת הָאָ֑רֶץ וְקָ֤ץ עָלָיו֙ הָעַ֔יִט וְכׇל־בֶּהֱמַ֥ת הָאָ֖רֶץ עָלָ֥יו תֶּחֱרָֽף׃ {ס}",
+      "douay_rheims": "And they shall be left together to the birds of the mountains, and the beasts of the earth: and the fowls shall be upon them all the summer, and all the beasts of the earth shall winter upon them.",
+      "finnish_biblia": "Niin että ne jätetään kokonansa linnuille vuorten päällä ja eläimille maassa; niin että linnut suvella tekevät siihen pesänsä, ja kaikkinaiset eläimet makaavat siinä talvella. ",
       "king_james": "They shall be left together unto the fowls of the mountains, and to the beasts of the earth: and the fowls shall summer upon them, and all the beasts of the earth shall winter upon them."
     },
     {
       "verse": 7,
       "latin_vulgate": " In tempore illo deferetur munus Domino exercituum  a populo divulso et dilacerato,  a populo terribili, post quem non fuit alius ;  a gente exspectante, exspectante et conculcata,  cujus diripuerunt flumina terram ejus ;  ad locum nominis Domini exercituum, montem Sion.  ",
       "hebrew_masoretic": "בָּעֵת֩ הַהִ֨יא יוּבַל־שַׁ֜י לַיהֹוָ֣ה צְבָא֗וֹת עַ֚ם מְמֻשָּׁ֣ךְ וּמוֹרָ֔ט וּמֵעַ֥ם נוֹרָ֖א מִן־ה֣וּא וָהָ֑לְאָה גּ֣וֹי ׀ קַו־קָ֣ו וּמְבוּסָ֗ה אֲשֶׁ֨ר בָּזְא֤וּ נְהָרִים֙ אַרְצ֔וֹ אֶל־מְק֛וֹם שֵׁם־יְהֹוָ֥ה צְבָא֖וֹת הַר־צִיּֽוֹן׃ {פ}",
+      "douay_rheims": "At that time shall a present be brought to the Lord of hosts, from a people rent and torn in pieces: from a terrible people, after which there hath been no other: from a nation expecting, expecting and trodden under foot, whose land the rivers have spoiled, to the place of the name of the Lord of hosts, to mount Sion. ",
+      "finnish_biblia": "Silloin se revitty ja ryöstetty kansa, joka julmempi on kuin joku muu, joka siellä ja täällä mitattu on ja tallattu on, jonka maa virtain hallussa on, tuo Herralle Zebaotille lahjoja siihen paikkaan, jossa Herran Zebaotin nimi on, Zionin vuorelle.   ",
       "king_james": "In that time shall the present be brought unto the Lord of hosts of a people scattered and peeled, and from a people terrible from their beginning hitherto; a nation meted out and trodden under foot, whose land the rivers have spoiled, to the place of the name of the Lord of hosts, the mount Zion. "
     }
   ]

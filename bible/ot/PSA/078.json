@@ -2,6 +2,8 @@
   "book_id": "PSA",
   "latin_name": "Liber Psalmorum",
   "hebrew_name": "תְּהִלִּים",
+  "douay_name": "Psalms",
+  "finnish_name": "Psalmit",
   "english_name": "Psalms",
   "chapter": 78,
   "verses": [
@@ -9,9 +11,14 @@
       "verse": 1,
       "latin_vulgate": "Intellectus Asaph.   Attendite, popule meus, legem meam ;  inclinate aurem vestram in verba oris mei. ",
       "hebrew_masoretic": "מַשְׂכִּ֗יל לְאָ֫סָ֥ף הַאֲזִ֣ינָה עַ֭מִּי תּוֹרָתִ֑י הַטּ֥וּ אׇ֝זְנְכֶ֗ם לְאִמְרֵי־פִֽי׃",
+      "douay_rheims": "Understanding for Asaph. Attend, O my people, to my law: incline your ears to the words of my mouth.",
+      "finnish_biblia": "Asaphin opetus. Kuule, kansani, minun lakini: kallistakaat korvanne minun suuni sanoihin. ",
       "king_james": "Give ear, O my people, to my law: incline your ears to the words of my mouth.",
       "refs": {
         "latin_vulgate": {
+          "src": "77:1"
+        },
+        "douay_rheims": {
           "src": "77:1"
         }
       }
@@ -20,9 +27,14 @@
       "verse": 2,
       "latin_vulgate": " Aperiam in parabolis os meum ;  loquar propositiones ab initio. ",
       "hebrew_masoretic": "אֶפְתְּחָ֣ה בְמָשָׁ֣ל פִּ֑י אַבִּ֥יעָה חִ֝יד֗וֹת מִנִּי־קֶֽדֶם׃",
+      "douay_rheims": "I will open my mouth in parables: I will utter propositions from the beginning.",
+      "finnish_biblia": "Minä avaan suuni sananlaskuun, ja vanhat tapaukset mainitsen, ",
       "king_james": "I will open my mouth in a parable: I will utter dark sayings of old:",
       "refs": {
         "latin_vulgate": {
+          "src": "77:2"
+        },
+        "douay_rheims": {
           "src": "77:2"
         }
       }
@@ -31,9 +43,14 @@
       "verse": 3,
       "latin_vulgate": " Quanta audivimus, et cognovimus ea,  et patres nostri narraverunt nobis. ",
       "hebrew_masoretic": "אֲשֶׁ֣ר שָׁ֭מַעְנוּ וַנֵּדָעֵ֑ם וַ֝אֲבוֹתֵ֗ינוּ סִפְּרוּ־לָֽנוּ׃",
+      "douay_rheims": "How great things have we heard and known, and our fathers have told us.",
+      "finnish_biblia": "Jotka me kuulleet olemme ja tiedämme, ja meidän isämme meille jutelleet ovat, ",
       "king_james": "Which we have heard and known, and our fathers have told us.",
       "refs": {
         "latin_vulgate": {
+          "src": "77:3"
+        },
+        "douay_rheims": {
           "src": "77:3"
         }
       }
@@ -42,9 +59,14 @@
       "verse": 4,
       "latin_vulgate": " Non sunt occultata a filiis eorum in generatione altera,  narrantes laudes Domini et virtutes ejus,  et mirabilia ejus quæ fecit. ",
       "hebrew_masoretic": "לֹ֤א נְכַחֵ֨ד ׀ מִבְּנֵיהֶ֗ם לְד֥וֹר אַחֲר֗וֹן מְֽ֭סַפְּרִים תְּהִלּ֣וֹת יְהֹוָ֑ה וֶעֱזוּז֥וֹ וְ֝נִפְלְאֹתָ֗יו אֲשֶׁ֣ר עָשָֽׂה׃",
+      "douay_rheims": "They have not been hidden from their children, in another generation. Declaring the praises of the Lord, and his powers, and his wonders which he hath done.",
+      "finnish_biblia": "Ettemme sitä salaisi heidän lapsiltansa, jälkeentulevaiselta sukukunnalta, julistain Herran kiitoksia, ja hänen voimaansa ja ihmeitänsä, jotka hän on tehnyt. ",
       "king_james": "We will not hide them from their children, shewing to the generation to come the praises of the Lord, and his strength, and his wonderful works that he hath done.",
       "refs": {
         "latin_vulgate": {
+          "src": "77:4"
+        },
+        "douay_rheims": {
           "src": "77:4"
         }
       }
@@ -53,9 +75,14 @@
       "verse": 5,
       "latin_vulgate": " Et suscitavit testimonium in Jacob,  et legem posuit in Israël,  quanta mandavit patribus nostris  nota facere ea filiis suis : ",
       "hebrew_masoretic": "וַיָּ֤קֶם עֵד֨וּת ׀ בְּֽיַעֲקֹ֗ב וְתוֹרָה֮ שָׂ֤ם בְּיִשְׂרָ֫אֵ֥ל אֲשֶׁ֣ר צִ֭וָּה אֶת־אֲבוֹתֵ֑ינוּ לְ֝הוֹדִיעָ֗ם לִבְנֵיהֶֽם׃",
+      "douay_rheims": "And he set up a testimony in Jacob: and made a law in Israel. How great things he commanded our fathers, that they should make the same known to their children:",
+      "finnish_biblia": "Hän sääsi todistuksen Jakobissa, ja antoi lain Israelissa, jonka hän käski meidän isäimme opettaa lapsillensa, ",
       "king_james": "For he established a testimony in Jacob, and appointed a law in Israel, which he commanded our fathers, that they should make them known to their children:",
       "refs": {
         "latin_vulgate": {
+          "src": "77:5"
+        },
+        "douay_rheims": {
           "src": "77:5"
         }
       }
@@ -64,9 +91,14 @@
       "verse": 6,
       "latin_vulgate": " ut cognoscat generatio altera :  filii qui nascentur et exsurgent,  et narrabunt filiis suis, ",
       "hebrew_masoretic": "לְמַ֤עַן יֵדְע֨וּ ׀ דּ֣וֹר אַ֭חֲרוֹן בָּנִ֣ים יִוָּלֵ֑דוּ יָ֝קֻ֗מוּ וִיסַפְּר֥וּ לִבְנֵיהֶֽם׃",
+      "douay_rheims": "That another generation might know them. The children that should be born and should rise up, and declare them to their children.",
+      "finnish_biblia": "Että vastatulevaiset oppisivat, ja lapset, jotka vielä syntyvät: kuin he kasvavat, että hekin myös ilmoittaisivat lapsillensa; ",
       "king_james": "That the generation to come might know them, even the children which should be born; who should arise and declare them to their children:",
       "refs": {
         "latin_vulgate": {
+          "src": "77:6"
+        },
+        "douay_rheims": {
           "src": "77:6"
         }
       }
@@ -75,9 +107,14 @@
       "verse": 7,
       "latin_vulgate": " ut ponant in Deo spem suam,  et non obliviscantur operum Dei,  et mandata ejus exquirant : ",
       "hebrew_masoretic": "וְיָשִׂ֥ימוּ בֵאלֹהִ֗ים כִּ֫סְלָ֥ם וְלֹ֣א יִ֭שְׁכְּחוּ מַ֥עַלְלֵי־אֵ֑ל וּמִצְוֺתָ֥יו יִנְצֹֽרוּ׃",
+      "douay_rheims": "That they may put their hope in God and may not forget the works of God: and may seek his commandments.",
+      "finnish_biblia": "Että he panisivat toivonsa Jumalaan ja ei unohtaisi Jumalan tekoja, vaan pitäisivät hänen käskynsä, ",
       "king_james": "That they might set their hope in God, and not forget the works of God, but keep his commandments:",
       "refs": {
         "latin_vulgate": {
+          "src": "77:7"
+        },
+        "douay_rheims": {
           "src": "77:7"
         }
       }
@@ -86,9 +123,14 @@
       "verse": 8,
       "latin_vulgate": " ne fiant, sicut patres eorum,  generatio prava et exasperans ;  generatio quæ non direxit cor suum,  et non est creditus cum Deo spiritus ejus. ",
       "hebrew_masoretic": "וְלֹ֤א יִהְי֨וּ ׀ כַּאֲבוֹתָ֗ם דּוֹר֮ סוֹרֵ֢ר וּמֹ֫רֶ֥ה דּ֭וֹר לֹא־הֵכִ֣ין לִבּ֑וֹ וְלֹֽא־נֶאֶמְנָ֖ה אֶת־אֵ֣ל רוּחֽוֹ׃",
+      "douay_rheims": "That they may not become like their fathers, a perverse and exasperating generation. A generation that set not their heart aright: and whose spirit was not faithful to God.",
+      "finnish_biblia": "Ja ei olisi niinkuin heidän isänsä, vastahakoinen ja kankia suku, joka ei vahvistanut sydäntänsä, ja heidän henkensä ei riippunut uskollisesti Jumalassa; ",
       "king_james": "And might not be as their fathers, a stubborn and rebellious generation; a generation that set not their heart aright, and whose spirit was not stedfast with God.",
       "refs": {
         "latin_vulgate": {
+          "src": "77:8"
+        },
+        "douay_rheims": {
           "src": "77:8"
         }
       }
@@ -97,9 +139,14 @@
       "verse": 9,
       "latin_vulgate": " Filii Ephrem, intendentes et mittentes arcum,  conversi sunt in die belli. ",
       "hebrew_masoretic": "בְּֽנֵי־אֶפְרַ֗יִם נוֹשְׁקֵ֥י רֽוֹמֵי־קָ֑שֶׁת הָ֝פְכ֗וּ בְּי֣וֹם קְרָֽב׃",
+      "douay_rheims": "The sons of Ephraim who bend and shoot with the bow: they have turned back in the day of battle.",
+      "finnish_biblia": "Niinkuin Ephraimin lapset, sota-aseilla varustetut joutsimiehet, pakenivat sodan ajalla. ",
       "king_james": "The children of Ephraim, being armed, and carrying bows, turned back in the day of battle.",
       "refs": {
         "latin_vulgate": {
+          "src": "77:9"
+        },
+        "douay_rheims": {
           "src": "77:9"
         }
       }
@@ -108,9 +155,14 @@
       "verse": 10,
       "latin_vulgate": " Non custodierunt testamentum Dei,  et in lege ejus noluerunt ambulare. ",
       "hebrew_masoretic": "לֹ֣א שָׁ֭מְרוּ בְּרִ֣ית אֱלֹהִ֑ים וּ֝בְתוֹרָת֗וֹ מֵאֲנ֥וּ לָלֶֽכֶת׃",
+      "douay_rheims": "They kept not the covenant of God: and in his law they would not walk.",
+      "finnish_biblia": "Ei he pitäneet Jumalan liittoa, ja ei vaeltaneet hänen laissansa. ",
       "king_james": "They kept not the covenant of God, and refused to walk in his law;",
       "refs": {
         "latin_vulgate": {
+          "src": "77:10"
+        },
+        "douay_rheims": {
           "src": "77:10"
         }
       }
@@ -119,9 +171,14 @@
       "verse": 11,
       "latin_vulgate": " Et obliti sunt benefactorum ejus,  et mirabilium ejus quæ ostendit eis. ",
       "hebrew_masoretic": "וַיִּשְׁכְּח֥וּ עֲלִילוֹתָ֑יו וְ֝נִפְלְאוֹתָ֗יו אֲשֶׁ֣ר הֶרְאָֽם׃",
+      "douay_rheims": "And they forgot his benefits, and his wonders that he had shewn them.",
+      "finnish_biblia": "Ja he unohtivat hänen tekonsa ja ihmeensä, jotka hän heille osottanut oli. ",
       "king_james": "And forgat his works, and his wonders that he had shewed them.",
       "refs": {
         "latin_vulgate": {
+          "src": "77:11"
+        },
+        "douay_rheims": {
           "src": "77:11"
         }
       }
@@ -130,9 +187,14 @@
       "verse": 12,
       "latin_vulgate": " Coram patribus eorum fecit mirabilia  in terra Ægypti, in campo Taneos. ",
       "hebrew_masoretic": "נֶ֣גֶד אֲ֭בוֹתָם עָ֣שָׂה פֶ֑לֶא בְּאֶ֖רֶץ מִצְרַ֣יִם שְׂדֵה־צֹֽעַן׃",
+      "douay_rheims": "Wonderful things did he do in the sight of their fathers, in the land of Egypt, in the field of Tanis.",
+      "finnish_biblia": "Heidän isäinsä edessä teki hän ihmeitä, Egyptin maassa, Zoanin kedolla. ",
       "king_james": "Marvellous things did he in the sight of their fathers, in the land of Egypt, in the field of Zoan.",
       "refs": {
         "latin_vulgate": {
+          "src": "77:12"
+        },
+        "douay_rheims": {
           "src": "77:12"
         }
       }
@@ -141,9 +203,14 @@
       "verse": 13,
       "latin_vulgate": " Interrupit mare, et perduxit eos,  et statuit aquas quasi in utre : ",
       "hebrew_masoretic": "בָּ֣קַע יָ֭ם וַיַּעֲבִירֵ֑ם וַֽיַּצֶּב־מַ֥יִם כְּמוֹ־נֵֽד׃",
+      "douay_rheims": "He divided the sea and brought them through: and he made the waters to stand as in a vessel.",
+      "finnish_biblia": "Hän halkasi meren ja vei heitä sen lävitse, ja asetti vedet niinkuin roukkion. ",
       "king_james": "He divided the sea, and caused them to pass through; and he made the waters to stand as an heap.",
       "refs": {
         "latin_vulgate": {
+          "src": "77:13"
+        },
+        "douay_rheims": {
           "src": "77:13"
         }
       }
@@ -152,9 +219,14 @@
       "verse": 14,
       "latin_vulgate": " et deduxit eos in nube diei,  et tota nocte in illuminatione ignis. ",
       "hebrew_masoretic": "וַיַּנְחֵ֣ם בֶּעָנָ֣ן יוֹמָ֑ם וְכׇל־הַ֝לַּ֗יְלָה בְּא֣וֹר אֵֽשׁ׃",
+      "douay_rheims": "And he conducted them with a cloud by day: and all the night with a light of fire.",
+      "finnish_biblia": "Ja hän talutti heitä yli päivää pilvellä, yli yötä tulen valolla. ",
       "king_james": "In the daytime also he led them with a cloud, and all the night with a light of fire.",
       "refs": {
         "latin_vulgate": {
+          "src": "77:14"
+        },
+        "douay_rheims": {
           "src": "77:14"
         }
       }
@@ -163,9 +235,14 @@
       "verse": 15,
       "latin_vulgate": " Interrupit petram in eremo,  et adaquavit eos velut in abysso multa. ",
       "hebrew_masoretic": "יְבַקַּ֣ע צֻ֭רִים בַּמִּדְבָּ֑ר וַ֝יַּ֗שְׁקְ כִּתְהֹמ֥וֹת רַבָּֽה׃",
+      "douay_rheims": "He struck the rock in the wilderness: and gave them to drink, as out of the great deep.",
+      "finnish_biblia": "Hän halkasi kalliot korvessa, ja juotti heitä vedellä yltäkyllä. ",
       "king_james": "He clave the rocks in the wilderness, and gave them drink as out of the great depths.",
       "refs": {
         "latin_vulgate": {
+          "src": "77:15"
+        },
+        "douay_rheims": {
           "src": "77:15"
         }
       }
@@ -174,9 +251,14 @@
       "verse": 16,
       "latin_vulgate": " Et eduxit aquam de petra,  et deduxit tamquam flumina aquas. ",
       "hebrew_masoretic": "וַיּוֹצִ֣א נוֹזְלִ֣ים מִסָּ֑לַע וַיּ֖וֹרֶד כַּנְּהָר֣וֹת מָֽיִם׃",
+      "douay_rheims": "He brought forth water out of the rock: and made streams run down as rivers.",
+      "finnish_biblia": "Ja hän laski ojat vuotamaan kalliosta, niin että vedet siitä vuosivat niinkuin virrat. ",
       "king_james": "He brought streams also out of the rock, and caused waters to run down like rivers.",
       "refs": {
         "latin_vulgate": {
+          "src": "77:16"
+        },
+        "douay_rheims": {
           "src": "77:16"
         }
       }
@@ -185,9 +267,14 @@
       "verse": 17,
       "latin_vulgate": " Et apposuerunt adhuc peccare ei ;  in iram excitaverunt Excelsum in inaquoso. ",
       "hebrew_masoretic": "וַיּוֹסִ֣יפוּ ע֭וֹד לַחֲטֹא־ל֑וֹ לַֽמְר֥וֹת עֶ֝לְי֗וֹן בַּצִּיָּֽה׃",
+      "douay_rheims": "And they added yet more sin against him: they provoked the most High to wrath in the place without water.",
+      "finnish_biblia": "Ja vielä he sittenkin syntiä tekivät häntä vastaan, ja vihoittivat korkeimman korvessa. ",
       "king_james": "And they sinned yet more against him by provoking the most High in the wilderness.",
       "refs": {
         "latin_vulgate": {
+          "src": "77:17"
+        },
+        "douay_rheims": {
           "src": "77:17"
         }
       }
@@ -196,9 +283,14 @@
       "verse": 18,
       "latin_vulgate": " Et tentaverunt Deum in cordibus suis,  ut peterent escas animabus suis. ",
       "hebrew_masoretic": "וַיְנַסּוּ־אֵ֥ל בִּלְבָבָ֑ם לִֽשְׁאׇל־אֹ֥כֶל לְנַפְשָֽׁם׃",
+      "douay_rheims": "And they tempted God in their hearts, by asking meat for their desires.",
+      "finnish_biblia": "He kiusasivat Jumalaa sydämessänsä, anoen ruokaa sielullensa. ",
       "king_james": "And they tempted God in their heart by asking meat for their lust.",
       "refs": {
         "latin_vulgate": {
+          "src": "77:18"
+        },
+        "douay_rheims": {
           "src": "77:18"
         }
       }
@@ -207,9 +299,14 @@
       "verse": 19,
       "latin_vulgate": " Et male locuti sunt de Deo ;  dixerunt : Numquid poterit Deus parare mensam in deserto ? ",
       "hebrew_masoretic": "וַֽיְדַבְּר֗וּ בֵּאלֹ֫הִ֥ים אָ֭מְרוּ הֲי֣וּכַל אֵ֑ל לַעֲרֹ֥ךְ שֻׁ֝לְחָ֗ן בַּמִּדְבָּֽר׃",
+      "douay_rheims": "And they spoke ill of God: they said: Can God furnish a table in the wilderness?",
+      "finnish_biblia": "He puhuivat Jumalaa vastaan ja sanoivat: voineeko Jumala valmistaa pöydän korvessa? ",
       "king_james": "Yea, they spake against God; they said, Can God furnish a table in the wilderness?",
       "refs": {
         "latin_vulgate": {
+          "src": "77:19"
+        },
+        "douay_rheims": {
           "src": "77:19"
         }
       }
@@ -218,9 +315,14 @@
       "verse": 20,
       "latin_vulgate": " quoniam percussit petram, et fluxerunt aquæ,  et torrentes inundaverunt.  Numquid et panem poterit dare,  aut parare mensam populo suo ? ",
       "hebrew_masoretic": "הֵ֤ן הִכָּה־צ֨וּר ׀ וַיָּז֣וּבוּ מַיִם֮ וּנְחָלִ֢ים יִ֫שְׁטֹ֥פוּ הֲגַם־לֶ֭חֶם י֣וּכַל תֵּ֑ת אִם־יָכִ֖ין שְׁאֵ֣ר לְעַמּֽוֹ׃",
+      "douay_rheims": "Because he struck the rock, and the waters gushed out, and the streams overflowed. Can he also give bread, or provide a table for his people?",
+      "finnish_biblia": "Katso, kyllä tosin hän kallioon löi, ja vedet vuosivat, ja ojat juoksivat; mutta voineeko hän myös leipää antaa, eli kansallensa lihaa toimittaa? ",
       "king_james": "Behold, he smote the rock, that the waters gushed out, and the streams overflowed; can he give bread also? can he provide flesh for his people?",
       "refs": {
         "latin_vulgate": {
+          "src": "77:20"
+        },
+        "douay_rheims": {
           "src": "77:20"
         }
       }
@@ -229,9 +331,14 @@
       "verse": 21,
       "latin_vulgate": " Ideo audivit Dominus et distulit ;  et ignis accensus est in Jacob,  et ira ascendit in Israël : ",
       "hebrew_masoretic": "לָכֵ֤ן ׀ שָׁמַ֥ע יְהֹוָ֗ה וַֽיִּתְעַ֫בָּ֥ר וְ֭אֵשׁ נִשְּׂקָ֣ה בְיַעֲקֹ֑ב וְגַם־אַ֝֗ף עָלָ֥ה בְיִשְׂרָאֵֽל׃",
+      "douay_rheims": "Therefore the Lord heard, and was angry: and a fire was kindled against Jacob, and wrath came up against Israel.",
+      "finnish_biblia": "Kuin Herra sen kuuli, vihastui hän: ja tuli sytytettiin Jakobissa, ja julmuus tuli Israelin päälle, ",
       "king_james": "Therefore the Lord heard this, and was wroth: so a fire was kindled against Jacob, and anger also came up against Israel;",
       "refs": {
         "latin_vulgate": {
+          "src": "77:21"
+        },
+        "douay_rheims": {
           "src": "77:21"
         }
       }
@@ -240,9 +347,14 @@
       "verse": 22,
       "latin_vulgate": " quia non crediderunt in Deo,  nec speraverunt in salutari ejus. ",
       "hebrew_masoretic": "כִּ֤י לֹ֣א הֶ֭אֱמִינוּ בֵּאלֹהִ֑ים וְלֹ֥א בָ֝טְח֗וּ בִּישׁוּעָתֽוֹ׃",
+      "douay_rheims": "Because they believed not in God: and trusted not in his salvation.",
+      "finnish_biblia": "Ettei he uskoneet Jumalan päälle, ja ei uskaltaneet hänen apuunsa. ",
       "king_james": "Because they believed not in God, and trusted not in his salvation:",
       "refs": {
         "latin_vulgate": {
+          "src": "77:22"
+        },
+        "douay_rheims": {
           "src": "77:22"
         }
       }
@@ -251,9 +363,14 @@
       "verse": 23,
       "latin_vulgate": " Et mandavit nubibus desuper,  et januas cæli aperuit. ",
       "hebrew_masoretic": "וַיְצַ֣ו שְׁחָקִ֣ים מִמָּ֑עַל וְדַלְתֵ֖י שָׁמַ֣יִם פָּתָֽח׃",
+      "douay_rheims": "And he had commanded the clouds from above, and had opened the doors of heaven.",
+      "finnish_biblia": "Ja hän käski pilviä ylhäältä, ja avasi taivaan ovet, ",
       "king_james": "Though he had commanded the clouds from above, and opened the doors of heaven,",
       "refs": {
         "latin_vulgate": {
+          "src": "77:23"
+        },
+        "douay_rheims": {
           "src": "77:23"
         }
       }
@@ -262,9 +379,14 @@
       "verse": 24,
       "latin_vulgate": " Et pluit illis manna ad manducandum,  et panem cæli dedit eis. ",
       "hebrew_masoretic": "וַיַּמְטֵ֬ר עֲלֵיהֶ֣ם מָ֣ן לֶאֱכֹ֑ל וּדְגַן־שָׁ֝מַ֗יִם נָ֣תַן לָֽמוֹ׃",
+      "douay_rheims": "And had rained down manna upon them to eat, and had given them the bread of heaven.",
+      "finnish_biblia": "Ja antoi sataa heille mannaa syödäksensä, ja antoi heille taivaan leipää. ",
       "king_james": "And had rained down manna upon them to eat, and had given them of the corn of heaven.",
       "refs": {
         "latin_vulgate": {
+          "src": "77:24"
+        },
+        "douay_rheims": {
           "src": "77:24"
         }
       }
@@ -273,9 +395,14 @@
       "verse": 25,
       "latin_vulgate": " Panem angelorum manducavit homo ;  cibaria misit eis in abundantia. ",
       "hebrew_masoretic": "לֶ֣חֶם אַ֭בִּירִים אָ֣כַל אִ֑ישׁ צֵידָ֬ה שָׁלַ֖ח לָהֶ֣ם לָשֹֽׂבַע׃",
+      "douay_rheims": "Man ate the bread of angels: he sent them provisions in abundance.",
+      "finnish_biblia": "He söivät väkeväin leipää: hän lähetti heille kyllä ruokaa ravinnoksi. ",
       "king_james": "Man did eat angels’ food: he sent them meat to the full.",
       "refs": {
         "latin_vulgate": {
+          "src": "77:25"
+        },
+        "douay_rheims": {
           "src": "77:25"
         }
       }
@@ -284,9 +411,14 @@
       "verse": 26,
       "latin_vulgate": " Transtulit austrum de cælo,  et induxit in virtute sua africum. ",
       "hebrew_masoretic": "יַסַּ֣ע קָ֭דִים בַּשָּׁמָ֑יִם וַיְנַהֵ֖ג בְּעֻזּ֣וֹ תֵימָֽן׃",
+      "douay_rheims": "He removed the south wind from heaven: and by his power brought in the southwest wind.",
+      "finnish_biblia": "Hän antoi itätuulen puhaltaa taivaan alla, ja väkevyydellänsä kehoitti hän etelätuulen, ",
       "king_james": "He caused an east wind to blow in the heaven: and by his power he brought in the south wind.",
       "refs": {
         "latin_vulgate": {
+          "src": "77:26"
+        },
+        "douay_rheims": {
           "src": "77:26"
         }
       }
@@ -295,9 +427,14 @@
       "verse": 27,
       "latin_vulgate": " Et pluit super eos sicut pulverem carnes,  et sicut arenam maris volatilia pennata. ",
       "hebrew_masoretic": "וַיַּמְטֵ֬ר עֲלֵיהֶ֣ם כֶּעָפָ֣ר שְׁאֵ֑ר וּֽכְח֥וֹל יַ֝מִּ֗ים ע֣וֹף כָּנָֽף׃",
+      "douay_rheims": "And he rained upon them flesh as dust: and feathered fowls like as the sand of the sea.",
+      "finnish_biblia": "Ja antoi sataa, niinkuin tomua, lihaa heille, ja lintuja niinkuin santaa meressä, ",
       "king_james": "He rained flesh also upon them as dust, and feathered fowls like as the sand of the sea:",
       "refs": {
         "latin_vulgate": {
+          "src": "77:27"
+        },
+        "douay_rheims": {
           "src": "77:27"
         }
       }
@@ -306,9 +443,14 @@
       "verse": 28,
       "latin_vulgate": " Et ceciderunt in medio castrorum eorum,  circa tabernacula eorum. ",
       "hebrew_masoretic": "וַ֭יַּפֵּל בְּקֶ֣רֶב מַחֲנֵ֑הוּ סָ֝בִ֗יב לְמִשְׁכְּנֹתָֽיו׃",
+      "douay_rheims": "And they fell in the midst of their camp, round about their pavilions.",
+      "finnish_biblia": "Ja salli langeta keskelle heidän leiriänsä, joka paikassa kuin he asuivat. ",
       "king_james": "And he let it fall in the midst of their camp, round about their habitations.",
       "refs": {
         "latin_vulgate": {
+          "src": "77:28"
+        },
+        "douay_rheims": {
           "src": "77:28"
         }
       }
@@ -317,9 +459,14 @@
       "verse": 29,
       "latin_vulgate": " Et manducaverunt, et saturati sunt nimis,  et desiderium eorum attulit eis : ",
       "hebrew_masoretic": "וַיֹּאכְל֣וּ וַיִּשְׂבְּע֣וּ מְאֹ֑ד וְ֝תַאֲוָתָ֗ם יָבִ֥א לָהֶֽם׃",
+      "douay_rheims": "So they did eat, and were filled exceedingly, and he gave them their desire:",
+      "finnish_biblia": "Niin he söivät ja yltäkyllä ravittiin: ja hän antoi heille heidän himonsa, ",
       "king_james": "So they did eat, and were well filled: for he gave them their own desire;",
       "refs": {
         "latin_vulgate": {
+          "src": "77:29"
+        },
+        "douay_rheims": {
           "src": "77:29"
         }
       }
@@ -328,9 +475,14 @@
       "verse": 30,
       "latin_vulgate": " non sunt fraudati a desiderio suo.  Adhuc escæ eorum erant in ore ipsorum, ",
       "hebrew_masoretic": "לֹא־זָ֥רוּ מִתַּאֲוָתָ֑ם ע֝֗וֹד אׇכְלָ֥ם בְּפִיהֶֽם׃",
+      "douay_rheims": "they were not defrauded of that which they craved. As yet their meat was in their mouth:",
+      "finnish_biblia": "Kuin ei he vielä lakanneet himoitsemasta, ja ruoka oli vielä heidän suussansa, ",
       "king_james": "They were not estranged from their lust. But while their meat was yet in their mouths,",
       "refs": {
         "latin_vulgate": {
+          "src": "77:30"
+        },
+        "douay_rheims": {
           "src": "77:30"
         }
       }
@@ -339,9 +491,14 @@
       "verse": 31,
       "latin_vulgate": " et ira Dei ascendit super eos :  et occidit pingues eorum,  et electos Israël impedivit. ",
       "hebrew_masoretic": "וְאַ֤ף אֱלֹהִ֨ים ׀ עָ֘לָ֤ה בָהֶ֗ם וַֽ֭יַּהֲרֹג בְּמִשְׁמַנֵּיהֶ֑ם וּבַחוּרֵ֖י יִשְׂרָאֵ֣ל הִכְרִֽיעַ׃",
+      "douay_rheims": "And the wrath of God came upon them. And he slew the fat ones amongst them, and brought down the chosen men of Israel.",
+      "finnish_biblia": "Tuli Jumalan viha heidän päällensä, ja tappoi jaloimmat heidän seastansa, ja parahimmat Israelissa hän maahan löi. ",
       "king_james": "The wrath of God came upon them, and slew the fattest of them, and smote down the chosen men of Israel.",
       "refs": {
         "latin_vulgate": {
+          "src": "77:31"
+        },
+        "douay_rheims": {
           "src": "77:31"
         }
       }
@@ -350,9 +507,14 @@
       "verse": 32,
       "latin_vulgate": " In omnibus his peccaverunt adhuc,  et non crediderunt in mirabilibus ejus. ",
       "hebrew_masoretic": "בְּכׇל־זֹ֥את חָֽטְאוּ־ע֑וֹד וְלֹֽא־הֶ֝אֱמִ֗ינוּ בְּנִפְלְאוֹתָֽיו׃",
+      "douay_rheims": "In all these things they sinned still: and they behaved not for his wondrous works.",
+      "finnish_biblia": "Mutta vielä sittenkin kaikissa näissä he syntiä tekivät ja ei uskoneet hänen ihmeitänsä. ",
       "king_james": "For all this they sinned still, and believed not for his wondrous works.",
       "refs": {
         "latin_vulgate": {
+          "src": "77:32"
+        },
+        "douay_rheims": {
           "src": "77:32"
         }
       }
@@ -361,9 +523,14 @@
       "verse": 33,
       "latin_vulgate": " Et defecerunt in vanitate dies eorum,  et anni eorum cum festinatione. ",
       "hebrew_masoretic": "וַיְכַל־בַּהֶ֥בֶל יְמֵיהֶ֑ם וּ֝שְׁנוֹתָ֗ם בַּבֶּהָלָֽה׃",
+      "douay_rheims": "And their days were consumed in vanity, and their years in haste.",
+      "finnish_biblia": "Sentähden lopetti hän heidän päivänsä turhuudessa, ja heidän vuotensa kiiruhtain. ",
       "king_james": "Therefore their days did he consume in vanity, and their years in trouble.",
       "refs": {
         "latin_vulgate": {
+          "src": "77:33"
+        },
+        "douay_rheims": {
           "src": "77:33"
         }
       }
@@ -372,9 +539,14 @@
       "verse": 34,
       "latin_vulgate": " Cum occideret eos, quærebant eum et revertebantur,  et diluculo veniebant ad eum. ",
       "hebrew_masoretic": "אִם־הֲרָגָ֥ם וּדְרָשׁ֑וּהוּ וְ֝שָׁ֗בוּ וְשִֽׁחֲרוּ־אֵֽל׃",
+      "douay_rheims": "When he slew them, then they sought him: and they returned, and came to him early in the morning.",
+      "finnish_biblia": "Kuin hän heitä tappoi, etsivät he häntä: ja he palasivat ja tulivat varhain Jumalan tykö, ",
       "king_james": "When he slew them, then they sought him: and they returned and enquired early after God.",
       "refs": {
         "latin_vulgate": {
+          "src": "77:34"
+        },
+        "douay_rheims": {
           "src": "77:34"
         }
       }
@@ -383,9 +555,14 @@
       "verse": 35,
       "latin_vulgate": " Et rememorati sunt quia Deus adjutor est eorum,  et Deus excelsus redemptor eorum est. ",
       "hebrew_masoretic": "וַֽ֭יִּזְכְּרוּ כִּֽי־אֱלֹהִ֣ים צוּרָ֑ם וְאֵ֥ל עֶ֝לְי֗וֹן גֹּאֲלָֽם׃",
+      "douay_rheims": "And they remembered that God was their helper: and the most high God their redeemer.",
+      "finnish_biblia": "Ja muistelivat, että Jumala on heidän turvansa, ja Jumala korkein heidän lunastajansa. ",
       "king_james": "And they remembered that God was their rock, and the high God their redeemer.",
       "refs": {
         "latin_vulgate": {
+          "src": "77:35"
+        },
+        "douay_rheims": {
           "src": "77:35"
         }
       }
@@ -394,9 +571,14 @@
       "verse": 36,
       "latin_vulgate": " Et dilexerunt eum in ore suo,  et lingua sua mentiti sunt ei ; ",
       "hebrew_masoretic": "וַיְפַתּ֥וּהוּ בְּפִיהֶ֑ם וּ֝בִלְשׁוֹנָ֗ם יְכַזְּבוּ־לֽוֹ׃",
+      "douay_rheims": "And they loved him with their mouth: and with their tongue they lied unto him:",
+      "finnish_biblia": "Ja he puhuivat hänelle ulkokullaisesti suullansa, ja valehtelivat hänelle kielellänsä. ",
       "king_james": "Nevertheless they did flatter him with their mouth, and they lied unto him with their tongues.",
       "refs": {
         "latin_vulgate": {
+          "src": "77:36"
+        },
+        "douay_rheims": {
           "src": "77:36"
         }
       }
@@ -405,9 +587,14 @@
       "verse": 37,
       "latin_vulgate": " cor autem eorum non erat rectum cum eo,  nec fideles habiti sunt in testamento ejus. ",
       "hebrew_masoretic": "וְ֭לִבָּם לֹא־נָכ֣וֹן עִמּ֑וֹ וְלֹ֥א נֶ֝אֶמְנ֗וּ בִּבְרִיתֽוֹ׃",
+      "douay_rheims": "But their heart was not right with him: nor were they counted faithful in his covenant.",
+      "finnish_biblia": "Mutta heidän sydämensä ei ollut oikia hänen puoleensa, ja ei he pitäneet uskollisesti hänen liittoansa. ",
       "king_james": "For their heart was not right with him, neither were they stedfast in his covenant.",
       "refs": {
         "latin_vulgate": {
+          "src": "77:37"
+        },
+        "douay_rheims": {
           "src": "77:37"
         }
       }
@@ -416,9 +603,14 @@
       "verse": 38,
       "latin_vulgate": " Ipse autem est misericors,  et propitius fiet peccatis eorum,  et non disperdet eos.  Et abundavit ut averteret iram suam,  et non accendit omnem iram suam. ",
       "hebrew_masoretic": "וְה֤וּא רַח֨וּם ׀ יְכַפֵּ֥ר עָוֺן֮ וְֽלֹא־יַֽ֫שְׁחִ֥ית וְ֭הִרְבָּה לְהָשִׁ֣יב אַפּ֑וֹ וְלֹא־יָ֝עִ֗יר כׇּל־חֲמָתֽוֹ׃",
+      "douay_rheims": "But he is merciful, and will forgive their sins: and will not destroy them. And many a time did he turn away his anger: and did not kindle all his wrath.",
+      "finnish_biblia": "Mutta hän oli armollinen, ja antoi pahat teot anteeksi, ja ei hukuttanut heitä; ja hän käänsi pois usein vihansa, ettei hän laskenut kaikkea vihaansa menemään. ",
       "king_james": "But he, being full of compassion, forgave their iniquity, and destroyed them not: yea, many a time turned he his anger away, and did not stir up all his wrath.",
       "refs": {
         "latin_vulgate": {
+          "src": "77:38"
+        },
+        "douay_rheims": {
           "src": "77:38"
         }
       }
@@ -427,9 +619,14 @@
       "verse": 39,
       "latin_vulgate": " Et recordatus est quia caro sunt,  spiritus vadens et non rediens. ",
       "hebrew_masoretic": "וַ֭יִּזְכֹּר כִּֽי־בָשָׂ֣ר הֵ֑מָּה ר֥וּחַ ה֝וֹלֵ֗ךְ וְלֹ֣א יָשֽׁוּב׃",
+      "douay_rheims": "And he remembered that they are flesh: a wind that goeth and returneth not.",
+      "finnish_biblia": "Sillä hän muisti heidän lihaksi, tuuleksi, joka menee pois ja ei palaja. ",
       "king_james": "For he remembered that they were but flesh; a wind that passeth away, and cometh not again.",
       "refs": {
         "latin_vulgate": {
+          "src": "77:39"
+        },
+        "douay_rheims": {
           "src": "77:39"
         }
       }
@@ -438,9 +635,14 @@
       "verse": 40,
       "latin_vulgate": " Quoties exacerbaverunt eum in deserto ;  in iram concitaverunt eum in inaquoso ? ",
       "hebrew_masoretic": "כַּ֭מָּה יַמְר֣וּהוּ בַמִּדְבָּ֑ר יַ֝עֲצִיב֗וּהוּ בִּישִׁימֽוֹן׃",
+      "douay_rheims": "How often did they provoke him in the desert: and move him to wrath in the place without water?",
+      "finnish_biblia": "Kuinka usein he vihoittivat hänen korvessa ja kehoittivat hänen erämaassa? ",
       "king_james": "How oft did they provoke him in the wilderness, and grieve him in the desert!",
       "refs": {
         "latin_vulgate": {
+          "src": "77:40"
+        },
+        "douay_rheims": {
           "src": "77:40"
         }
       }
@@ -449,9 +651,14 @@
       "verse": 41,
       "latin_vulgate": " Et conversi sunt, et tentaverunt Deum,  et sanctum Israël exacerbaverunt. ",
       "hebrew_masoretic": "וַיָּשׁ֣וּבוּ וַיְנַסּ֣וּ אֵ֑ל וּקְד֖וֹשׁ יִשְׂרָאֵ֣ל הִתְוֽוּ׃",
+      "douay_rheims": "And they turned back and tempted God: and grieved the holy one of Israel.",
+      "finnish_biblia": "Ja he kiusasivat taas Jumalaa joka aika, ja laittivat pyhää Israelissa. ",
       "king_james": "Yea, they turned back and tempted God, and limited the Holy One of Israel.",
       "refs": {
         "latin_vulgate": {
+          "src": "77:41"
+        },
+        "douay_rheims": {
           "src": "77:41"
         }
       }
@@ -460,9 +667,14 @@
       "verse": 42,
       "latin_vulgate": " Non sunt recordati manus ejus,  die qua redemit eos de manu tribulantis : ",
       "hebrew_masoretic": "לֹא־זָכְר֥וּ אֶת־יָד֑וֹ י֝֗וֹם אֲֽשֶׁר־פָּדָ֥ם מִנִּי־צָֽר׃",
+      "douay_rheims": "They remembered not his hand, in the day that he redeemed them from the hand of him that afflicted them:",
+      "finnish_biblia": "Ei he muistaneet hänen kättänsä sinä päivänä, jona hän lunasti heitä vihollisista: ",
       "king_james": "They remembered not his hand, nor the day when he delivered them from the enemy.",
       "refs": {
         "latin_vulgate": {
+          "src": "77:42"
+        },
+        "douay_rheims": {
           "src": "77:42"
         }
       }
@@ -471,9 +683,14 @@
       "verse": 43,
       "latin_vulgate": " sicut posuit in Ægypto signa sua,  et prodigia sua in campo Taneos ; ",
       "hebrew_masoretic": "אֲשֶׁר־שָׂ֣ם בְּ֭מִצְרַיִם אֹתוֹתָ֑יו וּ֝מוֹפְתָ֗יו בִּשְׂדֵה־צֹֽעַן׃",
+      "douay_rheims": "How he wrought his signs in Egypt, and his wonders in the field of Tanis.",
+      "finnish_biblia": "Niinkuin hän oli merkkinsä Egyptissä tehnyt, ja ihmeensä Zoanin kedolla, ",
       "king_james": "How he had wrought his signs in Egypt, and his wonders in the field of Zoan:",
       "refs": {
         "latin_vulgate": {
+          "src": "77:43"
+        },
+        "douay_rheims": {
           "src": "77:43"
         }
       }
@@ -482,9 +699,14 @@
       "verse": 44,
       "latin_vulgate": " et convertit in sanguinem flumina eorum,  et imbres eorum, ne biberent. ",
       "hebrew_masoretic": "וַיַּהֲפֹ֣ךְ לְ֭דָם יְאֹרֵיהֶ֑ם וְ֝נֹזְלֵיהֶ֗ם בַּל־יִשְׁתָּיֽוּן׃",
+      "douay_rheims": "And he turned their rivers into blood, and their showers that they might not drink.",
+      "finnish_biblia": "Koska hän heidän virtansa vereksi muutti, ettei he ojistansa taitaneet juoda: ",
       "king_james": "And had turned their rivers into blood; and their floods, that they could not drink.",
       "refs": {
         "latin_vulgate": {
+          "src": "77:44"
+        },
+        "douay_rheims": {
           "src": "77:44"
         }
       }
@@ -493,9 +715,14 @@
       "verse": 45,
       "latin_vulgate": " Misit in eos cœnomyiam, et comedit eos,  et ranam, et disperdidit eos ; ",
       "hebrew_masoretic": "יְשַׁלַּ֬ח בָּהֶ֣ם עָ֭רֹב וַיֹּאכְלֵ֑ם וּ֝צְפַרְדֵּ֗עַ וַתַּשְׁחִיתֵֽם׃",
+      "douay_rheims": "He sent amongst them divers sorts of flies, which devoured them: and frogs which destroyed them.",
+      "finnish_biblia": "Koska hän turilaat heidän sekaansa lähetti, jotka heitä söivät, ja sammakot, jotka heitä hukuttivat; ",
       "king_james": "He sent divers sorts of flies among them, which devoured them; and frogs, which destroyed them.",
       "refs": {
         "latin_vulgate": {
+          "src": "77:45"
+        },
+        "douay_rheims": {
           "src": "77:45"
         }
       }
@@ -504,9 +731,14 @@
       "verse": 46,
       "latin_vulgate": " et dedit ærugini fructus eorum,  et labores eorum locustæ ; ",
       "hebrew_masoretic": "וַיִּתֵּ֣ן לֶחָסִ֣יל יְבוּלָ֑ם וִ֝יגִיעָ֗ם לָאַרְבֶּֽה׃",
+      "douay_rheims": "And he gave up their fruits to the blast, and their labours to the locust.",
+      "finnish_biblia": "Ja antoi heidän tulonsa ruohomadoille, ja heidän työnsä heinäsirkoille; ",
       "king_james": "He gave also their increase unto the caterpiller, and their labour unto the locust.",
       "refs": {
         "latin_vulgate": {
+          "src": "77:46"
+        },
+        "douay_rheims": {
           "src": "77:46"
         }
       }
@@ -515,9 +747,14 @@
       "verse": 47,
       "latin_vulgate": " et occidit in grandine vineas eorum,  et moros eorum in pruina ; ",
       "hebrew_masoretic": "יַהֲרֹ֣ג בַּבָּרָ֣ד גַּפְנָ֑ם וְ֝שִׁקְמוֹתָ֗ם בַּחֲנָמַֽל׃",
+      "douay_rheims": "And he destroyed their vineyards with hail, and their mulberry trees with hoarfrost.",
+      "finnish_biblia": "Koska hän rakeilla heidän viinapuunsa löi, ja heidän metsäfikunansa jääkivillä; ",
       "king_james": "He destroyed their vines with hail, and their sycomore trees with frost.",
       "refs": {
         "latin_vulgate": {
+          "src": "77:47"
+        },
+        "douay_rheims": {
           "src": "77:47"
         }
       }
@@ -526,9 +763,14 @@
       "verse": 48,
       "latin_vulgate": " et tradidit grandini jumenta eorum,  et possessionem eorum igni ; ",
       "hebrew_masoretic": "וַיַּסְגֵּ֣ר לַבָּרָ֣ד בְּעִירָ֑ם וּ֝מִקְנֵיהֶ֗ם לָרְשָׁפִֽים׃",
+      "douay_rheims": "And he gave up their cattle to the hail, and their stock to the fire.",
+      "finnish_biblia": "Koska hän löi heidän karjansa rakeilla, ja heidän laumansa pitkäisen tulella; ",
       "king_james": "He gave up their cattle also to the hail, and their flocks to hot thunderbolts.",
       "refs": {
         "latin_vulgate": {
+          "src": "77:48"
+        },
+        "douay_rheims": {
           "src": "77:48"
         }
       }
@@ -537,9 +779,14 @@
       "verse": 49,
       "latin_vulgate": " misit in eos iram indignationis suæ,  indignationem, et iram, et tribulationem,  immissiones per angelos malos. ",
       "hebrew_masoretic": "יְשַׁלַּח־בָּ֨ם ׀ חֲר֬וֹן אַפּ֗וֹ עֶבְרָ֣ה וָזַ֣עַם וְצָרָ֑ה מִ֝שְׁלַ֗חַת מַלְאֲכֵ֥י רָעִֽים׃",
+      "douay_rheims": "And he sent upon them the wrath of his indignation: indignation and wrath and trouble, which he sent by evil angels.",
+      "finnish_biblia": "Hän lähetti heidän päällensä vihansa, närkästyksen, julmuuden ja ahdistuksen, pahain enkelien lähettämisellä; ",
       "king_james": "He cast upon them the fierceness of his anger, wrath, and indignation, and trouble, by sending evil angels among them.",
       "refs": {
         "latin_vulgate": {
+          "src": "77:49"
+        },
+        "douay_rheims": {
           "src": "77:49"
         }
       }
@@ -548,9 +795,14 @@
       "verse": 50,
       "latin_vulgate": " Viam fecit semitæ iræ suæ :  non pepercit a morte animabus eorum,  et jumenta eorum in morte conclusit : ",
       "hebrew_masoretic": "יְפַלֵּ֥ס נָתִ֗יב לְאַ֫פּ֥וֹ לֹא־חָשַׂ֣ךְ מִמָּ֣וֶת נַפְשָׁ֑ם וְ֝חַיָּתָ֗ם לַדֶּ֥בֶר הִסְגִּֽיר׃",
+      "douay_rheims": "He made a way for a path to his anger: he spared not their souls from death, and their cattle he shut up in death.",
+      "finnish_biblia": "Hän päästi vihansa heidän sekaansa, ja ei päästänyt heidän sielujansa kuolemasta, ja heidän eläimensä rutolla kuoletti; ",
       "king_james": "He made a way to his anger; he spared not their soul from death, but gave their life over to the pestilence;",
       "refs": {
         "latin_vulgate": {
+          "src": "77:50"
+        },
+        "douay_rheims": {
           "src": "77:50"
         }
       }
@@ -559,9 +811,14 @@
       "verse": 51,
       "latin_vulgate": " et percussit omne primogenitum in terra Ægypti ;  primitias omnis laboris eorum in tabernaculis Cham : ",
       "hebrew_masoretic": "וַיַּ֣ךְ כׇּל־בְּכ֣וֹר בְּמִצְרָ֑יִם רֵאשִׁ֥ית א֝וֹנִ֗ים בְּאׇהֳלֵי־חָֽם׃",
+      "douay_rheims": "And he killed all the firstborn in the land of Egypt: the firstfruits of all their labour in the tabernacles of Cham.",
+      "finnish_biblia": "Koska hän kaikki esikoiset löi Egyptissä, ensimäiset perilliset Hamin majoissa, ",
       "king_james": "And smote all the firstborn in Egypt; the chief of their strength in the tabernacles of Ham:",
       "refs": {
         "latin_vulgate": {
+          "src": "77:51"
+        },
+        "douay_rheims": {
           "src": "77:51"
         }
       }
@@ -570,9 +827,14 @@
       "verse": 52,
       "latin_vulgate": " et abstulit sicut oves populum suum,  et perduxit eos tamquam gregem in deserto : ",
       "hebrew_masoretic": "וַיַּסַּ֣ע כַּצֹּ֣אן עַמּ֑וֹ וַֽיְנַהֲגֵ֥ם כַּ֝עֵ֗דֶר בַּמִּדְבָּֽר׃",
+      "douay_rheims": "And he took away his own people as sheep: and guided them in the wilderness like a flock.",
+      "finnish_biblia": "Ja antoi kansansa vaeltaa niinkuin lampaat, ja vei heidät niinkuin lauman korvessa, ",
       "king_james": "But made his own people to go forth like sheep, and guided them in the wilderness like a flock.",
       "refs": {
         "latin_vulgate": {
+          "src": "77:52"
+        },
+        "douay_rheims": {
           "src": "77:52"
         }
       }
@@ -581,9 +843,14 @@
       "verse": 53,
       "latin_vulgate": " et deduxit eos in spe, et non timuerunt,  et inimicos eorum operuit mare. ",
       "hebrew_masoretic": "וַיַּנְחֵ֣ם לָ֭בֶטַח וְלֹ֣א פָחָ֑דוּ וְאֶת־א֝וֹיְבֵיהֶ֗ם כִּסָּ֥ה הַיָּֽם׃",
+      "douay_rheims": "And he brought them out in hope and they feared not: and the sea overwhelmed their enemies.",
+      "finnish_biblia": "Ja saatti heitä turvallisesti, ettei he peljänneet; vaan heidän vihollisensa peitti meri. ",
       "king_james": "And he led them on safely, so that they feared not: but the sea overwhelmed their enemies.",
       "refs": {
         "latin_vulgate": {
+          "src": "77:53"
+        },
+        "douay_rheims": {
           "src": "77:53"
         }
       }
@@ -592,9 +859,14 @@
       "verse": 54,
       "latin_vulgate": " Et induxit eos in montem sanctificationis suæ,  montem quem acquisivit dextera ejus ;  et ejecit a facie eorum gentes,  et sorte divisit eis terram in funiculo distributionis ; ",
       "hebrew_masoretic": "וַ֭יְבִיאֵם אֶל־גְּב֣וּל קׇדְשׁ֑וֹ הַר־זֶ֝֗ה קָנְתָ֥ה יְמִינֽוֹ׃",
+      "douay_rheims": "And he brought them into the mountain of his sanctuary: the mountain which his right hand had purchased. And he cast out the Gentiles before them: and by lot divided to them their land by a line of distribution.",
+      "finnish_biblia": "Ja hän vei heitä pyhänsä rajoihin, tämän vuoren tykö, jonka hänen oikia kätensä saanut oli. ",
       "king_james": "And he brought them to the border of his sanctuary, even to this mountain, which his right hand had purchased.",
       "refs": {
         "latin_vulgate": {
+          "src": "77:54"
+        },
+        "douay_rheims": {
           "src": "77:54"
         }
       }
@@ -603,9 +875,14 @@
       "verse": 55,
       "latin_vulgate": " et habitare fecit in tabernaculis eorum tribus Israël. ",
       "hebrew_masoretic": "וַיְגָ֤רֶשׁ מִפְּנֵיהֶ֨ם ׀ גּוֹיִ֗ם וַֽ֭יַּפִּילֵם בְּחֶ֣בֶל נַחֲלָ֑ה וַיַּשְׁכֵּ֥ן בְּ֝אׇהֳלֵיהֶ֗ם שִׁבְטֵ֥י יִשְׂרָאֵֽל׃",
+      "douay_rheims": "And he made the tribes of Israel to dwell in their tabernacles.",
+      "finnish_biblia": "Ja hän ajoi pois heidän edestänsä pakanat, ja jakoi heille perimisen arvalla: ja niiden majoissa antoi hän Israelin sukukunnat asua. ",
       "king_james": "He cast out the heathen also before them, and divided them an inheritance by line, and made the tribes of Israel to dwell in their tents.",
       "refs": {
         "latin_vulgate": {
+          "src": "77:55"
+        },
+        "douay_rheims": {
           "src": "77:55"
         }
       }
@@ -614,9 +891,14 @@
       "verse": 56,
       "latin_vulgate": " Et tentaverunt, et exacerbaverunt Deum excelsum,  et testimonia ejus non custodierunt. ",
       "hebrew_masoretic": "וַיְנַסּ֣וּ וַ֭יַּמְרוּ אֶת־אֱלֹהִ֣ים עֶלְי֑וֹן וְ֝עֵדוֹתָ֗יו לֹ֣א שָׁמָֽרוּ׃",
+      "douay_rheims": "Yet they tempted, and provoked the most high God: and they kept not his testimonies.",
+      "finnish_biblia": "Mutta he kiusasivat ja vihoittivat korkian Jumalan, ja ei pitäneet hänen todistuksiansa. ",
       "king_james": "Yet they tempted and provoked the most high God, and kept not his testimonies:",
       "refs": {
         "latin_vulgate": {
+          "src": "77:56"
+        },
+        "douay_rheims": {
           "src": "77:56"
         }
       }
@@ -625,9 +907,14 @@
       "verse": 57,
       "latin_vulgate": " Et averterunt se, et non servaverunt pactum :  quemadmodum patres eorum, conversi sunt in arcum pravum. ",
       "hebrew_masoretic": "וַיִּסֹּ֣גוּ וַֽ֭יִּבְגְּדוּ כַּאֲבוֹתָ֑ם נֶ֝הְפְּכ֗וּ כְּקֶ֣שֶׁת רְמִיָּֽה׃",
+      "douay_rheims": "And they turned away, and kept not the covenant: even like their fathers they were turned aside as a crooked bow.",
+      "finnish_biblia": "Vaan he palasivat takaperin ja petollisesti luopuivat pois niinkuin heidän isänsäkin: poikkesivat pois niinkuin hellinnyt joutsi. ",
       "king_james": "But turned back, and dealt unfaithfully like their fathers: they were turned aside like a deceitful bow.",
       "refs": {
         "latin_vulgate": {
+          "src": "77:57"
+        },
+        "douay_rheims": {
           "src": "77:57"
         }
       }
@@ -636,9 +923,14 @@
       "verse": 58,
       "latin_vulgate": " In iram concitaverunt eum in collibus suis,  et in sculptilibus suis ad æmulationem eum provocaverunt. ",
       "hebrew_masoretic": "וַיַּכְעִיס֥וּהוּ בְּבָמוֹתָ֑ם וּ֝בִפְסִילֵיהֶ֗ם יַקְנִיאֽוּהוּ׃",
+      "douay_rheims": "They provoked him to anger on their hills: and moved him to jealousy with their graven things.",
+      "finnish_biblia": "Ja he vihoittivat hänen korkeuksillansa ja kehoittivat häntä epäjumalainsa kuvilla. ",
       "king_james": "For they provoked him to anger with their high places, and moved him to jealousy with their graven images.",
       "refs": {
         "latin_vulgate": {
+          "src": "77:58"
+        },
+        "douay_rheims": {
           "src": "77:58"
         }
       }
@@ -647,9 +939,14 @@
       "verse": 59,
       "latin_vulgate": " Audivit Deus, et sprevit,  et ad nihilum redegit valde Israël. ",
       "hebrew_masoretic": "שָׁמַ֣ע אֱ֭לֹהִים וַֽיִּתְעַבָּ֑ר וַיִּמְאַ֥ס מְ֝אֹ֗ד בְּיִשְׂרָאֵֽל׃",
+      "douay_rheims": "God heard, and despised them, and he reduced Israel exceedingly as it were to nothing.",
+      "finnish_biblia": "Ja kuin Jumala sen kuuli, niin hän närkästyi, ja hylkäsi kovin Israelin, ",
       "king_james": "When God heard this, he was wroth, and greatly abhorred Israel:",
       "refs": {
         "latin_vulgate": {
+          "src": "77:59"
+        },
+        "douay_rheims": {
           "src": "77:59"
         }
       }
@@ -658,9 +955,14 @@
       "verse": 60,
       "latin_vulgate": " Et repulit tabernaculum Silo,  tabernaculum suum, ubi habitavit in hominibus. ",
       "hebrew_masoretic": "וַ֭יִּטֹּשׁ מִשְׁכַּ֣ן שִׁל֑וֹ אֹ֝֗הֶל שִׁכֵּ֥ן בָּאָדָֽם׃",
+      "douay_rheims": "And he put away the tabernacle of Silo, his tabernacle where he dwelt among men.",
+      "finnish_biblia": "Niin että hän luopui asuinsiastansa Silossa, siitä majasta, jonka hän ihmisten sekaan asetti, ",
       "king_james": "So that he forsook the tabernacle of Shiloh, the tent which he placed among men;",
       "refs": {
         "latin_vulgate": {
+          "src": "77:60"
+        },
+        "douay_rheims": {
           "src": "77:60"
         }
       }
@@ -669,9 +971,14 @@
       "verse": 61,
       "latin_vulgate": " Et tradidit in captivitatem virtutem eorum,  et pulchritudinem eorum in manus inimici. ",
       "hebrew_masoretic": "וַיִּתֵּ֣ן לַשְּׁבִ֣י עֻזּ֑וֹ וְֽתִפְאַרְתּ֥וֹ בְיַד־צָֽר׃",
+      "douay_rheims": "And he delivered their strength into captivity: and their beauty into the hands of the enemy.",
+      "finnish_biblia": "Ja antoi heidän voimansa vankeuteen, ja heidän kauneutensa vihollisten käsiin. ",
       "king_james": "And delivered his strength into captivity, and his glory into the enemy’s hand.",
       "refs": {
         "latin_vulgate": {
+          "src": "77:61"
+        },
+        "douay_rheims": {
           "src": "77:61"
         }
       }
@@ -680,9 +987,14 @@
       "verse": 62,
       "latin_vulgate": " Et conclusit in gladio populum suum,  et hæreditatem suam sprevit. ",
       "hebrew_masoretic": "וַיַּסְגֵּ֣ר לַחֶ֣רֶב עַמּ֑וֹ וּ֝בְנַחֲלָת֗וֹ הִתְעַבָּֽר׃",
+      "douay_rheims": "And he shut up his people under the sword: and he despised his inheritance.",
+      "finnish_biblia": "Ja hän hylkäsi kansansa miekan alle, ja närkästyi perimistänsä vastaan. ",
       "king_james": "He gave his people over also unto the sword; and was wroth with his inheritance.",
       "refs": {
         "latin_vulgate": {
+          "src": "77:62"
+        },
+        "douay_rheims": {
           "src": "77:62"
         }
       }
@@ -691,9 +1003,14 @@
       "verse": 63,
       "latin_vulgate": " Juvenes eorum comedit ignis,  et virgines eorum non sunt lamentatæ. ",
       "hebrew_masoretic": "בַּחוּרָ֥יו אָכְלָה־אֵ֑שׁ וּ֝בְתוּלֹתָ֗יו לֹ֣א הוּלָּֽלוּ׃",
+      "douay_rheims": "Fire consumed their young men: and their maidens were not lamented.",
+      "finnish_biblia": "Heidän parhaat nuorukaisensa kulutti tuli, ja heidän neitseensä ei tulleet häävirsillä kunnioitetuksi. ",
       "king_james": "The fire consumed their young men; and their maidens were not given to marriage.",
       "refs": {
         "latin_vulgate": {
+          "src": "77:63"
+        },
+        "douay_rheims": {
           "src": "77:63"
         }
       }
@@ -702,9 +1019,14 @@
       "verse": 64,
       "latin_vulgate": " Sacerdotes eorum in gladio ceciderunt,  et viduæ eorum non plorabantur. ",
       "hebrew_masoretic": "כֹּ֭הֲנָיו בַּחֶ֣רֶב נָפָ֑לוּ וְ֝אַלְמְנֹתָ֗יו לֹ֣א תִבְכֶּֽינָה׃",
+      "douay_rheims": "Their priests fell by the sword: and their widows did not mourn.",
+      "finnish_biblia": "Heidän pappinsa kaatuivat miekalla; ja heidän leskensä ei itkeneet, ",
       "king_james": "Their priests fell by the sword; and their widows made no lamentation.",
       "refs": {
         "latin_vulgate": {
+          "src": "77:64"
+        },
+        "douay_rheims": {
           "src": "77:64"
         }
       }
@@ -713,9 +1035,14 @@
       "verse": 65,
       "latin_vulgate": " Et excitatus est tamquam dormiens Dominus,  tamquam potens crapulatus a vino. ",
       "hebrew_masoretic": "וַיִּקַ֖ץ כְּיָשֵׁ֥ן ׀ אֲדֹנָ֑י כְּ֝גִבּ֗וֹר מִתְרוֹנֵ֥ן מִיָּֽיִן׃",
+      "douay_rheims": "And the Lord was awaked as one out of sleep, and like a mighty man that hath been surfeited with wine.",
+      "finnish_biblia": "Ja Herra heräsi niinkuin joku makaavainen, niinkuin joku väkevä luihkaaja viinan juomisesta, ",
       "king_james": "Then the Lord awaked as one out of sleep, and like a mighty man that shouteth by reason of wine.",
       "refs": {
         "latin_vulgate": {
+          "src": "77:65"
+        },
+        "douay_rheims": {
           "src": "77:65"
         }
       }
@@ -724,9 +1051,14 @@
       "verse": 66,
       "latin_vulgate": " Et percussit inimicos suos in posteriora ;  opprobrium sempiternum dedit illis. ",
       "hebrew_masoretic": "וַיַּךְ־צָרָ֥יו אָח֑וֹר חֶרְפַּ֥ת ע֝וֹלָ֗ם נָ֣תַן לָֽמוֹ׃",
+      "douay_rheims": "And he smote his enemies on the hinder parts: he put them to an everlasting reproach.",
+      "finnish_biblia": "Ja löi vihollistansa perävieriin, ja pani ijankaikkisen häpiän heidän päällensä, ",
       "king_james": "And he smote his enemies in the hinder parts: he put them to a perpetual reproach.",
       "refs": {
         "latin_vulgate": {
+          "src": "77:66"
+        },
+        "douay_rheims": {
           "src": "77:66"
         }
       }
@@ -735,9 +1067,14 @@
       "verse": 67,
       "latin_vulgate": " Et repulit tabernaculum Joseph,  et tribum Ephraim non elegit : ",
       "hebrew_masoretic": "וַ֭יִּמְאַס בְּאֹ֣הֶל יוֹסֵ֑ף וּֽבְשֵׁ֥בֶט אֶ֝פְרַ֗יִם לֹ֣א בָחָֽר׃",
+      "douay_rheims": "And he rejected the tabernacle of Joseph: and chose not the tribe of Ephraim:",
+      "finnish_biblia": "Ja heitti Josephin majan pois, ja ei valinnut Ephraimin sukukuntaa. ",
       "king_james": "Moreover he refused the tabernacle of Joseph, and chose not the tribe of Ephraim:",
       "refs": {
         "latin_vulgate": {
+          "src": "77:67"
+        },
+        "douay_rheims": {
           "src": "77:67"
         }
       }
@@ -746,9 +1083,14 @@
       "verse": 68,
       "latin_vulgate": " sed elegit tribum Juda,  montem Sion, quem dilexit. ",
       "hebrew_masoretic": "וַ֭יִּבְחַר אֶת־שֵׁ֣בֶט יְהוּדָ֑ה אֶֽת־הַ֥ר צִ֝יּ֗וֹן אֲשֶׁ֣ר אָהֵֽב׃",
+      "douay_rheims": "But he chose the tribe of Juda, mount Sion which he loved.",
+      "finnish_biblia": "Vaan hän valitsi Juudan sukukunnan, Zionin vuoren, jota hän rakasti, ",
       "king_james": "But chose the tribe of Judah, the mount Zion which he loved.",
       "refs": {
         "latin_vulgate": {
+          "src": "77:68"
+        },
+        "douay_rheims": {
           "src": "77:68"
         }
       }
@@ -757,9 +1099,14 @@
       "verse": 69,
       "latin_vulgate": " Et ædificavit sicut unicornium sanctificium suum,  in terra quam fundavit in sæcula. ",
       "hebrew_masoretic": "וַיִּ֣בֶן כְּמֽוֹ־רָ֭מִים מִקְדָּשׁ֑וֹ כְּ֝אֶ֗רֶץ יְסָדָ֥הּ לְעוֹלָֽם׃",
+      "douay_rheims": "And he built his sanctuary as of unicorns, in the land which he founded for ever.",
+      "finnish_biblia": "Ja rakensi pyhänsä korkialle, niinkuin ijankaikkisesti pysyväisen maan, ",
       "king_james": "And he built his sanctuary like high palaces, like the earth which he hath established for ever.",
       "refs": {
         "latin_vulgate": {
+          "src": "77:69"
+        },
+        "douay_rheims": {
           "src": "77:69"
         }
       }
@@ -768,9 +1115,14 @@
       "verse": 70,
       "latin_vulgate": " Et elegit David, servum suum,  et sustulit eum de gregibus ovium ;  de post fœtantes accepit eum : ",
       "hebrew_masoretic": "וַ֭יִּבְחַר בְּדָוִ֣ד עַבְדּ֑וֹ וַ֝יִּקָּחֵ֗הוּ מִֽמִּכְלְאֹ֥ת צֹֽאן׃",
+      "douay_rheims": "And he chose his servant David, and took him from the flocks of sheep: he brought him from following the ewes great with young,",
+      "finnish_biblia": "Ja valitsi palveliansa Davidin, ja otti hänen lammashuoneesta. ",
       "king_james": "He chose David also his servant, and took him from the sheepfolds:",
       "refs": {
         "latin_vulgate": {
+          "src": "77:70"
+        },
+        "douay_rheims": {
           "src": "77:70"
         }
       }
@@ -779,9 +1131,14 @@
       "verse": 71,
       "latin_vulgate": " pascere Jacob servum suum,  et Israël hæreditatem suam. ",
       "hebrew_masoretic": "מֵאַחַ֥ר עָל֗וֹת הֱבִ֫יא֥וֹ לִ֭רְעוֹת בְּיַעֲקֹ֣ב עַמּ֑וֹ וּ֝בְיִשְׂרָאֵ֗ל נַחֲלָתֽוֹ׃",
+      "douay_rheims": "To feed Jacob his servant and Israel his inheritance.",
+      "finnish_biblia": "Imettävistä lampaista haki hän hänen, että hän hänen kanssansa Jakobin kaitsis, ja Israelin hänen perimisensä. ",
       "king_james": "From following the ewes great with young he brought him to feed Jacob his people, and Israel his inheritance.",
       "refs": {
         "latin_vulgate": {
+          "src": "77:71"
+        },
+        "douay_rheims": {
           "src": "77:71"
         }
       }
@@ -790,9 +1147,14 @@
       "verse": 72,
       "latin_vulgate": " Et pavit eos in innocentia cordis sui,  et in intellectibus manuum suarum deduxit eos.  ",
       "hebrew_masoretic": "וַ֭יִּרְעֵם כְּתֹ֣ם לְבָב֑וֹ וּבִתְבוּנ֖וֹת כַּפָּ֣יו יַנְחֵֽם׃ {פ}",
+      "douay_rheims": "And he fed them in the innocence of his heart: and conducted them by the skilfulness of his hands. ",
+      "finnish_biblia": "Ja hän kaitsi heitä kaikella sydämensä vakuudella, ja hallitsi heitä kaikella ahkeruudella.   ",
       "king_james": "So he fed them according to the integrity of his heart; and guided them by the skilfulness of his hands. ",
       "refs": {
         "latin_vulgate": {
+          "src": "77:72"
+        },
+        "douay_rheims": {
           "src": "77:72"
         }
       }

@@ -2,6 +2,8 @@
   "book_id": "EZE",
   "latin_name": "Ezechiel",
   "hebrew_name": "יְחֶזְקֵאל",
+  "douay_name": "Ezechiel",
+  "finnish_name": "Hesekiel",
   "english_name": "Ezekiel",
   "chapter": 37,
   "verses": [
@@ -9,168 +11,224 @@
       "verse": 1,
       "latin_vulgate": "Facta est super me manus Domini, et eduxit me in spiritu Domini, et dimisit me in medio campi qui erat plenus ossibus. ",
       "hebrew_masoretic": "הָיְתָ֣ה עָלַי֮ יַד־יְהֹוָה֒ וַיּוֹצִאֵ֤נִֽי בְר֙וּחַ֙ יְהֹוָ֔ה וַיְנִיחֵ֖נִי בְּת֣וֹךְ הַבִּקְעָ֑ה וְהִ֖יא מְלֵאָ֥ה עֲצָמֽוֹת׃",
+      "douay_rheims": "The hand of the Lord was upon me, and brought me forth in the spirit of the Lord: and set me down in the midst of a plain that was full of bones.",
+      "finnish_biblia": "Ja Herran käsi rupesi minuun, ja Herra vei minun hengessä ja asetti minun lakialle kedolle, joka oli luita täynnä. ",
       "king_james": "The hand of the Lord was upon me, and carried me out in the spirit of the Lord, and set me down in the midst of the valley which was full of bones,"
     },
     {
       "verse": 2,
       "latin_vulgate": "Et circumduxit me per ea in gyro : erant autem multa valde super faciem campi, siccaque vehementer. ",
       "hebrew_masoretic": "וְהֶעֱבִירַ֥נִי עֲלֵיהֶ֖ם סָבִ֣יב ׀ סָבִ֑יב וְהִנֵּ֨ה רַבּ֤וֹת מְאֹד֙ עַל־פְּנֵ֣י הַבִּקְעָ֔ה וְהִנֵּ֖ה יְבֵשׁ֥וֹת מְאֹֽד׃",
+      "douay_rheims": "And he led me about through them on every side: now they were very many upon the face of the plain, and they were exceeding dry.",
+      "finnish_biblia": "Ja hän johdatti minun niiden kautta aina ympärinsä; ja katso, siinä oli sangen paljo luita kedolla, ja katso, ne olivat peräti kuivettuneet. ",
       "king_james": "And caused me to pass by them round about: and, behold, there were very many in the open valley; and, lo, they were very dry."
     },
     {
       "verse": 3,
       "latin_vulgate": "Et dixit ad me : Fili hominis, putasne vivent ossa ista ? Et dixi : Domine Deus, tu nosti. ",
       "hebrew_masoretic": "וַיֹּ֣אמֶר אֵלַ֔י בֶּן־אָדָ֕ם הֲתִֽחְיֶ֖ינָה הָעֲצָמ֣וֹת הָאֵ֑לֶּה וָאֹמַ֕ר אֲדֹנָ֥י יֱהֹוִ֖ה אַתָּ֥ה יָדָֽעְתָּ׃",
+      "douay_rheims": "And he said to me: Son of man, dost thou think these bones shall live and I answered: O Lord God, thou knowest.",
+      "finnish_biblia": "Ja hän sanoi minulle: sinä ihmisen poika, luuletkos nämät luut jälleen eläväksi tulevan? Ja minä sanoin: sinä Herra, Herra sen tiedät. ",
       "king_james": "And he said unto me, Son of man, can these bones live? And I answered, O Lord God, thou knowest."
     },
     {
       "verse": 4,
       "latin_vulgate": "Et dixit ad me : Vaticinare de ossibus istis, et dices eis : Ossa arida, audite verbum Domini. ",
       "hebrew_masoretic": "וַיֹּ֣אמֶר אֵלַ֔י הִנָּבֵ֖א עַל־הָעֲצָמ֣וֹת הָאֵ֑לֶּה וְאָמַרְתָּ֣ אֲלֵיהֶ֔ם הָֽעֲצָמוֹת֙ הַיְבֵשׁ֔וֹת שִׁמְע֖וּ דְּבַר־יְהֹוָֽה׃",
+      "douay_rheims": "And he said to me: Prophesy concerning these bones; and say to them: Ye dry bones, hear the word of the Lord.",
+      "finnish_biblia": "Ja hän sanoi minulle: ennusta näistä luista, ja sano heille: te kuivettuneet luut, kuulkaat Herran sanaa. ",
       "king_james": "Again he said unto me, Prophesy upon these bones, and say unto them, O ye dry bones, hear the word of the Lord."
     },
     {
       "verse": 5,
       "latin_vulgate": "Hæc dicit Dominus Deus ossibus his : Ecce ego intromittam in vos spiritum, et vivetis. ",
       "hebrew_masoretic": "כֹּ֤ה אָמַר֙ אֲדֹנָ֣י יֱהֹוִ֔ה לָעֲצָמ֖וֹת הָאֵ֑לֶּה הִנֵּ֨ה אֲנִ֜י מֵבִ֥יא בָכֶ֛ם ר֖וּחַ וִחְיִיתֶֽם׃",
+      "douay_rheims": "Thus saith the Lord God to these bones: Behold, I will send spirit into you, and you shall live.",
+      "finnish_biblia": "Näin sanoo Herra, Herra näistä luista: katso, minä annan tulla teihin hengen, ja teidän pitää eläväksi tuleman. ",
       "king_james": "Thus saith the Lord God unto these bones; Behold, I will cause breath to enter into you, and ye shall live:"
     },
     {
       "verse": 6,
       "latin_vulgate": "Et dabo super vos nervos, et succrescere faciam super vos carnes, et superextendam in vobis cutem, et dabo vobis spiritum, et vivetis : et scietis quia ego Dominus. ",
       "hebrew_masoretic": "וְנָתַתִּי֩ עֲלֵיכֶ֨ם גִּידִ֜ים וְֽהַעֲלֵתִ֧י עֲלֵיכֶ֣ם בָּשָׂ֗ר וְקָרַמְתִּ֤י עֲלֵיכֶם֙ ע֔וֹר וְנָתַתִּ֥י בָכֶ֛ם ר֖וּחַ וִחְיִיתֶ֑ם וִידַעְתֶּ֖ם כִּֽי־אֲנִ֥י יְהֹוָֽה׃",
+      "douay_rheims": "And I will lay sinews upon you, and will cause flesh to grow over you, and will cover you with skin: and I will give you spirit and you shall live, and you shall know that I am the Lord.",
+      "finnish_biblia": "Ja annan teille suonet, ja kasvatan lihan teidän päällenne, ja vedän nahan teidän päällenne, ja annan teille hengen, että te jälleen eläväksi tulette; ja teidän pitää tietämän, että minä olen Herra. ",
       "king_james": "And I will lay sinews upon you, and will bring up flesh upon you, and cover you with skin, and put breath in you, and ye shall live; and ye shall know that I am the Lord."
     },
     {
       "verse": 7,
       "latin_vulgate": "Et prophetavi sicut præceperat mihi : factus est autem sonitus, prophetante me, et ecce commotio : et accesserunt ossa ad ossa, unumquodque ad juncturam suam. ",
       "hebrew_masoretic": "וְנִבֵּ֖אתִי כַּאֲשֶׁ֣ר צֻוֵּ֑יתִי וַֽיְהִי־ק֤וֹל כְּהִנָּֽבְאִי֙ וְהִנֵּה־רַ֔עַשׁ וַתִּקְרְב֣וּ עֲצָמ֔וֹת עֶ֖צֶם אֶל־עַצְמֽוֹ׃",
+      "douay_rheims": "And I prophesied as he had commanded me: and as I prophesied there was a noise, and behold a commotion: and the bones came together, each one, its joint.",
+      "finnish_biblia": "Ja minä ennustin niinkuin minulle käsketty oli. Niin tuli hyso, ne rupesivat liikkumaan, ja luut tulivat jälleen yhteen kukin jäseneensä. ",
       "king_james": "So I prophesied as I was commanded: and as I prophesied, there was a noise, and behold a shaking, and the bones came together, bone to his bone."
     },
     {
       "verse": 8,
       "latin_vulgate": "Et vidi, et ecce super ea nervi et carnes ascenderunt, et extenta est in eis cutis desuper : et spiritum non habebant. ",
       "hebrew_masoretic": "וְרָאִ֜יתִי וְהִנֵּֽה־עֲלֵיהֶ֤ם גִּדִים֙ וּבָשָׂ֣ר עָלָ֔ה וַיִּקְרַ֧ם עֲלֵיהֶ֛ם ע֖וֹר מִלְמָ֑עְלָה וְר֖וּחַ אֵ֥ין בָּהֶֽם׃",
+      "douay_rheims": "And I saw, and behold the sinews, and the flesh came up upon them: and the skin was stretched out over them, but there was no spirit in them.",
+      "finnish_biblia": "Ja minä näin, ja katso, siihen tulivat suonet ja liha päälle, ja hän peitti ne nahalla; mutta ei niissä vielä henkeä ollut. ",
       "king_james": "And when I beheld, lo, the sinews and the flesh came up upon them, and the skin covered them above: but there was no breath in them."
     },
     {
       "verse": 9,
       "latin_vulgate": "Et dixit ad me : Vaticinare ad spiritum : vaticinare, fili hominis, et dices ad spiritum : Hæc dicit Dominus Deus : A quatuor ventis veni, spiritus, et insuffla super interfectos istos, et reviviscant. ",
       "hebrew_masoretic": "וַיֹּ֣אמֶר אֵלַ֔י הִנָּבֵ֖א אֶל־הָר֑וּחַ הִנָּבֵ֣א בֶן־אָ֠דָ֠ם וְאָמַרְתָּ֨ אֶל־הָר֜וּחַ {ס} כֹּה־אָמַ֣ר ׀ אֲדֹנָ֣י יֱהֹוִ֗ה מֵאַרְבַּ֤ע רוּחוֹת֙ בֹּ֣אִי הָר֔וּחַ וּפְחִ֛י בַּהֲרוּגִ֥ים הָאֵ֖לֶּה וְיִֽחְיֽוּ׃",
+      "douay_rheims": "And he said to me: Prophesy to the spirit, prophesy, O son of man, and say to the spirit: Thus saith the Lord God: Come, spirit, from the four winds, and blow upon these slain, and let them live again.",
+      "finnish_biblia": "Ja hän sanoi minulle: ennusta hengelle, ennusta sinä, ihmisen poika, ja sano hengelle: näin sanoo Herra, Herra: sinä henki, tule tähän neljästä tuulesta, ja puhalla näiden tapettuin päälle, että he jälleen eläväksi tulisivat. ",
       "king_james": "Then said he unto me, Prophesy unto the wind, prophesy, son of man, and say to the wind, Thus saith the Lord God; Come from the four winds, O breath, and breathe upon these slain, that they may live."
     },
     {
       "verse": 10,
       "latin_vulgate": "Et prophetavi sicut præceperat mihi : et ingressus est in ea spiritus, et vixerunt : steteruntque super pedes suos, exercitus grandis nimis valde.  ",
       "hebrew_masoretic": "וְהִנַּבֵּ֖אתִי כַּאֲשֶׁ֣ר צִוָּ֑נִי וַתָּבוֹא֩ בָהֶ֨ם הָר֜וּחַ וַיִּֽחְי֗וּ וַיַּֽעַמְדוּ֙ עַל־רַגְלֵיהֶ֔ם חַ֖יִל גָּד֥וֹל מְאֹד־מְאֹֽד׃",
+      "douay_rheims": "And I prophesied as he had commanded me: and the spirit came into them, and they lived: and they stood up upon their feet, an exceeding great army.",
+      "finnish_biblia": "Ja minä ennustin niinkuin hän oli minun käskenyt: niin tuli henki heihin, ja he tulivat eläväksi, ja seisoivat jaloillansa, ja heitä oli sangen suuri joukko. ",
       "king_james": "So I prophesied as he commanded me, and the breath came into them, and they lived, and stood up upon their feet, an exceeding great army."
     },
     {
       "verse": 11,
       "latin_vulgate": " Et dixit ad me : Fili hominis, ossa hæc universa, domus Israël est. Ipsi dicunt : Aruerunt ossa nostra, et periit spes nostra, et abscissi sumus. ",
       "hebrew_masoretic": "וַיֹּ֘אמֶר֮ אֵלַי֒ בֶּן־אָדָ֕ם הָעֲצָמ֣וֹת הָאֵ֔לֶּה כׇּל־בֵּ֥ית יִשְׂרָאֵ֖ל הֵ֑מָּה הִנֵּ֣ה אֹמְרִ֗ים יָבְשׁ֧וּ עַצְמוֹתֵ֛ינוּ וְאָבְדָ֥ה תִקְוָתֵ֖נוּ נִגְזַ֥רְנוּ לָֽנוּ׃",
+      "douay_rheims": "And he said to me: Son of man: All these bones are the house of Israel: they say: Our bones are dried up, and our hope is lost, and we are cut off.",
+      "finnish_biblia": "Ja hän sanoi minulle: sinä ihmisen poika, nämät luut ovat koko Israelin huone; katso, he sanovat: meidän luumme ovat kuivuneet, meidän toivomme on kadonnut, ja me olemme hukkuneet. ",
       "king_james": "Then he said unto me, Son of man, these bones are the whole house of Israel: behold, they say, Our bones are dried, and our hope is lost: we are cut off for our parts."
     },
     {
       "verse": 12,
       "latin_vulgate": "Propterea vaticinare, et dices ad eos : Hæc dicit Dominus Deus : Ecce ego aperiam tumulos vestros, et educam vos de sepulchris vestris, populus meus, et inducam vos in terram Israël. ",
       "hebrew_masoretic": "לָכֵן֩ הִנָּבֵ֨א וְאָמַרְתָּ֜ אֲלֵיהֶ֗ם כֹּה־אָמַר֮ אֲדֹנָ֣י יֱהֹוִה֒ הִנֵּה֩ אֲנִ֨י פֹתֵ֜חַ אֶת־קִבְרֽוֹתֵיכֶ֗ם וְהַעֲלֵיתִ֥י אֶתְכֶ֛ם מִקִּבְרוֹתֵיכֶ֖ם עַמִּ֑י וְהֵבֵאתִ֥י אֶתְכֶ֖ם אֶל־אַדְמַ֥ת יִשְׂרָאֵֽל׃",
+      "douay_rheims": "Therefore prophesy, and say to them: Thus saith the Lord God: Behold I will open your graves, and will bring you out of your sepulchres, O my people: and will bring you into the land of Israel.",
+      "finnish_biblia": "Sentähden ennusta ja sano heille: näin sanoo Herra, Herra: katso, minä avaan teidän hautanne ja tahdon teitä, minun kansani, sieltä tuoda ulos, ja saatan teitä Israelin maalle. ",
       "king_james": "Therefore prophesy and say unto them, Thus saith the Lord God; Behold, O my people, I will open your graves, and cause you to come up out of your graves, and bring you into the land of Israel."
     },
     {
       "verse": 13,
       "latin_vulgate": "Et scietis quia ego Dominus, cum aperuero sepulchra vestra, et eduxero vos de tumulis vestris, popule meus, ",
       "hebrew_masoretic": "וִידַעְתֶּ֖ם כִּֽי־אֲנִ֣י יְהֹוָ֑ה בְּפִתְחִ֣י אֶת־קִבְרֽוֹתֵיכֶ֗ם וּבְהַעֲלוֹתִ֥י אֶתְכֶ֛ם מִקִּבְרוֹתֵיכֶ֖ם עַמִּֽי׃",
+      "douay_rheims": "And you shall know that I am the Lord, when I shall have opened your sepulchres, and shall have brought you out of your graves, O my people:",
+      "finnish_biblia": "Ja teidän pitää tietämän, että minä olen Herra, koska minä olen teidän hautanne avannut, ja teitä, minun kansani, sieltä tuonut ulos. ",
       "king_james": "And ye shall know that I am the Lord, when I have opened your graves, O my people, and brought you up out of your graves,"
     },
     {
       "verse": 14,
       "latin_vulgate": "et dedero spiritum meum in vobis, et vixeritis : et requiescere vos faciam super humum vestram, et scietis quia ego Dominus locutus sum, et feci, ait Dominus Deus.  ",
       "hebrew_masoretic": "וְנָתַתִּ֨י רוּחִ֤י בָכֶם֙ וִחְיִיתֶ֔ם וְהִנַּחְתִּ֥י אֶתְכֶ֖ם עַל־אַדְמַתְכֶ֑ם וִידַעְתֶּ֞ם כִּֽי־אֲנִ֧י יְהֹוָ֛ה דִּבַּ֥רְתִּי וְעָשִׂ֖יתִי נְאֻם־יְהֹוָֽה׃ {פ}",
+      "douay_rheims": "And shall have put my spirit in you, and you shall live, and I shall make you rest upon your own land: and you shall know that I the Lord have spoken, and done it, saith the Lord God:",
+      "finnish_biblia": "Ja minä tahdon antaa minun henkeni teihin, että te jälleen virkootte, ja tahdon saattaa teitä teidän maallenne; ja teidän pitää ymmärtämän, että minä olen Herra. Minä sen puhun, ja minä myös sen teen, sanoo Herra. ",
       "king_james": "And shall put my spirit in you, and ye shall live, and I shall place you in your own land: then shall ye know that I the Lord have spoken it, and performed it, saith the Lord."
     },
     {
       "verse": 15,
       "latin_vulgate": " Et factus est sermo Domini ad me, dicens : ",
       "hebrew_masoretic": "וַיְהִ֥י דְבַר־יְהֹוָ֖ה אֵלַ֥י לֵאמֹֽר׃",
+      "douay_rheims": "And the word of the Lord came to me, saying:",
+      "finnish_biblia": "Ja Herran sana tapahtui minulle ja sanoi: ",
       "king_james": "The word of the Lord came again unto me, saying,"
     },
     {
       "verse": 16,
       "latin_vulgate": "Et tu, fili hominis, sume tibi lignum unum, et scribe super illud : Judæ, et filiorum Israël sociorum ejus : et tolle lignum alterum, et scribe super illud : Joseph, ligno Ephraim, et cunctæ domui Israël sociorumque ejus. ",
       "hebrew_masoretic": "וְאַתָּ֣ה בֶן־אָדָ֗ם קַח־לְךָ֙ עֵ֣ץ אֶחָ֔ד וּכְתֹ֤ב עָלָיו֙ לִֽיהוּדָ֔ה וְלִבְנֵ֥י יִשְׂרָאֵ֖ל חֲבֵרָ֑ו וּלְקַח֙ עֵ֣ץ אֶחָ֔ד וּכְת֣וֹב עָלָ֗יו לְיוֹסֵף֙ עֵ֣ץ אֶפְרַ֔יִם וְכׇל־בֵּ֥ית יִשְׂרָאֵ֖ל חֲבֵרָֽו׃",
+      "douay_rheims": "And thou son of man, take thee a stick: and write upon it: Of Juda, and of the children of Israel his associates: and take another stick and write upon it: For Joseph the stick of Ephraim, and for all the house of Israel, and of his associates.",
+      "finnish_biblia": "Sinä ihmisen poika, ota sinulles yksi puu, ja kirjoita siihen Juudasta ja heidän kumppaneistansa Israelin lapsista; ja ota vielä sitte yksi puu, ja kirjoita siihen Josephin ja Ephraimin suku, ja koko Israelin huone, heidän kumppaninsa. ",
       "king_james": "Moreover, thou son of man, take thee one stick, and write upon it, For Judah, and for the children of Israel his companions: then take another stick, and write upon it, For Joseph, the stick of Ephraim, and for all the house of Israel his companions:"
     },
     {
       "verse": 17,
       "latin_vulgate": "Et adjunge illa unum ad alterum tibi in lignum unum : et erunt in unionem in manu tua. ",
       "hebrew_masoretic": "וְקָרַ֨ב אֹתָ֜ם אֶחָ֧ד אֶל־אֶחָ֛ד לְךָ֖ לְעֵ֣ץ אֶחָ֑ד וְהָי֥וּ לַאֲחָדִ֖ים בְּיָדֶֽךָ׃",
+      "douay_rheims": "And join them one to the other into one stick, and they shall become one in thy hand.",
+      "finnish_biblia": "Ja liitä heitä molempia yhteen, sinulle yhdeksi puuksi, niin että se tulee kaikki yhdeksi kädessäs. ",
       "king_james": "And join them one to another into one stick; and they shall become one in thine hand."
     },
     {
       "verse": 18,
       "latin_vulgate": "Cum autem dixerint ad te filii populi tui, loquentes : Nonne indicas nobis quid in his tibi velis ? ",
       "hebrew_masoretic": "וְכַֽאֲשֶׁר֙ יֹאמְר֣וּ אֵלֶ֔יךָ בְּנֵ֥י עַמְּךָ֖ לֵאמֹ֑ר הֲלֽוֹא־תַגִּ֥יד לָ֖נוּ מָה־אֵ֥לֶּה לָּֽךְ׃",
+      "douay_rheims": "And when the children of thy people shall speak to thee, saying: Wilt thou not tell us what thou meanest by this?",
+      "finnish_biblia": "Jos siis sinun kansas lapset puhuvat sinulle, sanoen: etkös tahdo meille ilmoittaa, mitäs sillä ajattelet? ",
       "king_james": "And when the children of thy people shall speak unto thee, saying, Wilt thou not shew us what thou meanest by these?"
     },
     {
       "verse": 19,
       "latin_vulgate": "loqueris ad eos : Hæc dicit Dominus Deus : Ecce ego assumam lignum Joseph, quod est in manu Ephraim, et tribus Israël, quæ sunt ei adjunctæ, et dabo eas pariter cum ligno Juda, et faciam eas in lignum unum : et erunt unum in manu ejus. ",
       "hebrew_masoretic": "דַּבֵּ֣ר אֲלֵהֶ֗ם כֹּה־אָמַר֮ אֲדֹנָ֣י יֱהֹוִה֒ הִנֵּה֩ אֲנִ֨י לֹקֵ֜חַ אֶת־עֵ֤ץ יוֹסֵף֙ אֲשֶׁ֣ר בְּיַד־אֶפְרַ֔יִם וְשִׁבְטֵ֥י יִשְׂרָאֵ֖ל חֲבֵרָ֑ו וְנָתַתִּי֩ אוֹתָ֨ם עָלָ֜יו אֶת־עֵ֣ץ יְהוּדָ֗ה וַֽעֲשִׂיתִם֙ לְעֵ֣ץ אֶחָ֔ד וְהָי֥וּ אֶחָ֖ד בְּיָדִֽי׃",
+      "douay_rheims": "Say to them: Thus saith the Lord God: Behold, I will take the stick of Joseph, which is in the hand of Ephraim, and the tribes of Israel that are associated with him, and I will put them together with the stick of Juda, and will make them one stick: and they shall be one in his hand.",
+      "finnish_biblia": "Niin sano heille: näin sanoo Herra, Herra: katso, minä otan Josephin puun, joka on Ephraimin tykönä, ynnä heidän kumppaneinsa Israelin sukuin kanssa, ja panen heidät Juudan puun tykö, ja teen heistä molemmista yhden puun minun kädessäni. ",
       "king_james": "Say unto them, Thus saith the Lord God; Behold, I will take the stick of Joseph, which is in the hand of Ephraim, and the tribes of Israel his fellows, and will put them with him, even with the stick of Judah, and make them one stick, and they shall be one in mine hand."
     },
     {
       "verse": 20,
       "latin_vulgate": "Erunt autem ligna super quæ scripseris in manu tua in oculis eorum. ",
       "hebrew_masoretic": "וְהָי֨וּ הָעֵצִ֜ים אֲֽשֶׁר־תִּכְתֹּ֧ב עֲלֵיהֶ֛ם בְּיָדְךָ֖ לְעֵינֵיהֶֽם׃",
+      "douay_rheims": "And the sticks whereon thou hast written, shall be in thy hand, before their eyes.",
+      "finnish_biblia": "Ja sinun pitää ne puut, joihin sinä kirjoittanut olet, sinun kädessäs niin pitämän, että he sen näkevät. ",
       "king_james": "And the sticks whereon thou writest shall be in thine hand before their eyes."
     },
     {
       "verse": 21,
       "latin_vulgate": "Et dices ad eos : Hæc dicit Dominus Deus : Ecce ego assumam filios Israël de medio nationum ad quas abierunt : et congregabo eos undique, et adducam eos ad humum suam. ",
       "hebrew_masoretic": "וְדַבֵּ֣ר אֲלֵיהֶ֗ם כֹּה־אָמַר֮ אֲדֹנָ֣י יֱהֹוִה֒ הִנֵּ֨ה אֲנִ֤י לֹקֵ֙חַ֙ אֶת־בְּנֵ֣י יִשְׂרָאֵ֔ל מִבֵּ֥ין הַגּוֹיִ֖ם אֲשֶׁ֣ר הָֽלְכוּ־שָׁ֑ם וְקִבַּצְתִּ֤י אֹתָם֙ מִסָּבִ֔יב וְהֵבֵאתִ֥י אוֹתָ֖ם אֶל־אַדְמָתָֽם׃",
+      "douay_rheims": "And thou shalt say to them: Thus saith the Lord God: Behold, I will take of the children of Israel from the midst of the nations whither they are gone: and I will gather them on every side, and will bring them to their own land.",
+      "finnish_biblia": "Ja sinun pitää heille sanoman: näin sanoo Herra, Herra: katso, minä tuon jälleen Israelin lapset pakanoista, joihin he menneet ovat, ja kokoon heidät joka paikasta, ja annan heidän tulla maallensa jälleen. ",
       "king_james": "And say unto them, Thus saith the Lord God; Behold, I will take the children of Israel from among the heathen, whither they be gone, and will gather them on every side, and bring them into their own land:"
     },
     {
       "verse": 22,
       "latin_vulgate": "Et faciam eos in gentem unam in terra in montibus Israël, et rex unus erit omnibus imperans : et non erunt ultra duæ gentes, nec dividentur amplius in duo regna, ",
       "hebrew_masoretic": "וְעָשִׂ֣יתִי אֹ֠תָ֠ם לְג֨וֹי אֶחָ֤ד בָּאָ֙רֶץ֙ בְּהָרֵ֣י יִשְׂרָאֵ֔ל וּמֶ֧לֶךְ אֶחָ֛ד יִהְיֶ֥ה לְכֻלָּ֖ם לְמֶ֑לֶךְ וְלֹ֤א (יהיה) [יִֽהְיוּ־]עוֹד֙ לִשְׁנֵ֣י גוֹיִ֔ם וְלֹ֨א יֵחָ֥צוּ ע֛וֹד לִשְׁתֵּ֥י מַמְלָכ֖וֹת עֽוֹד׃",
+      "douay_rheims": "And I will make them one nation in the land on the mountains of Israel, and one king shall be king over them all: and they shall no more be two nations, neither shall they be divided any more into two kingdoms.",
+      "finnish_biblia": "Ja teen kaikki yhdeksi kansaksi maalla, Israelin vuorilla; ja heillä kaikilla pitää oleman yksi kuningas, ja ei pidä enään kaksi kansaa eli kahteen valtakuntaan jaetut oleman. ",
       "king_james": "And I will make them one nation in the land upon the mountains of Israel; and one king shall be king to them all: and they shall be no more two nations, neither shall they be divided into two kingdoms any more at all:"
     },
     {
       "verse": 23,
       "latin_vulgate": "neque polluentur ultra in idolis suis, et abominationibus suis, et cunctis iniquitatibus suis : et salvos eos faciam de universis sedibus in quibus peccaverunt, et emundabo eos : et erunt mihi populus, et ego ero eis Deus. ",
       "hebrew_masoretic": "וְלֹ֧א יִֽטַּמְּא֣וּ ע֗וֹד בְּגִלּֽוּלֵיהֶם֙ וּבְשִׁקּ֣וּצֵיהֶ֔ם וּבְכֹ֖ל פִּשְׁעֵיהֶ֑ם וְהוֹשַׁעְתִּ֣י אֹתָ֗ם מִכֹּ֤ל מוֹשְׁבֹֽתֵיהֶם֙ אֲשֶׁ֣ר חָטְא֣וּ בָהֶ֔ם וְטִהַרְתִּ֤י אוֹתָם֙ וְהָיוּ־לִ֣י לְעָ֔ם וַאֲנִ֕י אֶהְיֶ֥ה לָהֶ֖ם לֵאלֹהִֽים׃",
+      "douay_rheims": "Nor shall they be defiled any more with their idols, nor with their abominations, nor with all their iniquities: and I will save them out of all the places in which they have sinned, and I will cleanse them: and they shall be my people, and I will be their God.",
+      "finnish_biblia": "Ei heidän myös pidä enään saastuttaman itsiänsä epäjumalistansa, kauhistuksissa ja kaikkinaisissa rikoksissa. Minä autan heitä kaikista paikoista, joissa he ovat rikkoneet, ja puhdistan heitä, ja heidän pitää oleman minun kanssani, ja minä tahdon olla heidän Jumalansa. ",
       "king_james": "Neither shall they defile themselves any more with their idols, nor with their detestable things, nor with any of their transgressions: but I will save them out of all their dwellingplaces, wherein they have sinned, and will cleanse them: so shall they be my people, and I will be their God."
     },
     {
       "verse": 24,
       "latin_vulgate": "Et servus meus David rex super eos, et pastor unus erit omnium eorum. In judiciis meis ambulabunt, et mandata mea custodient, et facient ea : ",
       "hebrew_masoretic": "וְעַבְדִּ֤י דָוִד֙ מֶ֣לֶךְ עֲלֵיהֶ֔ם וְרוֹעֶ֥ה אֶחָ֖ד יִהְיֶ֣ה לְכֻלָּ֑ם וּבְמִשְׁפָּטַ֣י יֵלֵ֔כוּ וְחֻקּוֹתַ֥י יִשְׁמְר֖וּ וְעָשׂ֥וּ אוֹתָֽם׃",
+      "douay_rheims": "And my servant David shall be king over them, and they shall have one shepherd: they shall walk in my judgments, and shall keep my commandments, and shall do them.",
+      "finnish_biblia": "Ja minun palvelijani David pitää oleman heidän kuninkaansa, ja kaikkein heidän yksinäinen paimenensa; ja heidän pitää vaeltaman minun oikeudessani, ja pitämän minun säätyni, ja tekemän niiden jälkeen. ",
       "king_james": "And David my servant shall be king over them; and they all shall have one shepherd: they shall also walk in my judgments, and observe my statutes, and do them."
     },
     {
       "verse": 25,
       "latin_vulgate": "et habitabunt super terram quam dedi servo meo Jacob, in qua habitaverunt patres vestri : et habitabunt super eam ipsi, et filii eorum, et filii filiorum eorum, usque in sempiternum : et David servus meus princeps eorum in perpetuum. ",
       "hebrew_masoretic": "וְיָשְׁב֣וּ עַל־הָאָ֗רֶץ אֲשֶׁ֤ר נָתַ֙תִּי֙ לְעַבְדִּ֣י לְיַֽעֲקֹ֔ב אֲשֶׁ֥ר יָֽשְׁבוּ־בָ֖הּ אֲבֽוֹתֵיכֶ֑ם וְיָשְׁב֣וּ עָלֶ֡יהָ הֵ֠מָּה וּבְנֵיהֶ֞ם וּבְנֵ֤י בְנֵיהֶם֙ עַד־עוֹלָ֔ם וְדָוִ֣ד עַבְדִּ֔י נָשִׂ֥יא לָהֶ֖ם לְעוֹלָֽם׃",
+      "douay_rheims": "And they shall dwell in the land which I gave to my servant Jacob, wherein your fathers dwelt, and they shall dwell in it, they and their children, and their children's children, for ever: and David my servant shall be their prince for ever.",
+      "finnish_biblia": "Ja heidän pitää asuman sillä maalla, jonka minä palvelialleni Jakobille antanut olen, jossa teidän isänne asuneet ovat; heidän ja heidän lapsensa ja lastensa lapset pitää siellä ijankaikkisesti asuman; ja minun palvelijani David pitää oleman heidän ruhtinaansa ijankaikkisesti. ",
       "king_james": "And they shall dwell in the land that I have given unto Jacob my servant, wherein your fathers have dwelt; and they shall dwell therein, even they, and their children, and their children’s children for ever: and my servant David shall be their prince for ever."
     },
     {
       "verse": 26,
       "latin_vulgate": "Et percutiam illis fœdus pacis : pactum sempiternum erit eis. Et fundabo eos, et multiplicabo, et dabo sanctificationem meam in medio eorum in perpetuum. ",
       "hebrew_masoretic": "וְכָרַתִּ֤י לָהֶם֙ בְּרִ֣ית שָׁל֔וֹם בְּרִ֥ית עוֹלָ֖ם יִהְיֶ֣ה אוֹתָ֑ם וּנְתַתִּים֙ וְהִרְבֵּיתִ֣י אוֹתָ֔ם וְנָתַתִּ֧י אֶת־מִקְדָּשִׁ֛י בְּתוֹכָ֖ם לְעוֹלָֽם׃",
+      "douay_rheims": "And I will make a covenant of peace with them, it shall be an everlasting covenant with them: and I will establish them, and will multiply them, and will set my sanctuary in the midst of them for ever.",
+      "finnish_biblia": "Ja minä teen heidän kanssansa rauhan liiton, sen pitää heille ijankaikkisen liiton oleman; ja holhon heitä, ja enennän heitä, ja minun pyhäni pitää oleman heidän seassansa ijankaikkisesti. ",
       "king_james": "Moreover I will make a covenant of peace with them; it shall be an everlasting covenant with them: and I will place them, and multiply them, and will set my sanctuary in the midst of them for evermore."
     },
     {
       "verse": 27,
       "latin_vulgate": "Et erit tabernaculum meum in eis : et ero eis Deus, et ipsi erunt mihi populus. ",
       "hebrew_masoretic": "וְהָיָ֤ה מִשְׁכָּנִי֙ עֲלֵיהֶ֔ם וְהָיִ֥יתִי לָהֶ֖ם לֵאלֹהִ֑ים וְהֵ֖מָּה יִהְיוּ־לִ֥י לְעָֽם׃",
+      "douay_rheims": "And my tabernacle shall be with them: and I will be their God, and they shall be my people.",
+      "finnish_biblia": "Ja minun majani pitää oleman heidän seassansa, ja minä tahdon olla heidän Jumalansa; ja heidän pitää oleman minun kansani. ",
       "king_james": "My tabernacle also shall be with them: yea, I will be their God, and they shall be my people."
     },
     {
       "verse": 28,
       "latin_vulgate": "Et scient gentes quia ego Dominus sanctificator Israël, cum fuerit sanctificatio mea in medio eorum in perpetuum.   ",
       "hebrew_masoretic": "וְיָֽדְעוּ֙ הַגּוֹיִ֔ם כִּ֚י אֲנִ֣י יְהֹוָ֔ה מְקַדֵּ֖שׁ אֶת־יִשְׂרָאֵ֑ל בִּהְי֧וֹת מִקְדָּשִׁ֛י בְּתוֹכָ֖ם לְעוֹלָֽם׃ {פ}",
+      "douay_rheims": "And the nations shall know that I am the Lord the sanctifier of Israel, when my sanctuary shall be in the midst of them for ever. ",
+      "finnish_biblia": "Niin että pakanainkin pitää ymmärtämän, että minä Herra pyhitän Israelin; ja minun Pyhäni pitää oleman heidän tykönänsä ijankaikkisesti.   ",
       "king_james": "And the heathen shall know that I the Lord do sanctify Israel, when my sanctuary shall be in the midst of them for evermore. "
     }
   ]

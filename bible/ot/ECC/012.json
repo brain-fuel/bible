@@ -2,6 +2,8 @@
   "book_id": "ECC",
   "latin_name": "Ecclesiastes",
   "hebrew_name": "קֹהֶלֶת",
+  "douay_name": "Ecclesiastes",
+  "finnish_name": "Saarnaaja",
   "english_name": "Ecclesiastes",
   "chapter": 12,
   "verses": [
@@ -9,84 +11,112 @@
       "verse": 1,
       "latin_vulgate": "Memento Creatoris tui in diebus juventutis tuæ,  antequam veniat tempus afflictionis,  et appropinquent anni de quibus dicas :  Non mihi placent ; ",
       "hebrew_masoretic": "וּזְכֹר֙ אֶת־בּ֣וֹרְאֶ֔יךָ בִּימֵ֖י בְּחוּרֹתֶ֑יךָ עַ֣ד אֲשֶׁ֤ר לֹא־יָבֹ֙אוּ֙ יְמֵ֣י הָֽרָעָ֔ה וְהִגִּ֣יעוּ שָׁנִ֔ים אֲשֶׁ֣ר תֹּאמַ֔ר אֵֽין־לִ֥י בָהֶ֖ם חֵֽפֶץ׃",
+      "douay_rheims": "Remember thy Creator in the days of thy youth, before the time of affliction come, and the years draw nigh of which thou shalt say: They please me not:",
+      "finnish_biblia": "Ja muista Luojaasi nuoruudessasi, ennenkuin pahat päivät tulevat ja joutuvat ne vuodet, joista olet sanova: ",
       "king_james": "Remember now thy Creator in the days of thy youth, while the evil days come not, nor the years draw nigh, when thou shalt say, I have no pleasure in them;"
     },
     {
       "verse": 2,
       "latin_vulgate": " antequam tenebrescat sol, et lumen, et luna, et stellæ,  et revertantur nubes post pluviam ; ",
       "hebrew_masoretic": "עַ֠ד אֲשֶׁ֨ר לֹֽא־תֶחְשַׁ֤ךְ הַשֶּׁ֙מֶשׁ֙ וְהָא֔וֹר וְהַיָּרֵ֖חַ וְהַכּוֹכָבִ֑ים וְשָׁ֥בוּ הֶעָבִ֖ים אַחַ֥ר הַגָּֽשֶׁם׃",
+      "douay_rheims": "Before the sun, and the light, and the moon, and the stars be darkened, and the clouds return after the rain:",
+      "finnish_biblia": "\"Nämä eivät minua miellytä\"; ennenkuin pimenee aurinko, päivänvalo, kuu ja tähdet, ja pilvet palajavat sateen jälkeenkin - ",
       "king_james": "While the sun, or the light, or the moon, or the stars, be not darkened, nor the clouds return after the rain:"
     },
     {
       "verse": 3,
       "latin_vulgate": " quando commovebuntur custodes domus,  et nutabunt viri fortissimi,  et otiosæ erunt molentes in minuto numero,  et tenebrescent videntes per foramina ; ",
       "hebrew_masoretic": "בַּיּ֗וֹם שֶׁיָּזֻ֙עוּ֙ שֹׁמְרֵ֣י הַבַּ֔יִת וְהִֽתְעַוְּת֖וּ אַנְשֵׁ֣י הֶחָ֑יִל וּבָטְל֤וּ הַטֹּֽחֲנוֹת֙ כִּ֣י מִעֵ֔טוּ וְחָשְׁכ֥וּ הָרֹא֖וֹת בָּאֲרֻבּֽוֹת׃",
+      "douay_rheims": "When the keepers of the house shall tremble, and the strong men shall stagger, and the grinders shall be idle in a small number, and they that look through the holes shall be darkened:",
+      "finnish_biblia": "jolloin huoneen vartijat vapisevat ja voiman miehet käyvät koukkuisiksi ja jauhajanaiset ovat joutilaina, kun ovat menneet vähiin, ja akkunoista-kurkistelijat jäävät pimeään, ",
       "king_james": "In the day when the keepers of the house shall tremble, and the strong men shall bow themselves, and the grinders cease because they are few, and those that look out of the windows be darkened,"
     },
     {
       "verse": 4,
       "latin_vulgate": " et claudent ostia in platea,  in humilitate vocis molentis,  et consurgent ad vocem volucris,  et obsurdescent omnes filiæ carminis : ",
       "hebrew_masoretic": "וְסֻגְּר֤וּ דְלָתַ֙יִם֙ בַּשּׁ֔וּק בִּשְׁפַ֖ל ק֣וֹל הַֽטַּחֲנָ֑ה וְיָקוּם֙ לְק֣וֹל הַצִּפּ֔וֹר וְיִשַּׁ֖חוּ כׇּל־בְּנ֥וֹת הַשִּֽׁיר׃",
+      "douay_rheims": "And they shall shut the doors in the street, when the grinder's voice shall be low, and they shall rise up at the voice of the bird, and all the daughters of music shall grow deaf.",
+      "finnish_biblia": "ja kadulle vievät ovet sulkeutuvat ja myllyn ääni heikkenee ja noustaan linnun lauluun ja kaikki laulun tyttäret hiljentyvät; ",
       "king_james": "And the doors shall be shut in the streets, when the sound of the grinding is low, and he shall rise up at the voice of the bird, and all the daughters of musick shall be brought low;"
     },
     {
       "verse": 5,
       "latin_vulgate": " excelsa quoque timebunt, et formidabunt in via.  Florebit amygdalus, impinguabitur locusta,  et dissipabitur capparis,  quoniam ibit homo in domum æternitatis suæ,  et circuibunt in platea plangentes. ",
       "hebrew_masoretic": "גַּ֣ם מִגָּבֹ֤הַּ יִרָ֙אוּ֙ וְחַתְחַתִּ֣ים בַּדֶּ֔רֶךְ וְיָנֵ֤אץ הַשָּׁקֵד֙ וְיִסְתַּבֵּ֣ל הֶֽחָגָ֔ב וְתָפֵ֖ר הָֽאֲבִיּוֹנָ֑ה כִּֽי־הֹלֵ֤ךְ הָאָדָם֙ אֶל־בֵּ֣ית עוֹלָמ֔וֹ וְסָבְב֥וּ בַשּׁ֖וּק הַסּוֹפְדִֽים׃",
+      "douay_rheims": "And they shall fear high things, and they shall be afraid in the way, the almond tree shall flourish, the locust shall be made fat, and the caper tree shall be destroyed: because man shall go into the house of his eternity, and the mourners shall go round about in the street.",
+      "finnish_biblia": "myös peljätään mäkiä, ja tiellä on kauhuja, ja mantelipuu kukkii, ja heinäsirkka kulkee kankeasti, ja kapriisinnuppu on tehoton; sillä ihminen menee iankaikkiseen majaansa, ja valittajat kiertelevät kaduilla ",
       "king_james": "Also when they shall be afraid of that which is high, and fears shall be in the way, and the almond tree shall flourish, and the grasshopper shall be a burden, and desire shall fail: because man goeth to his long home, and the mourners go about the streets:"
     },
     {
       "verse": 6,
       "latin_vulgate": " Antequam rumpatur funiculus argenteus,  et recurrat vitta aurea,  et conteratur hydria super fontem,  et confringatur rota super cisternam, ",
       "hebrew_masoretic": "עַ֣ד אֲשֶׁ֤ר לֹֽא־[יֵרָתֵק֙] (ירחק) חֶ֣בֶל הַכֶּ֔סֶף וְתָר֖וּץ גֻּלַּ֣ת הַזָּהָ֑ב וְתִשָּׁ֤בֶר כַּד֙ עַל־הַמַּבּ֔וּעַ וְנָרֹ֥ץ הַגַּלְגַּ֖ל אֶל־הַבּֽוֹר׃",
+      "douay_rheims": "Before the silver cord be broken, and the golden fillet shrink back, and the pitcher be crushed at the fountain, and the wheel be broken upon the cistern,",
+      "finnish_biblia": "ennenkuin hopealanka katkeaa ja kultamalja särkyy ja vesiastia rikkoutuu lähteellä ja ammennuspyörä särkyneenä putoaa kaivoon. ",
       "king_james": "Or ever the silver cord be loosed, or the golden bowl be broken, or the pitcher be broken at the fountain, or the wheel broken at the cistern."
     },
     {
       "verse": 7,
       "latin_vulgate": " et revertatur pulvis in terram suam unde erat,  et spiritus redeat ad Deum, qui dedit illum. ",
       "hebrew_masoretic": "וְיָשֹׁ֧ב הֶעָפָ֛ר עַל־הָאָ֖רֶץ כְּשֶׁהָיָ֑ה וְהָר֣וּחַ תָּשׁ֔וּב אֶל־הָאֱלֹהִ֖ים אֲשֶׁ֥ר נְתָנָֽהּ׃",
+      "douay_rheims": "And the dust return into its earth, from whence it was, and the spirit return to God, who gave it.",
+      "finnish_biblia": "Ja tomu palajaa maahan, niinkuin on ollutkin, ja henki palajaa Jumalan tykö, joka sen on antanutkin. ",
       "king_james": "Then shall the dust return to the earth as it was: and the spirit shall return unto God who gave it."
     },
     {
       "verse": 8,
       "latin_vulgate": " Vanitas vanitatum, dixit Ecclesiastes,  et omnia vanitas. ",
       "hebrew_masoretic": "הֲבֵ֧ל הֲבָלִ֛ים אָמַ֥ר הַקּוֹהֶ֖לֶת הַכֹּ֥ל הָֽבֶל׃",
+      "douay_rheims": "Vanity of vanities, said Ecclesiastes, and all things are vanity.",
+      "finnish_biblia": "Turhuuksien turhuus, sanoi saarnaaja; kaikki on turhuutta! ",
       "king_james": "Vanity of vanities, saith the preacher; all is vanity."
     },
     {
       "verse": 9,
       "latin_vulgate": " Cumque esset sapientissimus Ecclesiastes,  docuit populum, et enarravit quæ fecerat ;  et investigans composuit parabolas multas. ",
       "hebrew_masoretic": "וְיֹתֵ֕ר שֶׁהָיָ֥ה קֹהֶ֖לֶת חָכָ֑ם ע֗וֹד לִמַּד־דַּ֙עַת֙ אֶת־הָעָ֔ם וְאִזֵּ֣ן וְחִקֵּ֔ר תִּקֵּ֖ן מְשָׁלִ֥ים הַרְבֵּֽה׃",
+      "douay_rheims": "And whereas Ecclesiastes was very wise, he taught the people, and declared the things that he had done: and seeking out, he set forth many parables.",
+      "finnish_biblia": "Sen lisäksi, että saarnaaja oli viisas, hän myös opetti kansalle tietoa, punnitsi, harkitsi ja sommitteli sananlaskuja paljon. ",
       "king_james": "And moreover, because the preacher was wise, he still taught the people knowledge; yea, he gave good heed, and sought out, and set in order many proverbs."
     },
     {
       "verse": 10,
       "latin_vulgate": " Quæsivit verba utilia,  et conscripsit sermones rectissimos ac veritate plenos. ",
       "hebrew_masoretic": "בִּקֵּ֣שׁ קֹהֶ֔לֶת לִמְצֹ֖א דִּבְרֵי־חֵ֑פֶץ וְכָת֥וּב יֹ֖שֶׁר דִּבְרֵ֥י אֱמֶֽת׃",
+      "douay_rheims": "He sought profitable words, and wrote words most right, and full of truth.",
+      "finnish_biblia": "Saarnaaja koki löytää kelvollisia sanoja, oikeassa mielessä kirjoitettuja, totuuden sanoja. ",
       "king_james": "The preacher sought to find out acceptable words: and that which was written was upright, even words of truth."
     },
     {
       "verse": 11,
       "latin_vulgate": " Verba sapientium sicut stimuli,  et quasi clavi in altum defixi,  quæ per magistrorum consilium data sunt a pastore uno. ",
       "hebrew_masoretic": "דִּבְרֵ֤י חֲכָמִים֙ כַּדָּ֣רְבֹנ֔וֹת וּֽכְמַשְׂמְר֥וֹת נְטוּעִ֖ים בַּעֲלֵ֣י אֲסֻפּ֑וֹת נִתְּנ֖וּ מֵרֹעֶ֥ה אֶחָֽד׃",
+      "douay_rheims": "The words of the wise are as goads, and as nails deeply fastened in, which by the counsel of masters are given from one shepherd.",
+      "finnish_biblia": "Viisaitten sanat ovat kuin tutkaimet ja kootut lauseet kuin isketyt naulat; ne ovat saman Paimenen antamia. ",
       "king_james": "The words of the wise are as goads, and as nails fastened by the masters of assemblies, which are given from one shepherd."
     },
     {
       "verse": 12,
       "latin_vulgate": " His amplius, fili mi, ne requiras.  Faciendi plures libros nullus est finis ;  frequensque meditatio, carnis afflictio est. ",
       "hebrew_masoretic": "וְיֹתֵ֥ר מֵהֵ֖מָּה בְּנִ֣י הִזָּהֵ֑ר עֲשׂ֨וֹת סְפָרִ֤ים הַרְבֵּה֙ אֵ֣ין קֵ֔ץ וְלַ֥הַג הַרְבֵּ֖ה יְגִעַ֥ת בָּשָֽׂר׃",
+      "douay_rheims": "More than these, my son, require not. Of making many books there is no end: and much study is an affliction of the flesh.",
+      "finnish_biblia": "Ja vielä näiden lisäksi: Poikani, ota varoituksesta vaari; paljolla kirjaintekemisellä ei ole loppua, ja paljo tutkistelu väsyttää ruumiin. ",
       "king_james": "And further, by these, my son, be admonished: of making many books there is no end; and much study is a weariness of the flesh."
     },
     {
       "verse": 13,
       "latin_vulgate": " Finem loquendi pariter omnes audiamus.  Deum time, et mandata ejus observa :  hoc est enim omnis homo, ",
       "hebrew_masoretic": "ס֥וֹף דָּבָ֖ר הַכֹּ֣ל נִשְׁמָ֑ע אֶת־הָאֱלֹהִ֤ים יְרָא֙ וְאֶת־מִצְוֺתָ֣יו שְׁמ֔וֹר כִּי־זֶ֖ה כׇּל־הָאָדָֽם׃",
+      "douay_rheims": "Let us all hear together the conclusion of the discourse. Fear God, and keep his commandments: for this is all man:",
+      "finnish_biblia": "Loppusana kaikesta, mitä on kuultu, on tämä: Pelkää Jumalaa ja pidä hänen käskynsä, sillä niin tulee jokaisen ihmisen tehdä. ",
       "king_james": "Let us hear the conclusion of the whole matter: Fear God, and keep his commandments: for this is the whole duty of man."
     },
     {
       "verse": 14,
       "latin_vulgate": " et cuncta quæ fiunt adducet Deus in judicium  pro omni errato, sive bonum, sive malum illud sit.    ",
       "hebrew_masoretic": "כִּ֚י אֶת־כׇּל־מַֽעֲשֶׂ֔ה הָאֱלֹהִ֛ים יָבִ֥א בְמִשְׁפָּ֖ט עַ֣ל כׇּל־נֶעְלָ֑ם אִם־ט֖וֹב וְאִם־רָֽע׃",
+      "douay_rheims": "And all things that are done, God will bring into judgment for every error, whether it be good or evil.  ",
+      "finnish_biblia": "Sillä Jumala tuo kaikki teot tuomiolle, joka kohtaa kaikkea salassa olevaa, olkoon se hyvää tai pahaa.    ",
       "king_james": "For God shall bring every work into judgment, with every secret thing, whether it be good, or whether it be evil.  "
     }
   ]

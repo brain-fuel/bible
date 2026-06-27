@@ -2,6 +2,8 @@
   "book_id": "PSA",
   "latin_name": "Liber Psalmorum",
   "hebrew_name": "תְּהִלִּים",
+  "douay_name": "Psalms",
+  "finnish_name": "Psalmit",
   "english_name": "Psalms",
   "chapter": 68,
   "verses": [
@@ -9,6 +11,8 @@
       "verse": 1,
       "latin_vulgate": "  Exsurgat Deus, et dissipentur inimici ejus ;  et fugiant qui oderunt eum a facie ejus. ",
       "hebrew_masoretic": "יָק֣וּם אֱ֭לֹהִים יָפ֣וּצוּ אוֹיְבָ֑יו וְיָנ֥וּסוּ מְ֝שַׂנְאָ֗יו מִפָּנָֽיו׃",
+      "douay_rheims": "Let God arise, and let his enemies be scattered: and let them that hate him flee from before his face.",
+      "finnish_biblia": "Davidin Psalmi ja veisu, edelläveisaajalle. (H68:2) Nouskaan Jumala, että hänen vihollisensa hajoitettaisiin; ja jotka häntä vihaavat, paetkaat hänen edestänsä. ",
       "king_james": "Let God arise, let his enemies be scattered: let them also that hate him flee before him.",
       "refs": {
         "latin_vulgate": {
@@ -16,6 +20,9 @@
         },
         "hebrew_masoretic": {
           "src": "68:2"
+        },
+        "douay_rheims": {
+          "src": "67:2"
         }
       }
     },
@@ -23,6 +30,8 @@
       "verse": 2,
       "latin_vulgate": " Sicut deficit fumus, deficiant ;  sicut fluit cera a facie ignis, sic pereant peccatores a facie Dei. ",
       "hebrew_masoretic": "כְּהִנְדֹּ֥ף עָשָׁ֗ן תִּ֫נְדֹּ֥ף כְּהִמֵּ֣ס דּ֭וֹנַג מִפְּנֵי־אֵ֑שׁ יֹאבְד֥וּ רְ֝שָׁעִ֗ים מִפְּנֵ֥י אֱלֹהִֽים׃",
+      "douay_rheims": "As smoke vanisheth, so let them vanish away: as wax melteth before the fire, so let the wicked perish at the presence of God.",
+      "finnish_biblia": "Aja heitä pois, niinkuin savu ajetaan pois; niinkuin vedenvaha sulaa tulen edessä, niin hukkukaan jumalattomat Jumalan kasvoin edessä. ",
       "king_james": "As smoke is driven away, so drive them away: as wax melteth before the fire, so let the wicked perish at the presence of God.",
       "refs": {
         "latin_vulgate": {
@@ -30,6 +39,9 @@
         },
         "hebrew_masoretic": {
           "src": "68:3"
+        },
+        "douay_rheims": {
+          "src": "67:3"
         }
       }
     },
@@ -37,6 +49,8 @@
       "verse": 3,
       "latin_vulgate": " Et justi epulentur, et exsultent in conspectu Dei,  et delectentur in lætitia. ",
       "hebrew_masoretic": "וְֽצַדִּיקִ֗ים יִשְׂמְח֣וּ יַ֭עַלְצוּ לִפְנֵ֥י אֱלֹהִ֗ים וְיָשִׂ֥ישׂוּ בְשִׂמְחָֽה׃",
+      "douay_rheims": "And let the just feast, and rejoice before God: and be delighted with gladness.",
+      "finnish_biblia": "Mutta vanhurskaat riemuitkaan ja iloitkaan Jumalan edessä, ja riemuitkaan ilossa. ",
       "king_james": "But let the righteous be glad; let them rejoice before God: yea, let them exceedingly rejoice.",
       "refs": {
         "latin_vulgate": {
@@ -44,6 +58,9 @@
         },
         "hebrew_masoretic": {
           "src": "68:4"
+        },
+        "douay_rheims": {
+          "src": "67:4"
         }
       }
     },
@@ -51,6 +68,8 @@
       "verse": 4,
       "latin_vulgate": " Cantate Deo ; psalmum dicite nomini ejus :  iter facite ei qui ascendit super occasum.  Dominus nomen illi ; exsultate in conspectu ejus.  Turbabuntur a facie ejus, ",
       "hebrew_masoretic": "שִׁ֤ירוּ ׀ לֵאלֹהִים֮ זַמְּר֢וּ שְׁ֫מ֥וֹ סֹ֡לּוּ לָרֹכֵ֣ב בָּ֭עֲרָבוֹת בְּיָ֥הּ שְׁמ֗וֹ וְעִלְז֥וּ לְפָנָֽיו׃",
+      "douay_rheims": "Sing ye to God, sing a psalm to his name, make a way for him who ascendeth upon the west: the Lord is his name. Rejoice ye before him: but the wicked shall be troubled at his presence,",
+      "finnish_biblia": "Veisatkaan Jumalalle, veisatkaat kiitosta hänen nimellensä; tehkäät hänelle tietä, joka istuu ylimmäisten taivasten päällä; hänen nimensä on Herra, ja iloitkaat hänen edessänsä. ",
       "king_james": "Sing unto God, sing praises to his name: extol him that rideth upon the heavens by his name Jah, and rejoice before him.",
       "refs": {
         "latin_vulgate": {
@@ -58,6 +77,9 @@
         },
         "hebrew_masoretic": {
           "src": "68:5"
+        },
+        "douay_rheims": {
+          "src": "67:5"
         }
       }
     },
@@ -65,6 +87,8 @@
       "verse": 5,
       "latin_vulgate": " patris orphanorum, et judicis viduarum ;  Deus in loco sancto suo. ",
       "hebrew_masoretic": "אֲבִ֣י יְ֭תוֹמִים וְדַיַּ֣ן אַלְמָנ֑וֹת אֱ֝לֹהִ֗ים בִּמְע֥וֹן קׇדְשֽׁוֹ׃",
+      "douay_rheims": "Who is the father of orphans, and the judge of widows. God in his holy place:",
+      "finnish_biblia": "Joka on orpoin isä ja leskein tuomari: hän on Jumala pyhässä asumisessansa. ",
       "king_james": "A father of the fatherless, and a judge of the widows, is God in his holy habitation.",
       "refs": {
         "latin_vulgate": {
@@ -72,6 +96,9 @@
         },
         "hebrew_masoretic": {
           "src": "68:6"
+        },
+        "douay_rheims": {
+          "src": "67:6"
         }
       }
     },
@@ -79,6 +106,8 @@
       "verse": 6,
       "latin_vulgate": " Deus qui inhabitare facit unius moris in domo ;  qui educit vinctos in fortitudine,  similiter eos qui exasperant, qui habitant in sepulchris. ",
       "hebrew_masoretic": "אֱלֹהִ֤ים ׀ מ֘וֹשִׁ֤יב יְחִידִ֨ים ׀ בַּ֗יְתָה מוֹצִ֣יא אֲ֭סִירִים בַּכּוֹשָׁר֑וֹת אַ֥ךְ ס֝וֹרְרִ֗ים שָׁכְנ֥וּ צְחִיחָֽה׃",
+      "douay_rheims": "God who maketh men of one manner to dwell in a house: Who bringeth out them that were bound in strength; in like manner them that provoke, that dwell in sepulchres.",
+      "finnish_biblia": "Jumala, joka yksinäisten antaa asua huoneessa, ja vie vangit ulos oikeudella; mutta vastahakoiset asuvat kuivassa. ",
       "king_james": "God setteth the solitary in families: he bringeth out those which are bound with chains: but the rebellious dwell in a dry land.",
       "refs": {
         "latin_vulgate": {
@@ -86,6 +115,9 @@
         },
         "hebrew_masoretic": {
           "src": "68:7"
+        },
+        "douay_rheims": {
+          "src": "67:7"
         }
       }
     },
@@ -93,6 +125,8 @@
       "verse": 7,
       "latin_vulgate": " Deus, cum egredereris in conspectu populi tui,  cum pertransires in deserto, ",
       "hebrew_masoretic": "אֱֽלֹהִ֗ים בְּ֭צֵאתְךָ לִפְנֵ֣י עַמֶּ֑ךָ בְּצַעְדְּךָ֖ בִישִׁימ֣וֹן סֶֽלָה׃",
+      "douay_rheims": "O God, when thou didst go forth in the sight of thy people, when thou didst pass through the desert:",
+      "finnish_biblia": "Jumala, koskas kävit kansas edellä, koskas vaelsit korvessa, Sela, ",
       "king_james": "O God, when thou wentest forth before thy people, when thou didst march through the wilderness; Selah:",
       "refs": {
         "latin_vulgate": {
@@ -100,6 +134,9 @@
         },
         "hebrew_masoretic": {
           "src": "68:8"
+        },
+        "douay_rheims": {
+          "src": "67:8"
         }
       }
     },
@@ -107,6 +144,8 @@
       "verse": 8,
       "latin_vulgate": " terra mota est, etenim cæli distillaverunt,  a facie Dei Sinai, a facie Dei Israël. ",
       "hebrew_masoretic": "אֶ֤רֶץ רָעָ֨שָׁה ׀ אַף־שָׁמַ֣יִם נָטְפוּ֮ מִפְּנֵ֢י אֱלֹ֫הִ֥ים זֶ֥ה סִינַ֑י מִפְּנֵ֥י אֱ֝לֹהִ֗ים אֱלֹהֵ֥י יִשְׂרָאֵֽל׃",
+      "douay_rheims": "The earth was moved, and the heavens dropped at the presence of the God of Sina, at the presence of the God of Israel.",
+      "finnish_biblia": "Niin maa vapisi ja taivaat tiukkuivat Jumalan edessä: tämä Sinai, Jumalan edessä, joka Israelin Jumala on. ",
       "king_james": "The earth shook, the heavens also dropped at the presence of God: even Sinai itself was moved at the presence of God, the God of Israel.",
       "refs": {
         "latin_vulgate": {
@@ -114,6 +153,9 @@
         },
         "hebrew_masoretic": {
           "src": "68:9"
+        },
+        "douay_rheims": {
+          "src": "67:9"
         }
       }
     },
@@ -121,6 +163,8 @@
       "verse": 9,
       "latin_vulgate": " Pluviam voluntariam segregabis, Deus, hæreditati tuæ ;  et infirmata est, tu vero perfecisti eam. ",
       "hebrew_masoretic": "גֶּ֣שֶׁם נְ֭דָבוֹת תָּנִ֣יף אֱלֹהִ֑ים נַחֲלָתְךָ֥ וְ֝נִלְאָ֗ה אַתָּ֥ה כוֹנַנְתָּֽהּ׃",
+      "douay_rheims": "Thou shalt set aside for thy inheritance a free rain, O God: and it was weakened, but thou hast made it perfect.",
+      "finnish_biblia": "Mutta nyt sinä, Jumala, annat armollisen sateen, ja virvoitat perimises, joka väsynyt on. ",
       "king_james": "Thou, O God, didst send a plentiful rain, whereby thou didst confirm thine inheritance, when it was weary.",
       "refs": {
         "latin_vulgate": {
@@ -128,6 +172,9 @@
         },
         "hebrew_masoretic": {
           "src": "68:10"
+        },
+        "douay_rheims": {
+          "src": "67:10"
         }
       }
     },
@@ -135,6 +182,8 @@
       "verse": 10,
       "latin_vulgate": " Animalia tua habitabunt in ea ;  parasti in dulcedine tua pauperi, Deus. ",
       "hebrew_masoretic": "חַיָּתְךָ֥ יָשְׁבוּ־בָ֑הּ תָּ֤כִֽין־בְּטוֹבָתְךָ֖ לֶֽעָנִ֣י אֱלֹהִֽים׃",
+      "douay_rheims": "In it shall thy animals dwell; in thy sweetness, O God, thou hast provided for the poor.",
+      "finnish_biblia": "Että sinun laumas siinä asuis: Jumala, sinä virvoitat hyvyydelläs raadolliset. ",
       "king_james": "Thy congregation hath dwelt therein: thou, O God, hast prepared of thy goodness for the poor.",
       "refs": {
         "latin_vulgate": {
@@ -142,6 +191,9 @@
         },
         "hebrew_masoretic": {
           "src": "68:11"
+        },
+        "douay_rheims": {
+          "src": "67:11"
         }
       }
     },
@@ -149,6 +201,8 @@
       "verse": 11,
       "latin_vulgate": " Dominus dabit verbum evangelizantibus, virtute multa. ",
       "hebrew_masoretic": "אֲדֹנָ֥י יִתֶּן־אֹ֑מֶר הַֽ֝מְבַשְּׂר֗וֹת צָבָ֥א רָֽב׃",
+      "douay_rheims": "The Lord shall give the word to them that preach good tidings with great power.",
+      "finnish_biblia": "Herra antaa sanan suurella evankelistain joukolla. ",
       "king_james": "The Lord gave the word: great was the company of those that published it.",
       "refs": {
         "latin_vulgate": {
@@ -156,6 +210,9 @@
         },
         "hebrew_masoretic": {
           "src": "68:12"
+        },
+        "douay_rheims": {
+          "src": "67:12"
         }
       }
     },
@@ -163,6 +220,8 @@
       "verse": 12,
       "latin_vulgate": " Rex virtutum dilecti, dilecti ;  et speciei domus dividere spolia. ",
       "hebrew_masoretic": "מַלְכֵ֣י צְ֭בָאוֹת יִדֹּד֣וּן יִדֹּד֑וּן וּנְוַת־בַּ֝֗יִת תְּחַלֵּ֥ק שָׁלָֽל׃",
+      "douay_rheims": "The king of powers is of the beloved, of the beloved; and the beauty of the house shall divide spoils.",
+      "finnish_biblia": "Sotaväen kuninkaat pakenevat, he pakenevat; ja kotona asuva jakaa saaliit. ",
       "king_james": "Kings of armies did flee apace: and she that tarried at home divided the spoil.",
       "refs": {
         "latin_vulgate": {
@@ -170,6 +229,9 @@
         },
         "hebrew_masoretic": {
           "src": "68:13"
+        },
+        "douay_rheims": {
+          "src": "67:13"
         }
       }
     },
@@ -177,6 +239,8 @@
       "verse": 13,
       "latin_vulgate": " Si dormiatis inter medios cleros,  pennæ columbæ deargentatæ,  et posteriora dorsi ejus in pallore auri. ",
       "hebrew_masoretic": "אִֽם־תִּשְׁכְּבוּן֮ בֵּ֤ין שְׁפַ֫תָּ֥יִם כַּנְפֵ֣י י֭וֹנָה נֶחְפָּ֣ה בַכֶּ֑סֶף וְ֝אֶבְרוֹתֶ֗יהָ בִּירַקְרַ֥ק חָרֽוּץ׃",
+      "douay_rheims": "If you sleep among the midst of lots, you shall be as the wings of a dove covered with silver, and the hinder parts of her back with the paleness of gold.",
+      "finnish_biblia": "Kuin te tarhain välissä makaatte, niin mettisen sulat ovat silatut hopialla, ja hänen siipensä ruskialla kullalla. ",
       "king_james": "Though ye have lien among the pots, yet shall ye be as the wings of a dove covered with silver, and her feathers with yellow gold.",
       "refs": {
         "latin_vulgate": {
@@ -184,6 +248,9 @@
         },
         "hebrew_masoretic": {
           "src": "68:14"
+        },
+        "douay_rheims": {
+          "src": "67:14"
         }
       }
     },
@@ -191,6 +258,8 @@
       "verse": 14,
       "latin_vulgate": " Dum discernit cælestis reges super eam,  nive dealbabuntur in Selmon. ",
       "hebrew_masoretic": "בְּפָ֘רֵ֤שׂ שַׁדַּ֓י מְלָ֘כִ֤ים בָּ֗הּ תַּשְׁלֵ֥ג בְּצַלְמֽוֹן׃",
+      "douay_rheims": "When he that is in heaven appointeth kings over her, they shall be whited with snow in Selmon.",
+      "finnish_biblia": "Kuin Kaikkivaltias siinä joka paikassa kuninkaat levittää, niin Zalmonissa valaisee kuin lumi. ",
       "king_james": "When the Almighty scattered kings in it, it was white as snow in Salmon.",
       "refs": {
         "latin_vulgate": {
@@ -198,6 +267,9 @@
         },
         "hebrew_masoretic": {
           "src": "68:15"
+        },
+        "douay_rheims": {
+          "src": "67:15"
         }
       }
     },
@@ -205,6 +277,8 @@
       "verse": 15,
       "latin_vulgate": " Mons Dei, mons pinguis :  mons coagulatus, mons pinguis. ",
       "hebrew_masoretic": "הַר־אֱ֭לֹהִים הַר־בָּשָׁ֑ן הַ֥ר גַּ֝בְנֻנִּ֗ים הַר־בָּשָֽׁן׃",
+      "douay_rheims": "The mountain of God is a fat mountain. A curdled mountain, a fat mountain.",
+      "finnish_biblia": "Jumalan vuori on hedelmällinen vuori: korkia vuori on se hedelmällinen vuori. ",
       "king_james": "The hill of God is as the hill of Bashan; an high hill as the hill of Bashan.",
       "refs": {
         "latin_vulgate": {
@@ -212,6 +286,9 @@
         },
         "hebrew_masoretic": {
           "src": "68:16"
+        },
+        "douay_rheims": {
+          "src": "67:16"
         }
       }
     },
@@ -219,6 +296,8 @@
       "verse": 16,
       "latin_vulgate": " Ut quid suspicamini, montes coagulatos ?  mons in quo beneplacitum est Deo habitare in eo ;  etenim Dominus habitabit in finem. ",
       "hebrew_masoretic": "לָ֤מָּה ׀ תְּֽרַצְּדוּן֮ הָרִ֢ים גַּבְנֻ֫נִּ֥ים הָהָ֗ר חָמַ֣ד אֱלֹהִ֣ים לְשִׁבְתּ֑וֹ אַף־יְ֝הֹוָ֗ה יִשְׁכֹּ֥ן לָנֶֽצַח׃",
+      "douay_rheims": "Why suspect, ye curdled mountains? A mountain in which God is well pleased to dwell: for there the Lord shall dwell unto the end.",
+      "finnish_biblia": "Miksi te, suuret vuoret, kippaatte? Tämä on Jumalan vuori, jossa hän mielistyy asumaan; ja Herra asuu siellä ijankaikkisesti. ",
       "king_james": "Why leap ye, ye high hills? this is the hill which God desireth to dwell in; yea, the Lord will dwell in it for ever.",
       "refs": {
         "latin_vulgate": {
@@ -226,6 +305,9 @@
         },
         "hebrew_masoretic": {
           "src": "68:17"
+        },
+        "douay_rheims": {
+          "src": "67:17"
         }
       }
     },
@@ -233,6 +315,8 @@
       "verse": 17,
       "latin_vulgate": " Currus Dei decem millibus multiplex, millia lætantium ;  Dominus in eis in Sina, in sancto. ",
       "hebrew_masoretic": "רֶ֤כֶב אֱלֹהִ֗ים רִבֹּתַ֣יִם אַלְפֵ֣י שִׁנְאָ֑ן אֲדֹנָ֥י בָֿ֝֗ם סִינַ֥י בַּקֹּֽדֶשׁ׃",
+      "douay_rheims": "The chariot of God is attended by ten thousands; thousands of them that rejoice: the Lord is among them in Sina, in the holy place.",
+      "finnish_biblia": "Jumalan rattaita on monta tuhatta kertaa tuhatta: Herra on heissä, pyhässä Sinaissa. ",
       "king_james": "The chariots of God are twenty thousand, even thousands of angels: the Lord is among them, as in Sinai, in the holy place.",
       "refs": {
         "latin_vulgate": {
@@ -240,6 +324,9 @@
         },
         "hebrew_masoretic": {
           "src": "68:18"
+        },
+        "douay_rheims": {
+          "src": "67:18"
         }
       }
     },
@@ -247,6 +334,8 @@
       "verse": 18,
       "latin_vulgate": " Ascendisti in altum, cepisti captivitatem,  accepisti dona in hominibus ;  etenim non credentes inhabitare Dominum Deum. ",
       "hebrew_masoretic": "עָ֘לִ֤יתָ לַמָּר֨וֹם ׀ שָׁ֘בִ֤יתָ שֶּׁ֗בִי לָקַ֣חְתָּ מַ֭תָּנוֹת בָּאָדָ֑ם וְאַ֥ף ס֝וֹרְרִ֗ים לִשְׁכֹּ֤ן ׀ יָ֬הּ אֱלֹהִֽים׃",
+      "douay_rheims": "Thou hast ascended on high, thou hast led captivity captive; thou hast received gifts in men. Yea for those also that do not believe, the dwelling of the Lord God.",
+      "finnish_biblia": "Sinä astuit ylös korkeuteen, ja olet vangiksi ottanut vankeuden. Sinä olet lahjoja saanut ihmisille: vastahakoiset myös, että Herra Jumala siellä kumminkin asuu. ",
       "king_james": "Thou hast ascended on high, thou hast led captivity captive: thou hast received gifts for men; yea, for the rebellious also, that the Lord God might dwell among them.",
       "refs": {
         "latin_vulgate": {
@@ -254,6 +343,9 @@
         },
         "hebrew_masoretic": {
           "src": "68:19"
+        },
+        "douay_rheims": {
+          "src": "67:19"
         }
       }
     },
@@ -261,6 +353,8 @@
       "verse": 19,
       "latin_vulgate": " Benedictus Dominus die quotidie :  prosperum iter faciet nobis Deus salutarium nostrorum. ",
       "hebrew_masoretic": "בָּ֤ר֣וּךְ אֲדֹנָי֮ י֤וֹם ׀ י֥֫וֹם יַעֲמׇס־לָ֗נוּ הָ֘אֵ֤ל יְֽשׁוּעָתֵ֬נוּ סֶֽלָה׃",
+      "douay_rheims": "Blessed be the Lord day by day: the God of our salvation will make our journey prosperous to us.",
+      "finnish_biblia": "Kiitetty olkoon Herra joka päivä! Jumala panee kuorman meidän päällemme; mutta hän myös auttaa meitä, Sela! ",
       "king_james": "Blessed be the Lord, who daily loadeth us with benefits, even the God of our salvation. Selah.",
       "refs": {
         "latin_vulgate": {
@@ -268,6 +362,9 @@
         },
         "hebrew_masoretic": {
           "src": "68:20"
+        },
+        "douay_rheims": {
+          "src": "67:20"
         }
       }
     },
@@ -275,6 +372,8 @@
       "verse": 20,
       "latin_vulgate": " Deus noster, Deus salvos faciendi ;  et Domini, Domini exitus mortis. ",
       "hebrew_masoretic": "הָ֤אֵ֣ל ׀ לָנוּ֮ אֵ֤ל לְֽמ֫וֹשָׁע֥וֹת וְלֵיהֹוִ֥ה אֲדֹנָ֑י לַ֝מָּ֗וֶת תֹּצָאֽוֹת׃",
+      "douay_rheims": "Our God is the God of salvation: and of the Lord, of the Lord are the issues from death.",
+      "finnish_biblia": "Meillä on Jumala, Jumala, joka auttaa, ja Herra, Herra, joka kuolemasta vapahtaa. ",
       "king_james": "He that is our God is the God of salvation; and unto God the Lord belong the issues from death.",
       "refs": {
         "latin_vulgate": {
@@ -282,6 +381,9 @@
         },
         "hebrew_masoretic": {
           "src": "68:21"
+        },
+        "douay_rheims": {
+          "src": "67:21"
         }
       }
     },
@@ -289,6 +391,8 @@
       "verse": 21,
       "latin_vulgate": " Verumtamen Deus confringet capita inimicorum suorum,  verticem capilli perambulantium in delictis suis. ",
       "hebrew_masoretic": "אַךְ־אֱלֹהִ֗ים יִמְחַץ֮ רֹ֤אשׁ אֹ֫יְבָ֥יו קׇדְקֹ֥ד שֵׂעָ֑ר מִ֝תְהַלֵּ֗ךְ בַּאֲשָׁמָֽיו׃",
+      "douay_rheims": "But God shall break the heads of his enemies: the hairy crown of them that walk on in their sins.",
+      "finnish_biblia": "Mutta Jumala särkee vihollistensa pään heidän päänlakeinsa kanssa, jotka pysyvät heidän synneissänsä. ",
       "king_james": "But God shall wound the head of his enemies, and the hairy scalp of such an one as goeth on still in his trespasses.",
       "refs": {
         "latin_vulgate": {
@@ -296,6 +400,9 @@
         },
         "hebrew_masoretic": {
           "src": "68:22"
+        },
+        "douay_rheims": {
+          "src": "67:22"
         }
       }
     },
@@ -303,6 +410,8 @@
       "verse": 22,
       "latin_vulgate": " Dixit Dominus : Ex Basan convertam,  convertam in profundum maris : ",
       "hebrew_masoretic": "אָמַ֣ר אֲ֭דֹנָי מִבָּשָׁ֣ן אָשִׁ֑יב אָ֝שִׁ֗יב מִֽמְּצֻל֥וֹת יָֽם׃",
+      "douay_rheims": "The Lord said: I will turn them from Basan, I will turn them into the depth of the sea:",
+      "finnish_biblia": "Herra sanoo: minä palautan (muutamat) lihavista; meren syvyydestä minä heitä palautan, ",
       "king_james": "The Lord said, I will bring again from Bashan, I will bring my people again from the depths of the sea:",
       "refs": {
         "latin_vulgate": {
@@ -310,6 +419,9 @@
         },
         "hebrew_masoretic": {
           "src": "68:23"
+        },
+        "douay_rheims": {
+          "src": "67:23"
         }
       }
     },
@@ -317,6 +429,8 @@
       "verse": 23,
       "latin_vulgate": " ut intingatur pes tuus in sanguine ;  lingua canum tuorum ex inimicis, ab ipso. ",
       "hebrew_masoretic": "לְמַ֤עַן ׀ תִּ֥מְחַ֥ץ רַגְלְךָ֗ בְּ֫דָ֥ם לְשׁ֥וֹן כְּלָבֶ֑יךָ מֵאֹיְבִ֥ים מִנֵּֽהוּ׃",
+      "douay_rheims": "That thy foot may be dipped in the blood of thy enemies; the tongue of thy dogs be red with the same.",
+      "finnish_biblia": "Että sinun jalkas tulis painetuksi veressä, ja koirais kieli sinun vihollisistas. ",
       "king_james": "That thy foot may be dipped in the blood of thine enemies, and the tongue of thy dogs in the same.",
       "refs": {
         "latin_vulgate": {
@@ -324,6 +438,9 @@
         },
         "hebrew_masoretic": {
           "src": "68:24"
+        },
+        "douay_rheims": {
+          "src": "67:24"
         }
       }
     },
@@ -331,6 +448,8 @@
       "verse": 24,
       "latin_vulgate": " Viderunt ingressus tuos, Deus,  ingressus Dei mei, regis mei, qui est in sancto. ",
       "hebrew_masoretic": "רָא֣וּ הֲלִיכוֹתֶ֣יךָ אֱלֹהִ֑ים הֲלִ֘יכ֤וֹת אֵלִ֖י מַלְכִּ֣י בַקֹּֽדֶשׁ׃",
+      "douay_rheims": "They have seen thy goings, O God, the goings of my God: of my king who is in his sanctuary.",
+      "finnish_biblia": "He näkivät, Jumala, kuinkas vaellat; kuinkas, minun Jumalani ja kuninkaani, pyhässä vaellat: ",
       "king_james": "They have seen thy goings, O God; even the goings of my God, my King, in the sanctuary.",
       "refs": {
         "latin_vulgate": {
@@ -338,6 +457,9 @@
         },
         "hebrew_masoretic": {
           "src": "68:25"
+        },
+        "douay_rheims": {
+          "src": "67:25"
         }
       }
     },
@@ -345,6 +467,8 @@
       "verse": 25,
       "latin_vulgate": " Prævenerunt principes conjuncti psallentibus,  in medio juvencularum tympanistriarum. ",
       "hebrew_masoretic": "קִדְּמ֣וּ שָׁ֭רִים אַחַ֣ר נֹגְנִ֑ים בְּת֥וֹךְ עֲ֝לָמ֗וֹת תּוֹפֵפֽוֹת׃",
+      "douay_rheims": "Princes went before joined with singers, in the midst of young damsels playing on timbrels.",
+      "finnish_biblia": "Laulajat käyvät edellä, ja sitte leikarit piikain seassa, jotka kanteleita soittavat. ",
       "king_james": "The singers went before, the players on instruments followed after; among them were the damsels playing with timbrels.",
       "refs": {
         "latin_vulgate": {
@@ -352,6 +476,9 @@
         },
         "hebrew_masoretic": {
           "src": "68:26"
+        },
+        "douay_rheims": {
+          "src": "67:26"
         }
       }
     },
@@ -359,6 +486,8 @@
       "verse": 26,
       "latin_vulgate": " In ecclesiis benedicite Deo Domino de fontibus Israël. ",
       "hebrew_masoretic": "בְּֽ֭מַקְהֵלוֹת בָּרְכ֣וּ אֱלֹהִ֑ים אֲ֝דֹנָ֗י מִמְּק֥וֹר יִשְׂרָאֵֽל׃",
+      "douay_rheims": "In the churches bless ye God the Lord, from the fountains of Israel.",
+      "finnish_biblia": "Kiittäkäät Herraa Jumalaa seurakunnissa, te Israelin lähteestä. ",
       "king_james": "Bless ye God in the congregations, even the Lord, from the fountain of Israel.",
       "refs": {
         "latin_vulgate": {
@@ -366,6 +495,9 @@
         },
         "hebrew_masoretic": {
           "src": "68:27"
+        },
+        "douay_rheims": {
+          "src": "67:27"
         }
       }
     },
@@ -373,6 +505,8 @@
       "verse": 27,
       "latin_vulgate": " Ibi Benjamin adolescentulus, in mentis excessu ;  principes Juda, duces eorum ;  principes Zabulon, principes Nephthali. ",
       "hebrew_masoretic": "שָׁ֤ם בִּנְיָמִ֨ן ׀ צָעִ֡יר רֹדֵ֗ם שָׂרֵ֣י יְ֭הוּדָה רִגְמָתָ֑ם שָׂרֵ֥י זְ֝בֻל֗וּן שָׂרֵ֥י נַפְתָּלִֽי׃",
+      "douay_rheims": "There is Benjamin a youth, in ecstasy of mind. The princes of Juda are their leaders: the princes of Zabulon, the princes of Nephthali.",
+      "finnish_biblia": "Siellä hallitsee heitä vähä Benjamin, Juudan päämiehet joukkoinensa, Zebulonin päämiehet, Naphtalin päämiehet. ",
       "king_james": "There is little Benjamin with their ruler, the princes of Judah and their council, the princes of Zebulun, and the princes of Naphtali.",
       "refs": {
         "latin_vulgate": {
@@ -380,6 +514,9 @@
         },
         "hebrew_masoretic": {
           "src": "68:28"
+        },
+        "douay_rheims": {
+          "src": "67:28"
         }
       }
     },
@@ -387,6 +524,8 @@
       "verse": 28,
       "latin_vulgate": " Manda, Deus, virtuti tuæ ;  confirma hoc, Deus, quod operatus es in nobis. ",
       "hebrew_masoretic": "צִוָּ֥ה אֱלֹהֶ֗יךָ עֻ֫זֶּ֥ךָ עוּזָּ֥ה אֱלֹהִ֑ים ז֝֗וּ פָּעַ֥לְתָּ לָּֽנוּ׃",
+      "douay_rheims": "Command thy strength, O God confirm, O God, what thou hast wrought in us.",
+      "finnish_biblia": "Sinun Jumalas on käskenyt sinun olla väkevän: vahvista Jumala se, minkä sinä meissä tehnyt olet. ",
       "king_james": "Thy God hath commanded thy strength: strengthen, O God, that which thou hast wrought for us.",
       "refs": {
         "latin_vulgate": {
@@ -394,6 +533,9 @@
         },
         "hebrew_masoretic": {
           "src": "68:29"
+        },
+        "douay_rheims": {
+          "src": "67:29"
         }
       }
     },
@@ -401,6 +543,8 @@
       "verse": 29,
       "latin_vulgate": " A templo tuo in Jerusalem,  tibi offerent reges munera. ",
       "hebrew_masoretic": "מֵ֭הֵיכָלֶךָ עַל־יְרוּשָׁלָ֑͏ִם לְךָ֤ יוֹבִ֖ילוּ מְלָכִ֣ים שָֽׁי׃",
+      "douay_rheims": "From thy temple in Jerusalem, kings shall offer presents to thee.",
+      "finnish_biblia": "Sinun templis tähden, joka on Jerusalemissa, pitää kuninkaat sinulle lahjoja viemän. ",
       "king_james": "Because of thy temple at Jerusalem shall kings bring presents unto thee.",
       "refs": {
         "latin_vulgate": {
@@ -408,6 +552,9 @@
         },
         "hebrew_masoretic": {
           "src": "68:30"
+        },
+        "douay_rheims": {
+          "src": "67:30"
         }
       }
     },
@@ -415,6 +562,8 @@
       "verse": 30,
       "latin_vulgate": " Increpa feras arundinis ;  congregatio taurorum in vaccis populorum :  ut excludant eos qui probati sunt argento.  Dissipa gentes quæ bella volunt. ",
       "hebrew_masoretic": "גְּעַ֨ר חַיַּ֪ת קָנֶ֡ה עֲדַ֤ת אַבִּירִ֨ים ׀ בְּעֶגְלֵ֬י עַמִּ֗ים מִתְרַפֵּ֥ס בְּרַצֵּי־כָ֑סֶף בִּזַּ֥ר עַ֝מִּ֗ים קְרָב֥וֹת יֶחְפָּֽצוּ׃",
+      "douay_rheims": "Rebuke the wild beasts of the reeds, the congregation of bulls with the kine of the people; who seek to exclude them who are tried with silver. Scatter thou the nations that delight in wars:",
+      "finnish_biblia": "Nuhtele ruovon petoa, härkäin laumaa kansain vasikkain kanssa, jotka kumartaen tuovat hopeakankeja: hajoittanut on hän kansat, jotka mielellänsä sotivat. ",
       "king_james": "Rebuke the company of spearmen, the multitude of the bulls, with the calves of the people, till every one submit himself with pieces of silver: scatter thou the people that delight in war.",
       "refs": {
         "latin_vulgate": {
@@ -422,6 +571,9 @@
         },
         "hebrew_masoretic": {
           "src": "68:31"
+        },
+        "douay_rheims": {
+          "src": "67:31"
         }
       }
     },
@@ -429,6 +581,8 @@
       "verse": 31,
       "latin_vulgate": " Venient legati ex Ægypto ;  Æthiopia præveniet manus ejus Deo. ",
       "hebrew_masoretic": "יֶאֱתָ֣יוּ חַ֭שְׁמַנִּים מִנִּ֣י מִצְרָ֑יִם כּ֥וּשׁ תָּרִ֥יץ יָ֝דָ֗יו לֵאלֹהִֽים׃",
+      "douay_rheims": "Ambassadors shall come out of Egypt: Ethiopia shall soon stretch out her hands to God.",
+      "finnish_biblia": "Egyptin päämiehet tulevat: Etiopia ojentaa käsiänsä Jumalalle. ",
       "king_james": "Princes shall come out of Egypt; Ethiopia shall soon stretch out her hands unto God.",
       "refs": {
         "latin_vulgate": {
@@ -436,6 +590,9 @@
         },
         "hebrew_masoretic": {
           "src": "68:32"
+        },
+        "douay_rheims": {
+          "src": "67:32"
         }
       }
     },
@@ -443,6 +600,8 @@
       "verse": 32,
       "latin_vulgate": " Regna terræ, cantate Deo ;  psallite Domino ; psallite Deo. ",
       "hebrew_masoretic": "מַמְלְכ֣וֹת הָ֭אָרֶץ שִׁ֣ירוּ לֵאלֹהִ֑ים זַמְּר֖וּ אֲדֹנָ֣י סֶֽלָה׃",
+      "douay_rheims": "Sing to God, ye kingdoms of the earth: sing ye to the Lord: Sing ye to God,",
+      "finnish_biblia": "Te maan valtakunnat, veisatkaat Jumalalle, veisatkaat kiitosta Herralle, Sela! ",
       "king_james": "Sing unto God, ye kingdoms of the earth; O sing praises unto the Lord; Selah:",
       "refs": {
         "latin_vulgate": {
@@ -450,6 +609,9 @@
         },
         "hebrew_masoretic": {
           "src": "68:33"
+        },
+        "douay_rheims": {
+          "src": "67:33"
         }
       }
     },
@@ -457,6 +619,8 @@
       "verse": 33,
       "latin_vulgate": " Qui ascendit super cælum cæli, ad orientem :  ecce dabit voci suæ vocem virtutis. ",
       "hebrew_masoretic": "לָ֭רֹכֵב בִּשְׁמֵ֣י שְׁמֵי־קֶ֑דֶם הֵ֥ן יִתֵּ֥ן בְּ֝קוֹל֗וֹ ק֣וֹל עֹֽז׃",
+      "douay_rheims": "Who mounteth above the heaven of heavens, to the east. Behold he will give to his voice the voice of power:",
+      "finnish_biblia": "Sille joka asuu taivaissa joka paikassa, hamasta alusta: katso, hän antaa jylinälle voiman. ",
       "king_james": "To him that rideth upon the heavens of heavens, which were of old; lo, he doth send out his voice, and that a mighty voice.",
       "refs": {
         "latin_vulgate": {
@@ -464,6 +628,9 @@
         },
         "hebrew_masoretic": {
           "src": "68:34"
+        },
+        "douay_rheims": {
+          "src": "67:34"
         }
       }
     },
@@ -471,6 +638,8 @@
       "verse": 34,
       "latin_vulgate": " Date gloriam Deo super Israël ;  magnificentia ejus et virtus ejus in nubibus. ",
       "hebrew_masoretic": "תְּנ֥וּ עֹ֗ז לֵאלֹ֫הִ֥ים עַֽל־יִשְׂרָאֵ֥ל גַּאֲוָת֑וֹ וְ֝עֻזּ֗וֹ בַּשְּׁחָקִֽים׃",
+      "douay_rheims": "Give ye glory to God for Israel, his magnificence, and his power is in the clouds.",
+      "finnish_biblia": "Antakaat Jumalalle voima: hänen herrautensa on Israelissa, ja hänen voimansa pilvissä. ",
       "king_james": "Ascribe ye strength unto God: his excellency is over Israel, and his strength is in the clouds.",
       "refs": {
         "latin_vulgate": {
@@ -478,6 +647,9 @@
         },
         "hebrew_masoretic": {
           "src": "68:35"
+        },
+        "douay_rheims": {
+          "src": "67:35"
         }
       }
     },
@@ -485,6 +657,8 @@
       "verse": 35,
       "latin_vulgate": " Mirabilis Deus in sanctis suis ;  Deus Israël ipse dabit virtutem et fortitudinem plebi suæ.  Benedictus Deus !  ",
       "hebrew_masoretic": "נ֤וֹרָ֥א אֱלֹהִ֗ים מִֽמִּקְדָּ֫שֶׁ֥יךָ אֵ֤ל יִשְׂרָאֵ֗ל ה֤וּא נֹתֵ֨ן ׀ עֹ֖ז וְתַעֲצֻמ֥וֹת לָעָ֗ם בָּר֥וּךְ אֱלֹהִֽים׃ {פ}",
+      "douay_rheims": "God is wonderful in his saints: the God of Israel is he who will give power and strength to his people. Blessed be God. ",
+      "finnish_biblia": "Jumala on ihmeellinen pyhässänsä, hän on Israelin Jumala: hän antaa kansalle väen ja voiman: kiitetty olkoon Jumala!   ",
       "king_james": "O God, thou art terrible out of thy holy places: the God of Israel is he that giveth strength and power unto his people. Blessed be God. ",
       "refs": {
         "latin_vulgate": {
@@ -492,6 +666,9 @@
         },
         "hebrew_masoretic": {
           "src": "68:36"
+        },
+        "douay_rheims": {
+          "src": "67:36"
         }
       }
     }

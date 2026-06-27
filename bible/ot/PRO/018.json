@@ -2,6 +2,8 @@
   "book_id": "PRO",
   "latin_name": "Liber Proverbiorum",
   "hebrew_name": "מִשְׁלֵי",
+  "douay_name": "Proverbs",
+  "finnish_name": "Sananlaskut",
   "english_name": "Proverbs",
   "chapter": 18,
   "verses": [
@@ -9,144 +11,192 @@
       "verse": 1,
       "latin_vulgate": "Occasiones quærit qui vult recedere ab amico :  omni tempore erit exprobrabilis. ",
       "hebrew_masoretic": "לְֽ֭תַאֲוָה יְבַקֵּ֣שׁ נִפְרָ֑ד בְּכׇל־תּ֝וּשִׁיָּ֗ה יִתְגַּלָּֽע׃",
+      "douay_rheims": "He that hath a mind to depart from a friend, seeketh occasions: he shall ever be subject to reproach.",
+      "finnish_biblia": "Eripurainen etsii mitä hänelle kelpaa, ja sekoittaa itsensä kaikkiin asioihin. ",
       "king_james": "Through desire a man, having separated himself, seeketh and intermeddleth with all wisdom."
     },
     {
       "verse": 2,
       "latin_vulgate": " Non recipit stultus verba prudentiæ,  nisi ea dixeris quæ versantur in corde ejus. ",
       "hebrew_masoretic": "לֹא־יַחְפֹּ֣ץ כְּ֭סִיל בִּתְבוּנָ֑ה כִּ֝֗י אִֽם־בְּהִתְגַּלּ֥וֹת לִבּֽוֹ׃",
+      "douay_rheims": "A fool receiveth not the words of prudence: unless thou say those things which are in his heart.",
+      "finnish_biblia": "Tyhmällä ei ole himo ymmärrykseen, vaan niitä ilmoittamaan, mitkä ovat hänen sydämessänsä. ",
       "king_james": "A fool hath no delight in understanding, but that his heart may discover itself."
     },
     {
       "verse": 3,
       "latin_vulgate": " Impius, cum in profundum venerit peccatorum, contemnit ;  sed sequitur eum ignominia et opprobrium. ",
       "hebrew_masoretic": "בְּֽבוֹא־רָ֭שָׁע בָּ֣א גַם־בּ֑וּז וְֽעִם־קָל֥וֹן חֶרְפָּֽה׃",
+      "douay_rheims": "The wicked man, when he is come into the depths of sins, contemneth: but ignominy and reproach follow him.",
+      "finnish_biblia": "Jumalattoman tullessa tulee ylönkatse, pilkka ja häpiä. ",
       "king_james": "When the wicked cometh, then cometh also contempt, and with ignominy reproach."
     },
     {
       "verse": 4,
       "latin_vulgate": " Aqua profunda verba ex ore viri,  et torrens redundans fons sapientiæ. ",
       "hebrew_masoretic": "מַ֣יִם עֲ֭מֻקִּים דִּבְרֵ֣י פִי־אִ֑ישׁ נַ֥חַל נֹ֝בֵ֗עַ מְק֣וֹר חׇכְמָֽה׃",
+      "douay_rheims": "Words from the mouth of a man are as deep water: and the fountain of wisdom is an overflowing stream.",
+      "finnish_biblia": "Sanat ihmisen suussa ovat niinkuin syvät vedet, ja viisauden lähde on täynnä virtaa. ",
       "king_james": "The words of a man’s mouth are as deep waters, and the wellspring of wisdom as a flowing brook."
     },
     {
       "verse": 5,
       "latin_vulgate": " Accipere personam impii non est bonum,  ut declines a veritate judicii. ",
       "hebrew_masoretic": "שְׂאֵ֣ת פְּנֵי־רָשָׁ֣ע לֹא־ט֑וֹב לְהַטּ֥וֹת צַ֝דִּ֗יק בַּמִּשְׁפָּֽט׃",
+      "douay_rheims": "It is not good to accept the person of the wicked, to decline from the truth of judgment.",
+      "finnish_biblia": "Ei ole hyvä katsoa jumalattomain muotoa, ja sortaa vanhurskasta tuomiossa. ",
       "king_james": "It is not good to accept the person of the wicked, to overthrow the righteous in judgment."
     },
     {
       "verse": 6,
       "latin_vulgate": " Labia stulti miscent se rixis,  et os ejus jurgia provocat. ",
       "hebrew_masoretic": "שִׂפְתֵ֣י כְ֭סִיל יָבֹ֣אוּ בְרִ֑יב וּ֝פִ֗יו לְֽמַהֲלֻמ֥וֹת יִקְרָֽא׃",
+      "douay_rheims": "The lips of a fool intermeddle with strife: and his mouth provoketh quarrels.",
+      "finnish_biblia": "Tyhmän huulet saattavat toran, ja hänen suunsa noudattaa haavoja. ",
       "king_james": "A fool’s lips enter into contention, and his mouth calleth for strokes."
     },
     {
       "verse": 7,
       "latin_vulgate": " Os stulti contritio ejus,  et labia ipsius ruina animæ ejus. ",
       "hebrew_masoretic": "פִּֽי־כְ֭סִיל מְחִתָּה־ל֑וֹ וּ֝שְׂפָתָ֗יו מוֹקֵ֥שׁ נַפְשֽׁוֹ׃",
+      "douay_rheims": "The mouth of a fool is his destruction: and his lips are the ruin of his soul.",
+      "finnish_biblia": "Tyhmän suu häpäisee itsensä, ja hänen huulensa ovat paula omalle omalle sielulle. ",
       "king_james": "A fool’s mouth is his destruction, and his lips are the snare of his soul."
     },
     {
       "verse": 8,
       "latin_vulgate": " Verba bilinguis quasi simplicia,  et ipsa perveniunt usque ad interiora ventris.  Pigrum dejicit timor ;  animæ autem effeminatorum esurient. ",
       "hebrew_masoretic": "דִּבְרֵ֣י נִ֭רְגָּן כְּמִֽתְלַהֲמִ֑ים וְ֝הֵ֗ם יָרְד֥וּ חַדְרֵי־בָֽטֶן׃",
+      "douay_rheims": "The words of the double tongued are as if they were harmless: and they reach even to the inner parts of the bowels. Fear casteth down the slothful: and the souls of the effeminate shall be hungry.",
+      "finnish_biblia": "Panetteian sanat ovat haavat, ja käyvät läpi sydämen. ",
       "king_james": "The words of a talebearer are as wounds, and they go down into the innermost parts of the belly."
     },
     {
       "verse": 9,
       "latin_vulgate": " Qui mollis et dissolutus est in opere suo  frater est sua opera dissipantis. ",
       "hebrew_masoretic": "גַּ֭ם מִתְרַפֶּ֣ה בִמְלַאכְתּ֑וֹ אָ֥ח ה֝֗וּא לְבַ֣עַל מַשְׁחִֽית׃",
+      "douay_rheims": "He that is loose and slack in his work, is the brother of him that wasteth his own works.",
+      "finnish_biblia": "Joka laiska on työssänsä, hän on sen veli, joka vahinkoa tekee. ",
       "king_james": "He also that is slothful in his work is brother to him that is a great waster."
     },
     {
       "verse": 10,
       "latin_vulgate": " Turris fortissima nomen Domini ;  ad ipsum currit justus, et exaltabitur. ",
       "hebrew_masoretic": "מִגְדַּל־עֹ֭ז שֵׁ֣ם יְהֹוָ֑ה בּֽוֹ־יָר֖וּץ צַדִּ֣יק וְנִשְׂגָּֽב׃",
+      "douay_rheims": "The name of the Lord is a strong tower: the just runneth to it, and shall be exalted.",
+      "finnish_biblia": "Herran nimi on vahva linna: vanhurskas juoksee sinne, ja tulee varjelluksi. ",
       "king_james": "The name of the Lord is a strong tower: the righteous runneth into it, and is safe."
     },
     {
       "verse": 11,
       "latin_vulgate": " Substantia divitis urbs roboris ejus,  et quasi murus validus circumdans eum. ",
       "hebrew_masoretic": "ה֣וֹן עָ֭שִׁיר קִרְיַ֣ת עֻזּ֑וֹ וּכְחוֹמָ֥ה נִ֝שְׂגָּבָ֗ה בְּמַשְׂכִּתֽוֹ׃",
+      "douay_rheims": "The substance of the rich man is the city of his strength, and as a strong wall compassing him about.",
+      "finnish_biblia": "Rikkaan tavara on hänelle vahva kaupunki, ja niinkuin korkea muuri hänen mielestänsä. ",
       "king_james": "The rich man’s wealth is his strong city, and as an high wall in his own conceit."
     },
     {
       "verse": 12,
       "latin_vulgate": " Antequam conteratur, exaltatur cor hominis,  et antequam glorificetur, humiliatur. ",
       "hebrew_masoretic": "לִפְנֵי־שֶׁ֭בֶר יִגְבַּ֣הּ לֶב־אִ֑ישׁ וְלִפְנֵ֖י כָב֣וֹד עֲנָוָֽה׃",
+      "douay_rheims": "Before destruction, the heart of a man is exalted: and before he be glorified, it is humbled.",
+      "finnish_biblia": "Kuin joku lankee, niin hänen sydämensä ensisti tulee ylpiäksi, ja ennenkuin joku kunniaan tulee, pitää hänen nöyrän oleman.. ",
       "king_james": "Before destruction the heart of man is haughty, and before honour is humility."
     },
     {
       "verse": 13,
       "latin_vulgate": " Qui prius respondet quam audiat,  stultum se esse demonstrat, et confusione dignum. ",
       "hebrew_masoretic": "מֵשִׁ֣יב דָּ֭בָר בְּטֶ֣רֶם יִשְׁמָ֑ע אִוֶּ֥לֶת הִיא־ל֝֗וֹ וּכְלִמָּֽה׃",
+      "douay_rheims": "He that answereth before he heareth, sheweth himself to be a fool, and worthy of confusion.",
+      "finnish_biblia": "Joka vastaa ennekuin hän kuulee, se on hänelle hulluudeksi ja häpiäksi. ",
       "king_james": "He that answereth a matter before he heareth it, it is folly and shame unto him."
     },
     {
       "verse": 14,
       "latin_vulgate": " Spiritus viri sustentat imbecillitatem suam ;  spiritum vero ad irascendum facilem quis poterit sustinere ? ",
       "hebrew_masoretic": "רֽוּחַ־אִ֭ישׁ יְכַלְכֵּ֣ל מַחֲלֵ֑הוּ וְר֥וּחַ נְ֝כֵאָ֗ה מִ֣י יִשָּׂאֶֽנָּה׃",
+      "douay_rheims": "The spirit of a man upholdeth his infirmity: but a spirit that is easily angered, who can bear?",
+      "finnish_biblia": "Ihmisen henki pitää ylös hänen heikkoutensa; vaan murheellista henkeä kuka voi kärsiä? ",
       "king_james": "The spirit of a man will sustain his infirmity; but a wounded spirit who can bear?"
     },
     {
       "verse": 15,
       "latin_vulgate": " Cor prudens possidebit scientiam,  et auris sapientium quærit doctrinam. ",
       "hebrew_masoretic": "לֵ֣ב נָ֭בוֹן יִקְנֶה־דָּ֑עַת וְאֹ֥זֶן חֲ֝כָמִ֗ים תְּבַקֶּשׁ־דָּֽעַת׃",
+      "douay_rheims": "A wise heart shall acquire knowledge: and the ear of the wise seeketh instruction.",
+      "finnish_biblia": "Ymmärtäväinen sydän saa viisauden, ja viisasten korva etsii taitoa. ",
       "king_james": "The heart of the prudent getteth knowledge; and the ear of the wise seeketh knowledge."
     },
     {
       "verse": 16,
       "latin_vulgate": " Donum hominis dilatat viam ejus,  et ante principes spatium ei facit. ",
       "hebrew_masoretic": "מַתָּ֣ן אָ֭דָם יַרְחִ֣יב ל֑וֹ וְלִפְנֵ֖י גְדֹלִ֣ים יַנְחֶֽנּוּ׃",
+      "douay_rheims": "A man's gift enlargeth his way, and maketh him room before princes.",
+      "finnish_biblia": "Ihmisen lahja tekee hänelle avaran sian, ja saattaa suurten herrain eteen. ",
       "king_james": "A man’s gift maketh room for him, and bringeth him before great men."
     },
     {
       "verse": 17,
       "latin_vulgate": " Justus prior est accusator sui :  venit amicus ejus, et investigabit eum. ",
       "hebrew_masoretic": "צַדִּ֣יק הָרִאשׁ֣וֹן בְּרִיב֑וֹ (יבא) [וּבָֽא־]רֵ֝עֵ֗הוּ וַחֲקָרֽוֹ׃",
+      "douay_rheims": "The just is first accuser of himself: his friend cometh, and shall search him.",
+      "finnish_biblia": "Jokaisella on ensisti omassa asiassansa oikeus; vaan kuin hänen lähimmäisensä tulee, niin se löydetäään. ",
       "king_james": "He that is first in his own cause seemeth just; but his neighbour cometh and searcheth him."
     },
     {
       "verse": 18,
       "latin_vulgate": " Contradictiones comprimit sors,  et inter potentes quoque dijudicat. ",
       "hebrew_masoretic": "מִ֭דְיָנִים יַשְׁבִּ֣ית הַגּוֹרָ֑ל וּבֵ֖ין עֲצוּמִ֣ים יַפְרִֽיד׃",
+      "douay_rheims": "The lot suppresseth contentions, and determineth even between the mighty.",
+      "finnish_biblia": "Arpa asettaa riidan, ja eroitaa voimallisten vaiheella. ",
       "king_james": "The lot causeth contentions to cease, and parteth between the mighty."
     },
     {
       "verse": 19,
       "latin_vulgate": " Frater qui adjuvatur a fratre quasi civitas firma,  et judicia quasi vectes urbium. ",
       "hebrew_masoretic": "אָ֗ח נִפְשָׁ֥ע מִקִּרְיַת־עֹ֑ז (ומדונים) [וּ֝מִדְיָנִ֗ים] כִּבְרִ֥יחַ אַרְמֽוֹן׃",
+      "douay_rheims": "A brother that is helped by his brother, is like a strong city: and judgments are like the bars of cities.",
+      "finnish_biblia": "Vihoitettu veli pitää puoltansa lujemmin kuin vahva kaupunki; ja riita pitää kovemmin puolensa kuin telki linnan edessä. ",
       "king_james": "A brother offended is harder to be won than a strong city: and their contentions are like the bars of a castle."
     },
     {
       "verse": 20,
       "latin_vulgate": " De fructu oris viri replebitur venter ejus,  et genimina labiorum ipsius saturabunt eum. ",
       "hebrew_masoretic": "מִפְּרִ֣י פִי־אִ֭ישׁ תִּשְׂבַּ֣ע בִּטְנ֑וֹ תְּבוּאַ֖ת שְׂפָתָ֣יו יִשְׂבָּֽע׃",
+      "douay_rheims": "Of the fruit of a man's mouth shall his belly be satisfied: and the offspring of his lips shall fill him.",
+      "finnish_biblia": "Sen jälkeen kullekin maksetaan, kuin hänen suunsa on puhunut; ja hän ravitaan huultensa hedelmästä. ",
       "king_james": "A man’s belly shall be satisfied with the fruit of his mouth; and with the increase of his lips shall he be filled."
     },
     {
       "verse": 21,
       "latin_vulgate": " Mors et vita in manu linguæ ;  qui diligunt eam comedent fructus ejus. ",
       "hebrew_masoretic": "מָ֣וֶת וְ֭חַיִּים בְּיַד־לָשׁ֑וֹן וְ֝אֹהֲבֶ֗יהָ יֹאכַ֥ל פִּרְיָֽהּ׃",
+      "douay_rheims": "Death and life are in the power of the tongue: they that love it, shall eat the fruits thereof.",
+      "finnish_biblia": "Kuolema ja elämä on kielen voimassa: joka häntä rakastaa, se saa syösä hänen hedelmästänsä. ",
       "king_james": "Death and life are in the power of the tongue: and they that love it shall eat the fruit thereof."
     },
     {
       "verse": 22,
       "latin_vulgate": " Qui invenit mulierem bonam invenit bonum,  et hauriet jucunditatem a Domino.  Qui expellit mulierem bonam expellit bonum ;  qui autem tenet adulteram stultus est et impius. ",
       "hebrew_masoretic": "מָצָ֣א אִ֭שָּׁה מָ֣צָא ט֑וֹב וַיָּ֥פֶק רָ֝צ֗וֹן מֵיְהֹוָֽה׃",
+      "douay_rheims": "He that hath found a good wife, hath found a good thing, and shall receive a pleasure from the Lord. He that driveth away a good wife, driveth away a good thing: but he that keepeth an adulteress, is foolish and wicked.",
+      "finnish_biblia": "Joka aviovaimon osaa, hän löytäää hyvän kappaleen, ja saa mielisuosionsa Herralta. ",
       "king_james": "Whoso findeth a wife findeth a good thing, and obtaineth favour of the Lord."
     },
     {
       "verse": 23,
       "latin_vulgate": " Cum obsecrationibus loquetur pauper,  et dives effabitur rigide. ",
       "hebrew_masoretic": "תַּחֲנוּנִ֥ים יְדַבֶּר־רָ֑שׁ וְ֝עָשִׁ֗יר יַעֲנֶ֥ה עַזּֽוֹת׃",
+      "douay_rheims": "The poor will speak with supplications, and the rich will speak roughly.",
+      "finnish_biblia": "Köyhä mies puhuu nöyrästi, vaan rikas vastaa ylpiästi. ",
       "king_james": "The poor useth intreaties; but the rich answereth roughly."
     },
     {
       "verse": 24,
       "latin_vulgate": " Vir amabilis ad societatem  magis amicus erit quam frater.  ",
       "hebrew_masoretic": "אִ֣ישׁ רֵ֭עִים לְהִתְרֹעֵ֑עַ וְיֵ֥שׁ אֹ֝הֵ֗ב דָּבֵ֥ק מֵאָֽח׃",
+      "douay_rheims": "A man amiable in society, shall be more friendly than a brother. ",
+      "finnish_biblia": "Ihminen, jolla on ystävä, pitää oleman ystävällinen; sillä ystävä pitää lujemmin hänen kanssansa kuin veli.   ",
       "king_james": "A man that hath friends must shew himself friendly: and there is a friend that sticketh closer than a brother. "
     }
   ]

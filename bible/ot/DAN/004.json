@@ -2,6 +2,8 @@
   "book_id": "DAN",
   "latin_name": "Daniel",
   "hebrew_name": "דָּנִיֵּאל",
+  "douay_name": "Daniel",
+  "finnish_name": "Daniel",
   "english_name": "Daniel",
   "chapter": 4,
   "verses": [
@@ -9,6 +11,8 @@
       "verse": 1,
       "latin_vulgate": " Nabuchodonosor rex, omnibus populis, gentibus, et linguis, qui habitant in universa terra, pax vobis multiplicetur. ",
       "hebrew_masoretic": "נְבוּכַדְנֶצַּ֣ר מַלְכָּ֗א לְֽכׇל־עַֽמְמַיָּ֞א אֻמַּיָּ֧א וְלִשָּׁנַיָּ֛א דִּֽי־[דָיְרִ֥ין] (דארין) בְּכׇל־אַרְעָ֖א שְׁלָמְכ֥וֹן יִשְׂגֵּֽא׃",
+      "douay_rheims": "Nabuchodonosor, the king, to all peoples, nations, and tongues, that dwell in all the earth, peace be multiplied unto you.",
+      "finnish_biblia": " Kuningas Nebukadnetsar kaikille kansoille, sukukunnille ja kielille, jotka asuvat kaikessa maassa: Teille olkoon paljon rauhaa! ",
       "king_james": "Nebuchadnezzar the king, unto all people, nations, and languages, that dwell in all the earth; Peace be multiplied unto you.",
       "refs": {
         "latin_vulgate": {
@@ -16,6 +20,9 @@
         },
         "hebrew_masoretic": {
           "src": "3:31"
+        },
+        "douay_rheims": {
+          "src": "3:98"
         }
       }
     },
@@ -23,6 +30,8 @@
       "verse": 2,
       "latin_vulgate": "Signa, et mirabilia fecit apud me Deus excelsus. Placuit ergo mihi prædicare ",
       "hebrew_masoretic": "אָֽתַיָּא֙ וְתִמְהַיָּ֔א דִּ֚י עֲבַ֣ד עִמִּ֔י אֱלָהָ֖א (עליא) [עִלָּאָ֑ה] שְׁפַ֥ר קׇֽדָמַ֖י לְהַחֲוָיָֽה׃",
+      "douay_rheims": "The most high God hath wrought signs and wonders towards me. It hath seemed good to me, therefore, to publish",
+      "finnish_biblia": " Minä näen sen hyväksi, että minä ilmoitan teille ne merkit ja ihmeet, jotka korkein Jumala minulle tehnyt on. ",
       "king_james": "I thought it good to shew the signs and wonders that the high God hath wrought toward me.",
       "refs": {
         "latin_vulgate": {
@@ -30,6 +39,9 @@
         },
         "hebrew_masoretic": {
           "src": "3:32"
+        },
+        "douay_rheims": {
+          "src": "3:99"
         }
       }
     },
@@ -37,6 +49,8 @@
       "verse": 3,
       "latin_vulgate": "signa ejus, quia magna sunt : et mirabilia ejus, quia fortia : et regnum ejus regnum sempiternum, et potestas ejus in generationem et generationem.   ",
       "hebrew_masoretic": "אָת֙וֹהִי֙ כְּמָ֣ה רַבְרְבִ֔ין וְתִמְה֖וֹהִי כְּמָ֣ה תַקִּיפִ֑ין מַלְכוּתֵהּ֙ מַלְכ֣וּת עָלַ֔ם וְשׇׁלְטָנֵ֖הּ עִם־דָּ֥ר וְדָֽר׃",
+      "douay_rheims": "His signs, because they are great: and his wonders, because they are mighty: and his kingdom is an everlasting kingdom, and his power to all generations. ",
+      "finnish_biblia": " Sillä hänen merkkinsä ovat suuret ja hänen ihmeensä voimalliset; hänen valtakuntansa on ijankaikkinen valtakunta, ja hänen valtansa pysyy suvusta sukuun. ",
       "king_james": "How great are his signs! and how mighty are his wonders! his kingdom is an everlasting kingdom, and his dominion is from generation to generation.",
       "refs": {
         "latin_vulgate": {
@@ -44,6 +58,9 @@
         },
         "hebrew_masoretic": {
           "src": "3:33"
+        },
+        "douay_rheims": {
+          "src": "3:100"
         }
       }
     },
@@ -51,12 +68,17 @@
       "verse": 4,
       "latin_vulgate": "Ego Nabuchodonosor quietus eram in domo mea, et florens in palatio meo : ",
       "hebrew_masoretic": "אֲנָ֣ה נְבוּכַדְנֶצַּ֗ר שְׁלֵ֤ה הֲוֵית֙ בְּבֵיתִ֔י וְרַעְנַ֖ן בְּהֵיכְלִֽי׃",
+      "douay_rheims": "I, Nabuchodonosor, was at rest in my house, and flourishing in my palace:",
+      "finnish_biblia": " Minä Nebukadnetsar, hyvässä levossa ollessani minun huoneessani, ja kuin kaikki hyvin oli minun linnassani, ",
       "king_james": "I Nebuchadnezzar was at rest in mine house, and flourishing in my palace:",
       "refs": {
         "latin_vulgate": {
           "src": "4:1"
         },
         "hebrew_masoretic": {
+          "src": "4:1"
+        },
+        "douay_rheims": {
           "src": "4:1"
         }
       }
@@ -65,12 +87,17 @@
       "verse": 5,
       "latin_vulgate": "somnium vidi, quod perterruit me : et cogitationes meæ in strato meo, et visiones capitis mei conturbaverunt me. ",
       "hebrew_masoretic": "חֵ֥לֶם חֲזֵ֖ית וִֽידַחֲלִנַּ֑נִי וְהַרְהֹרִין֙ עַֽל־מִשְׁכְּבִ֔י וְחֶזְוֵ֥י רֵאשִׁ֖י יְבַהֲלֻנַּֽנִי׃",
+      "douay_rheims": "I saw a dream that affrighted me: and my thoughts in my bed, and the visions of my head, troubled me.",
+      "finnish_biblia": " Näin unta, ja hämmästyin; ja ne ajatukset, jotka minulla olivat vuoteessani sen näyn tähden, saattivat minut murheelliseksi. ",
       "king_james": "I saw a dream which made me afraid, and the thoughts upon my bed and the visions of my head troubled me.",
       "refs": {
         "latin_vulgate": {
           "src": "4:2"
         },
         "hebrew_masoretic": {
+          "src": "4:2"
+        },
+        "douay_rheims": {
           "src": "4:2"
         }
       }
@@ -79,12 +106,17 @@
       "verse": 6,
       "latin_vulgate": "Et per me propositum est decretum ut introducerentur in conspectu meo cuncti sapientes Babylonis, et ut solutionem somnii indicarent mihi. ",
       "hebrew_masoretic": "וּמִנִּי֙ שִׂ֣ים טְעֵ֔ם לְהַנְעָלָ֣ה קׇֽדָמַ֔י לְכֹ֖ל חַכִּימֵ֣י בָבֶ֑ל דִּֽי־פְשַׁ֥ר חֶלְמָ֖א יְהֽוֹדְעֻנַּֽנִי׃",
+      "douay_rheims": "Then I set forth a decree, that all the wise men of Babylon should be brought in before me, and that they should shew me the interpretation of the dream.",
+      "finnish_biblia": " Ja minä käskin kaikki viisaat Babelista tuoda minun eteeni, sanomaan minulle, mitä se uni tietäis. ",
       "king_james": "Therefore made I a decree to bring in all the wise men of Babylon before me, that they might make known unto me the interpretation of the dream.",
       "refs": {
         "latin_vulgate": {
           "src": "4:3"
         },
         "hebrew_masoretic": {
+          "src": "4:3"
+        },
+        "douay_rheims": {
           "src": "4:3"
         }
       }
@@ -93,12 +125,17 @@
       "verse": 7,
       "latin_vulgate": "Tunc ingrediebantur arioli, magi, Chaldæi, et aruspices, et somnium narravi in conspectu eorum : et solutionem ejus non indicaverunt mihi, ",
       "hebrew_masoretic": "בֵּאדַ֣יִן (עללין) [עׇלִּ֗ין] חַרְטֻמַּיָּא֙ אָֽשְׁפַיָּ֔א (כשדיא) [כַּשְׂדָּאֵ֖י] וְגָזְרַיָּ֑א וְחֶלְמָ֗א אָמַ֤ר אֲנָה֙ קֳדָ֣מֵיה֔וֹן וּפִשְׁרֵ֖הּ לָא־מְהוֹדְעִ֥ין לִֽי׃",
+      "douay_rheims": "Then came in the diviners, the wise men, the Chaldeans, and the soothsayers, and I told the dream before them: but they did not shew me the interpretation thereof.",
+      "finnish_biblia": " Niin tulivat edes tähtientutkiat, viisaat, Kaldealaiset ja tietäjät, joiden edessä minä unen juttelin; vaan ei he taitaneet sen selitystä minulle ilmoittaa. ",
       "king_james": "Then came in the magicians, the astrologers, the Chaldeans, and the soothsayers: and I told the dream before them; but they did not make known unto me the interpretation thereof.",
       "refs": {
         "latin_vulgate": {
           "src": "4:4"
         },
         "hebrew_masoretic": {
+          "src": "4:4"
+        },
+        "douay_rheims": {
           "src": "4:4"
         }
       }
@@ -107,12 +144,17 @@
       "verse": 8,
       "latin_vulgate": "donec collega ingressus est in conspectu meo Daniel, cui nomen Baltassar secundum nomen dei mei, qui habet spiritum deorum sanctorum in semetipso : et somnium coram ipso locutus sum. ",
       "hebrew_masoretic": "וְעַ֣ד אׇחֳרֵ֡ין עַל֩ קׇֽדָמַ֨י דָּנִיֵּ֜אל דִּֽי־שְׁמֵ֤הּ בֵּלְטְשַׁאצַּר֙ כְּשֻׁ֣ם אֱלָהִ֔י וְדִ֛י רֽוּחַ־אֱלָהִ֥ין קַדִּישִׁ֖ין בֵּ֑הּ וְחֶלְמָ֖א קׇֽדָמ֥וֹהִי אַמְרֵֽת׃",
+      "douay_rheims": "Till their colleague, Daniel, came in before me, whose name is Baltassar, according to the name of my god, who hath in him the spirit of the holy gods: and I told the dream before him.",
+      "finnish_biblia": " Siihenasti että viimein Daniel tuli minun eteeni, joka minun Jumalani nimen jälkeen Belsatsariksi kutsutaan, jolla on pyhäin jumalain henki; ja minä juttelin hänelle unen. ",
       "king_james": "But at the last Daniel came in before me, whose name was Belteshazzar, according to the name of my god, and in whom is the spirit of the holy gods: and before him I told the dream, saying,",
       "refs": {
         "latin_vulgate": {
           "src": "4:5"
         },
         "hebrew_masoretic": {
+          "src": "4:5"
+        },
+        "douay_rheims": {
           "src": "4:5"
         }
       }
@@ -121,12 +163,17 @@
       "verse": 9,
       "latin_vulgate": "Baltassar, princeps ariolorum, quoniam ego scio quod spiritum sanctorum deorum habeas in te, et omne sacramentum non est impossibile tibi : visiones somniorum meorum, quas vidi, et solutionem earum narra. ",
       "hebrew_masoretic": "בֵּלְטְשַׁאצַּר֮ רַ֣ב חַרְטֻמַּיָּא֒ דִּ֣י ׀ אֲנָ֣ה יִדְעֵ֗ת דִּ֠י ר֣וּחַ אֱלָהִ֤ין קַדִּישִׁין֙ בָּ֔ךְ וְכׇל־רָ֖ז לָא־אָנֵ֣ס לָ֑ךְ חֶזְוֵ֨י חֶלְמִ֧י דִֽי־חֲזֵ֛ית וּפִשְׁרֵ֖הּ אֱמַֽר׃",
+      "douay_rheims": "Baltassar, prince of the diviners, because I know that thou hast in thee the spirit of the holy gods, and that no secret is impossible to thee, tell me the visions of my dreams that I have seen, and the interpretation of them?",
+      "finnish_biblia": " Belsatsar, sinä ylimmäinen tähtientutkiain seassa, jolla minä tiedän pyhäin jumalain hengen olevan, ja sinulta ei mitään salattu ole; sano minun uneni näky, jonka minä nähnyt olen, ja mitä se tietää. ",
       "king_james": "O Belteshazzar, master of the magicians, because I know that the spirit of the holy gods is in thee, and no secret troubleth thee, tell me the visions of my dream that I have seen, and the interpretation thereof.",
       "refs": {
         "latin_vulgate": {
           "src": "4:6"
         },
         "hebrew_masoretic": {
+          "src": "4:6"
+        },
+        "douay_rheims": {
           "src": "4:6"
         }
       }
@@ -135,12 +182,17 @@
       "verse": 10,
       "latin_vulgate": "Visio capitis mei in cubili meo : videbam, et ecce arbor in medio terræ, et altitudo ejus nimia. ",
       "hebrew_masoretic": "וְחֶזְוֵ֥י רֵאשִׁ֖י עַֽל־מִשְׁכְּבִ֑י חָזֵ֣ה הֲוֵ֔ית וַאֲל֥וּ אִילָ֛ן בְּג֥וֹא אַרְעָ֖א וְרוּמֵ֥הּ שַׂגִּֽיא׃",
+      "douay_rheims": "This was the vision of my head in my bed: I saw, and behold a tree in the midst of the earth, and the height thereof was exceeding great.",
+      "finnish_biblia": " Tämä on näky, jonka minä nähnyt olen minun vuoteessani: Katso, keskellä maata seisoi puu, joka oli sangen korkia. ",
       "king_james": "Thus were the visions of mine head in my bed; I saw, and behold a tree in the midst of the earth, and the height thereof was great.",
       "refs": {
         "latin_vulgate": {
           "src": "4:7"
         },
         "hebrew_masoretic": {
+          "src": "4:7"
+        },
+        "douay_rheims": {
           "src": "4:7"
         }
       }
@@ -149,12 +201,17 @@
       "verse": 11,
       "latin_vulgate": "Magna arbor, et fortis, et proceritas ejus contingens cælum : aspectus illius erat usque ad terminos universæ terræ. ",
       "hebrew_masoretic": "רְבָ֥ה אִֽילָנָ֖א וּתְקִ֑ף וְרוּמֵהּ֙ יִמְטֵ֣א לִשְׁמַיָּ֔א וַחֲזוֹתֵ֖הּ לְס֥וֹף כׇּל־אַרְעָֽא׃",
+      "douay_rheims": "The tree was great and strong, and the height thereof reached unto heaven: the sight thereof was even to the ends of all the earth.",
+      "finnish_biblia": " Se oli suuri ja paksu puu. Sen korkeus ulottui taivaasen asti ja näkyi koko maan ääriin. ",
       "king_james": "The tree grew, and was strong, and the height thereof reached unto heaven, and the sight thereof to the end of all the earth:",
       "refs": {
         "latin_vulgate": {
           "src": "4:8"
         },
         "hebrew_masoretic": {
+          "src": "4:8"
+        },
+        "douay_rheims": {
           "src": "4:8"
         }
       }
@@ -163,12 +220,17 @@
       "verse": 12,
       "latin_vulgate": "Folia ejus pulcherrima, et fructus ejus nimius : et esca universorum in ea. Subter eam habitabant animalia et bestiæ, et in ramis ejus conversabantur volucres cæli : et ex ea vescebatur omnis caro. ",
       "hebrew_masoretic": "עׇפְיֵ֤הּ שַׁפִּיר֙ וְאִנְבֵּ֣הּ שַׂגִּ֔יא וּמָז֨וֹן לְכֹ֖לָּא־בֵ֑הּ תְּחֹת֜וֹהִי תַּטְלֵ֣ל ׀ חֵיוַ֣ת בָּרָ֗א וּבְעַנְפ֙וֹהִי֙ (ידרון) [יְדוּרָן֙] צִפְּרֵ֣י שְׁמַיָּ֔א וּמִנֵּ֖הּ יִתְּזִ֥ין כׇּל־בִּשְׂרָֽא׃",
+      "douay_rheims": "Its leaves were most beautiful, and its fruit exceeding much: and in it was food for all: under it dwelt cattle and beasts, and in the branches thereof the fowls of the air had their abode: and all flesh did eat of it.",
+      "finnish_biblia": " Sen oksat olivat kauniit, ja kantoivat paljon hedelmää, josta kaikki syödä saivat; kaikki eläimet kedolla löysivät varjon sen alla, ja taivaan linnut istuivat sen oksilla, ja kaikki liha elätti itsensä siitä. ",
       "king_james": "The leaves thereof were fair, and the fruit thereof much, and in it was meat for all: the beasts of the field had shadow under it, and the fowls of the heaven dwelt in the boughs thereof, and all flesh was fed of it.",
       "refs": {
         "latin_vulgate": {
           "src": "4:9"
         },
         "hebrew_masoretic": {
+          "src": "4:9"
+        },
+        "douay_rheims": {
           "src": "4:9"
         }
       }
@@ -177,12 +239,17 @@
       "verse": 13,
       "latin_vulgate": "Videbam in visione capitis mei super stratum meum, et ecce vigil, et sanctus, de cælo descendit. ",
       "hebrew_masoretic": "חָזֵ֥ה הֲוֵ֛ית בְּחֶזְוֵ֥י רֵאשִׁ֖י עַֽל־מִשְׁכְּבִ֑י וַאֲלוּ֙ עִ֣יר וְקַדִּ֔ישׁ מִן־שְׁמַיָּ֖א נָחִֽת׃",
+      "douay_rheims": "I saw in the vision of my head upon my bed, and behold a watcher, and a holy one came down from heaven.",
+      "finnish_biblia": " Ja minä näin yhden näyn minun vuoteessani, ja katso, pyhä vartia tuli alas taivaasta. ",
       "king_james": "I saw in the visions of my head upon my bed, and, behold, a watcher and an holy one came down from heaven;",
       "refs": {
         "latin_vulgate": {
           "src": "4:10"
         },
         "hebrew_masoretic": {
+          "src": "4:10"
+        },
+        "douay_rheims": {
           "src": "4:10"
         }
       }
@@ -191,12 +258,17 @@
       "verse": 14,
       "latin_vulgate": "Clamavit fortiter, et sic ait : Succidite arborem, et præcidite ramos ejus : excutite folia ejus, et dispergite fructus ejus : fugiant bestiæ, quæ subter eam sunt, et volucres de ramis ejus. ",
       "hebrew_masoretic": "קָרֵ֨א בְחַ֜יִל וְכֵ֣ן אָמַ֗ר גֹּ֤דּוּ אִֽילָנָא֙ וְקַצִּ֣צוּ עַנְפ֔וֹהִי אַתַּ֥רוּ עׇפְיֵ֖הּ וּבַדַּ֣רוּ אִנְבֵּ֑הּ תְּנֻ֤ד חֵֽיוְתָא֙ מִן־תַּחְתּ֔וֹהִי וְצִפְּרַיָּ֖א מִן־עַנְפֽוֹהִי׃",
+      "douay_rheims": "He cried aloud, and said thus: Cut down the tree, and chop off the branches thereof: shake off its leaves, and scatter its fruits: let the beasts fly away that are under it, and the birds from its branches.",
+      "finnish_biblia": " Se huusi korkiasti ja sanoi näin: Hakatkaat se puu poikki ja karsikaat oksat ja repikäät lehdet ja hajoittakaat sen hedelmät, että eläimet sen alta lähtisivät pois, ja linnut sen oksilta. ",
       "king_james": "He cried aloud, and said thus, Hew down the tree, and cut off his branches, shake off his leaves, and scatter his fruit: let the beasts get away from under it, and the fowls from his branches:",
       "refs": {
         "latin_vulgate": {
           "src": "4:11"
         },
         "hebrew_masoretic": {
+          "src": "4:11"
+        },
+        "douay_rheims": {
           "src": "4:11"
         }
       }
@@ -205,12 +277,17 @@
       "verse": 15,
       "latin_vulgate": "Verumtamen germen radicum ejus in terra sinite, et alligetur vinculo ferreo et æreo in herbis quæ foris sunt, et rore cæli tingatur, et cum feris pars ejus in herba terræ. ",
       "hebrew_masoretic": "בְּרַ֨ם עִקַּ֤ר שׇׁרְשׁ֙וֹהִי֙ בְּאַרְעָ֣א שְׁבֻ֔קוּ וּבֶֽאֱסוּר֙ דִּֽי־פַרְזֶ֣ל וּנְחָ֔שׁ בְּדִתְאָ֖א דִּ֣י בָרָ֑א וּבְטַ֤ל שְׁמַיָּא֙ יִצְטַבַּ֔ע וְעִם־חֵיוְתָ֥א חֲלָקֵ֖הּ בַּעֲשַׂ֥ב אַרְעָֽא׃",
+      "douay_rheims": "Nevertheless, leave the stump of its roots in the earth, and let it be tied with a band of iron and of brass, among the grass, that is without, and let it be wet with the dew of heaven, and let its portion be with the wild beasts in the grass of the earth.",
+      "finnish_biblia": " Kuitenkin jättäkäät kanto juurinensa maahan, mutta hänen pitää rautaisissa ja vaskisissa kahleissa kedolla ruohossa käymän. Hänen pitää makaaman taivaan kasteen alla ja kastuman ja ruokkiman itsensä eläinten kanssa maan ruohoista. ",
       "king_james": "Nevertheless leave the stump of his roots in the earth, even with a band of iron and brass, in the tender grass of the field; and let it be wet with the dew of heaven, and let his portion be with the beasts in the grass of the earth:",
       "refs": {
         "latin_vulgate": {
           "src": "4:12"
         },
         "hebrew_masoretic": {
+          "src": "4:12"
+        },
+        "douay_rheims": {
           "src": "4:12"
         }
       }
@@ -219,12 +296,17 @@
       "verse": 16,
       "latin_vulgate": "Cor ejus ab humano commutetur, et cor feræ detur ei : et septem tempora mutentur super eum. ",
       "hebrew_masoretic": "לִבְבֵהּ֙ מִן־[אֲנָשָׁ֣א] (אנושא) יְשַׁנּ֔וֹן וּלְבַ֥ב חֵיוָ֖ה יִתְיְהִ֣ב לֵ֑הּ וְשִׁבְעָ֥ה עִדָּנִ֖ין יַחְלְפ֥וּן עֲלֽוֹהִי׃",
+      "douay_rheims": "Let his heart be changed from man's, and let a beast's heart be given him: and let seven times pass over him.",
+      "finnish_biblia": " Ja ihmisen sydän pitää otettaman häneltä pois ja eläimen sydän hänelle jälleen annettaman; siihenasti että seitsemän aikaa häneltä kuluneet ovat. ",
       "king_james": "Let his heart be changed from man’s, and let a beast’s heart be given unto him; and let seven times pass over him.",
       "refs": {
         "latin_vulgate": {
           "src": "4:13"
         },
         "hebrew_masoretic": {
+          "src": "4:13"
+        },
+        "douay_rheims": {
           "src": "4:13"
         }
       }
@@ -233,12 +315,17 @@
       "verse": 17,
       "latin_vulgate": "In sententia vigilum decretum est, et sermo sanctorum, et petitio : donec cognoscant viventes quoniam dominatur Excelsus in regno hominum, et cuicumque voluerit, dabit illud, et humillimum hominem constituet super eum. ",
       "hebrew_masoretic": "בִּגְזֵרַ֤ת עִירִין֙ פִּתְגָמָ֔א וּמֵאמַ֥ר קַדִּישִׁ֖ין שְׁאֵֽלְתָ֑א עַד־דִּבְרַ֡ת דִּ֣י יִנְדְּע֣וּן חַ֠יַּיָּ֠א דִּֽי־שַׁלִּ֨יט (עליא) [עִלָּאָ֜ה] בְּמַלְכ֣וּת (אנושא) [אֲנָשָׁ֗א] וּלְמַן־דִּ֤י יִצְבֵּא֙ יִתְּנִנַּ֔הּ וּשְׁפַ֥ל אֲנָשִׁ֖ים יְקִ֥ים (עליה) [עֲלַֽהּ]׃",
+      "douay_rheims": "This is the decree by the sentence of the watchers, and the word and demand of the holy ones: till the living know, that the most High ruleth in the kingdom of men: and he will give it to whomsoever it shall please him, and he will appoint the basest man over it.",
+      "finnish_biblia": " Se on vartiain neuvossa päätetty, ja pyhäin kanssa puheessa vahvistettu, että elävät tuntisivat Ylimmäisellä vallan olevan ihmisten valtakuntain päälle, ja antavan ne kellenkä hän tahtoo, ja että hän asettaa kaikkein nöyrimmän ihmisen niiden päälle. ",
       "king_james": "This matter is by the decree of the watchers, and the demand by the word of the holy ones: to the intent that the living may know that the most High ruleth in the kingdom of men, and giveth it to whomsoever he will, and setteth up over it the basest of men.",
       "refs": {
         "latin_vulgate": {
           "src": "4:14"
         },
         "hebrew_masoretic": {
+          "src": "4:14"
+        },
+        "douay_rheims": {
           "src": "4:14"
         }
       }
@@ -247,12 +334,17 @@
       "verse": 18,
       "latin_vulgate": "Hoc somnium vidi ego Nabuchodonosor rex : tu ergo Baltassar interpretationem narra festinus, quia omnes sapientes regni mei non queunt solutionem edicere mihi : tu autem potes, quia spiritus deorum sanctorum in te est. ",
       "hebrew_masoretic": "דְּנָה֙ חֶלְמָ֣א חֲזֵ֔ית אֲנָ֖ה מַלְכָּ֣א נְבוּכַדְנֶצַּ֑ר (ואנתה) [וְאַ֨נְתְּ] בֵּלְטְשַׁאצַּ֜ר פִּשְׁרֵ֣א ׀ אֱמַ֗ר כׇּל־קֳבֵל֙ דִּ֣י ׀ כׇּל־חַכִּימֵ֣י מַלְכוּתִ֗י לָֽא־יָכְלִ֤ין פִּשְׁרָא֙ לְהוֹדָ֣עוּתַ֔נִי (ואנתה) [וְאַ֣נְתְּ] כָּהֵ֔ל דִּ֛י רֽוּחַ־אֱלָהִ֥ין קַדִּישִׁ֖ין בָּֽךְ׃",
+      "douay_rheims": "I, king Nabuchodonosor, saw this dream: thou, therefore, O Baltassar, tell me quickly the interpretation: for all the wise men of my kingdom are not able to declare the meaning of it to me: but thou art able, because the spirit of the holy gods is in thee.",
+      "finnish_biblia": " Tämän unen olen minä kuningas Nebukadnetsar nähnyt. Vaan sinä Belsatsar sano sen selitys; sillä kaikki viisaat minun valtakunnassani ei taida minulle ilmoittaa sen selitystä; vaan sinä kyllä taidat, sillä pyhäin jumalain henki on sinun tykönäs. ",
       "king_james": "This dream I king Nebuchadnezzar have seen. Now thou, O Belteshazzar, declare the interpretation thereof, forasmuch as all the wise men of my kingdom are not able to make known unto me the interpretation: but thou art able; for the spirit of the holy gods is in thee.",
       "refs": {
         "latin_vulgate": {
           "src": "4:15"
         },
         "hebrew_masoretic": {
+          "src": "4:15"
+        },
+        "douay_rheims": {
           "src": "4:15"
         }
       }
@@ -261,12 +353,17 @@
       "verse": 19,
       "latin_vulgate": "Tunc Daniel, cujus nomen Baltassar, cœpit intra semetipsum tacitus cogitare quasi una hora : et cogitationes ejus conturbabant eum. Respondens autem rex, ait : Baltassar, somnium et interpretatio ejus non conturbent te. Respondit Baltassar, et dixit : Domine mi, somnium his, qui te oderunt, et interpretatio ejus hostibus tuis sit. ",
       "hebrew_masoretic": "אֱדַ֨יִן דָּֽנִיֵּ֜אל דִּֽי־שְׁמֵ֣הּ בֵּלְטְשַׁאצַּ֗ר אֶשְׁתּוֹמַם֙ כְּשָׁעָ֣ה חֲדָ֔ה וְרַעְיֹנֹ֖הִי יְבַהֲלֻנֵּ֑הּ עָנֵ֨ה מַלְכָּ֜א וְאָמַ֗ר בֵּלְטְשַׁאצַּר֙ חֶלְמָ֤א וּפִשְׁרֵא֙ אַֽל־יְבַהֲלָ֔ךְ עָנֵ֤ה בֵלְטְשַׁאצַּר֙ וְאָמַ֔ר מָרִ֕אי חֶלְמָ֥א (לשנאיך) [לְשָֽׂנְאָ֖ךְ] וּפִשְׁרֵ֥הּ (לעריך) [לְעָרָֽךְ]׃",
+      "douay_rheims": "Then Daniel, whose name was Baltassar, began silently to think within himself for about one hour: and his thought troubled him. But the king answering, said: Baltassar, let not the dream and the interpretation thereof trouble thee. Baltassar answered, and said: My lord, the dream be to them that hate thee, and the interpretation thereof to thy enemies.",
+      "finnish_biblia": " Silloin hämmästyi Daniel, joka Belsatsariksi kutsuttiin, hetkeksi aikaa, ja hänen ajatuksensa saattivat hänet murheelliseksi. Mutta kuningas sanoi: Belsatsar, se uni ja sen selitys ei mahda sinua murheelliseksi saattaa. Belsatsar vastasi ja sanoi: Ah minun herrani, tämä uni olkoon sinun vihollisilles ja sen selitys sinun vainoojilles! ",
       "king_james": "Then Daniel, whose name was Belteshazzar, was astonied for one hour, and his thoughts troubled him. The king spake, and said, Belteshazzar, let not the dream, or the interpretation thereof, trouble thee. Belteshazzar answered and said, My lord, the dream be to them that hate thee, and the interpretation thereof to thine enemies.",
       "refs": {
         "latin_vulgate": {
           "src": "4:16"
         },
         "hebrew_masoretic": {
+          "src": "4:16"
+        },
+        "douay_rheims": {
           "src": "4:16"
         }
       }
@@ -275,12 +372,17 @@
       "verse": 20,
       "latin_vulgate": "Arborem, quam vidisti sublimem atque robustam, cujus altitudo pertingit ad cælum, et aspectus illius in omnem terram ; ",
       "hebrew_masoretic": "אִֽילָנָא֙ דִּ֣י חֲזַ֔יְתָ דִּ֥י רְבָ֖ה וּתְקִ֑ף וְרוּמֵהּ֙ יִמְטֵ֣א לִשְׁמַיָּ֔א וַחֲזוֹתֵ֖הּ לְכׇל־אַרְעָֽא׃",
+      "douay_rheims": "The tree which thou sawest, which was high and strong, whose height reached to the skies, and the sight thereof into all the earth:",
+      "finnish_biblia": " Se puu, jonkas nähnyt olet, että se suuri ja paksu oli, ja hänen korkeutensa taivaasen ulottui, ja näytti itsensä kaiken maan päälle. ",
       "king_james": "The tree that thou sawest, which grew, and was strong, whose height reached unto the heaven, and the sight thereof to all the earth;",
       "refs": {
         "latin_vulgate": {
           "src": "4:17"
         },
         "hebrew_masoretic": {
+          "src": "4:17"
+        },
+        "douay_rheims": {
           "src": "4:17"
         }
       }
@@ -289,12 +391,17 @@
       "verse": 21,
       "latin_vulgate": "et rami ejus pulcherrimi, et fructus ejus nimius, et esca omnium in ea, subter eam habitantes bestiæ agri, et in ramis ejus commorantes aves cæli : ",
       "hebrew_masoretic": "וְעׇפְיֵ֤הּ שַׁפִּיר֙ וְאִנְבֵּ֣הּ שַׂגִּ֔יא וּמָז֨וֹן לְכֹ֖לָּא־בֵ֑הּ תְּחֹת֗וֹהִי תְּדוּר֙ חֵיוַ֣ת בָּרָ֔א וּבְעַנְפ֕וֹהִי יִשְׁכְּנָ֖ן צִפְּרֵ֥י שְׁמַיָּֽא׃",
+      "douay_rheims": "And the branches thereof were most beautiful, and its fruit exceeding much, and in it was food for all, under which the beasts of the field dwelt, and the birds of the air had their abode in its branches.",
+      "finnish_biblia": " Ja sen oksat olivat kauniit, ja sen hedelmiä oli paljo, josta kaikki ravittiin ja eläimet kedolla asuivat sen alla, ja taivaan linnut istuivat sen oksilla: ",
       "king_james": "Whose leaves were fair, and the fruit thereof much, and in it was meat for all; under which the beasts of the field dwelt, and upon whose branches the fowls of the heaven had their habitation:",
       "refs": {
         "latin_vulgate": {
           "src": "4:18"
         },
         "hebrew_masoretic": {
+          "src": "4:18"
+        },
+        "douay_rheims": {
           "src": "4:18"
         }
       }
@@ -303,12 +410,17 @@
       "verse": 22,
       "latin_vulgate": "tu es rex, qui magnificatus es, et invaluisti : et magnitudo tua crevit, et pervenit usque ad cælum, et potestas tua in terminos universæ terræ. ",
       "hebrew_masoretic": "(אנתה) [אַנְתְּ־]ה֣וּא מַלְכָּ֔א דִּ֥י (רבית) [רְבַ֖ת] וּתְקֵ֑פְתְּ וּרְבוּתָ֤ךְ רְבָת֙ וּמְטָ֣ת לִשְׁמַיָּ֔א וְשׇׁלְטָנָ֖ךְ לְס֥וֹף אַרְעָֽא׃",
+      "douay_rheims": "It is thou, O king, who art grown great, and become mighty: for thy greatness hath grown, and hath reached to heaven, and thy power unto the ends of the earth.",
+      "finnish_biblia": " Se olet sinä, kuningas, joka niin suuri ja voimallinen olet; sillä sinun voimas on suuri ja ulottuu taivaasen, ja sinun valtas maailman ääriin. ",
       "king_james": "It is thou, O king, that art grown and become strong: for thy greatness is grown, and reacheth unto heaven, and thy dominion to the end of the earth.",
       "refs": {
         "latin_vulgate": {
           "src": "4:19"
         },
         "hebrew_masoretic": {
+          "src": "4:19"
+        },
+        "douay_rheims": {
           "src": "4:19"
         }
       }
@@ -317,12 +429,17 @@
       "verse": 23,
       "latin_vulgate": "Quod autem vidit rex vigilem, et sanctum descendere de cælo, et dicere : Succidite arborem, et dissipate illam, attamen germen radicum ejus in terra dimittite, et vinciatur ferro et ære in herbis foris, et rore cæli conspergatur, et cum feris sit pabulum ejus, donec septem tempora mutentur super eum : ",
       "hebrew_masoretic": "וְדִ֣י חֲזָ֣ה מַלְכָּ֡א עִ֣יר וְקַדִּ֣ישׁ נָחִ֣ת ׀ מִן־שְׁמַיָּ֡א וְאָמַר֩ גֹּ֨דּוּ אִֽילָנָ֜א וְחַבְּל֗וּהִי בְּרַ֨ם עִקַּ֤ר שׇׁרְשׁ֙וֹהִי֙ בְּאַרְעָ֣א שְׁבֻ֔קוּ וּבֶאֱסוּר֙ דִּֽי־פַרְזֶ֣ל וּנְחָ֔שׁ בְּדִתְאָ֖א דִּ֣י בָרָ֑א וּבְטַ֧ל שְׁמַיָּ֣א יִצְטַבַּ֗ע וְעִם־חֵיוַ֤ת בָּרָא֙ חֲלָקֵ֔הּ עַ֛ד דִּֽי־שִׁבְעָ֥ה עִדָּנִ֖ין יַחְלְפ֥וּן עֲלֽוֹהִי׃",
+      "douay_rheims": "And whereas the king saw a watcher, and a holy one come down from heaven, and say: Cut down the tree, and destroy it, but leave the stump of the roots thereof in the earth, and let it be bound with iron and brass, among the grass without, and let it be sprinkled with the dew of heaven, and let his feeding be with the wild beasts, till seven times pass over him.",
+      "finnish_biblia": " Mutta että kuningas pyhän vartian nähnyt on taivaasta tulevan alas ja sanovan: Hakatkaat se puu poikki ja turmelkaat se. Kuitenkin kanto juurinensa jättäkäät maahan, mutta hänen pitää rautaisissa ja vaskisissa kahleissa kedolIa ruohossa käymän ja pitää makaaman taivaan kasteen alla ja kastuman ja itsensä eläinten kanssa kedolla ruokkiman; siihen asti että seitsemän aikaa häneltä kuluneet ovat. ",
       "king_james": "And whereas the king saw a watcher and an holy one coming down from heaven, and saying, Hew the tree down, and destroy it; yet leave the stump of the roots thereof in the earth, even with a band of iron and brass, in the tender grass of the field; and let it be wet with the dew of heaven, and let his portion be with the beasts of the field, till seven times pass over him;",
       "refs": {
         "latin_vulgate": {
           "src": "4:20"
         },
         "hebrew_masoretic": {
+          "src": "4:20"
+        },
+        "douay_rheims": {
           "src": "4:20"
         }
       }
@@ -331,12 +448,17 @@
       "verse": 24,
       "latin_vulgate": "hæc est interpretatio sententiæ Altissimi, quæ pervenit super dominum meum regem, ",
       "hebrew_masoretic": "דְּנָ֥ה פִשְׁרָ֖א מַלְכָּ֑א וּגְזֵרַ֤ת (עליא) [עִלָּאָה֙] הִ֔יא דִּ֥י מְטָ֖ת עַל־מָרִ֥אי מַלְכָּֽא׃",
+      "douay_rheims": "This is the interpretation of the sentence of the most High, which is come upon my lord, the king.",
+      "finnish_biblia": " Tämä on selitys, herra kuningas, ja tämä on sen Korkeimman neuvo, joka tulee minun herralleni kuninkaalle: ",
       "king_james": "This is the interpretation, O king, and this is the decree of the most High, which is come upon my lord the king:",
       "refs": {
         "latin_vulgate": {
           "src": "4:21"
         },
         "hebrew_masoretic": {
+          "src": "4:21"
+        },
+        "douay_rheims": {
           "src": "4:21"
         }
       }
@@ -345,12 +467,17 @@
       "verse": 25,
       "latin_vulgate": "Ejicient te ab hominibus, et cum bestiis ferisque erit habitatio tua, et fœnum ut bos comedes, et rore cæli infunderis : septem quoque tempora mutabuntur super te, donec scias quod dominetur Excelsus super regnum hominum, et cuicumque voluerit, det illud. ",
       "hebrew_masoretic": "וְלָ֣ךְ טָֽרְדִ֣ין מִן־אֲנָשָׁ֡א וְעִם־חֵיוַ֣ת בָּרָא֩ לֶהֱוֵ֨ה מְדֹרָ֜ךְ וְעִשְׂבָּ֥א כְתוֹרִ֣ין ׀ לָ֣ךְ יְטַֽעֲמ֗וּן וּמִטַּ֤ל שְׁמַיָּא֙ לָ֣ךְ מְצַבְּעִ֔ין וְשִׁבְעָ֥ה עִדָּנִ֖ין יַחְלְפ֣וּן (עליך) [עֲלָ֑ךְ] עַ֣ד דִּֽי־תִנְדַּ֗ע דִּֽי־שַׁלִּ֤יט (עליא) [עִלָּאָה֙] בְּמַלְכ֣וּת אֲנָשָׁ֔א וּלְמַן־דִּ֥י יִצְבֵּ֖א יִתְּנִנַּֽהּ׃",
+      "douay_rheims": "They shall cast thee out from among men, and thy dwelling shall be with cattle, and with wild beasts, and thou shalt eat grass, as an ox, and shalt be wet with the dew of heaven: and seven times shall pass over thee, till thou know that the most High ruleth over the kingdom of men, and giveth it to whomsoever he will.",
+      "finnish_biblia": " Sinä ajetaan pois ihmisten seasta, ja täytyy eläinten seassa kedolla olla, ja annetaan ruohoja syödäkses niinkuin härkäin, ja olet makaava taivaan kasteen alla, ja kastuva, siihenasti kuin seitsemän aikaa sinulta kuluneet ovat, ettäs tuntisit Korkeimmalla vallan olevan ihmisten valtakuntain päälle, ja hänen antavan ne kellenkä hän tahtoo. ",
       "king_james": "That they shall drive thee from men, and thy dwelling shall be with the beasts of the field, and they shall make thee to eat grass as oxen, and they shall wet thee with the dew of heaven, and seven times shall pass over thee, till thou know that the most High ruleth in the kingdom of men, and giveth it to whomsoever he will.",
       "refs": {
         "latin_vulgate": {
           "src": "4:22"
         },
         "hebrew_masoretic": {
+          "src": "4:22"
+        },
+        "douay_rheims": {
           "src": "4:22"
         }
       }
@@ -359,12 +486,17 @@
       "verse": 26,
       "latin_vulgate": "Quod autem præcepit ut relinqueretur germen radicum ejus, id est arboris : regnum tuum tibi manebit postquam cognoveris potestatem esse cælestem. ",
       "hebrew_masoretic": "וְדִ֣י אֲמַ֗רוּ לְמִשְׁבַּ֞ק עִקַּ֤ר שׇׁרְשׁ֙וֹהִי֙ דִּ֣י אִֽילָנָ֔א מַלְכוּתָ֖ךְ לָ֣ךְ קַיָּמָ֑א מִן־דִּ֣י תִנְדַּ֔ע דִּ֥י שַׁלִּטִ֖ן שְׁמַיָּֽא׃",
+      "douay_rheims": "But whereas he commanded, that the stump of the roots thereof, that is, of the tree, should be left: thy kingdom shall remain to thee, after thou shalt have known that power is from heaven.",
+      "finnish_biblia": " Mutta että sanottu on, että kanto kuitenkin juurinensa puulle jäämän pitää, niin sinun valtakuntas pysyy sinulle, koska tuntenut olet taivaan vallan. ",
       "king_james": "And whereas they commanded to leave the stump of the tree roots; thy kingdom shall be sure unto thee, after that thou shalt have known that the heavens do rule.",
       "refs": {
         "latin_vulgate": {
           "src": "4:23"
         },
         "hebrew_masoretic": {
+          "src": "4:23"
+        },
+        "douay_rheims": {
           "src": "4:23"
         }
       }
@@ -373,12 +505,17 @@
       "verse": 27,
       "latin_vulgate": "Quam ob rem, rex, consilium meum placeat tibi, et peccata tua eleemosynis redime, et iniquitates tuas misericordiis pauperum : forsitan ignoscet delictis tuis.  ",
       "hebrew_masoretic": "לָהֵ֣ן מַלְכָּ֗א מִלְכִּי֙ יִשְׁפַּ֣ר (עליך) [עֲלָ֔ךְ] (וחטיך) [וַחֲטָאָךְ֙] בְּצִדְקָ֣ה פְרֻ֔ק וַעֲוָיָתָ֖ךְ בְּמִחַ֣ן עֲנָ֑יִן הֵ֛ן תֶּהֱוֵ֥ה אַרְכָ֖ה לִשְׁלֵוְתָֽךְ׃",
+      "douay_rheims": "Wherefore, O king, let my counsel be acceptable to thee, and redeem thou thy sins with alms, and thy iniquities with works of mercy to the poor: perhaps he will forgive thy offences.",
+      "finnish_biblia": " Sentähden, herra kuningas, kelvatkoon sinulle minun neuvoni, ja päästä itses synnistäs vanhurskaudella, ja vapaaksi sinun pahoista töistäs laupiudella vaivaisia kohtaan, niin hän sinun rauhas pitentää. ",
       "king_james": "Wherefore, O king, let my counsel be acceptable unto thee, and break off thy sins by righteousness, and thine iniquities by shewing mercy to the poor; if it may be a lengthening of thy tranquillity.",
       "refs": {
         "latin_vulgate": {
           "src": "4:24"
         },
         "hebrew_masoretic": {
+          "src": "4:24"
+        },
+        "douay_rheims": {
           "src": "4:24"
         }
       }
@@ -387,12 +524,17 @@
       "verse": 28,
       "latin_vulgate": " Omnia hæc venerunt super Nabuchodonosor regem. ",
       "hebrew_masoretic": "כֹּ֣לָּא מְּטָ֔א עַל־נְבוּכַדְנֶצַּ֖ר מַלְכָּֽא׃ {פ}",
+      "douay_rheims": "All these things came upon king Nabuchodonosor.",
+      "finnish_biblia": " Nämät kaikki tapahtuivat kuningas Nebukadnetsarille. ",
       "king_james": "All this came upon the king Nebuchadnezzar.",
       "refs": {
         "latin_vulgate": {
           "src": "4:25"
         },
         "hebrew_masoretic": {
+          "src": "4:25"
+        },
+        "douay_rheims": {
           "src": "4:25"
         }
       }
@@ -401,12 +543,17 @@
       "verse": 29,
       "latin_vulgate": "Post finem mensium duodecim, in aula Babylonis deambulabat. ",
       "hebrew_masoretic": "לִקְצָ֥ת יַרְחִ֖ין תְּרֵֽי־עֲשַׂ֑ר עַל־הֵיכַ֧ל מַלְכוּתָ֛א דִּ֥י בָבֶ֖ל מְהַלֵּ֥ךְ הֲוָֽה׃",
+      "douay_rheims": "At the end of twelve months he was walking in the palace of Babylon.",
+      "finnish_biblia": " Sillä kahdentoistakymmenen kuukauden perästä, kuin hän kuninkaallisessa linnassansa Babelissa käyskenteli, ",
       "king_james": "At the end of twelve months he walked in the palace of the kingdom of Babylon.",
       "refs": {
         "latin_vulgate": {
           "src": "4:26"
         },
         "hebrew_masoretic": {
+          "src": "4:26"
+        },
+        "douay_rheims": {
           "src": "4:26"
         }
       }
@@ -415,12 +562,17 @@
       "verse": 30,
       "latin_vulgate": "Responditque rex, et ait : Nonne hæc est Babylon magna, quam ego ædificavi in domum regni, in robore fortitudinis meæ, et in gloria decoris mei ? ",
       "hebrew_masoretic": "עָנֵ֤ה מַלְכָּא֙ וְאָמַ֔ר הֲלָ֥א דָא־הִ֖יא בָּבֶ֣ל רַבְּתָ֑א דִּֽי־אֲנָ֤ה בֱנַיְתַהּ֙ לְבֵ֣ית מַלְכ֔וּ בִּתְקָ֥ף חִסְנִ֖י וְלִיקָ֥ר הַדְרִֽי׃",
+      "douay_rheims": "And the king answered, and said: Is not this the great Babylon, which I have built, to be the seat of the kingdom, by the strength of my power, and in the glory of my excellence?",
+      "finnish_biblia": " Puhui kuningas ja sanoi: Eikö tämä ole se suuri Babel, jonka minä rakentanut olen kuninkaalliseksi huoneeksi, minun suuren voimani kautta, minun kunniani ylistykseksi? ",
       "king_james": "The king spake, and said, Is not this great Babylon, that I have built for the house of the kingdom by the might of my power, and for the honour of my majesty?",
       "refs": {
         "latin_vulgate": {
           "src": "4:27"
         },
         "hebrew_masoretic": {
+          "src": "4:27"
+        },
+        "douay_rheims": {
           "src": "4:27"
         }
       }
@@ -429,12 +581,17 @@
       "verse": 31,
       "latin_vulgate": "Cumque sermo adhuc esset in ore regis, vox de cælo ruit : Tibi dicitur, Nabuchodonosor rex : Regnum tuum transibit a te, ",
       "hebrew_masoretic": "ע֗וֹד מִלְּתָא֙ בְּפֻ֣ם מַלְכָּ֔א קָ֖ל מִן־שְׁמַיָּ֣א נְפַ֑ל לָ֤ךְ אָֽמְרִין֙ נְבוּכַדְנֶצַּ֣ר מַלְכָּ֔א מַלְכוּתָ֖א עֲדָ֥ת מִנָּֽךְ׃",
+      "douay_rheims": "And while the word was yet in the king's mouth, a voice came down from heaven: To thee, O king Nabuchodonosor, it is said: Thy kingdom shall pass from thee.",
+      "finnish_biblia": " Ennenkuin kuningas nämät sanat puhunut oli, tuli ääni alas taivaasta: Sinulle kuningas Nebukadnetsar sanotaan: Sinun valtakuntas otetaan sinulta pois. ",
       "king_james": "While the word was in the king’s mouth, there fell a voice from heaven, saying, O king Nebuchadnezzar, to thee it is spoken; The kingdom is departed from thee.",
       "refs": {
         "latin_vulgate": {
           "src": "4:28"
         },
         "hebrew_masoretic": {
+          "src": "4:28"
+        },
+        "douay_rheims": {
           "src": "4:28"
         }
       }
@@ -443,12 +600,17 @@
       "verse": 32,
       "latin_vulgate": "et ab hominibus ejicient te, et cum bestiis et feris erit habitatio tua : fœnum quasi bos comedes, et septem tempora mutabuntur super te, donec scias quod dominetur Excelsus in regno hominum, et cuicumque voluerit, det illud. ",
       "hebrew_masoretic": "וּמִן־אֲנָשָׁא֩ לָ֨ךְ טָֽרְדִ֜ין וְֽעִם־חֵיוַ֧ת בָּרָ֣א מְדֹרָ֗ךְ עִשְׂבָּ֤א כְתוֹרִין֙ לָ֣ךְ יְטַעֲמ֔וּן וְשִׁבְעָ֥ה עִדָּנִ֖ין יַחְלְפ֣וּן (עליך) [עֲלָ֑ךְ] עַ֣ד דִּֽי־תִנְדַּ֗ע דִּֽי־שַׁלִּ֤יט (עליא) [עִלָּאָה֙] בְּמַלְכ֣וּת אֲנָשָׁ֔א וּלְמַן־דִּ֥י יִצְבֵּ֖א יִתְּנִנַּֽהּ׃",
+      "douay_rheims": "And they shall cast thee out from among men, and thy dwelling shall be with cattle and wild beasts: thou shalt eat grass like an ox, and seven times shall pass over thee, till thou know that the most High ruleth in the kingdom of men, and giveth it to whomsoever he will.",
+      "finnish_biblia": " Ja sinä ajetaan pois ihmisten seasta; sinun pitää eläinten seassa kedolla oleman. Ruohoja sinun annetaan syödä niinkuin härkäin siihenasti että seitsemän aikaa sinulta kuluneet ovat, ettäs tuntisit Korkeimmalla vallan olevan ihmisten valtakuntain päälle, ja hänen antavan ne kenelle hän tahtoo. ",
       "king_james": "And they shall drive thee from men, and thy dwelling shall be with the beasts of the field: they shall make thee to eat grass as oxen, and seven times shall pass over thee, until thou know that the most High ruleth in the kingdom of men, and giveth it to whomsoever he will.",
       "refs": {
         "latin_vulgate": {
           "src": "4:29"
         },
         "hebrew_masoretic": {
+          "src": "4:29"
+        },
+        "douay_rheims": {
           "src": "4:29"
         }
       }
@@ -457,12 +619,17 @@
       "verse": 33,
       "latin_vulgate": "Eadem hora sermo completus est super Nabuchodonosor, et ex hominibus abjectus est, et fœnum ut bos comedit, et rore cæli corpus ejus infectum est, donec capilli ejus in similitudinem aquilarum crescerent, et ungues ejus quasi avium.  ",
       "hebrew_masoretic": "בַּהּ־שַׁעֲתָ֗א מִלְּתָא֮ סָ֣פַת עַל־נְבוּכַדְנֶצַּר֒ וּמִן־אֲנָשָׁ֣א טְרִ֔יד וְעִשְׂבָּ֤א כְתוֹרִין֙ יֵאכֻ֔ל וּמִטַּ֥ל שְׁמַיָּ֖א גִּשְׁמֵ֣הּ יִצְטַבַּ֑ע עַ֣ד דִּ֥י שַׂעְרֵ֛הּ כְּנִשְׁרִ֥ין רְבָ֖ה וְטִפְר֥וֹהִי כְצִפְּרִֽין׃",
+      "douay_rheims": "The same hour the word was fulfilled upon Nabuchodonosor, and he was driven away from among men, and did eat grass, like an ox, and his body was wet with the dew of heaven: till his hairs grew like the feathers of eagles, and his nails like birds' claws.",
+      "finnish_biblia": " Kohta sillä hetkellä täytettiin sana kuningas Nebukadnetsarissa, ja hän ajettiin pois ihmisten seasta ja söi ruohoja niinkuin härkä, ja hänen ruumiinsa oli taivaan kasteen alla ja kastui siihen asti, että hänen hiuksensa kasvoivat niin suuriksi kuin kotkan höyhenet, ja hänen kyntensä niinkuin linnun kynnet. ",
       "king_james": "The same hour was the thing fulfilled upon Nebuchadnezzar: and he was driven from men, and did eat grass as oxen, and his body was wet with the dew of heaven, till his hairs were grown like eagles’ feathers, and his nails like birds’ claws.",
       "refs": {
         "latin_vulgate": {
           "src": "4:30"
         },
         "hebrew_masoretic": {
+          "src": "4:30"
+        },
+        "douay_rheims": {
           "src": "4:30"
         }
       }
@@ -471,12 +638,17 @@
       "verse": 34,
       "latin_vulgate": " Igitur post finem dierum, ego Nabuchodonosor oculos meos ad cælum levavi, et sensus meus redditus est mihi : et Altissimo benedixi, et viventem in sempiternum laudavi et glorificavi : quia potestas ejus potestas sempiterna, et regnum ejus in generationem et generationem. ",
       "hebrew_masoretic": "וְלִקְצָ֣ת יֽוֹמַיָּא֩ אֲנָ֨ה נְבוּכַדְנֶצַּ֜ר עַיְנַ֣י ׀ לִשְׁמַיָּ֣א נִטְלֵ֗ת וּמַנְדְּעִי֙ עֲלַ֣י יְת֔וּב (ולעליא) [וּלְעִלָּאָה֙] בָּרְכֵ֔ת וּלְחַ֥י עָלְמָ֖א שַׁבְּחֵ֣ת וְהַדְּרֵ֑ת דִּ֤י שׇׁלְטָנֵהּ֙ שׇׁלְטָ֣ן עָלַ֔ם וּמַלְכוּתֵ֖הּ עִם־דָּ֥ר וְדָֽר׃",
+      "douay_rheims": "Now at the end of the days, I, Nabuchodonosor, lifted up my eyes to heaven, and my sense was restored to me: and I blessed the most High, and I praised and glorified him that liveth for ever: for his power is an everlasting power, and his kingdom is to all generations.",
+      "finnish_biblia": " Sen ajan perästä nostin minä Nebukadnetsar silmäni taivaasen päin ja tulin jälleen taidolleni, ja kiitin sitä Korkeinta. Minä ylistin ja kunnioitin sitä, joka elää ijankaikkisesti, jonka valta on ijankaikkinen valta, ja hänen valtakuntansa pysyy suvusta sukuun. ",
       "king_james": "And at the end of the days I Nebuchadnezzar lifted up mine eyes unto heaven, and mine understanding returned unto me, and I blessed the most High, and I praised and honoured him that liveth for ever, whose dominion is an everlasting dominion, and his kingdom is from generation to generation:",
       "refs": {
         "latin_vulgate": {
           "src": "4:31"
         },
         "hebrew_masoretic": {
+          "src": "4:31"
+        },
+        "douay_rheims": {
           "src": "4:31"
         }
       }
@@ -485,12 +657,17 @@
       "verse": 35,
       "latin_vulgate": "Et omnes habitatores terræ apud eum in nihilum reputati sunt : juxta voluntatem enim suam facit tam in virtutibus cæli quam in habitatoribus terræ : et non est qui resistat manui ejus, et dicat ei : Quare fecisti ? ",
       "hebrew_masoretic": "וְכׇל־[דָּיְרֵ֤י] (דארי) אַרְעָא֙ כְּלָ֣ה חֲשִׁיבִ֔ין וּֽכְמִצְבְּיֵ֗הּ עָבֵד֙ בְּחֵ֣יל שְׁמַיָּ֔א (ודארי) [וְדָיְרֵ֖י] אַרְעָ֑א וְלָ֤א אִיתַי֙ דִּֽי־יְמַחֵ֣א בִידֵ֔הּ וְיֵ֥אמַר לֵ֖הּ מָ֥ה עֲבַֽדְתְּ׃",
+      "douay_rheims": "And all the inhabitants of the earth are reputed as nothing before him: for he doth according to his will, as well with the powers of heaven, as among the inhabitants of the earth: and there is none that can resist his hand, and say to him: Why hast thou done it?",
+      "finnish_biblia": " Jonka suhteen kaikki, jotka asuvat maan päällä, ovat luetut niinkuin ei mitään. Hän tekee, kuinka hän tahtoo taivaan sotajoukon kanssa, jotka asuvat maan päällä, ja ei kenkään taida hänen kättänsä estää, eikä hänelle sanoa: Mitäs teet? ",
       "king_james": "And all the inhabitants of the earth are reputed as nothing: and he doeth according to his will in the army of heaven, and among the inhabitants of the earth: and none can stay his hand, or say unto him, What doest thou?",
       "refs": {
         "latin_vulgate": {
           "src": "4:32"
         },
         "hebrew_masoretic": {
+          "src": "4:32"
+        },
+        "douay_rheims": {
           "src": "4:32"
         }
       }
@@ -499,12 +676,17 @@
       "verse": 36,
       "latin_vulgate": "In ipso tempore sensus meus reversus est ad me, et ad honorem regni mei, decoremque perveni : et figura mea reversa est ad me, et optimates mei et magistratus mei requisierunt me, et in regno meo restitutus sum : et magnificentia amplior addita est mihi. ",
       "hebrew_masoretic": "בֵּהּ־זִמְנָ֞א מַנְדְּעִ֣י ׀ יְת֣וּב עֲלַ֗י וְלִיקַ֨ר מַלְכוּתִ֜י הַדְרִ֤י וְזִיוִי֙ יְת֣וּב עֲלַ֔י וְלִ֕י הַדָּֽבְרַ֥י וְרַבְרְבָנַ֖י יְבַע֑וֹן וְעַל־מַלְכוּתִ֣י הׇתְקְנַ֔ת וּרְב֥וּ יַתִּירָ֖ה ה֥וּסְפַת לִֽי׃",
+      "douay_rheims": "At the same time my sense returned to me, and I came to the honour and glory of my kingdom: and my shape returned to me: and my nobles, and my magistrates, sought for me, and I was restored to my kingdom: and greater majesty was added to me.",
+      "finnish_biblia": " Silloin tulin minä jälleen taidolleni, ja kuninkaalliseen kunniaani ja jalouteeni ja minun muotooni. Ja minun neuvonantajani ja voimalliseni etsivät minua, ja minä pantiin jälleen valtakuntaani, ja sain vielä suuremman kunnian. ",
       "king_james": "At the same time my reason returned unto me; and for the glory of my kingdom, mine honour and brightness returned unto me; and my counsellors and my lords sought unto me; and I was established in my kingdom, and excellent majesty was added unto me.",
       "refs": {
         "latin_vulgate": {
           "src": "4:33"
         },
         "hebrew_masoretic": {
+          "src": "4:33"
+        },
+        "douay_rheims": {
           "src": "4:33"
         }
       }
@@ -513,12 +695,17 @@
       "verse": 37,
       "latin_vulgate": "Nunc igitur, ego Nabuchodonosor laudo, et magnifico, et glorifico regem cæli : quia omnia opera ejus vera, et viæ ejus judicia, et gradientes in superbia potest humiliare.   ",
       "hebrew_masoretic": "כְּעַ֞ן אֲנָ֣ה נְבֻכַדְנֶצַּ֗ר מְשַׁבַּ֨ח וּמְרוֹמֵ֤ם וּמְהַדַּר֙ לְמֶ֣לֶךְ שְׁמַיָּ֔א דִּ֤י כׇל־מַעֲבָד֙וֹהִי֙ קְשֹׁ֔ט וְאֹרְחָתֵ֖הּ דִּ֑ין וְדִי֙ מַהְלְכִ֣ין בְּגֵוָ֔ה יָכִ֖ל לְהַשְׁפָּלָֽה׃ {פ}",
+      "douay_rheims": "Therefore I, Nabuchodonosor, do now praise, and magnify, and glorify the King of heaven: because all his works are true, and his ways judgments, and them that walk in pride he is able to abase. ",
+      "finnish_biblia": " Sentähden kiitän minä Nebukadnetsar ja kunnioitan ja ylistän taivaan kuningasta; sillä kaikki hänen työnsä on totuus ja hänen tiensä oikiat; ja joka ylpiä on, sen hän taitaa nöyryyttää.   ",
       "king_james": "Now I Nebuchadnezzar praise and extol and honour the King of heaven, all whose works are truth, and his ways judgment: and those that walk in pride he is able to abase. ",
       "refs": {
         "latin_vulgate": {
           "src": "4:34"
         },
         "hebrew_masoretic": {
+          "src": "4:34"
+        },
+        "douay_rheims": {
           "src": "4:34"
         }
       }

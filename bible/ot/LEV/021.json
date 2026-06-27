@@ -2,6 +2,8 @@
   "book_id": "LEV",
   "latin_name": "Leviticus",
   "hebrew_name": "וַיִּקְרָא",
+  "douay_name": "Leviticus",
+  "finnish_name": "3. Mooseksen kirja",
   "english_name": "Leviticus",
   "chapter": 21,
   "verses": [
@@ -9,144 +11,192 @@
       "verse": 1,
       "latin_vulgate": "Dixit quoque Dominus ad Moysen : Loquere ad sacerdotes filios Aaron, et dices ad eos : Ne contaminetur sacerdos in mortibus civium suorum, ",
       "hebrew_masoretic": "וַיֹּ֤אמֶר יְהֹוָה֙ אֶל־מֹשֶׁ֔ה אֱמֹ֥ר אֶל־הַכֹּהֲנִ֖ים בְּנֵ֣י אַהֲרֹ֑ן וְאָמַרְתָּ֣ אֲלֵהֶ֔ם לְנֶ֥פֶשׁ לֹֽא־יִטַּמָּ֖א בְּעַמָּֽיו׃",
+      "douay_rheims": "The Lord said also to Moses: Speak to the priests the sons of Aaron, and thou shalt say for them: Let not a priest incur an uncleanness at the death of his citizens.",
+      "finnish_biblia": "Ja Herra sanoi Mosekselle: puhu papeille Aaronin pojille ja sano heille: papin ei pidä itsiänsä saastuttaman yhdessäkään kuolleessa kansastansa; ",
       "king_james": "And the Lord said unto Moses, Speak unto the priests the sons of Aaron, and say unto them, There shall none be defiled for the dead among his people:"
     },
     {
       "verse": 2,
       "latin_vulgate": "nisi tantum in consanguineis, ac propinquis, id est, super patre et matre, et filio, et filia, fratre quoque, ",
       "hebrew_masoretic": "כִּ֚י אִם־לִשְׁאֵר֔וֹ הַקָּרֹ֖ב אֵלָ֑יו לְאִמּ֣וֹ וּלְאָבִ֔יו וְלִבְנ֥וֹ וּלְבִתּ֖וֹ וּלְאָחִֽיו׃",
+      "douay_rheims": "But only for his kin, such as are near in blood: that is to say, for his father and for his mother, and for his son, and for his daughter, for his brother also:",
+      "finnish_biblia": "Vaan hänen suvussansa, joka on hänen lähimmäisensä: niinkuin hänen äitinsä, isänsä, poikansa, tyttärensä ja veljensä, ",
       "king_james": "But for his kin, that is near unto him, that is, for his mother, and for his father, and for his son, and for his daughter, and for his brother,"
     },
     {
       "verse": 3,
       "latin_vulgate": "et sorore virgine quæ non est nupta viro : ",
       "hebrew_masoretic": "וְלַאֲחֹת֤וֹ הַבְּתוּלָה֙ הַקְּרוֹבָ֣ה אֵלָ֔יו אֲשֶׁ֥ר לֹֽא־הָיְתָ֖ה לְאִ֑ישׁ לָ֖הּ יִטַּמָּֽא׃",
+      "douay_rheims": "And for a maiden sister, who hath had no husband.",
+      "finnish_biblia": "Ja sisarensa, joka neitsy on, joka hänen tykönänsä on, ja ei yhdenkään miehen emäntänä ollut ole: niissä mahtaa hän saastuttaa itsensä. ",
       "king_james": "And for his sister a virgin, that is nigh unto him, which hath had no husband; for her may he be defiled."
     },
     {
       "verse": 4,
       "latin_vulgate": "sed nec in principe populi sui contaminabitur. ",
       "hebrew_masoretic": "לֹ֥א יִטַּמָּ֖א בַּ֣עַל בְּעַמָּ֑יו לְהֵ֖חַלּֽוֹ׃",
+      "douay_rheims": "But not even for the prince of his people shall he do any thing that may make him unclean.",
+      "finnish_biblia": "Ei hänen pidä saastuttaman itsiänsä, että hän on esimies kansassansa, ettei hän itsiänsä halventaisi. ",
       "king_james": "But he shall not defile himself, being a chief man among his people, to profane himself."
     },
     {
       "verse": 5,
       "latin_vulgate": "Non radent caput, nec barbam, neque in carnibus suis facient incisuras. ",
       "hebrew_masoretic": "לֹֽא־[יִקְרְח֤וּ] (יקרחה) קׇרְחָה֙ בְּרֹאשָׁ֔ם וּפְאַ֥ת זְקָנָ֖ם לֹ֣א יְגַלֵּ֑חוּ וּבִ֨בְשָׂרָ֔ם לֹ֥א יִשְׂרְט֖וּ שָׂרָֽטֶת׃",
+      "douay_rheims": "Neither shall they shave their head, nor their beard, nor make incisions in their flesh.",
+      "finnish_biblia": "Ei heidän pidä paljaaksi ajeleman päälakiansa, eli keritsemään partansa vieriä, eikä ihoonsa merkkejä leikkaaman. ",
       "king_james": "They shall not make baldness upon their head, neither shall they shave off the corner of their beard, nor make any cuttings in their flesh."
     },
     {
       "verse": 6,
       "latin_vulgate": "Sancti erunt Deo suo, et non polluent nomen ejus : incensum enim Domini, et panes Dei sui offerunt, et ideo sancti erunt. ",
       "hebrew_masoretic": "קְדֹשִׁ֤ים יִהְיוּ֙ לֵאלֹ֣הֵיהֶ֔ם וְלֹ֣א יְחַלְּל֔וּ שֵׁ֖ם אֱלֹהֵיהֶ֑ם כִּי֩ אֶת־אִשֵּׁ֨י יְהֹוָ֜ה לֶ֧חֶם אֱלֹהֵיהֶ֛ם הֵ֥ם מַקְרִיבִ֖ם וְהָ֥יוּ קֹֽדֶשׁ׃",
+      "douay_rheims": "They shall be holy to their God, and shall not profane his name. For they offer the burnt offering of the Lord, and the bread of their God: and therefore they shall be holy.",
+      "finnish_biblia": "Heidän pitää Jumalallensa pyhät oleman, ja ei häpäisemän Jumalansa nimeä; sillä he uhraavat Herran tuliuhria, Jumalansa leipää; sentähden pitää heidän oleman pyhät. ",
       "king_james": "They shall be holy unto their God, and not profane the name of their God: for the offerings of the Lord made by fire, and the bread of their God, they do offer: therefore they shall be holy."
     },
     {
       "verse": 7,
       "latin_vulgate": "Scortum et vile prostibulum non ducent uxorem, nec eam quæ repudiata est a marito : quia consecrati sunt Deo suo, ",
       "hebrew_masoretic": "אִשָּׁ֨ה זֹנָ֤ה וַחֲלָלָה֙ לֹ֣א יִקָּ֔חוּ וְאִשָּׁ֛ה גְּרוּשָׁ֥ה מֵאִישָׁ֖הּ לֹ֣א יִקָּ֑חוּ כִּֽי־קָדֹ֥שׁ ה֖וּא לֵאלֹהָֽיו׃",
+      "douay_rheims": "They shall not take to wife a harlot or a vile prostitute, nor one that has been put away from her husband: because they are consecrated to their God,",
+      "finnish_biblia": "Ei heidän pidä naiman porttoa, eli muilta maattua, eli mieheltänsä hyljättyä ottaman; sillä hän on pyhä Jumalallensa. ",
       "king_james": "They shall not take a wife that is a whore, or profane; neither shall they take a woman put away from her husband: for he is holy unto his God."
     },
     {
       "verse": 8,
       "latin_vulgate": "et panes propositionis offerunt. Sint ergo sancti, quia et ego sanctus sum, Dominus qui sanctifico eos. ",
       "hebrew_masoretic": "וְקִ֨דַּשְׁתּ֔וֹ כִּֽי־אֶת־לֶ֥חֶם אֱלֹהֶ֖יךָ ה֣וּא מַקְרִ֑יב קָדֹשׁ֙ יִֽהְיֶה־לָּ֔ךְ כִּ֣י קָד֔וֹשׁ אֲנִ֥י יְהֹוָ֖ה מְקַדִּשְׁכֶֽם׃",
+      "douay_rheims": "And offer the loaves of proposition. Let them therefore be holy because I also am holy: the Lord, who sanctify them.",
+      "finnish_biblia": "Sentähden pitää sinun pyhittämän hänen, että hän uhraa sinun Jumalas leipää: hänen pitää oleman sinulle pyhän; sillä minä Herra olen pyhä, joka teidät pyhitän. ",
       "king_james": "Thou shalt sanctify him therefore; for he offereth the bread of thy God: he shall be holy unto thee: for I the Lord, which sanctify you, am holy."
     },
     {
       "verse": 9,
       "latin_vulgate": "Sacerdotis filia si deprehensa fuerit in stupro, et violaverit nomen patris sui, flammis exuretur.  ",
       "hebrew_masoretic": "וּבַת֙ אִ֣ישׁ כֹּהֵ֔ן כִּ֥י תֵחֵ֖ל לִזְנ֑וֹת אֶת־אָבִ֙יהָ֙ הִ֣יא מְחַלֶּ֔לֶת בָּאֵ֖שׁ תִּשָּׂרֵֽף׃ {ס}",
+      "douay_rheims": "If the daughter of a priest be taken in whoredom and dishonour the name of her father, she shall be burnt with fire.",
+      "finnish_biblia": "Jos papin tytär rupee salavuoteiseksi, se pitää tulessa poltettaman; sillä hän on häväissyt isänsä. ",
       "king_james": "And the daughter of any priest, if she profane herself by playing the whore, she profaneth her father: she shall be burnt with fire."
     },
     {
       "verse": 10,
       "latin_vulgate": " Pontifex, id est, sacerdos maximus inter fratres suos, super cujus caput fusum est unctionis oleum, et cujus manus in sacerdotio consecratæ sunt, vestitusque est sanctis vestibus, caput suum non discooperiet, vestimenta non scindet : ",
       "hebrew_masoretic": "וְהַכֹּהֵן֩ הַגָּד֨וֹל מֵאֶחָ֜יו אֲֽשֶׁר־יוּצַ֥ק עַל־רֹאשׁ֣וֹ ׀ שֶׁ֤מֶן הַמִּשְׁחָה֙ וּמִלֵּ֣א אֶת־יָד֔וֹ לִלְבֹּ֖שׁ אֶת־הַבְּגָדִ֑ים אֶת־רֹאשׁוֹ֙ לֹ֣א יִפְרָ֔ע וּבְגָדָ֖יו לֹ֥א יִפְרֹֽם׃",
+      "douay_rheims": "The high priest, that is to say, the priest who is the greatest among his brethren, upon whose head the oil of unction hath been poured; and whose hands have been consecrated for the priesthood; and who hath been vested with the holy vestments. He shall not uncover his head: he shall not rend his garments.",
+      "finnish_biblia": "Joka ylimmäinen pappi on veljeinsä seassa, jonka pään päälle voidellusöljy vuodatettu, ja käsi täytetty on, että hän vaatteesen puetetaan: ei pidä sen paljastaman päätänsä, ja ei leikkaaman rikki vaatettansa. ",
       "king_james": "And he that is the high priest among his brethren, upon whose head the anointing oil was poured, and that is consecrated to put on the garments, shall not uncover his head, nor rend his clothes;"
     },
     {
       "verse": 11,
       "latin_vulgate": "et ad omnem mortuum non ingredietur omnino : super patre quoque suo et matre non contaminabitur. ",
       "hebrew_masoretic": "וְעַ֛ל כׇּל־נַפְשֹׁ֥ת מֵ֖ת לֹ֣א יָבֹ֑א לְאָבִ֥יו וּלְאִמּ֖וֹ לֹ֥א יִטַּמָּֽא׃",
+      "douay_rheims": "Nor shall he go in at all to any dead person: not even for his father, or his mother, shall he be defiled.",
+      "finnish_biblia": "Ja ei yhdenkään kuolleen tykö tuleman, ja ei saastuttaman itsiänsä isässänsä eli äidissänsä. ",
       "king_james": "Neither shall he go in to any dead body, nor defile himself for his father, or for his mother;"
     },
     {
       "verse": 12,
       "latin_vulgate": "Nec egredietur de sanctis, ne polluat sanctuarium Domini, quia oleum sanctæ unctionis Dei sui super eum est. Ego Dominus. ",
       "hebrew_masoretic": "וּמִן־הַמִּקְדָּשׁ֙ לֹ֣א יֵצֵ֔א וְלֹ֣א יְחַלֵּ֔ל אֵ֖ת מִקְדַּ֣שׁ אֱלֹהָ֑יו כִּ֡י נֵ֠זֶר שֶׁ֣מֶן מִשְׁחַ֧ת אֱלֹהָ֛יו עָלָ֖יו אֲנִ֥י יְהֹוָֽה׃",
+      "douay_rheims": "Neither shall he go out of the holy places, lest he defile the sanctuary of the Lord: because the oil of the holy unction of his God is upon him. I am the Lord.",
+      "finnish_biblia": "Ei hänen pidä lähtemän pyhästä, ettei hän saastuttaisi Jumalansa pyhää; sillä hänen Jumalansa voidellusöljyn kruunu on hänen päällänsä. Minä olen Herra. ",
       "king_james": "Neither shall he go out of the sanctuary, nor profane the sanctuary of his God; for the crown of the anointing oil of his God is upon him: I am the Lord."
     },
     {
       "verse": 13,
       "latin_vulgate": "Virginem ducet uxorem : ",
       "hebrew_masoretic": "וְה֕וּא אִשָּׁ֥ה בִבְתוּלֶ֖יהָ יִקָּֽח׃",
+      "douay_rheims": "He shall take a virgin unto his wife.",
+      "finnish_biblia": "Hänen pitää ottaman neitseen emännäksensä, ",
       "king_james": "And he shall take a wife in her virginity."
     },
     {
       "verse": 14,
       "latin_vulgate": "viduam autem et repudiatam, et sordidam, atque meretricem non accipiet, sed puellam de populo suo : ",
       "hebrew_masoretic": "אַלְמָנָ֤ה וּגְרוּשָׁה֙ וַחֲלָלָ֣ה זֹנָ֔ה אֶת־אֵ֖לֶּה לֹ֣א יִקָּ֑ח כִּ֛י אִם־בְּתוּלָ֥ה מֵעַמָּ֖יו יִקַּ֥ח אִשָּֽׁה׃",
+      "douay_rheims": "But a widow or one that is divorced, or defied, or a harlot, he shall not take: but a maid of his own people.",
+      "finnish_biblia": "Ja ei leskeä, eli hyljättyä, eli maattua, taikka porttoa pidä hänen ottaman. Mutta neitosen omasta kansastansa pitää hänen ottaman emännäksensä, ",
       "king_james": "A widow, or a divorced woman, or profane, or an harlot, these shall he not take: but he shall take a virgin of his own people to wife."
     },
     {
       "verse": 15,
       "latin_vulgate": "ne commisceat stirpem generis sui vulgo gentis suæ : quia ego Dominus, qui sanctifico eum. ",
       "hebrew_masoretic": "וְלֹֽא־יְחַלֵּ֥ל זַרְע֖וֹ בְּעַמָּ֑יו כִּ֛י אֲנִ֥י יְהֹוָ֖ה מְקַדְּשֽׁוֹ׃ {ס}",
+      "douay_rheims": "He shall not mingle the stock of his kindred with the common people of this nation: for I am the Lord who sanctify him.",
+      "finnish_biblia": "Ettei hän saastuttaisi siementänsä kansansa seassa; sillä minä olen Herra, joka hänen pyhitän. ",
       "king_james": "Neither shall he profane his seed among his people: for I the Lord do sanctify him."
     },
     {
       "verse": 16,
       "latin_vulgate": "Locutusque est Dominus ad Moysen, dicens : ",
       "hebrew_masoretic": "וַיְדַבֵּ֥ר יְהֹוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃",
+      "douay_rheims": "And the Lord spoke to Moses, saying:",
+      "finnish_biblia": "Ja Herra puhui Mosekselle, sanoen: ",
       "king_james": "And the Lord spake unto Moses, saying,"
     },
     {
       "verse": 17,
       "latin_vulgate": "Loquere ad Aaron : Homo de semine tuo per familias qui habuerit maculam, non offeret panes Deo suo, ",
       "hebrew_masoretic": "דַּבֵּ֥ר אֶֽל־אַהֲרֹ֖ן לֵאמֹ֑ר אִ֣ישׁ מִֽזַּרְעֲךָ֞ לְדֹרֹתָ֗ם אֲשֶׁ֨ר יִהְיֶ֥ה בוֹ֙ מ֔וּם לֹ֣א יִקְרַ֔ב לְהַקְרִ֖יב לֶ֥חֶם אֱלֹהָֽיו׃",
+      "douay_rheims": "Say to Aaron: Whosoever of thy seed throughout their families, hath a blemish, he shall not offer bread to his God.",
+      "finnish_biblia": "Puhu Aaronille ja sano: jos joku virhe on jossakussa sinun siemenessäs teidän suvussanne, ei pidä sen lähestymän uhraamaan Jumalansa leipää. ",
       "king_james": "Speak unto Aaron, saying, Whosoever he be of thy seed in their generations that hath any blemish, let him not approach to offer the bread of his God."
     },
     {
       "verse": 18,
       "latin_vulgate": "nec accedet ad ministerium ejus : si cæcus fuerit, si claudus, si parvo vel grandi, vel torto naso, ",
       "hebrew_masoretic": "כִּ֥י כׇל־אִ֛ישׁ אֲשֶׁר־בּ֥וֹ מ֖וּם לֹ֣א יִקְרָ֑ב אִ֤ישׁ עִוֵּר֙ א֣וֹ פִסֵּ֔חַ א֥וֹ חָרֻ֖ם א֥וֹ שָׂרֽוּעַ׃",
+      "douay_rheims": "Neither shall he approach to minister to him: If he be blind; if he be lame; if he have a little, or a great, or a crooked nose;",
+      "finnish_biblia": "Sillä ei kenenkään, jossa joku virhe on, pidä käymän edes: jos hän on sokia, eli ontuva, vajava eli liiallinen jäsenistä, ",
       "king_james": "For whatsoever man he be that hath a blemish, he shall not approach: a blind man, or a lame, or he that hath a flat nose, or any thing superfluous,"
     },
     {
       "verse": 19,
       "latin_vulgate": "si fracto pede, si manu, ",
       "hebrew_masoretic": "א֣וֹ אִ֔ישׁ אֲשֶׁר־יִהְיֶ֥ה ב֖וֹ שֶׁ֣בֶר רָ֑גֶל א֖וֹ שֶׁ֥בֶר יָֽד׃",
+      "douay_rheims": "If his foot, or if his hand be broken;",
+      "finnish_biblia": "Eli virheellinen jalasta eli kädestä, ",
       "king_james": "Or a man that is brokenfooted, or brokenhanded,"
     },
     {
       "verse": 20,
       "latin_vulgate": "si gibbus, si lippus, si albuginem habens in oculo, si jugem scabiem, si impetiginem in corpore, vel herniosus. ",
       "hebrew_masoretic": "אֽוֹ־גִבֵּ֣ן אוֹ־דַ֔ק א֖וֹ תְּבַלֻּ֣ל בְּעֵינ֑וֹ א֤וֹ גָרָב֙ א֣וֹ יַלֶּ֔פֶת א֖וֹ מְר֥וֹחַ אָֽשֶׁךְ׃",
+      "douay_rheims": "If he be crookbacked; or blear eyed; or have a pearl in his eye, or a continual scab, or a dry scurf in his body, or a rupture.",
+      "finnish_biblia": "Taikka ryhäselkä, eli pienukainen, eli karsoi, eli pisamainen, taikka rupinen, eli rivinoma rauhaisista: ",
       "king_james": "Or crookbackt, or a dwarf, or that hath a blemish in his eye, or be scurvy, or scabbed, or hath his stones broken;"
     },
     {
       "verse": 21,
       "latin_vulgate": "Omnis qui habuerit maculam de semine Aaron sacerdotis, non accedet offerre hostias Domino, nec panes Deo suo : ",
       "hebrew_masoretic": "כׇּל־אִ֞ישׁ אֲשֶׁר־בּ֣וֹ מ֗וּם מִזֶּ֙רַע֙ אַהֲרֹ֣ן הַכֹּהֵ֔ן לֹ֣א יִגַּ֔שׁ לְהַקְרִ֖יב אֶת־אִשֵּׁ֣י יְהֹוָ֑ה מ֣וּם בּ֔וֹ אֵ֚ת לֶ֣חֶם אֱלֹהָ֔יו לֹ֥א יִגַּ֖שׁ לְהַקְרִֽיב׃",
+      "douay_rheims": "Whosoever of the seed of Aaron the priest hath a blemish: he shall not approach to offer sacrifices to the Lord, nor bread to his God.",
+      "finnish_biblia": "Jos jossakin papin Aaronin siemenessä virhe on, ei sen pidä lähestymän uhraamaan Herran tuliuhria; sillä hänellä on virhe, sentähden ei pidä hänen lähestymän Jumalansa leipää uhraamaan. ",
       "king_james": "No man that hath a blemish of the seed of Aaron the priest shall come nigh to offer the offerings of the Lord made by fire: he hath a blemish; he shall not come nigh to offer the bread of his God."
     },
     {
       "verse": 22,
       "latin_vulgate": "vescetur tamen panibus qui offeruntur in sanctuario, ",
       "hebrew_masoretic": "לֶ֣חֶם אֱלֹהָ֔יו מִקׇּדְשֵׁ֖י הַקֳּדָשִׁ֑ים וּמִן־הַקֳּדָשִׁ֖ים יֹאכֵֽל׃",
+      "douay_rheims": "He shall eat nevertheless of the loaves that are offered in the sanctuary.",
+      "finnish_biblia": "Kuitenkin pitää hänen syömän Jumalansa leivästä, sekä siitä pyhästä, että kaikkein pyhimmästä. ",
       "king_james": "He shall eat the bread of his God, both of the most holy, and of the holy."
     },
     {
       "verse": 23,
       "latin_vulgate": "ita dumtaxat, ut intra velum non ingrediatur, nec accedat ad altare, quia maculam habet, et contaminare non debet sanctuarium meum. Ego Dominus qui sanctifico eos. ",
       "hebrew_masoretic": "אַ֣ךְ אֶל־הַפָּרֹ֜כֶת לֹ֣א יָבֹ֗א וְאֶל־הַמִּזְבֵּ֛חַ לֹ֥א יִגַּ֖שׁ כִּֽי־מ֣וּם בּ֑וֹ וְלֹ֤א יְחַלֵּל֙ אֶת־מִקְדָּשַׁ֔י כִּ֛י אֲנִ֥י יְהֹוָ֖ה מְקַדְּשָֽׁם׃",
+      "douay_rheims": "Yet so that he enter not within the veil, nor approach to the altar: because he hath a blemish, and he must not defile my sanctuary. I am the Lord who sanctify them.",
+      "finnish_biblia": "Mutta ei hänen pidä kuitenkaan tuleman esiripun tykö, eikä lähestymän alttaria, että hänessä on virhe, ettei hän saastuttaisi minun pyhääni; sillä minä olen Herra, joka heidät pyhitän. ",
       "king_james": "Only he shall not go in unto the vail, nor come nigh unto the altar, because he hath a blemish; that he profane not my sanctuaries: for I the Lord do sanctify them."
     },
     {
       "verse": 24,
       "latin_vulgate": "Locutus est ergo Moyses ad Aaron, et ad filios ejus, et ad omnem Israël cuncta quæ fuerant sibi imperata.   ",
       "hebrew_masoretic": "וַיְדַבֵּ֣ר מֹשֶׁ֔ה אֶֽל־אַהֲרֹ֖ן וְאֶל־בָּנָ֑יו וְאֶֽל־כׇּל־בְּנֵ֖י יִשְׂרָאֵֽל׃ {פ}",
+      "douay_rheims": "Moses, therefore spoke to Aaron, and to his sons and to all Israel, all the things that had been commanded him. ",
+      "finnish_biblia": "Ja Moses sanoi (nämät) Aaronille, ja hänen pojillensa, ja kaikille Israelin lapsille.   ",
       "king_james": "And Moses told it unto Aaron, and to his sons, and unto all the children of Israel. "
     }
   ]

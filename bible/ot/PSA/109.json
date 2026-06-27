@@ -2,6 +2,8 @@
   "book_id": "PSA",
   "latin_name": "Liber Psalmorum",
   "hebrew_name": "תְּהִלִּים",
+  "douay_name": "Psalms",
+  "finnish_name": "Psalmit",
   "english_name": "Psalms",
   "chapter": 109,
   "verses": [
@@ -9,9 +11,14 @@
       "verse": 1,
       "latin_vulgate": "In finem. Psalmus David.  ",
       "hebrew_masoretic": "לַ֭מְנַצֵּחַ לְדָוִ֣ד מִזְמ֑וֹר אֱלֹהֵ֥י תְ֝הִלָּתִ֗י אַֽל־תֶּחֱרַֽשׁ׃",
+      "douay_rheims": "Unto the end, a psalm for David.",
+      "finnish_biblia": "Davidin Psalmi, edelläveisaajalle. Jumala, minun kiitokseni, älä vaikene. ",
       "king_james": "Hold not thy peace, O God of my praise;",
       "refs": {
         "latin_vulgate": {
+          "src": "108:1"
+        },
+        "douay_rheims": {
           "src": "108:1"
         }
       }
@@ -20,9 +27,14 @@
       "verse": 2,
       "latin_vulgate": "  Deus, laudem meam ne tacueris,  quia os peccatoris et os dolosi super me apertum est. ",
       "hebrew_masoretic": "כִּ֤י פִ֪י רָשָׁ֡ע וּֽפִי־מִ֭רְמָה עָלַ֣י פָּתָ֑חוּ דִּבְּר֥וּ אִ֝תִּ֗י לְשׁ֣וֹן שָֽׁקֶר׃",
+      "douay_rheims": "O God, be not thou silent in my praise: for the mouth of the wicked and the mouth of the deceitful man is opened against me.",
+      "finnish_biblia": "Sillä he ovat jumalattoman ja pettäväisen suunsa avanneet minua vastaan: he puhuvat minun kanssani viekkaalla kielellä, ",
       "king_james": "For the mouth of the wicked and the mouth of the deceitful are opened against me: they have spoken against me with a lying tongue.",
       "refs": {
         "latin_vulgate": {
+          "src": "108:2"
+        },
+        "douay_rheims": {
           "src": "108:2"
         }
       }
@@ -31,9 +43,14 @@
       "verse": 3,
       "latin_vulgate": " Locuti sunt adversum me lingua dolosa,  et sermonibus odii circumdederunt me :  et expugnaverunt me gratis. ",
       "hebrew_masoretic": "וְדִבְרֵ֣י שִׂנְאָ֣ה סְבָב֑וּנִי וַיִּֽלָּחֲמ֥וּנִי חִנָּֽם׃",
+      "douay_rheims": "They have spoken against me with deceitful tongues; and they have compassed me about with words of hatred; and have fought against me without cause.",
+      "finnish_biblia": "Ja myrkyllisillä sanoilla ovat he minun piirittäneet, ja sotivat minua vastaan ilman syytä. ",
       "king_james": "They compassed me about also with words of hatred; and fought against me without a cause.",
       "refs": {
         "latin_vulgate": {
+          "src": "108:3"
+        },
+        "douay_rheims": {
           "src": "108:3"
         }
       }
@@ -42,9 +59,14 @@
       "verse": 4,
       "latin_vulgate": " Pro eo ut me diligerent, detrahebant mihi ;  ego autem orabam. ",
       "hebrew_masoretic": "תַּֽחַת־אַהֲבָתִ֥י יִשְׂטְנ֗וּנִי וַאֲנִ֥י תְפִלָּֽה׃",
+      "douay_rheims": "Instead of making me a return of love, they detracted me: but I gave myself to prayer.",
+      "finnish_biblia": "Että minä heitä rakastan, ovat he minua vastaan; mutta minä rukoilen. ",
       "king_james": "For my love they are my adversaries: but I give myself unto prayer.",
       "refs": {
         "latin_vulgate": {
+          "src": "108:4"
+        },
+        "douay_rheims": {
           "src": "108:4"
         }
       }
@@ -53,9 +75,14 @@
       "verse": 5,
       "latin_vulgate": " Et posuerunt adversum me mala pro bonis,  et odium pro dilectione mea. ",
       "hebrew_masoretic": "וַיָּ֘שִׂ֤ימוּ עָלַ֣י רָ֭עָה תַּ֣חַת טוֹבָ֑ה וְ֝שִׂנְאָ֗ה תַּ֣חַת אַהֲבָתִֽי׃",
+      "douay_rheims": "And they repaid me evil for good: and hatred for my love.",
+      "finnish_biblia": "He osoittavat minulle pahaa hyvän edestä ja vihaa rakkauden edestä. ",
       "king_james": "And they have rewarded me evil for good, and hatred for my love.",
       "refs": {
         "latin_vulgate": {
+          "src": "108:5"
+        },
+        "douay_rheims": {
           "src": "108:5"
         }
       }
@@ -64,9 +91,14 @@
       "verse": 6,
       "latin_vulgate": " Constitue super eum peccatorem,  et diabolus stet a dextris ejus. ",
       "hebrew_masoretic": "הַפְקֵ֣ד עָלָ֣יו רָשָׁ֑ע וְ֝שָׂטָ֗ן יַעֲמֹ֥ד עַל־יְמִינֽוֹ׃",
+      "douay_rheims": "Set thou the sinner over him: and may the devil stand at his right hand.",
+      "finnish_biblia": "Aseta jumalattomat hänen päällensä, ja perkele seisokaan hänen oikialla kädellänsä. ",
       "king_james": "Set thou a wicked man over him: and let Satan stand at his right hand.",
       "refs": {
         "latin_vulgate": {
+          "src": "108:6"
+        },
+        "douay_rheims": {
           "src": "108:6"
         }
       }
@@ -75,9 +107,14 @@
       "verse": 7,
       "latin_vulgate": " Cum judicatur, exeat condemnatus ;  et oratio ejus fiat in peccatum. ",
       "hebrew_masoretic": "בְּ֭הִשָּׁ֣פְטוֹ יֵצֵ֣א רָשָׁ֑ע וּ֝תְפִלָּת֗וֹ תִּֽהְיֶ֥ה לַחֲטָאָֽה׃",
+      "douay_rheims": "When he is judged, may he go out condemned; and may his prayer be turned to sin.",
+      "finnish_biblia": "Koska hän tuomitaan, niin lähtekään siitä ulos jumalattomana, ja hänen rukouksensa olkoon synti. ",
       "king_james": "When he shall be judged, let him be condemned: and let his prayer become sin.",
       "refs": {
         "latin_vulgate": {
+          "src": "108:7"
+        },
+        "douay_rheims": {
           "src": "108:7"
         }
       }
@@ -86,9 +123,14 @@
       "verse": 8,
       "latin_vulgate": " Fiant dies ejus pauci,  et episcopatum ejus accipiat alter. ",
       "hebrew_masoretic": "יִֽהְיוּ־יָמָ֥יו מְעַטִּ֑ים פְּ֝קֻדָּת֗וֹ יִקַּ֥ח אַחֵֽר׃",
+      "douay_rheims": "May his days be few: and his bishopric let another take.",
+      "finnish_biblia": "Olkoon hänen päivänsä harvat, ja hänen virkansa ottakoon toinen. ",
       "king_james": "Let his days be few; and let another take his office.",
       "refs": {
         "latin_vulgate": {
+          "src": "108:8"
+        },
+        "douay_rheims": {
           "src": "108:8"
         }
       }
@@ -97,9 +139,14 @@
       "verse": 9,
       "latin_vulgate": " Fiant filii ejus orphani,  et uxor ejus vidua. ",
       "hebrew_masoretic": "יִֽהְיוּ־בָנָ֥יו יְתוֹמִ֑ים וְ֝אִשְׁתּ֗וֹ אַלְמָנָֽה׃",
+      "douay_rheims": "May his children be fatherless, and his wife a widow.",
+      "finnish_biblia": "Hänen lapsensa olkoon orvot, ja hänen emäntänsä leski. ",
       "king_james": "Let his children be fatherless, and his wife a widow.",
       "refs": {
         "latin_vulgate": {
+          "src": "108:9"
+        },
+        "douay_rheims": {
           "src": "108:9"
         }
       }
@@ -108,9 +155,14 @@
       "verse": 10,
       "latin_vulgate": " Nutantes transferantur filii ejus et mendicent,  et ejiciantur de habitationibus suis. ",
       "hebrew_masoretic": "וְנ֤וֹעַ יָנ֣וּעוּ בָנָ֣יו וְשִׁאֵ֑לוּ וְ֝דָרְשׁ֗וּ מֵחׇרְבֽוֹתֵיהֶֽם׃",
+      "douay_rheims": "Let his children be carried about vagabonds, and beg; and let them be cast out of their dwellings.",
+      "finnish_biblia": "Käykään hänen lapsensa kulkiana, ja kerjätkään, ja etsikään elatuksensa köyhyydessänsä. ",
       "king_james": "Let his children be continually vagabonds, and beg: let them seek their bread also out of their desolate places.",
       "refs": {
         "latin_vulgate": {
+          "src": "108:10"
+        },
+        "douay_rheims": {
           "src": "108:10"
         }
       }
@@ -119,9 +171,14 @@
       "verse": 11,
       "latin_vulgate": " Scrutetur fœnerator omnem substantiam ejus,  et diripiant alieni labores ejus. ",
       "hebrew_masoretic": "יְנַקֵּ֣שׁ נ֭וֹשֶׁה לְכׇל־אֲשֶׁר־ל֑וֹ וְיָבֹ֖זּוּ זָרִ֣ים יְגִיעֽוֹ׃",
+      "douay_rheims": "May the usurer search all his substance: and let strangers plunder his labours.",
+      "finnish_biblia": "Kaikki mitä hänellä on, korkorahainen ottakoon, ja muukalaiset repikään hänen hyvyytensä. ",
       "king_james": "Let the extortioner catch all that he hath; and let the strangers spoil his labour.",
       "refs": {
         "latin_vulgate": {
+          "src": "108:11"
+        },
+        "douay_rheims": {
           "src": "108:11"
         }
       }
@@ -130,9 +187,14 @@
       "verse": 12,
       "latin_vulgate": " Non sit illi adjutor,  nec sit qui misereatur pupillis ejus. ",
       "hebrew_masoretic": "אַל־יְהִי־ל֭וֹ מֹשֵׁ֣ךְ חָ֑סֶד וְֽאַל־יְהִ֥י ח֝וֹנֵ֗ן לִֽיתוֹמָֽיו׃",
+      "douay_rheims": "May there be none to help him: nor none to pity his fatherless offspring.",
+      "finnish_biblia": "Älköön kenkään hänelle hyvää tehkö, eikä yksikään armahtako hänen orpojansa. ",
       "king_james": "Let there be none to extend mercy unto him: neither let there be any to favour his fatherless children.",
       "refs": {
         "latin_vulgate": {
+          "src": "108:12"
+        },
+        "douay_rheims": {
           "src": "108:12"
         }
       }
@@ -141,9 +203,14 @@
       "verse": 13,
       "latin_vulgate": " Fiant nati ejus in interitum ;  in generatione una deleatur nomen ejus. ",
       "hebrew_masoretic": "יְהִי־אַחֲרִית֥וֹ לְהַכְרִ֑ית בְּד֥וֹר אַ֝חֵ֗ר יִמַּ֥ח שְׁמָֽם׃",
+      "douay_rheims": "May his posterity be cut off; in one generation may his name be blotted out.",
+      "finnish_biblia": "Hänen sukunsa olkoon hävitetty: heidän nimensä olkoon toisessa polvessa pyyhitty pois. ",
       "king_james": "Let his posterity be cut off; and in the generation following let their name be blotted out.",
       "refs": {
         "latin_vulgate": {
+          "src": "108:13"
+        },
+        "douay_rheims": {
           "src": "108:13"
         }
       }
@@ -152,9 +219,14 @@
       "verse": 14,
       "latin_vulgate": " In memoriam redeat iniquitas patrum ejus in conspectu Domini,  et peccatum matris ejus non deleatur. ",
       "hebrew_masoretic": "יִזָּכֵ֤ר ׀ עֲוֺ֣ן אֲ֭בֹתָיו אֶל־יְהֹוָ֑ה וְחַטַּ֥את אִ֝מּ֗וֹ אַל־תִּמָּֽח׃",
+      "douay_rheims": "May the iniquity of his fathers be remembered in the sight of the Lord: and let not the sin of his mother be blotted out.",
+      "finnish_biblia": "Hänen isäinsä pahat teot tulkaan muistoksi Herran edessä, ja hänen äitinsä synti ei pidä pyyhittämän pois. ",
       "king_james": "Let the iniquity of his fathers be remembered with the Lord; and let not the sin of his mother be blotted out.",
       "refs": {
         "latin_vulgate": {
+          "src": "108:14"
+        },
+        "douay_rheims": {
           "src": "108:14"
         }
       }
@@ -163,9 +235,14 @@
       "verse": 15,
       "latin_vulgate": " Fiant contra Dominum semper,  et dispereat de terra memoria eorum : ",
       "hebrew_masoretic": "יִהְי֣וּ נֶגֶד־יְהֹוָ֣ה תָּמִ֑יד וְיַכְרֵ֖ת מֵאֶ֣רֶץ זִכְרָֽם׃",
+      "douay_rheims": "May they be before the Lord continually, and let the memory of them perish from the earth:",
+      "finnish_biblia": "Olkoon ne alati Herran kasvoin edessä, ja hukkukoon heidän muistonsa maan päältä, ",
       "king_james": "Let them be before the Lord continually, that he may cut off the memory of them from the earth.",
       "refs": {
         "latin_vulgate": {
+          "src": "108:15"
+        },
+        "douay_rheims": {
           "src": "108:15"
         }
       }
@@ -174,9 +251,14 @@
       "verse": 16,
       "latin_vulgate": " pro eo quod non est recordatus facere misericordiam, ",
       "hebrew_masoretic": "יַ֗עַן אֲשֶׁ֤ר ׀ לֹ֥א זָכַר֮ עֲשׂ֢וֹת חָ֥֫סֶד וַיִּרְדֹּ֡ף אִישׁ־עָנִ֣י וְ֭אֶבְיוֹן וְנִכְאֵ֨ה לֵבָ֬ב לְמוֹתֵֽת׃",
+      "douay_rheims": "because he remembered not to shew mercy,",
+      "finnish_biblia": "Ettei hänellä ensinkään laupiutta ollut, vaan vainosi raadollista ja köyhää, ja murheellista tappaaksensa. ",
       "king_james": "Because that he remembered not to shew mercy, but persecuted the poor and needy man, that he might even slay the broken in heart.",
       "refs": {
         "latin_vulgate": {
+          "src": "108:16"
+        },
+        "douay_rheims": {
           "src": "108:16"
         }
       }
@@ -185,9 +267,14 @@
       "verse": 17,
       "latin_vulgate": " et persecutus est hominem inopem et mendicum,  et compunctum corde, mortificare. ",
       "hebrew_masoretic": "וַיֶּאֱהַ֣ב קְ֭לָלָה וַתְּבוֹאֵ֑הוּ וְֽלֹא־חָפֵ֥ץ בִּ֝בְרָכָ֗ה וַתִּרְחַ֥ק מִמֶּֽנּוּ׃",
+      "douay_rheims": "But persecuted the poor man and the beggar; and the broken in heart, to put him to death.",
+      "finnish_biblia": "Ja hän tahtoi kirousta, sen myös pitää hänelle tuleman: ei hän tahtonut siunausta, sen pitää myös hänestä kauvas erkaneman. ",
       "king_james": "As he loved cursing, so let it come unto him: as he delighted not in blessing, so let it be far from him.",
       "refs": {
         "latin_vulgate": {
+          "src": "108:17"
+        },
+        "douay_rheims": {
           "src": "108:17"
         }
       }
@@ -196,9 +283,14 @@
       "verse": 18,
       "latin_vulgate": " Et dilexit maledictionem, et veniet ei ;  et noluit benedictionem, et elongabitur ab eo.  Et induit maledictionem sicut vestimentum ;  et intravit sicut aqua in interiora ejus,  et sicut oleum in ossibus ejus. ",
       "hebrew_masoretic": "וַיִּלְבַּ֥שׁ קְלָלָ֗ה כְּמַ֫דּ֥וֹ וַתָּבֹ֣א כַמַּ֣יִם בְּקִרְבּ֑וֹ וְ֝כַשֶּׁ֗מֶן בְּעַצְמוֹתָֽיו׃",
+      "douay_rheims": "And he loved cursing, and it shall come unto him: and he would not have blessing, and it shall be far from him. And he put on cursing, like a garment: and it went in like water into his entrails, and like oil in his bones.",
+      "finnish_biblia": "Ja hän puki kirouksen päällensä niinkuin paitansa ja se meni hänen sisällyksiinsä niinkuin vesi, ja hänen luihinsa niinkuin öljy. ",
       "king_james": "As he clothed himself with cursing like as with his garment, so let it come into his bowels like water, and like oil into his bones.",
       "refs": {
         "latin_vulgate": {
+          "src": "108:18"
+        },
+        "douay_rheims": {
           "src": "108:18"
         }
       }
@@ -207,9 +299,14 @@
       "verse": 19,
       "latin_vulgate": " Fiat ei sicut vestimentum quo operitur,  et sicut zona qua semper præcingitur. ",
       "hebrew_masoretic": "תְּהִי־ל֭וֹ כְּבֶ֣גֶד יַעְטֶ֑ה וּ֝לְמֵ֗זַח תָּמִ֥יד יַחְגְּרֶֽהָ׃",
+      "douay_rheims": "May it be unto him like a garment which covereth him; and like a girdle with which he is girded continually.",
+      "finnish_biblia": "Se olkoon hänelle niinkuin vaate, jolla hän itsensä verhottaa, ja niinkuin vyö, jolla hän aina itsensä vyöttää. ",
       "king_james": "Let it be unto him as the garment which covereth him, and for a girdle wherewith he is girded continually.",
       "refs": {
         "latin_vulgate": {
+          "src": "108:19"
+        },
+        "douay_rheims": {
           "src": "108:19"
         }
       }
@@ -218,9 +315,14 @@
       "verse": 20,
       "latin_vulgate": " Hoc opus eorum qui detrahunt mihi apud Dominum,  et qui loquuntur mala adversus animam meam. ",
       "hebrew_masoretic": "זֹ֤את פְּעֻלַּ֣ת שֹׂ֭טְנַי מֵאֵ֣ת יְהֹוָ֑ה וְהַדֹּבְרִ֥ים רָ֝֗ע עַל־נַפְשִֽׁי׃",
+      "douay_rheims": "This is the work of them who detract me before the Lord; and who speak evils against my soul.",
+      "finnish_biblia": "Aivan näin tapahtukoon heille Herralta, jotka ovat minua vastaan, ja puhuvat pahoin minun sieluani vastaan. ",
       "king_james": "Let this be the reward of mine adversaries from the Lord, and of them that speak evil against my soul.",
       "refs": {
         "latin_vulgate": {
+          "src": "108:20"
+        },
+        "douay_rheims": {
           "src": "108:20"
         }
       }
@@ -229,9 +331,14 @@
       "verse": 21,
       "latin_vulgate": " Et tu, Domine, Domine, fac mecum propter nomen tuum,  quia suavis est misericordia tua. ",
       "hebrew_masoretic": "וְאַתָּ֤ה ׀ יֱ֘הֹוִ֤ה אֲדֹנָ֗י עֲֽשֵׂה־אִ֭תִּי לְמַ֣עַן שְׁמֶ֑ךָ כִּי־ט֥וֹב חַ֝סְדְּךָ֗ הַצִּילֵֽנִי׃",
+      "douay_rheims": "But thou, O Lord, do with me for thy name's sake: because thy mercy is sweet. Do thou deliver me,",
+      "finnish_biblia": "Mutta sinä, Herra, Herra, tee minun kanssani sinun nimes tähden; sillä sinun armos on hyvä, pelasta minua. ",
       "king_james": "But do thou for me, O God the Lord, for thy name’s sake: because thy mercy is good, deliver thou me.",
       "refs": {
         "latin_vulgate": {
+          "src": "108:21"
+        },
+        "douay_rheims": {
           "src": "108:21"
         }
       }
@@ -240,9 +347,14 @@
       "verse": 22,
       "latin_vulgate": " Libera me, quia egenus et pauper ego sum,  et cor meum conturbatum est intra me. ",
       "hebrew_masoretic": "כִּי־עָנִ֣י וְאֶבְי֣וֹן אָנֹ֑כִי וְ֝לִבִּ֗י חָלַ֥ל בְּקִרְבִּֽי׃",
+      "douay_rheims": "For I am poor and needy, and my heart is troubled within me.",
+      "finnish_biblia": "Sillä minä olen köyhä ja raadollinen: minun sydämeni on särjetty minussa. ",
       "king_james": "For I am poor and needy, and my heart is wounded within me.",
       "refs": {
         "latin_vulgate": {
+          "src": "108:22"
+        },
+        "douay_rheims": {
           "src": "108:22"
         }
       }
@@ -251,9 +363,14 @@
       "verse": 23,
       "latin_vulgate": " Sicut umbra cum declinat ablatus sum,  et excussus sum sicut locustæ. ",
       "hebrew_masoretic": "כְּצֵל־כִּנְטוֹת֥וֹ נֶהֱלָ֑כְתִּי נִ֝נְעַ֗רְתִּי כָּאַרְבֶּֽה׃",
+      "douay_rheims": "I am taken away like the shadow when it declineth: and I am shaken off as locusts.",
+      "finnish_biblia": "Minä menen pois niinkuin varjo, koska se kulkee pois, ja pudistetaan ulos niinkuin kaskaat. ",
       "king_james": "I am gone like the shadow when it declineth: I am tossed up and down as the locust.",
       "refs": {
         "latin_vulgate": {
+          "src": "108:23"
+        },
+        "douay_rheims": {
           "src": "108:23"
         }
       }
@@ -262,9 +379,14 @@
       "verse": 24,
       "latin_vulgate": " Genua mea infirmata sunt a jejunio,  et caro mea immutata est propter oleum. ",
       "hebrew_masoretic": "בִּ֭רְכַּי כָּשְׁל֣וּ מִצּ֑וֹם וּ֝בְשָׂרִ֗י כָּחַ֥שׁ מִשָּֽׁמֶן׃",
+      "douay_rheims": "My knees are weakened through fasting: and my flesh is changed for oil.",
+      "finnish_biblia": "Minun polveni ovat heikoksi tulleet paastosta, ja minun lihani on laihtunut lihavuudesta. ",
       "king_james": "My knees are weak through fasting; and my flesh faileth of fatness.",
       "refs": {
         "latin_vulgate": {
+          "src": "108:24"
+        },
+        "douay_rheims": {
           "src": "108:24"
         }
       }
@@ -273,9 +395,14 @@
       "verse": 25,
       "latin_vulgate": " Et ego factus sum opprobrium illis ;  viderunt me, et moverunt capita sua. ",
       "hebrew_masoretic": "וַאֲנִ֤י ׀ הָיִ֣יתִי חֶרְפָּ֣ה לָהֶ֑ם יִ֝רְא֗וּנִי יְנִיע֥וּן רֹאשָֽׁם׃",
+      "douay_rheims": "And I am become a reproach to them: they saw me and they shaked their heads.",
+      "finnish_biblia": "Ja minun täytyy olla heidän pilkkansa: koska he minun näkevät, niin he päätänsä pudistavat. ",
       "king_james": "I became also a reproach unto them: when they looked upon me they shaked their heads.",
       "refs": {
         "latin_vulgate": {
+          "src": "108:25"
+        },
+        "douay_rheims": {
           "src": "108:25"
         }
       }
@@ -284,9 +411,14 @@
       "verse": 26,
       "latin_vulgate": " Adjuva me, Domine Deus meus ;  salvum me fac secundum misericordiam tuam. ",
       "hebrew_masoretic": "עׇ֭זְרֵנִי יְהֹוָ֣ה אֱלֹהָ֑י ה֖וֹשִׁיעֵ֣נִי כְחַסְדֶּֽךָ׃",
+      "douay_rheims": "Help me, O Lord my God; save me; according to thy mercy.",
+      "finnish_biblia": "Auta minua, Herra minun Jumalani: auta minua sinun armos perästä, ",
       "king_james": "Help me, O Lord my God: O save me according to thy mercy:",
       "refs": {
         "latin_vulgate": {
+          "src": "108:26"
+        },
+        "douay_rheims": {
           "src": "108:26"
         }
       }
@@ -295,9 +427,14 @@
       "verse": 27,
       "latin_vulgate": " Et sciant quia manus tua hæc,  et tu, Domine, fecisti eam. ",
       "hebrew_masoretic": "וְֽ֭יֵדְעוּ כִּי־יָ֣דְךָ זֹּ֑את אַתָּ֖ה יְהֹוָ֣ה עֲשִׂיתָֽהּ׃",
+      "douay_rheims": "And let them know that this is thy hand: and that thou, O Lord, hast done it.",
+      "finnish_biblia": "Että he tuntisivat sen sinun kädekses, ja että sinä Herra sen teet. ",
       "king_james": "That they may know that this is thy hand; that thou, Lord, hast done it.",
       "refs": {
         "latin_vulgate": {
+          "src": "108:27"
+        },
+        "douay_rheims": {
           "src": "108:27"
         }
       }
@@ -306,9 +443,14 @@
       "verse": 28,
       "latin_vulgate": " Maledicent illi, et tu benedices :  qui insurgunt in me confundantur ;  servus autem tuus lætabitur. ",
       "hebrew_masoretic": "יְקַֽלְלוּ־הֵמָּה֮ וְאַתָּ֢ה תְבָ֫רֵ֥ךְ קָ֤מוּ ׀ וַיֵּבֹ֗שׁוּ וְֽעַבְדְּךָ֥ יִשְׂמָֽח׃",
+      "douay_rheims": "They will curse and thou wilt bless: let them that rise up against me be confounded: but thy servant shall rejoice.",
+      "finnish_biblia": "Koska he sadattavat, niin siunaa sinä: koska he karkaavat minua vastaan, niin tulkoon he häpiään, mutta sinun palvelias iloitkaan. ",
       "king_james": "Let them curse, but bless thou: when they arise, let them be ashamed; but let thy servant rejoice.",
       "refs": {
         "latin_vulgate": {
+          "src": "108:28"
+        },
+        "douay_rheims": {
           "src": "108:28"
         }
       }
@@ -317,9 +459,14 @@
       "verse": 29,
       "latin_vulgate": " Induantur qui detrahunt mihi pudore,  et operiantur sicut diploide confusione sua. ",
       "hebrew_masoretic": "יִלְבְּשׁ֣וּ שׂוֹטְנַ֣י כְּלִמָּ֑ה וְיַעֲט֖וּ כַמְעִ֣יל בׇּשְׁתָּֽם׃",
+      "douay_rheims": "Let them that detract me be clothed with shame: and let them be covered with their confusion as with a double cloak.",
+      "finnish_biblia": "Olkoon minun vainolliseni häväistyksellä puetut, ja olkoon häpiällänsä verhotetut niinkuin hameella. ",
       "king_james": "Let mine adversaries be clothed with shame, and let them cover themselves with their own confusion, as with a mantle.",
       "refs": {
         "latin_vulgate": {
+          "src": "108:29"
+        },
+        "douay_rheims": {
           "src": "108:29"
         }
       }
@@ -328,9 +475,14 @@
       "verse": 30,
       "latin_vulgate": " Confitebor Domino nimis in ore meo,  et in medio multorum laudabo eum : ",
       "hebrew_masoretic": "א֘וֹדֶ֤ה יְהֹוָ֣ה מְאֹ֣ד בְּפִ֑י וּבְת֖וֹךְ רַבִּ֣ים אֲהַלְלֶֽנּוּ׃",
+      "douay_rheims": "I will give great thanks to the Lord with my mouth: and in the midst of many I will praise him.",
+      "finnish_biblia": "Minä kiitän suuresti Herraa suullani, ja ylistän häntä monen seassa. ",
       "king_james": "I will greatly praise the Lord with my mouth; yea, I will praise him among the multitude.",
       "refs": {
         "latin_vulgate": {
+          "src": "108:30"
+        },
+        "douay_rheims": {
           "src": "108:30"
         }
       }
@@ -339,9 +491,14 @@
       "verse": 31,
       "latin_vulgate": " quia astitit a dextris pauperis,  ut salvam faceret a persequentibus animam meam.  ",
       "hebrew_masoretic": "כִּֽי־יַ֭עֲמֹד לִימִ֣ין אֶבְי֑וֹן לְ֝הוֹשִׁ֗יעַ מִשֹּׁפְטֵ֥י נַפְשֽׁוֹ׃ {פ}",
+      "douay_rheims": "Because he hath stood at the right hand of the poor, to save my soul from persecutors. ",
+      "finnish_biblia": "Sillä hän seisoo köyhän oikialla kädellä, auttamassa häntä niistä, jotka hänen sieluansa tuomitsevat.   ",
       "king_james": "For he shall stand at the right hand of the poor, to save him from those that condemn his soul. ",
       "refs": {
         "latin_vulgate": {
+          "src": "108:31"
+        },
+        "douay_rheims": {
           "src": "108:31"
         }
       }

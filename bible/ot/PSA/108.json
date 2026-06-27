@@ -2,6 +2,8 @@
   "book_id": "PSA",
   "latin_name": "Liber Psalmorum",
   "hebrew_name": "תְּהִלִּים",
+  "douay_name": "Psalms",
+  "finnish_name": "Psalmit",
   "english_name": "Psalms",
   "chapter": 108,
   "verses": [
@@ -9,6 +11,8 @@
       "verse": 1,
       "latin_vulgate": "  Paratum cor meum, Deus, paratum cor meum ;  cantabo, et psallam in gloria mea. ",
       "hebrew_masoretic": "נָכ֣וֹן לִבִּ֣י אֱלֹהִ֑ים אָשִׁ֥ירָה וַ֝אֲזַמְּרָ֗ה אַף־כְּבוֹדִֽי׃",
+      "douay_rheims": "My heart is ready, O God, my heart is ready: I will sing, and will give praise, with my glory.",
+      "finnish_biblia": "Psalmi, Davidin veisu. (H108:2) Jumala! minun sydämeni on valmis: minä veisaan ja kiitän, niin myös minun kunniani. ",
       "king_james": "O God, my heart is fixed; I will sing and give praise, even with my glory.",
       "refs": {
         "latin_vulgate": {
@@ -16,6 +20,9 @@
         },
         "hebrew_masoretic": {
           "src": "108:2"
+        },
+        "douay_rheims": {
+          "src": "107:2"
         }
       }
     },
@@ -23,6 +30,8 @@
       "verse": 2,
       "latin_vulgate": " Exsurge, gloria mea ; exsurge, psalterium et cithara ;  exsurgam diluculo. ",
       "hebrew_masoretic": "ע֭וּרָֽה הַנֵּ֥בֶל וְכִנּ֗וֹר אָעִ֥ירָה שָּֽׁחַר׃",
+      "douay_rheims": "Arise, my glory; arise, psaltery and harp: I will arise in the morning early.",
+      "finnish_biblia": "Nouse, psaltari ja kantele; minä nousen varhain. ",
       "king_james": "Awake, psaltery and harp: I myself will awake early.",
       "refs": {
         "latin_vulgate": {
@@ -30,6 +39,9 @@
         },
         "hebrew_masoretic": {
           "src": "108:3"
+        },
+        "douay_rheims": {
+          "src": "107:3"
         }
       }
     },
@@ -37,6 +49,8 @@
       "verse": 3,
       "latin_vulgate": " Confitebor tibi in populis, Domine,  et psallam tibi in nationibus : ",
       "hebrew_masoretic": "אוֹדְךָ֖ בָעַמִּ֥ים ׀ יְהֹוָ֑ה וַ֝אֲזַמֶּרְךָ֗ בַּלְאֻמִּֽים׃",
+      "douay_rheims": "I will praise thee, O Lord, among the people: and I will sing unto thee among the nations.",
+      "finnish_biblia": "Sinua, Herra, minä kiitän kansain seassa: minä veisaan sinulle kiitosta sukukunnissa. ",
       "king_james": "I will praise thee, O Lord, among the people: and I will sing praises unto thee among the nations.",
       "refs": {
         "latin_vulgate": {
@@ -44,6 +58,9 @@
         },
         "hebrew_masoretic": {
           "src": "108:4"
+        },
+        "douay_rheims": {
+          "src": "107:4"
         }
       }
     },
@@ -51,6 +68,8 @@
       "verse": 4,
       "latin_vulgate": " quia magna est super cælos misericordia tua,  et usque ad nubes veritas tua. ",
       "hebrew_masoretic": "כִּי־גָד֣וֹל מֵעַל־שָׁמַ֣יִם חַסְדֶּ֑ךָ וְֽעַד־שְׁחָקִ֥ים אֲמִתֶּֽךָ׃",
+      "douay_rheims": "For thy mercy is great above the heavens: and thy truth even unto the clouds.",
+      "finnish_biblia": "Sillä sinun armos on suuri ylitse taivasten, ja sinun totuutes hamaan pilviin asti. ",
       "king_james": "For thy mercy is great above the heavens: and thy truth reacheth unto the clouds.",
       "refs": {
         "latin_vulgate": {
@@ -58,6 +77,9 @@
         },
         "hebrew_masoretic": {
           "src": "108:5"
+        },
+        "douay_rheims": {
+          "src": "107:5"
         }
       }
     },
@@ -65,6 +87,8 @@
       "verse": 5,
       "latin_vulgate": " Exaltare super cælos, Deus,  et super omnem terram gloria tua : ",
       "hebrew_masoretic": "ר֣וּמָה עַל־שָׁמַ֣יִם אֱלֹהִ֑ים וְעַ֖ל כׇּל־הָאָ֣רֶץ כְּבוֹדֶֽךָ׃",
+      "douay_rheims": "Be thou exalted, O God, above the heavens, and thy glory over all the earth:",
+      "finnish_biblia": "Korota sinuas, Jumala, taivasten ylitse ja kunnias kaiken maan ylitse, ",
       "king_james": "Be thou exalted, O God, above the heavens: and thy glory above all the earth;",
       "refs": {
         "latin_vulgate": {
@@ -72,6 +96,9 @@
         },
         "hebrew_masoretic": {
           "src": "108:6"
+        },
+        "douay_rheims": {
+          "src": "107:6"
         }
       }
     },
@@ -79,6 +106,8 @@
       "verse": 6,
       "latin_vulgate": " ut liberentur dilecti tui.  Salvum fac dextera tua, et exaudi me. ",
       "hebrew_masoretic": "לְ֭מַעַן יֵחָלְצ֣וּן יְדִידֶ֑יךָ הוֹשִׁ֖יעָה יְמִֽינְךָ֣ וַעֲנֵֽנִי׃",
+      "douay_rheims": "That thy beloved may be delivered. Save with thy right hand and hear me.",
+      "finnish_biblia": "Että sinun rakkaat ystäväs vapaaksi tulisivat; auta oikialla kädelläs, ja kuule minun rukoukseni. ",
       "king_james": "That thy beloved may be delivered: save with thy right hand, and answer me.",
       "refs": {
         "latin_vulgate": {
@@ -86,6 +115,9 @@
         },
         "hebrew_masoretic": {
           "src": "108:7"
+        },
+        "douay_rheims": {
+          "src": "107:7"
         }
       }
     },
@@ -93,6 +125,8 @@
       "verse": 7,
       "latin_vulgate": " Deus locutus est in sancto suo :  Exsultabo, et dividam Sichimam ;  et convallem tabernaculorum dimetiar. ",
       "hebrew_masoretic": "אֱלֹהִ֤ים ׀ דִּבֶּ֥ר בְּקׇדְשׁ֗וֹ אֶ֫עְלֹ֥זָה אֲחַלְּקָ֥ה שְׁכֶ֑ם וְעֵ֖מֶק סֻכּ֣וֹת אֲמַדֵּֽד׃",
+      "douay_rheims": "God hath spoken in his holiness. I will rejoice, and I will divide Sichem and I will mete out the vale of tabernacles.",
+      "finnish_biblia": "Jumala on puhunut pyhässänsä, siitä minä iloitsen: minä jaan Sikemin, ja mittaan Sukkotin laakson. ",
       "king_james": "God hath spoken in his holiness; I will rejoice, I will divide Shechem, and mete out the valley of Succoth.",
       "refs": {
         "latin_vulgate": {
@@ -100,6 +134,9 @@
         },
         "hebrew_masoretic": {
           "src": "108:8"
+        },
+        "douay_rheims": {
+          "src": "107:8"
         }
       }
     },
@@ -107,6 +144,8 @@
       "verse": 8,
       "latin_vulgate": " Meus est Galaad, et meus est Manasses,  et Ephraim susceptio capitis mei.  Juda rex meus ; ",
       "hebrew_masoretic": "לִ֤י גִלְעָ֨ד ׀ לִ֤י מְנַשֶּׁ֗ה וְ֭אֶפְרַיִם מָע֣וֹז רֹאשִׁ֑י יְ֝הוּדָ֗ה מְחֹקְקִֽי׃",
+      "douay_rheims": "Galaad is mine: and Manasses is mine and Ephraim the protection of my head. Juda is my king:",
+      "finnish_biblia": "Gilead on minun, Manasse on myös minun, ja Ephraim on minun pääni väkevyys: Juuda on minun päämieheni; ",
       "king_james": "Gilead is mine; Manasseh is mine; Ephraim also is the strength of mine head; Judah is my lawgiver;",
       "refs": {
         "latin_vulgate": {
@@ -114,6 +153,9 @@
         },
         "hebrew_masoretic": {
           "src": "108:9"
+        },
+        "douay_rheims": {
+          "src": "107:9"
         }
       }
     },
@@ -121,6 +163,8 @@
       "verse": 9,
       "latin_vulgate": "Moab lebes spei meæ :  in Idumæam extendam calceamentum meum ;  mihi alienigenæ amici facti sunt. ",
       "hebrew_masoretic": "מוֹאָ֤ב ׀ סִ֬יר רַחְצִ֗י עַל־אֱ֭דוֹם אַשְׁלִ֣יךְ נַעֲלִ֑י עֲלֵי־פְ֝לֶ֗שֶׁת אֶתְרוֹעָֽע׃",
+      "douay_rheims": "Moab the pot of my hope. Over Edom I will stretch out my shoe: the aliens are become my friends.",
+      "finnish_biblia": "Moab on minun pesinastiani, minä venytän kenkäni Edomin päälle: Philistealaisten ylitse minä iloitsen. ",
       "king_james": "Moab is my washpot; over Edom will I cast out my shoe; over Philistia will I triumph.",
       "refs": {
         "latin_vulgate": {
@@ -128,6 +172,9 @@
         },
         "hebrew_masoretic": {
           "src": "108:10"
+        },
+        "douay_rheims": {
+          "src": "107:10"
         }
       }
     },
@@ -135,6 +182,8 @@
       "verse": 10,
       "latin_vulgate": " Quis deducet me in civitatem munitam ?  quis deducet me usque in Idumæam ? ",
       "hebrew_masoretic": "מִ֣י יֹ֭בִלֵנִי עִ֣יר מִבְצָ֑ר מִ֖י נָחַ֣נִי עַד־אֱדֽוֹם׃",
+      "douay_rheims": "Who will bring me into the strong city? who will lead me into Edom?",
+      "finnish_biblia": "Kuka vie minua vahvaan kaupunkiin? kuka vie minua Edomiin? ",
       "king_james": "Who will bring me into the strong city? who will lead me into Edom?",
       "refs": {
         "latin_vulgate": {
@@ -142,6 +191,9 @@
         },
         "hebrew_masoretic": {
           "src": "108:11"
+        },
+        "douay_rheims": {
+          "src": "107:11"
         }
       }
     },
@@ -149,6 +201,8 @@
       "verse": 11,
       "latin_vulgate": " nonne tu, Deus, qui repulisti nos ?  et non exibis, Deus, in virtutibus nostris ? ",
       "hebrew_masoretic": "הֲלֹֽא־אֱלֹהִ֥ים זְנַחְתָּ֑נוּ וְֽלֹא־תֵצֵ֥א אֱ֝לֹהִ֗ים בְּצִבְאֹתֵֽינוּ׃",
+      "douay_rheims": "Wilt not thou, O God, who hast cast us off ? and wilt not thou, O God, go forth with our armies?",
+      "finnish_biblia": "Etkös sinä, Jumala, joka meitä heittänyt olet pois? Ja etkös mene ulos, Jumala, meidän sotaväkemme kanssa? ",
       "king_james": "Wilt not thou, O God, who hast cast us off? and wilt not thou, O God, go forth with our hosts?",
       "refs": {
         "latin_vulgate": {
@@ -156,6 +210,9 @@
         },
         "hebrew_masoretic": {
           "src": "108:12"
+        },
+        "douay_rheims": {
+          "src": "107:12"
         }
       }
     },
@@ -163,6 +220,8 @@
       "verse": 12,
       "latin_vulgate": " Da nobis auxilium de tribulatione,  quia vana salus hominis. ",
       "hebrew_masoretic": "הָבָה־לָּ֣נוּ עֶזְרָ֣ת מִצָּ֑ר וְ֝שָׁ֗וְא תְּשׁוּעַ֥ת אָדָֽם׃",
+      "douay_rheims": "O grant us help from trouble: for vain is the help of man.",
+      "finnish_biblia": "Saata meille apua tuskissamme; sillä ihmisten apu on turha. ",
       "king_james": "Give us help from trouble: for vain is the help of man.",
       "refs": {
         "latin_vulgate": {
@@ -170,6 +229,9 @@
         },
         "hebrew_masoretic": {
           "src": "108:13"
+        },
+        "douay_rheims": {
+          "src": "107:13"
         }
       }
     },
@@ -177,6 +239,8 @@
       "verse": 13,
       "latin_vulgate": " In Deo faciemus virtutem ;  et ipse ad nihilum deducet inimicos nostros.  ",
       "hebrew_masoretic": "בֵּאלֹהִ֥ים נַֽעֲשֶׂה־חָ֑יִל וְ֝ה֗וּא יָב֥וּס צָרֵֽינוּ׃ {פ}",
+      "douay_rheims": "Through God we shall do mightily: and he will bring our enemies to nothing. ",
+      "finnish_biblia": "Jumalassa me tahdomme urhoollisia töitä tehdä; ja hän polkee meidän vihollisemme alas.   ",
       "king_james": "Through God we shall do valiantly: for he it is that shall tread down our enemies. ",
       "refs": {
         "latin_vulgate": {
@@ -184,6 +248,9 @@
         },
         "hebrew_masoretic": {
           "src": "108:14"
+        },
+        "douay_rheims": {
+          "src": "107:14"
         }
       }
     }

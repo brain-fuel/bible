@@ -2,6 +2,8 @@
   "book_id": "PSA",
   "latin_name": "Liber Psalmorum",
   "hebrew_name": "תְּהִלִּים",
+  "douay_name": "Psalms",
+  "finnish_name": "Psalmit",
   "english_name": "Psalms",
   "chapter": 150,
   "verses": [
@@ -9,37 +11,54 @@
       "verse": 1,
       "latin_vulgate": "Alleluja.   Laudate Dominum in sanctis ejus ;  laudate eum in firmamento virtutis ejus. ",
       "hebrew_masoretic": "הַ֥לְלוּ־יָ֨הּ ׀ הַֽלְלוּ־אֵ֥ל בְּקׇדְשׁ֑וֹ הַֽ֝לְל֗וּהוּ בִּרְקִ֥יעַ עֻזּֽוֹ׃",
+      "douay_rheims": "Praise ye the Lord in his holy places: praise ye him in the firmament of his power.",
+      "finnish_biblia": "Halleluja! Kiittäkäät Herraa hänen pyhässänsä: kiittäkäät häntä hänen väkevyytensä avaruudessa! ",
       "king_james": "Praise ye the Lord. Praise God in his sanctuary: praise him in the firmament of his power."
     },
     {
       "verse": 2,
       "latin_vulgate": " Laudate eum in virtutibus ejus ;  laudate eum secundum multitudinem magnitudinis ejus. ",
       "hebrew_masoretic": "הַלְל֥וּהוּ בִגְבוּרֹתָ֑יו הַ֝לְל֗וּהוּ כְּרֹ֣ב גֻּדְלֽוֹ׃",
+      "douay_rheims": "Praise ye him for his mighty acts: praise ye him according to the multitude of his greatness.",
+      "finnish_biblia": "Kiittäkäät häntä hänen voimallisten tekoinsa tähden: kiittäkäät häntä ylenpalttisen suuruutensa tähden! ",
       "king_james": "Praise him for his mighty acts: praise him according to his excellent greatness."
     },
     {
       "verse": 3,
       "latin_vulgate": " Laudate eum in sono tubæ ;  laudate eum in psalterio et cithara. ",
       "hebrew_masoretic": "הַ֭לְלוּהוּ בְּתֵ֣קַע שׁוֹפָ֑ר הַ֝לְל֗וּהוּ בְּנֵ֣בֶל וְכִנּֽוֹר׃",
+      "douay_rheims": "Praise him with the sound of trumpet: praise him with psaltery and harp.",
+      "finnish_biblia": "Kiittäkäät häntä basunilla: kiittäkäät häntä psaltareilla ja kanteleilla! ",
       "king_james": "Praise him with the sound of the trumpet: praise him with the psaltery and harp."
     },
     {
       "verse": 4,
       "latin_vulgate": " Laudate eum in tympano et choro ;  laudate eum in chordis et organo. ",
       "hebrew_masoretic": "הַ֭לְלוּהוּ בְּתֹ֣ף וּמָח֑וֹל הַֽ֝לְל֗וּהוּ בְּמִנִּ֥ים וְעֻגָֽב׃",
+      "douay_rheims": "Praise him with timbrel and choir: praise him with strings and organs.",
+      "finnish_biblia": "Kiittäkäät häntä harpuilla ja tanssilla: kiittäkäät häntä harpun kielillä ja huiluilla! ",
       "king_james": "Praise him with the timbrel and dance: praise him with stringed instruments and organs."
     },
     {
       "verse": 5,
       "latin_vulgate": " Laudate eum in cymbalis benesonantibus ;  laudate eum in cymbalis jubilationis. ",
       "hebrew_masoretic": "הַלְל֥וּהוּ בְצִלְצְלֵי־שָׁ֑מַע הַֽ֝לְל֗וּהוּ בְּֽצִלְצְלֵ֥י תְרוּעָֽה׃",
+      "douay_rheims": "Praise him on high sounding cymbals: praise him on cymbals of joy: let every spirit praise the Lord. Alleluia.  ",
+      "finnish_biblia": "Kiittäkäät häntä kilisevillä symbaleilla! ",
       "king_james": "Praise him upon the loud cymbals: praise him upon the high sounding cymbals."
     },
     {
       "verse": 6,
       "latin_vulgate": " Omnis spiritus laudet Dominum !  Alleluja.    ",
       "hebrew_masoretic": "כֹּ֣ל הַ֭נְּשָׁמָה תְּהַלֵּ֥ל יָ֗הּ הַֽלְלוּ־יָֽהּ׃",
-      "king_james": "Let every thing that hath breath praise the Lord. Praise ye the Lord.  "
+      "douay_rheims": "",
+      "finnish_biblia": "Kaikki, joilla henki on, kiittäkään Herraa, Halleluja!    ",
+      "king_james": "Let every thing that hath breath praise the Lord. Praise ye the Lord.  ",
+      "refs": {
+        "douay_rheims": {
+          "absent": true
+        }
+      }
     }
   ]
 }

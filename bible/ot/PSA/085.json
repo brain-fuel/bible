@@ -2,6 +2,8 @@
   "book_id": "PSA",
   "latin_name": "Liber Psalmorum",
   "hebrew_name": "תְּהִלִּים",
+  "douay_name": "Psalms",
+  "finnish_name": "Psalmit",
   "english_name": "Psalms",
   "chapter": 85,
   "verses": [
@@ -9,6 +11,8 @@
       "verse": 1,
       "latin_vulgate": "  Benedixisti, Domine, terram tuam ;  avertisti captivitatem Jacob. ",
       "hebrew_masoretic": "רָצִ֣יתָ יְהֹוָ֣ה אַרְצֶ֑ךָ שַׁ֝֗בְתָּ (שבות) [שְׁבִ֣ית] יַעֲקֹֽב׃",
+      "douay_rheims": "Lord, thou hast blessed thy land: thou hast turned away the captivity of Jacob.",
+      "finnish_biblia": "Koran lasten Psalmi, edelläveisaajalle. (H85:2) Herra, sinä kuin (muinen) olit armollinen sinun maakunnalles, ja Jakobin vangit lunastit, ",
       "king_james": "Lord, thou hast been favourable unto thy land: thou hast brought back the captivity of Jacob.",
       "refs": {
         "latin_vulgate": {
@@ -16,6 +20,9 @@
         },
         "hebrew_masoretic": {
           "src": "85:2"
+        },
+        "douay_rheims": {
+          "src": "84:2"
         }
       }
     },
@@ -23,6 +30,8 @@
       "verse": 2,
       "latin_vulgate": " Remisisti iniquitatem plebis tuæ ;  operuisti omnia peccata eorum. ",
       "hebrew_masoretic": "נָ֭שָׂאתָ עֲוֺ֣ן עַמֶּ֑ךָ כִּסִּ֖יתָ כׇל־חַטָּאתָ֣ם סֶֽלָה׃",
+      "douay_rheims": "Thou hast forgiven the iniquity of thy people: thou hast covered all their sins.",
+      "finnish_biblia": "Sinä anteeksi annoit kansas pahat teot, ja kaikki heidän syntinsä peitit, Sela! ",
       "king_james": "Thou hast forgiven the iniquity of thy people, thou hast covered all their sin. Selah.",
       "refs": {
         "latin_vulgate": {
@@ -30,6 +39,9 @@
         },
         "hebrew_masoretic": {
           "src": "85:3"
+        },
+        "douay_rheims": {
+          "src": "84:3"
         }
       }
     },
@@ -37,6 +49,8 @@
       "verse": 3,
       "latin_vulgate": " Mitigasti omnem iram tuam ;  avertisti ab ira indignationis tuæ. ",
       "hebrew_masoretic": "אָסַ֥פְתָּ כׇל־עֶבְרָתֶ֑ךָ הֱ֝שִׁיב֗וֹתָ מֵחֲר֥וֹן אַפֶּֽךָ׃",
+      "douay_rheims": "Thou hast mitigated all thy anger: thou hast turned away from the wrath of thy indignation.",
+      "finnish_biblia": "Sinä lepytit kaiken vihas, ja käänsit sinuas vihas julmuudesta. ",
       "king_james": "Thou hast taken away all thy wrath: thou hast turned thyself from the fierceness of thine anger.",
       "refs": {
         "latin_vulgate": {
@@ -44,6 +58,9 @@
         },
         "hebrew_masoretic": {
           "src": "85:4"
+        },
+        "douay_rheims": {
+          "src": "84:4"
         }
       }
     },
@@ -51,6 +68,8 @@
       "verse": 4,
       "latin_vulgate": " Converte nos, Deus salutaris noster,  et averte iram tuam a nobis. ",
       "hebrew_masoretic": "שׁ֭וּבֵנוּ אֱלֹהֵ֣י יִשְׁעֵ֑נוּ וְהָפֵ֖ר כַּעַסְךָ֣ עִמָּֽנוּ׃",
+      "douay_rheims": "Convert us, O God our saviour: and turn off thy anger from us.",
+      "finnish_biblia": "Käännä meitä, meidän autuutemme Jumala, ja pane pois vihas meistä. ",
       "king_james": "Turn us, O God of our salvation, and cause thine anger toward us to cease.",
       "refs": {
         "latin_vulgate": {
@@ -58,6 +77,9 @@
         },
         "hebrew_masoretic": {
           "src": "85:5"
+        },
+        "douay_rheims": {
+          "src": "84:5"
         }
       }
     },
@@ -65,6 +87,8 @@
       "verse": 5,
       "latin_vulgate": " Numquid in æternum irasceris nobis ?  aut extendes iram tuam a generatione in generationem ? ",
       "hebrew_masoretic": "הַלְעוֹלָ֥ם תֶּאֱנַף־בָּ֑נוּ תִּמְשֹׁ֥ךְ אַ֝פְּךָ֗ לְדֹ֣ר וָדֹֽר׃",
+      "douay_rheims": "Wilt thou be angry with us for ever: or wilt thou extend thy wrath from generation to generation?",
+      "finnish_biblia": "Tahdotkos siis ijankaikkisesti olla vihainen meidän päällemme? eli vihas pitää sukukunnasta sukukuntaan? ",
       "king_james": "Wilt thou be angry with us for ever? wilt thou draw out thine anger to all generations?",
       "refs": {
         "latin_vulgate": {
@@ -72,6 +96,9 @@
         },
         "hebrew_masoretic": {
           "src": "85:6"
+        },
+        "douay_rheims": {
+          "src": "84:6"
         }
       }
     },
@@ -79,6 +106,8 @@
       "verse": 6,
       "latin_vulgate": " Deus, tu conversus vivificabis nos,  et plebs tua lætabitur in te. ",
       "hebrew_masoretic": "הֲֽלֹא־אַ֭תָּה תָּשׁ֣וּב תְּחַיֵּ֑נוּ וְ֝עַמְּךָ֗ יִשְׂמְחוּ־בָֽךְ׃",
+      "douay_rheims": "Thou wilt turn, O God, and bring us to life: and thy people shall rejoice in thee.",
+      "finnish_biblia": "Etkös käänny, ja meitä virvoita, että kansas sinussa iloitsis? ",
       "king_james": "Wilt thou not revive us again: that thy people may rejoice in thee?",
       "refs": {
         "latin_vulgate": {
@@ -86,6 +115,9 @@
         },
         "hebrew_masoretic": {
           "src": "85:7"
+        },
+        "douay_rheims": {
+          "src": "84:7"
         }
       }
     },
@@ -93,6 +125,8 @@
       "verse": 7,
       "latin_vulgate": " Ostende nobis, Domine, misericordiam tuam,  et salutare tuum da nobis. ",
       "hebrew_masoretic": "הַרְאֵ֣נוּ יְהֹוָ֣ה חַסְדֶּ֑ךָ וְ֝יֶשְׁעֲךָ֗ תִּתֶּן־לָֽנוּ׃",
+      "douay_rheims": "Shew us, O Lord, thy mercy; and grant us thy salvation.",
+      "finnish_biblia": "Herra, osoita meille armos, ja sinun autuutes anna meille. ",
       "king_james": "Shew us thy mercy, O Lord, and grant us thy salvation.",
       "refs": {
         "latin_vulgate": {
@@ -100,6 +134,9 @@
         },
         "hebrew_masoretic": {
           "src": "85:8"
+        },
+        "douay_rheims": {
+          "src": "84:8"
         }
       }
     },
@@ -107,6 +144,8 @@
       "verse": 8,
       "latin_vulgate": " Audiam quid loquatur in me Dominus Deus,  quoniam loquetur pacem in plebem suam,  et super sanctos suos,  et in eos qui convertuntur ad cor. ",
       "hebrew_masoretic": "אֶשְׁמְעָ֗ה מַה־יְדַבֵּר֮ הָאֵ֢ל ׀ יְ֫הֹוָ֥ה כִּ֤י ׀ יְדַבֵּ֬ר שָׁל֗וֹם אֶל־עַמּ֥וֹ וְאֶל־חֲסִידָ֑יו וְאַל־יָשׁ֥וּבוּ לְכִסְלָֽה׃",
+      "douay_rheims": "I will hear what the Lord God will speak in me: for he will speak peace unto his people: And unto his saints: and unto them that are converted to the heart.",
+      "finnish_biblia": "Jospa minä kuulisin, mitä Herra Jumala puhuu, että hän rauhan lupasi kansallensa ja pyhillensä, ettei he hulluuteen joutuisi. ",
       "king_james": "I will hear what God the Lord will speak: for he will speak peace unto his people, and to his saints: but let them not turn again to folly.",
       "refs": {
         "latin_vulgate": {
@@ -114,6 +153,9 @@
         },
         "hebrew_masoretic": {
           "src": "85:9"
+        },
+        "douay_rheims": {
+          "src": "84:9"
         }
       }
     },
@@ -121,6 +163,8 @@
       "verse": 9,
       "latin_vulgate": " Verumtamen prope timentes eum salutare ipsius,  ut inhabitet gloria in terra nostra. ",
       "hebrew_masoretic": "אַ֤ךְ קָר֣וֹב לִירֵאָ֣יו יִשְׁע֑וֹ לִשְׁכֹּ֖ן כָּב֣וֹד בְּאַרְצֵֽנוּ׃",
+      "douay_rheims": "Surely his salvation is near to them that fear him : that glory may dwell in our land.",
+      "finnish_biblia": "Kuitenkin on hänen apunsa niiden tykönä, jotka häntä pelkäävät, että meidän maallamme kunnia asuis; ",
       "king_james": "Surely his salvation is nigh them that fear him; that glory may dwell in our land.",
       "refs": {
         "latin_vulgate": {
@@ -128,6 +172,9 @@
         },
         "hebrew_masoretic": {
           "src": "85:10"
+        },
+        "douay_rheims": {
+          "src": "84:10"
         }
       }
     },
@@ -135,6 +182,8 @@
       "verse": 10,
       "latin_vulgate": " Misericordia et veritas obviaverunt sibi ;  justitia et pax osculatæ sunt. ",
       "hebrew_masoretic": "חֶסֶד־וֶאֱמֶ֥ת נִפְגָּ֑שׁוּ צֶ֖דֶק וְשָׁל֣וֹם נָשָֽׁקוּ׃",
+      "douay_rheims": "Mercy and truth have met each other: justice and peace have kissed.",
+      "finnish_biblia": "Että laupius ja totuus keskenänsä kohtaisivat: vanhurskaus ja rauha toinen toisellensa suuta antaisivat; ",
       "king_james": "Mercy and truth are met together; righteousness and peace have kissed each other.",
       "refs": {
         "latin_vulgate": {
@@ -142,6 +191,9 @@
         },
         "hebrew_masoretic": {
           "src": "85:11"
+        },
+        "douay_rheims": {
+          "src": "84:11"
         }
       }
     },
@@ -149,6 +201,8 @@
       "verse": 11,
       "latin_vulgate": " Veritas de terra orta est,  et justitia de cælo prospexit. ",
       "hebrew_masoretic": "אֱ֭מֶת מֵאֶ֣רֶץ תִּצְמָ֑ח וְ֝צֶ֗דֶק מִשָּׁמַ֥יִם נִשְׁקָֽף׃",
+      "douay_rheims": "Truth is sprung out of the earth: and justice hath looked down from heaven.",
+      "finnish_biblia": "Että totuus maasta vesois, ja vanhurskaus taivaasta katsois; ",
       "king_james": "Truth shall spring out of the earth; and righteousness shall look down from heaven.",
       "refs": {
         "latin_vulgate": {
@@ -156,6 +210,9 @@
         },
         "hebrew_masoretic": {
           "src": "85:12"
+        },
+        "douay_rheims": {
+          "src": "84:12"
         }
       }
     },
@@ -163,6 +220,8 @@
       "verse": 12,
       "latin_vulgate": " Etenim Dominus dabit benignitatem,  et terra nostra dabit fructum suum. ",
       "hebrew_masoretic": "גַּם־יְ֭הֹוָה יִתֵּ֣ן הַטּ֑וֹב וְ֝אַרְצֵ֗נוּ תִּתֵּ֥ן יְבוּלָֽהּ׃",
+      "douay_rheims": "For the Lord will give goodness: and our earth shall yield her fruit.",
+      "finnish_biblia": "Että myös meille Herra hyvin tekis, ja meidän maamme hedemänsä antais; ",
       "king_james": "Yea, the Lord shall give that which is good; and our land shall yield her increase.",
       "refs": {
         "latin_vulgate": {
@@ -170,6 +229,9 @@
         },
         "hebrew_masoretic": {
           "src": "85:13"
+        },
+        "douay_rheims": {
+          "src": "84:13"
         }
       }
     },
@@ -177,6 +239,8 @@
       "verse": 13,
       "latin_vulgate": " Justitia ante eum ambulabit,  et ponet in via gressus suos.  ",
       "hebrew_masoretic": "צֶ֭דֶק לְפָנָ֣יו יְהַלֵּ֑ךְ וְיָשֵׂ֖ם לְדֶ֣רֶךְ פְּעָמָֽיו׃ {פ}",
+      "douay_rheims": "Justice shall walk before him: and he shall set his steps in the way. ",
+      "finnish_biblia": "Että vanhurskaus sittenkin hänen edessänsä pysyis ja menestyis.   ",
       "king_james": "Righteousness shall go before him; and shall set us in the way of his steps. ",
       "refs": {
         "latin_vulgate": {
@@ -184,6 +248,9 @@
         },
         "hebrew_masoretic": {
           "src": "85:14"
+        },
+        "douay_rheims": {
+          "src": "84:14"
         }
       }
     }

@@ -2,6 +2,8 @@
   "book_id": "PSA",
   "latin_name": "Liber Psalmorum",
   "hebrew_name": "תְּהִלִּים",
+  "douay_name": "Psalms",
+  "finnish_name": "Psalmit",
   "english_name": "Psalms",
   "chapter": 3,
   "verses": [
@@ -9,12 +11,17 @@
       "verse": 1,
       "latin_vulgate": "  Domine, quid multiplicati sunt qui tribulant me ?  Multi insurgunt adversum me ; ",
       "hebrew_masoretic": "יְ֭הֹוָה מָה־רַבּ֣וּ צָרָ֑י רַ֝בִּ֗ים קָמִ֥ים עָלָֽי׃",
+      "douay_rheims": "Why, O Lord, are they multiplied that afflict me? many are they who rise up against me.",
+      "finnish_biblia": "Davidin Psalmi, kuin hän pakeni poikaansa Absalomia. (H 3:2) Voi Herra! kuinka monta on minulla vihollista, ja niin usiat karkaavat minua vastaan. ",
       "king_james": "Lord, how are they increased that trouble me! many are they that rise up against me.",
       "refs": {
         "latin_vulgate": {
           "src": "3:2"
         },
         "hebrew_masoretic": {
+          "src": "3:2"
+        },
+        "douay_rheims": {
           "src": "3:2"
         }
       }
@@ -23,12 +30,17 @@
       "verse": 2,
       "latin_vulgate": " multi dicunt animæ meæ :  Non est salus ipsi in Deo ejus. ",
       "hebrew_masoretic": "רַבִּים֮ אֹמְרִ֢ים לְנַ֫פְשִׁ֥י אֵ֤ין יְֽשׁוּעָ֓תָה לּ֬וֹ בֵאלֹהִ֬ים סֶֽלָה׃",
+      "douay_rheims": "Many say to my soul: There is no salvation for him in his God.",
+      "finnish_biblia": "(H 3:3) Moni puhuu minun sielustani: ei ole hänellä apua Jumalan tykönä, Sela! ",
       "king_james": "Many there be which say of my soul, There is no help for him in God. Selah.",
       "refs": {
         "latin_vulgate": {
           "src": "3:3"
         },
         "hebrew_masoretic": {
+          "src": "3:3"
+        },
+        "douay_rheims": {
           "src": "3:3"
         }
       }
@@ -37,12 +49,17 @@
       "verse": 3,
       "latin_vulgate": " Tu autem Domine, susceptor meus es,  gloria mea, et exaltans caput meum. ",
       "hebrew_masoretic": "וְאַתָּ֣ה יְ֭הֹוָה מָגֵ֣ן בַּעֲדִ֑י כְּ֝בוֹדִ֗י וּמֵרִ֥ים רֹאשִֽׁי׃",
+      "douay_rheims": "But thou, O Lord, art my protector, my glory, and the lifter up of my head.",
+      "finnish_biblia": "(H 3:4) Mutta sinä, Herra, olet minun kilpeni, joka minun kunniaan saatat, ja minun pääni kohennat. ",
       "king_james": "But thou, O Lord, art a shield for me; my glory, and the lifter up of mine head.",
       "refs": {
         "latin_vulgate": {
           "src": "3:4"
         },
         "hebrew_masoretic": {
+          "src": "3:4"
+        },
+        "douay_rheims": {
           "src": "3:4"
         }
       }
@@ -51,12 +68,17 @@
       "verse": 4,
       "latin_vulgate": " Voce mea ad Dominum clamavi ;  et exaudivit me de monte sancto suo. ",
       "hebrew_masoretic": "ק֭וֹלִי אֶל־יְהֹוָ֣ה אֶקְרָ֑א וַיַּעֲנֵ֨נִי מֵהַ֖ר קׇדְשׁ֣וֹ סֶֽלָה׃",
+      "douay_rheims": "I have cried to the Lord with my voice: and he hath heard me from his holy hill.",
+      "finnish_biblia": "(H 3:5) Äänelläni minä huudan Herraa; ja hän kuulee minua pyhästä vuorestansa, Sela! ",
       "king_james": "I cried unto the Lord with my voice, and he heard me out of his holy hill. Selah.",
       "refs": {
         "latin_vulgate": {
           "src": "3:5"
         },
         "hebrew_masoretic": {
+          "src": "3:5"
+        },
+        "douay_rheims": {
           "src": "3:5"
         }
       }
@@ -65,12 +87,17 @@
       "verse": 5,
       "latin_vulgate": " Ego dormivi, et soporatus sum ;  et exsurrexi, quia Dominus suscepit me. ",
       "hebrew_masoretic": "אֲנִ֥י שָׁכַ֗בְתִּי וָאִ֫ישָׁ֥נָה הֱקִיצ֑וֹתִי כִּ֖י יְהֹוָ֣ה יִסְמְכֵֽנִי׃",
+      "douay_rheims": "I have slept and have taken my rest: and I have risen up, because the Lord hath protected me.",
+      "finnish_biblia": "(H 3:6) Minä makaan ja nukun: minä herään myös; sillä Herra tukee minua. ",
       "king_james": "I laid me down and slept; I awaked; for the Lord sustained me.",
       "refs": {
         "latin_vulgate": {
           "src": "3:6"
         },
         "hebrew_masoretic": {
+          "src": "3:6"
+        },
+        "douay_rheims": {
           "src": "3:6"
         }
       }
@@ -79,12 +106,17 @@
       "verse": 6,
       "latin_vulgate": " Non timebo millia populi circumdantis me.  Exsurge, Domine ; salvum me fac, Deus meus. ",
       "hebrew_masoretic": "לֹֽא־אִ֭ירָא מֵרִבְב֥וֹת עָ֑ם אֲשֶׁ֥ר סָ֝בִ֗יב שָׁ֣תוּ עָלָֽי׃",
+      "douay_rheims": "I will not fear thousands of the people surrounding me: arise, O Lord; save me, O my God.",
+      "finnish_biblia": "(H 3:7) En minä pelkää kymmentätuhatta kansoista, jotka minua piirittävät. ",
       "king_james": "I will not be afraid of ten thousands of people, that have set themselves against me round about.",
       "refs": {
         "latin_vulgate": {
           "src": "3:7"
         },
         "hebrew_masoretic": {
+          "src": "3:7"
+        },
+        "douay_rheims": {
           "src": "3:7"
         }
       }
@@ -93,12 +125,17 @@
       "verse": 7,
       "latin_vulgate": " Quoniam tu percussisti omnes adversantes mihi sine causa ;  dentes peccatorum contrivisti. ",
       "hebrew_masoretic": "ק֘וּמָ֤ה יְהֹוָ֨ה ׀ הוֹשִׁ֘יעֵ֤נִי אֱלֹהַ֗י כִּֽי־הִכִּ֣יתָ אֶת־כׇּל־אֹיְבַ֣י לֶ֑חִי שִׁנֵּ֖י רְשָׁעִ֣ים שִׁבַּֽרְתָּ׃",
+      "douay_rheims": "For thou hast struck all them who are my adversaries without cause: thou hast broken the teeth of sinners.",
+      "finnish_biblia": "(H 3:8) Nouse, Herra, ja auta minua, minun Jumalani! sillä sinä lyöt kaikkia minun vihollisiani poskelle: sinä murennat jumalattomain hampaat. ",
       "king_james": "Arise, O Lord; save me, O my God: for thou hast smitten all mine enemies upon the cheek bone; thou hast broken the teeth of the ungodly.",
       "refs": {
         "latin_vulgate": {
           "src": "3:8"
         },
         "hebrew_masoretic": {
+          "src": "3:8"
+        },
+        "douay_rheims": {
           "src": "3:8"
         }
       }
@@ -107,12 +144,17 @@
       "verse": 8,
       "latin_vulgate": " Domini est salus ;  et super populum tuum benedictio tua.  ",
       "hebrew_masoretic": "לַֽיהֹוָ֥ה הַיְשׁוּעָ֑ה עַֽל־עַמְּךָ֖ בִרְכָתֶ֣ךָ סֶּֽלָה׃ {פ}",
+      "douay_rheims": "Salvation is of the Lord: and thy blessing is upon thy people. ",
+      "finnish_biblia": "(H 3:9) Herran tykönä apu löydetään: sinun kansas päällä on sinun siunaukses, Sela!   ",
       "king_james": "Salvation belongeth unto the Lord: thy blessing is upon thy people. Selah. ",
       "refs": {
         "latin_vulgate": {
           "src": "3:9"
         },
         "hebrew_masoretic": {
+          "src": "3:9"
+        },
+        "douay_rheims": {
           "src": "3:9"
         }
       }

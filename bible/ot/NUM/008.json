@@ -2,6 +2,8 @@
   "book_id": "NUM",
   "latin_name": "Numeri",
   "hebrew_name": "בְּמִדְבַּר",
+  "douay_name": "Numbers",
+  "finnish_name": "4. Mooseksen kirja",
   "english_name": "Numbers",
   "chapter": 8,
   "verses": [
@@ -9,156 +11,208 @@
       "verse": 1,
       "latin_vulgate": "Locutusque est Dominus ad Moysen, dicens : ",
       "hebrew_masoretic": "וַיְדַבֵּ֥ר יְהֹוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃",
+      "douay_rheims": "And the Lord spoke to Moses, saying:",
+      "finnish_biblia": "Ja Herra puhui Mosekselle sanoen: ",
       "king_james": "And the Lord spake unto Moses, saying,"
     },
     {
       "verse": 2,
       "latin_vulgate": "Loquere Aaron, et dices ad eum : Cum posueris septem lucernas, candelabrum in australi parte erigatur. Hoc igitur præcipe ut lucernæ contra boream e regione respiciant ad mensam panum propositionis, contra eam partem, quam candelabrum respicit, lucere debebunt. ",
       "hebrew_masoretic": "דַּבֵּר֙ אֶֽל־אַהֲרֹ֔ן וְאָמַרְתָּ֖ אֵלָ֑יו בְּהַעֲלֹֽתְךָ֙ אֶת־הַנֵּרֹ֔ת אֶל־מוּל֙ פְּנֵ֣י הַמְּנוֹרָ֔ה יָאִ֖ירוּ שִׁבְעַ֥ת הַנֵּרֽוֹת׃",
+      "douay_rheims": "Speak to Aaron, and thou shalt say to him: When thou shalt place the seven lamps, let the candlestick be set up on the south side. Give orders therefore that the lamps look over against the north, towards the table of the loaves of proposition, over against that part shall they give light, towards which the candlestick looketh.",
+      "finnish_biblia": "Puhu Aaronille, ja sano hänelle: koskas lamput panet ylös, niin pitää ne seitsemän lamppua valaiseman juuri kynttiläjalan kohdalla. ",
       "king_james": "Speak unto Aaron, and say unto him, When thou lightest the lamps, the seven lamps shall give light over against the candlestick."
     },
     {
       "verse": 3,
       "latin_vulgate": "Fecitque Aaron, et imposuit lucernas super candelabrum, ut præceperat Dominus Moysi. ",
       "hebrew_masoretic": "וַיַּ֤עַשׂ כֵּן֙ אַהֲרֹ֔ן אֶל־מוּל֙ פְּנֵ֣י הַמְּנוֹרָ֔ה הֶעֱלָ֖ה נֵרֹתֶ֑יהָ כַּֽאֲשֶׁ֛ר צִוָּ֥ה יְהֹוָ֖ה אֶת־מֹשֶֽׁה׃",
+      "douay_rheims": "And Aaron did so, and he put the lamps upon the candlestick, as the Lord had commanded Moses.",
+      "finnish_biblia": "Ja Aaron teki niin, ja asetti lamput kynttiläjalan kohdalle, niinkuin Herra Mosekselle käskenyt oli. ",
       "king_james": "And Aaron did so; he lighted the lamps thereof over against the candlestick, as the Lord commanded Moses."
     },
     {
       "verse": 4,
       "latin_vulgate": "Hæc autem erat factura candelabri, ex auro ductili, tam medius stipes, quam cuncta quæ ex utroque calamorum latere nascebantur : juxta exemplum quod ostendit Dominus Moysi, ita operatus est candelabrum.  ",
       "hebrew_masoretic": "וְזֶ֨ה מַעֲשֵׂ֤ה הַמְּנֹרָה֙ מִקְשָׁ֣ה זָהָ֔ב עַד־יְרֵכָ֥הּ עַד־פִּרְחָ֖הּ מִקְשָׁ֣ה הִ֑וא כַּמַּרְאֶ֗ה אֲשֶׁ֨ר הֶרְאָ֤ה יְהֹוָה֙ אֶת־מֹשֶׁ֔ה כֵּ֥ן עָשָׂ֖ה אֶת־הַמְּנֹרָֽה׃ {פ}",
+      "douay_rheims": "Now this was the work of the candlestick, it was of beaten gold, both the shaft in the middle, and all that came out of both sides of the branches: according to the pattern which the Lord had shewn to Moses, so he made the candlestick.",
+      "finnish_biblia": "Mutta kynttiläjalka oli tehty lujasta kullasta, varresta niin kukkaisiin asti oli se vahvaa tekoa: sen muodon jälkeen kuin Herra oli Mosekselle näyttänyt, niin teki hän kynttiläjalan. ",
       "king_james": "And this work of the candlestick was of beaten gold, unto the shaft thereof, unto the flowers thereof, was beaten work: according unto the pattern which the Lord had shewed Moses, so he made the candlestick."
     },
     {
       "verse": 5,
       "latin_vulgate": " Et locutus est Dominus ad Moysen, dicens : ",
       "hebrew_masoretic": "וַיְדַבֵּ֥ר יְהֹוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃",
+      "douay_rheims": "And the Lord spoke to Moses, saying:",
+      "finnish_biblia": "Ja Herra puhui Mosekselle, sanoen: ",
       "king_james": "And the Lord spake unto Moses, saying,"
     },
     {
       "verse": 6,
       "latin_vulgate": "Tolle Levitas de medio filiorum Israël, et purificabis eos ",
       "hebrew_masoretic": "קַ֚ח אֶת־הַלְוִיִּ֔ם מִתּ֖וֹךְ בְּנֵ֣י יִשְׂרָאֵ֑ל וְטִהַרְתָּ֖ אֹתָֽם׃",
+      "douay_rheims": "Take the Levites out of the midst of the children of Israel, and thou shalt purify them,",
+      "finnish_biblia": "Ota Leviläiset Israelin lapsista ja puhdista heitä. ",
       "king_james": "Take the Levites from among the children of Israel, and cleanse them."
     },
     {
       "verse": 7,
       "latin_vulgate": "juxta hunc ritum : aspergantur aqua lustrationis, et radant omnes pilos carnis suæ. Cumque laverint vestimenta sua, et mundati fuerint, ",
       "hebrew_masoretic": "וְכֹֽה־תַעֲשֶׂ֤ה לָהֶם֙ לְטַֽהֲרָ֔ם הַזֵּ֥ה עֲלֵיהֶ֖ם מֵ֣י חַטָּ֑את וְהֶעֱבִ֤ירוּ תַ֙עַר֙ עַל־כׇּל־בְּשָׂרָ֔ם וְכִבְּס֥וּ בִגְדֵיהֶ֖ם וְהִטֶּהָֽרוּ׃",
+      "douay_rheims": "According to this rite: Let them be sprinkled with the water of purification, and let them shave all the hairs of their flesh. And when they shall have washed their garments, and are cleansed,",
+      "finnish_biblia": "Ja näin pitää sinun tekemän heille, puhdistaakses heitä. Sinun pitää priiskottaman syntivettä heidän päällensä: ja heidän pitää kaiken lihansa päältä karvat ajeleman, ja vaatteensa pesemän, niin he ovat puhtaat. ",
       "king_james": "And thus shalt thou do unto them, to cleanse them: Sprinkle water of purifying upon them, and let them shave all their flesh, and let them wash their clothes, and so make themselves clean."
     },
     {
       "verse": 8,
       "latin_vulgate": "tollent bovem de armentis, et libamentum ejus similam oleo conspersam : bovem autem alterum de armento tu accipies pro peccato : ",
       "hebrew_masoretic": "וְלָֽקְחוּ֙ פַּ֣ר בֶּן־בָּקָ֔ר וּמִ֨נְחָת֔וֹ סֹ֖לֶת בְּלוּלָ֣ה בַשָּׁ֑מֶן וּפַר־שֵׁנִ֥י בֶן־בָּקָ֖ר תִּקַּ֥ח לְחַטָּֽאת׃",
+      "douay_rheims": "They shall take an ox of the herd, and for the offering thereof fine flour tempered with oil: and thou shalt take another ox of the herd for a sin offering:",
+      "finnish_biblia": "Ja sitte pitää heidän ottaman nuoren mullin, ja sen ruokauhriksi öljyllä sekoitettuja sämpyläjauhoja, ja toisen nuoren mullin pitää sinun ottaman syntiuhriksi. ",
       "king_james": "Then let them take a young bullock with his meat offering, even fine flour mingled with oil, and another young bullock shalt thou take for a sin offering."
     },
     {
       "verse": 9,
       "latin_vulgate": "et applicabis Levitas coram tabernaculo fœderis, convocata omni multitudine filiorum Israël. ",
       "hebrew_masoretic": "וְהִקְרַבְתָּ֙ אֶת־הַלְוִיִּ֔ם לִפְנֵ֖י אֹ֣הֶל מוֹעֵ֑ד וְהִ֨קְהַלְתָּ֔ אֶֽת־כׇּל־עֲדַ֖ת בְּנֵ֥י יִשְׂרָאֵֽל׃",
+      "douay_rheims": "And thou shalt bring the Levites before the tabernacle of the covenant, calling together all the multitude of the children of Israel:",
+      "finnish_biblia": "Ja sinun pitää tuoman Leviläiset seurakunnan majan eteen, ja kaiken Israelin lasten kansan kokooman. ",
       "king_james": "And thou shalt bring the Levites before the tabernacle of the congregation: and thou shalt gather the whole assembly of the children of Israel together:"
     },
     {
       "verse": 10,
       "latin_vulgate": "Cumque Levitæ fuerint coram Domino, ponent filii Israël manus suas super eos. ",
       "hebrew_masoretic": "וְהִקְרַבְתָּ֥ אֶת־הַלְוִיִּ֖ם לִפְנֵ֣י יְהֹוָ֑ה וְסָמְכ֧וּ בְנֵי־יִשְׂרָאֵ֛ל אֶת־יְדֵיהֶ֖ם עַל־הַלְוִיִּֽם׃",
+      "douay_rheims": "And when the Levites are before the Lord, the children of Israel shall put their hands upon them:",
+      "finnish_biblia": "Ja tuoman Leviläiset Herran eteen: ja Israelin lapset pitää paneman kätensä Leviläisten päälle. ",
       "king_james": "And thou shalt bring the Levites before the Lord: and the children of Israel shall put their hands upon the Levites:"
     },
     {
       "verse": 11,
       "latin_vulgate": "Et offeret Aaron Levitas, munus in conspectu Domini a filiis Israël, ut serviant in ministerio ejus. ",
       "hebrew_masoretic": "וְהֵנִיף֩ אַהֲרֹ֨ן אֶת־הַלְוִיִּ֤ם תְּנוּפָה֙ לִפְנֵ֣י יְהֹוָ֔ה מֵאֵ֖ת בְּנֵ֣י יִשְׂרָאֵ֑ל וְהָי֕וּ לַעֲבֹ֖ד אֶת־עֲבֹדַ֥ת יְהֹוָֽה׃",
+      "douay_rheims": "And Aaron shall offer the Levites, as a gift in the sight of the Lord from the children of Israel, that they may serve in his ministry.",
+      "finnish_biblia": "Ja Aaronin pitää häälyttämän Leviläiset Israelin lapsilta Herran eteen, Herran palvelusta palvelemaan. ",
       "king_james": "And Aaron shall offer the Levites before the Lord for an offering of the children of Israel, that they may execute the service of the Lord."
     },
     {
       "verse": 12,
       "latin_vulgate": "Levitæ quoque ponent manus suas super capita boum, e quibus unum facies pro peccato, et alterum in holocaustum Domini, ut depreceris pro eis. ",
       "hebrew_masoretic": "וְהַלְוִיִּם֙ יִסְמְכ֣וּ אֶת־יְדֵיהֶ֔ם עַ֖ל רֹ֣אשׁ הַפָּרִ֑ים וַ֠עֲשֵׂ֠ה אֶת־הָאֶחָ֨ד חַטָּ֜את וְאֶת־הָאֶחָ֤ד עֹלָה֙ לַֽיהֹוָ֔ה לְכַפֵּ֖ר עַל־הַלְוִיִּֽם׃",
+      "douay_rheims": "The Levites also shall put their hands upon the heads of the oxen, of which thou shalt sacrifice one for sin, and the other for a holocaust to the Lord, to pray for them.",
+      "finnish_biblia": "Ja Leviläisten pitää laskeman kätensä mullin päälle, ja toinen mulli pitää Herralle syntiuhriksi tehtämän, ja toinen polttouhriksi, Leviläisiä sovittamaan. ",
       "king_james": "And the Levites shall lay their hands upon the heads of the bullocks: and thou shalt offer the one for a sin offering, and the other for a burnt offering, unto the Lord, to make an atonement for the Levites."
     },
     {
       "verse": 13,
       "latin_vulgate": "Statuesque Levitas in conspectu Aaron et filiorum ejus, et consecrabis oblatos Domino, ",
       "hebrew_masoretic": "וְהַֽעֲמַדְתָּ֙ אֶת־הַלְוִיִּ֔ם לִפְנֵ֥י אַהֲרֹ֖ן וְלִפְנֵ֣י בָנָ֑יו וְהֵנַפְתָּ֥ אֹתָ֛ם תְּנוּפָ֖ה לַֽיהֹוָֽה׃",
+      "douay_rheims": "And thou shalt set the Levites in the sight of Aaron and of his, and shalt consecrate them being offered to the Lord,",
+      "finnish_biblia": "Ja sinun pitää asettaman Leviläiset Aaronin ja hänen poikainsa eteen, ja häälyttämän heitä häälytykseksi Herralle. ",
       "king_james": "And thou shalt set the Levites before Aaron, and before his sons, and offer them for an offering unto the Lord."
     },
     {
       "verse": 14,
       "latin_vulgate": "ac separabis de medio filiorum Israël, ut sint mei. ",
       "hebrew_masoretic": "וְהִבְדַּלְתָּ֙ אֶת־הַלְוִיִּ֔ם מִתּ֖וֹךְ בְּנֵ֣י יִשְׂרָאֵ֑ל וְהָ֥יוּ לִ֖י הַלְוִיִּֽם׃",
+      "douay_rheims": "And shalt separate them from the midst of the children of Israel, to be mine.",
+      "finnish_biblia": "Ja sinun pitää eroittaman Leviläiset Israelin lapsista, niin että Leviläiset pitää oleman minun. ",
       "king_james": "Thus shalt thou separate the Levites from among the children of Israel: and the Levites shall be mine."
     },
     {
       "verse": 15,
       "latin_vulgate": "Et postea ingredientur tabernaculum fœderis, ut serviant mihi. Sicque purificabis et consecrabis eos in oblationem Domini : quoniam dono donati sunt mihi a filiis Israël. ",
       "hebrew_masoretic": "וְאַֽחֲרֵי־כֵן֙ יָבֹ֣אוּ הַלְוִיִּ֔ם לַעֲבֹ֖ד אֶת־אֹ֣הֶל מוֹעֵ֑ד וְטִֽהַרְתָּ֣ אֹתָ֔ם וְהֵנַפְתָּ֥ אֹתָ֖ם תְּנוּפָֽה׃",
+      "douay_rheims": "And afterwards they shall enter into the tabernacle of the covenant, to serve me. And thus shalt thou purify and consecrate them for an oblation of the Lord: for as a gift they were given me by the children of Israel.",
+      "finnish_biblia": "Ja sitte pitää heidän käymän sisälle palvelemaan seurakunnan majassa, ja pitää sinun heitä puhdistaman, ja häälyttämän heitä häälytykseksi. ",
       "king_james": "And after that shall the Levites go in to do the service of the tabernacle of the congregation: and thou shalt cleanse them, and offer them for an offering."
     },
     {
       "verse": 16,
       "latin_vulgate": "Pro primogenitis quæ aperiunt omnem vulvam in Israël, accepi eos. ",
       "hebrew_masoretic": "כִּי֩ נְתֻנִ֨ים נְתֻנִ֥ים הֵ֙מָּה֙ לִ֔י מִתּ֖וֹךְ בְּנֵ֣י יִשְׂרָאֵ֑ל תַּ֩חַת֩ פִּטְרַ֨ת כׇּל־רֶ֜חֶם בְּכ֥וֹר כֹּל֙ מִבְּנֵ֣י יִשְׂרָאֵ֔ל לָקַ֥חְתִּי אֹתָ֖ם לִֽי׃",
+      "douay_rheims": "I have taken them instead of the firstborn that open every womb in Israel,",
+      "finnish_biblia": "Sillä he ovat minulle peräti annetut Israelin lasten seasta, ja minä olen heidät ottanut minulleni kaikkein edestä, jotka ensisti avaavat äitinsä kohdun, nimittäin, kaikkein esikoisten edestä Israelin lapsista. ",
       "king_james": "For they are wholly given unto me from among the children of Israel; instead of such as open every womb, even instead of the firstborn of all the children of Israel, have I taken them unto me."
     },
     {
       "verse": 17,
       "latin_vulgate": "Mea sunt enim omnia primogenita filiorum Israël, tam ex hominibus quam ex jumentis. Ex die quo percussi omne primogenitum in terra Ægypti, sanctificavi eos mihi : ",
       "hebrew_masoretic": "כִּ֣י לִ֤י כׇל־בְּכוֹר֙ בִּבְנֵ֣י יִשְׂרָאֵ֔ל בָּאָדָ֖ם וּבַבְּהֵמָ֑ה בְּי֗וֹם הַכֹּתִ֤י כׇל־בְּכוֹר֙ בְּאֶ֣רֶץ מִצְרַ֔יִם הִקְדַּ֥שְׁתִּי אֹתָ֖ם לִֽי׃",
+      "douay_rheims": "For all the firstborn of the children of Israel, both of men and of beasts, are mine. From the day that I slew every firstborn in the land of Egypt, have I sanctified them to myself:",
+      "finnish_biblia": "Sillä kaikki esikoiset Israelin lapsista ovat minun, sekä ihmisistä että eläimistä: sinä päivänä, kuin minä löin kaikki esikoiset Egyptin maalla, pyhitin minä ne minulleni, ",
       "king_james": "For all the firstborn of the children of Israel are mine, both man and beast: on the day that I smote every firstborn in the land of Egypt I sanctified them for myself."
     },
     {
       "verse": 18,
       "latin_vulgate": "et tuli Levitas pro cunctis primogenitis filiorum Israël, ",
       "hebrew_masoretic": "וָאֶקַּ֖ח אֶת־הַלְוִיִּ֑ם תַּ֥חַת כׇּל־בְּכ֖וֹר בִּבְנֵ֥י יִשְׂרָאֵֽל׃",
+      "douay_rheims": "And I have taken the Levites for all the firstborn of the children of Israel:",
+      "finnish_biblia": "Ja otin minulleni Leviläiset, kaikkein esikoisten edestä Israelin lapsista, ",
       "king_james": "And I have taken the Levites for all the firstborn of the children of Israel."
     },
     {
       "verse": 19,
       "latin_vulgate": "tradidique eos dono Aaron et filiis ejus de medio populi, ut serviant mihi pro Israël in tabernaculo fœderis, et orent pro eis ne sit in populo plaga, si ausi fuerint accedere ad sanctuarium. ",
       "hebrew_masoretic": "וָאֶתְּנָ֨ה אֶת־הַלְוִיִּ֜ם נְתֻנִ֣ים ׀ לְאַהֲרֹ֣ן וּלְבָנָ֗יו מִתּוֹךְ֮ בְּנֵ֣י יִשְׂרָאֵל֒ לַעֲבֹ֞ד אֶת־עֲבֹדַ֤ת בְּנֵֽי־יִשְׂרָאֵל֙ בְּאֹ֣הֶל מוֹעֵ֔ד וּלְכַפֵּ֖ר עַל־בְּנֵ֣י יִשְׂרָאֵ֑ל וְלֹ֨א יִהְיֶ֜ה בִּבְנֵ֤י יִשְׂרָאֵל֙ נֶ֔גֶף בְּגֶ֥שֶׁת בְּנֵֽי־יִשְׂרָאֵ֖ל אֶל־הַקֹּֽדֶשׁ׃",
+      "douay_rheims": "And have delivered them for a gift to Aaron and his sons out of the midst of the people, to serve me for Israel in the tabernacle of the covenant, and to pray for them, lest there should be a plague among the people, if they should presume to approach unto my sanctuary.",
+      "finnish_biblia": "Ja annoin Leviläiset Aaronille ja hänen pojillensa lahjaksi Israelin lapsista, että heidän pitää seurakunnan majassa Israelin lasten virassa palveleman, ja sovittaman Israelin lapset, ettei rangaistus tulisi Israelin lasten päälle, jos he lähestyisivät pyhää. ",
       "king_james": "And I have given the Levites as a gift to Aaron and to his sons from among the children of Israel, to do the service of the children of Israel in the tabernacle of the congregation, and to make an atonement for the children of Israel: that there be no plague among the children of Israel, when the children of Israel come nigh unto the sanctuary."
     },
     {
       "verse": 20,
       "latin_vulgate": "Feceruntque Moyses et Aaron et omnis multitudo filiorum Israël super Levitas quæ præceperat Dominus Moysi : ",
       "hebrew_masoretic": "וַיַּ֨עַשׂ מֹשֶׁ֧ה וְאַהֲרֹ֛ן וְכׇל־עֲדַ֥ת בְּנֵי־יִשְׂרָאֵ֖ל לַלְוִיִּ֑ם כְּ֠כֹ֠ל אֲשֶׁר־צִוָּ֨ה יְהֹוָ֤ה אֶת־מֹשֶׁה֙ לַלְוִיִּ֔ם כֵּן־עָשׂ֥וּ לָהֶ֖ם בְּנֵ֥י יִשְׂרָאֵֽל׃",
+      "douay_rheims": "And Moses and Aaron and all the multitude of the children of Israel did with the Levites all that the Lord had commanded Moses",
+      "finnish_biblia": "Ja Moses ynnä Aaronin kanssa, ja koko Israelin seurakunta tekivät Leviläisille kaikki niinkuin Herra oli Mosekselle käskenyt; niin tekivät Israelin lapset heille. ",
       "king_james": "And Moses, and Aaron, and all the congregation of the children of Israel, did to the Levites according unto all that the Lord commanded Moses concerning the Levites, so did the children of Israel unto them."
     },
     {
       "verse": 21,
       "latin_vulgate": "purificatique sunt, et laverunt vestimenta sua. Elevavitque eos Aaron in conspectu Domini, et oravit pro eis, ",
       "hebrew_masoretic": "וַיִּֽתְחַטְּא֣וּ הַלְוִיִּ֗ם וַֽיְכַבְּסוּ֙ בִּגְדֵיהֶ֔ם וַיָּ֨נֶף אַהֲרֹ֥ן אֹתָ֛ם תְּנוּפָ֖ה לִפְנֵ֣י יְהֹוָ֑ה וַיְכַפֵּ֧ר עֲלֵיהֶ֛ם אַהֲרֹ֖ן לְטַהֲרָֽם׃",
+      "douay_rheims": "And they were purified, and washed their garments. And Aaron lifted them up in the sight of the Lord, and prayed for them,",
+      "finnish_biblia": "Ja Leviläiset puhdistivat itsensä, ja pesivät vaatteensa, ja niin Aaron häälytti heidät häälytykseksi Herran edessä, ja sovitti heitä niin että he puhdistettiin. ",
       "king_james": "And the Levites were purified, and they washed their clothes; and Aaron offered them as an offering before the Lord; and Aaron made an atonement for them to cleanse them."
     },
     {
       "verse": 22,
       "latin_vulgate": "ut purificati ingrederentur ad officia sua in tabernaculum fœderis coram Aaron et filiis ejus. Sicut præceperat Dominus Moysi de Levitis, ita factum est. ",
       "hebrew_masoretic": "וְאַחֲרֵי־כֵ֞ן בָּ֣אוּ הַלְוִיִּ֗ם לַעֲבֹ֤ד אֶת־עֲבֹֽדָתָם֙ בְּאֹ֣הֶל מוֹעֵ֔ד לִפְנֵ֥י אַהֲרֹ֖ן וְלִפְנֵ֣י בָנָ֑יו כַּאֲשֶׁר֩ צִוָּ֨ה יְהֹוָ֤ה אֶת־מֹשֶׁה֙ עַל־הַלְוִיִּ֔ם כֵּ֖ן עָשׂ֥וּ לָהֶֽם׃ {ס}",
+      "douay_rheims": "That being purified they might go into the tabernacle of the covenant to do their services before Aaron and his sons. As the Lord had commanded Moses touching the Levites, so was it done.",
+      "finnish_biblia": "Ja sitte Leviläiset menivät seurakunnan majaan, virkaansa tekemään Aaronin ja hänen poikainsa eteen: niinkuin Herra oli Mosekselle käskenyt Leviläisistä, niin tekivät he heille. ",
       "king_james": "And after that went the Levites in to do their service in the tabernacle of the congregation before Aaron, and before his sons: as the Lord had commanded Moses concerning the Levites, so did they unto them."
     },
     {
       "verse": 23,
       "latin_vulgate": "Locutusque est Dominus ad Moysen, dicens : ",
       "hebrew_masoretic": "וַיְדַבֵּ֥ר יְהֹוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃",
+      "douay_rheims": "And the Lord spoke to Moses, saying:",
+      "finnish_biblia": "Ja Herra puhui Mosekselle, sanoen: ",
       "king_james": "And the Lord spake unto Moses, saying,"
     },
     {
       "verse": 24,
       "latin_vulgate": "Hæc est lex Levitarum : a viginti quinque annis et supra, ingredientur ut ministrent in tabernaculo fœderis. ",
       "hebrew_masoretic": "זֹ֖את אֲשֶׁ֣ר לַלְוִיִּ֑ם מִבֶּן֩ חָמֵ֨שׁ וְעֶשְׂרִ֤ים שָׁנָה֙ וָמַ֔עְלָה יָבוֹא֙ לִצְבֹ֣א צָבָ֔א בַּעֲבֹדַ֖ת אֹ֥הֶל מוֹעֵֽד׃",
+      "douay_rheims": "This is the law of the Levites: From twenty-five years old and upwards, they shall go in to minister in the tabernacle of the covenant.",
+      "finnish_biblia": "Tämä on se minkä Leviläisten pitää pitämän: viidennestä vuodesta kolmattakymmentä ja sen ylitse, ovat he kelvolliset sotaan menemään ja palvelemaan seurakunnan majassa. ",
       "king_james": "This is it that belongeth unto the Levites: from twenty and five years old and upward they shall go in to wait upon the service of the tabernacle of the congregation:"
     },
     {
       "verse": 25,
       "latin_vulgate": "Cumque quinquagesimum annum ætatis impleverint, servire cessabunt, ",
       "hebrew_masoretic": "וּמִבֶּן֙ חֲמִשִּׁ֣ים שָׁנָ֔ה יָשׁ֖וּב מִצְּבָ֣א הָעֲבֹדָ֑ה וְלֹ֥א יַעֲבֹ֖ד עֽוֹד׃",
+      "douay_rheims": "And when they shall have accomplished the fiftieth year of their age, they shall cease to serve:",
+      "finnish_biblia": "Mutta viidennestäkymmenestä vuodesta pitää heidän vapaat oleman palveluksensa virasta, ja ei pidä enää palveleman. ",
       "king_james": "And from the age of fifty years they shall cease waiting upon the service thereof, and shall serve no more:"
     },
     {
       "verse": 26,
       "latin_vulgate": "eruntque ministri fratrum suorum in tabernaculo fœderis, ut custodiant quæ sibi fuerunt commendata : opera autem ipsa non faciant. Sic dispones Levitis in custodiis suis.   ",
       "hebrew_masoretic": "וְשֵׁרֵ֨ת אֶת־אֶחָ֜יו בְּאֹ֤הֶל מוֹעֵד֙ לִשְׁמֹ֣ר מִשְׁמֶ֔רֶת וַעֲבֹדָ֖ה לֹ֣א יַעֲבֹ֑ד כָּ֛כָה תַּעֲשֶׂ֥ה לַלְוִיִּ֖ם בְּמִשְׁמְרֹתָֽם׃ {פ}",
+      "douay_rheims": "And they shall be the ministers of their brethren in the tabernacle of the covenant, to keep the things that are committed to their care, but not to do the works. Thus shalt thou order the Levites touching their charge. ",
+      "finnish_biblia": "Mutta heidän pitää veljeinsä palveluksesta seurakunnan majassa ottaman vaarin; mutta viran töitä ei heidän pidä tekemän. Näin sinun pitää tekemän Leviläisille heidän vartiossansa.   ",
       "king_james": "But shall minister with their brethren in the tabernacle of the congregation, to keep the charge, and shall do no service. Thus shalt thou do unto the Levites touching their charge. "
     }
   ]

@@ -2,6 +2,8 @@
   "book_id": "DAN",
   "latin_name": "Daniel",
   "hebrew_name": "דָּנִיֵּאל",
+  "douay_name": "Daniel",
+  "finnish_name": "Daniel",
   "english_name": "Daniel",
   "chapter": 7,
   "verses": [
@@ -9,168 +11,224 @@
       "verse": 1,
       "latin_vulgate": "Anno primo Baltassar regis Babylonis, Daniel somnium vidit : visio autem capitis ejus in cubili suo : et somnium scribens, brevi sermone comprehendit : summatimque perstringens, ait : ",
       "hebrew_masoretic": "בִּשְׁנַ֣ת חֲדָ֗ה לְבֵלְאשַׁצַּר֙ מֶ֣לֶךְ בָּבֶ֔ל דָּנִיֵּאל֙ חֵ֣לֶם חֲזָ֔ה וְחֶזְוֵ֥י רֵאשֵׁ֖הּ עַֽל־מִשְׁכְּבֵ֑הּ בֵּאדַ֙יִן֙ חֶלְמָ֣א כְתַ֔ב רֵ֥אשׁ מִלִּ֖ין אֲמַֽר׃",
+      "douay_rheims": "In the first year of Baltasar, king of Babylon, Daniel saw a dream: and the vision of his head was upon his bed: and writing the dream, he comprehended it in a few words: and relating the sum of it in short, he said:",
+      "finnish_biblia": "Ensimäisenä Belsatsarin, Babelin kuninkaan vuotena näki Daniel unen ja näyn vuoteessansa; ja hän kirjoitti sen unen, ja käsitti sen näin: ",
       "king_james": "In the first year of Belshazzar king of Babylon Daniel had a dream and visions of his head upon his bed: then he wrote the dream, and told the sum of the matters."
     },
     {
       "verse": 2,
       "latin_vulgate": "Videbam in visione mea nocte : et ecce quatuor venti cæli pugnabant in mari magno. ",
       "hebrew_masoretic": "עָנֵ֤ה דָנִיֵּאל֙ וְאָמַ֔ר חָזֵ֥ה הֲוֵ֛ית בְּחֶזְוִ֖י עִם־לֵֽילְיָ֑א וַאֲר֗וּ אַרְבַּע֙ רוּחֵ֣י שְׁמַיָּ֔א מְגִיחָ֖ן לְיַמָּ֥א רַבָּֽא׃",
+      "douay_rheims": "I saw in my vision by night, and behold the four winds of the heavens strove upon the great sea.",
+      "finnish_biblia": "Daniel puhui ja sanoi: Minä näin näyn yöllä, ja katso, neljä tuulta taivaan alla pauhasivat toinen toistansa vastaan suurella merellä. ",
       "king_james": "Daniel spake and said, I saw in my vision by night, and, behold, the four winds of the heaven strove upon the great sea."
     },
     {
       "verse": 3,
       "latin_vulgate": "Et quatuor bestiæ grandes ascendebant de mari diversæ inter se. ",
       "hebrew_masoretic": "וְאַרְבַּ֤ע חֵיוָן֙ רַבְרְבָ֔ן סָלְקָ֖ן מִן־יַמָּ֑א שָׁנְיָ֖ן דָּ֥א מִן־דָּֽא׃",
+      "douay_rheims": "And four great beasts, different one from another, came up out of the sea.",
+      "finnish_biblia": "Ja neljä suurta petoa nousi merestä, aina toinen toisen muotoinen kuin toinen. ",
       "king_james": "And four great beasts came up from the sea, diverse one from another."
     },
     {
       "verse": 4,
       "latin_vulgate": "Prima quasi leæna, et alas habebat aquilæ : aspiciebam donec evulsæ sunt alæ ejus, et sublata est de terra, et super pedes quasi homo stetit ; et cor hominis datum est ei. ",
       "hebrew_masoretic": "קַדְמָיְתָ֣א כְאַרְיֵ֔ה וְגַפִּ֥ין דִּֽי־נְשַׁ֖ר לַ֑הּ חָזֵ֣ה הֲוֵ֡ית עַד֩ דִּי־מְּרִ֨יטוּ (גפיה) [גַפַּ֜הּ] וּנְטִ֣ילַת מִן־אַרְעָ֗א וְעַל־רַגְלַ֙יִן֙ כֶּאֱנָ֣שׁ הֳקִימַ֔ת וּלְבַ֥ב אֱנָ֖שׁ יְהִ֥יב לַֽהּ׃",
+      "douay_rheims": "The first was like a lioness, and had the wings of an eagle: I beheld till her wings were plucked off, and she was lifted up from the earth, and stood upon her feet as a man, and the heart of a man was given to her.",
+      "finnish_biblia": "Ensimäinen niinkuin jalopeura, jolla olivat kotkan siivet. Ja minä katsoin siihen asti, että siivet temmattiin pois häneltä ja hän otettiin ylös maasta, ja seisoi jaloillansa niinkuin ihminen, ja hänelle annettiin ihmisen sydän. ",
       "king_james": "The first was like a lion, and had eagle’s wings: I beheld till the wings thereof were plucked, and it was lifted up from the earth, and made stand upon the feet as a man, and a man’s heart was given to it."
     },
     {
       "verse": 5,
       "latin_vulgate": "Et ecce bestia alia similis urso in parte stetit : et tres ordines erant in ore ejus, et in dentibus ejus, et sic dicebant ei : Surge, comede carnes plurimas. ",
       "hebrew_masoretic": "וַאֲר֣וּ חֵיוָה֩ אׇחֳרִ֨י תִנְיָנָ֜ה דָּמְיָ֣ה לְדֹ֗ב וְלִשְׂטַר־חַד֙ הֳקִמַ֔ת וּתְלָ֥ת עִלְעִ֛ין בְּפֻמַּ֖הּ בֵּ֣ין (שניה) [שִׁנַּ֑הּ] וְכֵן֙ אָמְרִ֣ין לַ֔הּ ק֥וּמִֽי אֲכֻ֖לִי בְּשַׂ֥ר שַׂגִּֽיא׃",
+      "douay_rheims": "And behold another beast, like a bear, stood up on one side: and there were three rows in the mouth thereof, and in the teeth thereof, and thus they said to it: Arise, devour much flesh.",
+      "finnish_biblia": "Ja katso, toinen peto oli karhun muotoinen ja seisoi yhdellä puolella, ja oli hänen suussansa hammastensa seassa kolme kylkiluuta. Ja hänelle sanottiin: Nouse ja syö paljon lihaa. ",
       "king_james": "And behold another beast, a second, like to a bear, and it raised up itself on one side, and it had three ribs in the mouth of it between the teeth of it: and they said thus unto it, Arise, devour much flesh."
     },
     {
       "verse": 6,
       "latin_vulgate": "Post hæc aspiciebam, et ecce alia quasi pardus, et alas habebat quasi avis, quatuor super se : et quatuor capita erant in bestia, et potestas data est ei. ",
       "hebrew_masoretic": "בָּאתַ֨ר דְּנָ֜ה חָזֵ֣ה הֲוֵ֗ית וַאֲר֤וּ אׇֽחֳרִי֙ כִּנְמַ֔ר וְלַ֨הּ גַּפִּ֥ין אַרְבַּ֛ע דִּי־ע֖וֹף עַל־[גַּבַּ֑הּ] (גביה) וְאַרְבְּעָ֤ה רֵאשִׁין֙ לְחֵ֣יוְתָ֔א וְשׇׁלְטָ֖ן יְהִ֥יב לַֽהּ׃",
+      "douay_rheims": "After this I beheld, and lo, another like a leopard, and it had upon it four wings, as of a fowl, and the beast had four heads, and power was given to it.",
+      "finnish_biblia": "Tämän jälkeen minä näin, ja katso, toinen peto oli pardin muotoinen. Hänellä oli neljä linnun siipeä hänen selässänsä, ja sillä pedolla oli neljä päätä, ja hänelle annettiin valta. ",
       "king_james": "After this I beheld, and lo another, like a leopard, which had upon the back of it four wings of a fowl; the beast had also four heads; and dominion was given to it."
     },
     {
       "verse": 7,
       "latin_vulgate": "Post hæc aspiciebam in visione noctis, et ecce bestia quarta terribilis atque mirabilis, et fortis nimis : dentes ferreos habebat magnos, comedens atque comminuens, et reliqua pedibus suis conculcans : dissimilis autem erat ceteris bestiis quas videram ante eam, et habebat cornua decem. ",
       "hebrew_masoretic": "בָּאתַ֣ר דְּנָה֩ חָזֵ֨ה הֲוֵ֜ית בְּחֶזְוֵ֣י לֵֽילְיָ֗א וַאֲר֣וּ חֵיוָ֣ה (רביעיה) [רְֽבִיעָאָ֡ה] דְּחִילָה֩ וְאֵֽימְתָנִ֨י וְתַקִּיפָ֜א יַתִּ֗ירָה וְשִׁנַּ֨יִן דִּֽי־פַרְזֶ֥ל לַהּ֙ רַבְרְבָ֔ן אָֽכְלָ֣ה וּמַדֱּקָ֔ה וּשְׁאָרָ֖א (ברגליה) [בְּרַגְלַ֣הּ] רָפְסָ֑ה וְהִ֣יא מְשַׁנְּיָ֗ה מִן־כׇּל־חֵֽיוָתָא֙ דִּ֣י (קדמיה) [קׇֽדָמַ֔הּ] וְקַרְנַ֥יִן עֲשַׂ֖ר לַֽהּ׃",
+      "douay_rheims": "After this I beheld in the vision of the night, and lo, a fourth beast, terrible and wonderful, and exceeding strong, it had great iron teeth, eating and breaking in pieces, and treading down the rest with his feet: and it was unlike to the other beasts which I had seen before it, and had ten horns.",
+      "finnish_biblia": "Senjälkeen minä näin tässä näyssä yöllä, ja katso, neljäs peto oli kauhia ja hirmuinen ja sangen väkevä, ja hänellä olivat suuret rautaiset hampaat. Söi ympäriltänsä ja murensi ja liian hän tallasi jaloillansa. Se oli myös paljon toisin kuin ne muut pedot, jotka hänen edellänsä olivat, ja hänellä oli kymmenen sarvea. ",
       "king_james": "After this I saw in the night visions, and behold a fourth beast, dreadful and terrible, and strong exceedingly; and it had great iron teeth: it devoured and brake in pieces, and stamped the residue with the feet of it: and it was diverse from all the beasts that were before it; and it had ten horns."
     },
     {
       "verse": 8,
       "latin_vulgate": "Considerabam cornua, et ecce cornu aliud parvulum ortum est de medio eorum : et tria de cornibus primis evulsa sunt a facie ejus : et ecce oculi, quasi oculi hominis erant in cornu isto, et os loquens ingentia. ",
       "hebrew_masoretic": "מִשְׂתַּכַּ֨ל הֲוֵ֜ית בְּקַרְנַיָּ֗א וַ֠אֲל֠וּ קֶ֣רֶן אׇחֳרִ֤י זְעֵירָה֙ סִלְקָ֣ת (ביניהון) [בֵּֽינֵיהֵ֔ן] וּתְלָ֗ת מִן־קַרְנַיָּא֙ קַדְמָ֣יָתָ֔א (אתעקרו) [אֶתְעֲקַ֖רָה] מִן־[קֳדָמַ֑הּ] (קדמיה) וַאֲל֨וּ עַיְנִ֜ין כְּעַיְנֵ֤י אֲנָשָׁא֙ בְּקַרְנָא־דָ֔א וּפֻ֖ם מְמַלִּ֥ל רַבְרְבָֽן׃",
+      "douay_rheims": "I considered the horns, and behold another little horn sprung out of the midst of them: and three of the first horns were plucked up at the presence thereof: and behold eyes like the eyes of a man were in this horn, and a mouth speaking great things.",
+      "finnish_biblia": "Minä katselin tarkasti sarvia, ja katso, niiden seassa puhkesi toinen vähä sarvi, jonka edestä kolme niistä ensimäisistä sarvista reväistiin pois. Ja katso, sillä sarvella olivat silmät niinkuin ihmisen silmät ja suu, joka pahui suuria asioita. ",
       "king_james": "I considered the horns, and, behold, there came up among them another little horn, before whom there were three of the first horns plucked up by the roots: and, behold, in this horn were eyes like the eyes of man, and a mouth speaking great things."
     },
     {
       "verse": 9,
       "latin_vulgate": "Aspiciebam donec throni positi sunt, et antiquus dierum sedit. Vestimentum ejus candidum quasi nix, et capilli capitis ejus quasi lana munda : thronus ejus flammæ ignis : rotæ ejus ignis accensus. ",
       "hebrew_masoretic": "חָזֵ֣ה הֲוֵ֗ית עַ֣ד דִּ֤י כׇרְסָוָן֙ רְמִ֔יו וְעַתִּ֥יק יוֹמִ֖ין יְתִ֑ב לְבוּשֵׁ֣הּ ׀ כִּתְלַ֣ג חִוָּ֗ר וּשְׂעַ֤ר רֵאשֵׁהּ֙ כַּעֲמַ֣ר נְקֵ֔א כׇּרְסְיֵהּ֙ שְׁבִבִ֣ין דִּי־נ֔וּר גַּלְגִּלּ֖וֹהִי נ֥וּר דָּלִֽק׃",
+      "douay_rheims": "I beheld till thrones were placed, and the ancient of days sat: his garment was white as snow, and the hair of his head like clean wool: his throne like flames of fire: the wheels of it like a burning fire.",
+      "finnish_biblia": "Nämät minä näin, siihenasti, että istuimet pantiin. Ja istui vanha-ikäinen, jonka vaatteet olivat lumivalkiat, ja hänen päänsä hiukset niinkuin puhdas villa, hänen istuimensa oli niinkuin tulen liekki, ja hänen rattaansa niinkuin polttava tuli. ",
       "king_james": "I beheld till the thrones were cast down, and the Ancient of days did sit, whose garment was white as snow, and the hair of his head like the pure wool: his throne was like the fiery flame, and his wheels as burning fire."
     },
     {
       "verse": 10,
       "latin_vulgate": "Fluvius igneus rapidusque egrediebatur a facie ejus. Millia millium ministrabant ei, et decies millies centena millia assistebant ei : judicium sedit, et libri aperti sunt. ",
       "hebrew_masoretic": "נְהַ֣ר דִּי־נ֗וּר נָגֵ֤ד וְנָפֵק֙ מִן־קֳדָמ֔וֹהִי אֶ֤לֶף (אלפים) [אַלְפִין֙] יְשַׁמְּשׁוּנֵּ֔הּ וְרִבּ֥וֹ (רבון) [רִבְבָ֖ן] קָֽדָמ֣וֹהִי יְקוּמ֑וּן דִּינָ֥א יְתִ֖ב וְסִפְרִ֥ין פְּתִֽיחוּ׃",
+      "douay_rheims": "A swift stream of fire issued forth from before him: thousands of thousands ministered to him, and ten thousand times a hundred thousand stood before him: the judgment sat, and the books were opened.",
+      "finnish_biblia": "Tulinen virta juoksi ja kävi ulos hänen kasvoinsa edestä. Tuhannen kertaa tuhannen palveli häntä ja sata kertaa tuhannen tuhatta seisoi hänen edessänsä. Tuomio pidettiin, ja kirjat avattiin. ",
       "king_james": "A fiery stream issued and came forth from before him: thousand thousands ministered unto him, and ten thousand times ten thousand stood before him: the judgment was set, and the books were opened."
     },
     {
       "verse": 11,
       "latin_vulgate": "Aspiciebam propter vocem sermonum grandium, quos cornu illud loquebatur : et vidi quoniam interfecta esset bestia, et perisset corpus ejus, et traditum esset ad comburendum igni : ",
       "hebrew_masoretic": "חָזֵ֣ה הֲוֵ֔ית בֵּאדַ֗יִן מִן־קָל֙ מִלַּיָּ֣א רַבְרְבָתָ֔א דִּ֥י קַרְנָ֖א מְמַלֱּלָ֑ה חָזֵ֣ה הֲוֵ֡ית עַד֩ דִּ֨י קְטִילַ֤ת חֵֽיוְתָא֙ וְהוּבַ֣ד גִּשְׁמַ֔הּ וִיהִיבַ֖ת לִיקֵדַ֥ת אֶשָּֽׁא׃",
+      "douay_rheims": "I beheld, because of the voice of the great words which that horn spoke: and I saw that the beast was slain, and the body thereof was destroyed, and given to the fire to be burnt:",
+      "finnish_biblia": "Minä katsoin niiden suurten puhetten äänen tähden, joita se sarvi puhui; minä katselin, siihen asti, että peto tapettu oli, ja hänen ruumiinsa hukkui, ja tuleen palamaan heitettiin. ",
       "king_james": "I beheld then because of the voice of the great words which the horn spake: I beheld even till the beast was slain, and his body destroyed, and given to the burning flame."
     },
     {
       "verse": 12,
       "latin_vulgate": "aliarum quoque bestiarum ablata esset potestas, et tempora vitæ constituta essent eis usque ad tempus et tempus. ",
       "hebrew_masoretic": "וּשְׁאָר֙ חֵֽיוָתָ֔א הֶעְדִּ֖יו שׇׁלְטָנְה֑וֹן וְאַרְכָ֧ה בְחַיִּ֛ין יְהִ֥יבַת לְה֖וֹן עַד־זְמַ֥ן וְעִדָּֽן׃",
+      "douay_rheims": "And that the power of the other beasts was taken away: and that times of life were appointed them for a time, and a time.",
+      "finnish_biblia": "Ja muiden petoin valta myös loppui; sillä heillä oli määrätty aika ja hetki, kuinka kauvan kukin oleman piti. ",
       "king_james": "As concerning the rest of the beasts, they had their dominion taken away: yet their lives were prolonged for a season and time."
     },
     {
       "verse": 13,
       "latin_vulgate": "Aspiciebam ergo in visione noctis, et ecce cum nubibus cæli quasi filius hominis veniebat, et usque ad antiquum dierum pervenit : et in conspectu ejus obtulerunt eum. ",
       "hebrew_masoretic": "חָזֵ֤ה הֲוֵית֙ בְּחֶזְוֵ֣י לֵֽילְיָ֔א וַאֲרוּ֙ עִם־עֲנָנֵ֣י שְׁמַיָּ֔א כְּבַ֥ר אֱנָ֖שׁ אָתֵ֣ה הֲוָ֑א וְעַד־עַתִּ֤יק יֽוֹמַיָּא֙ מְטָ֔ה וּקְדָמ֖וֹהִי הַקְרְבֽוּהִי׃",
+      "douay_rheims": "I beheld, therefore, in the vision of the night, and lo, one like the Son of man came with the clouds of heaven, and he came even to the ancient of days: and they presented him before him.",
+      "finnish_biblia": "Minä näin tässä näyssä yöllä, ja katso; yksi tuli taivaan pilvissä niinkuin ihmisen poika, ja hän tuli hamaan vanha-ikäisen tykö, ja vietiin hänen eteensä. ",
       "king_james": "I saw in the night visions, and, behold, one like the Son of man came with the clouds of heaven, and came to the Ancient of days, and they brought him near before him."
     },
     {
       "verse": 14,
       "latin_vulgate": "Et dedit ei potestatem, et honorem, et regnum : et omnes populi, tribus, et linguæ ipsi servient : potestas ejus, potestas æterna, quæ non auferetur : et regnum ejus, quod non corrumpetur.  ",
       "hebrew_masoretic": "וְלֵ֨הּ יְהִ֤ב שׇׁלְטָן֙ וִיקָ֣ר וּמַלְכ֔וּ וְכֹ֣ל עַֽמְמַיָּ֗א אֻמַּיָּ֛א וְלִשָּׁנַיָּ֖א לֵ֣הּ יִפְלְח֑וּן שׇׁלְטָנֵ֞הּ שׇׁלְטָ֤ן עָלַם֙ דִּֽי־לָ֣א יֶעְדֵּ֔ה וּמַלְכוּתֵ֖הּ דִּי־לָ֥א תִתְחַבַּֽל׃ {פ}",
+      "douay_rheims": "And he gave him power, and glory, and a kingdom: and all peoples, tribes, and tongues shall serve him: his power is an everlasting power that shall not be taken away: and his kingdom that shall not be destroyed.",
+      "finnish_biblia": "Ja hän antoi hänelle voiman, kunnian ja valtakunnan, että häntä kaikki kansat, sukukunnat ja kielet palveleman pitää. Hänen valtansa on ijankaikkinen valta, joka ei huku, ja hänen valtakunnallansa ei ole loppua. ",
       "king_james": "And there was given him dominion, and glory, and a kingdom, that all people, nations, and languages, should serve him: his dominion is an everlasting dominion, which shall not pass away, and his kingdom that which shall not be destroyed."
     },
     {
       "verse": 15,
       "latin_vulgate": " Horruit spiritus meus : ego Daniel territus sum in his, et visiones capitis mei conturbaverunt me. ",
       "hebrew_masoretic": "אֶתְכְּרִיַּ֥ת רוּחִ֛י אֲנָ֥ה דָנִיֵּ֖אל בְּג֣וֹא נִדְנֶ֑ה וְחֶזְוֵ֥י רֵאשִׁ֖י יְבַהֲלֻנַּֽנִי׃",
+      "douay_rheims": "My spirit trembled; I, Daniel, was affrighted at these things, and the visions of my head troubled me.",
+      "finnish_biblia": "Minä Daniel hämmästyin sitä minun hengessäni, ja ne minun näkyni peljättivät minua. ",
       "king_james": "I Daniel was grieved in my spirit in the midst of my body, and the visions of my head troubled me."
     },
     {
       "verse": 16,
       "latin_vulgate": "Accessi ad unum de assistentibus, et veritatem quærebam ab eo de omnibus his. Qui dixit mihi interpretationem sermonum, et docuit me : ",
       "hebrew_masoretic": "קִרְבֵ֗ת עַל־חַד֙ מִן־קָ֣אֲמַיָּ֔א וְיַצִּיבָ֥א אֶבְעֵֽא־מִנֵּ֖הּ עַֽל־כׇּל־דְּנָ֑ה וַאֲמַר־לִ֕י וּפְשַׁ֥ר מִלַּיָּ֖א יְהוֹדְעִנַּֽנִי׃",
+      "douay_rheims": "I went near to one of them that stood by, and asked the truth of him concerning all these things, and he told me the interpretation of the words, and instructed me:",
+      "finnish_biblia": "Ja minä menin yhden tykö niistä, jotka siinä seisoivat, ja rukoilin häntä, että hän minulle näistä kaikista tiedon antais. Ja hän puhui minun kanssani, ja ilmoitti minulle niiden sanain selityksen. ",
       "king_james": "I came near unto one of them that stood by, and asked him the truth of all this. So he told me, and made me know the interpretation of the things."
     },
     {
       "verse": 17,
       "latin_vulgate": "Hæ quatuor bestiæ magnæ, quatuor sunt regna, quæ consurgent de terra. ",
       "hebrew_masoretic": "אִלֵּין֙ חֵיוָתָ֣א רַבְרְבָתָ֔א דִּ֥י אִנִּ֖ין אַרְבַּ֑ע אַרְבְּעָ֥ה מַלְכִ֖ין יְקוּמ֥וּן מִן־אַרְעָֽא׃",
+      "douay_rheims": "These four great beasts, are four kingdoms, which shall arise out of the earth.",
+      "finnish_biblia": "Nämät neljä suurta petoa ovat neljä kuningasta, jotka nousevat maasta. ",
       "king_james": "These great beasts, which are four, are four kings, which shall arise out of the earth."
     },
     {
       "verse": 18,
       "latin_vulgate": "Suscipient autem regnum sancti Dei altissimi, et obtinebunt regnum usque in sæculum, et sæculum sæculorum. ",
       "hebrew_masoretic": "וִֽיקַבְּלוּן֙ מַלְכוּתָ֔א קַדִּישֵׁ֖י עֶלְיוֹנִ֑ין וְיַחְסְנ֤וּן מַלְכוּתָא֙ עַד־עָ֣לְמָ֔א וְעַ֖ד עָלַ֥ם עָלְמַיָּֽא׃",
+      "douay_rheims": "But the saints of the most high God shall take the kingdom: and they shall possess the kingdom for ever and ever.",
+      "finnish_biblia": "Vaan sen Korkeimman pyhät pitää valtakunnan omistaman ja pitää siinä asuman ijankaikkisesti ja ijankaikkisesta ijankaikkiseen. ",
       "king_james": "But the saints of the most High shall take the kingdom, and possess the kingdom for ever, even for ever and ever."
     },
     {
       "verse": 19,
       "latin_vulgate": "Post hoc volui diligenter discere de bestia quarta, quæ erat dissimilis valde ab omnibus, et terribilis nimis : dentes et ungues ejus ferrei : comedebat, et comminuebat, et reliqua pedibus suis conculcabat : ",
       "hebrew_masoretic": "אֱדַ֗יִן צְבִית֙ לְיַצָּבָ֗א עַל־חֵֽיוְתָא֙ רְבִיעָ֣יְתָ֔א דִּֽי־הֲוָ֥ת שָֽׁנְיָ֖ה מִן־[כׇּלְּהֵ֑ין] (כלהון) דְּחִילָ֣ה יַתִּ֗ירָה (שניה) [שִׁנַּ֤הּ] דִּֽי־פַרְזֶל֙ (וטפריה) [וְטִפְרַ֣הּ] דִּֽי־נְחָ֔שׁ אָֽכְלָ֣ה מַדְּקָ֔ה וּשְׁאָרָ֖א (ברגליה) [בְּרַגְלַ֥הּ] רָֽפְסָֽה׃",
+      "douay_rheims": "After this I would diligently learn concerning the fourth beast, which was very different from all, and exceeding terrible: his teeth and claws were of iron: he devoured and broke in pieces, and the rest he stamped upon with his feet:",
+      "finnish_biblia": "Sitte minä olisin mielelläni tahtonut tietää totista tietoa neljännestä pedosta, joka paljo toisin oli kuin kaikki ne muut; sangen hirmuinen, jolla rautaiset hampaat ja vaskiset kynnet olivat; joka ympäriltänsä söi ja murensi ja liian jaloillansa tallasi; ",
       "king_james": "Then I would know the truth of the fourth beast, which was diverse from all the others, exceeding dreadful, whose teeth were of iron, and his nails of brass; which devoured, brake in pieces, and stamped the residue with his feet;"
     },
     {
       "verse": 20,
       "latin_vulgate": "et de cornibus decem, quæ habebat in capite, et de alio, quod ortum fuerat, ante quod ceciderant tria cornua : et de cornu illo, quod habebat oculos, et os loquens grandia, et majus erat ceteris. ",
       "hebrew_masoretic": "וְעַל־קַרְנַיָּ֤א עֲשַׂר֙ דִּ֣י בְרֵאשַׁ֔הּ וְאׇחֳרִי֙ דִּ֣י סִלְקַ֔ת (ונפלו) [וּנְפַ֥לָה] מִן־[קֳדָמַ֖הּ] (קדמיה) תְּלָ֑ת וְקַרְנָ֨א דִכֵּ֜ן וְעַיְנִ֣ין לַ֗הּ וּפֻם֙ מְמַלִּ֣ל רַבְרְבָ֔ן וְחֶזְוַ֖הּ רַ֥ב מִן־חַבְרָתַֽהּ׃",
+      "douay_rheims": "And concerning the ten horns that he had on his head: and concerning the other that came up, before which three horns fell: and of that horn that had eyes, and a mouth speaking great things, and was greater than the rest.",
+      "finnish_biblia": "Ja niistä kymmenestä sarvesta hänen päässänsä ja siitä toisesta, joka putkahti ulos; jonka edestä putosivat pois kolme; ja siitä sarvesta, jolla silmät olivat ja suu, joka suuria asioita puhui ja suurempi oli kuin ne, jotka hänen tykönänsä olivat. ",
       "king_james": "And of the ten horns that were in his head, and of the other which came up, and before whom three fell; even of that horn that had eyes, and a mouth that spake very great things, whose look was more stout than his fellows."
     },
     {
       "verse": 21,
       "latin_vulgate": "Aspiciebam, et ecce cornu illud faciebat bellum adversus sanctos, et prævalebat eis, ",
       "hebrew_masoretic": "חָזֵ֣ה הֲוֵ֔ית וְקַרְנָ֣א דִכֵּ֔ן עָבְדָ֥ה קְרָ֖ב עִם־קַדִּישִׁ֑ין וְיָכְלָ֖ה לְהֹֽן׃",
+      "douay_rheims": "I beheld, and lo, that horn made war against the saints, and prevailed over them,",
+      "finnish_biblia": "Ja minä näin sen sarven sotivan pyhiä vastaan ja voittavan heidät. ",
       "king_james": "I beheld, and the same horn made war with the saints, and prevailed against them;"
     },
     {
       "verse": 22,
       "latin_vulgate": "donec venit antiquus dierum, et judicium dedit sanctis Excelsi, et tempus advenit, et regnum obtinuerunt sancti. ",
       "hebrew_masoretic": "עַ֣ד דִּֽי־אֲתָ֗ה עַתִּיק֙ יֽוֹמַיָּ֔א וְדִינָ֣א יְהִ֔ב לְקַדִּישֵׁ֖י עֶלְיוֹנִ֑ין וְזִמְנָ֣א מְטָ֔ה וּמַלְכוּתָ֖א הֶחֱסִ֥נוּ קַדִּישִֽׁין׃",
+      "douay_rheims": "Till the ancient of days came and gave judgment to the saints of the most High, and the time came, and the saints obtained the kingdom.",
+      "finnish_biblia": "Siihen asti, että vanha-ikäinen tuli, ja tuomio annettiin sen Korkeimman pyhille, ja aika joutui, että pyhät valtakunnan omistivat. ",
       "king_james": "Until the Ancient of days came, and judgment was given to the saints of the most High; and the time came that the saints possessed the kingdom."
     },
     {
       "verse": 23,
       "latin_vulgate": "Et sic ait : Bestia quarta, regnum quartum erit in terra, quod majus erit omnibus regnis, et devorabit universam terram, et conculcabit, et comminuet eam. ",
       "hebrew_masoretic": "כֵּן֮ אֲמַר֒ חֵֽיוְתָא֙ רְבִיעָ֣יְתָ֔א מַלְכ֤וּ (רביעיה) [רְבִיעָאָה֙] תֶּהֱוֵ֣א בְאַרְעָ֔א דִּ֥י תִשְׁנֵ֖א מִן־כׇּל־מַלְכְוָתָ֑א וְתֵאכֻל֙ כׇּל־אַרְעָ֔א וּתְדוּשִׁנַּ֖הּ וְתַדְּקִנַּֽהּ׃",
+      "douay_rheims": "And thus he said: The fourth beast shall be the fourth kingdom upon earth, which shall be greater than all the kingdoms, and shall devour the whole earth, and shall tread it down, and break it in pieces.",
+      "finnish_biblia": "Hän sanoi näin: Neljäs peto on neljäs valtakunta maailmassa, joka on erinäinen kaikista valtakunnista. Se syö kaiken maan, tallaa ja turmelee sen. ",
       "king_james": "Thus he said, The fourth beast shall be the fourth kingdom upon earth, which shall be diverse from all kingdoms, and shall devour the whole earth, and shall tread it down, and break it in pieces."
     },
     {
       "verse": 24,
       "latin_vulgate": "Porro cornua decem ipsius regni, decem reges erunt : et alius consurget post eos, et ipse potentior erit prioribus, et tres reges humiliabit. ",
       "hebrew_masoretic": "וְקַרְנַיָּ֣א עֲשַׂ֔ר מִנַּהּ֙ מַלְכוּתָ֔א עַשְׂרָ֥ה מַלְכִ֖ין יְקֻמ֑וּן וְאׇחֳרָ֞ן יְק֣וּם אַחֲרֵיהֹ֗ן וְה֤וּא יִשְׁנֵא֙ מִן־קַדְמָיֵ֔א וּתְלָתָ֥ה מַלְכִ֖ין יְהַשְׁפִּֽל׃",
+      "douay_rheims": "And the ten horns of the same kingdom, shall be ten kings: and another shall rise up after them, and he shall be mightier than the former, and he shall bring down three kings.",
+      "finnish_biblia": "Ne kymmenen sarvea ovat kymmenen kuningasta, jotka siitä valtakunnasta nousevat. Ja niiden jälkeen tulee toinen, joka erinäinen on entisistä, ja nöyryyttää kolme kuningasta. ",
       "king_james": "And the ten horns out of this kingdom are ten kings that shall arise: and another shall rise after them; and he shall be diverse from the first, and he shall subdue three kings."
     },
     {
       "verse": 25,
       "latin_vulgate": "Et sermones contra Excelsum loquetur, et sanctos Altissimi conteret : et putabit quod possit mutare tempora, et leges : et tradentur in manu ejus usque ad tempus, et tempora, et dimidium temporis. ",
       "hebrew_masoretic": "וּמִלִּ֗ין לְצַ֤ד (עליא) [עִלָּאָה֙] יְמַלִּ֔ל וּלְקַדִּישֵׁ֥י עֶלְיוֹנִ֖ין יְבַלֵּ֑א וְיִסְבַּ֗ר לְהַשְׁנָיָה֙ זִמְנִ֣ין וְדָ֔ת וְיִתְיַהֲב֣וּן בִּידֵ֔הּ עַד־עִדָּ֥ן וְעִדָּנִ֖ין וּפְלַ֥ג עִדָּֽן׃",
+      "douay_rheims": "And he shall speak words against the High One, and shall crush the saints of the most High: and he shall think himself able to change times and laws, and they shall be delivered into his hand until a time, and times, and half a time.",
+      "finnish_biblia": "Hän puhuu Korkeinta vastaan ja hävittää Korkeimman pyhät ja rohkenee ajat ja lain muuttaa. Mutta he annetaan hänen käsiinsä yhdeksi hetkeksi ja monikahdoiksi ajoiksi ja puoleksi ajaksi. ",
       "king_james": "And he shall speak great words against the most High, and shall wear out the saints of the most High, and think to change times and laws: and they shall be given into his hand until a time and times and the dividing of time."
     },
     {
       "verse": 26,
       "latin_vulgate": "Et judicium sedebit, ut auferatur potentia, et conteratur, et dispereat usque in finem. ",
       "hebrew_masoretic": "וְדִינָ֖א יִתִּ֑ב וְשׇׁלְטָנֵ֣הּ יְהַעְדּ֔וֹן לְהַשְׁמָדָ֥ה וּלְהוֹבָדָ֖ה עַד־סוֹפָֽא׃",
+      "douay_rheims": "And a judgment shall sit, that his power may be taken away, and be broken in pieces, and perish even to the end.",
+      "finnish_biblia": "Sen jälkeen pidetään tuomio, ja hänen valtansa otetaan pois, että hän peräti hukutetaan ja kadotetaan. ",
       "king_james": "But the judgment shall sit, and they shall take away his dominion, to consume and to destroy it unto the end."
     },
     {
       "verse": 27,
       "latin_vulgate": "Regnum autem, et potestas, et magnitudo regni, quæ est subter omne cælum, detur populo sanctorum Altissimi : cujus regnum, regnum sempiternum est, et omnes reges servient ei, et obedient. ",
       "hebrew_masoretic": "וּמַלְכוּתָ֨א וְשׇׁלְטָנָ֜א וּרְבוּתָ֗א דִּ֚י מַלְכְוָת֙ תְּח֣וֹת כׇּל־שְׁמַיָּ֔א יְהִיבַ֕ת לְעַ֖ם קַדִּישֵׁ֣י עֶלְיוֹנִ֑ין מַלְכוּתֵהּ֙ מַלְכ֣וּת עָלַ֔ם וְכֹל֙ שׇׁלְטָ֣נַיָּ֔א לֵ֥הּ יִפְלְח֖וּן וְיִֽשְׁתַּמְּעֽוּן׃",
+      "douay_rheims": "And that the kingdom, and power, and the greatness of the kingdom, under the whole heaven, may be given to the people of the saints of the most High: whose kingdom is an everlasting kingdom, and all kings shall serve him, and shall obey him.",
+      "finnish_biblia": "Vaan valtakunta, valta ja voima kaiken taivaan alla annetaan Korkeimman pyhälle kansalle, jonka valtakunta on ijankaikkinen valtakunta, ja kaikki vallat pitää häntä palveleman ja kuuleman. ",
       "king_james": "And the kingdom and dominion, and the greatness of the kingdom under the whole heaven, shall be given to the people of the saints of the most High, whose kingdom is an everlasting kingdom, and all dominions shall serve and obey him."
     },
     {
       "verse": 28,
       "latin_vulgate": "Hucusque finis verbi. Ego Daniel multum cogitationibus meis conturbabar, et facies mea mutata est in me : verbum autem in corde meo conservavi.   ",
       "hebrew_masoretic": "עַד־כָּ֖ה סוֹפָ֣א דִֽי־מִלְּתָ֑א אֲנָ֨ה דָֽנִיֵּ֜אל שַׂגִּ֣יא ׀ רַעְיוֹנַ֣י יְבַהֲלֻנַּ֗נִי וְזִיוַי֙ יִשְׁתַּנּ֣וֹן עֲלַ֔י וּמִלְּתָ֖א בְּלִבִּ֥י נִטְרֵֽת׃ {פ}",
+      "douay_rheims": "Hitherto is the end of the word. I, Daniel, was much troubled with my thoughts, and my countenance was changed in me: but I kept the word in my heart. ",
+      "finnish_biblia": "Tämä oli sen puheen loppu. Vaan minä Daniel olin sangen murheellinen minun ajatuksissani ja minun muotoni muuttui. Kuitenkin minä kätkin puheet sydämessäni.   ",
       "king_james": "Hitherto is the end of the matter. As for me Daniel, my cogitations much troubled me, and my countenance changed in me: but I kept the matter in my heart. "
     }
   ]

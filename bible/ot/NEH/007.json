@@ -2,6 +2,8 @@
   "book_id": "NEH",
   "latin_name": "II Esdrae",
   "hebrew_name": "נְחֶמְיָה",
+  "douay_name": "2 Esdras",
+  "finnish_name": "Nehemian kirja",
   "english_name": "Nehemiah",
   "chapter": 7,
   "verses": [
@@ -9,414 +11,552 @@
       "verse": 1,
       "latin_vulgate": "Postquam autem ædificatus est murus, et posui valvas, et recensui janitores, et cantores, et Levitas, ",
       "hebrew_masoretic": "וַיְהִ֗י כַּאֲשֶׁ֤ר נִבְנְתָה֙ הַחוֹמָ֔ה וָאַעֲמִ֖יד הַדְּלָת֑וֹת וַיִּפָּ֥קְד֛וּ הַשּׁוֹעֲרִ֥ים וְהַמְשֹׁרְרִ֖ים וְהַלְוִיִּֽם׃",
+      "douay_rheims": "Now after the wall was built, and I had set up the doors, and numbered the porters and singing men, and Levites:",
+      "finnish_biblia": "Mutta sittekuin muurit olivat rakennetut, panin minä portit; ja toimitettiin ovenvartiat, veisaajat ja Leviläiset. ",
       "king_james": "Now it came to pass, when the wall was built, and I had set up the doors, and the porters and the singers and the Levites were appointed,"
     },
     {
       "verse": 2,
       "latin_vulgate": "præcepi Hanani fratri meo, et Hananiæ principi domus de Jerusalem (ipse enim quasi vir verax et timens Deum plus ceteris videbatur), ",
       "hebrew_masoretic": "וָאֲצַוֶּ֞ה אֶת־חֲנָ֣נִי אָחִ֗י וְאֶת־חֲנַנְיָ֛ה שַׂ֥ר הַבִּירָ֖ה עַל־יְרוּשָׁלָ֑͏ִם כִּי־הוּא֙ כְּאִ֣ישׁ אֱמֶ֔ת וְיָרֵ֥א אֶת־הָאֱלֹהִ֖ים מֵרַבִּֽים׃",
+      "douay_rheims": "I commanded Hanani my brother, and Hananias ruler of the house of Jerusalem, (for he seemed as a sincere man, and one that feared God above the rest,)",
+      "finnish_biblia": "Ja minä käskin veljeäni Hanania, ja Hananiaa, linnan vanhinta Jerusalemissa (sillä hän oli uskollinen ja Jumalaa pelkääväinen mies monen suhteen), ",
       "king_james": "That I gave my brother Hanani, and Hananiah the ruler of the palace, charge over Jerusalem: for he was a faithful man, and feared God above many."
     },
     {
       "verse": 3,
       "latin_vulgate": "et dixi eis : Non aperiantur portæ Jerusalem usque ad calorem solis. Cumque adhuc assisterent, clausæ portæ sunt, et oppilatæ : et posui custodes de habitatoribus Jerusalem, singulos per vices suas, et unumquemque contra domum suam. ",
       "hebrew_masoretic": "(ויאמר) [וָאֹמַ֣ר] לָהֶ֗ם לֹ֣א יִפָּֽתְח֞וּ שַׁעֲרֵ֤י יְרוּשָׁלַ֙͏ִם֙ עַד־חֹ֣ם הַשֶּׁ֔מֶשׁ וְעַ֨ד הֵ֥ם עֹמְדִ֛ים יָגִ֥יפוּ הַדְּלָת֖וֹת וֶאֱחֹ֑זוּ וְהַעֲמֵ֗יד מִשְׁמְרוֹת֙ יֹשְׁבֵ֣י יְרוּשָׁלַ֔͏ִם אִ֚ישׁ בְּמִשְׁמָר֔וֹ וְאִ֖ישׁ נֶ֥גֶד בֵּיתֽוֹ׃",
+      "douay_rheims": "And I said to them: Let not the gates of Jerusalem be opened till the sun be hot. And while they were yet standing by the gates were shut, and barred: and I set watchmen of the inhabitants of Jerusalem, every one by their courses, and every man over against his house.",
+      "finnish_biblia": "Ja sanoin heille: ei Jerusalemin portteja ennen pidä avattaman, kuin aurinko lämpiää, ja kuin vielä työtä tehdään, niin pitää portit pantaman kiinni ja teljettämän. Ja vartiat asetettiin Jerusalemin asuvaisista jokainen paikkaansa, ja kukin oman huoneensa kohdalle; ",
       "king_james": "And I said unto them, Let not the gates of Jerusalem be opened until the sun be hot; and while they stand by, let them shut the doors, and bar them: and appoint watches of the inhabitants of Jerusalem, every one in his watch, and every one to be over against his house."
     },
     {
       "verse": 4,
       "latin_vulgate": "Civitas autem erat lata nimis et grandis, et populus parvus in medio ejus, et non erant domus ædificatæ. ",
       "hebrew_masoretic": "וְהָעִ֞יר רַחֲבַ֤ת יָדַ֙יִם֙ וּגְדֹלָ֔ה וְהָעָ֥ם מְעַ֖ט בְּתוֹכָ֑הּ וְאֵ֥ין בָּתִּ֖ים בְּנוּיִֽם׃",
+      "douay_rheims": "And the city was very wide and great, and the people few in the midst thereof, and the houses were not built.",
+      "finnish_biblia": "Sillä kaupunki oli avara ja suuri, mutta kansaa oli siinä vähän; ja ei olleet huoneet rakennetut. ",
       "king_james": "Now the city was large and great: but the people were few therein, and the houses were not builded."
     },
     {
       "verse": 5,
       "latin_vulgate": "Deus autem dedit in corde meo, et congregavi optimates, et magistratus, et vulgus, ut recenserem eos : et inveni librum census eorum qui ascenderant primum, et inventum est scriptum in eo. ",
       "hebrew_masoretic": "וַיִּתֵּ֤ן אֱלֹהַי֙ אֶל־לִבִּ֔י וָאֶקְבְּצָ֞ה אֶת־הַחֹרִ֧ים וְאֶת־הַסְּגָנִ֛ים וְאֶת־הָעָ֖ם לְהִתְיַחֵ֑שׂ וָֽאֶמְצָ֗א סֵ֤פֶר הַיַּ֙חַשׂ֙ הָעוֹלִ֣ים בָּרִאשׁוֹנָ֔ה וָאֶמְצָ֖א כָּת֥וּב בּֽוֹ׃ {פ}",
+      "douay_rheims": "But God had put in my heart, and I assembled the princes and magistrates, and common people, to number them: and I found a book of the number of them who came up at first and therein it was found written:",
+      "finnish_biblia": "Ja minun Jumalani lykkäsi mieleeni, että minä kokosin ylimmäiset ja päämiehet ja kansan, ja luin heidät; ja minä löysin heidän mieslukunsa kirjan, jotka ennen olivat tulleet vankeudesta, ja minä löysin siinä kirjoitettuna. ",
       "king_james": "And my God put into mine heart to gather together the nobles, and the rulers, and the people, that they might be reckoned by genealogy. And I found a register of the genealogy of them which came up at the first, and found written therein,"
     },
     {
       "verse": 6,
       "latin_vulgate": "Isti filii provinciæ, qui ascenderunt de captivitate migrantium, quos transtulerat Nabuchodonosor rex Babylonis, et reversi sunt in Jerusalem et in Judæam, unusquisque in civitatem suam. ",
       "hebrew_masoretic": "אֵ֣לֶּה ׀ בְּנֵ֣י הַמְּדִינָ֗ה הָעֹלִים֙ מִשְּׁבִ֣י הַגּוֹלָ֔ה אֲשֶׁ֣ר הֶגְלָ֔ה נְבוּכַדְנֶצַּ֖ר מֶ֣לֶךְ בָּבֶ֑ל וַיָּשׁ֧וּבוּ לִֽירוּשָׁלַ֛͏ִם וְלִיהוּדָ֖ה אִ֥ישׁ לְעִירֽוֹ׃",
+      "douay_rheims": "These are the children of the province, who came up from the captivity of them that had been carried away, whom Nabuchodonosor the king of Babylon had carried away, and who returned into Judea, every one into his own city.",
+      "finnish_biblia": "Nämät ovat maakunnan lapset, jotka palasivat poisviedyistä vangeista, jotka Nebukadnetsar Babelin kuningas oli vienyt pois; ja he palasivat Jerusalemiin ja Juudaan, jokainen kaupunkiinsa, ",
       "king_james": "These are the children of the province, that went up out of the captivity, of those that had been carried away, whom Nebuchadnezzar the king of Babylon had carried away, and came again to Jerusalem and to Judah, every one unto his city;"
     },
     {
       "verse": 7,
       "latin_vulgate": "Qui venerunt cum Zorobabel, Josue, Nehemias, Azarias, Raamias, Nahamani, Mardochæus, Belsam, Mespharath, Begoai, Nahum, Baana.   Numerus virorum populi Israël : ",
       "hebrew_masoretic": "הַבָּאִ֣ים עִם־זְרֻבָּבֶ֗ל יֵשׁ֡וּעַ נְחֶמְיָ֡ה עֲ֠זַרְיָ֠ה רַֽעַמְיָ֨ה נַחֲמָ֜נִי מׇרְדֳּכַ֥י בִּלְשָׁ֛ן מִסְפֶּ֥רֶת בִּגְוַ֖י נְח֣וּם בַּעֲנָ֑ה מִסְפַּ֕ר אַנְשֵׁ֖י עַ֥ם יִשְׂרָאֵֽל׃ {ס}",
+      "douay_rheims": "Who came with Zorobabel, Josue, Nehemiah, Azarias, Raamias, Nahamani, Mardochai, Belsam, Mespharath, Begoia, Nahum, Baana. The number of the men of the people of Israel:",
+      "finnish_biblia": "Jotka tulivat Serubbabelin, Jesuan, Nehemia, Asarian, Raamian, Nahamanin, Mordekain, Bilsan, Misperetin, Bigvain, Nehumin ja Baenan kanssa. Tämä on Israelin miesten luku: ",
       "king_james": "Who came with Zerubbabel, Jeshua, Nehemiah, Azariah, Raamiah, Nahamani, Mordecai, Bilshan, Mispereth, Bigvai, Nehum, Baanah. The number, I say, of the men of the people of Israel was this;"
     },
     {
       "verse": 8,
       "latin_vulgate": "filii Pharos, duo millia centum septuaginta duo : ",
       "hebrew_masoretic": "בְּנֵ֣י פַרְעֹ֔שׁ אַלְפַּ֕יִם מֵאָ֖ה וְשִׁבְעִ֥ים וּשְׁנָֽיִם׃ {ס}",
+      "douay_rheims": "The children of Pharos, two thousand one hundred seventy-two.",
+      "finnish_biblia": "Baroksen lapsia, kaksituhatta, sata ja kaksikahdeksattakymmentä; ",
       "king_james": "The children of Parosh, two thousand an hundred seventy and two."
     },
     {
       "verse": 9,
       "latin_vulgate": "filii Saphatia, trecenti septuaginta duo : ",
       "hebrew_masoretic": "בְּנֵ֣י שְׁפַטְיָ֔ה שְׁלֹ֥שׁ מֵא֖וֹת שִׁבְעִ֥ים וּשְׁנָֽיִם׃ {ס}",
+      "douay_rheims": "The children of Sephatia, three hundred seventy-two.",
+      "finnish_biblia": "Sephatian lapsia, kolmesataa ja kaksikahdeksattakymmentä; ",
       "king_james": "The children of Shephatiah, three hundred seventy and two."
     },
     {
       "verse": 10,
       "latin_vulgate": "filii Area, sexcenti quinquaginta duo : ",
       "hebrew_masoretic": "בְּנֵ֣י אָרַ֔ח שֵׁ֥שׁ מֵא֖וֹת חֲמִשִּׁ֥ים וּשְׁנָֽיִם׃ {ס}",
+      "douay_rheims": "The children of Area, six hundred fifty-two.",
+      "finnish_biblia": "Aran lapsia, kuusisataa ja kaksikuudettakymmentä; ",
       "king_james": "The children of Arah, six hundred fifty and two."
     },
     {
       "verse": 11,
       "latin_vulgate": "filii Phahathmoab filiorum Josue et Joab, duo millia octingenti decem et octo : ",
       "hebrew_masoretic": "בְּנֵֽי־פַחַ֥ת מוֹאָ֛ב לִבְנֵ֥י יֵשׁ֖וּעַ וְיוֹאָ֑ב אַלְפַּ֕יִם וּשְׁמֹנֶ֥ה מֵא֖וֹת שְׁמֹנָ֥ה עָשָֽׂר׃ {ס}",
+      "douay_rheims": "The children of Phahath Moab of the children of Josue and Joab, two thousand eight hundred eighteen.",
+      "finnish_biblia": "Pahatmoabin lapsia, Jesuan ja Joabin lasten seassa, kaksituhatta, kahdeksansataa ja kahdeksantoistakymmentä; ",
       "king_james": "The children of Pahath–moab, of the children of Jeshua and Joab, two thousand and eight hundred and eighteen."
     },
     {
       "verse": 12,
       "latin_vulgate": "filii Ælam, mille ducenti quinquaginta quatuor : ",
       "hebrew_masoretic": "בְּנֵ֣י עֵילָ֔ם אֶ֕לֶף מָאתַ֖יִם חֲמִשִּׁ֥ים וְאַרְבָּעָֽה׃ {ס}",
+      "douay_rheims": "The children of Elam, one thousand two hundred fifty-four.",
+      "finnish_biblia": "Elamin lapsia, tuhannen, kaksisataa ja neljäkuudettakymmentä; ",
       "king_james": "The children of Elam, a thousand two hundred fifty and four."
     },
     {
       "verse": 13,
       "latin_vulgate": "filii Zethua, octingenti quadraginta quinque : ",
       "hebrew_masoretic": "בְּנֵ֣י זַתּ֔וּא שְׁמֹנֶ֥ה מֵא֖וֹת אַרְבָּעִ֥ים וַחֲמִשָּֽׁה׃ {ס}",
+      "douay_rheims": "The children of Zethua, eight hundred forty-five.",
+      "finnish_biblia": "Sattun lapsia, kahdeksansataa ja viisiviidettäkymmentä; ",
       "king_james": "The children of Zattu, eight hundred forty and five."
     },
     {
       "verse": 14,
       "latin_vulgate": "filii Zachai, septingenti sexaginta : ",
       "hebrew_masoretic": "בְּנֵ֣י זַכָּ֔י שְׁבַ֥ע מֵא֖וֹת וְשִׁשִּֽׁים׃ {ס}",
+      "douay_rheims": "The children of Zachai, seven hundred sixty.",
+      "finnish_biblia": "Sakkain lapsia seitsemänsataa ja kuusikymmentä; ",
       "king_james": "The children of Zaccai, seven hundred and threescore."
     },
     {
       "verse": 15,
       "latin_vulgate": "filii Bannui, sexcenti quadraginta octo : ",
       "hebrew_masoretic": "בְּנֵ֣י בִנּ֔וּי שֵׁ֥שׁ מֵא֖וֹת אַרְבָּעִ֥ים וּשְׁמֹנָֽה׃ {ס}",
+      "douay_rheims": "The children of Bannui, six hundred forty-eight.",
+      "finnish_biblia": "Binnuin lapsia, kuusisataa ja kahdeksanviidettäkymmentä; ",
       "king_james": "The children of Binnui, six hundred forty and eight."
     },
     {
       "verse": 16,
       "latin_vulgate": "filii Bebai, sexcenti viginti octo : ",
       "hebrew_masoretic": "בְּנֵ֣י בֵבָ֔י שֵׁ֥שׁ מֵא֖וֹת עֶשְׂרִ֥ים וּשְׁמֹנָֽה׃ {ס}",
+      "douay_rheims": "The children of Bebai, six hundred twenty-eight.",
+      "finnish_biblia": "Bebain lapsia, kuusisataa ja kahdeksankolmattakymmentä; ",
       "king_james": "The children of Bebai, six hundred twenty and eight."
     },
     {
       "verse": 17,
       "latin_vulgate": "filii Azgad, duo millia trecenti viginti duo : ",
       "hebrew_masoretic": "בְּנֵ֣י עַזְגָּ֔ד אַלְפַּ֕יִם שְׁלֹ֥שׁ מֵא֖וֹת עֶשְׂרִ֥ים וּשְׁנָֽיִם׃ {ס}",
+      "douay_rheims": "The children of Azgad, two thousand three hundred twenty-two.",
+      "finnish_biblia": "Asgadin lapsia, kaksituhatta, kolmesataa ja kaksikolmattakymmentä; ",
       "king_james": "The children of Azgad, two thousand three hundred twenty and two."
     },
     {
       "verse": 18,
       "latin_vulgate": "filii Adonicam, sexcenti sexaginta septem : ",
       "hebrew_masoretic": "בְּנֵי֙ אֲדֹ֣נִיקָ֔ם שֵׁ֥שׁ מֵא֖וֹת שִׁשִּׁ֥ים וְשִׁבְעָֽה׃ {ס}",
+      "douay_rheims": "The children of Adonicam, six hundred sixty-seven.",
+      "finnish_biblia": "Adonikamin lapsia, kuusisataa ja seitsemänseitsemättäkymmentä; ",
       "king_james": "The children of Adonikam, six hundred threescore and seven."
     },
     {
       "verse": 19,
       "latin_vulgate": "filii Beguai, duo millia sexaginta septem : ",
       "hebrew_masoretic": "בְּנֵ֣י בִגְוָ֔י אַלְפַּ֖יִם שִׁשִּׁ֥ים וְשִׁבְעָֽה׃ {ס}",
+      "douay_rheims": "The children of Beguai, two thousand sixty-seven.",
+      "finnish_biblia": "Bigvain lapsia, kaksituhatta ja seitsemänseitsemättäkymmentä; ",
       "king_james": "The children of Bigvai, two thousand threescore and seven."
     },
     {
       "verse": 20,
       "latin_vulgate": "filii Adin, sexcenti quinquaginta quinque : ",
       "hebrew_masoretic": "בְּנֵ֣י עָדִ֔ין שֵׁ֥שׁ מֵא֖וֹת חֲמִשִּׁ֥ים וַחֲמִשָּֽׁה׃ {ס}",
+      "douay_rheims": "The children of Adin, six hundred fifty-five.",
+      "finnish_biblia": "Adinin lapsia, kuusisataa ja viisikuudettakymmentä; ",
       "king_james": "The children of Adin, six hundred fifty and five."
     },
     {
       "verse": 21,
       "latin_vulgate": "filii Ater, filii Hezeciæ, nonaginta octo : ",
       "hebrew_masoretic": "בְּנֵֽי־אָטֵ֥ר לְחִזְקִיָּ֖ה תִּשְׁעִ֥ים וּשְׁמֹנָֽה׃ {ס}",
+      "douay_rheims": "The children of Ater, children of Hezechias, ninety-eight.",
+      "finnish_biblia": "Aterin lapsia Hiskiasta, yhdeksänkymmentä ja kahdeksan; ",
       "king_james": "The children of Ater of Hezekiah, ninety and eight."
     },
     {
       "verse": 22,
       "latin_vulgate": "filii Hasem, trecenti viginti octo : ",
       "hebrew_masoretic": "בְּנֵ֣י חָשֻׁ֔ם שְׁלֹ֥שׁ מֵא֖וֹת עֶשְׂרִ֥ים וּשְׁמֹנָֽה׃ {ס}",
+      "douay_rheims": "The children of Hasem, three hundred twenty-eight.",
+      "finnish_biblia": "Hasumin lapsia, kolmesataa ja kahdeksankolmattakymmentä; ",
       "king_james": "The children of Hashum, three hundred twenty and eight."
     },
     {
       "verse": 23,
       "latin_vulgate": "filii Besai, trecenti viginti quatuor : ",
       "hebrew_masoretic": "בְּנֵ֣י בֵצָ֔י שְׁלֹ֥שׁ מֵא֖וֹת עֶשְׂרִ֥ים וְאַרְבָּעָֽה׃ {ס}",
+      "douay_rheims": "The children of Besai, three hundred twenty-four.",
+      "finnish_biblia": "Besain lapsia, kolmesataa ja neljäkolmattakymmentä; ",
       "king_james": "The children of Bezai, three hundred twenty and four."
     },
     {
       "verse": 24,
       "latin_vulgate": "filii Hareph, centum duodecim : ",
       "hebrew_masoretic": "בְּנֵ֣י חָרִ֔יף מֵאָ֖ה שְׁנֵ֥ים עָשָֽׂר׃ {ס}",
+      "douay_rheims": "The children of Hareph, a hundred and twelve.",
+      "finnish_biblia": "Hariphin lapsia, sata ja kaksitoistakymmentä; ",
       "king_james": "The children of Hariph, an hundred and twelve."
     },
     {
       "verse": 25,
       "latin_vulgate": "filii Gabaon, nonaginta quinque : ",
       "hebrew_masoretic": "בְּנֵ֥י גִבְע֖וֹן תִּשְׁעִ֥ים וַחֲמִשָּֽׁה׃ {ס}",
+      "douay_rheims": "The children of Gabaon, ninety-five.",
+      "finnish_biblia": "Gibeonin lapsia, yhdeksänkymmentä ja viisi; ",
       "king_james": "The children of Gibeon, ninety and five."
     },
     {
       "verse": 26,
       "latin_vulgate": "filii Bethlehem et Netupha, centum octoginta octo. ",
       "hebrew_masoretic": "אַנְשֵׁ֤י בֵֽית־לֶ֙חֶם֙ וּנְטֹפָ֔ה מֵאָ֖ה שְׁמֹנִ֥ים וּשְׁמֹנָֽה׃ {ס}",
+      "douay_rheims": "The children of Bethlehem, and Netupha, a hundred eighty-eight.",
+      "finnish_biblia": "Betlehemin ja Netophan miehiä sata ja kahdeksanyhdeksättäkymmentä; ",
       "king_james": "The men of Beth–lehem and Netophah, an hundred fourscore and eight."
     },
     {
       "verse": 27,
       "latin_vulgate": "Viri Anathoth, centum viginti octo. ",
       "hebrew_masoretic": "אַנְשֵׁ֣י עֲנָת֔וֹת מֵאָ֖ה עֶשְׂרִ֥ים וּשְׁמֹנָֽה׃ {ס}",
+      "douay_rheims": "The men of Anathoth, a hundred twenty-eight.",
+      "finnish_biblia": "Anatotin miehiä, sata ja kahdeksankolmattakymmentä; ",
       "king_james": "The men of Anathoth, an hundred twenty and eight."
     },
     {
       "verse": 28,
       "latin_vulgate": "Viri Bethazmoth, quadraginta duo. ",
       "hebrew_masoretic": "אַנְשֵׁ֥י בֵית־עַזְמָ֖וֶת אַרְבָּעִ֥ים וּשְׁנָֽיִם׃ {ס}",
+      "douay_rheims": "The men of Bethazmoth, forty-two.",
+      "finnish_biblia": "Betasmavetin miehiä, kaksiviidettäkymmentä; ",
       "king_james": "The men of Beth–azmaveth, forty and two."
     },
     {
       "verse": 29,
       "latin_vulgate": "Viri Cariathiarim, Cephira, et Beroth, septingenti quadraginta tres. ",
       "hebrew_masoretic": "אַנְשֵׁ֨י קִרְיַ֤ת יְעָרִים֙ כְּפִירָ֣ה וּבְאֵר֔וֹת שְׁבַ֥ע מֵא֖וֹת אַרְבָּעִ֥ים וּשְׁלֹשָֽׁה׃ {ס}",
+      "douay_rheims": "The men of Cariathiarim, Cephira, and Beroth, seven hundred forty-three.",
+      "finnish_biblia": "Kirjatjearimin, Kaphiran ja Beerotin miehiä, seitsemänsataa ja kolmeviidettäkymmentä; ",
       "king_james": "The men of Kirjath–jearim, Chephirah, and Beeroth, seven hundred forty and three."
     },
     {
       "verse": 30,
       "latin_vulgate": "Viri Rama et Geba, sexcenti viginti unus. ",
       "hebrew_masoretic": "אַנְשֵׁ֤י הָֽרָמָה֙ וָגָ֔בַע שֵׁ֥שׁ מֵא֖וֹת עֶשְׂרִ֥ים וְאֶחָֽד׃ {ס}",
+      "douay_rheims": "The men of Rama and Geba, six hundred twenty-one.",
+      "finnish_biblia": "Raman ja Gabaan miehiä, kuusisataa ja yksikolmattakymmentä; ",
       "king_james": "The men of Ramah and Geba, six hundred twenty and one."
     },
     {
       "verse": 31,
       "latin_vulgate": "Viri Machmas, centum viginti duo. ",
       "hebrew_masoretic": "אַנְשֵׁ֣י מִכְמָ֔ס מֵאָ֖ה וְעֶשְׂרִ֥ים וּשְׁנָֽיִם׃ {ס}",
+      "douay_rheims": "The men of Machmas, a hundred twenty-two.",
+      "finnish_biblia": "Mikmaan miehiä, sata ja kaksikolmattakymmentä; ",
       "king_james": "The men of Michmas, an hundred and twenty and two."
     },
     {
       "verse": 32,
       "latin_vulgate": "Viri Bethel et Hai, centum viginti tres. ",
       "hebrew_masoretic": "אַנְשֵׁ֤י בֵֽית־אֵל֙ וְהָעָ֔י מֵאָ֖ה עֶשְׂרִ֥ים וּשְׁלֹשָֽׁה׃ {ס}",
+      "douay_rheims": "The men of Bethel and Hai, a hundred twenty-three.",
+      "finnish_biblia": "Betelin ja Ain miehiä, sata ja kolmekolmattakymmentä; ",
       "king_james": "The men of Beth–el and Ai, an hundred twenty and three."
     },
     {
       "verse": 33,
       "latin_vulgate": "Viri Nebo alterius, quinquaginta duo. ",
       "hebrew_masoretic": "אַנְשֵׁ֥י נְב֛וֹ אַחֵ֖ר חֲמִשִּׁ֥ים וּשְׁנָֽיִם׃ {ס}",
+      "douay_rheims": "The men of the other Nebo, fifty-two.",
+      "finnish_biblia": "Toisen Nebon miehiä, kaksikuudettakymmentä; ",
       "king_james": "The men of the other Nebo, fifty and two."
     },
     {
       "verse": 34,
       "latin_vulgate": "Viri Ælam alterius, mille ducenti quinquaginta quatuor. ",
       "hebrew_masoretic": "בְּנֵי֙ עֵילָ֣ם אַחֵ֔ר אֶ֕לֶף מָאתַ֖יִם חֲמִשִּׁ֥ים וְאַרְבָּעָֽה׃ {ס}",
+      "douay_rheims": "The men of the other Elam, one thousand two hundred fifty-four.",
+      "finnish_biblia": "Toisen Elamin lapsia, tuhannen, kaksisataa ja neljäkuudettakymmentä; ",
       "king_james": "The children of the other Elam, a thousand two hundred fifty and four."
     },
     {
       "verse": 35,
       "latin_vulgate": "Filii Harem, trecenti viginti. ",
       "hebrew_masoretic": "בְּנֵ֣י חָרִ֔ם שְׁלֹ֥שׁ מֵא֖וֹת וְעֶשְׂרִֽים׃ {ס}",
+      "douay_rheims": "The children of Harem, three hundred and twenty.",
+      "finnish_biblia": "Harimin lapsia, kolmesataa ja kaksikymmentä; ",
       "king_james": "The children of Harim, three hundred and twenty."
     },
     {
       "verse": 36,
       "latin_vulgate": "Filii Jericho, trecenti quadraginta quinque. ",
       "hebrew_masoretic": "בְּנֵ֣י יְרֵח֔וֹ שְׁלֹ֥שׁ מֵא֖וֹת אַרְבָּעִ֥ים וַחֲמִשָּֽׁה׃ {ס}",
+      "douay_rheims": "The children of Jericho, three hundred forty-five.",
+      "finnish_biblia": "Jerihon lapsia, kolmesataa ja viisiviidettäkymmentä; ",
       "king_james": "The children of Jericho, three hundred forty and five."
     },
     {
       "verse": 37,
       "latin_vulgate": "Filii Lod Hadid et Ono, septingenti viginti unus. ",
       "hebrew_masoretic": "בְּנֵי־לֹד֙ חָדִ֣יד וְאֹנ֔וֹ שְׁבַ֥ע מֵא֖וֹת וְעֶשְׂרִ֥ים וְאֶחָֽד׃ {ס}",
+      "douay_rheims": "The children of Lod, of Hadid and Ono, seven hundred twenty-one.",
+      "finnish_biblia": "Lodin, Hadadin ja Onon lapsia, seitsemänsataa ja yksikolmattakymmentä; ",
       "king_james": "The children of Lod, Hadid, and Ono, seven hundred twenty and one."
     },
     {
       "verse": 38,
       "latin_vulgate": "Filii Senaa, tria millia nongenti triginta. ",
       "hebrew_masoretic": "בְּנֵ֣י סְנָאָ֔ה שְׁלֹ֣שֶׁת אֲלָפִ֔ים תְּשַׁ֥ע מֵא֖וֹת וּשְׁלֹשִֽׁים׃ {פ}",
+      "douay_rheims": "The children of Senaa, three thousand nine hundred thirty.",
+      "finnish_biblia": "Senaan lapsia, kolmetuhatta, yhdeksänsataa ja kolmekymmentä; ",
       "king_james": "The children of Senaah, three thousand nine hundred and thirty."
     },
     {
       "verse": 39,
       "latin_vulgate": "Sacerdotes : filii Idaia in domo Josue, nongenti septuaginta tres. ",
       "hebrew_masoretic": "הַֽכֹּהֲנִ֑ים בְּנֵ֤י יְדַֽעְיָה֙ לְבֵ֣ית יֵשׁ֔וּעַ תְּשַׁ֥ע מֵא֖וֹת שִׁבְעִ֥ים וּשְׁלֹשָֽׁה׃ {ס}",
+      "douay_rheims": "The priests: the children of Idaia in the house of Josue, nine hundred and seventy-three.",
+      "finnish_biblia": "Papit: Jedajan lapsia Jesuan huoneesta, yhdeksänsataa ja kolmekahdeksattakymmentä; ",
       "king_james": "The priests: the children of Jedaiah, of the house of Jeshua, nine hundred seventy and three."
     },
     {
       "verse": 40,
       "latin_vulgate": "Filii Emmer, mille quinquaginta duo. ",
       "hebrew_masoretic": "בְּנֵ֣י אִמֵּ֔ר אֶ֖לֶף חֲמִשִּׁ֥ים וּשְׁנָֽיִם׃ {ס}",
+      "douay_rheims": "The children of Emmer, one thousand fifty-two.",
+      "finnish_biblia": "Immerin lapsia, tuhannen ja kaksikuudettakymmentä; ",
       "king_james": "The children of Immer, a thousand fifty and two."
     },
     {
       "verse": 41,
       "latin_vulgate": "Filii Phashur, mille ducenti quadraginta septem. ",
       "hebrew_masoretic": "בְּנֵ֣י פַשְׁח֔וּר אֶ֕לֶף מָאתַ֖יִם אַרְבָּעִ֥ים וְשִׁבְעָֽה׃ {ס}",
+      "douay_rheims": "The children of Phashur, one thousand two hundred forty-seven.",
+      "finnish_biblia": "Pashurin lapsia, tuhannen, kaksisataa ja seitsemänviidettäkymmentä; ",
       "king_james": "The children of Pashur, a thousand two hundred forty and seven."
     },
     {
       "verse": 42,
       "latin_vulgate": "Filii Arem, mille decem et septem. Levitæ : ",
       "hebrew_masoretic": "בְּנֵ֣י חָרִ֔ם אֶ֖לֶף שִׁבְעָ֥ה עָשָֽׂר׃ {ס}",
+      "douay_rheims": "The children of Arem, one thousand and seventeen. The Levites:",
+      "finnish_biblia": "Harimin lapsia, tuhannen ja seitsemäntoistakymmentä; ",
       "king_james": "The children of Harim, a thousand and seventeen."
     },
     {
       "verse": 43,
       "latin_vulgate": "filii Josue et Cedmihel filiorum ",
       "hebrew_masoretic": "הַלְוִיִּ֑ם בְּנֵֽי־יֵשׁ֧וּעַ לְקַדְמִיאֵ֛ל לִבְנֵ֥י לְהוֹדְוָ֖ה שִׁבְעִ֥ים וְאַרְבָּעָֽה׃ {ס}",
+      "douay_rheims": "The children of Josue and Cedmihel, the sons",
+      "finnish_biblia": "Leviläiset: Jesuan lapsia Kadmielista Hodevan lasten seasta, neljäkahdeksattakymmentä; ",
       "king_james": "The Levites: the children of Jeshua, of Kadmiel, and of the children of Hodevah, seventy and four."
     },
     {
       "verse": 44,
       "latin_vulgate": "Oduiæ, septuaginta quatuor. Cantores : ",
       "hebrew_masoretic": "הַֽמְשֹׁרְרִ֑ים בְּנֵ֣י אָסָ֔ף מֵאָ֖ה אַרְבָּעִ֥ים וּשְׁמֹנָֽה׃ {ס}",
+      "douay_rheims": "Of Oduia, seventy-four. The singing men:",
+      "finnish_biblia": "Veisaajat: Asaphin lapsia, sata ja kahdeksanviidettäkymmentä; ",
       "king_james": "The singers: the children of Asaph, an hundred forty and eight."
     },
     {
       "verse": 45,
       "latin_vulgate": "filii Asaph, centum quadraginta octo. ",
       "hebrew_masoretic": "הַשֹּֽׁעֲרִ֗ים בְּנֵֽי־שַׁלֻּ֤ם בְּנֵֽי־אָטֵר֙ בְּנֵֽי־טַלְמֹ֣ן בְּנֵֽי־עַקּ֔וּב בְּנֵ֥י חֲטִיטָ֖א בְּנֵ֣י שֹׁבָ֑י מֵאָ֖ה שְׁלֹשִׁ֥ים וּשְׁמֹנָֽה׃ {פ}",
+      "douay_rheims": "The children of Asaph, a hundred forty-eight.",
+      "finnish_biblia": "Ovenvartiat olivat Sallumin lapset, Aterin lapset, Talmonin lapset, Akkubin lapset, Hatitan lapset, Sobain lapset, (kaikki yhteen) sata ja kahdeksanneljättäkymmentä; ",
       "king_james": "The porters: the children of Shallum, the children of Ater, the children of Talmon, the children of Akkub, the children of Hatita, the children of Shobai, an hundred thirty and eight."
     },
     {
       "verse": 46,
       "latin_vulgate": "Janitores : filii Sellum, filii Ater, filii Telmon, filii Accub, filii Hatita, filii Sobai : centum triginta octo. ",
       "hebrew_masoretic": "הַנְּתִינִ֑ים בְּנֵי־צִחָ֥א בְנֵי־חֲשֻׂפָ֖א בְּנֵ֥י טַבָּעֽוֹת׃ {ס}",
+      "douay_rheims": "The porters: the children of Sellum, the children of Ater, the children of Telmon, the children of Accub, the children of Hatita, the children of Sobai: a hundred thirty-eight.",
+      "finnish_biblia": "Netinimit: Zihan lapset, Hasuphan lapset, Taboatin lapset, ",
       "king_james": "The Nethinims: the children of Ziha, the children of Hashupha, the children of Tabbaoth,"
     },
     {
       "verse": 47,
       "latin_vulgate": "Nathinæi : filii Soha, filii Hasupha, filii Tebbaoth, ",
       "hebrew_masoretic": "בְּנֵי־קֵירֹ֥ס בְּנֵי־סִיעָ֖א בְּנֵ֥י פָדֽוֹן׃ {ס}",
+      "douay_rheims": "The Nathinites: the children of Soha, the children of Hasupha, the children of Tebbaoth,",
+      "finnish_biblia": "Keroksen lapset, Sian lapset, Padonin lapset, ",
       "king_james": "The children of Keros, the children of Sia, the children of Padon,"
     },
     {
       "verse": 48,
       "latin_vulgate": "filii Ceros, filii Siaa, filii Phadon, filii Lebana, filii Hagaba, filii Selmai, ",
       "hebrew_masoretic": "בְּנֵי־לְבָנָ֥ה בְנֵי־חֲגָבָ֖א בְּנֵ֥י שַׁלְמָֽי׃ {ס}",
+      "douay_rheims": "The children of Ceros, the children os Siaa, the children of Phadon, the children of Lebana, the children of Hagaba, the children of Selmai,",
+      "finnish_biblia": "Libanan lapset, Hagaban lapset, Salmain lapset, ",
       "king_james": "The children of Lebana, the children of Hagaba, the children of Shalmai,"
     },
     {
       "verse": 49,
       "latin_vulgate": "filii Hanan, filii Geddel, filii Gaher, ",
       "hebrew_masoretic": "בְּנֵי־חָנָ֥ן בְּנֵי־גִדֵּ֖ל בְּנֵי־גָֽחַר׃ {ס}",
+      "douay_rheims": "The children of Hanan, the children of Geddel, the children of Gaher,",
+      "finnish_biblia": "Hananin lapset, Giddelin lapset, Gaharin lapset, ",
       "king_james": "The children of Hanan, the children of Giddel, the children of Gahar,"
     },
     {
       "verse": 50,
       "latin_vulgate": "filii Raaia, filii Rasin, filii Necoda, ",
       "hebrew_masoretic": "בְּנֵי־רְאָיָ֥ה בְנֵי־רְצִ֖ין בְּנֵ֥י נְקוֹדָֽא׃ {ס}",
+      "douay_rheims": "The children of Raaia, the children of Rasin, the children of Necoda,",
+      "finnish_biblia": "Reajan lapset, Resinin lapset, Nekodan lapset, ",
       "king_james": "The children of Reaiah, the children of Rezin, the children of Nekoda,"
     },
     {
       "verse": 51,
       "latin_vulgate": "filii Gezem, filii Aza, filii Phasea, ",
       "hebrew_masoretic": "בְּנֵי־גַזָּ֥ם בְּנֵי־עֻזָּ֖א בְּנֵ֥י פָסֵֽחַ׃ {ס}",
+      "douay_rheims": "The children of Gezem, the children of Asa, the children of Phasea,",
+      "finnish_biblia": "Gassamin lapset, Ussan lapset, Passean lapset, ",
       "king_james": "The children of Gazzam, the children of Uzza, the children of Phaseah,"
     },
     {
       "verse": 52,
       "latin_vulgate": "filii Besai, filii Munim, filii Nephussim, ",
       "hebrew_masoretic": "בְּנֵי־בֵסַ֥י בְּנֵי־מְעוּנִ֖ים בְּנֵ֥י (נפושסים) [נְפִֽישְׁסִֽים]׃ {ס}",
+      "douay_rheims": "The children of Besai, the children of Munim, the children of Nephussim,",
+      "finnish_biblia": "Besain lapset, Megunimin lapset, Nephusesimin lapset, ",
       "king_james": "The children of Besai, the children of Meunim, the children of Nephishesim,"
     },
     {
       "verse": 53,
       "latin_vulgate": "filii Bacbuc, filii Hacupha, filii Harhur, ",
       "hebrew_masoretic": "בְּנֵי־בַקְבּ֥וּק בְּנֵֽי־חֲקוּפָ֖א בְּנֵ֥י חַרְחֽוּר׃ {ס}",
+      "douay_rheims": "The children of Bacbuc, the children of Hacupha, the children of Harhur,",
+      "finnish_biblia": "Bakbukin lapset, Haguphan lapset, Harhurin lapset, ",
       "king_james": "The children of Bakbuk, the children of Hakupha, the children of Harhur,"
     },
     {
       "verse": 54,
       "latin_vulgate": "filii Besloth, filii Mahida, filii Harsa, ",
       "hebrew_masoretic": "בְּנֵי־בַצְלִ֥ית בְּנֵֽי־מְחִידָ֖א בְּנֵ֥י חַרְשָֽׁא׃ {ס}",
+      "douay_rheims": "The children of Besloth, the children of Mahida, the children of Harsa,",
+      "finnish_biblia": "Batslitin lapset, Mehidan lapset, Harsan lapset, ",
       "king_james": "The children of Bazlith, the children of Mehida, the children of Harsha,"
     },
     {
       "verse": 55,
       "latin_vulgate": "filii Bercos, filii Sisara, filii Thema, ",
       "hebrew_masoretic": "בְּנֵי־בַרְק֥וֹס בְּֽנֵי־סִֽיסְרָ֖א בְּנֵי־תָֽמַח׃ {ס}",
+      "douay_rheims": "The children of Bercos, the children of Sisara, the children of Thema,",
+      "finnish_biblia": "Barkoksen lapset, Siseran lapset, Thaman lapset, ",
       "king_james": "The children of Barkos, the children of Sisera, the children of Tamah,"
     },
     {
       "verse": 56,
       "latin_vulgate": "filii Nasia, filii Hatipha, ",
       "hebrew_masoretic": "בְּנֵ֥י נְצִ֖יחַ בְּנֵ֥י חֲטִיפָֽא׃ {ס}",
+      "douay_rheims": "The children of Nasia, the children of Hatipha,",
+      "finnish_biblia": "Netsian lapset, Hatiphan lapset. ",
       "king_james": "The children of Neziah, the children of Hatipha."
     },
     {
       "verse": 57,
       "latin_vulgate": "filii servorum Salomonis, filii Sothai, filii Sophereth, filii Pharida, ",
       "hebrew_masoretic": "בְּנֵ֖י עַבְדֵ֣י שְׁלֹמֹ֑ה בְּנֵי־סוֹטַ֥י בְּנֵי־סֹפֶ֖רֶת בְּנֵ֥י פְרִידָֽא׃ {ס}",
+      "douay_rheims": "The children of the servants of Solomon, the children of Sothai, the children of Sophereth, the children of Pharida,",
+      "finnish_biblia": "Salomon palveliain lapsia oli: Sotain lapset, Sopheretin lapset, Peridan lapset, ",
       "king_james": "The children of Solomon’s servants: the children of Sotai, the children of Sophereth, the children of Perida,"
     },
     {
       "verse": 58,
       "latin_vulgate": "filii Jahala, filii Darcon, filii Jeddel, ",
       "hebrew_masoretic": "בְּנֵי־יַעְלָ֥א בְנֵי־דַרְק֖וֹן בְּנֵ֥י גִדֵּֽל׃ {ס}",
+      "douay_rheims": "The children of Jahala, the children of Darcon, the children of Jeddel,",
+      "finnish_biblia": "Jaelan lapset, Darkonin lapset, Giddelin lapset, ",
       "king_james": "The children of Jaala, the children of Darkon, the children of Giddel,"
     },
     {
       "verse": 59,
       "latin_vulgate": "filii Saphatia, filii Hatil, filii Phochereth, qui erat ortus ex Sabaim filio Amon. ",
       "hebrew_masoretic": "בְּנֵ֧י שְׁפַטְיָ֣ה בְנֵֽי־חַטִּ֗יל {ס} בְּנֵ֛י פֹּכֶ֥רֶת הַצְּבָיִ֖ים בְּנֵ֥י אָמֽוֹן׃ {ס}",
+      "douay_rheims": "The children of Saphatia, the children of Hatil, the children of Phochereth, who was born of Sabaim, the son of Amon.",
+      "finnish_biblia": "Sephatian lapset, Hattilin lapset, PokeretZebaimin lapset, Amonin lapset. ",
       "king_james": "The children of Shephatiah, the children of Hattil, the children of Pochereth of Zebaim, the children of Amon."
     },
     {
       "verse": 60,
       "latin_vulgate": "Omnes Nathinæi, et filii servorum Salomonis, trecenti nonaginta duo. ",
       "hebrew_masoretic": "כׇּ֨ל־הַנְּתִינִ֔ים וּבְנֵ֖י עַבְדֵ֣י שְׁלֹמֹ֑ה שְׁלֹ֥שׁ מֵא֖וֹת תִּשְׁעִ֥ים וּשְׁנָֽיִם׃ {פ}",
+      "douay_rheims": "All the Nathinites, and the children of the servants of Solomon, three hundred ninety-two.",
+      "finnish_biblia": "Kaikkia Netinimein ja Salomon palveliain lapsia oli (yhteen) kolmesataa, yhdeksänkymmentä ja kaksi. ",
       "king_james": "All the Nethinims, and the children of Solomon’s servants, were three hundred ninety and two."
     },
     {
       "verse": 61,
       "latin_vulgate": "Hi sunt autem qui ascenderunt de Thelmela, Thelharsa, Cherub, Addon, et Emmer : et non potuerunt indicare domum patrum suorum, et semen suum, utrum ex Israël essent, ",
       "hebrew_masoretic": "וְאֵ֗לֶּה הָֽעוֹלִים֙ מִתֵּ֥ל מֶ֙לַח֙ תֵּ֣ל חַרְשָׁ֔א כְּר֥וּב אַדּ֖וֹן וְאִמֵּ֑ר וְלֹ֣א יָכְל֗וּ לְהַגִּ֤יד בֵּית־אֲבֹתָם֙ וְזַרְעָ֔ם אִ֥ם מִיִּשְׂרָאֵ֖ל הֵֽם׃ {ס}",
+      "douay_rheims": "And these are they that came up from Telmela, Thelharsa, Cherub, Addon, and Emmer: and could not shew the house of their fathers, nor their seed, whether they were of Israel.",
+      "finnish_biblia": "Ja nämä menivät ylös Telmelasta, Telharsasta: Kerubi, Addon ja Immer; mutta ei he tietäneet isäinsä huonetta taikka siementänsä, olivatko he Israelista: ",
       "king_james": "And these were they which went up also from Tel–melah, Tel–haresha, Cherub, Addon, and Immer: but they could not shew their father’s house, nor their seed, whether they were of Israel."
     },
     {
       "verse": 62,
       "latin_vulgate": "filii Dalaia, filii Tobia, filii Necoda, sexcenti quadraginta duo. ",
       "hebrew_masoretic": "בְּנֵי־דְלָיָ֥ה בְנֵֽי־טוֹבִיָּ֖ה בְּנֵ֣י נְקוֹדָ֑א שֵׁ֥שׁ מֵא֖וֹת וְאַרְבָּעִ֥ים וּשְׁנָֽיִם׃ {פ}",
+      "douay_rheims": "The children of Dalaia, the children of Tobia, the children of Necoda, six hundred forty-two.",
+      "finnish_biblia": "Delajan lapset, Tobian lapset, Nekodan lapset, kuusisataa ja kaksiviidettäkymmentä; ",
       "king_james": "The children of Delaiah, the children of Tobiah, the children of Nekoda, six hundred forty and two."
     },
     {
       "verse": 63,
       "latin_vulgate": "Et de sacerdotibus, filii Habia, filii Accos, filii Berzellai, qui accepit de filiabus Berzellai Galaaditis uxorem, et vocatus est nomine eorum. ",
       "hebrew_masoretic": "וּמִן־הַכֹּ֣הֲנִ֔ים בְּנֵ֥י חֳבַיָּ֖ה בְּנֵ֣י הַקּ֑וֹץ בְּנֵ֣י בַרְזִלַּ֗י אֲשֶׁ֣ר לָ֠קַ֠ח מִבְּנ֞וֹת בַּרְזִלַּ֤י הַגִּלְעָדִי֙ אִשָּׁ֔ה וַיִּקָּרֵ֖א עַל־שְׁמָֽם׃",
+      "douay_rheims": "And of the priests, the children of Habia, the children of Accos, the children of Berzellai, who took a wife of the daughters of Berzellai the Galaadite, and he was called by their name.",
+      "finnish_biblia": "Ja papeista: Hobajan lapset, Hakkotsin lapset, Barsillain lapset, joka otti emännän Barsillain Gileadilaisen tyttäristä, ja kutsuttiin sitte heidän nimellänsä. ",
       "king_james": "And of the priests: the children of Habaiah, the children of Koz, the children of Barzillai, which took one of the daughters of Barzillai the Gileadite to wife, and was called after their name."
     },
     {
       "verse": 64,
       "latin_vulgate": "Hi quæsierunt scripturam suam in censu, et non invenerunt : et ejecti sunt de sacerdotio. ",
       "hebrew_masoretic": "אֵ֗לֶּה בִּקְשׁ֧וּ כְתָבָ֛ם הַמִּתְיַחְשִׂ֖ים וְלֹ֣א נִמְצָ֑א וַיְגֹֽאֲל֖וּ מִן־הַכְּהֻנָּֽה׃",
+      "douay_rheims": "These sought their writing in the record, and found it not: and they were cast out of the priesthood.",
+      "finnish_biblia": "Nämä etsivät sukukuntansa polvilukukirjaa; ja ettei sitä löydetty, hyljättiin he pappeudesta. ",
       "king_james": "These sought their register among those that were reckoned by genealogy, but it was not found: therefore were they, as polluted, put from the priesthood."
     },
     {
       "verse": 65,
       "latin_vulgate": "Dixitque Athersatha eis ut non manducarent de Sanctis sanctorum, donec staret sacerdos doctus et eruditus. ",
       "hebrew_masoretic": "וַיֹּ֤אמֶר הַתִּרְשָׁ֙תָא֙ לָהֶ֔ם אֲשֶׁ֥ר לֹא־יֹאכְל֖וּ מִקֹּ֣דֶשׁ הַקֳּדָשִׁ֑ים עַ֛ד עֲמֹ֥ד הַכֹּהֵ֖ן לְאוּרִ֥ים וְתֻמִּֽים׃",
+      "douay_rheims": "And Athersatha said to them, that they should not eat of the holies of holies, until there stood up a priest learned and skilful.",
+      "finnish_biblia": "Ja Tirsata sanoi heille, ettei heidän pitänyt syömän siitä kaikkein pyhimmästä, ennenkuin pappi seisois valkeudessa ja täydellisyydessä. ",
       "king_james": "And the Tirshatha said unto them, that they should not eat of the most holy things, till there stood up a priest with Urim and Thummim."
     },
     {
       "verse": 66,
       "latin_vulgate": "Omnis multitudo quasi vir unus quadraginta duo millia trecenti sexaginta, ",
       "hebrew_masoretic": "כׇּל־הַקָּהָ֖ל כְּאֶחָ֑ד אַרְבַּ֣ע רִבּ֔וֹא אַלְפַּ֖יִם שְׁלֹשׁ־מֵא֥וֹת וְשִׁשִּֽׁים׃",
+      "douay_rheims": "All the multitude as it were one man, forty-two thousand three hundred sixty,",
+      "finnish_biblia": "Koko joukko yhteen oli kaksiviidettäkymmentä tuhatta, kolmesataa ja kuusikymmentä, ",
       "king_james": "The whole congregation together was forty and two thousand three hundred and threescore,"
     },
     {
       "verse": 67,
       "latin_vulgate": "absque servis et ancillis eorum, qui erant septem millia trecenti triginta septem, et inter eos cantores et cantatrices, ducenti quadraginta quinque. ",
       "hebrew_masoretic": "מִ֠לְּבַ֠ד עַבְדֵיהֶ֤ם וְאַמְהֹֽתֵיהֶם֙ אֵ֔לֶּה שִׁבְעַ֣ת אֲלָפִ֔ים שְׁלֹ֥שׁ מֵא֖וֹת שְׁלֹשִׁ֣ים וְשִׁבְעָ֑ה וְלָהֶ֗ם מְשֹֽׁרְרִים֙ וּמְשֹׁ֣רְר֔וֹת מָאתַ֖יִם וְאַרְבָּעִ֥ים וַחֲמִשָּֽׁה׃ {ס}",
+      "douay_rheims": "Beside their menservants and womenservants, who were seven thousand three hundred thirty-seven: and among them singing men, and singing women, two hundred forty-five.",
+      "finnish_biblia": "Paitsi heidän palvelioitansa ja piikojansa, joita oli seitsemäntuhatta, kolmesataa ja seitsemänneljättäkymmentä. Niin myös heidän seassansa oli veisaajia, miehiä ja vaimoja, kaksisataa ja viisiviidettäkymmentä; ",
       "king_james": "Beside their manservants and their maidservants, of whom there were seven thousand three hundred thirty and seven: and they had two hundred forty and five singing men and singing women."
     },
     {
       "verse": 68,
       "latin_vulgate": "Equi eorum, septingenti triginta sex : muli eorum, ducenti quadraginta quinque : ",
       "hebrew_masoretic": "גְּמַלִּ֕ים אַרְבַּ֥ע מֵא֖וֹת שְׁלֹשִׁ֣ים וַחֲמִשָּׁ֑ה חֲמֹרִ֕ים שֵׁ֣שֶׁת אֲלָפִ֔ים שְׁבַ֥ע מֵא֖וֹת וְעֶשְׂרִֽים׃",
+      "douay_rheims": "Their horses, seven hundred thirty-six: their mules two hundred forty-five.",
+      "finnish_biblia": "Seitsemänsataa ja kuusineljättäkymmentä hevoista; kaksisataa ja viisiviidettäkymmentä muulia; ",
       "king_james": "Their horses, seven hundred thirty and six: their mules, two hundred forty and five:"
     },
     {
       "verse": 69,
       "latin_vulgate": "cameli eorum, quadringenti triginta quinque : asini, sex millia septingenti viginti.  ",
       "hebrew_masoretic": "גְּמַלִּ֕ים אַרְבַּ֥ע מֵא֖וֹת שְׁלֹשִׁ֣ים וַחֲמִשָּׁ֑ה חֲמֹרִ֕ים שֵׁ֣שֶׁת אֲלָפִ֔ים שְׁבַ֥ע מֵא֖וֹת וְעֶשְׂרִֽים׃",
+      "douay_rheims": "Their camels, four hundred thirty-five, their asses, six thousand seven hundred and twenty.",
+      "finnish_biblia": "Neljäsataa ja viisineljättäkymmentä kamelia; kuusituhatta, seitsemänsataa ja kaksikymmentä aasia. ",
       "king_james": "Their camels, four hundred thirty and five: six thousand seven hundred and twenty asses.",
       "refs": {
         "hebrew_masoretic": {
@@ -428,6 +568,8 @@
       "verse": 70,
       "latin_vulgate": " Nonnulli autem de principibus familiarum dederunt in opus. Athersatha dedit in thesaurum auri drachmas mille, phialas quinquaginta, tunicas sacerdotales quingentas triginta. ",
       "hebrew_masoretic": "וּמִקְצָת֙ רָאשֵׁ֣י הָֽאָב֔וֹת נָתְנ֖וּ לַמְּלָאכָ֑ה הַתִּרְשָׁ֜תָא נָתַ֣ן לָאוֹצָ֗ר זָהָ֞ב דַּרְכְּמֹנִ֥ים אֶ֙לֶף֙ מִזְרָק֣וֹת חֲמִשִּׁ֔ים כׇּתְנוֹת֙ כֹּֽהֲנִ֔ים שְׁלֹשִׁ֖ים וַחֲמֵ֥שׁ מֵאֽוֹת׃",
+      "douay_rheims": "And some of the heads of the families gave unto the work. Athersatha gave into the treasure a thousand drams of gold, fifty bowls, and five hundred and thirty garments for priests.",
+      "finnish_biblia": "Ja muutamat ylimmäistä isistä antoivat rakennukseen: Tirsata antoi tavaraksi tuhannen kultapenninkiä, viisikymmentä maljaa, viisisataa ja kolmekymmentä papin hametta. ",
       "king_james": "And some of the chief of the fathers gave unto the work. The Tirshatha gave to the treasure a thousand drams of gold, fifty basons, five hundred and thirty priests’ garments.",
       "refs": {
         "hebrew_masoretic": {
@@ -439,6 +581,8 @@
       "verse": 71,
       "latin_vulgate": "Et de principibus familiarum dederunt in thesaurum operis, auri drachmas viginti millia, et argenti mnas duo millia ducentas. ",
       "hebrew_masoretic": "וּמֵֽרָאשֵׁ֣י הָֽאָב֗וֹת נָֽתְנוּ֙ לְאוֹצַ֣ר הַמְּלָאכָ֔ה זָהָ֕ב דַּרְכְּמוֹנִ֖ים שְׁתֵּ֣י רִבּ֑וֹת וְכֶ֕סֶף מָנִ֖ים אַלְפַּ֥יִם וּמָאתָֽיִם׃",
+      "douay_rheims": "And some of the heads of families gave to the treasure of the work, twenty thousand drams of gold, and two thousand two hundred pounds of silver.",
+      "finnish_biblia": "Ja muutamat ylimmäisistä isistä antoivat rakennuksen tavaraksi kaksikymmentä tuhatta kultapenninkiä, kaksituhatta ja kaksisataa leiviskää hopiaa. ",
       "king_james": "And some of the chief of the fathers gave to the treasure of the work twenty thousand drams of gold, and two thousand and two hundred pound of silver.",
       "refs": {
         "hebrew_masoretic": {
@@ -450,6 +594,8 @@
       "verse": 72,
       "latin_vulgate": "Et quod dedit reliquus populus, auri drachmas viginti millia, et argenti mnas duo millia, et tunicas sacerdotales sexaginta septem. ",
       "hebrew_masoretic": "וַאֲשֶׁ֣ר נָתְנוּ֮ שְׁאֵרִ֣ית הָעָם֒ זָהָ֗ב דַּרְכְּמֹנִים֙ שְׁתֵּ֣י רִבּ֔וֹא וְכֶ֖סֶף מָנִ֣ים אַלְפָּ֑יִם וְכׇתְנֹ֥ת כֹּֽהֲנִ֖ים שִׁשִּׁ֥ים וְשִׁבְעָֽה׃",
+      "douay_rheims": "And that which the rest of the people gave, was twenty thousand drams of gold, and two thousand pounds of silver, and sixty-seven garments for priests.",
+      "finnish_biblia": "Ja muu kansa antoi kaksikymmentä tuhatta kultapenninkiä, ja kaksituhatta leiviskää hopiaa, ja seitsemänseitsemättäkymmentä papin hametta. ",
       "king_james": "And that which the rest of the people gave was twenty thousand drams of gold, and two thousand pound of silver, and threescore and seven priests’ garments.",
       "refs": {
         "hebrew_masoretic": {
@@ -461,6 +607,8 @@
       "verse": 73,
       "latin_vulgate": "Habitaverunt autem sacerdotes, et Levitæ, et janitores, et cantores, et reliquum vulgus, et Nathinæi, et omnis Israël, in civitatibus suis.   ",
       "hebrew_masoretic": "וַיֵּשְׁב֣וּ הַכֹּהֲנִ֣ים וְהַלְוִיִּ֡ם וְהַשּׁוֹעֲרִים֩ וְהַמְשֹׁרְרִ֨ים וּמִן־הָעָ֧ם וְהַנְּתִינִ֛ים וְכׇל־יִשְׂרָאֵ֖ל בְּעָרֵיהֶ֑ם {ס} וַיִּגַּע֙ הַחֹ֣דֶשׁ הַשְּׁבִיעִ֔י וּבְנֵ֥י יִשְׂרָאֵ֖ל בְּעָרֵיהֶֽם׃",
+      "douay_rheims": "And the priests, and the Levites, and the porters, and the singing men, and the rest of the common people, and the Nathinites, and all Israel dwelt in their cities. ",
+      "finnish_biblia": "Ja papit, Leviläiset, ovenvartiat, veisaajat, ja muutamat kansasta ja Netinimit ja koko Israel asuivat kaupungeissa. Ja seitsemännen kuukauden lähestyessä olivat Israelin lapset kaupungeissa.   ",
       "king_james": "So the priests, and the Levites, and the porters, and the singers, and some of the people, and the Nethinims, and all Israel, dwelt in their cities; and when the seventh month came, the children of Israel were in their cities. ",
       "refs": {
         "hebrew_masoretic": {

@@ -2,6 +2,8 @@
   "book_id": "GEN",
   "latin_name": "Genesis",
   "hebrew_name": "בְּרֵאשִׁית",
+  "douay_name": "Genesis",
+  "finnish_name": "1. Mooseksen kirja",
   "english_name": "Genesis",
   "chapter": 1,
   "verses": [
@@ -9,186 +11,248 @@
       "verse": 1,
       "latin_vulgate": "In principio creavit Deus cælum et terram. ",
       "hebrew_masoretic": "בְּרֵאשִׁ֖ית בָּרָ֣א אֱלֹהִ֑ים אֵ֥ת הַשָּׁמַ֖יִם וְאֵ֥ת הָאָֽרֶץ׃",
+      "douay_rheims": "In the beginning God created heaven, and earth.",
+      "finnish_biblia": "Alussa loi Jumala taivaan ja maan. ",
       "king_james": "In the beginning God created the heaven and the earth."
     },
     {
       "verse": 2,
       "latin_vulgate": "Terra autem erat inanis et vacua, et tenebræ erant super faciem abyssi : et spiritus Dei ferebatur super aquas. ",
       "hebrew_masoretic": "וְהָאָ֗רֶץ הָיְתָ֥ה תֹ֙הוּ֙ וָבֹ֔הוּ וְחֹ֖שֶׁךְ עַל־פְּנֵ֣י תְה֑וֹם וְר֣וּחַ אֱלֹהִ֔ים מְרַחֶ֖פֶת עַל־פְּנֵ֥י הַמָּֽיִם׃",
+      "douay_rheims": "And the earth was void and empty, and darkness was upon the face of the deep; and the spirit of God moved over the waters.",
+      "finnish_biblia": "Ja maa oli autio ja tyhjä, ja pimeys oli syvyyden päällä, ja Jumalan Henki liikkui vetten päällä. ",
       "king_james": "And the earth was without form and void; and darkness was upon the face of the deep. And the Spirit of God moved upon the face of the waters."
     },
     {
       "verse": 3,
       "latin_vulgate": "Dixitque Deus : Fiat lux. Et facta est lux. ",
       "hebrew_masoretic": "וַיֹּ֥אמֶר אֱלֹהִ֖ים יְהִ֣י א֑וֹר וַֽיְהִי־אֽוֹר׃",
+      "douay_rheims": "And God said: Be light made. And light was made.",
+      "finnish_biblia": "Ja Jumala sanoi: tulkoon valkeus, ja valkeus tuli. ",
       "king_james": "And God said, Let there be light: and there was light."
     },
     {
       "verse": 4,
       "latin_vulgate": "Et vidit Deus lucem quod esset bona : et divisit lucem a tenebris. ",
       "hebrew_masoretic": "וַיַּ֧רְא אֱלֹהִ֛ים אֶת־הָא֖וֹר כִּי־ט֑וֹב וַיַּבְדֵּ֣ל אֱלֹהִ֔ים בֵּ֥ין הָא֖וֹר וּבֵ֥ין הַחֹֽשֶׁךְ׃",
+      "douay_rheims": "And God saw the light that it was good; and he divided the light from the darkness.",
+      "finnish_biblia": "Ja Jumala näki valkeuden hyväksi. Niin Jumala eroitti valkeuden pimeydestä: ",
       "king_james": "And God saw the light, that it was good: and God divided the light from the darkness."
     },
     {
       "verse": 5,
       "latin_vulgate": "Appellavitque lucem Diem, et tenebras Noctem : factumque est vespere et mane, dies unus. ",
       "hebrew_masoretic": "וַיִּקְרָ֨א אֱלֹהִ֤ים ׀ לָאוֹר֙ י֔וֹם וְלַחֹ֖שֶׁךְ קָ֣רָא לָ֑יְלָה וַֽיְהִי־עֶ֥רֶב וַֽיְהִי־בֹ֖קֶר י֥וֹם אֶחָֽד׃ {פ}",
+      "douay_rheims": "And he called the light Day, and the darkness Night; and there was evening and morning one day.",
+      "finnish_biblia": "Ja Jumala kutsui valkeuden päiväksi, ja pimeyden kutsui hän yöksi. Ja tuli ehtoosta ja aamusta ensimäinen päivä. ",
       "king_james": "And God called the light Day, and the darkness he called Night. And the evening and the morning were the first day."
     },
     {
       "verse": 6,
       "latin_vulgate": "Dixit quoque Deus : Fiat firmamentum in medio aquarum : et dividat aquas ab aquis. ",
       "hebrew_masoretic": "וַיֹּ֣אמֶר אֱלֹהִ֔ים יְהִ֥י רָקִ֖יעַ בְּת֣וֹךְ הַמָּ֑יִם וִיהִ֣י מַבְדִּ֔יל בֵּ֥ין מַ֖יִם לָמָֽיִם׃",
+      "douay_rheims": "And God said: Let there be a firmament made amidst the waters: and let it divide the waters from the waters.",
+      "finnish_biblia": "Ja Jumala sanoi: tulkoon vahvuus vetten vaiheelle, eroittamaan vesiä vesistä. ",
       "king_james": "And God said, Let there be a firmament in the midst of the waters, and let it divide the waters from the waters."
     },
     {
       "verse": 7,
       "latin_vulgate": "Et fecit Deus firmamentum, divisitque aquas, quæ erant sub firmamento, ab his, quæ erant super firmamentum. Et factum est ita. ",
       "hebrew_masoretic": "וַיַּ֣עַשׂ אֱלֹהִים֮ אֶת־הָרָקִ֒יעַ֒ וַיַּבְדֵּ֗ל בֵּ֤ין הַמַּ֙יִם֙ אֲשֶׁר֙ מִתַּ֣חַת לָרָקִ֔יעַ וּבֵ֣ין הַמַּ֔יִם אֲשֶׁ֖ר מֵעַ֣ל לָרָקִ֑יעַ וַֽיְהִי־כֵֽן׃",
+      "douay_rheims": "And God made a firmament, and divided the waters that were under the firmament, from those that were above the firmament, and it was so.",
+      "finnish_biblia": "Ja Jumala teki vahvuuden, ja eroitti vedet, jotka ovat vahvuuden alla, niistä vesistä, jotka ovat vahvuuden päällä: ja tapahtui niin. ",
       "king_james": "And God made the firmament, and divided the waters which were under the firmament from the waters which were above the firmament: and it was so."
     },
     {
       "verse": 8,
       "latin_vulgate": "Vocavitque Deus firmamentum, Cælum : et factum est vespere et mane, dies secundus. ",
       "hebrew_masoretic": "וַיִּקְרָ֧א אֱלֹהִ֛ים לָֽרָקִ֖יעַ שָׁמָ֑יִם וַֽיְהִי־עֶ֥רֶב וַֽיְהִי־בֹ֖קֶר י֥וֹם שֵׁנִֽי׃ {פ}",
+      "douay_rheims": "And God called the firmament, Heaven; and the evening and morning were the second day.",
+      "finnish_biblia": "Ja Jumala kutsui vahvuuden taivaaksi. Ja tuli ehtoosta ja aamusta toinen päivä. ",
       "king_james": "And God called the firmament Heaven. And the evening and the morning were the second day."
     },
     {
       "verse": 9,
       "latin_vulgate": "Dixit vero Deus : Congregentur aquæ, quæ sub cælo sunt, in locum unum : et appareat arida. Et factum est ita. ",
       "hebrew_masoretic": "וַיֹּ֣אמֶר אֱלֹהִ֗ים יִקָּו֨וּ הַמַּ֜יִם מִתַּ֤חַת הַשָּׁמַ֙יִם֙ אֶל־מָק֣וֹם אֶחָ֔ד וְתֵרָאֶ֖ה הַיַּבָּשָׁ֑ה וַֽיְהִי־כֵֽן׃",
+      "douay_rheims": "God also said; Let the waters that are under the heaven, be gathered together into one place: and let the dry land appear. And it was so done.",
+      "finnish_biblia": "Ja Jumala sanoi: kokoontukoon vedet taivaan alla erinomaiseen paikkaan, niin että kuiva näkyy. Ja tapahtui niin. ",
       "king_james": "And God said, Let the waters under the heaven be gathered together unto one place, and let the dry land appear: and it was so."
     },
     {
       "verse": 10,
       "latin_vulgate": "Et vocavit Deus aridam Terram, congregationesque aquarum appellavit Maria. Et vidit Deus quod esset bonum. ",
       "hebrew_masoretic": "וַיִּקְרָ֨א אֱלֹהִ֤ים ׀ לַיַּבָּשָׁה֙ אֶ֔רֶץ וּלְמִקְוֵ֥ה הַמַּ֖יִם קָרָ֣א יַמִּ֑ים וַיַּ֥רְא אֱלֹהִ֖ים כִּי־טֽוֹב׃",
+      "douay_rheims": "And God called the dry land, Earth; and the gathering together of the waters, he called Seas. And God saw that it was good.",
+      "finnish_biblia": "Ja Jumala kutsui kuivan maaksi, ja vetten kokoukset hän kutsui mereksi. Ja Jumala näki sen hyväksi. ",
       "king_james": "And God called the dry land Earth; and the gathering together of the waters called he Seas: and God saw that it was good."
     },
     {
       "verse": 11,
       "latin_vulgate": "Et ait : Germinet terra herbam virentem, et facientem semen, et lignum pomiferum faciens fructum juxta genus suum, cujus semen in semetipso sit super terram. Et factum est ita. ",
       "hebrew_masoretic": "וַיֹּ֣אמֶר אֱלֹהִ֗ים תַּֽדְשֵׁ֤א הָאָ֙רֶץ֙ דֶּ֗שֶׁא עֵ֚שֶׂב מַזְרִ֣יעַ זֶ֔רַע עֵ֣ץ פְּרִ֞י עֹ֤שֶׂה פְּרִי֙ לְמִינ֔וֹ אֲשֶׁ֥ר זַרְעוֹ־ב֖וֹ עַל־הָאָ֑רֶץ וַֽיְהִי־כֵֽן׃",
+      "douay_rheims": "And he said: let the earth bring forth green herb, and such as may seed, and the fruit tree yielding fruit after its kind, which may have seed in itself upon the earth. And it was so done.",
+      "finnish_biblia": "Ja Jumala sanoi: vihoittakoon maa, ja kasvakoon ruohon, jossa siemen on, ja hedelmälliset puut, jotka hedelmän kantavat lajinsa jälkeen, jossa sen siemen on maan päällä. Ja tapahtui niin. ",
       "king_james": "And God said, Let the earth bring forth grass, the herb yielding seed, and the fruit tree yielding fruit after his kind, whose seed is in itself, upon the earth: and it was so."
     },
     {
       "verse": 12,
       "latin_vulgate": "Et protulit terra herbam virentem, et facientem semen juxta genus suum, lignumque faciens fructum, et habens unumquodque sementem secundum speciem suam. Et vidit Deus quod esset bonum. ",
       "hebrew_masoretic": "וַתּוֹצֵ֨א הָאָ֜רֶץ דֶּ֠שֶׁא עֵ֣שֶׂב מַזְרִ֤יעַ זֶ֙רַע֙ לְמִינֵ֔הוּ וְעֵ֧ץ עֹֽשֶׂה־פְּרִ֛י אֲשֶׁ֥ר זַרְעוֹ־ב֖וֹ לְמִינֵ֑הוּ וַיַּ֥רְא אֱלֹהִ֖ים כִּי־טֽוֹב׃",
+      "douay_rheims": "And the earth brought forth the green herb, and such as yieldeth seed according to its kind, and the tree that beareth fruit, having seed each one according to its kind. And God saw that it was good.",
+      "finnish_biblia": "Ja maa vihoitti ja kasvoi ruohon, jossa siemen oli lajinsa jälkeen, ja hedelmälliset puut, joiden siemen oli itsessänsä lajinsa jälkeen. Ja Jumala näki sen hyväksi. ",
       "king_james": "And the earth brought forth grass, and herb yielding seed after his kind, and the tree yielding fruit, whose seed was in itself, after his kind: and God saw that it was good."
     },
     {
       "verse": 13,
       "latin_vulgate": "Et factum est vespere et mane, dies tertius. ",
       "hebrew_masoretic": "וַֽיְהִי־עֶ֥רֶב וַֽיְהִי־בֹ֖קֶר י֥וֹם שְׁלִישִֽׁי׃ {פ}",
+      "douay_rheims": "And the evening and the morning were the third day.",
+      "finnish_biblia": "Ja tuli ehtoosta ja aamusta kolmas päivä. ",
       "king_james": "And the evening and the morning were the third day."
     },
     {
       "verse": 14,
       "latin_vulgate": "Dixit autem Deus : Fiant luminaria in firmamento cæli, et dividant diem ac noctem, et sint in signa et tempora, et dies et annos : ",
       "hebrew_masoretic": "וַיֹּ֣אמֶר אֱלֹהִ֗ים יְהִ֤י מְאֹרֹת֙ בִּרְקִ֣יעַ הַשָּׁמַ֔יִם לְהַבְדִּ֕יל בֵּ֥ין הַיּ֖וֹם וּבֵ֣ין הַלָּ֑יְלָה וְהָי֤וּ לְאֹתֹת֙ וּלְמ֣וֹעֲדִ֔ים וּלְיָמִ֖ים וְשָׁנִֽים׃",
+      "douay_rheims": "And God said: Let there be lights made in the firmament of heaven, to divide the day and the night, and let them be for signs, and for seasons, and for days and years:",
+      "finnish_biblia": "Ja Jumala sanoi: tulkoon valkeudet taivaan vahvuuteen, eroittamaan päivää ja yötä: ja olkoon merkeiksi, ja ajoiksi, ja päiviksi ja vuosiksi. ",
       "king_james": "And God said, Let there be lights in the firmament of the heaven to divide the day from the night; and let them be for signs, and for seasons, and for days, and years:"
     },
     {
       "verse": 15,
       "latin_vulgate": "ut luceant in firmamento cæli, et illuminent terram. Et factum est ita. ",
       "hebrew_masoretic": "וְהָי֤וּ לִמְאוֹרֹת֙ בִּרְקִ֣יעַ הַשָּׁמַ֔יִם לְהָאִ֖יר עַל־הָאָ֑רֶץ וַֽיְהִי־כֵֽן׃",
+      "douay_rheims": "To shine in the firmament of heaven, and to give light upon the earth, and it was so done.",
+      "finnish_biblia": "Ja olkoon valkeudeksi taivaan vahvuudessa, paistamaan maan päälle. Ja tapahtui niin. ",
       "king_james": "And let them be for lights in the firmament of the heaven to give light upon the earth: and it was so."
     },
     {
       "verse": 16,
       "latin_vulgate": "Fecitque Deus duo luminaria magna : luminare majus, ut præesset diei : et luminare minus, ut præesset nocti : et stellas. ",
       "hebrew_masoretic": "וַיַּ֣עַשׂ אֱלֹהִ֔ים אֶת־שְׁנֵ֥י הַמְּאֹרֹ֖ת הַגְּדֹלִ֑ים אֶת־הַמָּא֤וֹר הַגָּדֹל֙ לְמֶמְשֶׁ֣לֶת הַיּ֔וֹם וְאֶת־הַמָּא֤וֹר הַקָּטֹן֙ לְמֶמְשֶׁ֣לֶת הַלַּ֔יְלָה וְאֵ֖ת הַכּוֹכָבִֽים׃",
+      "douay_rheims": "And God made two great lights: a greater light to rule the day; and a lesser light to rule the night: and the stars.",
+      "finnish_biblia": "Ja Jumala teki kaksi suurta valkeutta: suuremman valkeuden päivää hallitsemaan, ja vähemmän valkeuden yötä hallitsemaan, ja tähdet. ",
       "king_james": "And God made two great lights; the greater light to rule the day, and the lesser light to rule the night: he made the stars also."
     },
     {
       "verse": 17,
       "latin_vulgate": "Et posuit eas in firmamento cæli, ut lucerent super terram, ",
       "hebrew_masoretic": "וַיִּתֵּ֥ן אֹתָ֛ם אֱלֹהִ֖ים בִּרְקִ֣יעַ הַשָּׁמָ֑יִם לְהָאִ֖יר עַל־הָאָֽרֶץ׃",
+      "douay_rheims": "And he set them in the firmament of heaven to shine upon the earth.",
+      "finnish_biblia": "Ja Jumala pani ne taivaan vahvuuteen, paistamaan maan päälle. ",
       "king_james": "And God set them in the firmament of the heaven to give light upon the earth,"
     },
     {
       "verse": 18,
       "latin_vulgate": "et præessent diei ac nocti, et dividerent lucem ac tenebras. Et vidit Deus quod esset bonum. ",
       "hebrew_masoretic": "וְלִמְשֹׁל֙ בַּיּ֣וֹם וּבַלַּ֔יְלָה וּֽלְהַבְדִּ֔יל בֵּ֥ין הָא֖וֹר וּבֵ֣ין הַחֹ֑שֶׁךְ וַיַּ֥רְא אֱלֹהִ֖ים כִּי־טֽוֹב׃",
+      "douay_rheims": "And to rule the day and the night, and to divide the light and the darkness. And God saw that it was good.",
+      "finnish_biblia": "Ja hallitsemaan päivää ja yötä, ja eroittamaan valkeutta ja pimeyttä. Ja Jumala näki sen hyväksi. ",
       "king_james": "And to rule over the day and over the night, and to divide the light from the darkness: and God saw that it was good."
     },
     {
       "verse": 19,
       "latin_vulgate": "Et factum est vespere et mane, dies quartus. ",
       "hebrew_masoretic": "וַֽיְהִי־עֶ֥רֶב וַֽיְהִי־בֹ֖קֶר י֥וֹם רְבִיעִֽי׃ {פ}",
+      "douay_rheims": "And the evening and morning were the fourth day.",
+      "finnish_biblia": "Ja tuli ehtoosta ja aamusta neljäs päivä. ",
       "king_james": "And the evening and the morning were the fourth day."
     },
     {
       "verse": 20,
       "latin_vulgate": "Dixit etiam Deus : Producant aquæ reptile animæ viventis, et volatile super terram sub firmamento cæli. ",
       "hebrew_masoretic": "וַיֹּ֣אמֶר אֱלֹהִ֔ים יִשְׁרְצ֣וּ הַמַּ֔יִם שֶׁ֖רֶץ נֶ֣פֶשׁ חַיָּ֑ה וְעוֹף֙ יְעוֹפֵ֣ף עַל־הָאָ֔רֶץ עַל־פְּנֵ֖י רְקִ֥יעַ הַשָּׁמָֽיִם׃",
+      "douay_rheims": "God also said: let the waters bring forth the creeping creature having life, and the fowl that may fly over the earth under the firmament of heaven.",
+      "finnish_biblia": "Ja Jumala sanoi: kuohuttakoon vedet yltäkyllä liikkuvaisia eläimiä, ja linnut lentäköön maan päällä taivaan avaruudessa. ",
       "king_james": "And God said, Let the waters bring forth abundantly the moving creature that hath life, and fowl that may fly above the earth in the open firmament of heaven."
     },
     {
       "verse": 21,
       "latin_vulgate": "Creavitque Deus cete grandia, et omnem animam viventem atque motabilem, quam produxerant aquæ in species suas, et omne volatile secundum genus suum. Et vidit Deus quod esset bonum. ",
       "hebrew_masoretic": "וַיִּבְרָ֣א אֱלֹהִ֔ים אֶת־הַתַּנִּינִ֖ם הַגְּדֹלִ֑ים וְאֵ֣ת כׇּל־נֶ֣פֶשׁ הַֽחַיָּ֣ה ׀ הָֽרֹמֶ֡שֶׂת אֲשֶׁר֩ שָׁרְצ֨וּ הַמַּ֜יִם לְמִֽינֵהֶ֗ם וְאֵ֨ת כׇּל־ע֤וֹף כָּנָף֙ לְמִינֵ֔הוּ וַיַּ֥רְא אֱלֹהִ֖ים כִּי־טֽוֹב׃",
+      "douay_rheims": "And God created the great whales, and every living and moving creature, which the waters brought forth, according to their kinds, and every winged fowl according to its kind. And God saw that it was good.",
+      "finnish_biblia": "Ja Jumala loi suuret valaskalat, ja kaikkinaiset liikkuvaiset eläimet, jotka vedet kuohuttivat yltäkyllä kunkin lajinsa jälkeen, ja kaikkinaiset siivilliset linnut, lajinsa jälkeen. Ja Jumala näki sen hyväksi. ",
       "king_james": "And God created great whales, and every living creature that moveth, which the waters brought forth abundantly, after their kind, and every winged fowl after his kind: and God saw that it was good."
     },
     {
       "verse": 22,
       "latin_vulgate": "Benedixitque eis, dicens : Crescite, et multiplicamini, et replete aquas maris : avesque multiplicentur super terram. ",
       "hebrew_masoretic": "וַיְבָ֧רֶךְ אֹתָ֛ם אֱלֹהִ֖ים לֵאמֹ֑ר פְּר֣וּ וּרְב֗וּ וּמִלְא֤וּ אֶת־הַמַּ֙יִם֙ בַּיַּמִּ֔ים וְהָע֖וֹף יִ֥רֶב בָּאָֽרֶץ׃",
+      "douay_rheims": "And he blessed them, saying: Increase and multiply, and fill the waters of the sea: and let the birds be multiplied upon the earth.",
+      "finnish_biblia": "Ja Jumala siunasi heitä, ja sanoi: olkaat hedelmälliset ja lisääntykäät, ja täyttäkäät meren vedet, ja linnut lisääntyköön veden päällä. ",
       "king_james": "And God blessed them, saying, Be fruitful, and multiply, and fill the waters in the seas, and let fowl multiply in the earth."
     },
     {
       "verse": 23,
       "latin_vulgate": "Et factum est vespere et mane, dies quintus. ",
       "hebrew_masoretic": "וַֽיְהִי־עֶ֥רֶב וַֽיְהִי־בֹ֖קֶר י֥וֹם חֲמִישִֽׁי׃ {פ}",
+      "douay_rheims": "And the evening and morning were the fifth day.",
+      "finnish_biblia": "Ja tuli ehtoosta ja aamusta viides päivä. ",
       "king_james": "And the evening and the morning were the fifth day."
     },
     {
       "verse": 24,
       "latin_vulgate": "Dixit quoque Deus : Producat terra animam viventem in genere suo, jumenta, et reptilia, et bestias terræ secundum species suas. Factumque est ita. ",
       "hebrew_masoretic": "וַיֹּ֣אמֶר אֱלֹהִ֗ים תּוֹצֵ֨א הָאָ֜רֶץ נֶ֤פֶשׁ חַיָּה֙ לְמִינָ֔הּ בְּהֵמָ֥ה וָרֶ֛מֶשׂ וְחַֽיְתוֹ־אֶ֖רֶץ לְמִינָ֑הּ וַֽיְהִי־כֵֽן׃",
+      "douay_rheims": "And God said: Let the earth bring forth the living creature in its kind, cattle and creeping things, and beasts of the earth, according to their kinds. And it was so done.",
+      "finnish_biblia": "Ja Jumala sanoi: tuottakoon maa eläimet lajinsa jälkeen, karjan, madot ja pedot maalle lajinsa jälkeen. Ja tapahtui niin. ",
       "king_james": "And God said, Let the earth bring forth the living creature after his kind, cattle, and creeping thing, and beast of the earth after his kind: and it was so."
     },
     {
       "verse": 25,
       "latin_vulgate": "Et fecit Deus bestias terræ juxta species suas, et jumenta, et omne reptile terræ in genere suo.   Et vidit Deus quod esset bonum, ",
       "hebrew_masoretic": "וַיַּ֣עַשׂ אֱלֹהִים֩ אֶת־חַיַּ֨ת הָאָ֜רֶץ לְמִינָ֗הּ וְאֶת־הַבְּהֵמָה֙ לְמִינָ֔הּ וְאֵ֛ת כׇּל־רֶ֥מֶשׂ הָֽאֲדָמָ֖ה לְמִינֵ֑הוּ וַיַּ֥רְא אֱלֹהִ֖ים כִּי־טֽוֹב׃",
+      "douay_rheims": "And God made the beasts of the earth according to their kinds, and cattle, and every thing that creepeth on the earth after its kind. And God saw that it was good.",
+      "finnish_biblia": "Ja jumala teki pedot maalle lajinsa jälkeen, ja karjan lajinsa jälkeen, ja kaikkinaiset matelevaiset maalla lajinsa jälkeen. Ja Jumala näki sen hyväksi. ",
       "king_james": "And God made the beast of the earth after his kind, and cattle after their kind, and every thing that creepeth upon the earth after his kind: and God saw that it was good."
     },
     {
       "verse": 26,
       "latin_vulgate": "et ait : Faciamus hominem ad imaginem et similitudinem nostram : et præsit piscibus maris, et volatilibus cæli, et bestiis, universæque terræ, omnique reptili, quod movetur in terra. ",
       "hebrew_masoretic": "וַיֹּ֣אמֶר אֱלֹהִ֔ים נַֽעֲשֶׂ֥ה אָדָ֛ם בְּצַלְמֵ֖נוּ כִּדְמוּתֵ֑נוּ וְיִרְדּוּ֩ בִדְגַ֨ת הַיָּ֜ם וּבְע֣וֹף הַשָּׁמַ֗יִם וּבַבְּהֵמָה֙ וּבְכׇל־הָאָ֔רֶץ וּבְכׇל־הָרֶ֖מֶשׂ הָֽרֹמֵ֥שׂ עַל־הָאָֽרֶץ׃",
+      "douay_rheims": "And he said: Let us make man to our image and likeness: and let him have dominion over the fishes of the sea, and the fowls of the air, and the beasts, and the whole earth, and every creeping creature that moveth upon the earth.",
+      "finnish_biblia": "Ja Jumala sanoi: tehkäämme ihminen meidän kuvaksemme, meidän muotomme jälkeen: ja he vallitkaan kalat meressä, ja taivaan linnut, ja karjan ja koko maan, ja kaikki, jotka maalla matelevat. ",
       "king_james": "And God said, Let us make man in our image, after our likeness: and let them have dominion over the fish of the sea, and over the fowl of the air, and over the cattle, and over all the earth, and over every creeping thing that creepeth upon the earth."
     },
     {
       "verse": 27,
       "latin_vulgate": "Et creavit Deus hominem ad imaginem suam : ad imaginem Dei creavit illum, masculum et feminam creavit eos. ",
       "hebrew_masoretic": "וַיִּבְרָ֨א אֱלֹהִ֤ים ׀ אֶת־הָֽאָדָם֙ בְּצַלְמ֔וֹ בְּצֶ֥לֶם אֱלֹהִ֖ים בָּרָ֣א אֹת֑וֹ זָכָ֥ר וּנְקֵבָ֖ה בָּרָ֥א אֹתָֽם׃",
+      "douay_rheims": "And God created man to his own image: to the image of God he created him: male and female he created them.",
+      "finnish_biblia": "Ja Jumala loi ihmisen omaksi kuvaksensa, Jumalan kuvaksi hän sen loi: mieheksi ja vaimoksi loi hän heitä. ",
       "king_james": "So God created man in his own image, in the image of God created he him; male and female created he them."
     },
     {
       "verse": 28,
       "latin_vulgate": "Benedixitque illis Deus, et ait : Crescite et multiplicamini, et replete terram, et subjicite eam, et dominamini piscibus maris, et volatilibus cæli, et universis animantibus, quæ moventur super terram. ",
       "hebrew_masoretic": "וַיְבָ֣רֶךְ אֹתָם֮ אֱלֹהִים֒ וַיֹּ֨אמֶר לָהֶ֜ם אֱלֹהִ֗ים פְּר֥וּ וּרְב֛וּ וּמִלְא֥וּ אֶת־הָאָ֖רֶץ וְכִבְשֻׁ֑הָ וּרְד֞וּ בִּדְגַ֤ת הַיָּם֙ וּבְע֣וֹף הַשָּׁמַ֔יִם וּבְכׇל־חַיָּ֖ה הָֽרֹמֶ֥שֶׂת עַל־הָאָֽרֶץ׃",
+      "douay_rheims": "And God blessed them, saying: Increase and multiply, and fill the earth, and subdue it, and rule over the fishes of the sea, and the fowls of the air, and all living creatures that move upon the earth.",
+      "finnish_biblia": "Ja Jumala siunasi heitä, ja Jumala sanoi heille: kasvakaat ja lisääntykäät ja täyttäkäät maata, ja tehkäät se teillenne alamaiseksi; ja vallitkaat kalat meressä, ja taivaan linnut, ja kaikki eläimet, jotka maalla liikkuvat. ",
       "king_james": "And God blessed them, and God said unto them, Be fruitful, and multiply, and replenish the earth, and subdue it: and have dominion over the fish of the sea, and over the fowl of the air, and over every living thing that moveth upon the earth."
     },
     {
       "verse": 29,
       "latin_vulgate": "Dixitque Deus : Ecce dedi vobis omnem herbam afferentem semen super terram, et universa ligna quæ habent in semetipsis sementem generis sui, ut sint vobis in escam : ",
       "hebrew_masoretic": "וַיֹּ֣אמֶר אֱלֹהִ֗ים הִנֵּה֩ נָתַ֨תִּי לָכֶ֜ם אֶת־כׇּל־עֵ֣שֶׂב ׀ זֹרֵ֣עַ זֶ֗רַע אֲשֶׁר֙ עַל־פְּנֵ֣י כׇל־הָאָ֔רֶץ וְאֶת־כׇּל־הָעֵ֛ץ אֲשֶׁר־בּ֥וֹ פְרִי־עֵ֖ץ זֹרֵ֣עַ זָ֑רַע לָכֶ֥ם יִֽהְיֶ֖ה לְאׇכְלָֽה׃",
+      "douay_rheims": "And God said: Behold I have given you every herb bearing seed upon the earth, and all trees that have in themselves seed of their own kind, to be your meat:",
+      "finnish_biblia": "Ja Jumala sanoi: katso, minä annoin teille kaikkinaiset ruohot, joissa siemen on koko maan päällä, ja kaikkinaiset hedelmälliset puut, ja puut, joissa siemen on, teille ruaksi ",
       "king_james": "And God said, Behold, I have given you every herb bearing seed, which is upon the face of all the earth, and every tree, in the which is the fruit of a tree yielding seed; to you it shall be for meat."
     },
     {
       "verse": 30,
       "latin_vulgate": "et cunctis animantibus terræ, omnique volucri cæli, et universis quæ moventur in terra, et in quibus est anima vivens, ut habeant ad vescendum. Et factum est ita. ",
       "hebrew_masoretic": "וּֽלְכׇל־חַיַּ֣ת הָ֠אָ֠רֶץ וּלְכׇל־ע֨וֹף הַשָּׁמַ֜יִם וּלְכֹ֣ל ׀ רוֹמֵ֣שׂ עַל־הָאָ֗רֶץ אֲשֶׁר־בּוֹ֙ נֶ֣פֶשׁ חַיָּ֔ה אֶת־כׇּל־יֶ֥רֶק עֵ֖שֶׂב לְאׇכְלָ֑ה וַֽיְהִי־כֵֽן׃",
+      "douay_rheims": "And to all beasts of the earth, and to every fowl of the air, and to all that move upon the earth, and wherein there is life, that they may have to feed upon. And it was so done.",
+      "finnish_biblia": "Ja kaikille eläimille maan päällä, ja kaikille taivaan linnuille, ja kaikille, jotka matelevat maan päällä, joissa elävä henki on, kaikkinaiset viheriäiset ruohot syötäväksi. Ja tapahtui niin. ",
       "king_james": "And to every beast of the earth, and to every fowl of the air, and to every thing that creepeth upon the earth, wherein there is life, I have given every green herb for meat: and it was so."
     },
     {
       "verse": 31,
       "latin_vulgate": "Viditque Deus cuncta quæ fecerat, et erant valde bona. Et factum est vespere et mane, dies sextus.   ",
       "hebrew_masoretic": "וַיַּ֤רְא אֱלֹהִים֙ אֶת־כׇּל־אֲשֶׁ֣ר עָשָׂ֔ה וְהִנֵּה־ט֖וֹב מְאֹ֑ד וַֽיְהִי־עֶ֥רֶב וַֽיְהִי־בֹ֖קֶר י֥וֹם הַשִּׁשִּֽׁי׃ {פ}",
+      "douay_rheims": "And God saw all the things that he had made, and they were very good. And the evening and morning were the sixth day. ",
+      "finnish_biblia": "Ja Jumala katsoi kaikkia, kuin hän tehnyt oli, ja katso, ne olivat sangen hyvät. Ja tuli ehtoosta ja aamusta se kuudes päivä.   ",
       "king_james": "And God saw every thing that he had made, and, behold, it was very good. And the evening and the morning were the sixth day. "
     }
   ]

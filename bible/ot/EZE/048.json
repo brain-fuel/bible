@@ -2,6 +2,8 @@
   "book_id": "EZE",
   "latin_name": "Ezechiel",
   "hebrew_name": "יְחֶזְקֵאל",
+  "douay_name": "Ezechiel",
+  "finnish_name": "Hesekiel",
   "english_name": "Ezekiel",
   "chapter": 48,
   "verses": [
@@ -9,210 +11,280 @@
       "verse": 1,
       "latin_vulgate": "Et hæc nomina tribuum a finibus aquilonis, juxta viam Hethalon, pergentibus Emath, atrium Enan terminus Damasci ad aquilonem, juxta viam Emath : et erit ei plaga orientalis mare, Dan una. ",
       "hebrew_masoretic": "וְאֵ֖לֶּה שְׁמ֣וֹת הַשְּׁבָטִ֑ים מִקְצֵ֣ה צָפ֡וֹנָה אֶל־יַ֣ד דֶּֽרֶךְ־חֶתְלֹ֣ן ׀ לְֽבוֹא־חֲמָ֡ת חֲצַ֣ר עֵינָן֩ גְּב֨וּל דַּמֶּ֤שֶׂק צָפ֙וֹנָה֙ אֶל־יַ֣ד חֲמָ֔ת וְהָיוּ־ל֧וֹ פְאַת־קָדִ֛ים הַיָּ֖ם דָּ֥ן אֶחָֽד׃",
+      "douay_rheims": "And these are the names of the tribes from the borders of the north, by the way of Hethalon, as they go to Emath, the court of Enan the border of Damascus northward, by the way off Emath. And from the east side thereof to the sea shall be one portion for Dan.",
+      "finnish_biblia": "Nämät ovat sukukuntain nimet: pohjoisesta Hetlonin tien vierestä, siihenasti kuin tullaan Hamatiin, HatsarEnoniin, Damaskun rajaan pohjaan päin, Hamatin sivulle; sen pitää Danin pitämän osaksensa, itään ja länteen päin. ",
       "king_james": "Now these are the names of the tribes. From the north end to the coast of the way of Hethlon, as one goeth to Hamath, Hazar–enan, the border of Damascus northward, to the coast of Hamath; for these are his sides east and west; a portion for Dan."
     },
     {
       "verse": 2,
       "latin_vulgate": "Et super terminum Dan, a plaga orientali usque ad plagam maris, Aser una. ",
       "hebrew_masoretic": "וְעַ֣ל ׀ גְּב֣וּל דָּ֗ן מִפְּאַ֥ת קָדִ֛ים עַד־פְּאַת־יָ֖מָּה אָשֵׁ֥ר אֶחָֽד׃",
+      "douay_rheims": "And by the border of Dan, from the east side even to the side of the sea, one portion for Aser:",
+      "finnish_biblia": "Likin Danin rajaa pitää Asserin osa oleman, idän puolesta länteen. ",
       "king_james": "And by the border of Dan, from the east side unto the west side, a portion for Asher."
     },
     {
       "verse": 3,
       "latin_vulgate": "Et super terminum Aser, a plaga orientali usque ad plagam maris, Nephthali una. ",
       "hebrew_masoretic": "וְעַ֣ל ׀ גְּב֣וּל אָשֵׁ֗ר מִפְּאַ֥ת קָדִ֛ימָה וְעַד־פְּאַת־יָ֖מָּה נַפְתָּלִ֥י אֶחָֽד׃",
+      "douay_rheims": "And by the border of Aser, from the east side even to the side of the sea one portion for Nephthali.",
+      "finnish_biblia": "Likin Asseria pitää Naphtalin osa oleman, idän puolesta länteen. ",
       "king_james": "And by the border of Asher, from the east side even unto the west side, a portion for Naphtali."
     },
     {
       "verse": 4,
       "latin_vulgate": "Et super terminum Nephthali, a plaga orientali usque ad plagam maris, Manasse una. ",
       "hebrew_masoretic": "וְעַ֣ל ׀ גְּב֣וּל נַפְתָּלִ֗י מִפְּאַ֥ת קָדִ֛מָה עַד־פְּאַת־יָ֖מָּה מְנַשֶּׁ֥ה אֶחָֽד׃",
+      "douay_rheims": "And by the border of Nephthali, from the east side even to the side of the one portion for Manasses.",
+      "finnish_biblia": "Likin Naphtalin rajaa pitää Manassen osa oleman, idän puolesta länteen, ",
       "king_james": "And by the border of Naphtali, from the east side unto the west side, a portion for Manasseh."
     },
     {
       "verse": 5,
       "latin_vulgate": "Et super terminum Manasse, a plaga orientali usque ad plagam maris, Ephraim una. ",
       "hebrew_masoretic": "וְעַ֣ל ׀ גְּב֣וּל מְנַשֶּׁ֗ה מִפְּאַ֥ת קָדִ֛מָה עַד־פְּאַת־יָ֖מָּה אֶפְרַ֥יִם אֶחָֽד׃",
+      "douay_rheims": "And by the border of Manasses, from the east side even to the side of the sea, one portion for Ephraim.",
+      "finnish_biblia": "Likin Manassen rajaa pitää Ephraim osansa saaman, idän puolesta länteen. ",
       "king_james": "And by the border of Manasseh, from the east side unto the west side, a portion for Ephraim."
     },
     {
       "verse": 6,
       "latin_vulgate": "Et super terminum Ephraim, a plaga orientali usque ad plagam maris, Ruben una. ",
       "hebrew_masoretic": "וְעַ֣ל ׀ גְּב֣וּל אֶפְרַ֗יִם מִפְּאַ֥ת קָדִ֛ים וְעַד־פְּאַת־יָ֖מָּה רְאוּבֵ֥ן אֶחָֽד׃",
+      "douay_rheims": "And by the border of Ephraim, from the east side even to the side of the sea, one portion for Ruben.",
+      "finnish_biblia": "Likin Ephraimin rajaa pitää Rubenin osa oleman, idän puolesta länteen. ",
       "king_james": "And by the border of Ephraim, from the east side even unto the west side, a portion for Reuben."
     },
     {
       "verse": 7,
       "latin_vulgate": "Et super terminum Ruben, a plaga orientali usque ad plagam maris, Juda una.  ",
       "hebrew_masoretic": "וְעַ֣ל ׀ גְּב֣וּל רְאוּבֵ֗ן מִפְּאַ֥ת קָדִ֛ים עַד־פְּאַת־יָ֖מָּה יְהוּדָ֥ה אֶחָֽד׃",
+      "douay_rheims": "And by the border of Ruben, from the east side even to the side of the sea, one portion for Juda.",
+      "finnish_biblia": "Likin Rubenin rajaa pitää Juudan osan oleman, idän puolesta länteen. ",
       "king_james": "And by the border of Reuben, from the east side unto the west side, a portion for Judah."
     },
     {
       "verse": 8,
       "latin_vulgate": " Et super terminum Juda, a plaga orientali usque ad plagam maris, erunt primitiæ quas separabitis, viginti quinque millibus latitudinis et longitudinis, sicuti singulæ partes a plaga orientali usque ad plagam maris : et erit sanctuarium in medio ejus. ",
       "hebrew_masoretic": "וְעַל֙ גְּב֣וּל יְהוּדָ֔ה מִפְּאַ֥ת קָדִ֖ים עַד־פְּאַת־יָ֑מָּה תִּֽהְיֶ֣ה הַתְּרוּמָ֣ה אֲֽשֶׁר־תָּרִ֡ימוּ חֲמִשָּׁה֩ וְעֶשְׂרִ֨ים אֶ֜לֶף רֹ֗חַב וְאֹ֜רֶךְ כְּאַחַ֤ד הַֽחֲלָקִים֙ מִפְּאַ֤ת קָדִ֙ימָה֙ עַד־פְּאַת־יָ֔מָּה וְהָיָ֥ה הַמִּקְדָּ֖שׁ בְּתוֹכֽוֹ׃",
+      "douay_rheims": "And by the border of Juda, from the east side even to the side of the sea, shall be the firstfruits which you shall set apart, five and twenty thousand in breadth, and length, as every one of the portions from the east side to the side of the sea: and the sanctuary shall be in the midst thereof.",
+      "finnish_biblia": "Mutta likin Juudan rajaa pitää teidän eroittaman yhden osan idästä niin länteen, joka on viisikolmattakymmentä tuhatta riukua pitkä ja leveä, niinkuin muu osa on idästä niin länteen: siinä pitää pyhän oleman. ",
       "king_james": "And by the border of Judah, from the east side unto the west side, shall be the offering which ye shall offer of five and twenty thousand reeds in breadth, and in length as one of the other parts, from the east side unto the west side: and the sanctuary shall be in the midst of it."
     },
     {
       "verse": 9,
       "latin_vulgate": "Primitiæ quas separabitis Domino, longitudo viginti quinque millibus, et latitudo decem millibus. ",
       "hebrew_masoretic": "הַתְּרוּמָ֕ה אֲשֶׁ֥ר תָּרִ֖ימוּ לַיהֹוָ֑ה אֹ֗רֶךְ חֲמִשָּׁ֤ה וְעֶשְׂרִים֙ אֶ֔לֶף וְרֹ֖חַב עֲשֶׂ֥רֶת אֲלָפִֽים׃",
+      "douay_rheims": "The firstfruits which you shall set apart for the Lord will be the length of five and twenty thousand, and the breadth of ten thousand.",
+      "finnish_biblia": "Ja siitä pitää teidän eroittaman uhriksi Herralle osan, viisikolmattakymmentä tuhatta riukua pitkän ja kymmenentuhatta riukua leveän. ",
       "king_james": "The oblation that ye shall offer unto the Lord shall be of five and twenty thousand in length, and of ten thousand in breadth."
     },
     {
       "verse": 10,
       "latin_vulgate": "Hæ autem erunt primitiæ sanctuarii sacerdotum, ad aquilonem longitudinis viginti quinque millia, et ad mare latitudinis decem millia, sed et ad orientem latitudinis decem millia, et ad meridiem longitudinis viginti quinque millia : et erit sanctuarium Domini in medio ejus. ",
       "hebrew_masoretic": "וּ֜֠לְאֵ֜֠לֶּה תִּהְיֶ֣ה תְרוּמַת־הַקֹּ֘דֶשׁ֮ לַכֹּהֲנִים֒ צָפ֜וֹנָה חֲמִשָּׁ֧ה וְעֶשְׂרִ֣ים אֶ֗לֶף וְיָ֙מָּה֙ רֹ֚חַב עֲשֶׂ֣רֶת אֲלָפִ֔ים וְקָדִ֗ימָה רֹ֚חַב עֲשֶׂ֣רֶת אֲלָפִ֔ים וְנֶ֕גְבָּה אֹ֕רֶךְ חֲמִשָּׁ֥ה וְעֶשְׂרִ֖ים אָ֑לֶף וְהָיָ֥ה מִקְדַּשׁ־יְהֹוָ֖ה בְּתוֹכֽוֹ׃",
+      "douay_rheims": "And these shall be the firstfruits of the sanctuary for the priests: toward the north five and twenty thousand in length, and toward the sea ten thousand in breadth, and toward the east also ten thousand in breadth, and toward the south five and twenty thousand in length: and the sanctuary of the Lord shall be in the midst thereof.",
+      "finnish_biblia": "Ja sen pyhän osan pitää pappein oleman, viisikolmattakymmentä tuhatta riukua pitkä, pohjoiseen ja etelään päin, ja kymmenentuhatta leveä, itään ja länteen päin. Ja Herran pyhän pitää siinä keskellä oleman. ",
       "king_james": "And for them, even for the priests, shall be this holy oblation; toward the north five and twenty thousand in length, and toward the west ten thousand in breadth, and toward the east ten thousand in breadth, and toward the south five and twenty thousand in length: and the sanctuary of the Lord shall be in the midst thereof."
     },
     {
       "verse": 11,
       "latin_vulgate": "Sacerdotibus sanctuarium erit de filiis Sadoc, qui custodierunt cæremonias meas, et non erraverunt cum errarent filii Israël, sicut erraverunt et Levitæ. ",
       "hebrew_masoretic": "לַכֹּהֲנִ֤ים הַֽמְקֻדָּשׁ֙ מִבְּנֵ֣י צָד֔וֹק אֲשֶׁ֥ר שָׁמְר֖וּ מִשְׁמַרְתִּ֑י אֲשֶׁ֣ר לֹֽא־תָע֗וּ בִּתְעוֹת֙ בְּנֵ֣י יִשְׂרָאֵ֔ל כַּאֲשֶׁ֥ר תָּע֖וּ הַלְוִיִּֽם׃",
+      "douay_rheims": "The sanctuary shall be for the priests of the sons of Sadoc, who kept my ceremonies, and went not astray when the children of Israel went astray, as the Levites also went astray.",
+      "finnish_biblia": "Se pitää papeille pyhitetty oleman Zadokin lapsista, jotka minun säätyni pitäneet ovat, ja ei ole Israelin lasten kanssa luopuneet, niinkuin Leviläiset luopuivat. ",
       "king_james": "It shall be for the priests that are sanctified of the sons of Zadok; which have kept my charge, which went not astray when the children of Israel went astray, as the Levites went astray."
     },
     {
       "verse": 12,
       "latin_vulgate": "Et erunt eis primitiæ de primitiis terræ Sanctum sanctorum, juxta terminum Levitarum. ",
       "hebrew_masoretic": "וְהָיְתָ֨ה לָהֶ֧ם תְּרוּמִיָּ֛ה מִתְּרוּמַ֥ת הָאָ֖רֶץ קֹ֣דֶשׁ קׇדָשִׁ֑ים אֶל־גְּב֖וּל הַלְוִיִּֽם׃",
+      "douay_rheims": "And for them shall be the firstfruits of the firstfruits of the land holy of holies, by the border of the Levites,",
+      "finnish_biblia": "Ja sentähden pitää heillä oleman oma osa eroitetusta maasta, se kaikkein pyhin, joka on Leviläisten rajan tykönä. ",
       "king_james": "And this oblation of the land that is offered shall be unto them a thing most holy by the border of the Levites."
     },
     {
       "verse": 13,
       "latin_vulgate": "Sed et Levitis similiter, juxta fines sacerdotum, viginti quinque millia longitudinis, et latitudinis decem millia. Omnis longitudo viginti et quinque millium, et latitudo decem millium. ",
       "hebrew_masoretic": "וְהַלְוִיִּ֗ם לְעֻמַּת֙ גְּב֣וּל הַכֹּהֲנִ֔ים חֲמִשָּׁ֨ה וְעֶשְׂרִ֥ים אֶ֙לֶף֙ אֹ֔רֶךְ וְרֹ֖חַב עֲשֶׂ֣רֶת אֲלָפִ֑ים כׇּל־אֹ֗רֶךְ חֲמִשָּׁ֤ה וְעֶשְׂרִים֙ אֶ֔לֶף וְרֹ֖חַב עֲשֶׂ֥רֶת אֲלָפִֽים׃",
+      "douay_rheims": "And the Levites in like manner shall have by the borders of the priests five and twenty thousand in length, and ten thousand in breadth. All the length shall be five and twenty thousand, and the breadth ten thousand.",
+      "finnish_biblia": "Mutta Leviläisillä pitää myös osa oleman, viisikolmattakymmentä tuhatta leveä, pappein rajan tykönä; sillä kaikki pituus pitää oleman viisikolmattakymmentä tuhatta riukua ja leveys kymmenentuhatta riukua. ",
       "king_james": "And over against the border of the priests the Levites shall have five and twenty thousand in length, and ten thousand in breadth: all the length shall be five and twenty thousand, and the breadth ten thousand."
     },
     {
       "verse": 14,
       "latin_vulgate": "Et non venundabunt ex eo, neque mutabunt : neque transferentur primitiæ terræ, quia sanctificatæ sunt Domino.  ",
       "hebrew_masoretic": "וְלֹֽא־יִמְכְּר֣וּ מִמֶּ֗נּוּ וְלֹ֥א יָמֵ֛ר וְלֹ֥א (יעבור) [יַעֲבִ֖יר] רֵאשִׁ֣ית הָאָ֑רֶץ כִּי־קֹ֖דֶשׁ לַיהֹוָֽה׃",
+      "douay_rheims": "And they shall not sell thereof, nor exchange, neither shall the firstfruits of the land be alienated, because they are sanctified to the Lord.",
+      "finnish_biblia": "Ja ei pidä siitä mitään myytämän pois eikä vaihetettaman, ei myös maan uutisesta pidä mitään tuleman pois; sillä se on pyhitetty Herralle. ",
       "king_james": "And they shall not sell of it, neither exchange, nor alienate the firstfruits of the land: for it is holy unto the Lord."
     },
     {
       "verse": 15,
       "latin_vulgate": " Quinque millia autem quæ supersunt in latitudine per viginti quinque millia, profana erunt urbis in habitaculum et in suburbana : et erit civitas in medio ejus. ",
       "hebrew_masoretic": "וַחֲמֵ֨שֶׁת אֲלָפִ֜ים הַנּוֹתָ֣ר בָּרֹ֗חַב עַל־פְּנֵי֙ חֲמִשָּׁ֤ה וְעֶשְׂרִים֙ אֶ֔לֶף חֹֽל־ה֣וּא לָעִ֔יר לְמוֹשָׁ֖ב וּלְמִגְרָ֑שׁ וְהָיְתָ֥ה הָעִ֖יר בְּתוֹכֹֽה׃",
+      "douay_rheims": "But the five thousand that remain in the breadth over against the five and twenty thousand, shall be a profane place for the city for dwelling, and for suburbs and the city shall be in the midst thereof.",
+      "finnish_biblia": "Mutta ne viisituhatta riukua, jotka jäävät leveydelle, viidestäkolmattakymmenestä tuhannesta riukumitasta pituudelle, pitää oleman kaupungille yhteiseksi asuinsijaksi ja esikaupungiksi; ja sen keskellä pitää kaupungin oleman. ",
       "king_james": "And the five thousand, that are left in the breadth over against the five and twenty thousand, shall be a profane place for the city, for dwelling, and for suburbs: and the city shall be in the midst thereof."
     },
     {
       "verse": 16,
       "latin_vulgate": "Et hæ mensuræ ejus : ad plagam septentrionalem, quingenta et quatuor millia : et ad plagam meridianam, quingenta et quatuor millia : et ad plagam orientalem, quingenta et quatuor millia : et ad plagam occidentalem, quingenta et quatuor millia. ",
       "hebrew_masoretic": "וְאֵ֘לֶּה֮ מִדּוֹתֶ֒יהָ֒ פְּאַ֣ת צָפ֗וֹן חֲמֵ֤שׁ מֵאוֹת֙ וְאַרְבַּ֣עַת אֲלָפִ֔ים וּפְאַת־נֶ֕גֶב חֲמֵ֥שׁ (חמש) מֵא֖וֹת וְאַרְבַּ֣עַת אֲלָפִ֑ים וּמִפְּאַ֣ת קָדִ֗ים חֲמֵ֤שׁ מֵאוֹת֙ וְאַרְבַּ֣עַת אֲלָפִ֔ים וּפְאַת־יָ֕מָּה חֲמֵ֥שׁ מֵא֖וֹת וְאַרְבַּ֥עַת אֲלָפִֽים׃",
+      "douay_rheims": "And these are the measures thereof: on the north side four thousand and five hundred: and on the south side four thousand and five hundred: and on the east side four thousand and five hundred: and on the west side four thousand and five hundred.",
+      "finnish_biblia": "Ja tämän pitää oleman hänen mittansa: neljätuhatta ja viisisataa riukua pohjoiseen ja lounaaseen päin, niin myös itään ja länteen päin neljätuhatta ja viisisataa. ",
       "king_james": "And these shall be the measures thereof; the north side four thousand and five hundred, and the south side four thousand and five hundred, and on the east side four thousand and five hundred, and the west side four thousand and five hundred."
     },
     {
       "verse": 17,
       "latin_vulgate": "Erunt autem suburbana civitatis ad aquilonem, ducenta quinquaginta : et ad meridiem, ducenta quinquaginta : et ad orientem, ducenta quinquaginta : et ad mare, ducenta quinquaginta. ",
       "hebrew_masoretic": "וְהָיָ֣ה מִגְרָשׁ֮ לָעִיר֒ צָפ֙וֹנָה֙ חֲמִשִּׁ֣ים וּמָאתַ֔יִם וְנֶ֖גְבָּה חֲמִשִּׁ֣ים וּמָאתָ֑יִם וְקָדִ֙ימָה֙ חֲמִשִּׁ֣ים וּמָאתַ֔יִם וְיָ֖מָּה חֲמִשִּׁ֥ים וּמָאתָֽיִם׃",
+      "douay_rheims": "And the suburbs of the city shall be to the north two hundred and fifty, and the south two hundred and fifty, and to the east two hundred and fifty, and to the sea two hundred and fifty.",
+      "finnish_biblia": "Mutta esikaupunkia varten pitää oleman kaksisataa ja viisikymmentä riukua, pohjaan ja lounaan päin, niin myös itään ja länteen kaksisataa ja viisikymmentä riukua. ",
       "king_james": "And the suburbs of the city shall be toward the north two hundred and fifty, and toward the south two hundred and fifty, and toward the east two hundred and fifty, and toward the west two hundred and fifty."
     },
     {
       "verse": 18,
       "latin_vulgate": "Quod autem reliquum fuerit in longitudine secundum primitias sanctuarii, decem millia in orientem, et decem millia in occidentem, erunt sicut primitiæ sanctuarii : et erunt fruges ejus in panes his qui serviunt civitati. ",
       "hebrew_masoretic": "וְהַנּוֹתָ֨ר בָּאֹ֜רֶךְ לְעֻמַּ֣ת ׀ תְּרוּמַ֣ת הַקֹּ֗דֶשׁ עֲשֶׂ֨רֶת אֲלָפִ֤ים קָדִ֙ימָה֙ וַעֲשֶׂ֤רֶת אֲלָפִים֙ יָ֔מָּה וְהָיָ֕ה לְעֻמַּ֖ת תְּרוּמַ֣ת הַקֹּ֑דֶשׁ וְהָיְתָ֤ה תְבֽוּאָתֹה֙ לְלֶ֔חֶם לְעֹבְדֵ֖י הָעִֽיר׃",
+      "douay_rheims": "And the residue in length by the firstfruits of the sanctuary, ten thousand toward the east, and ten thousand toward the west, shall be as the firstfruits of the sanctuary: and the fruit thereof shall be for bread to them that serve the city.",
+      "finnish_biblia": "Mutta mitä jää pituudesta pyhän ylennysuhrin osan kohdalle, kymmenentuhatta riukua itään päin ja kymmenentuhatta riukua länteen päin, juuri pyhän ylennysuhrin osan kohdalla, sen sisälletulo pitää oleman kaupungin palvelioille elatukseksi. ",
       "king_james": "And the residue in length over against the oblation of the holy portion shall be ten thousand eastward, and ten thousand westward: and it shall be over against the oblation of the holy portion; and the increase thereof shall be for food unto them that serve the city."
     },
     {
       "verse": 19,
       "latin_vulgate": "Servientes autem civitati, operabuntur ex omnibus tribubus Israël. ",
       "hebrew_masoretic": "וְהָעֹבֵ֖ד הָעִ֑יר יַעַבְד֕וּהוּ מִכֹּ֖ל שִׁבְטֵ֥י יִשְׂרָאֵֽל׃",
+      "douay_rheims": "And they that serve the city, shall serve it out of all the tribes of Israel.",
+      "finnish_biblia": "Ja jotka kaupungissa palvelevat, ne pitää oleman kaikista Israelin sukukunnista. ",
       "king_james": "And they that serve the city shall serve it out of all the tribes of Israel."
     },
     {
       "verse": 20,
       "latin_vulgate": "Omnes primitiæ viginti quinque millium, per viginti quinque millia in quadrum, separabuntur in primitias sanctuarii, et in possessionem civitatis.  ",
       "hebrew_masoretic": "כׇּל־הַתְּרוּמָ֗ה חֲמִשָּׁ֤ה וְעֶשְׂרִים֙ אֶ֔לֶף בַּחֲמִשָּׁ֥ה וְעֶשְׂרִ֖ים אָ֑לֶף רְבִיעִ֗ית תָּרִ֙ימוּ֙ אֶת־תְּרוּמַ֣ת הַקֹּ֔דֶשׁ אֶל־אֲחֻזַּ֖ת הָעִֽיר׃",
+      "douay_rheims": "All the firstfruits, of five and twenty thousand, by five and twenty thousand foursquare, shall be set apart for the firstfruits of the sanctuary, and for the possession of the city.",
+      "finnish_biblia": "Ja kaikista näistä eroitetuista osista, joka on molemmilta puolilta pituudelle ja leveydelle viisikolmattakymmentä tuhatta riukua, pitää teidän eroittaman neljännen osan; sen pitää kaupungin oman oleman. ",
       "king_james": "All the oblation shall be five and twenty thousand by five and twenty thousand: ye shall offer the holy oblation foursquare, with the possession of the city."
     },
     {
       "verse": 21,
       "latin_vulgate": " Quod autem reliquum fuerit, principis erit ex omni parte primitiarum sanctuarii, et possessionis civitatis e regione viginti quinque millium primitiarum usque ad terminum orientalem : sed et ad mare, e regione viginti quinque millium, usque ad terminum maris, similiter in partibus principis erit : et erunt primitiæ sanctuarii, et sanctuarium templi, in medio ejus. ",
       "hebrew_masoretic": "וְהַנּוֹתָ֣ר לַנָּשִׂ֣יא מִזֶּ֣ה ׀ וּמִזֶּ֣ה ׀ לִתְרֽוּמַת־הַקֹּ֣דֶשׁ וְלַאֲחֻזַּ֪ת הָעִ֟יר אֶל־פְּנֵ֣י חֲמִשָּׁה֩ וְעֶשְׂרִ֨ים אֶ֥לֶף ׀ תְּרוּמָה֮ עַד־גְּב֣וּל קָדִ֒ימָה֒ וְיָ֗מָּה עַל־פְּ֠נֵ֠י חֲמִשָּׁ֨ה וְעֶשְׂרִ֥ים אֶ֙לֶף֙ עַל־גְּב֣וּל יָ֔מָּה לְעֻמַּ֥ת חֲלָקִ֖ים לַנָּשִׂ֑יא וְהָֽיְתָה֙ תְּרוּמַ֣ת הַקֹּ֔דֶשׁ וּמִקְדַּ֥שׁ הַבַּ֖יִת בְּתוֹכֹֽה׃",
+      "douay_rheims": "And the residue shall be for the prince on every side of the firstfruits of the sanctuary, and of the possession of the city over against the five and twenty thousand of the firstfruits unto the east border: toward the sea also over against the five and twenty thousand, unto the border of the sea, shall likewise be the portion of the prince: and the firstfruits of the sanctuary, and the sanctuary of the temple shall be in the midst thereof.",
+      "finnish_biblia": "Mutta mitä vielä jää molemmille puolille siitä eroitetusta pyhästä osasta ja kaupungin osasta, viisikolmattakymmentä tuhatta riukua sekä itään että länteen, se pitää päämiehen oma oleman; mutta pyhä maa, jossa pyhä huone on, pitää siitä eroitettu oleman. ",
       "king_james": "And the residue shall be for the prince, on the one side and on the other of the holy oblation, and of the possession of the city, over against the five and twenty thousand of the oblation toward the east border, and westward over against the five and twenty thousand toward the west border, over against the portions for the prince: and it shall be the holy oblation; and the sanctuary of the house shall be in the midst thereof."
     },
     {
       "verse": 22,
       "latin_vulgate": "De possessione autem Levitarum, et de possessione civitatis in medio partium principis, erit inter terminum Juda et inter terminum Benjamin, et ad principem pertinebit.  ",
       "hebrew_masoretic": "וּמֵאֲחֻזַּ֤ת הַלְוִיִּם֙ וּמֵאֲחֻזַּ֣ת הָעִ֔יר בְּת֛וֹךְ אֲשֶׁ֥ר לַנָּשִׂ֖יא יִהְיֶ֑ה בֵּ֣ין ׀ גְּב֣וּל יְהוּדָ֗ה וּבֵין֙ גְּב֣וּל בִּנְיָמִ֔ן לַנָּשִׂ֖יא יִהְיֶֽה׃",
+      "douay_rheims": "And from the possession of the Levites, and from the possession of the city which are in the midst of the prince's portions: what shall be to the border of Juda, and to the border of Benjamin, shall also belong to the prince.",
+      "finnish_biblia": "Mutta mitä on Leviläisten osan ja kaupungin osan välillä, joka keskellä on, mitä jää Juudan ja Benjaminin rajan välille, se pitää päämiehen oma oleman. ",
       "king_james": "Moreover from the possession of the Levites, and from the possession of the city, being in the midst of that which is the prince’s, between the border of Judah and the border of Benjamin, shall be for the prince."
     },
     {
       "verse": 23,
       "latin_vulgate": " Et reliquis tribubus, a plaga orientali usque ad plagam occidentalem, Benjamin una. ",
       "hebrew_masoretic": "וְיֶ֖תֶר הַשְּׁבָטִ֑ים מִפְּאַ֥ת קָדִ֛ימָה עַד־פְּאַת־יָ֖מָּה בִּנְיָמִ֥ן אֶחָֽד׃",
+      "douay_rheims": "And for the rest of the tribes: from the east side to the west side, one portion for Benjamin.",
+      "finnish_biblia": "Sitte pitää muut sukukunnat oleman: Benjaminin osa idän puolesta länteen. ",
       "king_james": "As for the rest of the tribes, from the east side unto the west side, Benjamin shall have a portion."
     },
     {
       "verse": 24,
       "latin_vulgate": "Et contra terminum Benjamin, a plaga orientali usque ad plagam occidentalem, Simeon una. ",
       "hebrew_masoretic": "וְעַ֣ל ׀ גְּב֣וּל בִּנְיָמִ֗ן מִפְּאַ֥ת קָדִ֛ימָה עַד־פְּאַת־יָ֖מָּה שִׁמְע֥וֹן אֶחָֽד׃",
+      "douay_rheims": "And over against the border of Benjamin, from the east side to the west side, one portion for Simeon.",
+      "finnish_biblia": "Mutta Benjaminin rajan tykönä pitää Simeonin osa oleman idän puolesta länteen. ",
       "king_james": "And by the border of Benjamin, from the east side unto the west side, Simeon shall have a portion."
     },
     {
       "verse": 25,
       "latin_vulgate": "Et super terminum Simeonis, a plaga orientali usque ad plagam occidentalem, Issachar una. ",
       "hebrew_masoretic": "וְעַ֣ל ׀ גְּב֣וּל שִׁמְע֗וֹן מִפְּאַ֥ת קָדִ֛ימָה עַד־פְּאַת־יָ֖מָּה יִשָּׂשכָ֥ר אֶחָֽד׃",
+      "douay_rheims": "And by the border of Simeon, from the east side to the west side, one portion for Issachar.",
+      "finnish_biblia": "Simeoinin rajan vieressä pitää Isaskarin osan oleman, idän puolesta länteen. ",
       "king_james": "And by the border of Simeon, from the east side unto the west side, Issachar a portion."
     },
     {
       "verse": 26,
       "latin_vulgate": "Et super terminum Issachar, a plaga orientali usque ad plagam occidentalem, Zabulon una. ",
       "hebrew_masoretic": "וְעַ֣ל ׀ גְּב֣וּל יִשָּׂשכָ֗ר מִפְּאַ֥ת קָדִ֛ימָה עַד־פְּאַת־יָ֖מָּה זְבוּלֻ֥ן אֶחָֽד׃",
+      "douay_rheims": "And by the border of Issachar, from the east side to the west side, one portion for Zabulon.",
+      "finnish_biblia": "Isaskarin rajalla pitää Zebulonin osan oleman, idän puolesta länteen. ",
       "king_james": "And by the border of Issachar, from the east side unto the west side, Zebulun a portion."
     },
     {
       "verse": 27,
       "latin_vulgate": "Et super terminum Zabulon, a plaga orientali usque ad plagam maris, Gad una. ",
       "hebrew_masoretic": "וְעַ֣ל ׀ גְּב֣וּל זְבוּלֻ֗ן מִפְּאַ֥ת קָדִ֛מָה עַד־פְּאַת־יָ֖מָּה גָּ֥ד אֶחָֽד׃",
+      "douay_rheims": "And by the border of Zabulon, from the east side to the side of the sea, one portion for Gad.",
+      "finnish_biblia": "Zebulonin rajalla pitää Gadin osan oleman, idästä länteen. ",
       "king_james": "And by the border of Zebulun, from the east side unto the west side, Gad a portion."
     },
     {
       "verse": 28,
       "latin_vulgate": "Et super terminum Gad, ad plagam austri in meridie : et erit finis de Thamar usque ad aquas contradictionis Cades : hæreditas contra mare magnum. ",
       "hebrew_masoretic": "וְעַל֙ גְּב֣וּל גָּ֔ד אֶל־פְּאַ֖ת נֶ֣גֶב תֵּימָ֑נָה וְהָיָ֨ה גְב֜וּל מִתָּמָ֗ר מֵ֚י מְרִיבַ֣ת קָדֵ֔שׁ נַחֲלָ֖ה עַל־הַיָּ֥ם הַגָּדֽוֹל׃",
+      "douay_rheims": "And by the border of Gad, the south side southward: and the border shall be from Thamar, even to the waters of contradiction of Cades, the inheritance over against the great sea.",
+      "finnish_biblia": "Mutta likin Gadia on lounaan raja, Temanin, Tamarista niin Kadeksen riitaveteen saakka, niin ojaan asti, joka isoon mereen juoksee. ",
       "king_james": "And by the border of Gad, at the south side southward, the border shall be even from Tamar unto the waters of strife in Kadesh, and to the river toward the great sea."
     },
     {
       "verse": 29,
       "latin_vulgate": "Hæc est terra quam mittetis in sortem tribubus Israël, et hæ partitiones earum, ait Dominus Deus.  ",
       "hebrew_masoretic": "זֹ֥את הָאָ֛רֶץ אֲשֶׁר־תַּפִּ֥ילוּ מִֽנַּחֲלָ֖ה לְשִׁבְטֵ֣י יִשְׂרָאֵ֑ל וְאֵ֙לֶּה֙ מַחְלְקוֹתָ֔ם נְאֻ֖ם אֲדֹנָ֥י יֱהֹוִֽה׃ {ס}",
+      "douay_rheims": "This is the land which you shall divide by lot to the tribes of Israel: and these are the portions of them, saith the Lord God.",
+      "finnish_biblia": "Näin pitää maa jaettu oleman Israelin lasten sukukuntain perinnöksi; ja sen pitää oleman heidän osansa, sanoo Herra, Herra. ",
       "king_james": "This is the land which ye shall divide by lot unto the tribes of Israel for inheritance, and these are their portions, saith the Lord God."
     },
     {
       "verse": 30,
       "latin_vulgate": " Et hi egressus civitatis : a plaga septentrionali, quingentos et quatuor millia mensurabis. ",
       "hebrew_masoretic": "וְאֵ֖לֶּה תּוֹצְאֹ֣ת הָעִ֑יר מִפְּאַ֣ת צָפ֔וֹן חֲמֵ֥שׁ מֵא֛וֹת וְאַרְבַּ֥עַת אֲלָפִ֖ים מִדָּֽה׃",
+      "douay_rheims": "And these are the goings out of the city: on the north side thou shalt measure four thousand and five hundred.",
+      "finnish_biblia": "Ja näin leveltä pitää kaupungin oleman; neljätuhatta ja viisisataa riukua pohjoista päin. ",
       "king_james": "And these are the goings out of the city on the north side, four thousand and five hundred measures."
     },
     {
       "verse": 31,
       "latin_vulgate": "Et portæ civitatis ex nominibus tribuum Israël : portæ tres a septentrione : porta Ruben una, porta Juda una, porta Levi una. ",
       "hebrew_masoretic": "וְשַׁעֲרֵ֣י הָעִ֗יר עַל־שְׁמוֹת֙ שִׁבְטֵ֣י יִשְׂרָאֵ֔ל שְׁעָרִ֥ים שְׁלוֹשָׁ֖ה צָפ֑וֹנָה שַׁ֣עַר רְאוּבֵ֞ן אֶחָ֗ד שַׁ֤עַר יְהוּדָה֙ אֶחָ֔ד שַׁ֥עַר לֵוִ֖י אֶחָֽד׃",
+      "douay_rheims": "And the gates of the city according to the names of the tribes of Israel, three gates on the north side, the gate of Ruben one, the gate of Juda one, the gate of Levi one.",
+      "finnish_biblia": "Ja kaupungin portit pitää Israelin sukukuntain nimeltä nimitetyt oleman: kolme porttia pohjoista päin: ensimäinen Rubenin, toinen Juudan, kolmas Levin. ",
       "king_james": "And the gates of the city shall be after the names of the tribes of Israel: three gates northward; one gate of Reuben, one gate of Judah, one gate of Levi."
     },
     {
       "verse": 32,
       "latin_vulgate": "Et ad plagam orientalem, quingentos et quatuor millia, et portæ tres : porta Joseph una, porta Benjamin una, porta Dan una. ",
       "hebrew_masoretic": "וְאֶל־פְּאַ֣ת קָדִ֗ימָה חֲמֵ֤שׁ מֵאוֹת֙ וְאַרְבַּ֣עַת אֲלָפִ֔ים וּשְׁעָרִ֖ים שְׁלֹשָׁ֑ה וְשַׁ֨עַר יוֹסֵ֜ף אֶחָ֗ד שַׁ֤עַר בִּנְיָמִן֙ אֶחָ֔ד שַׁ֥עַר דָּ֖ן אֶחָֽד׃",
+      "douay_rheims": "And at the east side, four thousand and five hundred: and three gates, the gate of Joseph one, the gate of Benjamin one, the gate of Dan one.",
+      "finnish_biblia": "Niin myös itään päin neljätuhatta ja viisisataa riukua, ja kolme porttia: ensimäinen Josephin, toinen Benjaminin, kolmas Danin. ",
       "king_james": "And at the east side four thousand and five hundred: and three gates; and one gate of Joseph, one gate of Benjamin, one gate of Dan."
     },
     {
       "verse": 33,
       "latin_vulgate": "Et ad plagam meridianam, quingentos et quatuor millia metieris, et portæ tres : porta Simeonis una, porta Issachar una, porta Zabulon una. ",
       "hebrew_masoretic": "וּפְאַת־נֶ֗גְבָּה חֲמֵ֨שׁ מֵא֜וֹת וְאַרְבַּ֤עַת אֲלָפִים֙ מִדָּ֔ה וּשְׁעָרִ֖ים שְׁלֹשָׁ֑ה שַׁ֣עַר שִׁמְע֞וֹן אֶחָ֗ד שַׁ֤עַר יִשָּׂשכָר֙ אֶחָ֔ד שַׁ֥עַר זְבוּלֻ֖ן אֶחָֽד׃",
+      "douay_rheims": "And at the south side, thou shalt measure four thousand and five hundred: and three gates, the gate of Simeon one, the gate of Issachar one, the gate of Zabulon one.",
+      "finnish_biblia": "Etelään päin myös neljätuhatta ja viisisataa riukua, ja kolme porttia: ensimäinen Simeonin, toinen Isaskarin, kolmas Zebulonin. ",
       "king_james": "And at the south side four thousand and five hundred measures: and three gates; one gate of Simeon, one gate of Issachar, one gate of Zebulun."
     },
     {
       "verse": 34,
       "latin_vulgate": "Et ad plagam occidentalem, quingentos et quatuor millia, et portæ eorum tres : porta Gad una, porta Aser una, porta Nephthali una. ",
       "hebrew_masoretic": "פְּאַת־יָ֗מָּה חֲמֵ֤שׁ מֵאוֹת֙ וְאַרְבַּ֣עַת אֲלָפִ֔ים שַׁעֲרֵיהֶ֖ם שְׁלֹשָׁ֑ה שַׁ֣עַר גָּ֞ד אֶחָ֗ד שַׁ֤עַר אָשֵׁר֙ אֶחָ֔ד שַׁ֥עַר נַפְתָּלִ֖י אֶחָֽד׃",
+      "douay_rheims": "And at the west side, four thousand and five hundred, and their three gates, the gate of Gad one, the gate of Aser one, the gate of Nephthali one.",
+      "finnish_biblia": "Niin myös länteen päin neljätuhatta ja viisisataa riukua, ja kolme porttia: ensimmäinen portti Gadin, toinen Asserin, kolmas Naphtalin. ",
       "king_james": "At the west side four thousand and five hundred, with their three gates; one gate of Gad, one gate of Asher, one gate of Naphtali."
     },
     {
       "verse": 35,
       "latin_vulgate": "Per circuitum, decem et octo millia : et nomen civitatis ex illa die, Dominus ibidem.    ",
       "hebrew_masoretic": "סָבִ֕יב שְׁמֹנָ֥ה עָשָׂ֖ר אָ֑לֶף וְשֵׁם־הָעִ֥יר מִיּ֖וֹם יְהֹוָ֥ה ׀ שָֽׁמָּה׃",
+      "douay_rheims": "Its circumference was eighteen thousand: and the name of the city from that day, The Lord is there.  ",
+      "finnish_biblia": "Näin pitää tämä kaikki ympäri oleman, kahdeksantoistakymmentä tuhatta riukua: ja niin pitää kaupunki tästä päivästä kutsuttaman: tässä on Herra.    ",
       "king_james": "It was round about eighteen thousand measures: and the name of the city from that day shall be, The Lord is there.  "
     }
   ]

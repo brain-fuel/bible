@@ -2,6 +2,8 @@
   "book_id": "1KI",
   "latin_name": "III Regum",
   "hebrew_name": "מְלָכִים א",
+  "douay_name": "3 Kings",
+  "finnish_name": "1. Kuningasten kirja",
   "english_name": "1 Kings",
   "chapter": 17,
   "verses": [
@@ -9,144 +11,197 @@
       "verse": 1,
       "latin_vulgate": "Et dixit Elias Thesbites de habitatoribus Galaad ad Achab : Vivit Dominus Deus Israël, in cujus conspectu sto, si erit annis his ros et pluvia, nisi juxta oris mei verba. ",
       "hebrew_masoretic": "וַיֹּ֩אמֶר֩ אֵלִיָּ֨הוּ הַתִּשְׁבִּ֜י מִתֹּשָׁבֵ֣י גִלְעָד֮ אֶל־אַחְאָב֒ חַי־יְהֹוָ֞ה אֱלֹהֵ֤י יִשְׂרָאֵל֙ אֲשֶׁ֣ר עָמַ֣דְתִּי לְפָנָ֔יו אִם־יִֽהְיֶ֛ה הַשָּׁנִ֥ים הָאֵ֖לֶּה טַ֣ל וּמָטָ֑ר כִּ֖י אִם־לְפִ֥י דְבָרִֽי׃ {ס}",
+      "douay_rheims": "And Elias the Thesbite, of the inhabitants of Galaad, said to Achab: As the Lord liveth, the God of Israel, in whose sight I stand, there shall not be dew nor rain these years, but according to the words of my mouth.",
+      "finnish_biblia": "Ja Elia Tisbiläinen Gileadin asuja sanoi Ahabille: niin totta kuin Herra Israelin Jumala elää, jonka edessä minä seison, ei pidä näillä vuorilla kastetta eikä sadetta tuleman, muutoin kuin minun sanani jälkeen. ",
       "king_james": "And Elijah the Tishbite, who was of the inhabitants of Gilead, said unto Ahab, As the Lord God of Israel liveth, before whom I stand, there shall not be dew nor rain these years, but according to my word."
     },
     {
       "verse": 2,
       "latin_vulgate": "Et factum est verbum Domini ad eum, dicens : ",
       "hebrew_masoretic": "וַיְהִ֥י דְבַר־יְהֹוָ֖ה אֵלָ֥יו לֵאמֹֽר׃",
+      "douay_rheims": "And the word of the Lord came to him, saying:",
+      "finnish_biblia": "Ja Herran sana tuli hänen tykönsä sanoen: ",
       "king_james": "And the word of the Lord came unto him, saying,"
     },
     {
       "verse": 3,
       "latin_vulgate": "Recede hinc, et vade contra orientem, et abscondere in torrente Carith, qui est contra Jordanem, ",
       "hebrew_masoretic": "לֵ֣ךְ מִזֶּ֔ה וּפָנִ֥יתָ לְּךָ֖ קֵ֑דְמָה וְנִסְתַּרְתָּ֙ בְּנַ֣חַל כְּרִ֔ית אֲשֶׁ֖ר עַל־פְּנֵ֥י הַיַּרְדֵּֽן׃",
+      "douay_rheims": "Get thee hence, and go towards the east, and hide thyself by the torrent of Carith, which is over against the Jordan;",
+      "finnish_biblia": "Mene tästä pois ja käännä itses itään päin, ja lymytä sinus Keritin ojan tykö, joka on Jordanin kohdalla. ",
       "king_james": "Get thee hence, and turn thee eastward, and hide thyself by the brook Cherith, that is before Jordan."
     },
     {
       "verse": 4,
       "latin_vulgate": "et ibi de torrente bibes : corvisque præcepi ut pascant te ibi. ",
       "hebrew_masoretic": "וְהָיָ֖ה מֵהַנַּ֣חַל תִּשְׁתֶּ֑ה וְאֶת־הָעֹרְבִ֣ים צִוִּ֔יתִי לְכַלְכֶּלְךָ֖ שָֽׁם׃",
+      "douay_rheims": "And there thou shalt drink of the torrent: and I have commanded the ravens to feed thee there.",
+      "finnish_biblia": "Ja sinun pitää juoman ojasta: ja minä olen käskenyt kaarnetten elättää sinua siellä. ",
       "king_james": "And it shall be, that thou shalt drink of the brook; and I have commanded the ravens to feed thee there."
     },
     {
       "verse": 5,
       "latin_vulgate": "Abiit ergo, et fecit juxta verbum Domini : cumque abiisset, sedit in torrente Carith, qui est contra Jordanem. ",
       "hebrew_masoretic": "וַיֵּ֥לֶךְ וַיַּ֖עַשׂ כִּדְבַ֣ר יְהֹוָ֑ה וַיֵּ֗לֶךְ וַיֵּ֙שֶׁב֙ בְּנַ֣חַל כְּרִ֔ית אֲשֶׁ֖ר עַל־פְּנֵ֥י הַיַּרְדֵּֽן׃",
+      "douay_rheims": "So he went, and did according to the word of the Lord: and going, he dwelt by the torrent Carith, which is over against the Jordan.",
+      "finnish_biblia": "Hän meni ja teki Herran sanan jälkeen, ja meni istui Keritin ojan tykönä, joka on Jordanin kohdalla. ",
       "king_james": "So he went and did according unto the word of the Lord: for he went and dwelt by the brook Cherith, that is before Jordan."
     },
     {
       "verse": 6,
       "latin_vulgate": "Corvi quoque deferebant ei panem et carnes mane, similiter panem et carnes vesperi, et bibebat de torrente. ",
       "hebrew_masoretic": "וְהָעֹרְבִ֗ים מְבִאִ֨ים ל֜וֹ לֶ֤חֶם וּבָשָׂר֙ בַּבֹּ֔קֶר וְלֶ֥חֶם וּבָשָׂ֖ר בָּעָ֑רֶב וּמִן־הַנַּ֖חַל יִשְׁתֶּֽה׃",
+      "douay_rheims": "And the ravens brought him bread and flesh in the morning, and bread and flesh in the evening; and he drank of the torrent.",
+      "finnish_biblia": "Ja kaarneet veivät hänelle leipää ja lihaa, huomeneltain ja ehtoona, ja hän joi ojasta. ",
       "king_james": "And the ravens brought him bread and flesh in the morning, and bread and flesh in the evening; and he drank of the brook."
     },
     {
       "verse": 7,
       "latin_vulgate": "Post dies autem siccatus est torrens : non enim pluerat super terram.  ",
       "hebrew_masoretic": "וַיְהִ֛י מִקֵּ֥ץ יָמִ֖ים וַיִּיבַ֣שׁ הַנָּ֑חַל כִּ֛י לֹא־הָיָ֥ה גֶ֖שֶׁם בָּאָֽרֶץ׃ {ס}",
+      "douay_rheims": "But after some time the torrent was dried up: for it had not rained upon the earth.",
+      "finnish_biblia": "Ja monikahtain päiväin perästä kuivui oja; sillä ei ollut sadetta maakunnassa. ",
       "king_james": "And it came to pass after a while, that the brook dried up, because there had been no rain in the land."
     },
     {
       "verse": 8,
       "latin_vulgate": " Factus est ergo sermo Domini ad eum, dicens : ",
       "hebrew_masoretic": "וַיְהִ֥י דְבַר־יְהֹוָ֖ה אֵלָ֥יו לֵאמֹֽר׃",
+      "douay_rheims": "Then the word of the Lord came to him, saying:",
+      "finnish_biblia": "Niin tuli Herran sana hänen tykönsä, sanoen: ",
       "king_james": "And the word of the Lord came unto him, saying,"
     },
     {
       "verse": 9,
       "latin_vulgate": "Surge, et vade in Sarephta Sidoniorum, et manebis ibi : præcepi enim ibi mulieri viduæ ut pascat te. ",
       "hebrew_masoretic": "ק֣וּם לֵ֤ךְ צָֽרְפַ֙תָה֙ אֲשֶׁ֣ר לְצִיד֔וֹן וְיָשַׁבְתָּ֖ שָׁ֑ם הִנֵּ֨ה צִוִּ֥יתִי שָׁ֛ם אִשָּׁ֥ה אַלְמָנָ֖ה לְכַלְכְּלֶֽךָ׃",
+      "douay_rheims": "Arise, and go to Sarephta of the Sidonians, and dwell there: for I have commanded a widow woman there to feed thee.",
+      "finnish_biblia": "Nouse ja mene Sarpatiin, joka Sidonin tykönä on, ja pysy siellä: katso, minä olen käskenyt leskivaimon sinua siellä elättää. ",
       "king_james": "Arise, get thee to Zarephath, which belongeth to Zidon, and dwell there: behold, I have commanded a widow woman there to sustain thee."
     },
     {
       "verse": 10,
       "latin_vulgate": "Surrexit, et abiit in Sarephta. Cumque venisset ad portam civitatis, apparuit ei mulier vidua colligens ligna, et vocavit eam, dixitque ei : Da mihi paululum aquæ in vase ut bibam. ",
       "hebrew_masoretic": "וַיָּ֣קׇם ׀ וַיֵּ֣לֶךְ צָֽרְפַ֗תָה וַיָּבֹא֙ אֶל־פֶּ֣תַח הָעִ֔יר וְהִנֵּה־שָׁ֛ם אִשָּׁ֥ה אַלְמָנָ֖ה מְקֹשֶׁ֣שֶׁת עֵצִ֑ים וַיִּקְרָ֤א אֵלֶ֙יהָ֙ וַיֹּאמַ֔ר קְחִי־נָ֨א לִ֧י מְעַט־מַ֛יִם בַּכְּלִ֖י וְאֶשְׁתֶּֽה׃",
+      "douay_rheims": "He arose, and went to Sarephta. And when he was come to the gate of the city, he saw the widow woman gathering sticks, and he called her, and said to her: Give me a little water in a vessel, that I may drink.",
+      "finnish_biblia": "Ja hän nousi ja meni Sarpatiin; ja kuin hän kaupungin porttiin tuli, katso, leskivaimo oli siellä ja haki puita, ja hän puhui hänelle, sanoen: tuo minulle vähä vettä astiassa juodakseni. ",
       "king_james": "So he arose and went to Zarephath. And when he came to the gate of the city, behold, the widow woman was there gathering of sticks: and he called to her, and said, Fetch me, I pray thee, a little water in a vessel, that I may drink."
     },
     {
       "verse": 11,
       "latin_vulgate": "Cumque illa pergeret ut afferret, clamavit post tergum ejus, dicens : Affer mihi, obsecro, et buccellam panis in manu tua. ",
       "hebrew_masoretic": "וַתֵּ֖לֶךְ לָקַ֑חַת וַיִּקְרָ֤א אֵלֶ֙יהָ֙ וַיֹּאמַ֔ר לִֽקְחִי־נָ֥א לִ֛י פַּת־לֶ֖חֶם בְּיָדֵֽךְ׃",
+      "douay_rheims": "And Elias said to her: Give me thy son. And he took him out of her bosom, and carried him into the upper chamber where he abode, and laid him upon his own bed.",
+      "finnish_biblia": "Kuin hän meni tuomaan, huusi hän häntä ja sanoi: tuo myös minulle pala leipää kädessäs. ",
       "king_james": "And as she was going to fetch it, he called to her, and said, Bring me, I pray thee, a morsel of bread in thine hand."
     },
     {
       "verse": 12,
       "latin_vulgate": "Quæ respondit : Vivit Dominus Deus tuus, quia non habeo panem, nisi quantum pugillus capere potest farinæ in hydria, et paululum olei in lecytho : en colligo duo ligna ut ingrediar et faciam illum mihi et filio meo, ut comedamus, et moriamur. ",
       "hebrew_masoretic": "וַתֹּ֗אמֶר חַי־יְהֹוָ֤ה אֱלֹהֶ֙יךָ֙ אִם־יֶשׁ־לִ֣י מָע֔וֹג כִּ֣י אִם־מְלֹ֤א כַף־קֶ֙מַח֙ בַּכַּ֔ד וּמְעַט־שֶׁ֖מֶן בַּצַּפָּ֑חַת וְהִנְנִ֨י מְקֹשֶׁ֜שֶׁת שְׁנַ֣יִם עֵצִ֗ים וּבָ֙אתִי֙ וַעֲשִׂיתִ֙יהוּ֙ לִ֣י וְלִבְנִ֔י וַאֲכַלְנֻ֖הוּ וָמָֽתְנוּ׃",
+      "douay_rheims": "And she answered: As the Lord thy God liveth, I have no bread, but only a handful of meal in a pot, and a little oil in a cruise: behold I am gathering two sticks, that I may go in and dress it, for me and my son, that we may eat it and die.",
+      "finnish_biblia": "Hän sanoi: niin totta kuin Herra sinun Jumalas elää, ei ole minulla leipää, mutta pivo jauhoja vakkaisessa ja vähä öljyä astiassa: ja katso, minä kokoon kaksi puuta ja menen valmistamaan itselleni ja pojalleni, syödäksemme ja sitte kuollaksemme. ",
       "king_james": "And she said, As the Lord thy God liveth, I have not a cake, but an handful of meal in a barrel, and a little oil in a cruse: and, behold, I am gathering two sticks, that I may go in and dress it for me and my son, that we may eat it, and die."
     },
     {
       "verse": 13,
       "latin_vulgate": "Ad quam Elias ait : Noli timere, sed vade, et fac sicut dixisti : verumtamen mihi primum fac de ipsa farinula subcinericium panem parvulum, et affer ad me : tibi autem et filio tuo facies postea. ",
       "hebrew_masoretic": "וַיֹּ֨אמֶר אֵלֶ֤יהָ אֵלִיָּ֙הוּ֙ אַל־תִּ֣ירְאִ֔י בֹּ֖אִי עֲשִׂ֣י כִדְבָרֵ֑ךְ אַ֣ךְ עֲשִׂי־לִֽי־מִ֠שָּׁ֠ם עֻגָ֨ה קְטַנָּ֤ה בָרִֽאשֹׁנָה֙ וְהוֹצֵ֣את לִ֔י וְלָ֣ךְ וְלִבְנֵ֔ךְ תַּעֲשִׂ֖י בָּאַחֲרֹנָֽה׃",
+      "douay_rheims": "And Elias said to her: Fear not; but go, and do as thou hast said but first make for me of the same meal a little hearth cake, and bring it to me, and after make for thyself and thy son.",
+      "finnish_biblia": "Ja Elia sanoi hänelle: älä pelkää, mene ja tee niinkuin sinä sanonut olet; kuitenkin leivo minulle vähä kyrsäinen siitä ensin ja tuo minulle; mutta itselles ja pojalles pitää myös sinun siitä sen jälkeen tekemän: ",
       "king_james": "And Elijah said unto her, Fear not; go and do as thou hast said: but make me thereof a little cake first, and bring it unto me, and after make for thee and for thy son."
     },
     {
       "verse": 14,
       "latin_vulgate": "Hæc autem dicit Dominus Deus Israël : Hydria farinæ non deficiet, nec lecythus olei minuetur, usque ad diem in qua Dominus daturus est pluviam super faciem terræ. ",
       "hebrew_masoretic": "כִּ֣י כֹה֩ אָמַ֨ר יְהֹוָ֜ה אֱלֹהֵ֣י יִשְׂרָאֵ֗ל כַּ֤ד הַקֶּ֙מַח֙ לֹ֣א תִכְלָ֔ה וְצַפַּ֥חַת הַשֶּׁ֖מֶן לֹ֣א תֶחְסָ֑ר עַ֠ד י֧וֹם (תתן) [תֵּת־]יְהֹוָ֛ה גֶּ֖שֶׁם עַל־פְּנֵ֥י הָאֲדָמָֽה׃",
+      "douay_rheims": "For thus saith the Lord, the God of Israel: The pot of meal shall not waste, nor the cruise of oil be diminished, until the day wherein the Lord will give rain upon the face of the earth.",
+      "finnish_biblia": "Sillä näin sanoo Herra Israelin Jumala: Ei jauhot vakkaisesta pidä loppuman ja öljy astiasta ei pidä puuttuman, siihen päivään asti kuin Herra antaa sataa maan päälle. ",
       "king_james": "For thus saith the Lord God of Israel, The barrel of meal shall not waste, neither shall the cruse of oil fail, until the day that the Lord sendeth rain upon the earth."
     },
     {
       "verse": 15,
       "latin_vulgate": "Quæ abiit, et fecit juxta verbum Eliæ : et comedit ipse, et illa, et domus ejus : et ex illa die ",
       "hebrew_masoretic": "וַתֵּ֥לֶךְ וַֽתַּעֲשֶׂ֖ה כִּדְבַ֣ר אֵלִיָּ֑הוּ וַתֹּ֧אכַל (הוא והיא) [הִֽיא־וָה֛וּא] וּבֵיתָ֖הּ יָמִֽים׃",
+      "douay_rheims": "She went, and did according to the word of Elias: and he ate, and she, and her house: and from that day",
+      "finnish_biblia": "Ja hän meni ja teki niinkuin Elia puhunut oli. Ja hän söi ja myös vaimo perheinensä kauvan aikaa. ",
       "king_james": "And she went and did according to the saying of Elijah: and she, and he, and her house, did eat many days."
     },
     {
       "verse": 16,
       "latin_vulgate": "hydria farinæ non defecit, et lecythus olei non est imminutus, juxta verbum Domini quod locutus fuerat in manu Eliæ. ",
       "hebrew_masoretic": "כַּ֤ד הַקֶּ֙מַח֙ לֹ֣א כָלָ֔תָה וְצַפַּ֥חַת הַשֶּׁ֖מֶן לֹ֣א חָסֵ֑ר כִּדְבַ֣ר יְהֹוָ֔ה אֲשֶׁ֥ר דִּבֶּ֖ר בְּיַ֥ד אֵֽלִיָּֽהוּ׃ {פ}",
+      "douay_rheims": "The pot of meal wasted not, and the cruise of oil was not diminished according to the word of the Lord, which he spoke in the hand of Elias.",
+      "finnish_biblia": "Ei jauhot loppuneet vakkaisesta eikä öljy astiasta, Herran sanan jälkeen, jonka hän Elian kautta puhunut oli. ",
       "king_james": "And the barrel of meal wasted not, neither did the cruse of oil fail, according to the word of the Lord, which he spake by Elijah."
     },
     {
       "verse": 17,
       "latin_vulgate": "Factum est autem post hæc, ægrotavit filius mulieris matrisfamilias, et erat languor fortissimus, ita ut non remaneret in eo halitus. ",
       "hebrew_masoretic": "וַיְהִ֗י אַחַר֙ הַדְּבָרִ֣ים הָאֵ֔לֶּה חָלָ֕ה בֶּן־הָאִשָּׁ֖ה בַּעֲלַ֣ת הַבָּ֑יִת וַיְהִ֤י חׇלְיוֹ֙ חָזָ֣ק מְאֹ֔ד עַ֛ד אֲשֶׁ֥ר לֹא־נֽוֹתְרָה־בּ֖וֹ נְשָׁמָֽה׃",
+      "douay_rheims": "And it came to pass after this, that the son of the woman, the mistress of the house, fell sick, and the sickness was very grievous, so that there was no breath left in him.",
+      "finnish_biblia": "Sen jälkeen tapahtui, että perheen emännän poika sairasti, ja hänen sairautensa oli niin raskas, ettei henkeä hänessä silleen ollut. ",
       "king_james": "And it came to pass after these things, that the son of the woman, the mistress of the house, fell sick; and his sickness was so sore, that there was no breath left in him."
     },
     {
       "verse": 18,
       "latin_vulgate": "Dixit ergo ad Eliam : Quid mihi et tibi, vir Dei ? ingressus es ad me, ut rememorarentur iniquitates meæ, et interficeres filium meum ? ",
       "hebrew_masoretic": "וַתֹּ֙אמֶר֙ אֶל־אֵ֣לִיָּ֔הוּ מַה־לִּ֥י וָלָ֖ךְ אִ֣ישׁ הָאֱלֹהִ֑ים בָּ֧אתָ אֵלַ֛י לְהַזְכִּ֥יר אֶת־עֲוֺנִ֖י וּלְהָמִ֥ית אֶת־בְּנִֽי׃",
+      "douay_rheims": "And she said to Elias: What have I to do with thee, thou man of God? art thou come to me, that my iniquities should be remembered, and that thou shouldst kill my son?",
+      "finnish_biblia": "Ja hän sanoi Elialle: mitä minulla on sinun kanssas, sinä Jumalan mies? Sinä olet tullut minun tyköni, että minun pahatekoni muistettaisiin ja minun poikani kuolis. ",
       "king_james": "And she said unto Elijah, What have I to do with thee, O thou man of God? art thou come unto me to call my sin to remembrance, and to slay my son?"
     },
     {
       "verse": 19,
       "latin_vulgate": "Et ait ad eam Elias : Da mihi filium tuum. Tulitque eum de sinu ejus, et portavit in cœnaculum ubi ipse manebat, et posuit super lectulum suum. ",
       "hebrew_masoretic": "וַיֹּ֥אמֶר אֵלֶ֖יהָ תְּנִי־לִ֣י אֶת־בְּנֵ֑ךְ וַיִּקָּחֵ֣הוּ מֵחֵיקָ֗הּ וַֽיַּעֲלֵ֙הוּ֙ אֶל־הָעֲלִיָּ֗ה אֲשֶׁר־הוּא֙ יֹשֵׁ֣ב שָׁ֔ם וַיַּשְׁכִּבֵ֖הוּ עַל־מִטָּתֽוֹ׃",
-      "king_james": "And he said unto her, Give me thy son. And he took him out of her bosom, and carried him up into a loft, where he abode, and laid him upon his own bed."
+      "douay_rheims": "",
+      "finnish_biblia": "Hän sanoi hänelle: tuo minulle poikas. Ja hän otti hänet, hänen sylistänsä, ja vei hänen ylistupaan, kussa hän asui, ja pani hänen omaan vuoteesensa, ",
+      "king_james": "And he said unto her, Give me thy son. And he took him out of her bosom, and carried him up into a loft, where he abode, and laid him upon his own bed.",
+      "refs": {
+        "douay_rheims": {
+          "absent": true
+        }
+      }
     },
     {
       "verse": 20,
       "latin_vulgate": "Et clamavit ad Dominum, et dixit : Domine Deus meus, etiam ne viduam apud quam ego utcumque sustentor, afflixisti ut interficeres filium ejus ? ",
       "hebrew_masoretic": "וַיִּקְרָ֥א אֶל־יְהֹוָ֖ה וַיֹּאמַ֑ר יְהֹוָ֣ה אֱלֹהָ֔י הֲ֠גַ֠ם עַֽל־הָאַלְמָנָ֞ה אֲשֶׁר־אֲנִ֨י מִתְגּוֹרֵ֥ר עִמָּ֛הּ הֲרֵע֖וֹתָ לְהָמִ֥ית אֶת־בְּנָֽהּ׃",
+      "douay_rheims": "And he cried to the Lord, and said: O Lord, my God, hast thou afflicted also the widow, with whom I am after a sort maintained, so as to kill her son?",
+      "finnish_biblia": "Ja huusi Herran tykö ja sanoi: Herra minun Jumalani! oletkos niin pahoin tehnyt tätä leskeä vastaan, jonka tykönä minä holhotaan, ettäs tapat hänen poikansa? ",
       "king_james": "And he cried unto the Lord, and said, O Lord my God, hast thou also brought evil upon the widow with whom I sojourn, by slaying her son?"
     },
     {
       "verse": 21,
       "latin_vulgate": "Et expandit se, atque mensus est super puerum tribus vicibus, et clamavit ad Dominum, et ait : Domine Deus meus, revertatur, obsecro, anima pueri hujus in viscera ejus. ",
       "hebrew_masoretic": "וַיִּתְמֹדֵ֤ד עַל־הַיֶּ֙לֶד֙ שָׁלֹ֣שׁ פְּעָמִ֔ים וַיִּקְרָ֥א אֶל־יְהֹוָ֖ה וַיֹּאמַ֑ר יְהֹוָ֣ה אֱלֹהָ֔י תָּ֥שׇׁב נָ֛א נֶפֶשׁ־הַיֶּ֥לֶד הַזֶּ֖ה עַל־קִרְבּֽוֹ׃",
+      "douay_rheims": "And he stretched, and measured himself upon the child three times, and cried to the Lord, and said: O Lord, my God, let the soul of this child, I beseech thee, return into his body.",
+      "finnish_biblia": "Ja hän ojensi itsensä kolmasti nuorukaisen päälle, ja huusi Herran tykö ja sanoi: Herra minun Jumalani, anna tämän nuorukaisen sielu tulla häneen jällensä! ",
       "king_james": "And he stretched himself upon the child three times, and cried unto the Lord, and said, O Lord my God, I pray thee, let this child’s soul come into him again."
     },
     {
       "verse": 22,
       "latin_vulgate": "Et exaudivit Dominus vocem Eliæ : et reversa est anima pueri intra eum, et revixit. ",
       "hebrew_masoretic": "וַיִּשְׁמַ֥ע יְהֹוָ֖ה בְּק֣וֹל אֵלִיָּ֑הוּ וַתָּ֧שׇׁב נֶפֶשׁ־הַיֶּ֛לֶד עַל־קִרְבּ֖וֹ וַיֶּֽחִי׃",
+      "douay_rheims": "And the Lord heard the voice of Elias: and the soul of the child returned into him, and he revived.",
+      "finnish_biblia": "Ja Herra kuuli Elian äänen: ja hänen sielunsa tuli häneen jälleen, ja hän virkosi. ",
       "king_james": "And the Lord heard the voice of Elijah; and the soul of the child came into him again, and he revived."
     },
     {
       "verse": 23,
       "latin_vulgate": "Tulitque Elias puerum, et deposuit eum de cœnaculo in inferiorem domum, et tradidit matri suæ, et ait illi : En vivit filius tuus. ",
       "hebrew_masoretic": "וַיִּקַּ֨ח אֵלִיָּ֜הוּ אֶת־הַיֶּ֗לֶד וַיֹּרִדֵ֤הוּ מִן־הָֽעֲלִיָּה֙ הַבַּ֔יְתָה וַֽיִּתְּנֵ֖הוּ לְאִמּ֑וֹ וַיֹּ֙אמֶר֙ אֵ֣לִיָּ֔הוּ רְאִ֖י חַ֥י בְּנֵֽךְ׃",
+      "douay_rheims": "And Elias took the child, and brought him down from the upper chamber to the house below, and delivered him to his mother, and said to her: Behold thy son liveth.",
+      "finnish_biblia": "Ja Elia otti pojan ja kantoi ylistuvasta alas huoneesen, ja antoi äidillensä, ja sanoi: katso, sinun poikas elää. ",
       "king_james": "And Elijah took the child, and brought him down out of the chamber into the house, and delivered him unto his mother: and Elijah said, See, thy son liveth."
     },
     {
       "verse": 24,
       "latin_vulgate": "Dixitque mulier ad Eliam : Nunc in isto cognovi quoniam vir Dei es tu, et verbum Domini in ore tuo verum est.   ",
       "hebrew_masoretic": "וַתֹּ֤אמֶר הָֽאִשָּׁה֙ אֶל־אֵ֣לִיָּ֔הוּ עַתָּה֙ זֶ֣ה יָדַ֔עְתִּי כִּ֛י אִ֥ישׁ אֱלֹהִ֖ים אָ֑תָּה וּדְבַר־יְהֹוָ֥ה בְּפִ֖יךָ אֱמֶֽת׃ {פ}",
+      "douay_rheims": "And the woman said to Elias: Now by this I know that thou art a man of God, and the word of the Lord in thy mouth is true. ",
+      "finnish_biblia": "Ja vaimo sanoi Elialle: nyt minä ymmärrän, ettäs olet Jumalan mies, Herran sana on tosi sinun suussas.   ",
       "king_james": "And the woman said to Elijah, Now by this I know that thou art a man of God, and that the word of the Lord in thy mouth is truth. "
     }
   ]

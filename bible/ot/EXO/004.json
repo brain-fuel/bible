@@ -2,6 +2,8 @@
   "book_id": "EXO",
   "latin_name": "Exodus",
   "hebrew_name": "שְׁמוֹת",
+  "douay_name": "Exodus",
+  "finnish_name": "2. Mooseksen kirja",
   "english_name": "Exodus",
   "chapter": 4,
   "verses": [
@@ -9,186 +11,248 @@
       "verse": 1,
       "latin_vulgate": "Respondens Moyses ait : Non credent mihi, neque audient vocem meam, sed dicent : Non apparuit tibi Dominus. ",
       "hebrew_masoretic": "וַיַּ֤עַן מֹשֶׁה֙ וַיֹּ֔אמֶר וְהֵן֙ לֹֽא־יַאֲמִ֣ינוּ לִ֔י וְלֹ֥א יִשְׁמְע֖וּ בְּקֹלִ֑י כִּ֣י יֹֽאמְר֔וּ לֹֽא־נִרְאָ֥ה אֵלֶ֖יךָ יְהֹוָֽה׃",
+      "douay_rheims": "Moses answered, and said: They will not believe me, nor hear my voice, but they will say: The Lord hath not appeared to thee.",
+      "finnish_biblia": "Moses vastasi, ja sanoi: katso, ei he usko minua, eikä ole kuuliaiset minun äänelleni; vaan sanovat: ei ole Herra näkynyt sinulle. ",
       "king_james": "And Moses answered and said, But, behold, they will not believe me, nor hearken unto my voice: for they will say, The Lord hath not appeared unto thee."
     },
     {
       "verse": 2,
       "latin_vulgate": "Dixit ergo ad eum : Quid est quod tenes in manu tua ? Respondit : Virga. ",
       "hebrew_masoretic": "וַיֹּ֧אמֶר אֵלָ֛יו יְהֹוָ֖ה (מזה) [מַה־זֶּ֣ה] בְיָדֶ֑ךָ וַיֹּ֖אמֶר מַטֶּֽה׃",
+      "douay_rheims": "Then he said to him: What is that thou holdest in thy hand? He answered: A rod.",
+      "finnish_biblia": "Herra sanoi hänelle: mikä se on sinun kädessäs? Hän sanoi: sauva. ",
       "king_james": "And the Lord said unto him, What is that in thine hand? And he said, A rod."
     },
     {
       "verse": 3,
       "latin_vulgate": "Dixitque Dominus : Projice eam in terram. Projecit, et versa est in colubrum, ita ut fugeret Moyses. ",
       "hebrew_masoretic": "וַיֹּ֙אמֶר֙ הַשְׁלִיכֵ֣הוּ אַ֔רְצָה וַיַּשְׁלִכֵ֥הוּ אַ֖רְצָה וַיְהִ֣י לְנָחָ֑שׁ וַיָּ֥נׇס מֹשֶׁ֖ה מִפָּנָֽיו׃",
+      "douay_rheims": "And the Lord said: Cast it down upon the ground. He cast it down, and it was turned into a serpent, so that Moses fled from it.",
+      "finnish_biblia": "Ja hän sanoi: heitä se maahan, ja hän heitti sen maahan, ja se muuttui kärmeeksi. Ja Moses pakeni häntä. ",
       "king_james": "And he said, Cast it on the ground. And he cast it on the ground, and it became a serpent; and Moses fled from before it."
     },
     {
       "verse": 4,
       "latin_vulgate": "Dixitque Dominus : Extende manum tuam, et apprehende caudam ejus. Extendit, et tenuit, versaque est in virgam. ",
       "hebrew_masoretic": "וַיֹּ֤אמֶר יְהֹוָה֙ אֶל־מֹשֶׁ֔ה שְׁלַח֙ יָֽדְךָ֔ וֶאֱחֹ֖ז בִּזְנָב֑וֹ וַיִּשְׁלַ֤ח יָדוֹ֙ וַיַּ֣חֲזֶק בּ֔וֹ וַיְהִ֥י לְמַטֶּ֖ה בְּכַפּֽוֹ׃",
+      "douay_rheims": "And the Lord said: Put out thy hand, and take it by the tail. He put forth his hand, and took hold of it, and it was turned into a rod.",
+      "finnish_biblia": "Mutta Herra sanoi Mosekselle: ojenna kätes, ja rupee hänen pyrstöönsä. Niin hän ojensi kätensä ja rupesi häneen, ja se muuttui sauvaksi hänen kädessänsä. ",
       "king_james": "And the Lord said unto Moses, Put forth thine hand, and take it by the tail. And he put forth his hand, and caught it, and it became a rod in his hand:"
     },
     {
       "verse": 5,
       "latin_vulgate": "Ut credant, inquit, quod apparuerit tibi Dominus Deus patrum suorum, Deus Abraham, Deus Isaac et Deus Jacob. ",
       "hebrew_masoretic": "לְמַ֣עַן יַאֲמִ֔ינוּ כִּֽי־נִרְאָ֥ה אֵלֶ֛יךָ יְהֹוָ֖ה אֱלֹהֵ֣י אֲבֹתָ֑ם אֱלֹהֵ֧י אַבְרָהָ֛ם אֱלֹהֵ֥י יִצְחָ֖ק וֵאלֹהֵ֥י יַעֲקֹֽב׃",
+      "douay_rheims": "That they may believe, saith he, that the Lord God of their fathers, the God of Abraham, the God of Isaac, and the God of Jacob, hath appeared to thee.",
+      "finnish_biblia": "Sentähden pitää heidän uskoman, että Herra on näkynyt sinulle, heidän isäinsä Jumala, Abrahamin Jumala, Isaakin Jumala ja Jakobin Jumala. ",
       "king_james": "That they may believe that the Lord God of their fathers, the God of Abraham, the God of Isaac, and the God of Jacob, hath appeared unto thee."
     },
     {
       "verse": 6,
       "latin_vulgate": "Dixitque Dominus rursum : Mitte manum tuam in sinum tuum. Quam cum misisset in sinum, protulit leprosam instar nivis. ",
       "hebrew_masoretic": "וַיֹּ֩אמֶר֩ יְהֹוָ֨ה ל֜וֹ ע֗וֹד הָֽבֵא־נָ֤א יָֽדְךָ֙ בְּחֵיקֶ֔ךָ וַיָּבֵ֥א יָד֖וֹ בְּחֵיק֑וֹ וַיּ֣וֹצִאָ֔הּ וְהִנֵּ֥ה יָד֖וֹ מְצֹרַ֥עַת כַּשָּֽׁלֶג׃",
+      "douay_rheims": "And the Lord said again: Put thy hand into thy bosom. And when he had put it into his bosom, he brought it forth leprous as snow.",
+      "finnish_biblia": "Ja Herra sanoi vielä hänelle: pistä nyt kätes povees. Ja hän pisti sen poveensa. Ja koska hän veti sen ulos, katso, hänen kätensä oli spitalinen niinkuin lumi. ",
       "king_james": "And the Lord said furthermore unto him, Put now thine hand into thy bosom. And he put his hand into his bosom: and when he took it out, behold, his hand was leprous as snow."
     },
     {
       "verse": 7,
       "latin_vulgate": "Retrahe, ait, manum tuam in sinum tuum. Retraxit, et protulit iterum, et erat similis carni reliquæ. ",
       "hebrew_masoretic": "וַיֹּ֗אמֶר הָשֵׁ֤ב יָֽדְךָ֙ אֶל־חֵיקֶ֔ךָ וַיָּ֥שֶׁב יָד֖וֹ אֶל־חֵיק֑וֹ וַיּֽוֹצִאָהּ֙ מֵֽחֵיק֔וֹ וְהִנֵּה־שָׁ֖בָה כִּבְשָׂרֽוֹ׃",
+      "douay_rheims": "And he said: Put back thy hand into thy bosom. He put it back, and brought it out again, and it was like the other flesh.",
+      "finnish_biblia": "Ja hän sanoi: pistä kätes jällensä povees, ja hän pisti kätensä jälleen poveensa, ja veti jällensä sen ulos povestansa, ja katso, se tuli niinkuin hänen ihonsa. ",
       "king_james": "And he said, Put thine hand into thy bosom again. And he put his hand into his bosom again; and plucked it out of his bosom, and, behold, it was turned again as his other flesh."
     },
     {
       "verse": 8,
       "latin_vulgate": "Si non crediderint, inquit, tibi, neque audierint sermonem signi prioris, credent verbo signi sequentis. ",
       "hebrew_masoretic": "וְהָיָה֙ אִם־לֹ֣א יַאֲמִ֣ינוּ לָ֔ךְ וְלֹ֣א יִשְׁמְע֔וּ לְקֹ֖ל הָאֹ֣ת הָרִאשׁ֑וֹן וְהֶֽאֱמִ֔ינוּ לְקֹ֖ל הָאֹ֥ת הָאַחֲרֽוֹן׃",
+      "douay_rheims": "If they will not believe thee, saith he, nor hear the voice of the former sign, they will believe the word of the latter sign.",
+      "finnish_biblia": "Ja on tapahtuva, jollei he sinua usko, eikä ole kuuliaiset sinun äänelles yhden ihmeen tähden, niin he uskovat sinun äänes toisen ihmeen tähden. ",
       "king_james": "And it shall come to pass, if they will not believe thee, neither hearken to the voice of the first sign, that they will believe the voice of the latter sign."
     },
     {
       "verse": 9,
       "latin_vulgate": "Quod si nec duobus quidem his signis crediderint, neque audierint vocem tuam : sume aquam fluminis, et effunde eam super aridam, et quidquid hauseris de fluvio, vertetur in sanguinem.  ",
       "hebrew_masoretic": "וְהָיָ֡ה אִם־לֹ֣א יַאֲמִ֡ינוּ גַּם֩ לִשְׁנֵ֨י הָאֹת֜וֹת הָאֵ֗לֶּה וְלֹ֤א יִשְׁמְעוּן֙ לְקֹלֶ֔ךָ וְלָקַחְתָּ֙ מִמֵּימֵ֣י הַיְאֹ֔ר וְשָׁפַכְתָּ֖ הַיַּבָּשָׁ֑ה וְהָי֤וּ הַמַּ֙יִם֙ אֲשֶׁ֣ר תִּקַּ֣ח מִן־הַיְאֹ֔ר וְהָי֥וּ לְדָ֖ם בַּיַּבָּֽשֶׁת׃",
+      "douay_rheims": "But if they will not even believe these two signs, nor hear thy voice: take of the river water, and pour it out upon the dry land, and whatsoever thou drawest out of the river, shall be turned into blood.",
+      "finnish_biblia": "Jollei he usko niitä kahta ihmettä, eikä ole kuuliaiset sinun äänelles, niin ota vettä virrasta, ja kaada kuivalle maalle, niin se vesi, jonkas olet ottanut virrasta, tulee vereksi kuivalla maalla. ",
       "king_james": "And it shall come to pass, if they will not believe also these two signs, neither hearken unto thy voice, that thou shalt take of the water of the river, and pour it upon the dry land: and the water which thou takest out of the river shall become blood upon the dry land."
     },
     {
       "verse": 10,
       "latin_vulgate": " Ait Moyses : Obsecro, Domine, non sum eloquens ab heri et nudiustertius : et ex quo locutus es ad servum tuum, impeditioris et tardioris linguæ sum. ",
       "hebrew_masoretic": "וַיֹּ֨אמֶר מֹשֶׁ֣ה אֶל־יְהֹוָה֮ בִּ֣י אֲדֹנָי֒ לֹא֩ אִ֨ישׁ דְּבָרִ֜ים אָנֹ֗כִי גַּ֤ם מִתְּמוֹל֙ גַּ֣ם מִשִּׁלְשֹׁ֔ם גַּ֛ם מֵאָ֥ז דַּבֶּרְךָ֖ אֶל־עַבְדֶּ֑ךָ כִּ֧י כְבַד־פֶּ֛ה וּכְבַ֥ד לָשׁ֖וֹן אָנֹֽכִי׃",
+      "douay_rheims": "Moses said: I beseech thee, Lord, I am not eloquent from yesterday and the day before; and since thou hast spoken to thy servant, I have more impediment and slowness of tongue.",
+      "finnish_biblia": "Niin sanoi Moses Herralle: Ah Herra, en ole minä tähän asti puhelias mies ollut, enkä myös sitte kuin sinä palvelias kanssa puhunut olet; sillä minulla on hidas puhe ja kankia kieli. ",
       "king_james": "And Moses said unto the Lord, O my Lord, I am not eloquent, neither heretofore, nor since thou hast spoken unto thy servant: but I am slow of speech, and of a slow tongue."
     },
     {
       "verse": 11,
       "latin_vulgate": "Dixit Dominus ad eum : Quis fecit os hominis ? aut quis fabricatus est mutum et surdum, videntem et cæcum ? nonne ego ? ",
       "hebrew_masoretic": "וַיֹּ֨אמֶר יְהֹוָ֜ה אֵלָ֗יו מִ֣י שָׂ֣ם פֶּה֮ לָֽאָדָם֒ א֚וֹ מִֽי־יָשׂ֣וּם אִלֵּ֔ם א֣וֹ חֵרֵ֔שׁ א֥וֹ פִקֵּ֖חַ א֣וֹ עִוֵּ֑ר הֲלֹ֥א אָנֹכִ֖י יְהֹוָֽה׃",
+      "douay_rheims": "The Lord said to him: Who made man's mouth? or who made the dumb and the deaf, the seeing and the blind? did not I?",
+      "finnish_biblia": "Ja Herra sanoi hänelle: kuka on luonut ihmisen suun? Eli kuka on tehnyt mykän taikka kuuron, eli näkevän taikka sokian? Enkö minä Herra (ole niitä tehnyt)? ",
       "king_james": "And the Lord said unto him, Who hath made man’s mouth? or who maketh the dumb, or deaf, or the seeing, or the blind? have not I the Lord?"
     },
     {
       "verse": 12,
       "latin_vulgate": "Perge, igitur, et ego ero in ore tuo : doceboque te quid loquaris. ",
       "hebrew_masoretic": "וְעַתָּ֖ה לֵ֑ךְ וְאָנֹכִי֙ אֶֽהְיֶ֣ה עִם־פִּ֔יךָ וְהוֹרֵיתִ֖יךָ אֲשֶׁ֥ר תְּדַבֵּֽר׃",
+      "douay_rheims": "Go therefore, and I will be in thy mouth; and I will teach thee what thou shalt speak.",
+      "finnish_biblia": "Mene siis nyt, minä olen sinun suussas, ja opetan sinua, mitä sinun puhuman pitää. ",
       "king_james": "Now therefore go, and I will be with thy mouth, and teach thee what thou shalt say."
     },
     {
       "verse": 13,
       "latin_vulgate": "At ille : Obsecro, inquit, Domine, mitte quem missurus es. ",
       "hebrew_masoretic": "וַיֹּ֖אמֶר בִּ֣י אֲדֹנָ֑י שְֽׁלַֽח־נָ֖א בְּיַד־תִּשְׁלָֽח׃",
+      "douay_rheims": "But he said: I beseech thee, Lord, send whom thou wilt send.",
+      "finnish_biblia": "Moses sanoi: Ah Herra, lähetä, jonkas tahdot lähettää. ",
       "king_james": "And he said, O my Lord, send, I pray thee, by the hand of him whom thou wilt send."
     },
     {
       "verse": 14,
       "latin_vulgate": "Iratus Dominus in Moysen, ait : Aaron frater tuus Levites, scio quod eloquens sit : ecce ipse egreditur in occursum tuum, vidensque te lætabitur corde. ",
       "hebrew_masoretic": "וַיִּֽחַר־אַ֨ף יְהֹוָ֜ה בְּמֹשֶׁ֗ה וַיֹּ֙אמֶר֙ הֲלֹ֨א אַהֲרֹ֤ן אָחִ֙יךָ֙ הַלֵּוִ֔י יָדַ֕עְתִּי כִּֽי־דַבֵּ֥ר יְדַבֵּ֖ר ה֑וּא וְגַ֤ם הִנֵּה־הוּא֙ יֹצֵ֣א לִקְרָאתֶ֔ךָ וְרָאֲךָ֖ וְשָׂמַ֥ח בְּלִבּֽוֹ׃",
+      "douay_rheims": "The Lord being angry at Moses, said: Aaron the Levite is thy brother, I know that he is eloquent: behold he cometh forth to meet thee, and seeing thee, shall be glad at heart.",
+      "finnish_biblia": "Niin Herra vihastui suuresti Moseksen päälle, ja sanoi: enkö minä tunne Aaronia sinun veljeäs, Levin suvusta, että hän on puhelias? Ja katso, hän tulee sinua vastaan, ja koska hän näkee sinun, niin hän iloitsee sydämestänsä. ",
       "king_james": "And the anger of the Lord was kindled against Moses, and he said, Is not Aaron the Levite thy brother? I know that he can speak well. And also, behold, he cometh forth to meet thee: and when he seeth thee, he will be glad in his heart."
     },
     {
       "verse": 15,
       "latin_vulgate": "Loquere ad eum, et pone verba mea in ore ejus : et ego ero in ore tuo, et in ore illius, et ostendam vobis quid agere debeatis. ",
       "hebrew_masoretic": "וְדִבַּרְתָּ֣ אֵלָ֔יו וְשַׂמְתָּ֥ אֶת־הַדְּבָרִ֖ים בְּפִ֑יו וְאָנֹכִ֗י אֶֽהְיֶ֤ה עִם־פִּ֙יךָ֙ וְעִם־פִּ֔יהוּ וְהוֹרֵיתִ֣י אֶתְכֶ֔ם אֵ֖ת אֲשֶׁ֥ר תַּעֲשֽׂוּן׃",
+      "douay_rheims": "Speak to him, and put my words in his mouth: and I will be in thy mouth, and in his month, and will shew you what you must do.",
+      "finnish_biblia": "Sinun pitää puhuman hänelle, ja paneman sanat hänen suuhunsa; ja minä olen sinun ja hänen suunsa kanssa, ja opetan teitä, mitä teidän pitää tekemän. ",
       "king_james": "And thou shalt speak unto him, and put words in his mouth: and I will be with thy mouth, and with his mouth, and will teach you what ye shall do."
     },
     {
       "verse": 16,
       "latin_vulgate": "Ipse loquetur pro te ad populum, et erit os tuum : tu autem eris ei in his quæ ad Deum pertinent. ",
       "hebrew_masoretic": "וְדִבֶּר־ה֥וּא לְךָ֖ אֶל־הָעָ֑ם וְהָ֤יָה הוּא֙ יִֽהְיֶה־לְּךָ֣ לְפֶ֔ה וְאַתָּ֖ה תִּֽהְיֶה־לּ֥וֹ לֵֽאלֹהִֽים׃",
+      "douay_rheims": "He shall speak in thy stead to the people, and shall be thy mouth: but thou shalt be to him in those things that pertain to God.",
+      "finnish_biblia": "Ja hänen pitää puhuman sinun puolestas kansalle. Hänen pitää oleman sinun suunas, ja sinun pitää oleman hänelle Jumalana. ",
       "king_james": "And he shall be thy spokesman unto the people: and he shall be, even he shall be to thee instead of a mouth, and thou shalt be to him instead of God."
     },
     {
       "verse": 17,
       "latin_vulgate": "Virgam quoque hanc sume in manu tua, in qua facturus es signa. ",
       "hebrew_masoretic": "וְאֶת־הַמַּטֶּ֥ה הַזֶּ֖ה תִּקַּ֣ח בְּיָדֶ֑ךָ אֲשֶׁ֥ר תַּעֲשֶׂה־בּ֖וֹ אֶת־הָאֹתֹֽת׃ {פ}",
+      "douay_rheims": "And take this rod in thy hand. wherewith thou shalt do the signs.",
+      "finnish_biblia": "Ja ota tämä sauva kätees, jolla sinun pitää tekemän ihmeitä. ",
       "king_james": "And thou shalt take this rod in thine hand, wherewith thou shalt do signs."
     },
     {
       "verse": 18,
       "latin_vulgate": "Abiit Moyses, et reversus est ad Jethro socerum suum, dixitque ei : Vadam et revertar ad fratres meos in Ægyptum, ut videam si adhuc vivant. Cui ait Jethro : Vade in pace.  ",
       "hebrew_masoretic": "וַיֵּ֨לֶךְ מֹשֶׁ֜ה וַיָּ֣שׇׁב ׀ אֶל־יֶ֣תֶר חֹֽתְנ֗וֹ וַיֹּ֤אמֶר לוֹ֙ אֵ֣לְכָה נָּ֗א וְאָשׁ֙וּבָה֙ אֶל־אַחַ֣י אֲשֶׁר־בְּמִצְרַ֔יִם וְאֶרְאֶ֖ה הַעוֹדָ֣ם חַיִּ֑ים וַיֹּ֧אמֶר יִתְר֛וֹ לְמֹשֶׁ֖ה לֵ֥ךְ לְשָׁלֽוֹם׃",
+      "douay_rheims": "Moses went his way, and returned to Jethro his father in law, and said to him; I will go and return to my brethren into Egypt, that I may see if they be yet alive. And Jethro said to him: Go in peace.",
+      "finnish_biblia": "Niin Moses läksi sieltä, ja tuli jällensä appensa Jetron tykö, ja sanoi hänelle: annas minun mennä, että minä palajaisin veljeini tykö, jotka ovat Egyptissä, ja näkisin heitä, jos he vielä elävät. Ja Jetro sanoi Mosekselle: mene rauhassa. ",
       "king_james": "And Moses went and returned to Jethro his father in law, and said unto him, Let me go, I pray thee, and return unto my brethren which are in Egypt, and see whether they be yet alive. And Jethro said to Moses, Go in peace."
     },
     {
       "verse": 19,
       "latin_vulgate": " Dixit ergo Dominus ad Moysen in Madian : Vade, et revertere in Ægyptum, mortui sunt enim omnes qui quærebant animam tuam. ",
       "hebrew_masoretic": "וַיֹּ֨אמֶר יְהֹוָ֤ה אֶל־מֹשֶׁה֙ בְּמִדְיָ֔ן לֵ֖ךְ שֻׁ֣ב מִצְרָ֑יִם כִּי־מֵ֙תוּ֙ כׇּל־הָ֣אֲנָשִׁ֔ים הַֽמְבַקְשִׁ֖ים אֶת־נַפְשֶֽׁךָ׃",
+      "douay_rheims": "And the Lord said to Moses, in Madian: Go, and return into Egypt; for they are all dead that sought thy life.",
+      "finnish_biblia": "Ja Herra sanoi Mosekselle Midianissa: mene ja palaja Egyptiin; sillä ne kaikki ovat kuolleet, jotka sinun henkes perään seisoivat. ",
       "king_james": "And the Lord said unto Moses in Midian, Go, return into Egypt: for all the men are dead which sought thy life."
     },
     {
       "verse": 20,
       "latin_vulgate": "Tulit ergo Moyses uxorem suam, et filios suos, et imposuit eos super asinum : reversusque est in Ægyptum, portans virgam Dei in manu sua. ",
       "hebrew_masoretic": "וַיִּקַּ֨ח מֹשֶׁ֜ה אֶת־אִשְׁתּ֣וֹ וְאֶת־בָּנָ֗יו וַיַּרְכִּבֵם֙ עַֽל־הַחֲמֹ֔ר וַיָּ֖שׇׁב אַ֣רְצָה מִצְרָ֑יִם וַיִּקַּ֥ח מֹשֶׁ֛ה אֶת־מַטֵּ֥ה הָאֱלֹהִ֖ים בְּיָדֽוֹ׃",
+      "douay_rheims": "Moses therefore took his wife, and his sons, and set them upon an ass; and returned into Egypt, carrying the rod of God in his hand.",
+      "finnish_biblia": "Ja Moses otti emäntänsä ja poikansa, ja pani ne aasin päälle, ja palasi Egyptiin; ja otti Jumalan sauvan käteensä. ",
       "king_james": "And Moses took his wife and his sons, and set them upon an ass, and he returned to the land of Egypt: and Moses took the rod of God in his hand."
     },
     {
       "verse": 21,
       "latin_vulgate": "Dixitque ei Dominus revertenti in Ægyptum : Vide ut omnia ostenta quæ posui in manu tua, facias coram Pharaone : ego indurabo cor ejus, et non dimittet populum. ",
       "hebrew_masoretic": "וַיֹּ֣אמֶר יְהֹוָה֮ אֶל־מֹשֶׁה֒ בְּלֶכְתְּךָ֙ לָשׁ֣וּב מִצְרַ֔יְמָה רְאֵ֗ה כׇּל־הַמֹּֽפְתִים֙ אֲשֶׁר־שַׂ֣מְתִּי בְיָדֶ֔ךָ וַעֲשִׂיתָ֖ם לִפְנֵ֣י פַרְעֹ֑ה וַאֲנִי֙ אֲחַזֵּ֣ק אֶת־לִבּ֔וֹ וְלֹ֥א יְשַׁלַּ֖ח אֶת־הָעָֽם׃",
+      "douay_rheims": "And the Lord said to him as he was returning into Egypt: See that thou do all the wonders before Pharao, which I have put in thy hand: I shall harden his heart, and he will not let the people go.",
+      "finnish_biblia": "Ja Herra sanoi Mosekselle: katso, koskas tulet Egyptiin jällensä, ettäs teet kaikki ne ihmeet Pharaon edessä, jotka minä olen antanut sinun kätees. Ja minä paadutan hänen sydämensä, ja ei hän päästä kansaa. ",
       "king_james": "And the Lord said unto Moses, When thou goest to return into Egypt, see that thou do all those wonders before Pharaoh, which I have put in thine hand: but I will harden his heart, that he shall not let the people go."
     },
     {
       "verse": 22,
       "latin_vulgate": "Dicesque ad eum : Hæc dicit Dominus : Filius meus primogenitus Israël. ",
       "hebrew_masoretic": "וְאָמַרְתָּ֖ אֶל־פַּרְעֹ֑ה כֹּ֚ה אָמַ֣ר יְהֹוָ֔ה בְּנִ֥י בְכֹרִ֖י יִשְׂרָאֵֽל׃",
+      "douay_rheims": "And thou shalt say to him: Thus saith the Lord: Israel is my son, my firstborn.",
+      "finnish_biblia": "Ja sinun pitää sanoman Pharaolle: näin sanoo Herra: Israel on minun poikani, minun esikoiseni. ",
       "king_james": "And thou shalt say unto Pharaoh, Thus saith the Lord, Israel is my son, even my firstborn:"
     },
     {
       "verse": 23,
       "latin_vulgate": "Dixi tibi : Dimitte filium meum ut serviat mihi ; et noluisti dimittere eum : ecce ego interficiam filium tuum primogenitum. ",
       "hebrew_masoretic": "וָאֹמַ֣ר אֵלֶ֗יךָ שַׁלַּ֤ח אֶת־בְּנִי֙ וְיַֽעַבְדֵ֔נִי וַתְּמָאֵ֖ן לְשַׁלְּח֑וֹ הִנֵּה֙ אָנֹכִ֣י הֹרֵ֔ג אֶת־בִּנְךָ֖ בְּכֹרֶֽךָ׃",
+      "douay_rheims": "I have said to thee: Let my son go, that he may serve me, and thou wouldst not let him go: behold I will kill thy son, thy firstborn.",
+      "finnish_biblia": "Ja minä käsken sinulle: päästä minun poikani palvelemaan minua, ja jos et sinä tahdo häntä päästää, katso, minä tapan sinun poikas, sinun esikoises. ",
       "king_james": "And I say unto thee, Let my son go, that he may serve me: and if thou refuse to let him go, behold, I will slay thy son, even thy firstborn."
     },
     {
       "verse": 24,
       "latin_vulgate": "Cumque esset in itinere, in diversorio occurrit ei Dominus, et volebat occidere eum. ",
       "hebrew_masoretic": "וַיְהִ֥י בַדֶּ֖רֶךְ בַּמָּל֑וֹן וַיִּפְגְּשֵׁ֣הוּ יְהֹוָ֔ה וַיְבַקֵּ֖שׁ הֲמִיתֽוֹ׃",
+      "douay_rheims": "And when he was in his journey, in the inn, the Lord met him, and would have killed him.",
+      "finnish_biblia": "Ja koska hän oli tiellä majassa, tuli Herra häntä vastaan, ja tahtoi hänen tappaa. ",
       "king_james": "And it came to pass by the way in the inn, that the Lord met him, and sought to kill him."
     },
     {
       "verse": 25,
       "latin_vulgate": "Tulit idcirco Sephora acutissimam petram, et circumcidit præputium filii sui, tetigitque pedes ejus, et ait : Sponsus sanguinum tu mihi es. ",
       "hebrew_masoretic": "וַתִּקַּ֨ח צִפֹּרָ֜ה צֹ֗ר וַתִּכְרֹת֙ אֶת־עׇרְלַ֣ת בְּנָ֔הּ וַתַּגַּ֖ע לְרַגְלָ֑יו וַתֹּ֕אמֶר כִּ֧י חֲתַן־דָּמִ֛ים אַתָּ֖ה לִֽי׃",
+      "douay_rheims": "Immediately Sephora took a very sharp stone, and circumcised the foreskin of her son, and touched his feet, and said: A bloody spouse art thou to me.",
+      "finnish_biblia": "Niin Zippora otti kiven, ja ympärileikkasi poikansa esinahan, ja rupesi hänen jalkoihinsa, ja sanoi: sinä olet minulle veriylkä. ",
       "king_james": "Then Zipporah took a sharp stone, and cut off the foreskin of her son, and cast it at his feet, and said, Surely a bloody husband art thou to me."
     },
     {
       "verse": 26,
       "latin_vulgate": "Et dimisit eum postquam dixerat : Sponsus sanguinum ob circumcisionem. ",
       "hebrew_masoretic": "וַיִּ֖רֶף מִמֶּ֑נּוּ אָ֚ז אָֽמְרָ֔ה חֲתַ֥ן דָּמִ֖ים לַמּוּלֹֽת׃ {פ}",
+      "douay_rheims": "And he let him go after she had said: A bloody spouse art thou to me, because of the circumcision.",
+      "finnish_biblia": "Niin hän luopui hänestä. Mutta sanoi: veriylkä ympärileikkauksen tähden. ",
       "king_james": "So he let him go: then she said, A bloody husband thou art, because of the circumcision."
     },
     {
       "verse": 27,
       "latin_vulgate": "Dixit autem Dominus ad Aaron : Vade in occursum Moysi in desertum. Qui perrexit obviam ei in montem Dei, et osculatus est eum. ",
       "hebrew_masoretic": "וַיֹּ֤אמֶר יְהֹוָה֙ אֶֽל־אַהֲרֹ֔ן לֵ֛ךְ לִקְרַ֥את מֹשֶׁ֖ה הַמִּדְבָּ֑רָה וַיֵּ֗לֶךְ וַֽיִּפְגְּשֵׁ֛הוּ בְּהַ֥ר הָאֱלֹהִ֖ים וַיִּשַּׁק־לֽוֹ׃",
+      "douay_rheims": "And the Lord said to Aaron: Go into the desert to meet Moses. And he went forth to meet him in the mountain of God, and kissed him.",
+      "finnish_biblia": "Ja Herra sanoi Aaronille: mene Mosesta vastaan korpeen. Ja hän meni, ja tuli häntä vastaan Jumalan vuorella, ja antoi hänen suuta. ",
       "king_james": "And the Lord said to Aaron, Go into the wilderness to meet Moses. And he went, and met him in the mount of God, and kissed him."
     },
     {
       "verse": 28,
       "latin_vulgate": "Narravitque Moyses Aaron omnia verba Domini quibus miserat eum, et signa quæ mandaverat. ",
       "hebrew_masoretic": "וַיַּגֵּ֤ד מֹשֶׁה֙ לְאַֽהֲרֹ֔ן אֵ֛ת כׇּל־דִּבְרֵ֥י יְהֹוָ֖ה אֲשֶׁ֣ר שְׁלָח֑וֹ וְאֵ֥ת כׇּל־הָאֹתֹ֖ת אֲשֶׁ֥ר צִוָּֽהוּ׃",
+      "douay_rheims": "And Moses told Aaron all the words of the Lord, by which he had sent him, and the signs that he had commanded.",
+      "finnish_biblia": "Ja Moses ilmoitti Aaronille kaikki Herran sanat, jotka hänen lähetti, ja kaikki ihmeet, jotka hän hänet käskenyt oli. ",
       "king_james": "And Moses told Aaron all the words of the Lord who had sent him, and all the signs which he had commanded him."
     },
     {
       "verse": 29,
       "latin_vulgate": "Veneruntque simul, et congregaverunt cunctos seniores filiorum Israël. ",
       "hebrew_masoretic": "וַיֵּ֥לֶךְ מֹשֶׁ֖ה וְאַהֲרֹ֑ן וַיַּ֣אַסְפ֔וּ אֶת־כׇּל־זִקְנֵ֖י בְּנֵ֥י יִשְׂרָאֵֽל׃",
+      "douay_rheims": "And they came together, and they assembled all the ancients of the children of Israel.",
+      "finnish_biblia": "Niin meni Moses ja Aaron, ja kokosivat kaikki Israelin lasten vanhimmat. ",
       "king_james": "And Moses and Aaron went and gathered together all the elders of the children of Israel:"
     },
     {
       "verse": 30,
       "latin_vulgate": "Locutusque est Aaron omnia verba quæ dixerat Dominus ad Moysen : et fecit signa coram populo, ",
       "hebrew_masoretic": "וַיְדַבֵּ֣ר אַהֲרֹ֔ן אֵ֚ת כׇּל־הַדְּבָרִ֔ים אֲשֶׁר־דִּבֶּ֥ר יְהֹוָ֖ה אֶל־מֹשֶׁ֑ה וַיַּ֥עַשׂ הָאֹתֹ֖ת לְעֵינֵ֥י הָעָֽם׃",
+      "douay_rheims": "And Aaron spoke all the words which the Lord had said to Moses: and he wrought the signs before the people.",
+      "finnish_biblia": "Ja Aaron puhui kaikki ne sanat, jotka Herra Mosekselle puhunut oli, ja teki ihmeitä kansan edessä. ",
       "king_james": "And Aaron spake all the words which the Lord had spoken unto Moses, and did the signs in the sight of the people."
     },
     {
       "verse": 31,
       "latin_vulgate": "et credidit populus. Audieruntque quod visitasset Dominus filios Israël, et respexisset afflictionem illorum : et proni adoraverunt.   ",
       "hebrew_masoretic": "וַֽיַּאֲמֵ֖ן הָעָ֑ם וַֽיִּשְׁמְע֡וּ כִּֽי־פָקַ֨ד יְהֹוָ֜ה אֶת־בְּנֵ֣י יִשְׂרָאֵ֗ל וְכִ֤י רָאָה֙ אֶת־עׇנְיָ֔ם וַֽיִּקְּד֖וּ וַיִּֽשְׁתַּחֲוֽוּ׃",
+      "douay_rheims": "And the people believed. And they heard that the Lord had visited the children of Israel, and that he had looked upon their affliction: and falling down they adored. ",
+      "finnish_biblia": "Ja kansa uskoi. Ja kuin he kuulivat, että Herra oli etsinyt Israelin lapsia, nähnyt myös heidän ahdistuksensa, lankesivat he maahan ja rukoilivat.   ",
       "king_james": "And the people believed: and when they heard that the Lord had visited the children of Israel, and that he had looked upon their affliction, then they bowed their heads and worshipped. "
     }
   ]

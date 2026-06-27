@@ -2,6 +2,8 @@
   "book_id": "JER",
   "latin_name": "Ieremias",
   "hebrew_name": "יִרְמְיָהוּ",
+  "douay_name": "Jeremias",
+  "finnish_name": "Jeremia",
   "english_name": "Jeremiah",
   "chapter": 16,
   "verses": [
@@ -9,126 +11,168 @@
       "verse": 1,
       "latin_vulgate": "Et factum est verbum Domini ad me, dicens :  ",
       "hebrew_masoretic": "וַיְהִ֥י דְבַר־יְהֹוָ֖ה אֵלַ֥י לֵאמֹֽר׃",
+      "douay_rheims": "And the word of the Lord came to me, saying:",
+      "finnish_biblia": "Ja Herran sana tapahtui minulle ja sanoi: ",
       "king_james": "The word of the Lord came also unto me, saying,"
     },
     {
       "verse": 2,
       "latin_vulgate": "  Non accipies uxorem,  et non erunt tibi filii et filiæ in loco isto. ",
       "hebrew_masoretic": "לֹא־תִקַּ֥ח לְךָ֖ אִשָּׁ֑ה וְלֹֽא־יִהְי֤וּ לְךָ֙ בָּנִ֣ים וּבָנ֔וֹת בַּמָּק֖וֹם הַזֶּֽה׃ {ס}",
+      "douay_rheims": "Thou shalt not take thee a wife, neither shalt thou have sons and daughters in this place.",
+      "finnish_biblia": "Ei sinun pidä ottaman itselles vaimoa, eikä siittämän poikia eli tyttäriä tässä paikassa. ",
       "king_james": "Thou shalt not take thee a wife, neither shalt thou have sons or daughters in this place."
     },
     {
       "verse": 3,
       "latin_vulgate": " Quia hæc dicit Dominus  super filios et filias qui generantur in loco isto,  et super matres eorum, quæ genuerunt eos,  et super patres eorum, de quorum stirpe sunt nati in terra hac : ",
       "hebrew_masoretic": "כִּי־כֹ֣ה ׀ אָמַ֣ר יְהֹוָ֗ה עַל־הַבָּנִים֙ וְעַל־הַבָּנ֔וֹת הַיִּלּוֹדִ֖ים בַּמָּק֣וֹם הַזֶּ֑ה וְעַֽל־אִמֹּתָ֞ם הַיֹּלְד֣וֹת אוֹתָ֗ם וְעַל־אֲבוֹתָ֛ם הַמּוֹלִדִ֥ים אוֹתָ֖ם בָּאָ֥רֶץ הַזֹּֽאת׃",
+      "douay_rheims": "For thus saith the Lord concerning the sons and daughters, that are born in this place, and concerning their mothers that bore them: and concerning their fathers, of whom they were born in this land:",
+      "finnish_biblia": "Sillä näin sanoo Herra niistä pojista ja tyttäristä, jotka tässä paikassa syntyvät, ja äideistä, jotka heitä synnyttävät, ja heidän isistänsä, jotka heitä tässä maassa siittävät: ",
       "king_james": "For thus saith the Lord concerning the sons and concerning the daughters that are born in this place, and concerning their mothers that bare them, and concerning their fathers that begat them in this land;"
     },
     {
       "verse": 4,
       "latin_vulgate": " Mortibus ægrotationum morientur :  non plangentur, et non sepelientur :  in sterquilinium super faciem terræ erunt,  et gladio et fame consumentur :  et erit cadaver eorum in escam volatilibus cæli et bestiis terræ. ",
       "hebrew_masoretic": "מְמוֹתֵ֨י תַחֲלֻאִ֜ים יָמֻ֗תוּ לֹ֤א יִסָּֽפְדוּ֙ וְלֹ֣א יִקָּבֵ֔רוּ לְדֹ֛מֶן עַל־פְּנֵ֥י הָאֲדָמָ֖ה יִהְי֑וּ וּבַחֶ֤רֶב וּבָֽרָעָב֙ יִכְל֔וּ וְהָיְתָ֤ה נִבְלָתָם֙ לְמַאֲכָ֔ל לְע֥וֹף הַשָּׁמַ֖יִם וּלְבֶהֱמַ֥ת הָאָֽרֶץ׃ {ס}",
+      "douay_rheims": "They shall die by the death of grievous illnesses: they shall not be lamented, and they shall not be buried, they shall be as dung upon the face of the earth: and they shall be consumed with the sword, and with famine: and their carcasses shall be meat for the fowls of the air, and for the beasts of the earth.",
+      "finnish_biblia": "Heidän pitää kuoleman sairaudessansa, ja ei heitä pidä itkettämän eli haudattaman, vaan heidän pitää loaksi kedolle tuleman; ja heidän pitää vielä sitte miekalla ja nälällä hukkuman, ja heidän ruumiinsa pitää linnuille taivaan alla ja eläimille maassa ruaksi tuleman. ",
       "king_james": "They shall die of grievous deaths; they shall not be lamented; neither shall they be buried; but they shall be as dung upon the face of the earth: and they shall be consumed by the sword, and by famine; and their carcases shall be meat for the fowls of heaven, and for the beasts of the earth."
     },
     {
       "verse": 5,
       "latin_vulgate": " Hæc enim dicit Dominus :  Ne ingrediaris domum convivii,  neque vadas ad plangendum,  neque consoleris eos,  quia abstuli pacem meam a populo isto, dicit Dominus,  misericordiam et miserationes. ",
       "hebrew_masoretic": "כִּי־כֹ֣ה ׀ אָמַ֣ר יְהֹוָ֗ה אַל־תָּבוֹא֙ בֵּ֣ית מַרְזֵ֔חַ וְאַל־תֵּלֵ֣ךְ לִסְפּ֔וֹד וְאַל־תָּנֹ֖ד לָהֶ֑ם כִּֽי־אָסַ֨פְתִּי אֶת־שְׁלוֹמִ֜י מֵאֵ֨ת הָעָ֤ם הַזֶּה֙ נְאֻם־יְהֹוָ֔ה אֶת־הַחֶ֖סֶד וְאֶת־הָרַחֲמִֽים׃",
+      "douay_rheims": "For thus saith the Lord: Enter not into the house of feasting, neither go thou to mourn, nor to comfort them: because I have taken away my peace from this people, saith the Lord, my mercy and commiserations.",
+      "finnish_biblia": "Sillä näin sanoo Herra: ei sinun pidä menemän murhehuoneesen, eikä menemän itkemään eli surkuttelemaan heitä; sillä minä olen ottanut pois minun rauhani tältä kansalta, sanoo Herra, ja minun armoni ja laupiuteni; ",
       "king_james": "For thus saith the Lord, Enter not into the house of mourning, neither go to lament nor bemoan them: for I have taken away my peace from this people, saith the Lord, even lovingkindness and mercies."
     },
     {
       "verse": 6,
       "latin_vulgate": " Et morientur grandes et parvi in terra ista :  non sepelientur, neque plangentur,  et non se incident,  neque calvitium fiet pro eis. ",
       "hebrew_masoretic": "וּמֵ֨תוּ גְדֹלִ֧ים וּקְטַנִּ֛ים בָּאָ֥רֶץ הַזֹּ֖את לֹ֣א יִקָּבֵ֑רוּ וְלֹא־יִסְפְּד֣וּ לָהֶ֔ם וְלֹ֣א יִתְגֹּדַ֔ד וְלֹ֥א יִקָּרֵ֖חַ לָהֶֽם׃",
+      "douay_rheims": "Both the great and the little shall die in this land: they shall not be buried nor lamented, and men shall not cut themselves, nor make themselves bald for them.",
+      "finnish_biblia": "Että sekä suuret että pienet pitää tässä maassa kuoleman, ja ei haudatuksi tuleman, ja ei yhdenkään pidä itkemän eli repimän itsiänsä, eikä ajeleman hiuksiansa heidän tähtensä. ",
       "king_james": "Both the great and the small shall die in this land: they shall not be buried, neither shall men lament for them, nor cut themselves, nor make themselves bald for them:"
     },
     {
       "verse": 7,
       "latin_vulgate": " Et non frangent inter eos lugenti panem  ad consolandum super mortuo,  et non dabunt eis potum calicis  ad consolandum super patre suo et matre. ",
       "hebrew_masoretic": "וְלֹא־יִפְרְס֥וּ לָהֶ֛ם עַל־אֵ֖בֶל לְנַחֲמ֣וֹ עַל־מֵ֑ת וְלֹֽא־יַשְׁק֤וּ אוֹתָם֙ כּ֣וֹס תַּנְחוּמִ֔ים עַל־אָבִ֖יו וְעַל־אִמּֽוֹ׃",
+      "douay_rheims": "And they shall not break bread among them to him that mourneth, to comfort him for the dead: neither shall they give them for their father and mother.",
+      "finnish_biblia": "Ja ei myös pidä (leipää) jaettaman murheessa, että heitä lohdutettaisiin kuolleen tähden, eikä pidä annettaman juoda lohdutusmaljasta isänsä tähden ja äitinsä tähden. ",
       "king_james": "Neither shall men tear themselves for them in mourning, to comfort them for the dead; neither shall men give them the cup of consolation to drink for their father or for their mother."
     },
     {
       "verse": 8,
       "latin_vulgate": " Et domum convivii non ingrediaris,  ut sedeas cum eis, et comedas, et bibas. ",
       "hebrew_masoretic": "וּבֵית־מִשְׁתֶּ֥ה לֹֽא־תָב֖וֹא לָשֶׁ֣בֶת אוֹתָ֑ם לֶאֱכֹ֖ל וְלִשְׁתּֽוֹת׃ {פ}",
+      "douay_rheims": "And do not thou go into the house of feasting, to sit with them, and to eat and drink:",
+      "finnish_biblia": "Ja ei pidä sinun menemän pitohuoneesen, istumaan heidän viereensä, syömään ja juomaan. ",
       "king_james": "Thou shalt not also go into the house of feasting, to sit with them to eat and to drink."
     },
     {
       "verse": 9,
       "latin_vulgate": " Quia hæc dicit Dominus exercituum, Deus Israël :  Ecce ego auferam de loco isto,  in oculis vestris, et in diebus vestris,  vocem gaudii et vocem lætitiæ,  vocem sponsi et vocem sponsæ. ",
       "hebrew_masoretic": "כִּי֩ כֹ֨ה אָמַ֜ר יְהֹוָ֤ה צְבָאוֹת֙ אֱלֹהֵ֣י יִשְׂרָאֵ֔ל הִנְנִ֨י מַשְׁבִּ֜ית מִן־הַמָּק֥וֹם הַזֶּ֛ה לְעֵינֵיכֶ֖ם וּבִימֵיכֶ֑ם ק֤וֹל שָׂשׂוֹן֙ וְק֣וֹל שִׂמְחָ֔ה ק֥וֹל חָתָ֖ן וְק֥וֹל כַּלָּֽה׃",
+      "douay_rheims": "For thus saith the Lord of hosts, the God of Israel: Behold I will take away out of this place in your sight, and in your days the voice of mirth, and the voice of gladness, the voice of the bridegroom, and the voice of the bride.",
+      "finnish_biblia": "Sillä näin sanoo Herra Zebaot, Israelin Jumala: katso, minä tahdon ottaa pois tästä siasta, teidän silmäinne edestä ja teidän eläissänne, ilon ja riemun äänen, yljän äänen ja morsiamen äänen. ",
       "king_james": "For thus saith the Lord of hosts, the God of Israel; Behold, I will cause to cease out of this place in your eyes, and in your days, the voice of mirth, and the voice of gladness, the voice of the bridegroom, and the voice of the bride."
     },
     {
       "verse": 10,
       "latin_vulgate": " Et cum annuntiaveris populo huic omnia verba hæc,  et dixerint tibi :  Quare locutus est Dominus super nos omne malum grande istud ?  quæ iniquitas nostra,  et quod peccatum nostrum,  quod peccavimus Domino Deo nostro ? ",
       "hebrew_masoretic": "וְהָיָ֗ה כִּ֤י תַגִּיד֙ לָעָ֣ם הַזֶּ֔ה אֵ֥ת כׇּל־הַדְּבָרִ֖ים הָאֵ֑לֶּה וְאָמְר֣וּ אֵלֶ֗יךָ עַל־מֶה֩ דִבֶּ֨ר יְהֹוָ֤ה עָלֵ֙ינוּ֙ אֵ֣ת כׇּל־הָרָעָ֤ה הַגְּדוֹלָה֙ הַזֹּ֔את וּמֶ֤ה עֲוֺנֵ֙נוּ֙ וּמֶ֣ה חַטָּאתֵ֔נוּ אֲשֶׁ֥ר חָטָ֖אנוּ לַיהֹוָ֥ה אֱלֹהֵֽינוּ׃",
+      "douay_rheims": "And when thou shalt tell this people all these words, and they shall say to thee: Wherefore hath the Lord pronounced against us all this great evil? what is our iniquity? and what is our sin, that we have sinned against the Lord our God?",
+      "finnish_biblia": "Ja kuin sinä nämät kaikki tälle kansalle sanonut olet, ja he sanovat sinulle: miksi Herra uhkaa meille kaikkea tätä suurta onnettomuutta? ja mikä on meidän pahatekomme ja syntimme, jolla me olemme rikkoneet Herraa, meidän Jumalaamme, vastaan? ",
       "king_james": "And it shall come to pass, when thou shalt shew this people all these words, and they shall say unto thee, Wherefore hath the Lord pronounced all this great evil against us? or what is our iniquity? or what is our sin that we have committed against the Lord our God?"
     },
     {
       "verse": 11,
       "latin_vulgate": " dices ad eos :  Quia dereliquerunt me patres vestri, ait Dominus,  et abierunt post deos alienos,  et servierunt eis, et adoraverunt eos,  et me dereliquerunt, et legem meam non custodierunt. ",
       "hebrew_masoretic": "וְאָמַרְתָּ֣ אֲלֵיהֶ֗ם עַל֩ אֲשֶׁר־עָזְב֨וּ אֲבוֹתֵיכֶ֤ם אוֹתִי֙ נְאֻם־יְהֹוָ֔ה וַיֵּלְכ֗וּ אַֽחֲרֵי֙ אֱלֹהִ֣ים אֲחֵרִ֔ים וַיַּעַבְד֖וּם וַיִּשְׁתַּחֲו֣וּ לָהֶ֑ם וְאֹתִ֣י עָזָ֔בוּ וְאֶת־תּוֹרָתִ֖י לֹ֥א שָׁמָֽרוּ׃",
+      "douay_rheims": "Thou shalt say to them: Because your fathers forsook me, saith the Lord: and went after strange gods, and served them, and adored them: and they forsook me, and kept not my law.",
+      "finnish_biblia": "Niin sinun pitää sanoman heille: että teidän isänne, sanoo Herra, ovat hyljänneet minun, ja seuranneet muita jumalia, palvelleet niitä ja kumartaneet niitä; mutta minun ovat he hyljänneet, ja ei pitäneet minun lakiani. ",
       "king_james": "Then shalt thou say unto them, Because your fathers have forsaken me, saith the Lord, and have walked after other gods, and have served them, and have worshipped them, and have forsaken me, and have not kept my law;"
     },
     {
       "verse": 12,
       "latin_vulgate": " Sed et vos pejus operati estis quam patres vestri :  ecce enim ambulat unusquisque post pravitatem cordis sui mali,  ut me non audiat. ",
       "hebrew_masoretic": "וְאַתֶּ֛ם הֲרֵעֹתֶ֥ם לַעֲשׂ֖וֹת מֵאֲבֽוֹתֵיכֶ֑ם וְהִנְּכֶ֣ם הֹלְכִ֗ים אִ֚ישׁ אַֽחֲרֵי֙ שְׁרִר֣וּת לִבּֽוֹ־הָרָ֔ע לְבִלְתִּ֖י שְׁמֹ֥עַ אֵלָֽי׃",
+      "douay_rheims": "And you also have done worse than your fathers: for behold every one of you walketh after the perverseness of his evil heart, so as not to hearken to me.",
+      "finnish_biblia": "Ja te teette vielä pahemmin kuin teidän isänne; sillä katso, kukin elää oman pahan sydämensä sisun jälkeen, eikä yksikään tottele minua. ",
       "king_james": "And ye have done worse than your fathers; for, behold, ye walk every one after the imagination of his evil heart, that they may not hearken unto me:"
     },
     {
       "verse": 13,
       "latin_vulgate": " Et ejiciam vos de terra hac  in terram quam ignoratis,  vos et patres vestri :  et servietis ibi diis alienis, die ac nocte,  qui non dabunt vobis requiem. ",
       "hebrew_masoretic": "וְהֵטַלְתִּ֣י אֶתְכֶ֗ם מֵעַל֙ הָאָ֣רֶץ הַזֹּ֔את עַל־הָאָ֕רֶץ אֲשֶׁר֙ לֹ֣א יְדַעְתֶּ֔ם אַתֶּ֖ם וַאֲבוֹתֵיכֶ֑ם וַעֲבַדְתֶּם־שָׁ֞ם אֶת־אֱלֹהִ֤ים אֲחֵרִים֙ יוֹמָ֣ם וָלַ֔יְלָה אֲשֶׁ֛ר לֹא־אֶתֵּ֥ן לָכֶ֖ם חֲנִינָֽה׃ {פ}",
+      "douay_rheims": "So I will cast you forth out of this land, into a land which you know not, nor your fathers: and there you shall serve strange gods day and night, which shall not give you any rest.",
+      "finnish_biblia": "Sentähden minä tahdon ajaa teidät pois tästä maasta siihen maahan, josta ette te eikä teidän isänne mitään tiedä, siellä saatte te palvella muita jumalia yli päivää ja yötä, ja en minä tahdo siellä armoa näyttää teille. ",
       "king_james": "Therefore will I cast you out of this land into a land that ye know not, neither ye nor your fathers; and there shall ye serve other gods day and night; where I will not shew you favour."
     },
     {
       "verse": 14,
       "latin_vulgate": " Propterea ecce dies veniunt, dicit Dominus,  et non dicetur ultra :  Vivit Dominus qui eduxit filios Israël de terra Ægypti, ",
       "hebrew_masoretic": "לָכֵ֛ן הִנֵּה־יָמִ֥ים בָּאִ֖ים נְאֻם־יְהֹוָ֑ה וְלֹא־יֵאָמֵ֥ר עוֹד֙ חַי־יְהֹוָ֔ה אֲשֶׁ֧ר הֶעֱלָ֛ה אֶת־בְּנֵ֥י יִשְׂרָאֵ֖ל מֵאֶ֥רֶץ מִצְרָֽיִם׃",
+      "douay_rheims": "Therefore behold the days come, saith the Lord, when it shall be said no more: The Lord liveth, that brought forth the children of Israel out of the land of Egypt.",
+      "finnish_biblia": "Sentähden katso, se aika tulee, sanoo Herra, ettei sitte pidä enään sanottaman: niin totta kuin Herra elää, joka Israelin lapset Egyptin maalta on johdattanut, ",
       "king_james": "Therefore, behold, the days come, saith the Lord, that it shall no more be said, The Lord liveth, that brought up the children of Israel out of the land of Egypt;"
     },
     {
       "verse": 15,
       "latin_vulgate": " sed : Vivit Dominus qui eduxit filios Israël de terra aquilonis,  et de universis terris ad quas ejeci eos :  et reducam eos in terram suam,  quam dedi patribus eorum. ",
       "hebrew_masoretic": "כִּ֣י אִם־חַי־יְהֹוָ֗ה אֲשֶׁ֨ר הֶעֱלָ֜ה אֶת־בְּנֵ֤י יִשְׂרָאֵל֙ מֵאֶ֣רֶץ צָפ֔וֹן וּמִכֹּל֙ הָאֲרָצ֔וֹת אֲשֶׁ֥ר הִדִּיחָ֖ם שָׁ֑מָּה וַהֲשִֽׁבֹתִים֙ עַל־אַדְמָתָ֔ם אֲשֶׁ֥ר נָתַ֖תִּי לַאֲבוֹתָֽם׃ {פ}",
+      "douay_rheims": "But, The Lord liveth, that brought the children of Israel out of the land of the north, and out of all the lands to which I cast them out: and I will bring them again into their land, which I gave to their fathers.",
+      "finnish_biblia": "Vaan, niin totta kuin Herra elää, joka Israelin lapset on johdattanut pohjan maasta ja kaikista maista, joihin hän heitä ajanut oli; sillä minä tahdon antaa heidän tulla jälleen heidän maahansa, jonka minä heidän isillensä antanut olen. ",
       "king_james": "But, The Lord liveth, that brought up the children of Israel from the land of the north, and from all the lands whither he had driven them: and I will bring them again into their land that I gave unto their fathers."
     },
     {
       "verse": 16,
       "latin_vulgate": " Ecce ego mittam piscatores multos, dicit Dominus,  et piscabuntur eos :  et post hæc mittam eis multos venatores,  et venabuntur eos de omni monte,  et de omni colle, et de cavernis petrarum. ",
       "hebrew_masoretic": "הִנְנִ֨י שֹׁלֵ֜חַ (לדוגים) [לְדַיָּגִ֥ים] רַבִּ֛ים נְאֻם־יְהֹוָ֖ה וְדִיג֑וּם וְאַחֲרֵי־כֵ֗ן אֶשְׁלַח֙ לְרַבִּ֣ים צַיָּדִ֔ים וְצָד֞וּם מֵעַ֤ל כׇּל־הַר֙ וּמֵעַ֣ל כׇּל־גִּבְעָ֔ה וּמִנְּקִיקֵ֖י הַסְּלָעִֽים׃",
+      "douay_rheims": "Behold I will send many fishers, saith the Lord, and they shall fish them: and after this I will send them many hunters, and they shall hunt them from every mountain, and from every hill and out of the holes of the rocks.",
+      "finnish_biblia": "Katso, minä lähetän monta kalamiestä, sanoo Herra, heitä onkimaan; ja sitte lähetän minä monta metsämiestä, heitä käsittämään kaikilla vuorilla, kaikilla kukkuloilla ja kaikissa kiviraunioissa. ",
       "king_james": "Behold, I will send for many fishers, saith the Lord, and they shall fish them; and after will I send for many hunters, and they shall hunt them from every mountain, and from every hill, and out of the holes of the rocks."
     },
     {
       "verse": 17,
       "latin_vulgate": " Quia oculi mei super omnes vias eorum :  non sunt absconditæ a facie mea,  et non fuit occultata iniquitas eorum ab oculis meis. ",
       "hebrew_masoretic": "כִּ֤י עֵינַי֙ עַל־כׇּל־דַּרְכֵיהֶ֔ם לֹ֥א נִסְתְּר֖וּ מִלְּפָנָ֑י וְלֹֽא־נִצְפַּ֥ן עֲוֺנָ֖ם מִנֶּ֥גֶד עֵינָֽי׃",
+      "douay_rheims": "For my eyes are upon all their ways: they are not hid from my face, and their iniquity hath not been hid from my eyes.",
+      "finnish_biblia": "Sillä minun silmäni näkee kaikki heidän tiensä, ja ei ne ole peitetyt minun edessäni; ja heidän pahatekonsa on minun silmäini edessä salaamatoin. ",
       "king_james": "For mine eyes are upon all their ways: they are not hid from my face, neither is their iniquity hid from mine eyes."
     },
     {
       "verse": 18,
       "latin_vulgate": " Et reddam primum duplices iniquitates et peccata eorum,  quia contaminaverunt terram meam in morticinis idolorum suorum,  et abominationibus suis impleverunt hæreditatem meam. ",
       "hebrew_masoretic": "וְשִׁלַּמְתִּ֣י רִאשׁוֹנָ֗ה מִשְׁנֵ֤ה עֲוֺנָם֙ וְחַטָּאתָ֔ם עַ֖ל חַלְּלָ֣ם אֶת־אַרְצִ֑י בְּנִבְלַ֤ת שִׁקּֽוּצֵיהֶם֙ וְתוֹעֲב֣וֹתֵיהֶ֔ם מָלְא֖וּ אֶת־נַחֲלָתִֽי׃ {פ}",
+      "douay_rheims": "And I will repay first their double iniquities, and their sins: because they have defiled my land with the carcasses of their idols, and they have filled my inheritance with their abominations.",
+      "finnish_biblia": "Ensisti pitää minun kaksinkertaisesti maksaman heidän pahat tekonsa ja syntinsä, että he ovat saastuttaneet minun maani kauhistustensa raadoilla, ja kauhistuksellansa täyttivät he minun perintöni. ",
       "king_james": "And first I will recompense their iniquity and their sin double; because they have defiled my land, they have filled mine inheritance with the carcases of their detestable and abominable things."
     },
     {
       "verse": 19,
       "latin_vulgate": " Domine, fortitudo mea, et robur meum,  et refugium meum in die tribulationis,  ad te gentes venient ab extremis terræ, et dicent :  Vere mendacium possederunt patres nostri,  vanitatem quæ eis non profuit. ",
       "hebrew_masoretic": "יְהֹוָ֞ה עֻזִּ֧י וּמָעֻזִּ֛י וּמְנוּסִ֖י בְּי֣וֹם צָרָ֑ה אֵלֶ֗יךָ גּוֹיִ֤ם יָבֹ֙אוּ֙ מֵֽאַפְסֵי־אָ֔רֶץ וְיֹאמְר֗וּ אַךְ־שֶׁ֙קֶר֙ נָחֲל֣וּ אֲבוֹתֵ֔ינוּ הֶ֖בֶל וְאֵֽין־בָּ֥ם מוֹעִֽיל׃",
+      "douay_rheims": "O Lord, my might, and my strength, and my refuge in the day of tribulation: to thee the Gentiles shall come from the ends of the earth, and shall say: Surely our fathers have possessed lies, a vanity which hath not profited them.",
+      "finnish_biblia": "Herra, sinä olet väkevyyteni ja voimani, ja turvani hädässä; pakanat tulevat sinun tykös maailman ääristä ja sanovat: meidän isämme ovat tosin pitäneet vääriä ja turhia jumalia, jotka ei mitään auttaa taida. ",
       "king_james": "O Lord, my strength, and my fortress, and my refuge in the day of affliction, the Gentiles shall come unto thee from the ends of the earth, and shall say, Surely our fathers have inherited lies, vanity, and things wherein there is no profit."
     },
     {
       "verse": 20,
       "latin_vulgate": " Numquid faciet sibi homo deos,  et ipsi non sunt dii ? ",
       "hebrew_masoretic": "הֲיַעֲשֶׂה־לּ֥וֹ אָדָ֖ם אֱלֹהִ֑ים וְהֵ֖מָּה לֹ֥א אֱלֹהִֽים׃",
+      "douay_rheims": "Shall a man make gods unto himself and they are no gods?",
+      "finnish_biblia": "Kuinka taitaa ihminen tehdä hänellensä jumalia, jotka ei kuitenkaan jumalia olekaan? ",
       "king_james": "Shall a man make gods unto himself, and they are no gods?"
     },
     {
       "verse": 21,
       "latin_vulgate": " Idcirco ecce ego ostendam eis per vicem hanc,  ostendam eis manum meam, et virtutem meam,  et scient quia nomen mihi Dominus.  ",
       "hebrew_masoretic": "לָכֵן֙ הִנְנִ֣י מֽוֹדִיעָ֔ם בַּפַּ֣עַם הַזֹּ֔את אוֹדִיעֵ֥ם אֶת־יָדִ֖י וְאֶת־גְּבוּרָתִ֑י וְיָדְע֖וּ כִּֽי־שְׁמִ֥י יְהֹוָֽה׃ {ס}",
+      "douay_rheims": "Therefore behold I will this once cause them to know, I will shew them my hand and my power: and they shall know that my name is the Lord. ",
+      "finnish_biblia": "Sentähden katso, minä tahdon opettaa heitä tällä haavalla, ja tehdä heille minun käteni ja valtani tiettäväksi; ja heidän pitää ymmärtämän, että minun nimeni on Herra.   ",
       "king_james": "Therefore, behold, I will this once cause them to know, I will cause them to know mine hand and my might; and they shall know that my name is The Lord. "
     }
   ]

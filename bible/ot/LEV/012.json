@@ -2,6 +2,8 @@
   "book_id": "LEV",
   "latin_name": "Leviticus",
   "hebrew_name": "וַיִּקְרָא",
+  "douay_name": "Leviticus",
+  "finnish_name": "3. Mooseksen kirja",
   "english_name": "Leviticus",
   "chapter": 12,
   "verses": [
@@ -9,48 +11,64 @@
       "verse": 1,
       "latin_vulgate": "Locutusque est Dominus ad Moysen, dicens : ",
       "hebrew_masoretic": "וַיְדַבֵּ֥ר יְהֹוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃",
+      "douay_rheims": "And the Lord spoke to Moses, saying:",
+      "finnish_biblia": "Ja Herra puhui Mosekselle, sanoen: ",
       "king_james": "And the Lord spake unto Moses, saying,"
     },
     {
       "verse": 2,
       "latin_vulgate": "Loquere filiis Israël, et dices ad eos : Mulier, si suscepto semine pepererit masculum, immunda erit septem diebus juxta dies separationis menstruæ. ",
       "hebrew_masoretic": "דַּבֵּ֞ר אֶל־בְּנֵ֤י יִשְׂרָאֵל֙ לֵאמֹ֔ר אִשָּׁה֙ כִּ֣י תַזְרִ֔יעַ וְיָלְדָ֖ה זָכָ֑ר וְטָֽמְאָה֙ שִׁבְעַ֣ת יָמִ֔ים כִּימֵ֛י נִדַּ֥ת דְּוֺתָ֖הּ תִּטְמָֽא׃",
+      "douay_rheims": "Speak to the children of Israel, and thou shalt say to them: If a woman having received seed shall bear a man child, she shall be unclean seven days, according to the days of separation of her flowers.",
+      "finnish_biblia": "Puhu Israelin lapsille, ja sano: koska vaimo siittää ja synnyttä poikalapsen, niin hänen pitää seitsemän päivää oleman saastaisen, niinkauvan kuin hän kärsii sairauttansa. ",
       "king_james": "Speak unto the children of Israel, saying, If a woman have conceived seed, and born a man child: then she shall be unclean seven days; according to the days of the separation for her infirmity shall she be unclean."
     },
     {
       "verse": 3,
       "latin_vulgate": "Et die octavo circumcidetur infantulus : ",
       "hebrew_masoretic": "וּבַיּ֖וֹם הַשְּׁמִינִ֑י יִמּ֖וֹל בְּשַׂ֥ר עׇרְלָתֽוֹ׃",
+      "douay_rheims": "And on the eighth day the infant shall be circumcised:",
+      "finnish_biblia": "Ja kahdeksantena päivänä pitää ympärileikattaman hänen esinahkansa liha. ",
       "king_james": "And in the eighth day the flesh of his foreskin shall be circumcised."
     },
     {
       "verse": 4,
       "latin_vulgate": "ipsa vero triginta tribus diebus manebit in sanguine purificationis suæ. Omne sanctum non tanget, nec ingredietur in sanctuarium, donec impleantur dies purificationis suæ. ",
       "hebrew_masoretic": "וּשְׁלֹשִׁ֥ים יוֹם֙ וּשְׁלֹ֣שֶׁת יָמִ֔ים תֵּשֵׁ֖ב בִּדְמֵ֣י טׇהֳרָ֑הֿ בְּכׇל־קֹ֣דֶשׁ לֹֽא־תִגָּ֗ע וְאֶל־הַמִּקְדָּשׁ֙ לֹ֣א תָבֹ֔א עַד־מְלֹ֖את יְמֵ֥י טׇהֳרָֽהּ׃",
+      "douay_rheims": "But she shall remain three and thirty days in the blood of her purification. She shall touch no holy thing: neither shall she enter into the sanctuary, until the days of her purification, be fulfilled.",
+      "finnish_biblia": "Mutta hänen pitää oleman kotona kolmeneljättäkymmentä päivää puhdistuksensa veressä; ei hänen pidä rupeeman yhteekään, mikä pyhä on, eikä hänen pidä pyhään tuleman, siihenasti kuin hänen puhdistuspäivänsä täytetään. ",
       "king_james": "And she shall then continue in the blood of her purifying three and thirty days; she shall touch no hallowed thing, nor come into the sanctuary, until the days of her purifying be fulfilled."
     },
     {
       "verse": 5,
       "latin_vulgate": "Sin autem feminam pepererit, immunda erit duabus hebdomadibus juxta ritum fluxus menstrui, et sexaginta sex diebus manebit in sanguine purificationis suæ. ",
       "hebrew_masoretic": "וְאִם־נְקֵבָ֣ה תֵלֵ֔ד וְטָמְאָ֥ה שְׁבֻעַ֖יִם כְּנִדָּתָ֑הּ וְשִׁשִּׁ֥ים יוֹם֙ וְשֵׁ֣שֶׁת יָמִ֔ים תֵּשֵׁ֖ב עַל־דְּמֵ֥י טׇהֳרָֽהֿ׃",
+      "douay_rheims": "But if she shall bear a maid child, she shall be unclean two weeks, according to the custom of her monthly courses. And she shall remain in the blood of her purification sixty-six days.",
+      "finnish_biblia": "Mutta jos hän synnyttää piikalapsen, niin hänen pitää saastaisen oleman kaksi viikkoa, niinkauvan kuin hän kärsii sairauttansa, ja kuusiseitsemättäkymmentä päivää pitää hänen kotona oleman puhdistuksensa veressä. ",
       "king_james": "But if she bear a maid child, then she shall be unclean two weeks, as in her separation: and she shall continue in the blood of her purifying threescore and six days."
     },
     {
       "verse": 6,
       "latin_vulgate": "Cumque expleti fuerint dies purificationis suæ, pro filio sive pro filia, deferet agnum anniculum in holocaustum, et pullum columbæ sive turturem pro peccato, ad ostium tabernaculi testimonii, et tradet sacerdoti, ",
       "hebrew_masoretic": "וּבִמְלֹ֣את ׀ יְמֵ֣י טׇהֳרָ֗הּ לְבֵן֮ א֣וֹ לְבַת֒ תָּבִ֞יא כֶּ֤בֶשׂ בֶּן־שְׁנָתוֹ֙ לְעֹלָ֔ה וּבֶן־יוֹנָ֥ה אוֹ־תֹ֖ר לְחַטָּ֑את אֶל־פֶּ֥תַח אֹֽהֶל־מוֹעֵ֖ד אֶל־הַכֹּהֵֽן׃",
+      "douay_rheims": "And when the days of her purification are expired, for a son, or for a daughter, she shall bring to the door of the tabernacle of the testimony, a lamb of a year old for a holocaust, and a young pigeon or a turtle for sin: and shall deliver them to the priest.",
+      "finnish_biblia": "Mutta koska hänen puhdistuspäivänsä pojan eli tyttären jälkeen ovat täytetyt, niin tuokaan vuosikuntaisen karitsan polttouhriksi, ja kyhkyläisen pojan eli mettisen rikosuhriksi, papille seurakunnan majan oven eteen, ",
       "king_james": "And when the days of her purifying are fulfilled, for a son, or for a daughter, she shall bring a lamb of the first year for a burnt offering, and a young pigeon, or a turtledove, for a sin offering, unto the door of the tabernacle of the congregation, unto the priest:"
     },
     {
       "verse": 7,
       "latin_vulgate": "qui offeret illa coram Domino, et orabit pro ea, et sic mundabitur a profluvio sanguinis sui : ista est lex parientis masculum aut feminam. ",
       "hebrew_masoretic": "וְהִקְרִיב֞וֹ לִפְנֵ֤י יְהֹוָה֙ וְכִפֶּ֣ר עָלֶ֔יהָ וְטָהֲרָ֖הֿ מִמְּקֹ֣ר דָּמֶ֑יהָ זֹ֤את תּוֹרַת֙ הַיֹּלֶ֔דֶת לַזָּכָ֖ר א֥וֹ לַנְּקֵבָֽה׃",
+      "douay_rheims": "Who shall offer them before the Lord, and shall pray for her: and so she shall be cleansed from the issue of her blood. This is the law for her that beareth a man child or a maid child.",
+      "finnish_biblia": "Jonka ne pitää uhraaman Herran edessä, ja sovittaman hänen, niin hän puhdistuu verensä juoksusta. Tämä on sääty pojan eli tyttären synnyttämisestä. ",
       "king_james": "Who shall offer it before the Lord, and make an atonement for her; and she shall be cleansed from the issue of her blood. This is the law for her that hath born a male or a female."
     },
     {
       "verse": 8,
       "latin_vulgate": "Quod si non invenerit manus ejus, nec potuerit offerre agnum, sumet duos turtures vel duos pullos columbarum, unum in holocaustum, et alterum pro peccato : orabitque pro ea sacerdos, et sic mundabitur.   ",
       "hebrew_masoretic": "וְאִם־לֹ֨א תִמְצָ֣א יָדָהּ֮ דֵּ֣י שֶׂה֒ וְלָקְחָ֣ה שְׁתֵּֽי־תֹרִ֗ים א֤וֹ שְׁנֵי֙ בְּנֵ֣י יוֹנָ֔ה אֶחָ֥ד לְעֹלָ֖ה וְאֶחָ֣ד לְחַטָּ֑את וְכִפֶּ֥ר עָלֶ֛יהָ הַכֹּהֵ֖ן וְטָהֵֽרָה׃ {פ}",
+      "douay_rheims": "And if her hand find not sufficiency, and she is not able to offer a lamb, she shall take two turtles, or two young pigeons, one for a holocaust, and another for sin: and the priest shall pray for her, and so she shall be cleansed. ",
+      "finnish_biblia": "Jos ei hänellä ole varaa karitsaan, niin ottakaan kaksi mettistä, eli kaksi kyhkyläisen poikaa, toisen polttouhriksi ja toisen rikosuhriksi. Ja niin papin pitää sovittaman hänen, että hän puhdistettaisiin.   ",
       "king_james": "And if she be not able to bring a lamb, then she shall bring two turtles, or two young pigeons; the one for the burnt offering, and the other for a sin offering: and the priest shall make an atonement for her, and she shall be clean. "
     }
   ]

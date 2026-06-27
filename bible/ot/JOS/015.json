@@ -2,6 +2,8 @@
   "book_id": "JOS",
   "latin_name": "Iosue",
   "hebrew_name": "יְהוֹשֻׁעַ",
+  "douay_name": "Josue",
+  "finnish_name": "Joosuan kirja",
   "english_name": "Joshua",
   "chapter": 15,
   "verses": [
@@ -9,378 +11,504 @@
       "verse": 1,
       "latin_vulgate": "Igitur sors filiorum Judæ per cognationes suas ista fuit : a termino Edom, desertum Sin, contra meridiem, et usque ad extremam partem australis plagæ. ",
       "hebrew_masoretic": "וַיְהִ֣י הַגּוֹרָ֗ל לְמַטֵּ֛ה בְּנֵ֥י יְהוּדָ֖ה לְמִשְׁפְּחֹתָ֑ם אֶל־גְּב֨וּל אֱד֧וֹם מִדְבַּר־צִ֛ן נֶ֖גְבָּה מִקְצֵ֥ה תֵימָֽן׃",
+      "douay_rheims": "Now the lot of the children of Juda by their kindreds was this: From the frontier of Edom, to the desert of Sin southward, and to the uttermost part of the south coast.",
+      "finnish_biblia": "Juudan lasten suvun arpa heidän huonettensa jälkeen oli Edomin maan rajaan, Sinin korven puoleen, joka etelän puoleen on, lounaan maan äärestä asti; ",
       "king_james": "This then was the lot of the tribe of the children of Judah by their families; even to the border of Edom the wilderness of Zin southward was the uttermost part of the south coast."
     },
     {
       "verse": 2,
       "latin_vulgate": "Initium ejus a summitate maris salsissimi, et a lingua ejus, quæ respicit meridiem. ",
       "hebrew_masoretic": "וַיְהִ֤י לָהֶם֙ גְּב֣וּל נֶ֔גֶב מִקְצֵ֖ה יָ֣ם הַמֶּ֑לַח מִן־הַלָּשֹׁ֖ן הַפֹּנֶ֥ה נֶֽגְבָּה׃",
+      "douay_rheims": "Its beginning was from the top of the most salt sea, and from the bay thereof, that looketh to the south.",
+      "finnish_biblia": "Niin että heidän lounainen maan rajansa oli Suolameren äärestä, se on, siitä lahdesta, joka menee etelään päin, ",
       "king_james": "And their south border was from the shore of the salt sea, from the bay that looketh southward:"
     },
     {
       "verse": 3,
       "latin_vulgate": "Egrediturque contra ascensum Scorpionis, et pertransit in Sina : ascenditque in Cadesbarne, et pervenit in Esron, ascendens ad Addar, et circuiens Carcaa, ",
       "hebrew_masoretic": "וְ֠יָצָ֠א אֶל־מִנֶּ֜גֶב לְמַעֲלֵ֤ה עַקְרַבִּים֙ וְעָ֣בַר צִ֔נָה וְעָלָ֥ה מִנֶּ֖גֶב לְקָדֵ֣שׁ בַּרְנֵ֑עַ וְעָבַ֤ר חֶצְרוֹן֙ וְעָלָ֣ה אַדָּ֔רָה וְנָסַ֖ב הַקַּרְקָֽעָה׃",
+      "douay_rheims": "And it goeth out towards the ascent of the Scorpion, and passeth on to Sina: and ascendeth into Cadesbarne, and reacheth into Esron, going up to Addar, and compassing Carcaa.",
+      "finnish_biblia": "Ja käy sieltä ylöspäin Akrabiin, ja käy Sinin lävitse, ja menee ylöspäin merestä KadesBarneaan, ja menee Hetsronin lävitse, ja käy ylös Adariin päin, ja kääntyy ympäri Karkaan, ",
       "king_james": "And it went out to the south side to Maaleh–acrabbim, and passed along to Zin, and ascended up on the south side unto Kadesh–barnea, and passed along to Hezron, and went up to Adar, and fetched a compass to Karkaa:"
     },
     {
       "verse": 4,
       "latin_vulgate": "atque inde pertransiens in Asemona, et perveniens ad torrentem Ægypti : eruntque termini ejus mare magnum. Hic erit finis meridianæ plagæ. ",
       "hebrew_masoretic": "וְעָבַ֣ר עַצְמ֗וֹנָה וְיָצָא֙ נַ֣חַל מִצְרַ֔יִם (והיה) [וְהָי֛וּ] תֹּצְא֥וֹת הַגְּב֖וּל יָ֑מָּה זֶה־יִֽהְיֶ֥ה לָכֶ֖ם גְּב֥וּל נֶֽגֶב׃",
+      "douay_rheims": "And from thence passing along into Asemona, and reaching the torrent of Egypt: and the bounds thereof shall be the great sea, this shall be the limit of the south coast.",
+      "finnish_biblia": "Ja menee Atsmonin ohitse, ja tulee Egyptin ojaan, niin että sen maan rajan ääri on meri. Tämä pitää oleman teille maan raja lounaaseen päin. ",
       "king_james": "From thence it passed toward Azmon, and went out unto the river of Egypt; and the goings out of that coast were at the sea: this shall be your south coast."
     },
     {
       "verse": 5,
       "latin_vulgate": "Ab oriente vero erit initium, mare salsissimum usque ad extrema Jordanis : et ea quæ respiciunt ad aquilonem, a lingua maris usque ad eumdem Jordanis fluvium. ",
       "hebrew_masoretic": "וּגְב֥וּל קֵ֙דְמָה֙ יָ֣ם הַמֶּ֔לַח עַד־קְצֵ֖ה הַיַּרְדֵּ֑ן וּגְב֞וּל לִפְאַ֤ת צָפ֙וֹנָה֙ מִלְּשׁ֣וֹן הַיָּ֔ם מִקְצֵ֖ה הַיַּרְדֵּֽן׃",
+      "douay_rheims": "But on the east side the beginning shall be the most salt sea even to the end of the Jordan: and towards the north from the bay of the sea unto the same river Jordan.",
+      "finnish_biblia": "Vaan raja itään päin on Suolainen meri Jordanin suuhun asti; vaan raja pohjan puoleen on siitä meren lahdesta, joka on Jordanin ääressä, ",
       "king_james": "And the east border was the salt sea, even unto the end of Jordan. And their border in the north quarter was from the bay of the sea at the uttermost part of Jordan:"
     },
     {
       "verse": 6,
       "latin_vulgate": "Ascenditque terminus in Beth Hagla, et transit ab aquilone in Beth Araba, ascendens ad lapidem Boën filii Ruben : ",
       "hebrew_masoretic": "וְעָלָ֤ה הַגְּבוּל֙ בֵּ֣ית חׇגְלָ֔ה וְעָבַ֕ר מִצְּפ֖וֹן לְבֵ֣ית הָעֲרָבָ֑ה וְעָלָ֣ה הַגְּב֔וּל אֶ֥בֶן בֹּ֖הַן בֶּן־רְאוּבֵֽן׃",
+      "douay_rheims": "And the border goeth up into Beth-Hagla, and passeth by the north into Beth-Araba: going up to the stone of Boen the son of Ruben.",
+      "finnish_biblia": "Ja menee ylös BetHoglaan, ja vetäytyy pohjasta BetAraban puoleen, ja menee ylös Rubenin pojan Bohenin kiven tykö. ",
       "king_james": "And the border went up to Beth–hogla, and passed along by the north of Beth–arabah; and the border went up to the stone of Bohan the son of Reuben:"
     },
     {
       "verse": 7,
       "latin_vulgate": "et tendens usque ad terminos Debera de valle Achor, contra aquilonem respiciens Galgala, quæ est ex adverso ascensionis Adommim, ab australi parte torrentis : transitque aquas, quæ vocantur fons solis : et erunt exitus ejus ad fontem Rogel. ",
       "hebrew_masoretic": "וְעָלָ֨ה הַגְּב֥וּל ׀ דְּבִ֘רָה֮ מֵעֵ֣מֶק עָכוֹר֒ וְצָפ֜וֹנָה פֹּנֶ֣ה אֶל־הַגִּלְגָּ֗ל אֲשֶׁר־נֹ֙כַח֙ לְמַעֲלֵ֣ה אֲדֻמִּ֔ים אֲשֶׁ֥ר מִנֶּ֖גֶב לַנָּ֑חַל וְעָבַ֤ר הַגְּבוּל֙ אֶל־מֵי־עֵ֣ין שֶׁ֔מֶשׁ וְהָי֥וּ תֹצְאֹתָ֖יו אֶל־עֵ֥ין רֹגֵֽל׃",
+      "douay_rheims": "And reaching as far as the borders of Debara from the valley of Achor, and so northward looking towards Galgal, which is opposite to the ascent of Adommin, on the south side of the torrent, and the border passeth the waters that are called the fountain of the sun: and the goings out thereof shall be at the fountain Rogel.",
+      "finnish_biblia": "Ja raja käy ylös Debirin tykö Akorin laaksosta, ja pohjan puoleen Gilgaliin päin, joka on Adumimin paltan kohdalla, joka etelän puoleen on ojan vieressä; sitte se menee EnSemeksen vedelle, ja menee Rogelin lähteelle. ",
       "king_james": "And the border went up toward Debir from the valley of Achor, and so northward, looking toward Gilgal, that is before the going up to Adummim, which is on the south side of the river: and the border passed toward the waters of En–shemesh, and the goings out thereof were at En–rogel:"
     },
     {
       "verse": 8,
       "latin_vulgate": "Ascenditque per convallem filii Ennom ex latere Jebusæi ad meridiem, hæc est Jerusalem : et inde se erigens ad verticem montis, qui est contra Geennom ad occidentem in summitate vallis Raphaim contra aquilonem : ",
       "hebrew_masoretic": "וְעָלָ֨ה הַגְּב֜וּל גֵּ֣י בֶן־הִנֹּ֗ם אֶל־כֶּ֤תֶף הַיְבוּסִי֙ מִנֶּ֔גֶב הִ֖יא יְרוּשָׁלָ֑͏ִם וְעָלָ֨ה הַגְּב֜וּל אֶל־רֹ֣אשׁ הָהָ֗ר אֲ֠שֶׁ֠ר עַל־פְּנֵ֤י גֵֽי־הִנֹּם֙ יָ֔מָּה אֲשֶׁ֛ר בִּקְצֵ֥ה עֵמֶק־רְפָאִ֖ים צָפֽוֹנָה׃",
+      "douay_rheims": "And it goeth up by the valley of the son of Ennom on the side of the Jebusite towards the south, the same is Jerusalem: and thence ascending to the top of the mountain, which is over against Geennom to the west in the end of the valley of Raphaim, northward.",
+      "finnish_biblia": "Sitte menee raja Hinnomin pojan laaksoon, Jebusilaisen ohitse lounaan päin, se on Jerusalem; ja raja menee vuoren kukkulan ylitse, joka on Hinnomin laakson edessä, meren tykö, joka on Rephaimin laakson äärellä pohjaan päin. ",
       "king_james": "And the border went up by the valley of the son of Hinnom unto the south side of the Jebusite; the same is Jerusalem: and the border went up to the top of the mountain that lieth before the valley of Hinnom westward, which is at the end of the valley of the giants northward:"
     },
     {
       "verse": 9,
       "latin_vulgate": "pertransitque a vertice montis usque ad fontem aquæ Nephtoa : et pervenit usque ad vicos montis Ephron : inclinaturque in Baala, quæ est Cariathiarim, id est, urbs silvarum. ",
       "hebrew_masoretic": "וְתָאַ֨ר הַגְּב֜וּל מֵרֹ֣אשׁ הָהָ֗ר אֶל־מַעְיַן֙ מֵ֣י נֶפְתּ֔וֹחַ וְיָצָ֖א אֶל־עָרֵ֣י הַר־עֶפְר֑וֹן וְתָאַ֤ר הַגְּבוּל֙ בַּעֲלָ֔ה הִ֖יא קִרְיַ֥ת יְעָרִֽים׃",
+      "douay_rheims": "And it passeth on from the top of the mountain to the fountain of the water of Nephtoa: and reacheth to the towns of mount Ephron: and it bendeth towards Baala, which is Cariathiarim, that is to say, the city of the woods.",
+      "finnish_biblia": "Sitte käy se siitä vuoren kukkulasta Nephtoan lähteen tykö, ja menee Ephronin vuoren kaupunkein tykö, ja kääntyy Baalaan päin, joka on KirjatJearim. ",
       "king_james": "And the border was drawn from the top of the hill unto the fountain of the water of Nephtoah, and went out to the cities of mount Ephron; and the border was drawn to Baalah, which is Kirjath–jearim:"
     },
     {
       "verse": 10,
       "latin_vulgate": "Et circuit de Baala contra occidentem, usque ad montem Seir : transitque juxta latus montis Jarim ad aquilonem in Cheslon : et descendit in Bethsames, transitque in Thamna. ",
       "hebrew_masoretic": "וְנָסַב֩ הַגְּב֨וּל מִבַּעֲלָ֥ה יָ֙מָּה֙ אֶל־הַ֣ר שֵׂעִ֔יר וְעָבַ֞ר אֶל־כֶּ֧תֶף הַר־יְעָרִ֛ים מִצָּפ֖וֹנָה הִ֣יא כְסָל֑וֹן וְיָרַ֥ד בֵּֽית־שֶׁ֖מֶשׁ וְעָבַ֥ר תִּמְנָֽה׃",
+      "douay_rheims": "And it compasseth from Baala westward unto mount Seir: and passeth by the side of mount Jarim to the north into Cheslon: and goeth down into Bethsames, and passeth into Thamna.",
+      "finnish_biblia": "Ja menee Baalasta ympäri länteen päin Seirin vuoren tykö, ja menee ulos pohjan puolesta Jearin vuoren vieritse, se on Kessalon, ja tulee alas BetSemeksen tykö, ja menee Timnaan, ",
       "king_james": "And the border compassed from Baalah westward unto mount Seir, and passed along unto the side of mount Jearim, which is Chesalon, on the north side, and went down to Beth–shemesh, and passed on to Timnah:"
     },
     {
       "verse": 11,
       "latin_vulgate": "Et pervenit contra aquilonem partis Accaron ex latere : inclinaturque Sechrona, et transit montem Baala : pervenitque in Jebneel, et magni maris contra occidentem fine concluditur. ",
       "hebrew_masoretic": "וְיָצָ֨א הַגְּב֜וּל אֶל־כֶּ֣תֶף עֶקְרוֹן֮ צָפ֒וֹנָה֒ וְתָאַ֤ר הַגְּבוּל֙ שִׁכְּר֔וֹנָה וְעָבַ֥ר הַר־הַֽבַּעֲלָ֖ה וְיָצָ֣א יַבְנְאֵ֑ל וְהָי֛וּ תֹּצְא֥וֹת הַגְּב֖וּל יָֽמָּה׃",
+      "douay_rheims": "And reacheth northward to a part of Accaron at the side: and bendeth to Sechrona, and passeth mount Baala: and cometh into Jebneel, and is bounded westward with the great sea.",
+      "finnish_biblia": "Ja tulee ulos Ekronin vieritse pohjan puolelle, ja vetää hänensä Sikroniin asti, ja menee Baalan vuoren ylitse, ja tulee Jabneeliin, että hänen äärensä loppu on meri. ",
       "king_james": "And the border went out unto the side of Ekron northward: and the border was drawn to Shicron, and passed along to mount Baalah, and went out unto Jabneel; and the goings out of the border were at the sea."
     },
     {
       "verse": 12,
       "latin_vulgate": "Hi sunt termini filiorum Juda per circuitum in cognationibus suis.  ",
       "hebrew_masoretic": "וּגְב֣וּל יָ֔ם הַיָּ֥מָּה הַגָּד֖וֹל וּגְב֑וּל זֶ֠ה גְּב֧וּל בְּנֵֽי־יְהוּדָ֛ה סָבִ֖יב לְמִשְׁפְּחֹתָֽם׃",
+      "douay_rheims": "These are the borders round about of the children of Juda in their kindreds.",
+      "finnish_biblia": "Mutta raja länteen päin on suuri meri. Tämä on Juudan lasten maan raja, joka taholta ympäri heidän sukukunnissansa. ",
       "king_james": "And the west border was to the great sea, and the coast thereof. This is the coast of the children of Judah round about according to their families."
     },
     {
       "verse": 13,
       "latin_vulgate": " Caleb vero filio Jephone dedit partem in medio filiorum Juda, sicut præceperat ei Dominus : Cariath Arbe patris Enac, ipsa est Hebron. ",
       "hebrew_masoretic": "וּלְכָלֵ֣ב בֶּן־יְפֻנֶּ֗ה נָ֤תַן חֵ֙לֶק֙ בְּת֣וֹךְ בְּנֵֽי־יְהוּדָ֔ה אֶל־פִּ֥י יְהֹוָ֖ה לִיהוֹשֻׁ֑עַ אֶת־קִרְיַ֥ת אַרְבַּ֛ע אֲבִ֥י הָעֲנָ֖ק הִ֥יא חֶבְרֽוֹן׃",
+      "douay_rheims": "But to Caleb the son of Jephone he gave a portion in the midst of the children of Juda, as the Lord had commanded him: Cariath-Arbe the father of Enac, which is Hebron.",
+      "finnish_biblia": "Mutta Kalebille Jephunnen pojalle annettiin osa Juudan lasten keskellä, niinkuin Herra oli käskenyt Josualle, nimittäin KirjatArba, Enakilaisten isän kaupunki, se on Hebron. ",
       "king_james": "And unto Caleb the son of Jephunneh he gave a part among the children of Judah, according to the commandment of the Lord to Joshua, even the city of Arba the father of Anak, which city is Hebron."
     },
     {
       "verse": 14,
       "latin_vulgate": "Delevitque ex ea Caleb tres filios Enac, Sesai et Ahiman et Tholmai de stirpe Enac. ",
       "hebrew_masoretic": "וַיֹּ֤רֶשׁ מִשָּׁם֙ כָּלֵ֔ב אֶת־שְׁלוֹשָׁ֖ה בְּנֵ֣י הָעֲנָ֑ק אֶת־שֵׁשַׁ֤י וְאֶת־אֲחִימַן֙ וְאֶת־תַּלְמַ֔י יְלִידֵ֖י הָעֲנָֽק׃",
+      "douay_rheims": "And Caleb destroyed out of it the three sons of Enac, Sesai and Ahiman, and Tholmai of the race of Enac.",
+      "finnish_biblia": "Ja Kaleb ajoi sieltä pois kolme Enakin poikaa, Sesain, Akimananin ja Talmain, Enakin sikiät, ",
       "king_james": "And Caleb drove thence the three sons of Anak, Sheshai, and Ahiman, and Talmai, the children of Anak."
     },
     {
       "verse": 15,
       "latin_vulgate": "Atque inde conscendens venit ad habitatores Dabir, quæ prius vocabatur Cariath Sepher, id est, civitas litterarum. ",
       "hebrew_masoretic": "וַיַּ֣עַל מִשָּׁ֔ם אֶל־יֹשְׁבֵ֖י דְּבִ֑ר וְשֵׁם־דְּבִ֥ר לְפָנִ֖ים קִרְיַת־סֵֽפֶר׃",
+      "douay_rheims": "And going up from thence he came to the inhabitants of Dabir, which before was called Cariath-Sepher, that is to say, the city of letters.",
+      "finnish_biblia": "Ja meni sieltä ylös Debirin asuvaisten tykö; vaan Debir kutsuttiin muinen KirjatSepher. ",
       "king_james": "And he went up thence to the inhabitants of Debir: and the name of Debir before was Kirjath–sepher."
     },
     {
       "verse": 16,
       "latin_vulgate": "Dixitque Caleb : Qui percusserit Cariath Sepher, et ceperit eam, dabo ei Axam filiam meam uxorem. ",
       "hebrew_masoretic": "וַיֹּ֣אמֶר כָּלֵ֔ב אֲשֶׁר־יַכֶּ֥ה אֶת־קִרְיַת־סֵ֖פֶר וּלְכָדָ֑הּ וְנָתַ֥תִּי ל֛וֹ אֶת־עַכְסָ֥ה בִתִּ֖י לְאִשָּֽׁה׃",
+      "douay_rheims": "And Caleb said: He that shall smite Cariath-Sepher, and take it, I will give him Axa my daughter to wife.",
+      "finnish_biblia": "Ja Kaleb sanoi: joka lyö KirjatSepherin ja voittaa sen, hänelle annan minä tyttäreni Aksan emännäksi. ",
       "king_james": "And Caleb said, He that smiteth Kirjath–sepher, and taketh it, to him will I give Achsah my daughter to wife."
     },
     {
       "verse": 17,
       "latin_vulgate": "Cepitque eam Othoniel filius Cenez frater Caleb junior : deditque ei Axam filiam suam uxorem. ",
       "hebrew_masoretic": "וַֽיִּלְכְּדָ֛הּ עׇתְנִיאֵ֥ל בֶּן־קְנַ֖ז אֲחִ֣י כָלֵ֑ב וַיִּתֶּן־ל֛וֹ אֶת־עַכְסָ֥ה בִתּ֖וֹ לְאִשָּֽׁה׃",
+      "douay_rheims": "And Othoniel the son of Cenez, the younger brother of Caleb, took it: and he gave him Axa his daughter to wife.",
+      "finnish_biblia": "Niin voitti sen Otniel, Kenaksen Kalebin veljen poika; ja hän antoi tyttärensä Aksan hänelle emännäksi. ",
       "king_james": "And Othniel the son of Kenaz, the brother of Caleb, took it: and he gave him Achsah his daughter to wife."
     },
     {
       "verse": 18,
       "latin_vulgate": "Quæ, cum pergerent simul, suasa est a viro suo ut peteret a patre suo agrum. Suspiravitque ut sedebat in asino : cui Caleb : Quid habes ? inquit. ",
       "hebrew_masoretic": "וַיְהִ֣י ׀ בְּבוֹאָ֗הּ וַתְּסִיתֵ֙הוּ֙ לִשְׁא֤וֹל מֵאֵת־אָבִ֙יהָ֙ שָׂדֶ֔ה וַתִּצְנַ֖ח מֵעַ֣ל הַחֲמ֑וֹר וַיֹּֽאמֶר־לָ֥הּ כָּלֵ֖ב מַה־לָּֽךְ׃",
+      "douay_rheims": "And as they were going together, she was moved by her husband to ask a field of her father, and she sighed as she sat on her ass. And Caleb said to her: What aileth thee?",
+      "finnish_biblia": "Ja tapahtui, kuin hän tuli, että hän neuvoi miestänsä anomaan peltoa isältänsä, ja hän astui aasin päältä alas; niin sanoi Kaleb hänelle: mikä sinun on? ",
       "king_james": "And it came to pass, as she came unto him, that she moved him to ask of her father a field: and she lighted off her ass; and Caleb said unto her, What wouldest thou?"
     },
     {
       "verse": 19,
       "latin_vulgate": "At illa respondit : Da mihi benedictionem : terram australem et arentem dedisti mihi ; junge et irriguam. Dedit itaque ei Caleb irriguum superius et inferius.  ",
       "hebrew_masoretic": "וַתֹּ֜אמֶר תְּנָה־לִּ֣י בְרָכָ֗ה כִּ֣י אֶ֤רֶץ הַנֶּ֙גֶב֙ נְתַתָּ֔נִי וְנָתַתָּ֥ה לִ֖י גֻּלֹּ֣ת מָ֑יִם וַיִּתֶּן־לָ֗הּ אֵ֚ת גֻּלֹּ֣ת עִלִּיּ֔וֹת וְאֵ֖ת גֻּלֹּ֥ת תַּחְתִּיּֽוֹת׃ {פ}",
+      "douay_rheims": "But she answered: Give me a blessing: thou hast given me a southern and dry land, give me also a land that Is watered. And Caleb gave her the upper and the nether watery ground.",
+      "finnish_biblia": "Ja hän sanoi: anna minulle siunaus, sillä sinä olet antanut minulle kuivan maan, anna minulle myös vesilähteitä; niin antoi hän hänelle lähteitä sekä ylhäältä että alhaalta. ",
       "king_james": "Who answered, Give me a blessing; for thou hast given me a south land; give me also springs of water. And he gave her the upper springs, and the nether springs."
     },
     {
       "verse": 20,
       "latin_vulgate": " Hæc est possessio tribus filiorum Juda per cognationes suas. ",
       "hebrew_masoretic": "זֹ֗את נַחֲלַ֛ת מַטֵּ֥ה בְנֵֽי־יְהוּדָ֖ה לְמִשְׁפְּחֹתָֽם׃",
+      "douay_rheims": "This is the possession of the tribe of the children of Juda by their kindreds.",
+      "finnish_biblia": "Tämä on Juudan lasten sukukunnan perimys, heidän sukuinsa jälkeen. ",
       "king_james": "This is the inheritance of the tribe of the children of Judah according to their families."
     },
     {
       "verse": 21,
       "latin_vulgate": "Erantque civitates ab extremis partibus filiorum Juda juxta terminos Edom a meridie : Cabseel et Eder et Jagur, ",
       "hebrew_masoretic": "וַיִּֽהְי֣וּ הֶֽעָרִ֗ים מִקְצֵה֙ לְמַטֵּ֣ה בְנֵֽי־יְהוּדָ֔ה אֶל־גְּב֥וּל אֱד֖וֹם בַּנֶּ֑גְבָּה קַבְצְאֵ֥ל וְעֵ֖דֶר וְיָגֽוּר׃",
+      "douay_rheims": "And the cities from the uttermost parts of the children of Juda by the borders of Edom to the south, were Cabseel and Eder and Jagur,",
+      "finnish_biblia": "Ja kaupungit Juudan lasten sukukunnan äärestä, Edomin rajan tykönä, lounaaseen käsin olivat: Kabseel, Eder, Jagur, ",
       "king_james": "And the uttermost cities of the tribe of the children of Judah toward the coast of Edom southward were Kabzeel, and Eder, and Jagur,"
     },
     {
       "verse": 22,
       "latin_vulgate": "et Cyna et Dimona et Adada, ",
       "hebrew_masoretic": "וְקִינָ֥ה וְדִימוֹנָ֖ה וְעַדְעָדָֽה׃",
+      "douay_rheims": "And Cina and Dimona and Adada,",
+      "finnish_biblia": "Kina, Dimona, Adada; ",
       "king_james": "And Kinah, and Dimonah, and Adadah,"
     },
     {
       "verse": 23,
       "latin_vulgate": "et Cades et Asor et Jethnam, ",
       "hebrew_masoretic": "וְקֶ֥דֶשׁ וְחָצ֖וֹר וְיִתְנָֽן׃",
+      "douay_rheims": "And Cades and Asor and Jethnam,",
+      "finnish_biblia": "Kedes, Hatsor, Jitnan; ",
       "king_james": "And Kedesh, and Hazor, and Ithnan,"
     },
     {
       "verse": 24,
       "latin_vulgate": "Ziph et Telem et Baloth, ",
       "hebrew_masoretic": "זִ֥יף וָטֶ֖לֶם וּבְעָלֽוֹת׃",
+      "douay_rheims": "Ziph and Telem and Baloth,",
+      "finnish_biblia": "Siph, Telem, Bealot; ",
       "king_james": "Ziph, and Telem, and Bealoth,"
     },
     {
       "verse": 25,
       "latin_vulgate": "Asor nova et Carioth, Hesron, hæc est Asor ; ",
       "hebrew_masoretic": "וְחָצ֤וֹר ׀ חֲדַתָּה֙ וּקְרִיּ֔וֹת חֶצְר֖וֹן הִ֥יא חָצֽוֹר׃",
+      "douay_rheims": "New Asor and Carioth, Hesron, which is Asor.",
+      "finnish_biblia": "HatsorHadata, Kerijot, Hetsron, se on Hatsor; ",
       "king_james": "And Hazor, Hadattah, and Kerioth, and Hezron, which is Hazor,"
     },
     {
       "verse": 26,
       "latin_vulgate": "Amam, Sama, et Molada, ",
       "hebrew_masoretic": "אֲמָ֥ם וּשְׁמַ֖ע וּמוֹלָדָֽה׃",
+      "douay_rheims": "Amam, Sama and Molada,",
+      "finnish_biblia": "Amam, Sema, Molada; ",
       "king_james": "Amam, and Shema, and Moladah,"
     },
     {
       "verse": 27,
       "latin_vulgate": "et Asergadda et Hassemon et Bethphelet, ",
       "hebrew_masoretic": "וַחֲצַ֥ר גַּדָּ֛ה וְחֶשְׁמ֖וֹן וּבֵ֥ית פָּֽלֶט׃",
+      "douay_rheims": "And Asergadda and Hassemon and Bethphelet,",
+      "finnish_biblia": "HatsarGadda, Hesmon, BetPalet; ",
       "king_james": "And Hazar–gaddah, and Heshmon, and Beth–palet,"
     },
     {
       "verse": 28,
       "latin_vulgate": "et Hasersual et Bersabee et Baziothia, ",
       "hebrew_masoretic": "וַחֲצַ֥ר שׁוּעָ֛ל וּבְאֵ֥ר שֶׁ֖בַע וּבִזְיוֹתְיָֽה׃",
+      "douay_rheims": "And Hasersual and Bersabee and Baziothia,",
+      "finnish_biblia": "HatsarSual, BeerSeba, BisJotja; ",
       "king_james": "And Hazar–shual, and Beer–sheba, and Bizjothjah,"
     },
     {
       "verse": 29,
       "latin_vulgate": "et Baala et Jim et Esem, ",
       "hebrew_masoretic": "בַּעֲלָ֥ה וְעִיִּ֖ים וָעָֽצֶם׃",
+      "douay_rheims": "And Baala and Jim and Esem,",
+      "finnish_biblia": "Baala, Ijim, Atsem; ",
       "king_james": "Baalah, and Iim, and Azem,"
     },
     {
       "verse": 30,
       "latin_vulgate": "et Eltholad et Cesil et Harma, ",
       "hebrew_masoretic": "וְאֶלְתּוֹלַ֥ד וּכְסִ֖יל וְחׇרְמָֽה׃",
+      "douay_rheims": "And Eltholad and Cesil and Harma,",
+      "finnish_biblia": "Eltolad, Kesil, Horma; ",
       "king_james": "And Eltolad, and Chesil, and Hormah,"
     },
     {
       "verse": 31,
       "latin_vulgate": "et Siceleg et Medemena et Sensenna, ",
       "hebrew_masoretic": "וְצִֽקְלַ֥ג וּמַדְמַנָּ֖ה וְסַנְסַנָּֽה׃",
+      "douay_rheims": "And Siceleg and Medemena and Sensenna,",
+      "finnish_biblia": "Ziglag, Madmanna, Sansanna; ",
       "king_james": "And Ziklag, and Madmannah, and Sansannah,"
     },
     {
       "verse": 32,
       "latin_vulgate": "Lebaoth et Selim et Aën et Remon. Omnes civitates viginti novem, et villæ earum. ",
       "hebrew_masoretic": "וּלְבָא֥וֹת וְשִׁלְחִ֖ים וְעַ֣יִן וְרִמּ֑וֹן כׇּל־עָרִ֛ים עֶשְׂרִ֥ים וָתֵ֖שַׁע וְחַצְרֵיהֶֽן׃ {ס}",
+      "douay_rheims": "Lebaoth and Selim and Aen and Remmon: all the cities twenty-nine, and their villages.",
+      "finnish_biblia": "Lebaot, Silhim, Ain, Rimmon; yhdeksänkolmattakymmentä kaupunkia kylinensä. ",
       "king_james": "And Lebaoth, and Shilhim, and Ain, and Rimmon: all the cities are twenty and nine, with their villages:"
     },
     {
       "verse": 33,
       "latin_vulgate": "In campestribus vero : Estaol et Sarea et Asena, ",
       "hebrew_masoretic": "בַּשְּׁפֵלָ֑ה אֶשְׁתָּא֥וֹל וְצׇרְעָ֖ה וְאַשְׁנָֽה׃",
+      "douay_rheims": "But in the plains: Estaol and Sarea and Asena,",
+      "finnish_biblia": "Vaan lakialla maalla oli Estaol, Zora, Asna; ",
       "king_james": "And in the valley, Eshtaol, and Zoreah, and Ashnah,"
     },
     {
       "verse": 34,
       "latin_vulgate": "et Zanoë et Ængannim et Taphua et Enaim, ",
       "hebrew_masoretic": "וְזָנ֙וֹחַ֙ וְעֵ֣ין גַּנִּ֔ים תַּפּ֖וּחַ וְהָעֵינָֽם׃",
+      "douay_rheims": "And Zanoe and Engannim and Taphua and Enaim,",
+      "finnish_biblia": "Sanoa, EnGannim, Tappua, Enam; ",
       "king_james": "And Zanoah, and En–gannim, Tappuah, and Enam,"
     },
     {
       "verse": 35,
       "latin_vulgate": "et Jerimoth et Adullam, Socho et Azeca, ",
       "hebrew_masoretic": "יַרְמוּת֙ וַֽעֲדֻלָּ֔ם שׂוֹכֹ֖ה וַעֲזֵקָֽה׃",
+      "douay_rheims": "And Jerimoth and Adullam, Socho and Azeca,",
+      "finnish_biblia": "Jarmut, Adullam, Soko, Aseka; ",
       "king_james": "Jarmuth, and Adullam, Socoh, and Azekah,"
     },
     {
       "verse": 36,
       "latin_vulgate": "et Saraim et Adithaim et Gedera et Gederothaim : urbes quatuordecim, et villæ earum. ",
       "hebrew_masoretic": "וְשַׁעֲרַ֙יִם֙ וַֽעֲדִיתַ֔יִם וְהַגְּדֵרָ֖ה וּגְדֵרֹתָ֑יִם עָרִ֥ים אַרְבַּֽע־עֶשְׂרֵ֖ה וְחַצְרֵיהֶֽן׃ {ס}",
+      "douay_rheims": "And Saraim and Adithaim and Gedera and Gederothaim: fourteen cities, and their villages.",
+      "finnish_biblia": "Saaraim, Aditaim, Gedera, Gederotaim: neljätoistakymmentä kaupunkia ja heidän kylänsä; ",
       "king_james": "And Sharaim, and Adithaim, and Gederah, and Gederothaim; fourteen cities with their villages:"
     },
     {
       "verse": 37,
       "latin_vulgate": "Sanan et Hadassa et Magdalgad, ",
       "hebrew_masoretic": "צְנָ֥ן וַחֲדָשָׁ֖ה וּמִגְדַּל־גָּֽד׃",
+      "douay_rheims": "Sanan and Hadassa and Magdalgad,",
+      "finnish_biblia": "Zenan, Hadasa, Migdalgad; ",
       "king_james": "Zenan, and Hadashah, and Migdal–gad,"
     },
     {
       "verse": 38,
       "latin_vulgate": "Delean et Masepha et Jecthel, ",
       "hebrew_masoretic": "וְדִלְעָ֥ן וְהַמִּצְפֶּ֖ה וְיׇקְתְאֵֽל׃",
+      "douay_rheims": "Delean and Masepha and Jecthel,",
+      "finnish_biblia": "Dilean, Mitspe, Jokteel; ",
       "king_james": "And Dilean, and Mizpeh, and Joktheel,"
     },
     {
       "verse": 39,
       "latin_vulgate": "Lachis et Bascath et Eglon, ",
       "hebrew_masoretic": "לָכִ֥ישׁ וּבׇצְקַ֖ת וְעֶגְלֽוֹן׃",
+      "douay_rheims": "Lachis and Bascath and Eglon,",
+      "finnish_biblia": "Lakis, Botskat, Eglon; ",
       "king_james": "Lachish, and Bozkath, and Eglon,"
     },
     {
       "verse": 40,
       "latin_vulgate": "Chebbon et Leheman et Cethlis, ",
       "hebrew_masoretic": "וְכַבּ֥וֹן וְלַחְמָ֖ס וְכִתְלִֽישׁ׃",
+      "douay_rheims": "Chebbon and Leheman and Cethlis,",
+      "finnish_biblia": "Kabbon, Lakmas, Kitlis; ",
       "king_james": "And Cabbon, and Lahmam, and Kithlish,"
     },
     {
       "verse": 41,
       "latin_vulgate": "et Gideroth et Bethdagon et Naama et Maceda : civitates sedecim, et villæ earum. ",
       "hebrew_masoretic": "וּגְדֵר֕וֹת בֵּית־דָּג֥וֹן וְנַעֲמָ֖ה וּמַקֵּדָ֑ה עָרִ֥ים שֵׁשׁ־עֶשְׂרֵ֖ה וְחַצְרֵיהֶֽן׃ {ס}",
+      "douay_rheims": "And Gideroth and Bethdagon and Naama and Maceda: sixteen cities, and their villages.",
+      "finnish_biblia": "Gederot, BetDagon, Naama, Makkeda: kuusitoistakymmentä kaupunkia ja heidän kylänsä; ",
       "king_james": "And Gederoth, Beth–dagon, and Naamah, and Makkedah; sixteen cities with their villages:"
     },
     {
       "verse": 42,
       "latin_vulgate": "Labana et Ether et Asan, ",
       "hebrew_masoretic": "לִבְנָ֥ה וָעֶ֖תֶר וְעָשָֽׁן׃",
+      "douay_rheims": "Labana and Ether and Asan,",
+      "finnish_biblia": "Libna, Eter, Asan; ",
       "king_james": "Libnah, and Ether, and Ashan,"
     },
     {
       "verse": 43,
       "latin_vulgate": "Jephtha et Esna et Nesib, ",
       "hebrew_masoretic": "וְיִפְתָּ֥ח וְאַשְׁנָ֖ה וּנְצִֽיב׃",
+      "douay_rheims": "Jephtha and Esna and Nesib,",
+      "finnish_biblia": "Jephta, Asna, Nesib; ",
       "king_james": "And Jiphtah, and Ashnah, and Nezib,"
     },
     {
       "verse": 44,
       "latin_vulgate": "et Ceila et Achzib et Maresa : civitates novem, et villæ earum. ",
       "hebrew_masoretic": "וּקְעִילָ֥ה וְאַכְזִ֖יב וּמָֽרֵאשָׁ֑ה עָרִ֥ים תֵּ֖שַׁע וְחַצְרֵיהֶֽן׃ {ס}",
+      "douay_rheims": "And Ceila and Achzib and Maresa: nine cities, and their villages.",
+      "finnish_biblia": "Kegila, Aksib, Maresa: yhdeksän kaupunkia ja heidän kylänsä; ",
       "king_james": "And Keilah, and Achzib, and Mareshah; nine cities with their villages:"
     },
     {
       "verse": 45,
       "latin_vulgate": "Accaron cum vicis et villulis suis. ",
       "hebrew_masoretic": "עֶקְר֥וֹן וּבְנֹתֶ֖יהָ וַחֲצֵרֶֽיהָ׃",
+      "douay_rheims": "Accaron with the towns and villages thereof.",
+      "finnish_biblia": "Ekron tyttärinensä ja kylinensä; ",
       "king_james": "Ekron, with her towns and her villages:"
     },
     {
       "verse": 46,
       "latin_vulgate": "Ab Accaron usque ad mare : omnia quæ vergunt ad Azotum et viculos ejus. ",
       "hebrew_masoretic": "מֵעֶקְר֖וֹן וָיָ֑מָּה כֹּ֛ל אֲשֶׁר־עַל־יַ֥ד אַשְׁדּ֖וֹד וְחַצְרֵיהֶֽן׃ {ס}",
+      "douay_rheims": "From Accaron even to the sea: all places that lie towards Azotus and the villages thereof.",
+      "finnish_biblia": "Ekronista mereen asti, kaikki mikä ulottuu Asdodiin, ja heidän kylänsä; ",
       "king_james": "From Ekron even unto the sea, all that lay near Ashdod, with their villages:"
     },
     {
       "verse": 47,
       "latin_vulgate": "Azotus cum vicis et villulis suis. Gaza cum vicis et villulis suis, usque ad torrentem Ægypti, et mare magnum terminus ejus. ",
       "hebrew_masoretic": "אַשְׁדּ֞וֹד בְּנוֹתֶ֣יהָ וַחֲצֵרֶ֗יהָ עַזָּ֛ה בְּנוֹתֶ֥יהָ וַחֲצֵרֶ֖יהָ עַד־נַ֣חַל מִצְרָ֑יִם וְהַיָּ֥ם (הגבול) [הַגָּד֖וֹל] וּגְבֽוּל׃ {ס}",
+      "douay_rheims": "Azotus with its towns and villages. Gaza with its towns and villages, even to the torrent of Egypt, and the great sea that is the border thereof.",
+      "finnish_biblia": "Asdod tyttärinensä ja kylinensä; Gasa tyttärinensä ja kylinensä, Egyptin veteen asti; ja se suuri meri on hänen rajansa. ",
       "king_james": "Ashdod with her towns and her villages, Gaza with her towns and her villages, unto the river of Egypt, and the great sea, and the border thereof:"
     },
     {
       "verse": 48,
       "latin_vulgate": "Et in monte : Samir et Jether et Socoth ",
       "hebrew_masoretic": "וּבָהָ֑ר שָׁמִ֥יר וְיַתִּ֖יר וְשׂוֹכֹֽה׃",
+      "douay_rheims": "And in the mountain Samir and Jether and Socoth,",
+      "finnish_biblia": "Mutta vuorella oli: Samir, Jatir, Soko; ",
       "king_james": "And in the mountains, Shamir, and Jattir, and Socoh,"
     },
     {
       "verse": 49,
       "latin_vulgate": "et Danna et Cariathsenna, hæc est Dabir : ",
       "hebrew_masoretic": "וְדַנָּ֥ה וְקִרְיַת־סַנָּ֖ה הִ֥יא דְבִֽר׃ {ס}",
+      "douay_rheims": "And Danna and Cariath-senna, this is Dabir:",
+      "finnish_biblia": "Danna, KirjatSanna, se on Debir; ",
       "king_james": "And Dannah, and Kirjath–sannah, which is Debir,"
     },
     {
       "verse": 50,
       "latin_vulgate": "Anab et Istemo et Anim, ",
       "hebrew_masoretic": "וַעֲנָ֥ב וְאֶשְׁתְּמֹ֖ה וְעָנִֽים׃",
+      "douay_rheims": "Anab and Istemo and Anim,",
+      "finnish_biblia": "Anab, Estemo, Anim; ",
       "king_james": "And Anab, and Eshtemoh, and Anim,"
     },
     {
       "verse": 51,
       "latin_vulgate": "Gosen et Olon et Gilo : civitates undecim et villæ earum. ",
       "hebrew_masoretic": "וְגֹ֥שֶׁן וְחֹלֹ֖ן וְגִלֹ֑ה עָרִ֥ים אַחַת־עֶשְׂרֵ֖ה וְחַצְרֵיהֶֽן׃ {ס}",
+      "douay_rheims": "Gosen and Olon and Gilo: eleven cities and their villages.",
+      "finnish_biblia": "Gosen, Holon, Gilo: yksitoistakymmentä kaupunkia ja heidän kylänsä; ",
       "king_james": "And Goshen, and Holon, and Giloh; eleven cities with their villages:"
     },
     {
       "verse": 52,
       "latin_vulgate": "Arab et Ruma et Esaan, ",
       "hebrew_masoretic": "אֲרַ֥ב וְרוּמָ֖ה וְאֶשְׁעָֽן׃",
+      "douay_rheims": "Arab and Ruma and Esaan,",
+      "finnish_biblia": "Arab, Duma, Esean; ",
       "king_james": "Arab, and Dumah, and Eshean,"
     },
     {
       "verse": 53,
       "latin_vulgate": "et Janum et Beththaphua et Apheca, ",
       "hebrew_masoretic": "(וינים) [וְיָנ֥וּם] וּבֵית־תַּפּ֖וּחַ וַאֲפֵֽקָה׃",
+      "douay_rheims": "And Janum and Beththaphua and Apheca,",
+      "finnish_biblia": "Janum, BetTapua, Apheka; ",
       "king_james": "And Janum, and Beth–tappuah, and Aphekah,"
     },
     {
       "verse": 54,
       "latin_vulgate": "Athmatha, et Cariath Arbe, hæc est Hebron, et Sior : civitates novem, et villæ earum. ",
       "hebrew_masoretic": "וְחֻמְטָ֗ה וְקִרְיַ֥ת אַרְבַּ֛ע הִ֥יא חֶבְר֖וֹן וְצִיעֹ֑ר עָרִ֥ים תֵּ֖שַׁע וְחַצְרֵיהֶֽן׃ {ס}",
+      "douay_rheims": "Athmatha and Cariath-Arbe, this is Hebron and Sior: nine cities and their villages.",
+      "finnish_biblia": "Humta, KirjatArba, se on Hebron, Zior: yhdeksän kaupunkia ja heidän kylänsä; ",
       "king_james": "And Humtah, and Kirjath–arba, which is Hebron, and Zior; nine cities with their villages:"
     },
     {
       "verse": 55,
       "latin_vulgate": "Maon et Carmel et Ziph et Jota, ",
       "hebrew_masoretic": "מָע֥וֹן ׀ כַּרְמֶ֖ל וָזִ֥יף וְיוּטָּֽה׃",
+      "douay_rheims": "Maon and Carmel and Ziph and Jota,",
+      "finnish_biblia": "Maon, Karmel, Siph, Juta; ",
       "king_james": "Maon, Carmel, and Ziph, and Juttah,"
     },
     {
       "verse": 56,
       "latin_vulgate": "Jezraël et Jucadam et Zanoë, ",
       "hebrew_masoretic": "וְיִזְרְעֶ֥אל וְיׇקְדְעָ֖ם וְזָנֽוֹחַ׃",
+      "douay_rheims": "Jezrael and Jucadam and Zanoe,",
+      "finnish_biblia": "Jisreel, Jokdeam, Sanoa; ",
       "king_james": "And Jezreel, and Jokdeam, and Zanoah,"
     },
     {
       "verse": 57,
       "latin_vulgate": "Accain, Gabaa et Thamna : civitates decem et villæ earum. ",
       "hebrew_masoretic": "הַקַּ֖יִן גִּבְעָ֣ה וְתִמְנָ֑ה עָרִ֥ים עֶ֖שֶׂר וְחַצְרֵיהֶֽן׃ {ס}",
+      "douay_rheims": "Accain, Gabaa and Thamna: ten cities and their villages.",
+      "finnish_biblia": "Kain, Kibea, Timna: kymmenen kaupunkia ja heidän kylänsä; ",
       "king_james": "Cain, Gibeah, and Timnah; ten cities with their villages:"
     },
     {
       "verse": 58,
       "latin_vulgate": "Halhul, et Besur, et Gedor, ",
       "hebrew_masoretic": "חַלְח֥וּל בֵּֽית־צ֖וּר וּגְדֽוֹר׃",
+      "douay_rheims": "Halhul, and Bessur, and Gedor,",
+      "finnish_biblia": "Halhul, Betsur, Gedor; ",
       "king_james": "Halhul, Beth–zur, and Gedor,"
     },
     {
       "verse": 59,
       "latin_vulgate": "Mareth, et Bethanoth, et Eltecon : civitates sex et villæ earum. ",
       "hebrew_masoretic": "וּמַעֲרָ֥ת וּבֵית־עֲנ֖וֹת וְאֶלְתְּקֹ֑ן עָרִ֥ים שֵׁ֖שׁ וְחַצְרֵיהֶֽן׃ {פ}",
+      "douay_rheims": "Mareth, and Bethanoth, and Eltecon: six cities and their villages.",
+      "finnish_biblia": "Maarat, BetAnot, Eltekon: kuusi kaupunkia ja heidän kylänsä; ",
       "king_james": "And Maarath, and Beth–anoth, and Eltekon; six cities with their villages:"
     },
     {
       "verse": 60,
       "latin_vulgate": "Cariathbaal, hæc est Cariathiarim urbs silvarum, et Arebba : civitates duæ, et villæ earum. ",
       "hebrew_masoretic": "קִרְיַת־בַּ֗עַל הִ֛יא קִרְיַ֥ת יְעָרִ֖ים וְהָרַבָּ֑ה עָרִ֥ים שְׁתַּ֖יִם וְחַצְרֵיהֶֽן׃ {ס}",
+      "douay_rheims": "Cariathbaal, the same is Cariathiarim the city of woods, and Arebba: two cities and their villages.",
+      "finnish_biblia": "KirjatBaal, se on KirjatJearim, Harabba: kaksi kaupunkia ja heidän kylänsä. ",
       "king_james": "Kirjath–baal, which is Kirjath–jearim, and Rabbah; two cities with their villages:"
     },
     {
       "verse": 61,
       "latin_vulgate": "In deserto Betharaba, Meddin, et Sachacha, ",
       "hebrew_masoretic": "בַּמִּדְבָּ֑ר בֵּ֚ית הָעֲרָבָ֔ה מִדִּ֖ין וּסְכָכָֽה׃",
+      "douay_rheims": "In the desert Betharaba, Meddin and Sachacha,",
+      "finnish_biblia": "Mutta korvessa oli BetAraba, Middin, Sekaka; ",
       "king_james": "In the wilderness, Beth–arabah, Middin, and Secacah,"
     },
     {
       "verse": 62,
       "latin_vulgate": "et Nebsan, et civitas salis, et Engaddi : civitates sex, et villæ earum. ",
       "hebrew_masoretic": "וְהַנִּבְשָׁ֥ן וְעִיר־הַמֶּ֖לַח וְעֵ֣ין גֶּ֑דִי עָרִ֥ים שֵׁ֖שׁ וְחַצְרֵיהֶֽן׃",
+      "douay_rheims": "And Nebsan, and the city of salt, and Engaddi: six cities and their villages.",
+      "finnish_biblia": "Nibsan, ja Suolakaupunki, Engedi; kuusi kaupunkia ja heidän kylänsä. ",
       "king_james": "And Nibshan, and the city of Salt, and En–gedi; six cities with their villages."
     },
     {
       "verse": 63,
       "latin_vulgate": "Jebusæum autem habitatorem Jerusalem non potuerunt filii Juda delere : habitavitque Jebusæus cum filiis Juda in Jerusalem usque in præsentem diem.   ",
       "hebrew_masoretic": "וְאֶת־הַיְבוּסִי֙ יוֹשְׁבֵ֣י יְרוּשָׁלַ֔͏ִם לֹא־[יָכְל֥וּ] (יוכלו) בְנֵי־יְהוּדָ֖ה לְהוֹרִישָׁ֑ם וַיֵּ֨שֶׁב הַיְבוּסִ֜י אֶת־בְּנֵ֤י יְהוּדָה֙ בִּיר֣וּשָׁלַ֔͏ִם עַ֖ד הַיּ֥וֹם הַזֶּֽה׃ {פ}",
+      "douay_rheims": "But the children of Juda could not destroy the Jebusite that dwelt in Jerusalem: and the Jebusite dwelt with the children of Juda in Jerusalem until this present day. ",
+      "finnish_biblia": "Mutta Jebusilaiset asuivat Jerusalemissa, ja Juudan lapset ei voineet heitä ajaa ulos. Ja silloin jäivät Jebusilaiset asumaan Juudan lasten kanssa Jerusalemissa tähän päivään asti.   ",
       "king_james": "As for the Jebusites the inhabitants of Jerusalem, the children of Judah could not drive them out: but the Jebusites dwell with the children of Judah at Jerusalem unto this day. "
     }
   ]

@@ -2,6 +2,8 @@
   "book_id": "1KI",
   "latin_name": "III Regum",
   "hebrew_name": "מְלָכִים א",
+  "douay_name": "3 Kings",
+  "finnish_name": "1. Kuningasten kirja",
   "english_name": "1 Kings",
   "chapter": 8,
   "verses": [
@@ -9,396 +11,528 @@
       "verse": 1,
       "latin_vulgate": "Tunc congregati sunt omnes majores natu Israël cum principibus tribuum, et duces familiarum filiorum Israël, ad regem Salomonem in Jerusalem, ut deferrent arcam fœderis Domini de civitate David, id est, de Sion. ",
       "hebrew_masoretic": "אָ֣ז יַקְהֵ֣ל שְׁלֹמֹ֣ה אֶת־זִקְנֵ֣י יִשְׂרָאֵ֡ל אֶת־כׇּל־רָאשֵׁ֣י הַמַּטּוֹת֩ נְשִׂיאֵ֨י הָאָב֜וֹת לִבְנֵ֧י יִשְׂרָאֵ֛ל אֶל־הַמֶּ֥לֶךְ שְׁלֹמֹ֖ה יְרוּשָׁלָ֑͏ִם לְֽהַעֲל֞וֹת אֶת־אֲר֧וֹן בְּרִית־יְהֹוָ֛ה מֵעִ֥יר דָּוִ֖ד הִ֥יא צִיּֽוֹן׃",
+      "douay_rheims": "Then all the ancients of Israel, with the princes of the tribes, and the heads of the families of the children of Israel, were assembled to king Solomon, in Jerusalem: that they might carry the ark of the covenant of the Lord, out of the city of David, that is, out of Sion.",
+      "finnish_biblia": "Silloin kokosi Salomo Israelin vanhimmat, kaikki sukukuntain ylimmäiset ja isäin päämiehet Israelin lasten seasta kuningas Salomon tykö Jerusalemiin, viemään Herran liitonarkkia Davidin kaupungista, se on Zion. ",
       "king_james": "Then Solomon assembled the elders of Israel, and all the heads of the tribes, the chief of the fathers of the children of Israel, unto king Solomon in Jerusalem, that they might bring up the ark of the covenant of the Lord out of the city of David, which is Zion."
     },
     {
       "verse": 2,
       "latin_vulgate": "Convenitque ad regem Salomonem universus Israël in mense Ethanim, in solemni die : ipse est mensis septimus. ",
       "hebrew_masoretic": "וַיִּקָּ֨הֲל֜וּ אֶל־הַמֶּ֤לֶךְ שְׁלֹמֹה֙ כׇּל־אִ֣ישׁ יִשְׂרָאֵ֔ל בְּיֶ֥רַח הָאֵתָנִ֖ים בֶּחָ֑ג ה֖וּא הַחֹ֥דֶשׁ הַשְּׁבִיעִֽי׃",
+      "douay_rheims": "And all Israel assembled themselves to king Solomon, on the festival day, in the month of Ethanim, the same is the seventh month.",
+      "finnish_biblia": "Ja kaikki Israelin miehet kokoontuivat kuningas Salomon tykö Ethanimin kuukaudella, juhlapäivänä, se on seitsemäs kuukausi. ",
       "king_james": "And all the men of Israel assembled themselves unto king Solomon at the feast in the month Ethanim, which is the seventh month."
     },
     {
       "verse": 3,
       "latin_vulgate": "Veneruntque cuncti senes de Israël, et tulerunt arcam sacerdotes, ",
       "hebrew_masoretic": "וַיָּבֹ֕אוּ כֹּ֖ל זִקְנֵ֣י יִשְׂרָאֵ֑ל וַיִּשְׂא֥וּ הַכֹּהֲנִ֖ים אֶת־הָאָרֽוֹן׃",
+      "douay_rheims": "And all the ancients of Israel came, and the priests took up the ark,",
+      "finnish_biblia": "Ja kuin kaikki Israelin vanhimmat tulivat kokoon, nostivat papit arkin, ",
       "king_james": "And all the elders of Israel came, and the priests took up the ark."
     },
     {
       "verse": 4,
       "latin_vulgate": "et portaverunt arcam Domini, et tabernaculum fœderis, et omnia vasa sanctuarii quæ erant in tabernaculo : et ferebant ea sacerdotes et Levitæ. ",
       "hebrew_masoretic": "וַֽיַּעֲל֞וּ אֶת־אֲר֤וֹן יְהֹוָה֙ וְאֶת־אֹ֣הֶל מוֹעֵ֔ד וְאֶת־כׇּל־כְּלֵ֥י הַקֹּ֖דֶשׁ אֲשֶׁ֣ר בָּאֹ֑הֶל וַיַּעֲל֣וּ אֹתָ֔ם הַכֹּהֲנִ֖ים וְהַלְוִיִּֽם׃",
+      "douay_rheims": "And carried the ark of the Lord, and the tabernacle of the covenant, and all the vessels of the sanctuary, that were in the tabernacle: and the priests and the Levites carried them.",
+      "finnish_biblia": "ja kantoivat Herran arkin ja seurakunnan majan, ja kaikki pyhän kalut, jotka majassa olivat: ne veivät papit ja Leviläiset ylös. ",
       "king_james": "And they brought up the ark of the Lord, and the tabernacle of the congregation, and all the holy vessels that were in the tabernacle, even those did the priests and the Levites bring up."
     },
     {
       "verse": 5,
       "latin_vulgate": "Rex autem Salomon, et omnis multitudo Israël quæ convenerat ad eum, gradiebatur cum illo ante arcam, et immolabant oves et boves absque æstimatione et numero. ",
       "hebrew_masoretic": "וְהַמֶּ֣לֶךְ שְׁלֹמֹ֗ה וְכׇל־עֲדַ֤ת יִשְׂרָאֵל֙ הַנּוֹעָדִ֣ים עָלָ֔יו אִתּ֖וֹ לִפְנֵ֣י הָאָר֑וֹן מְזַבְּחִים֙ צֹ֣אן וּבָקָ֔ר אֲשֶׁ֧ר לֹֽא־יִסָּפְר֛וּ וְלֹ֥א יִמָּנ֖וּ מֵרֹֽב׃",
+      "douay_rheims": "And king Solomon, and all the multitude of Israel, that were assembled unto him, went with him before the ark, and they sacrificed sheep and oxen, that could not be counted or numbered.",
+      "finnish_biblia": "Ja kuningas Salomo ja koko Israelin joukko, joka hänen tykönänsä itsensä oli koonnut, menivät hänen kanssansa arkin edellä, ja uhrasivat lampaita ja karjaa, joita ei arvattu eikä luettu paljouden tähden. ",
       "king_james": "And king Solomon, and all the congregation of Israel, that were assembled unto him, were with him before the ark, sacrificing sheep and oxen, that could not be told nor numbered for multitude."
     },
     {
       "verse": 6,
       "latin_vulgate": "Et intulerunt sacerdotes arcam fœderis Domini in locum suum, in oraculum templi, in Sanctum sanctorum, subter alas cherubim. ",
       "hebrew_masoretic": "וַיָּבִ֣אוּ הַ֠כֹּהֲנִ֠ים אֶת־אֲר֨וֹן בְּרִית־יְהֹוָ֧ה אֶל־מְקוֹמ֛וֹ אֶל־דְּבִ֥יר הַבַּ֖יִת אֶל־קֹ֣דֶשׁ הַקֳּדָשִׁ֑ים אֶל־תַּ֖חַת כַּנְפֵ֥י הַכְּרוּבִֽים׃",
+      "douay_rheims": "And the priests brought in the ark of the covenant of the Lord into its place, into the oracle of the temple, into the holy of holies, under the wings of the cherubims.",
+      "finnish_biblia": "Ja näin kantoivat papit Herran liitonarkin siallensa templin kuoriin, kaikkein pyhimpään, Kerubimin siipein alle; ",
       "king_james": "And the priests brought in the ark of the covenant of the Lord unto his place, into the oracle of the house, to the most holy place, even under the wings of the cherubims."
     },
     {
       "verse": 7,
       "latin_vulgate": "Siquidem cherubim expandebant alas super locum arcæ, et protegebant arcam, et vectes ejus desuper. ",
       "hebrew_masoretic": "כִּ֤י הַכְּרוּבִים֙ פֹּרְשִׂ֣ים כְּנָפַ֔יִם אֶל־מְק֖וֹם הָאָר֑וֹן וַיָּסֹ֧כּוּ הַכְּרֻבִ֛ים עַל־הָאָר֥וֹן וְעַל־בַּדָּ֖יו מִלְמָֽעְלָה׃",
+      "douay_rheims": "For the cherubims spread forth their wings over the place of the ark, and covered the ark, and the staves thereof above.",
+      "finnish_biblia": "Sillä Kerubimit hajoittivat siipensä arkin siaan, ja Kerubimit varjosivat arkin ja korennot ylhäältä. ",
       "king_james": "For the cherubims spread forth their two wings over the place of the ark, and the cherubims covered the ark and the staves thereof above."
     },
     {
       "verse": 8,
       "latin_vulgate": "Cumque eminerent vectes, et apparerent summitates eorum foris sanctuarium ante oraculum, non apparebant ultra extrinsecus, qui et fuerunt ibi usque in præsentem diem. ",
       "hebrew_masoretic": "וַֽיַּאֲרִ֘כוּ֮ הַבַּדִּים֒ וַיֵּרָאוּ֩ רָאשֵׁ֨י הַבַּדִּ֤ים מִן־הַקֹּ֙דֶשׁ֙ עַל־פְּנֵ֣י הַדְּבִ֔יר וְלֹ֥א יֵרָא֖וּ הַח֑וּצָה וַיִּ֣הְיוּ שָׁ֔ם עַ֖ד הַיּ֥וֹם הַזֶּֽה׃",
+      "douay_rheims": "And whereas the staves stood out, the ends of them were seen without, in the sanctuary before the oracle, but were not seen farther out, and there they have been unto this day.",
+      "finnish_biblia": "Ja korennot vedettiin niin pitkälle ulos, että niiden päät näkyivät pyhästä kuorin eteen; vaan ulkoapäin ne eivät näkyneet; ja ne ovat siellä tähän päivään asti. ",
       "king_james": "And they drew out the staves, that the ends of the staves were seen out in the holy place before the oracle, and they were not seen without: and there they are unto this day."
     },
     {
       "verse": 9,
       "latin_vulgate": "In arca autem non erat aliud nisi duæ tabulæ lapideæ quas posuerat in ea Moyses in Horeb, quando pepigit Dominus fœdus cum filiis Israël, cum egrederentur de terra Ægypti. ",
       "hebrew_masoretic": "אֵ֚ין בָּֽאָר֔וֹן רַ֗ק שְׁנֵי֙ לֻח֣וֹת הָאֲבָנִ֔ים אֲשֶׁ֨ר הִנִּ֥חַ שָׁ֛ם מֹשֶׁ֖ה בְּחֹרֵ֑ב אֲשֶׁ֨ר כָּרַ֤ת יְהֹוָה֙ עִם־בְּנֵ֣י יִשְׂרָאֵ֔ל בְּצֵאתָ֖ם מֵאֶ֥רֶץ מִצְרָֽיִם׃",
+      "douay_rheims": "Now in the ark there was nothing else but the two tables of stone, which Moses put there at Horeb, when the Lord made a covenant with the children of Israel, when they came out of the land of Egypt.",
+      "finnish_biblia": "Arkissa ei ollut mitään, paitsi Moseksen kahta kivistä taulua, jotka Moses sinne pani Horebissa, kuin Herra liiton teki Israelin lasten kanssa, heidän lähteissänsä Egyptistä. ",
       "king_james": "There was nothing in the ark save the two tables of stone, which Moses put there at Horeb, when the Lord made a covenant with the children of Israel, when they came out of the land of Egypt."
     },
     {
       "verse": 10,
       "latin_vulgate": "Factum est autem cum exissent sacerdotes de sanctuario, nebula implevit domum Domini, ",
       "hebrew_masoretic": "וַיְהִ֕י בְּצֵ֥את הַכֹּהֲנִ֖ים מִן־הַקֹּ֑דֶשׁ וְהֶעָנָ֥ן מָלֵ֖א אֶת־בֵּ֥ית יְהֹוָֽה׃",
+      "douay_rheims": "And it came to pass, when the priests were come out of the sanctuary, that a cloud filled the house of the Lord,",
+      "finnish_biblia": "Ja tapahtui, kun papit menivät pyhästä ulos, niin täytti pilvi Herran huoneen: ",
       "king_james": "And it came to pass, when the priests were come out of the holy place, that the cloud filled the house of the Lord,"
     },
     {
       "verse": 11,
       "latin_vulgate": "et non poterant sacerdotes stare et ministrare propter nebulam : impleverat enim gloria Domini domum Domini. ",
       "hebrew_masoretic": "וְלֹא־יָכְל֧וּ הַכֹּהֲנִ֛ים לַעֲמֹ֥ד לְשָׁרֵ֖ת מִפְּנֵ֣י הֶעָנָ֑ן כִּי־מָלֵ֥א כְבוֹד־יְהֹוָ֖ה אֶת־בֵּ֥ית יְהֹוָֽה׃ {פ}",
+      "douay_rheims": "And the priests could not stand to minister because of the cloud: for the glory of the Lord had filled the house of the Lord.",
+      "finnish_biblia": "Niin ettei papit saaneet seisoa ja tehdä virkaansa pilven tähden; sillä Herran kunnia täytti Herran huoneen. ",
       "king_james": "So that the priests could not stand to minister because of the cloud: for the glory of the Lord had filled the house of the Lord."
     },
     {
       "verse": 12,
       "latin_vulgate": "Tunc ait Salomon : Dominus dixit ut habitaret in nebula. ",
       "hebrew_masoretic": "אָ֖ז אָמַ֣ר שְׁלֹמֹ֑ה יְהֹוָ֣ה אָמַ֔ר לִשְׁכֹּ֖ן בָּעֲרָפֶֽל׃",
+      "douay_rheims": "Then Solomon said: The Lord said that he would dwell in a cloud.",
+      "finnish_biblia": "Silloin sanoi Salomo: Herra on sanonut asuvansa pimeydessä. ",
       "king_james": "Then spake Solomon, The Lord said that he would dwell in the thick darkness."
     },
     {
       "verse": 13,
       "latin_vulgate": "Ædificans ædificavi domum in habitaculum tuum : firmissimum solium tuum in sempiternum. ",
       "hebrew_masoretic": "בָּנֹ֥ה בָנִ֛יתִי בֵּ֥ית זְבֻ֖ל לָ֑ךְ מָכ֥וֹן לְשִׁבְתְּךָ֖ עוֹלָמִֽים׃",
+      "douay_rheims": "Building, I have built a house for thy dwelling, to be thy most firm throne for ever.",
+      "finnish_biblia": "Minä olen tosin rakentanut sinulle huoneen asumiseksi ja istuimen, ettäs siellä asuisit ijankaikkisesti. ",
       "king_james": "I have surely built thee an house to dwell in, a settled place for thee to abide in for ever."
     },
     {
       "verse": 14,
       "latin_vulgate": "Convertitque rex faciem suam, et benedixit omni ecclesiæ Israël : omnia enim ecclesia Israël stabat. ",
       "hebrew_masoretic": "וַיַּסֵּ֤ב הַמֶּ֙לֶךְ֙ אֶת־פָּנָ֔יו וַיְבָ֕רֶךְ אֵ֖ת כׇּל־קְהַ֣ל יִשְׂרָאֵ֑ל וְכׇל־קְהַ֥ל יִשְׂרָאֵ֖ל עֹמֵֽד׃",
+      "douay_rheims": "And the king turned his face, and blessed all the assembly of Israel: for all the assembly of Israel stood.",
+      "finnish_biblia": "Ja kuningas käänsi kasvonsa ja siunasi koko Israelin joukon. Ja koko Israelin joukko seisoi. ",
       "king_james": "And the king turned his face about, and blessed all the congregation of Israel: (and all the congregation of Israel stood;)"
     },
     {
       "verse": 15,
       "latin_vulgate": "Et ait Salomon : Benedictus Dominus Deus Israël, qui locutus est ore suo ad David patrem meum, et in manibus ejus perfecit, dicens : ",
       "hebrew_masoretic": "וַיֹּ֗אמֶר בָּר֤וּךְ יְהֹוָה֙ אֱלֹהֵ֣י יִשְׂרָאֵ֔ל אֲשֶׁר֙ דִּבֶּ֣ר בְּפִ֔יו אֵ֖ת דָּוִ֣ד אָבִ֑י וּבְיָד֥וֹ מִלֵּ֖א לֵאמֹֽר׃",
+      "douay_rheims": "And Solomon said: Blessed be the Lord the God of Israel, who spoke with his mouth to David, my father, and with his own hands hath accomplished it, saying:",
+      "finnish_biblia": "Ja hän sanoi: kiitetty olkoon Herra Israelin Jumala, joka suullansa minun isälleni Davidille puhunut on, ja on täyttänyt kädellänsä, ja sanonut: ",
       "king_james": "And he said, Blessed be the Lord God of Israel, which spake with his mouth unto David my father, and hath with his hand fulfilled it, saying,"
     },
     {
       "verse": 16,
       "latin_vulgate": "A die qua eduxi populum meum Israël de Ægypto, non elegi civitatem de universis tribubus Israël, ut ædificaretur domus, et esset nomen meum ibi : sed elegi David ut esset super populum meum Israël. ",
       "hebrew_masoretic": "מִן־הַיּ֗וֹם אֲשֶׁ֨ר הוֹצֵ֜אתִי אֶת־עַמִּ֣י אֶת־יִשְׂרָאֵל֮ מִמִּצְרַ֒יִם֒ לֹֽא־בָחַ֣רְתִּֽי בְעִ֗יר מִכֹּל֙ שִׁבְטֵ֣י יִשְׂרָאֵ֔ל לִבְנ֣וֹת בַּ֔יִת לִהְי֥וֹת שְׁמִ֖י שָׁ֑ם וָאֶבְחַ֣ר בְּדָוִ֔ד לִהְי֖וֹת עַל־עַמִּ֥י יִשְׂרָאֵֽל׃",
+      "douay_rheims": "Since the day that I brought my people Israel, out of Egypt, I chose no city out of all the tribes of Israel, for a house to be built, that my name might be there: but I chose David to be over my people Israel.",
+      "finnish_biblia": "Siitä päivästä, jona minä johdatin minun kansani Israelin Egyptistä, en ole minä yhtään kaupunkia valinnut kaikesta Israelin sukukunnasta, että minulle huone rakennettaisiin, niin että minun nimeni olis siellä: mutta Davidin minä olen valinnut minun kansani Israelin päälle. ",
       "king_james": "Since the day that I brought forth my people Israel out of Egypt, I chose no city out of all the tribes of Israel to build an house, that my name might be therein; but I chose David to be over my people Israel."
     },
     {
       "verse": 17,
       "latin_vulgate": "Voluitque David pater meus ædificare domum nomini Domini Dei Israël : ",
       "hebrew_masoretic": "וַיְהִ֕י עִם־לְבַ֖ב דָּוִ֣ד אָבִ֑י לִבְנ֣וֹת בַּ֔יִת לְשֵׁ֥ם יְהֹוָ֖ה אֱלֹהֵ֥י יִשְׂרָאֵֽל׃",
+      "douay_rheims": "And David, my father, would have built a house to the name of the Lord, the God of Israel:",
+      "finnish_biblia": "Ja minun isäni David aikoi rakentaa huoneen Herran Israelin Jumalan nimelle. ",
       "king_james": "And it was in the heart of David my father to build an house for the name of the Lord God of Israel."
     },
     {
       "verse": 18,
       "latin_vulgate": "et ait Dominus ad David patrem meum : Quod cogitasti in corde tuo ædificare domum nomini meo, bene fecisti, hoc ipsum mente tractans. ",
       "hebrew_masoretic": "וַיֹּ֤אמֶר יְהֹוָה֙ אֶל־דָּוִ֣ד אָבִ֔י יַ֗עַן אֲשֶׁ֤ר הָיָה֙ עִם־לְבָ֣בְךָ֔ לִבְנ֥וֹת בַּ֖יִת לִשְׁמִ֑י הֱֽטִיבֹ֔תָ כִּ֥י הָיָ֖ה עִם־לְבָבֶֽךָ׃",
+      "douay_rheims": "And the Lord said to David, my father: Whereas, thou hast thought in thy heart to build a house to my name, thou hast done well in having this same thing in thy mind.",
+      "finnish_biblia": "Mutta Herra sanoi isälleni Davidille: ettäs aioit rakentaa minun nimelleni huonetta, olet sinä sen hyvästi tehnyt, ettäs sen aioit; ",
       "king_james": "And the Lord said unto David my father, Whereas it was in thine heart to build an house unto my name, thou didst well that it was in thine heart."
     },
     {
       "verse": 19,
       "latin_vulgate": "Verumtamen tu non ædificabis mihi domum, sed filius tuus, qui egredietur de renibus tuis, ipse ædificabit domum nomini meo. ",
       "hebrew_masoretic": "רַ֣ק אַתָּ֔ה לֹ֥א תִבְנֶ֖ה הַבָּ֑יִת כִּ֤י אִם־בִּנְךָ֙ הַיֹּצֵ֣א מֵחֲלָצֶ֔יךָ הֽוּא־יִבְנֶ֥ה הַבַּ֖יִת לִשְׁמִֽי׃",
+      "douay_rheims": "Nevertheless, thou shalt not build me a house, but thy son, that shall come forth out of thy loins, he shall build a house to my name.",
+      "finnish_biblia": "Kuitenkin ei sinun pidä sitä huonetta rakentaman; vaan sinun poikas, joka sinun kupeistas tulee, hän on rakentava minun nimelleni huoneen. ",
       "king_james": "Nevertheless thou shalt not build the house; but thy son that shall come forth out of thy loins, he shall build the house unto my name."
     },
     {
       "verse": 20,
       "latin_vulgate": "Confirmavit Dominus sermonem suum quem locutus est : stetique pro David patre meo, et sedi super thronum Israël, sicut locutus est Dominus : et ædificavi domum nomini Domini Dei Israël. ",
       "hebrew_masoretic": "וַיָּ֣קֶם יְהֹוָ֔ה אֶת־דְּבָר֖וֹ אֲשֶׁ֣ר דִּבֵּ֑ר וָאָקֻ֡ם תַּ֩חַת֩ דָּוִ֨ד אָבִ֜י וָאֵשֵׁ֣ב ׀ עַל־כִּסֵּ֣א יִשְׂרָאֵ֗ל כַּֽאֲשֶׁר֙ דִּבֶּ֣ר יְהֹוָ֔ה וָאֶבְנֶ֣ה הַבַּ֔יִת לְשֵׁ֥ם יְהֹוָ֖ה אֱלֹהֵ֥י יִשְׂרָאֵֽל׃",
+      "douay_rheims": "The Lord hath performed his word which he spoke. And I stand in the room of David, my father, and sit upon the throne of Israel, as the Lord promised: and have built a house to the name of the Lord, the God of Israel.",
+      "finnish_biblia": "Ja Herra on vahvistanut sanansa, jonka hän puhunut on; sillä minä olen noussut minun isäni Davidin siaan, ja istun Israelin istuimella, niinkuin Herra puhunut on, ja olen rakentanut Herran Israelin Jumalan nimelle huoneen, ",
       "king_james": "And the Lord hath performed his word that he spake, and I am risen up in the room of David my father, and sit on the throne of Israel, as the Lord promised, and have built an house for the name of the Lord God of Israel."
     },
     {
       "verse": 21,
       "latin_vulgate": "Et constitui ibi locum arcæ in qua fœdus Domini est, quod percussit cum patribus nostris quando egressi sunt de terra Ægypti.  ",
       "hebrew_masoretic": "וָאָשִׂ֨ם שָׁ֤ם מָקוֹם֙ לָאָר֔וֹן אֲשֶׁר־שָׁ֖ם בְּרִ֣ית יְהֹוָ֑ה אֲשֶׁ֤ר כָּרַת֙ עִם־אֲבֹתֵ֔ינוּ בְּהוֹצִיא֥וֹ אֹתָ֖ם מֵאֶ֥רֶץ מִצְרָֽיִם׃ {ס}",
+      "douay_rheims": "And I have set there a place for the ark, wherein is the covenant of the Lord, which he made with our fathers, when they came out of the land of Egypt.",
+      "finnish_biblia": "Ja olen siellä valmistanut arkille sian, kussa Herran liitto on, jonka hän teki meidän isillemme, johdattaissansa heitä Egyptin maalta. ",
       "king_james": "And I have set there a place for the ark, wherein is the covenant of the Lord, which he made with our fathers, when he brought them out of the land of Egypt."
     },
     {
       "verse": 22,
       "latin_vulgate": " Stetit autem Salomon ante altare Domini in conspectu ecclesiæ Israël, et expandit manus suas in cælum, ",
       "hebrew_masoretic": "וַיַּעֲמֹ֣ד שְׁלֹמֹ֗ה לִפְנֵי֙ מִזְבַּ֣ח יְהֹוָ֔ה נֶ֖גֶד כׇּל־קְהַ֣ל יִשְׂרָאֵ֑ל וַיִּפְרֹ֥שׂ כַּפָּ֖יו הַשָּׁמָֽיִם׃",
+      "douay_rheims": "And Solomon stood before the altar of the Lord, in the sight of the assembly of Israel, and spread forth his hands towards heaven,",
+      "finnish_biblia": "Ja Salomo seisoi Herran alttarin edessä koko Israelin joukon edessä, ja hajoitti kätensä ylös taivaasen päin, ",
       "king_james": "And Solomon stood before the altar of the Lord in the presence of all the congregation of Israel, and spread forth his hands toward heaven:"
     },
     {
       "verse": 23,
       "latin_vulgate": "et ait : Domine Deus Israël, non est similis tui deus in cælo desuper, et super terram deorsum : qui custodis pactum et misericordiam servis tuis qui ambulant coram te in toto corde suo. ",
       "hebrew_masoretic": "וַיֹּאמַ֗ר יְהֹוָ֞ה אֱלֹהֵ֤י יִשְׂרָאֵל֙ אֵין־כָּמ֣וֹךָ אֱלֹהִ֔ים בַּשָּׁמַ֣יִם מִמַּ֔עַל וְעַל־הָאָ֖רֶץ מִתָּ֑חַת שֹׁמֵ֤ר הַבְּרִית֙ וְֽהַחֶ֔סֶד לַעֲבָדֶ֕יךָ הַהֹלְכִ֥ים לְפָנֶ֖יךָ בְּכׇל־לִבָּֽם׃",
+      "douay_rheims": "And said: Lord God of Israel, there is no God like thee, in heaven above, or on the earth beneath: who keepest covenant and mercy with thy servants, that have walked before thee with all their heart:",
+      "finnish_biblia": "Ja sanoi: Herra Israelin Jumala! ei ole yhtään Jumalaa sinun vertaistas, ylhäällä taivaasa taikka alhaalla maassa, joka pidät liiton ja laupiuden palvelioilles, jotka sinun edessäs kaikesta sydämestänsä vaeltavat, ",
       "king_james": "And he said, Lord God of Israel, there is no God like thee, in heaven above, or on earth beneath, who keepest covenant and mercy with thy servants that walk before thee with all their heart:"
     },
     {
       "verse": 24,
       "latin_vulgate": "Qui custodisti servo tuo David patri meo quæ locutus es ei : ore locutus es, et manibus perfecisti, ut hæc dies probat. ",
       "hebrew_masoretic": "אֲשֶׁ֣ר שָׁמַ֗רְתָּ לְעַבְדְּךָ֙ דָּוִ֣ד אָבִ֔י אֵ֥ת אֲשֶׁר־דִּבַּ֖רְתָּ ל֑וֹ וַתְּדַבֵּ֥ר בְּפִ֛יךָ וּבְיָדְךָ֥ מִלֵּ֖אתָ כַּיּ֥וֹם הַזֶּֽה׃",
+      "douay_rheims": "Who hast kept with thy servant David, my father, what thou hast promised him: with thy mouth thou didst speak, and with thy hands thou hast performed, as this day proveth.",
+      "finnish_biblia": "Joka olet pitänyt sinun palvelialles Davidille, minun isälleni, kaikki mitä sinä hänelle puhunut olet; sinun suullas sinä olet puhunut sen, ja sinä olet täyttänyt sen kädelläs, niinkuin se tänäpänä on. ",
       "king_james": "Who hast kept with thy servant David my father that thou promisedst him: thou spakest also with thy mouth, and hast fulfilled it with thine hand, as it is this day."
     },
     {
       "verse": 25,
       "latin_vulgate": "Nunc igitur Domine Deus Israël, conserva famulo tuo David patri meo quæ locutus es ei, dicens : Non auferetur de te vir coram me, qui sedeat super thronum Israël : ita tamen si custodierint filii tui viam suam, ut ambulent coram me sicut tu ambulasti in conspectu meo. ",
       "hebrew_masoretic": "וְעַתָּ֞ה יְהֹוָ֣ה ׀ אֱלֹהֵ֣י יִשְׂרָאֵ֗ל שְׁ֠מֹ֠ר לְעַבְדְּךָ֨ דָוִ֤ד אָבִי֙ אֵת֩ אֲשֶׁ֨ר דִּבַּ֤רְתָּ לּוֹ֙ לֵאמֹ֔ר לֹא־יִכָּרֵ֨ת לְךָ֥ אִישׁ֙ מִלְּפָנַ֔י יֹשֵׁ֖ב עַל־כִּסֵּ֣א יִשְׂרָאֵ֑ל רַ֠ק אִם־יִשְׁמְר֨וּ בָנֶ֤יךָ אֶת־דַּרְכָּם֙ לָלֶ֣כֶת לְפָנַ֔י כַּאֲשֶׁ֥ר הָלַ֖כְתָּ לְפָנָֽי׃",
+      "douay_rheims": "Now, therefore, O Lord God of Israel, keep with thy servant David, my father, what thou hast spoken to him, saying: There shall not be taken away of thee a man in my sight, to sit on the throne of Israel: yet so that thy children take heed to their way, that they walk before me as thou hast walked in my sight.",
+      "finnish_biblia": "Niin siis, Herra, Israelin Jumala! pidä sinun palvelialles Davidille minun isälleni se minkä sinä hänelle puhunut olet ja sanonut: ei pidä sinulta miestä puuttuman minun edessäni, joka istuu Israelin istuimella: ainoastaan jos sinun lapses pitävät heidän tiensä, vaeltaaksensa minun edessäni, niinkuin sinä olet vaeltanut minun edessäni. ",
       "king_james": "Therefore now, Lord God of Israel, keep with thy servant David my father that thou promisedst him, saying, There shall not fail thee a man in my sight to sit on the throne of Israel; so that thy children take heed to their way, that they walk before me as thou hast walked before me."
     },
     {
       "verse": 26,
       "latin_vulgate": "Et nunc Domine Deus Israël, firmentur verba tua quæ locutus es servo tuo David patri meo. ",
       "hebrew_masoretic": "וְעַתָּ֖ה אֱלֹהֵ֣י יִשְׂרָאֵ֑ל יֵאָ֤מֶן נָא֙ (דבריך) [דְּבָ֣רְךָ֔] אֲשֶׁ֣ר דִּבַּ֔רְתָּ לְעַבְדְּךָ֖ דָּוִ֥ד אָבִֽי׃",
+      "douay_rheims": "And now, Lord God of Israel, let thy words be established, which thou hast spoken to thy servant David, my father.",
+      "finnish_biblia": "Nyt, Israelin Jumala! anna sanas olla totinen, jonka sinä palvelialles Davidille minun isälleni puhunut olet: ",
       "king_james": "And now, O God of Israel, let thy word, I pray thee, be verified, which thou spakest unto thy servant David my father."
     },
     {
       "verse": 27,
       "latin_vulgate": "Ergone putandum est quod vere Deus habitet super terram ? si enim cælum, et cæli cælorum, te capere non possunt, quanto magis domus hæc, quam ædificavi ? ",
       "hebrew_masoretic": "כִּ֚י הַֽאֻמְנָ֔ם יֵשֵׁ֥ב אֱלֹהִ֖ים עַל־הָאָ֑רֶץ הִ֠נֵּ֠ה הַשָּׁמַ֜יִם וּשְׁמֵ֤י הַשָּׁמַ֙יִם֙ לֹ֣א יְכַלְכְּל֔וּךָ אַ֕ף כִּֽי־הַבַּ֥יִת הַזֶּ֖ה אֲשֶׁ֥ר בָּנִֽיתִי׃",
+      "douay_rheims": "Is it then to be thought that God should indeed dwell upon earth? for if heaven, and the heavens of heavens, cannot contain thee, how much less this house which I have built?",
+      "finnish_biblia": "Luuletkos Jumalan maan päällä asuvan? Katso taivaat ja taivasten taivaat ei voi sinua käsittää: kuinka siis tämä huone, jonka minä rakensin, sen tekis? ",
       "king_james": "But will God indeed dwell on the earth? behold, the heaven and heaven of heavens cannot contain thee; how much less this house that I have builded?"
     },
     {
       "verse": 28,
       "latin_vulgate": "Sed respice ad orationem servi tui, et ad preces ejus, Domine Deus meus : audi hymnum et orationem quam servus tuus orat coram te hodie : ",
       "hebrew_masoretic": "וּפָנִ֜יתָ אֶל־תְּפִלַּ֧ת עַבְדְּךָ֛ וְאֶל־תְּחִנָּת֖וֹ יְהֹוָ֣ה אֱלֹהָ֑י לִשְׁמֹ֤עַ אֶל־הָֽרִנָּה֙ וְאֶל־הַתְּפִלָּ֔ה אֲשֶׁ֧ר עַבְדְּךָ֛ מִתְפַּלֵּ֥ל לְפָנֶ֖יךָ הַיּֽוֹם׃",
+      "douay_rheims": "But have regard to the prayer of thy servant, and to his supplications, O Lord, my God: hear the hymn and the prayer, which thy servant prayeth before thee this day:",
+      "finnish_biblia": "Niin käännä siis sinuas palvelias rukoukseen ja anomiseen, Herra minun Jumalani! ettäs kuulisit minun kiitokseni ja rukoukseni, jonka palvelias tänäpänä rukoilee sinun edessäs; ",
       "king_james": "Yet have thou respect unto the prayer of thy servant, and to his supplication, O Lord my God, to hearken unto the cry and to the prayer, which thy servant prayeth before thee to day:"
     },
     {
       "verse": 29,
       "latin_vulgate": "ut sint oculi tui aperti super domum hanc nocte ac die : super domum, de qua dixisti : Erit nomen meum ibi : ut exaudias orationem quam orat in loco isto ad te servus tuus : ",
       "hebrew_masoretic": "לִהְיוֹת֩ עֵינֶ֨ךָ פְתֻחֹ֜ת אֶל־הַבַּ֤יִת הַזֶּה֙ לַ֣יְלָה וָי֔וֹם אֶ֨ל־הַמָּק֔וֹם אֲשֶׁ֣ר אָמַ֔רְתָּ יִהְיֶ֥ה שְׁמִ֖י שָׁ֑ם לִשְׁמֹ֙עַ֙ אֶל־הַתְּפִלָּ֔ה אֲשֶׁ֣ר יִתְפַּלֵּ֣ל עַבְדְּךָ֔ אֶל־הַמָּק֖וֹם הַזֶּֽה׃",
+      "douay_rheims": "That thy eyes may be open upon this house, night and day: upon the house of which thou hast said: My name shall be there: that thou mayst hearken to the prayer which thy servant prayeth, in this place to thee:",
+      "finnish_biblia": "Että sinun silmäs avoinna olis tämän huoneen puoleen yöllä ja päivällä, ja siinä paikassa, jostas sanonut olet: minun nimeni pitää oleman siellä; ettäs kuulisit sen rukouksen, jonka sinun palvelias rukoilee tässä paikassa, ",
       "king_james": "That thine eyes may be open toward this house night and day, even toward the place of which thou hast said, My name shall be there: that thou mayest hearken unto the prayer which thy servant shall make toward this place."
     },
     {
       "verse": 30,
       "latin_vulgate": "ut exaudias deprecationem servi tui et populi tui Israël, quodcumque oraverint in loco isto, et exaudies in loco habitaculi tui in cælo : et cum exaudieris, propitius eris.  ",
       "hebrew_masoretic": "וְשָׁ֨מַעְתָּ֜ אֶל־תְּחִנַּ֤ת עַבְדְּךָ֙ וְעַמְּךָ֣ יִשְׂרָאֵ֔ל אֲשֶׁ֥ר יִֽתְפַּלְל֖וּ אֶל־הַמָּק֣וֹם הַזֶּ֑ה וְ֠אַתָּ֠ה תִּשְׁמַ֞ע אֶל־מְק֤וֹם שִׁבְתְּךָ֙ אֶל־הַשָּׁמַ֔יִם וְשָׁמַעְתָּ֖ וְסָלָֽחְתָּ׃",
+      "douay_rheims": "That thou mayst hearken to the supplication of thy servant, and of thy people Israel, whatsoever they shall pray for in this place, and hear them in the place of thy dwelling in heaven; and when thou hearest, shew them mercy.",
+      "finnish_biblia": "Ja kuulisit sinun palvelias ja kansas Israelin hartaan rukouksen, jonka he tässä paikassa rukoilevat: ja sinä kuulisit sen siellä, kussas asut taivaissa, ja koskas sen kuulet, olisit armollinen. ",
       "king_james": "And hearken thou to the supplication of thy servant, and of thy people Israel, when they shall pray toward this place: and hear thou in heaven thy dwelling place: and when thou hearest, forgive."
     },
     {
       "verse": 31,
       "latin_vulgate": " Si peccaverit homo in proximum suum, et habuerit aliquod juramentum quo teneatur astrictus, et venerit propter juramentum coram altari tuo in domum tuam, ",
       "hebrew_masoretic": "אֵת֩ אֲשֶׁ֨ר יֶחֱטָ֥א אִישׁ֙ לְרֵעֵ֔הוּ וְנָשָׁא־ב֥וֹ אָלָ֖ה לְהַאֲלֹת֑וֹ וּבָ֗א אָלָ֛ה לִפְנֵ֥י מִֽזְבַּחֲךָ֖ בַּבַּ֥יִת הַזֶּֽה׃",
+      "douay_rheims": "If any man trespass against his neighbour, and have an oath upon him, wherewith he is bound, and come, because of the oath, before thy altar, to thy house,",
+      "finnish_biblia": "Koska joku rikkoo lähimmäistänsä vastaan, ja ottaa valan päällensä, jolla hän hänensä velkapääksi tekee, ja vala tulee sinun alttaris eteen tässä huoneessa: ",
       "king_james": "If any man trespass against his neighbour, and an oath be laid upon him to cause him to swear, and the oath come before thine altar in this house:"
     },
     {
       "verse": 32,
       "latin_vulgate": "tu exaudies in cælo : et facies, et judicabis servos tuos, condemnans impium, et reddens viam suam super caput ejus, justificansque justum, et retribuens ei secundum justitiam suam. ",
       "hebrew_masoretic": "וְאַתָּ֣ה ׀ תִּשְׁמַ֣ע הַשָּׁמַ֗יִם וְעָשִׂ֙יתָ֙ וְשָׁפַטְתָּ֣ אֶת־עֲבָדֶ֔יךָ לְהַרְשִׁ֣יעַ רָשָׁ֔ע לָתֵ֥ת דַּרְכּ֖וֹ בְּרֹאשׁ֑וֹ וּלְהַצְדִּ֣יק צַדִּ֔יק לָ֥תֶת ל֖וֹ כְּצִדְקָתֽוֹ׃",
+      "douay_rheims": "Then hear thou in heaven: and do and judge thy servants, condemning the wicked, and bringing his way upon his own head, and justifying the just, and rewarding him according to his justice.",
+      "finnish_biblia": "Ettäs kuulisit taivaissa, ja saattaisit palvelioilles oikeuden, ettäs tuomitsisit jumalattoman ja antaisit hänen tiensä tulla hänen päänsä päälle, ja vanhurskaaksi tekisit viattoman, ja tekisit hänelle hänen oikeutensa jälkeen. ",
       "king_james": "Then hear thou in heaven, and do, and judge thy servants, condemning the wicked, to bring his way upon his head; and justifying the righteous, to give him according to his righteousness."
     },
     {
       "verse": 33,
       "latin_vulgate": "Si fugerit populus tuus Israël inimicos suos (quia peccaturus est tibi), et agentes pœnitentiam, et confitentes nomini tuo, venerint, et oraverint, et deprecati te fuerint in domo hac : ",
       "hebrew_masoretic": "בְּֽהִנָּגֵ֞ף עַמְּךָ֧ יִשְׂרָאֵ֛ל לִפְנֵ֥י אוֹיֵ֖ב אֲשֶׁ֣ר יֶחֶטְאוּ־לָ֑ךְ וְשָׁ֤בוּ אֵלֶ֙יךָ֙ וְהוֹד֣וּ אֶת־שְׁמֶ֔ךָ וְהִתְפַּלְל֧וּ וְהִֽתְחַנְּנ֛וּ אֵלֶ֖יךָ בַּבַּ֥יִת הַזֶּֽה׃",
+      "douay_rheims": "If thy people Israel shall fly before their enemies (because they will sin against thee) and doing penance, and confessing to thy name, shall come and pray, and make supplications to thee in this house:",
+      "finnish_biblia": "Jos sinun kansas Israel lyödään vihamiestensä edessä, että he ovat syntiä tehneet sinua vastaan, ja he kääntävät itsensä sinun tykös, ja tunnustavat sinun nimes, ja rukoilevat ja anteeksi anovat sinulta tässä huoneessa: ",
       "king_james": "When thy people Israel be smitten down before the enemy, because they have sinned against thee, and shall turn again to thee, and confess thy name, and pray, and make supplication unto thee in this house:"
     },
     {
       "verse": 34,
       "latin_vulgate": "exaudi in cælo, et dimitte peccatum populi tui Israël, et reduces eos in terram quam dedisti patribus eorum. ",
       "hebrew_masoretic": "וְאַתָּה֙ תִּשְׁמַ֣ע הַשָּׁמַ֔יִם וְסָ֣לַחְתָּ֔ לְחַטַּ֖את עַמְּךָ֣ יִשְׂרָאֵ֑ל וַהֲשֵֽׁבֹתָם֙ אֶל־הָ֣אֲדָמָ֔ה אֲשֶׁ֥ר נָתַ֖תָּ לַאֲבוֹתָֽם׃ {ס}",
+      "douay_rheims": "Then hear thou in heaven, and forgive the sin of thy people Israel, and bring them back to the land which thou gavest to their fathers.",
+      "finnish_biblia": "Ettäs kuulisit taivaissa, ja sinun kansas Israelin synnille armollinen olisit, ja johdattaisit heitä sille maalle jälleen, jonka heidän isillensä antanut olet. ",
       "king_james": "Then hear thou in heaven, and forgive the sin of thy people Israel, and bring them again unto the land which thou gavest unto their fathers."
     },
     {
       "verse": 35,
       "latin_vulgate": "Si clausum fuerit cælum, et non pluerit propter peccata eorum, et orantes in loco isto, pœnitentiam egerint nomini tuo, et a peccatis suis conversi fuerint propter afflictionem suam : ",
       "hebrew_masoretic": "בְּהֵעָצֵ֥ר שָׁמַ֛יִם וְלֹֽא־יִֽהְיֶ֥ה מָטָ֖ר כִּ֣י יֶחֶטְאוּ־לָ֑ךְ וְהִֽתְפַּלְל֞וּ אֶל־הַמָּק֤וֹם הַזֶּה֙ וְהוֹד֣וּ אֶת־שְׁמֶ֔ךָ וּמֵחַטָּאתָ֥ם יְשׁוּב֖וּן כִּ֥י תַעֲנֵֽם׃",
+      "douay_rheims": "If heaven shall be shut up, and there shall be no rain, because of their sins, and they, praying in this place, shall do penance to thy name, and shall be converted from their sins, by occasion of their afflictions:",
+      "finnish_biblia": "Jos taivaat suljetut ovat, niin ettei sada, että he sinua vastaan rikkoneet ovat, ja rukoilevat tässä siassa, ja tunnustavat sinun nimes, ja kääntävät itsensä synnistänsä, ettäs rankaiset heitä. ",
       "king_james": "When heaven is shut up, and there is no rain, because they have sinned against thee; if they pray toward this place, and confess thy name, and turn from their sin, when thou afflictest them:"
     },
     {
       "verse": 36,
       "latin_vulgate": "exaudi eos in cælo, et dimitte peccata servorum tuorum, et populi tui Israël : et ostende eis viam bonam per quam ambulent, et da pluviam super terram tuam, quam dedisti populo tuo in possessionem. ",
       "hebrew_masoretic": "וְאַתָּ֣ה ׀ תִּשְׁמַ֣ע הַשָּׁמַ֗יִם וְסָ֨לַחְתָּ֜ לְחַטַּ֤את עֲבָדֶ֙יךָ֙ וְעַמְּךָ֣ יִשְׂרָאֵ֔ל כִּ֥י תוֹרֵ֛ם אֶת־הַדֶּ֥רֶךְ הַטּוֹבָ֖ה אֲשֶׁ֣ר יֵֽלְכוּ־בָ֑הּ וְנָתַתָּ֤ה מָטָר֙ עַֽל־אַרְצְךָ֔ אֲשֶׁר־נָתַ֥תָּה לְעַמְּךָ֖ לְנַחֲלָֽה׃ {ס}",
+      "douay_rheims": "Then hear thou them in heaven, and forgive the sins of thy servants, and of thy people Israel: and shew them the good way wherein they should walk, and give rain upon thy land, which thou hast given to thy people in possession.",
+      "finnish_biblia": "Ettäs kuulisit heitä taivaissa, ja olisit sinun palvelias ja kansas Israelin synnille armollinen, että osoitat heille sen hyvän tien, jota heidän vaeltaman pitää; ja annat sataa sinun maas päälle, jonka kansalles perimiseksi antanut olet. ",
       "king_james": "Then hear thou in heaven, and forgive the sin of thy servants, and of thy people Israel, that thou teach them the good way wherein they should walk, and give rain upon thy land, which thou hast given to thy people for an inheritance."
     },
     {
       "verse": 37,
       "latin_vulgate": "Fames si oborta fuerit in terra, aut pestilentia, aut corruptus aër, aut ærugo, aut locusta, vel rubigo, et afflixerit eum inimicus ejus portas obsidens : omnis plaga, universa infirmitas, ",
       "hebrew_masoretic": "רָעָ֞ב כִּֽי־יִֽהְיֶ֣ה בָאָ֗רֶץ דֶּ֣בֶר כִּֽי־יִֽ֠הְיֶ֠ה שִׁדָּפ֨וֹן יֵרָק֜וֹן אַרְבֶּ֤ה חָסִיל֙ כִּ֣י יִֽהְיֶ֔ה כִּ֧י יָֽצַר־ל֛וֹ אֹיְב֖וֹ בְּאֶ֣רֶץ שְׁעָרָ֑יו כׇּל־נֶ֖גַע כׇּֽל־מַחֲלָֽה׃",
+      "douay_rheims": "If a famine arise in the land, or a pestilence, or corrupt air, or blasting, or locust, or mildew; if their enemy afflict them, besieging the gates, whatsoever plague, whatsoever infirmity,",
+      "finnish_biblia": "Jos kallis aika tulee maalle, eli rutto tulee, taikka pouta, eli ruoste, taikka kaskat, eli jyvämadot maan päälle tulevat, taikka vihamiehet piirittävät maakunnassa heidän porttinsa, taikka kaikkinainen vitsaus, eli kaikkinainen sairaus tulee; ",
       "king_james": "If there be in the land famine, if there be pestilence, blasting, mildew, locust, or if there be caterpiller; if their enemy besiege them in the land of their cities; whatsoever plague, whatsoever sickness there be;"
     },
     {
       "verse": 38,
       "latin_vulgate": "cuncta devotatio, et imprecatio quæ acciderit omni homini de populo tuo Israël : si quis cognoverit plagam cordis sui, et expanderit manus suas in domo hac, ",
       "hebrew_masoretic": "כׇּל־תְּפִלָּ֣ה כׇל־תְּחִנָּ֗ה אֲשֶׁ֤ר תִּֽהְיֶה֙ לְכׇל־הָ֣אָדָ֔ם לְכֹ֖ל עַמְּךָ֣ יִשְׂרָאֵ֑ל אֲשֶׁ֣ר יֵדְע֗וּן אִ֚ישׁ נֶ֣גַע לְבָב֔וֹ וּפָרַ֥שׂ כַּפָּ֖יו אֶל־הַבַּ֥יִת הַזֶּֽה׃",
+      "douay_rheims": "Whatsoever curse or imprecation shall happen to any man of thy people Israel: when a man shall know the wound of his own heart, and shall spread forth his hands in this house;",
+      "finnish_biblia": "Kaikki rukoukset, kaikki anteeksi anomiset mitkä kaikki ihmiset, kaikki sinun kansas Israel tekevät, koska he ymmärtävät vitsauksen itsekukin sydämessänsä, ja hajoittavat kätensä tämän huoneen puoleen: ",
       "king_james": "What prayer and supplication soever be made by any man, or by all thy people Israel, which shall know every man the plague of his own heart, and spread forth his hands toward this house:"
     },
     {
       "verse": 39,
       "latin_vulgate": "tu exaudies in cælo in loco habitationis tuæ, et repropitiaberis, et facies ut des unicuique secundum omnes vias suas, sicut videris cor ejus (quia tu nosti solus cor omnium filiorum hominum), ",
       "hebrew_masoretic": "וְ֠אַתָּ֠ה תִּשְׁמַ֨ע הַשָּׁמַ֜יִם מְכ֤וֹן שִׁבְתֶּ֙ךָ֙ וְסָלַחְתָּ֣ וְעָשִׂ֔יתָ וְנָתַתָּ֤ לָאִישׁ֙ כְּכׇל־דְּרָכָ֔יו אֲשֶׁ֥ר תֵּדַ֖ע אֶת־לְבָב֑וֹ כִּֽי־אַתָּ֤ה יָדַ֙עְתָּ֙ לְבַדְּךָ֔ אֶת־לְבַ֖ב כׇּל־בְּנֵ֥י הָאָדָֽם׃",
+      "douay_rheims": "Then hear thou in heaven, in the place of thy dwelling, and forgive, and do so as to give to every one according to his ways, as thou shalt see his heart (for thou only knowest the heart of all the children of men)",
+      "finnish_biblia": "Ettäs silloin kuulisit taivaissa, siitä siasta, kussas asut, ja olisit armollinen ja tekisit sen niin, ettäs annat itsekullekin niinkuin hän vaeltanut on, niin kuin sinä hänen sydämensä tunnet; sillä sinä ainoastaan tunnet kaikkein ihmisten lasten sydämet. ",
       "king_james": "Then hear thou in heaven thy dwelling place, and forgive, and do, and give to every man according to his ways, whose heart thou knowest; (for thou, even thou only, knowest the hearts of all the children of men;)"
     },
     {
       "verse": 40,
       "latin_vulgate": "ut timeant te cunctis diebus quibus vivunt super faciem terræ quam dedisti patribus nostris.  ",
       "hebrew_masoretic": "לְמַ֙עַן֙ יִרָא֔וּךָ כׇּ֨ל־הַיָּמִ֔ים אֲשֶׁר־הֵ֥ם חַיִּ֖ים עַל־פְּנֵ֣י הָאֲדָמָ֑ה אֲשֶׁ֥ר נָתַ֖תָּה לַאֲבֹתֵֽינוּ׃",
+      "douay_rheims": "That they may fear thee all the days that they live upon the face of the land, which thou hast given to our fathers.",
+      "finnish_biblia": "Että he aina sinua pelkäisivät, niinkauvan kuin he maan päällä elävät, jonkas meidän isillemme antanut olet. ",
       "king_james": "That they may fear thee all the days that they live in the land which thou gavest unto our fathers."
     },
     {
       "verse": 41,
       "latin_vulgate": " Insuper et alienigena, qui non est de populo tuo Israël, cum venerit de terra longinqua propter nomen tuum (audietur enim nomen tuum magnum, et manus tua fortis, et brachium tuum ",
       "hebrew_masoretic": "וְגַם֙ אֶל־הַנׇּכְרִ֔י אֲשֶׁ֛ר לֹא־מֵעַמְּךָ֥ יִשְׂרָאֵ֖ל ה֑וּא וּבָ֛א מֵאֶ֥רֶץ רְחוֹקָ֖ה לְמַ֥עַן שְׁמֶֽךָ׃",
+      "douay_rheims": "Moreover also the stranger, who is not of thy people Israel, when he shall come out of a far country for thy name's sake, (for they shall hear every where of thy great name, and thy mighty hand,",
+      "finnish_biblia": "Jos myös joku muukalaisista, joka ei ole sinun kansaas Israelia, tulee kaukaiselta maalta sinun nimes tähden; ",
       "king_james": "Moreover concerning a stranger, that is not of thy people Israel, but cometh out of a far country for thy name’s sake;"
     },
     {
       "verse": 42,
       "latin_vulgate": "extentum ubique), cum venerit ergo, et oraverit in hoc loco, ",
       "hebrew_masoretic": "כִּ֤י יִשְׁמְעוּן֙ אֶת־שִׁמְךָ֣ הַגָּד֔וֹל וְאֶת־יָֽדְךָ֙ הַחֲזָקָ֔ה וּֽזְרֹעֲךָ֖ הַנְּטוּיָ֑ה וּבָ֥א וְהִתְפַּלֵּ֖ל אֶל־הַבַּ֥יִת הַזֶּֽה׃",
+      "douay_rheims": "And thy stretched out arm) so when he shall come, and shall pray in this place,",
+      "finnish_biblia": "Sillä he saavat kuulla sinun suuresta nimestäs, ja voimallisesta kädestäs, ja ojetusta käsivarrestas: ja joku tulee rukoilemaan tähän huoneesen: ",
       "king_james": "(For they shall hear of thy great name, and of thy strong hand, and of thy stretched out arm;) when he shall come and pray toward this house;"
     },
     {
       "verse": 43,
       "latin_vulgate": "tu exaudies in cælo, in firmamento habitaculi tui, et facies omnia pro quibus invocaverit te alienigena : ut discant universi populi terrarum nomen tuum timere, sicut populus tuus Israël, et probent quia nomen tuum invocatum est super domum hanc quam ædificavi. ",
       "hebrew_masoretic": "אַתָּ֞ה תִּשְׁמַ֤ע הַשָּׁמַ֙יִם֙ מְכ֣וֹן שִׁבְתֶּ֔ךָ וְעָשִׂ֕יתָ כְּכֹ֛ל אֲשֶׁר־יִקְרָ֥א אֵלֶ֖יךָ הַנׇּכְרִ֑י לְמַ֣עַן יֵדְעוּן֩ כׇּל־עַמֵּ֨י הָאָ֜רֶץ אֶת־שְׁמֶ֗ךָ לְיִרְאָ֤ה אֹֽתְךָ֙ כְּעַמְּךָ֣ יִשְׂרָאֵ֔ל וְלָדַ֕עַת כִּֽי־שִׁמְךָ֣ נִקְרָ֔א עַל־הַבַּ֥יִת הַזֶּ֖ה אֲשֶׁ֥ר בָּנִֽיתִי׃",
+      "douay_rheims": "Then hear thou in heaven, in the firmament of thy dwelling place, and do all those things, for which that stranger shall call upon thee: that all the people of the earth may learn to fear thy name, as do thy people Israel, and may prove that thy name is called upon on this house, which I have built.",
+      "finnish_biblia": "Ettäs kuulisit taivaissa siitä siasta, kussas asut, ja tekisit kaiken sen, minkä muukalainen sinulta anoo: että kaikki kansa maan päällä tuntis sinun nimes, että he myös pelkäisivät sinua niinkuin sinun kansas Israel, ja tietäisivät, että sinun nimeäs avuksihuudetaan tässä huoneessa, jonka minä rakentanut olen. ",
       "king_james": "Hear thou in heaven thy dwelling place, and do according to all that the stranger calleth to thee for: that all people of the earth may know thy name, to fear thee, as do thy people Israel; and that they may know that this house, which I have builded, is called by thy name."
     },
     {
       "verse": 44,
       "latin_vulgate": "Si egressus fuerit populus tuus ad bellum contra inimicos suos per viam, quocumque miseris eos, orabunt te contra viam civitatis quam elegisti, et contra domum quam ædificavi nomini tuo, ",
       "hebrew_masoretic": "כִּֽי־יֵצֵ֨א עַמְּךָ֤ לַמִּלְחָמָה֙ עַל־אֹ֣יְב֔וֹ בַּדֶּ֖רֶךְ אֲשֶׁ֣ר תִּשְׁלָחֵ֑ם וְהִתְפַּלְל֣וּ אֶל־יְהֹוָ֗ה דֶּ֤רֶךְ הָעִיר֙ אֲשֶׁ֣ר בָּחַ֣רְתָּ בָּ֔הּ וְהַבַּ֖יִת אֲשֶׁר־בָּנִ֥תִי לִשְׁמֶֽךָ׃",
+      "douay_rheims": "If thy people go out to war against their enemies, by what way soever thou shalt send them, they shall pray to thee towards the way of the city, which thou hast chosen, and towards the house, which I have built to thy name:",
+      "finnish_biblia": "Jos sinun kansas vaeltaa sotaan vihamiehiänsä vastaan sitä tietä, jota heidän lähetät, ja he rukoilevat Herraa tiellä kaupungin puoleen, jonka valinnut olet, ja huoneen puoleen, jonka minä sinun nimelles rakentanut olen: ",
       "king_james": "If thy people go out to battle against their enemy, whithersoever thou shalt send them, and shall pray unto the Lord toward the city which thou hast chosen, and toward the house that I have built for thy name:"
     },
     {
       "verse": 45,
       "latin_vulgate": "et exaudies in cælo orationes eorum et preces eorum, et facies judicium eorum.  ",
       "hebrew_masoretic": "וְשָֽׁמַעְתָּ֙ הַשָּׁמַ֔יִם אֶת־תְּפִלָּתָ֖ם וְאֶת־תְּחִנָּתָ֑ם וְעָשִׂ֖יתָ מִשְׁפָּטָֽם׃",
+      "douay_rheims": "And then hear thou in heaven their prayers, and their supplications, and do judgment for them.",
+      "finnish_biblia": "Ettäs kuulisit heidän rukouksensa ja anomisensa taivaissa, ja saattaisit heille oikeuden. ",
       "king_james": "Then hear thou in heaven their prayer and their supplication, and maintain their cause."
     },
     {
       "verse": 46,
       "latin_vulgate": " Quod si peccaverint tibi (non est enim homo qui non peccet) et iratus tradideris eos inimicis suis, et captivi ducti fuerint in terram inimicorum longe vel prope, ",
       "hebrew_masoretic": "כִּ֣י יֶחֶטְאוּ־לָ֗ךְ כִּ֣י אֵ֤ין אָדָם֙ אֲשֶׁ֣ר לֹֽא־יֶחֱטָ֔א וְאָנַפְתָּ֣ בָ֔ם וּנְתַתָּ֖ם לִפְנֵ֣י אוֹיֵ֑ב וְשָׁב֤וּם שֹֽׁבֵיהֶם֙ אֶל־אֶ֣רֶץ הָאוֹיֵ֔ב רְחוֹקָ֖ה א֥וֹ קְרוֹבָֽה׃",
+      "douay_rheims": "But if they sin against thee, (for there is no man who sinneth not) and thou being angry, deliver them up to their enemies, so that they be led away captives into the land of their enemies, far or near;",
+      "finnish_biblia": "Jos he syntiä tekevät sinua vastaan (sillä ei ole yhtäkään ihmistä, joka ei syntiä tee) ja sinä vihastut heidän päällensä, ja annat heidät vihamiehen käsiin, niin että he vievät heitä vankina vihollisen maalle, taamma eli lähemmä; ",
       "king_james": "If they sin against thee, (for there is no man that sinneth not,) and thou be angry with them, and deliver them to the enemy, so that they carry them away captives unto the land of the enemy, far or near;"
     },
     {
       "verse": 47,
       "latin_vulgate": "et egerint pœnitentiam in corde suo in loco captivitatis, et conversi deprecati te fuerint in captivitate sua, dicentes : Peccavimus : inique egimus, impie gessimus : ",
       "hebrew_masoretic": "וְהֵשִׁ֙יבוּ֙ אֶל־לִבָּ֔ם בָּאָ֖רֶץ אֲשֶׁ֣ר נִשְׁבּוּ־שָׁ֑ם וְשָׁ֣בוּ ׀ וְהִֽתְחַנְּנ֣וּ אֵלֶ֗יךָ בְּאֶ֤רֶץ שֹֽׁבֵיהֶם֙ לֵאמֹ֔ר חָטָ֥אנוּ וְהֶעֱוִ֖ינוּ רָשָֽׁעְנוּ׃",
+      "douay_rheims": "Then if they do penance in their heart, in the place of captivity, and being converted, make supplication to thee in their captivity, saying: We have sinned, we have done unjustly, we have committed wickedness:",
+      "finnish_biblia": "Ja he tekisivät sydämestänsä parannuksen siinä maassa, jossa he vankina ovat, ja he palajaisivat sinua rukoilemaan vankeutensa maalla, sanoen: me rikoimme ja teimme pahoin, ja olimme jumalattomat; ",
       "king_james": "Yet if they shall bethink themselves in the land whither they were carried captives, and repent, and make supplication unto thee in the land of them that carried them captives, saying, We have sinned, and have done perversely, we have committed wickedness;"
     },
     {
       "verse": 48,
       "latin_vulgate": "et reversi fuerint ad te in universo corde suo et tota anima sua in terra inimicorum suorum, ad quam captivi ducti fuerint : et oraverint te contra viam terræ suæ, quam dedisti patribus eorum, et civitatis quam elegisti, et templi quod ædificavi nomini tuo : ",
       "hebrew_masoretic": "וְשָׁ֣בוּ אֵלֶ֗יךָ בְּכׇל־לְבָבָם֙ וּבְכׇל־נַפְשָׁ֔ם בְּאֶ֥רֶץ אֹיְבֵיהֶ֖ם אֲשֶׁר־שָׁב֣וּ אֹתָ֑ם וְהִתְפַּלְל֣וּ אֵלֶ֗יךָ דֶּ֤רֶךְ אַרְצָם֙ אֲשֶׁ֣ר נָתַ֣תָּה לַאֲבוֹתָ֔ם הָעִיר֙ אֲשֶׁ֣ר בָּחַ֔רְתָּ וְהַבַּ֖יִת אֲשֶׁר־[בָּנִ֥יתִי] (בנית) לִשְׁמֶֽךָ׃",
+      "douay_rheims": "And return to thee with all their heart, and all their soul, in the land of their enemies, to which they have been led captives: and pray to thee towards the way of their land, which thou gavest to their fathers, and of the city which thou hast chosen, and of the temple which I have built to thy name:",
+      "finnish_biblia": "Ja he niin palajaisivat sinun tykös kaikesta sydämestänsä ja kaikesta sielustansa vihamiestensä maalla, jotka heitä vangiksi vieneet ovat pois; ja he rukoilevat sinua tiellä maansa puoleen, jonka heidän isillensä antanut olet, sen kaupungin puoleen, jonka minä sinun nimelles rakentanut olen: ",
       "king_james": "And so return unto thee with all their heart, and with all their soul, in the land of their enemies, which led them away captive, and pray unto thee toward their land, which thou gavest unto their fathers, the city which thou hast chosen, and the house which I have built for thy name:"
     },
     {
       "verse": 49,
       "latin_vulgate": "exaudies in cælo, in firmamento solii tui, orationes eorum et preces eorum, et facies judicium eorum : ",
       "hebrew_masoretic": "וְשָׁמַעְתָּ֤ הַשָּׁמַ֙יִם֙ מְכ֣וֹן שִׁבְתְּךָ֔ אֶת־תְּפִלָּתָ֖ם וְאֶת־תְּחִנָּתָ֑ם וְעָשִׂ֖יתָ מִשְׁפָּטָֽם׃",
+      "douay_rheims": "Then hear thou in heaven, in the firmament of thy throne, their prayers, and their supplications, and do judgment for them:",
+      "finnish_biblia": "Että kuulisit heidän rukouksensa ja anteeksi anomisensa taivaissa, siitä siasta, kussa sinä asut, ja saattaisit heille oikeuden, ",
       "king_james": "Then hear thou their prayer and their supplication in heaven thy dwelling place, and maintain their cause,"
     },
     {
       "verse": 50,
       "latin_vulgate": "et propitiaberis populo tuo qui peccavit tibi, et omnibus iniquitatibus eorum quibus prævaricati sunt in te : et dabis misericordiam coram eis qui eos captivos habuerint, ut misereantur eis. ",
       "hebrew_masoretic": "וְסָלַחְתָּ֤ לְעַמְּךָ֙ אֲשֶׁ֣ר חָטְאוּ־לָ֔ךְ וּלְכׇל־פִּשְׁעֵיהֶ֖ם אֲשֶׁ֣ר פָּשְׁעוּ־בָ֑ךְ וּנְתַתָּ֧ם לְרַחֲמִ֛ים לִפְנֵ֥י שֹׁבֵיהֶ֖ם וְרִחֲמֽוּם׃",
+      "douay_rheims": "And forgive thy people, that have sinned against thee, and all their iniquities, by which they have transgressed against thee: and give them mercy before them that have made them captives, that they may have compassion on them.",
+      "finnish_biblia": "Ja olisit sinun kansalles armollinen, jotka sinua vastaan syntiä tehneet ovat, ja kaikille heidän rikoksillensa, joilla he rikkoneet ovat sinua vastaan: ja antaisit heille armon niiltä, jotka heitä vankina pitävät, ja he armahtaisivat heidän päällensä. ",
       "king_james": "And forgive thy people that have sinned against thee, and all their transgressions wherein they have transgressed against thee, and give them compassion before them who carried them captive, that they may have compassion on them:"
     },
     {
       "verse": 51,
       "latin_vulgate": "Populus enim tuus est, et hæreditas tua, quos eduxisti de terra Ægypti, de medio fornacis ferreæ. ",
       "hebrew_masoretic": "כִּֽי־עַמְּךָ֥ וְנַחֲלָתְךָ֖ הֵ֑ם אֲשֶׁ֤ר הוֹצֵ֙אתָ֙ מִמִּצְרַ֔יִם מִתּ֖וֹךְ כּ֥וּר הַבַּרְזֶֽל׃",
+      "douay_rheims": "For they are thy people, and thy inheritance, whom thou hast brought out of the land of Egypt, from the midst of the furnace of iron.",
+      "finnish_biblia": "Sillä he ovat sinun kansas ja sinun perimises, jotka sinä Egyptistä johdatit rautaisesta pätsistä; ",
       "king_james": "For they be thy people, and thine inheritance, which thou broughtest forth out of Egypt, from the midst of the furnace of iron:"
     },
     {
       "verse": 52,
       "latin_vulgate": "Ut sint oculi tui aperti ad deprecationem servi tui, et populi tui Israël, et exaudias eos in universis pro quibus invocaverint te. ",
       "hebrew_masoretic": "לִהְי֨וֹת עֵינֶ֤יךָ פְתֻחֹת֙ אֶל־תְּחִנַּ֣ת עַבְדְּךָ֔ וְאֶל־תְּחִנַּ֖ת עַמְּךָ֣ יִשְׂרָאֵ֑ל לִשְׁמֹ֣עַ אֲלֵיהֶ֔ם בְּכֹ֖ל קׇרְאָ֥ם אֵלֶֽיךָ׃",
+      "douay_rheims": "That thy eyes may be open to the supplication of thy servant, and of thy people Israel, to hear them in all things for which they shall call upon thee.",
+      "finnish_biblia": "Että sinun silmäs olisivat avoinna sinun palvelias anomiseen ja sinun kansas Israelin rukoukseen; ettäs heitä kaikissa kuulisit, joiden tähden he sinun tykös huutavat. ",
       "king_james": "That thine eyes may be open unto the supplication of thy servant, and unto the supplication of thy people Israel, to hearken unto them in all that they call for unto thee."
     },
     {
       "verse": 53,
       "latin_vulgate": "Tu enim separasti eos tibi in hæreditatem de universis populis terræ, sicut locutus es per Moysen servum tuum quando eduxisti patres nostros de Ægypto, Domine Deus.  ",
       "hebrew_masoretic": "כִּֽי־אַתָּ֞ה הִבְדַּלְתָּ֤ם לְךָ֙ לְֽנַחֲלָ֔ה מִכֹּ֖ל עַמֵּ֣י הָאָ֑רֶץ כַּאֲשֶׁ֨ר דִּבַּ֜רְתָּ בְּיַ֣ד ׀ מֹשֶׁ֣ה עַבְדֶּ֗ךָ בְּהוֹצִיאֲךָ֧ אֶת־אֲבֹתֵ֛ינוּ מִמִּצְרַ֖יִם אֲדֹנָ֥י יֱהֹוִֽה׃ {פ}",
+      "douay_rheims": "For thou hast separated them to thyself for an inheritance, from amongst all the people of the earth, as thou hast spoken by Moses, thy servant, when thou broughtest our fathers out of Egypt, O Lord God.",
+      "finnish_biblia": "Sillä sinä olet heidät erottanut sinulles perimiseksi kaikista kansoista maan päällä, niinkuin sinä sanonut olet sinun palvelialles Moseksen kautta, kuin sinä meidän isämme johdatit Egyptistä, Herra, Herra! ",
       "king_james": "For thou didst separate them from among all the people of the earth, to be thine inheritance, as thou spakest by the hand of Moses thy servant, when thou broughtest our fathers out of Egypt, O Lord God."
     },
     {
       "verse": 54,
       "latin_vulgate": " Factum est autem, cum complesset Salomon orans Dominum omnem orationem et deprecationem hanc, surrexit de conspectu altaris Domini : utrumque enim genu in terram fixerat, et manus expanderat in cælum. ",
       "hebrew_masoretic": "וַיְהִ֣י ׀ כְּכַלּ֣וֹת שְׁלֹמֹ֗ה לְהִתְפַּלֵּל֙ אֶל־יְהֹוָ֔ה אֵ֛ת כׇּל־הַתְּפִלָּ֥ה וְהַתְּחִנָּ֖ה הַזֹּ֑את קָ֞ם מִלִּפְנֵ֨י מִזְבַּ֤ח יְהֹוָה֙ מִכְּרֹ֣עַ עַל־בִּרְכָּ֔יו וְכַפָּ֖יו פְּרֻשׂ֥וֹת הַשָּׁמָֽיִם׃",
+      "douay_rheims": "And it came to pass, when Solomon had made an end of praying all this prayer and supplication to the Lord, that he rose from before the altar of the Lord: for he had fixed both knees on the ground, and had spread his hands towards heaven.",
+      "finnish_biblia": "Ja koska Salomo oli kaiken tämän rukouksen ja anomisen lopettanut Herran edessä, nousi hän Herran alttarin edestä polviansa kumartamasta ja hajoittamasta käsiänsä taivaasen päin, ",
       "king_james": "And it was so, that when Solomon had made an end of praying all this prayer and supplication unto the Lord, he arose from before the altar of the Lord, from kneeling on his knees with his hands spread up to heaven."
     },
     {
       "verse": 55,
       "latin_vulgate": "Stetit ergo, et benedixit omni ecclesiæ Israël voce magna, dicens : ",
       "hebrew_masoretic": "וַיַּעֲמֹ֕ד וַיְבָ֕רֶךְ אֵ֖ת כׇּל־קְהַ֣ל יִשְׂרָאֵ֑ל ק֥וֹל גָּד֖וֹל לֵאמֹֽר׃",
+      "douay_rheims": "And he stood, and blessed all the assembly of Israel with a loud voice, saying:",
+      "finnish_biblia": "Ja seisoi ja siunasi koko Israelin joukon, korotetulla äänellä, ja sanoi: ",
       "king_james": "And he stood, and blessed all the congregation of Israel with a loud voice, saying,"
     },
     {
       "verse": 56,
       "latin_vulgate": "Benedictus Dominus, qui dedit requiem populo suo Israël, juxta omnia quæ locutus est : non cecidit ne unus quidem sermo ex omnibus bonis quæ locutus est per Moysen servum suum. ",
       "hebrew_masoretic": "בָּר֣וּךְ יְהֹוָ֗ה אֲשֶׁ֨ר נָתַ֤ן מְנוּחָה֙ לְעַמּ֣וֹ יִשְׂרָאֵ֔ל כְּכֹ֖ל אֲשֶׁ֣ר דִּבֵּ֑ר לֹֽא־נָפַ֞ל דָּבָ֣ר אֶחָ֗ד מִכֹּל֙ דְּבָר֣וֹ הַטּ֔וֹב אֲשֶׁ֣ר דִּבֶּ֔ר בְּיַ֖ד מֹשֶׁ֥ה עַבְדּֽוֹ׃",
+      "douay_rheims": "Blessed be the Lord, who hath given rest to his people Israel, according to all that he promised: there hath not failed so much as one word of all the good things that he promised by his servant Moses.",
+      "finnish_biblia": "Kiitetty olkoon Herra, joka kansallensa Israelille levon antanut on, kaiken sen jälkeen kuin hän puhunut on: ei yhtäkään ole puuttunut hänen hyvistä sanoistansa, jotka hän palveliansa Moseksen kautta puhunut on. ",
       "king_james": "Blessed be the Lord, that hath given rest unto his people Israel, according to all that he promised: there hath not failed one word of all his good promise, which he promised by the hand of Moses his servant."
     },
     {
       "verse": 57,
       "latin_vulgate": "Sit Dominus Deus noster nobiscum, sicut fuit cum patribus nostris, non derelinquens nos, neque projiciens. ",
       "hebrew_masoretic": "יְהִ֨י יְהֹוָ֤ה אֱלֹהֵ֙ינוּ֙ עִמָּ֔נוּ כַּאֲשֶׁ֥ר הָיָ֖ה עִם־אֲבֹתֵ֑ינוּ אַל־יַעַזְבֵ֖נוּ וְאַֽל־יִטְּשֵֽׁנוּ׃",
+      "douay_rheims": "The Lord our God be with us, as he was with our fathers, and not leave us, nor cast us off:",
+      "finnish_biblia": "Herra meidän Jumalamme olkoon meidän kanssamme, niinkuin hän on ollut meidän isäimme kanssa: älköön meitä hyljätkö, eikä ylönantako meitä, ",
       "king_james": "The Lord our God be with us, as he was with our fathers: let him not leave us, nor forsake us:"
     },
     {
       "verse": 58,
       "latin_vulgate": "Sed inclinet corda nostra ad se, ut ambulemus in universis viis ejus, et custodiamus mandata ejus, et cæremonias ejus, et judicia quæcumque mandavit patribus nostris. ",
       "hebrew_masoretic": "לְהַטּ֥וֹת לְבָבֵ֖נוּ אֵלָ֑יו לָלֶ֣כֶת בְּכׇל־דְּרָכָ֗יו וְלִשְׁמֹ֨ר מִצְוֺתָ֤יו וְחֻקָּיו֙ וּמִשְׁפָּטָ֔יו אֲשֶׁ֥ר צִוָּ֖ה אֶת־אֲבֹתֵֽינוּ׃",
+      "douay_rheims": "But may he incline our hearts to himself, that we may walk in all his ways, and keep his commandments, and his ceremonies, and all his judgments, which he commanded our fathers.",
+      "finnish_biblia": "Että hän kääntäis meidän sydämemme tykönsä, että me vaeltaisimme kaikissa hänen teissänsä ja pitäisimme hänen käskynsä, säätynsä ja oikeutensa, jotka hän meidän isillemme käskenyt on; ",
       "king_james": "That he may incline our hearts unto him, to walk in all his ways, and to keep his commandments, and his statutes, and his judgments, which he commanded our fathers."
     },
     {
       "verse": 59,
       "latin_vulgate": "Et sint sermones mei isti, quibus deprecatus sum coram Domino, appropinquantes Domino Deo nostro die ac nocte, ut faciat judicium servo suo, et populo suo Israël per singulos dies : ",
       "hebrew_masoretic": "וְיִֽהְי֨וּ דְבָרַ֜י אֵ֗לֶּה אֲשֶׁ֤ר הִתְחַנַּ֙נְתִּי֙ לִפְנֵ֣י יְהֹוָ֔ה קְרֹבִ֛ים אֶל־יְהֹוָ֥ה אֱלֹהֵ֖ינוּ יוֹמָ֣ם וָלָ֑יְלָה לַעֲשׂ֣וֹת ׀ מִשְׁפַּ֣ט עַבְדּ֗וֹ וּמִשְׁפַּ֛ט עַמּ֥וֹ יִשְׂרָאֵ֖ל דְּבַר־י֥וֹם בְּיוֹמֽוֹ׃",
+      "douay_rheims": "And let these my words, wherewith I have prayed before the Lord, be nigh unto the Lord our God day and night, that he may do judgment for his servant, and for his people Israel, day by day:",
+      "finnish_biblia": "Ja että nämät minun sanani, jotka minä Herran edessä rukoillut olen, olisivat läsnä Herran meidän Jumalamme tykönä päivällä ja yöllä; että hän saattais palveliallensa ja Israelille kansallensa oikeuden, itsekullakin ajallansa; ",
       "king_james": "And let these my words, wherewith I have made supplication before the Lord, be nigh unto the Lord our God day and night, that he maintain the cause of his servant, and the cause of his people Israel at all times, as the matter shall require:"
     },
     {
       "verse": 60,
       "latin_vulgate": "ut sciant omnes populi terræ quia Dominus ipse est Deus, et non est ultra absque eo. ",
       "hebrew_masoretic": "לְמַ֗עַן דַּ֚עַת כׇּל־עַמֵּ֣י הָאָ֔רֶץ כִּ֥י יְהֹוָ֖ה ה֣וּא הָאֱלֹהִ֑ים אֵ֖ין עֽוֹד׃",
+      "douay_rheims": "That all the people of the earth may know, that the Lord he is God, and there is no other besides him.",
+      "finnish_biblia": "Että kaikki kansat maan päällä tietäisivät, että Herra on itse Jumala, ja ei yksikään muu. ",
       "king_james": "That all the people of the earth may know that the Lord is God, and that there is none else."
     },
     {
       "verse": 61,
       "latin_vulgate": "Sit quoque cor nostrum perfectum cum Domino Deo nostro, ut ambulemus in decretis ejus, et custodiamus mandata ejus, sicut et hodie.  ",
       "hebrew_masoretic": "וְהָיָ֤ה לְבַבְכֶם֙ שָׁלֵ֔ם עִ֖ם יְהֹוָ֣ה אֱלֹהֵ֑ינוּ לָלֶ֧כֶת בְּחֻקָּ֛יו וְלִשְׁמֹ֥ר מִצְוֺתָ֖יו כַּיּ֥וֹם הַזֶּֽה׃",
+      "douay_rheims": "Let our hearts also be perfect with the Lord our God, that we may walk in his statutes, and keep his commandments, as at this day.",
+      "finnish_biblia": "Ja teidän sydämenne olkoon vakaa Herran meidän Jumalamme edessä, vaeltamaan hänen säädyissänsä ja pitämään hänen käskynsä, niin kuin se tänäpänä on. ",
       "king_james": "Let your heart therefore be perfect with the Lord our God, to walk in his statutes, and to keep his commandments, as at this day."
     },
     {
       "verse": 62,
       "latin_vulgate": " Igitur rex, et omnis Israël cum eo, immolabant victimas coram Domino. ",
       "hebrew_masoretic": "וְֽהַמֶּ֔לֶךְ וְכׇל־יִשְׂרָאֵ֖ל עִמּ֑וֹ זֹבְחִ֥ים זֶ֖בַח לִפְנֵ֥י יְהֹוָֽה׃",
+      "douay_rheims": "And the king, and all Israel with him, offered victims before the Lord.",
+      "finnish_biblia": "Ja kuningas ja koko Israel hänen kanssansa uhrasivat uhria Herran edessä. ",
       "king_james": "And the king, and all Israel with him, offered sacrifice before the Lord."
     },
     {
       "verse": 63,
       "latin_vulgate": "Mactavitque Salomon hostias pacificas, quas immolavit Domino, boum viginti duo millia, et ovium centum viginti millia : et dedicaverunt templum Domini rex et filii Israël. ",
       "hebrew_masoretic": "וַיִּזְבַּ֣ח שְׁלֹמֹ֗ה אֵ֣ת זֶ֣בַח הַשְּׁלָמִים֮ אֲשֶׁ֣ר זָבַ֣ח לַיהֹוָה֒ בָּקָ֗ר עֶשְׂרִ֤ים וּשְׁנַ֙יִם֙ אֶ֔לֶף וְצֹ֕אן מֵאָ֥ה וְעֶשְׂרִ֖ים אָ֑לֶף וַֽיַּחְנְכוּ֙ אֶת־בֵּ֣ית יְהֹוָ֔ה הַמֶּ֖לֶךְ וְכׇל־בְּנֵ֥י יִשְׂרָאֵֽל׃",
+      "douay_rheims": "And Solomon slew victims of peace offerings, which he sacrificed to the Lord, two and twenty thousand oxen, and a hundred and twenty thousand sheep so the king, and all the children of Israel, dedicated the temple of the Lord.",
+      "finnish_biblia": "Ja Salomo uhrasi kiitosuhria (jonka hän Herralle uhrasi,) kaksikolmattakymmentä tuhatta härkää ja sata ja kaksikymmentä tuhatta lammasta. Näin he vihkivät Herran huoneen, kuningas ja kaikki Israelin lapset. ",
       "king_james": "And Solomon offered a sacrifice of peace offerings, which he offered unto the Lord, two and twenty thousand oxen, and an hundred and twenty thousand sheep. So the king and all the children of Israel dedicated the house of the Lord."
     },
     {
       "verse": 64,
       "latin_vulgate": "In die illa sanctificavit rex medium atrii quod erat ante domum Domini : fecit quippe holocaustum ibi, et sacrificium, et adipem pacificorum : quoniam altare æreum quod erat coram Domino, minus erat, et capere non poterat holocaustum, et sacrificium, et adipem pacificorum. ",
       "hebrew_masoretic": "בַּיּ֣וֹם הַה֗וּא קִדַּ֨שׁ הַמֶּ֜לֶךְ אֶת־תּ֣וֹךְ הֶחָצֵ֗ר אֲשֶׁר֙ לִפְנֵ֣י בֵית־יְהֹוָ֔ה כִּי־עָ֣שָׂה שָׁ֗ם אֶת־הָֽעֹלָה֙ וְאֶת־הַמִּנְחָ֔ה וְאֵ֖ת חֶלְבֵ֣י הַשְּׁלָמִ֑ים כִּֽי־מִזְבַּ֤ח הַנְּחֹ֙שֶׁת֙ אֲשֶׁ֣ר לִפְנֵ֣י יְהֹוָ֔ה קָטֹ֗ן מֵֽהָכִיל֙ אֶת־הָעֹלָ֣ה וְאֶת־הַמִּנְחָ֔ה וְאֵ֖ת חֶלְבֵ֥י הַשְּׁלָמִֽים׃",
+      "douay_rheims": "In that day the king sanctified the middle of the court, that was before the house of the Lord for there he offered the holocaust, and sacrifice, and the fat of the peace offerings: because the brazen altar that was before the Lord, was too little to receive the holocaust, and sacrifice, and the fat of the peace offerings.",
+      "finnish_biblia": "Sinä päivänä pyhitti kuningas keskikartanon, joka oli Herran huoneen edessä; sillä hän teki siellä polttouhrin, ruokauhrin ja kiitosuhrin lihavuuden; sillä vaskialttari, joka Herran edessä oli, oli vähäinen polttouhriin, ruokauhriin ja kiitosuhrin lihavuuteen. ",
       "king_james": "The same day did the king hallow the middle of the court that was before the house of the Lord: for there he offered burnt offerings, and meat offerings, and the fat of the peace offerings: because the brasen altar that was before the Lord was too little to receive the burnt offerings, and meat offerings, and the fat of the peace offerings."
     },
     {
       "verse": 65,
       "latin_vulgate": "Fecit ergo Salomon in tempore illo festivitatem celebrem, et omnis Israël cum eo, multitudo magna ab introitu Emath usque ad rivum Ægypti, coram Domino Deo nostro, septem diebus et septem diebus, id est, quatuordecim diebus. ",
       "hebrew_masoretic": "וַיַּ֣עַשׂ שְׁלֹמֹ֣ה בָעֵת־הַהִ֣יא ׀ אֶת־הֶחָ֡ג וְכׇל־יִשְׂרָאֵ֣ל עִמּוֹ֩ קָהָ֨ל גָּד֜וֹל מִלְּב֥וֹא חֲמָ֣ת ׀ עַד־נַ֣חַל מִצְרַ֗יִם לִפְנֵי֙ יְהֹוָ֣ה אֱלֹהֵ֔ינוּ שִׁבְעַ֥ת יָמִ֖ים וְשִׁבְעַ֣ת יָמִ֑ים אַרְבָּעָ֥ה עָשָׂ֖ר יֽוֹם׃",
+      "douay_rheims": "And Solomon made at the same time a solemn feast, and all Israel with him, a great multitude, from the entrance of Emath to the river of Egypt, before the Lord our God, seven days and seven days, that is, fourteen days.",
+      "finnish_biblia": "Ja Salomo piti siihen aikaan juhlaa, ja koko Israel hänen kanssansa, suuressa kokouksessa, Hematin rajasta Egyptin virtaan asti, Herran meidän Jumalamme edessä, seitsemän päivää, ja taas seitsemän päivää: (se on) neljätoistakymmentä päivää. ",
       "king_james": "And at that time Solomon held a feast, and all Israel with him, a great congregation, from the entering in of Hamath unto the river of Egypt, before the Lord our God, seven days and seven days, even fourteen days."
     },
     {
       "verse": 66,
       "latin_vulgate": "Et in die octava dimisit populos : qui benedicentes regi, profecti sunt in tabernacula sua lætantes, et alacri corde super omnibus bonis quæ fecerat Dominus David servo suo, et Israël populo suo.   ",
       "hebrew_masoretic": "בַּיּ֤וֹם הַשְּׁמִינִי֙ שִׁלַּ֣ח אֶת־הָעָ֔ם וַֽיְבָרְכ֖וּ אֶת־הַמֶּ֑לֶךְ וַיֵּלְכ֣וּ לְאׇהֳלֵיהֶ֗ם שְׂמֵחִים֙ וְט֣וֹבֵי לֵ֔ב עַ֣ל כׇּל־הַטּוֹבָ֗ה אֲשֶׁ֨ר עָשָׂ֤ה יְהֹוָה֙ לְדָוִ֣ד עַבְדּ֔וֹ וּלְיִשְׂרָאֵ֖ל עַמּֽוֹ׃",
+      "douay_rheims": "And on the eighth day, he sent away the people: and they blessed the king, and went to their dwellings, rejoicing, and glad in heart, for all the good things that the Lord had done for David, his servant, and for Israel, his people. ",
+      "finnish_biblia": "Ja kahdeksantena päivänä päästi hän kansan menemään, ja he siunasivat kuningasta, ja vaelsivat majoillensa, iloiten ja riemuiten kaikesta siitä hyvyydestä, minkä Herra palveliallensa Davidille ja kansallensa Israelille tehnyt oli.   ",
       "king_james": "On the eighth day he sent the people away: and they blessed the king, and went unto their tents joyful and glad of heart for all the goodness that the Lord had done for David his servant, and for Israel his people. "
     }
   ]

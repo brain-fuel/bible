@@ -2,6 +2,8 @@
   "book_id": "PSA",
   "latin_name": "Liber Psalmorum",
   "hebrew_name": "תְּהִלִּים",
+  "douay_name": "Psalms",
+  "finnish_name": "Psalmit",
   "english_name": "Psalms",
   "chapter": 120,
   "verses": [
@@ -9,9 +11,14 @@
       "verse": 1,
       "latin_vulgate": "Canticum graduum.   Ad Dominum cum tribularer clamavi,  et exaudivit me. ",
       "hebrew_masoretic": "שִׁ֗יר הַֽמַּ֫עֲל֥וֹת אֶל־יְ֭הֹוָה בַּצָּרָ֣תָה לִּ֑י קָ֝רָ֗אתִי וַֽיַּעֲנֵֽנִי׃",
+      "douay_rheims": "In my trouble I cried to the Lord: and he heard me.",
+      "finnish_biblia": "Veisu korkeimmassa Kuorissa. Minä huudan Herraa minun tuskissani, ja hän kuulee minun rukoukseni. ",
       "king_james": "In my distress I cried unto the Lord, and he heard me.",
       "refs": {
         "latin_vulgate": {
+          "src": "119:1"
+        },
+        "douay_rheims": {
           "src": "119:1"
         }
       }
@@ -20,9 +27,14 @@
       "verse": 2,
       "latin_vulgate": " Domine, libera animam meam a labiis iniquis  et a lingua dolosa. ",
       "hebrew_masoretic": "יְֽהֹוָ֗ה הַצִּ֣ילָה נַ֭פְשִׁי מִשְּׂפַת־שֶׁ֑קֶר מִלָּשׁ֥וֹן רְמִיָּֽה׃",
+      "douay_rheims": "O Lord, deliver my soul from wicked lips, and a deceitful tongue.",
+      "finnish_biblia": "Herra, pelasta minun sieluni valhettelevista suista ja vääristä kielistä? ",
       "king_james": "Deliver my soul, O Lord, from lying lips, and from a deceitful tongue.",
       "refs": {
         "latin_vulgate": {
+          "src": "119:2"
+        },
+        "douay_rheims": {
           "src": "119:2"
         }
       }
@@ -31,9 +43,14 @@
       "verse": 3,
       "latin_vulgate": " Quid detur tibi, aut quid apponatur tibi  ad linguam dolosam ? ",
       "hebrew_masoretic": "מַה־יִּתֵּ֣ן לְ֭ךָ וּמַה־יֹּסִ֥יף לָ֗ךְ לָשׁ֥וֹן רְמִיָּֽה׃",
+      "douay_rheims": "What shall be given to thee, or what shall be added to thee, to a deceitful tongue?",
+      "finnish_biblia": "Mitä väärä kieli taitaa sinulle tehdä? ja mitä se taitaa toimittaa? ",
       "king_james": "What shall be given unto thee? or what shall be done unto thee, thou false tongue?",
       "refs": {
         "latin_vulgate": {
+          "src": "119:3"
+        },
+        "douay_rheims": {
           "src": "119:3"
         }
       }
@@ -42,9 +59,14 @@
       "verse": 4,
       "latin_vulgate": " Sagittæ potentis acutæ,  cum carbonibus desolatoriis. ",
       "hebrew_masoretic": "חִצֵּ֣י גִבּ֣וֹר שְׁנוּנִ֑ים עִ֝֗ם גַּחֲלֵ֥י רְתָמִֽים׃",
+      "douay_rheims": "The sharp arrows of the mighty, with coals that lay waste.",
+      "finnish_biblia": "Se on niinkuin väkevän terävät nuolet, niinkuin tuli katajissa. ",
       "king_james": "Sharp arrows of the mighty, with coals of juniper.",
       "refs": {
         "latin_vulgate": {
+          "src": "119:4"
+        },
+        "douay_rheims": {
           "src": "119:4"
         }
       }
@@ -53,9 +75,14 @@
       "verse": 5,
       "latin_vulgate": " Heu mihi, quia incolatus meus prolongatus est !  habitavi cum habitantibus Cedar ; ",
       "hebrew_masoretic": "אֽוֹיָה־לִ֭י כִּי־גַ֣רְתִּי מֶ֑שֶׁךְ שָׁ֝כַ֗נְתִּי עִֽם־אׇהֳלֵ֥י קֵדָֽר׃",
+      "douay_rheims": "Woe is me, that my sojourning is prolonged! I have dwelt with the inhabitants of Cedar:",
+      "finnish_biblia": "Voi minua, että minä olen muukalainen Mesekin seassa! minun täytyy asua Kedarin majain seassa. ",
       "king_james": "Woe is me, that I sojourn in Mesech, that I dwell in the tents of Kedar!",
       "refs": {
         "latin_vulgate": {
+          "src": "119:5"
+        },
+        "douay_rheims": {
           "src": "119:5"
         }
       }
@@ -64,9 +91,14 @@
       "verse": 6,
       "latin_vulgate": " multum incola fuit anima mea. ",
       "hebrew_masoretic": "רַ֭בַּת שָֽׁכְנָה־לָּ֣הּ נַפְשִׁ֑י עִ֝֗ם שׂוֹנֵ֥א שָׁלֽוֹם׃",
+      "douay_rheims": "My soul hath been long a sojourner.",
+      "finnish_biblia": "Se tulee minun sielulleni ikäväksi, asua niiden tykönä, jotka rauhaa vihaavat. ",
       "king_james": "My soul hath long dwelt with him that hateth peace.",
       "refs": {
         "latin_vulgate": {
+          "src": "119:6"
+        },
+        "douay_rheims": {
           "src": "119:6"
         }
       }
@@ -75,9 +107,14 @@
       "verse": 7,
       "latin_vulgate": " Cum his qui oderunt pacem eram pacificus ;  cum loquebar illis, impugnabant me gratis.  ",
       "hebrew_masoretic": "אֲֽנִי־שָׁ֭לוֹם וְכִ֣י אֲדַבֵּ֑ר הֵ֝֗מָּה לַמִּלְחָמָֽה׃ {פ}",
+      "douay_rheims": "With them that hated peace I was peaceable: when I spoke to them they fought against me without cause. ",
+      "finnish_biblia": "Minä pidän rauhan, mutta kuin minä puhun, niin he sodan nostavat.   ",
       "king_james": "I am for peace: but when I speak, they are for war. ",
       "refs": {
         "latin_vulgate": {
+          "src": "119:7"
+        },
+        "douay_rheims": {
           "src": "119:7"
         }
       }

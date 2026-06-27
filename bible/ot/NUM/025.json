@@ -2,6 +2,8 @@
   "book_id": "NUM",
   "latin_name": "Numeri",
   "hebrew_name": "בְּמִדְבַּר",
+  "douay_name": "Numbers",
+  "finnish_name": "4. Mooseksen kirja",
   "english_name": "Numbers",
   "chapter": 25,
   "verses": [
@@ -9,108 +11,144 @@
       "verse": 1,
       "latin_vulgate": "Morabatur autem eo tempore Israël in Settim, et fornicatus est populus cum filiabus Moab, ",
       "hebrew_masoretic": "וַיֵּ֥שֶׁב יִשְׂרָאֵ֖ל בַּשִּׁטִּ֑ים וַיָּ֣חֶל הָעָ֔ם לִזְנ֖וֹת אֶל־בְּנ֥וֹת מוֹאָֽב׃",
+      "douay_rheims": "And Israel at that time abode in Settim, and the people committed fornication with the daughters of Moab,",
+      "finnish_biblia": "Ja Israel asui Sittimissä, ja kansa rupesi tekemään huorin Moabilaisten tytärten kanssa, ",
       "king_james": "And Israel abode in Shittim, and the people began to commit whoredom with the daughters of Moab."
     },
     {
       "verse": 2,
       "latin_vulgate": "quæ vocaverunt eos ad sacrificia sua. At ille comederunt et adoraverunt deos earum. ",
       "hebrew_masoretic": "וַתִּקְרֶ֣אןָ לָעָ֔ם לְזִבְחֵ֖י אֱלֹהֵיהֶ֑ן וַיֹּ֣אכַל הָעָ֔ם וַיִּֽשְׁתַּחֲו֖וּ לֵאלֹֽהֵיהֶֽן׃",
+      "douay_rheims": "Who called them to their sacrifices. And they ate of them, and adored their gods.",
+      "finnish_biblia": "Jotka kutsuivat kansan epäjumalainsa uhrille: ja kansa söi, ja kumarsi heidän epäjumaliansa. ",
       "king_james": "And they called the people unto the sacrifices of their gods: and the people did eat, and bowed down to their gods."
     },
     {
       "verse": 3,
       "latin_vulgate": "Initiatusque est Israël Beelphegor : et iratus Dominus, ",
       "hebrew_masoretic": "וַיִּצָּ֥מֶד יִשְׂרָאֵ֖ל לְבַ֣עַל פְּע֑וֹר וַיִּֽחַר־אַ֥ף יְהֹוָ֖ה בְּיִשְׂרָאֵֽל׃",
+      "douay_rheims": "And Israel was initiated to Beelphegor: upon which the Lord being angry,",
+      "finnish_biblia": "Ja Israel yhdisti itsensä BaalPeorin kanssa: niin Herran viha julmistui Israelia vastaan. ",
       "king_james": "And Israel joined himself unto Baal–peor: and the anger of the Lord was kindled against Israel."
     },
     {
       "verse": 4,
       "latin_vulgate": "ait ad Moysen : Tolle cunctos principes populi, et suspende eos contra solem in patibulis, ut avertatur furor meus ab Israël. ",
       "hebrew_masoretic": "וַיֹּ֨אמֶר יְהֹוָ֜ה אֶל־מֹשֶׁ֗ה קַ֚ח אֶת־כׇּל־רָאשֵׁ֣י הָעָ֔ם וְהוֹקַ֥ע אוֹתָ֛ם לַיהֹוָ֖ה נֶ֣גֶד הַשָּׁ֑מֶשׁ וְיָשֹׁ֛ב חֲר֥וֹן אַף־יְהֹוָ֖ה מִיִּשְׂרָאֵֽל׃",
+      "douay_rheims": "Said to Moses: Take all the princes of the people, and hang them up on gibbets against the sun: that my fury may be turned away from Israel.",
+      "finnish_biblia": "Ja Herra sanoi Mosekselle: ota kaikki kansan päämiehet, ja hirtä heidät Herralle aurinkoa vastaan, että Herran vihan julmuus käännettäisiin Israelista pois. ",
       "king_james": "And the Lord said unto Moses, Take all the heads of the people, and hang them up before the Lord against the sun, that the fierce anger of the Lord may be turned away from Israel."
     },
     {
       "verse": 5,
       "latin_vulgate": "Dixitque Moyses ad judices Israël : Occidat unusquisque proximos suos, qui initiati sunt Beelphegor. ",
       "hebrew_masoretic": "וַיֹּ֣אמֶר מֹשֶׁ֔ה אֶל־שֹׁפְטֵ֖י יִשְׂרָאֵ֑ל הִרְגוּ֙ אִ֣ישׁ אֲנָשָׁ֔יו הַנִּצְמָדִ֖ים לְבַ֥עַל פְּעֽוֹר׃",
+      "douay_rheims": "And Moses said to the judges of Israel: Let every man kill his neighbours, that have been initiated to Beelphegor.",
+      "finnish_biblia": "Ja Moses sanoi Israelin tuomareille: jokainen tappakoon väkensä, jotka BaalPeorin kanssa ovat itsensä yhdistäneet. ",
       "king_james": "And Moses said unto the judges of Israel, Slay ye every one his men that were joined unto Baal–peor."
     },
     {
       "verse": 6,
       "latin_vulgate": "Et ecce unus de filiis Israël intravit coram fratribus suis ad scortum Madianitidem, vidente Moyse, et omni turba filiorum Israël, qui flebant ante fores tabernaculi.  ",
       "hebrew_masoretic": "וְהִנֵּ֡ה אִישׁ֩ מִבְּנֵ֨י יִשְׂרָאֵ֜ל בָּ֗א וַיַּקְרֵ֤ב אֶל־אֶחָיו֙ אֶת־הַמִּדְיָנִ֔ית לְעֵינֵ֣י מֹשֶׁ֔ה וּלְעֵינֵ֖י כׇּל־עֲדַ֣ת בְּנֵי־יִשְׂרָאֵ֑ל וְהֵ֣מָּה בֹכִ֔ים פֶּ֖תַח אֹ֥הֶל מוֹעֵֽד׃",
+      "douay_rheims": "And behold one of the children of Israel went in before his brethren to a harlot of Madian, in the sight of Moses and of all the children of Israel, who were weeping before the door of the tabernacle.",
+      "finnish_biblia": "Ja katso, mies Israelin lapsista tuli ja toi veljeinsä sekaan Midianilaisen vaimon, Moseksen ja kaikkein Israelin lasten joukon nähden, jotka itkivät seurakunnan majan ovessa. ",
       "king_james": "And, behold, one of the children of Israel came and brought unto his brethren a Midianitish woman in the sight of Moses, and in the sight of all the congregation of the children of Israel, who were weeping before the door of the tabernacle of the congregation."
     },
     {
       "verse": 7,
       "latin_vulgate": " Quod cum vidisset Phinees filius Eleazari filii Aaron sacerdotis, surrexit de medio multitudinis, et arrepto pugione, ",
       "hebrew_masoretic": "וַיַּ֗רְא פִּֽינְחָס֙ בֶּן־אֶלְעָזָ֔ר בֶּֽן־אַהֲרֹ֖ן הַכֹּהֵ֑ן וַיָּ֙קׇם֙ מִתּ֣וֹךְ הָֽעֵדָ֔ה וַיִּקַּ֥ח רֹ֖מַח בְּיָדֽוֹ׃",
+      "douay_rheims": "And when Phinees the son of Eleazar the son of Aaron the priest saw it, he rose up from the midst of the multitude, and taking a dagger,",
+      "finnish_biblia": "Kuin Pinehas Eleatsarin poika, papin Aaronin pojanpoika sen näki, nousi hän kansan keskeltä ja otti keihään käteensä, ",
       "king_james": "And when Phinehas, the son of Eleazar, the son of Aaron the priest, saw it, he rose up from among the congregation, and took a javelin in his hand;"
     },
     {
       "verse": 8,
       "latin_vulgate": "ingressus est post virum Israëlitem in lupanar, et perfodit ambos simul, virum scilicet et mulierem in locis genitalibus. Cessavitque plaga a filiis Israël : ",
       "hebrew_masoretic": "וַ֠יָּבֹ֠א אַחַ֨ר אִֽישׁ־יִשְׂרָאֵ֜ל אֶל־הַקֻּבָּ֗ה וַיִּדְקֹר֙ אֶת־שְׁנֵיהֶ֔ם אֵ֚ת אִ֣ישׁ יִשְׂרָאֵ֔ל וְאֶת־הָאִשָּׁ֖ה אֶל־קֳבָתָ֑הּ וַתֵּֽעָצַר֙ הַמַּגֵּפָ֔ה מֵעַ֖ל בְּנֵ֥י יִשְׂרָאֵֽל׃",
+      "douay_rheims": "Went in after the Israelite into the brothel house, and thrust both of them through together, to wit, the man and the woman in the genital parts. And the scourge ceased from the children of Israel.",
+      "finnish_biblia": "Ja meni Israelin miehen jälkeen makausmajaan, ja pisti heidät molemmat sekä Israelin miehen, että vaimon vatsasta lävitse: niin rangaistus lakkasi jälleen Israelin lapsista. ",
       "king_james": "And he went after the man of Israel into the tent, and thrust both of them through, the man of Israel, and the woman through her belly. So the plague was stayed from the children of Israel."
     },
     {
       "verse": 9,
       "latin_vulgate": "et occisi sunt viginti quatuor millia hominum. ",
       "hebrew_masoretic": "וַיִּהְי֕וּ הַמֵּתִ֖ים בַּמַּגֵּפָ֑ה אַרְבָּעָ֥ה וְעֶשְׂרִ֖ים אָֽלֶף׃ {פ}",
+      "douay_rheims": "And there were slain four and twenty thousand men.",
+      "finnish_biblia": "Ja siinä rangaistuksessa surmattiin neljäkolmattakymmentä tuhatta. ",
       "king_james": "And those that died in the plague were twenty and four thousand."
     },
     {
       "verse": 10,
       "latin_vulgate": "Dixitque Dominus ad Moysen : ",
       "hebrew_masoretic": "וַיְדַבֵּ֥ר יְהֹוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃",
+      "douay_rheims": "And the Lord said to Moses:",
+      "finnish_biblia": "Ja Herra puhui Mosekselle, sanoen: ",
       "king_james": "And the Lord spake unto Moses, saying,"
     },
     {
       "verse": 11,
       "latin_vulgate": "Phinees filius Eleazari filii Aaron sacerdotis avertit iram meam a filiis Israël : quia zelo meo commotus est contra eos, ut non ipse delerem filios Israël in zelo meo. ",
       "hebrew_masoretic": "פִּֽינְחָ֨ס בֶּן־אֶלְעָזָ֜ר בֶּן־אַהֲרֹ֣ן הַכֹּהֵ֗ן הֵשִׁ֤יב אֶת־חֲמָתִי֙ מֵעַ֣ל בְּנֵֽי־יִשְׂרָאֵ֔ל בְּקַנְא֥וֹ אֶת־קִנְאָתִ֖י בְּתוֹכָ֑ם וְלֹא־כִלִּ֥יתִי אֶת־בְּנֵֽי־יִשְׂרָאֵ֖ל בְּקִנְאָתִֽי׃",
+      "douay_rheims": "Phinees the son of Eleazar the son of Aaron the priest, hath turned away my wrath from the children of Israel: because he was moved with my zeal against them, that I myself might not destroy the children of Israel in my zeal.",
+      "finnish_biblia": "Pinehas Eleatsarin poika, papin Aaronin pojanpoika, on kääntänyt julmuuteni pois Israelin lasten päältä, siinä että hän oli kiivas minun kiivauteni tähden heidän keskellänsä, etten minä kiivaudessani hukuttanut Israelin lapsia. ",
       "king_james": "Phinehas, the son of Eleazar, the son of Aaron the priest, hath turned my wrath away from the children of Israel, while he was zealous for my sake among them, that I consumed not the children of Israel in my jealousy."
     },
     {
       "verse": 12,
       "latin_vulgate": "Idcirco loquere ad eum : Ecce do ei pacem fœderis mei, ",
       "hebrew_masoretic": "לָכֵ֖ן אֱמֹ֑ר הִנְנִ֨י נֹתֵ֥ן ל֛וֹ אֶת־בְּרִיתִ֖י שָׁלֽוֹם׃",
+      "douay_rheims": "Therefore say to him: behold I give him the peace of my covenant,",
+      "finnish_biblia": "Sentähden sano: katso, minä annan hänelle minun rauhani liiton. ",
       "king_james": "Wherefore say, Behold, I give unto him my covenant of peace:"
     },
     {
       "verse": 13,
       "latin_vulgate": "et erit tam ipsi quam semini ejus pactum sacerdotii sempiternum : quia zelatus est pro Deo suo, et expiavit scelus filiorum Israël. ",
       "hebrew_masoretic": "וְהָ֤יְתָה לּוֹ֙ וּלְזַרְע֣וֹ אַחֲרָ֔יו בְּרִ֖ית כְּהֻנַּ֣ת עוֹלָ֑ם תַּ֗חַת אֲשֶׁ֤ר קִנֵּא֙ לֵֽאלֹהָ֔יו וַיְכַפֵּ֖ר עַל־בְּנֵ֥י יִשְׂרָאֵֽל׃",
+      "douay_rheims": "And the covenant of the priesthood for ever shall be both to him and his seed, because he hath been zealous for his God, and hath made atonement for the wickedness of the children of Israel.",
+      "finnish_biblia": "Ja hänellä ja hänen siemenellänsä hänen jälkeensä pitää oleman ijankaikkisen pappeuden liiton, että hän oli kiivas Jumalallensa ja sovitti Israelin lapset. ",
       "king_james": "And he shall have it, and his seed after him, even the covenant of an everlasting priesthood; because he was zealous for his God, and made an atonement for the children of Israel."
     },
     {
       "verse": 14,
       "latin_vulgate": "Erat autem nomen viri Israëlitæ, qui occisus est cum Madianitide, Zambri filius Salu, dux de cognatione et tribu Simeonis. ",
       "hebrew_masoretic": "וְשֵׁם֩ אִ֨ישׁ יִשְׂרָאֵ֜ל הַמֻּכֶּ֗ה אֲשֶׁ֤ר הֻכָּה֙ אֶת־הַמִּדְיָנִ֔ית זִמְרִ֖י בֶּן־סָל֑וּא נְשִׂ֥יא בֵֽית־אָ֖ב לַשִּׁמְעֹנִֽי׃",
+      "douay_rheims": "And the name of the Israelite, that was slain with the woman of Madian, was Zambri the son of Salu, a prince of the kindred and tribe of Simeon.",
+      "finnish_biblia": "Ja lyödyn Israelin miehen nimi, joka Midianilaisen vaimon kanssa lyötiin, oli Simri Salun poika, isän Simeonin huoneen päämies. ",
       "king_james": "Now the name of the Israelite that was slain, even that was slain with the Midianitish woman, was Zimri, the son of Salu, a prince of a chief house among the Simeonites."
     },
     {
       "verse": 15,
       "latin_vulgate": "Porro mulier Madianitis, quæ pariter interfecta est, vocabatur Cozbi filia Sur principis nobilissimi Madianitarum. ",
       "hebrew_masoretic": "וְשֵׁ֨ם הָֽאִשָּׁ֧ה הַמֻּכָּ֛ה הַמִּדְיָנִ֖ית כׇּזְבִּ֣י בַת־צ֑וּר רֹ֣אשׁ אֻמּ֥וֹת בֵּֽית־אָ֛ב בְּמִדְיָ֖ן הֽוּא׃ {פ}",
+      "douay_rheims": "And the Madianite woman, that was slain with him, was called Cozbi the daughter of Sur, a most noble prince among the Madianites.",
+      "finnish_biblia": "Mutta Midianilaisen vaimon nimi, joka myös lyötiin, oli Kosbi, Zurin, Midianin kansan huoneen päämiehen, tytär. ",
       "king_james": "And the name of the Midianitish woman that was slain was Cozbi, the daughter of Zur; he was head over a people, and of a chief house in Midian."
     },
     {
       "verse": 16,
       "latin_vulgate": "Locutusque est Dominus ad Moysen, dicens : ",
       "hebrew_masoretic": "וַיְדַבֵּ֥ר יְהֹוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃",
+      "douay_rheims": "And the Lord spoke to Moses, saying:",
+      "finnish_biblia": "Ja Herra puhui Mosekselle, sanoen: ",
       "king_james": "And the Lord spake unto Moses, saying,"
     },
     {
       "verse": 17,
       "latin_vulgate": "Hostes vos sentiant Madianitæ, et percutite eos : ",
       "hebrew_masoretic": "צָר֖וֹר אֶת־הַמִּדְיָנִ֑ים וְהִכִּיתֶ֖ם אוֹתָֽם׃",
+      "douay_rheims": "Let the Madianites find you their enemies, and slay you them:",
+      "finnish_biblia": "Ahdistakaat Midianilaisia, ja lyökäät heitä. ",
       "king_james": "Vex the Midianites, and smite them:"
     },
     {
       "verse": 18,
       "latin_vulgate": "quia et ipsi hostiliter egerunt contra vos, et decepere insidiis per idolum Phogor, et Cozbi filiam ducis Madian sororem suam, quæ percussa est in die plagæ pro sacrilegio Phogor.   ",
       "hebrew_masoretic": "כִּ֣י צֹרְרִ֥ים הֵם֙ לָכֶ֔ם בְּנִכְלֵיהֶ֛ם אֲשֶׁר־נִכְּל֥וּ לָכֶ֖ם עַל־דְּבַר־פְּע֑וֹר וְעַל־דְּבַ֞ר כׇּזְבִּ֨י בַת־נְשִׂ֤יא מִדְיָן֙ אֲחֹתָ֔ם הַמֻּכָּ֥ה בְיוֹם־הַמַּגֵּפָ֖ה עַל־דְּבַר־פְּעֽוֹר׃",
+      "douay_rheims": "Because they also have acted like enemies against you, and have guilefully deceived you by the idol Phogor, and Cozbi their sister, a daughter of a prince of Madian, who was slain in the day of the plague for the sacrilege of Phogor. ",
+      "finnish_biblia": "Sillä he ovat teitä ahdistaneet kavaluuksillansa, joilla he teidät pettäneet ovat Peorin kautta, ja sisarensa Kosbin kautta, Midianilaisten päämiehen tyttären, joka lyötiin rangaistuksen päivänä, Peorin tähden.   ",
       "king_james": "For they vex you with their wiles, wherewith they have beguiled you in the matter of Peor, and in the matter of Cozbi, the daughter of a prince of Midian, their sister, which was slain in the day of the plague for Peor’s sake. "
     }
   ]

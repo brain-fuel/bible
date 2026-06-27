@@ -2,6 +2,8 @@
   "book_id": "PSA",
   "latin_name": "Liber Psalmorum",
   "hebrew_name": "תְּהִלִּים",
+  "douay_name": "Psalms",
+  "finnish_name": "Psalmit",
   "english_name": "Psalms",
   "chapter": 124,
   "verses": [
@@ -9,9 +11,14 @@
       "verse": 1,
       "latin_vulgate": "Canticum graduum.   Nisi quia Dominus erat in nobis,  dicat nunc Israël, ",
       "hebrew_masoretic": "שִׁ֥יר הַֽמַּעֲל֗וֹת לְדָ֫וִ֥ד לוּלֵ֣י יְ֭הֹוָה שֶׁהָ֣יָה לָ֑נוּ יֹאמַר־נָ֝֗א יִשְׂרָאֵֽל׃",
+      "douay_rheims": "A gradual canticle. If it had not been that the Lord was with us, let Israel now say:",
+      "finnish_biblia": "Davidin veisu korkeimmassa Kuorissa. Ellei Herra olisi meidän kanssamme, niin sanokaan Israel: ",
       "king_james": "If it had not been the Lord who was on our side, now may Israel say;",
       "refs": {
         "latin_vulgate": {
+          "src": "123:1"
+        },
+        "douay_rheims": {
           "src": "123:1"
         }
       }
@@ -20,9 +27,14 @@
       "verse": 2,
       "latin_vulgate": " nisi quia Dominus erat in nobis :  cum exsurgerent homines in nos, ",
       "hebrew_masoretic": "לוּלֵ֣י יְ֭הֹוָה שֶׁהָ֣יָה לָ֑נוּ בְּק֖וּם עָלֵ֣ינוּ אָדָֽם׃",
+      "douay_rheims": "If it had not been that the Lord was with us, When men rose up against us,",
+      "finnish_biblia": "Ellei Herra olisi meidän kanssamme, koska ihmiset karkaavat meitä vastaan, ",
       "king_james": "If it had not been the Lord who was on our side, when men rose up against us:",
       "refs": {
         "latin_vulgate": {
+          "src": "123:2"
+        },
+        "douay_rheims": {
           "src": "123:2"
         }
       }
@@ -31,9 +43,14 @@
       "verse": 3,
       "latin_vulgate": " forte vivos deglutissent nos ;  cum irasceretur furor eorum in nos, ",
       "hebrew_masoretic": "אֲ֭זַי חַיִּ֣ים בְּלָע֑וּנוּ בַּחֲר֖וֹת אַפָּ֣ם בָּֽנוּ׃",
+      "douay_rheims": "Perhaps they had swallowed us up alive. When their fury was enkindled against us,",
+      "finnish_biblia": "Niin he nielisivät meidät elävältä, kuin heidän vihansa julmistuu meidän päällemme; ",
       "king_james": "Then they had swallowed us up quick, when their wrath was kindled against us:",
       "refs": {
         "latin_vulgate": {
+          "src": "123:3"
+        },
+        "douay_rheims": {
           "src": "123:3"
         }
       }
@@ -42,9 +59,14 @@
       "verse": 4,
       "latin_vulgate": " forsitan aqua absorbuisset nos ; ",
       "hebrew_masoretic": "אֲ֭זַי הַמַּ֣יִם שְׁטָפ֑וּנוּ נַ֝֗חְלָה עָבַ֥ר עַל־נַפְשֵֽׁנוּ׃",
+      "douay_rheims": "Perhaps the waters had swallowed us up.",
+      "finnish_biblia": "Niin vesi meitä upottais: kosket kävisivät sieluimme ylitse: ",
       "king_james": "Then the waters had overwhelmed us, the stream had gone over our soul:",
       "refs": {
         "latin_vulgate": {
+          "src": "123:4"
+        },
+        "douay_rheims": {
           "src": "123:4"
         }
       }
@@ -53,9 +75,14 @@
       "verse": 5,
       "latin_vulgate": " torrentem pertransivit anima nostra ;  forsitan pertransisset anima nostra  aquam intolerabilem. ",
       "hebrew_masoretic": "אֲ֭זַי עָבַ֣ר עַל־נַפְשֵׁ֑נוּ הַ֝מַּ֗יִם הַזֵּידוֹנִֽים׃",
+      "douay_rheims": "Our soul hath passed through a torrent: perhaps our soul had passed through a water insupportable.",
+      "finnish_biblia": "Niin ylpiät veden aallot kävisivät sielumme ylitse. ",
       "king_james": "Then the proud waters had gone over our soul.",
       "refs": {
         "latin_vulgate": {
+          "src": "123:5"
+        },
+        "douay_rheims": {
           "src": "123:5"
         }
       }
@@ -64,9 +91,14 @@
       "verse": 6,
       "latin_vulgate": " Benedictus Dominus, qui non dedit nos  in captionem dentibus eorum. ",
       "hebrew_masoretic": "בָּר֥וּךְ יְהֹוָ֑ה שֶׁלֹּ֥א נְתָנָ֥נוּ טֶ֝֗רֶף לְשִׁנֵּיהֶֽם׃",
+      "douay_rheims": "Blessed be the Lord, who hath not given us to be a prey to their teeth.",
+      "finnish_biblia": "Kiitetty olkoon Herra, joka ei meitä anna raatelukseksi heidän hampaillensa! ",
       "king_james": "Blessed be the Lord, who hath not given us as a prey to their teeth.",
       "refs": {
         "latin_vulgate": {
+          "src": "123:6"
+        },
+        "douay_rheims": {
           "src": "123:6"
         }
       }
@@ -75,9 +107,14 @@
       "verse": 7,
       "latin_vulgate": " Anima nostra sicut passer erepta est  de laqueo venantium ;  laqueus contritus est,  et nos liberati sumus. ",
       "hebrew_masoretic": "נַפְשֵׁ֗נוּ כְּצִפּ֥וֹר נִמְלְטָה֮ מִפַּ֢ח י֫וֹקְשִׁ֥ים הַפַּ֥ח נִשְׁבָּ֗ר וַאֲנַ֥חְנוּ נִמְלָֽטְנוּ׃",
+      "douay_rheims": "Our soul hath been delivered as a sparrow out of the snare of the fowlers. The snare is broken, and we are delivered.",
+      "finnish_biblia": "Meidän sielumme pääsi niinkuin lintu lintumiehen paulasta. Paula on särjetty, ja me olemme päästetyt. ",
       "king_james": "Our soul is escaped as a bird out of the snare of the fowlers: the snare is broken, and we are escaped.",
       "refs": {
         "latin_vulgate": {
+          "src": "123:7"
+        },
+        "douay_rheims": {
           "src": "123:7"
         }
       }
@@ -86,9 +123,14 @@
       "verse": 8,
       "latin_vulgate": " Adjutorium nostrum in nomine Domini,  qui fecit cælum et terram.  ",
       "hebrew_masoretic": "עֶ֭זְרֵנוּ בְּשֵׁ֣ם יְהֹוָ֑ה עֹ֝שֵׂ֗ה שָׁמַ֥יִם וָאָֽרֶץ׃ {פ}",
+      "douay_rheims": "Our help is in the name of the Lord, who made heaven and earth. ",
+      "finnish_biblia": "Meidän apumme on Herran nimessä, joka taivaan ja maan tehnyt on.   ",
       "king_james": "Our help is in the name of the Lord, who made heaven and earth. ",
       "refs": {
         "latin_vulgate": {
+          "src": "123:8"
+        },
+        "douay_rheims": {
           "src": "123:8"
         }
       }

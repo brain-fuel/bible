@@ -2,6 +2,8 @@
   "book_id": "1KI",
   "latin_name": "III Regum",
   "hebrew_name": "מְלָכִים א",
+  "douay_name": "3 Kings",
+  "finnish_name": "1. Kuningasten kirja",
   "english_name": "1 Kings",
   "chapter": 13,
   "verses": [
@@ -9,204 +11,272 @@
       "verse": 1,
       "latin_vulgate": "Et ecce vir Dei venit de Juda in sermone Domini in Bethel, Jeroboam stante super altare, et thus jaciente. ",
       "hebrew_masoretic": "וְהִנֵּ֣ה ׀ אִ֣ישׁ אֱלֹהִ֗ים בָּ֧א מִיהוּדָ֛ה בִּדְבַ֥ר יְהֹוָ֖ה אֶל־בֵּֽית־אֵ֑ל וְיָרׇבְעָ֛ם עֹמֵ֥ד עַל־הַמִּזְבֵּ֖חַ לְהַקְטִֽיר׃",
+      "douay_rheims": "And behold there came a man of God out of Juda, by the word of the Lord, to Bethel, when Jeroboam was standing upon the altar, and burning incense.",
+      "finnish_biblia": "Ja katso, Jumalan mies tuli Juudasta Herran sanan kanssa Beteliin; ja Jerobeam seisoi alttarin tykönä suitsuttamassa. ",
       "king_james": "And, behold, there came a man of God out of Judah by the word of the Lord unto Beth–el: and Jeroboam stood by the altar to burn incense."
     },
     {
       "verse": 2,
       "latin_vulgate": "Et exclamavit contra altare in sermone Domini, et ait : Altare, altare, hæc dicit Dominus : Ecce filius nascetur domui David, Josias nomine, et immolabit super te sacerdotes excelsorum, qui nunc in te thura succendunt : et ossa hominum super te incendet. ",
       "hebrew_masoretic": "וַיִּקְרָ֤א עַל־הַמִּזְבֵּ֙חַ֙ בִּדְבַ֣ר יְהֹוָ֔ה וַיֹּ֙אמֶר֙ מִזְבֵּ֣חַ מִזְבֵּ֔חַ כֹּ֖ה אָמַ֣ר יְהֹוָ֑ה הִנֵּה־בֵ֞ן נוֹלָ֤ד לְבֵית־דָּוִד֙ יֹאשִׁיָּ֣הֽוּ שְׁמ֔וֹ וְזָבַ֣ח עָלֶ֗יךָ אֶת־כֹּהֲנֵ֤י הַבָּמוֹת֙ הַמַּקְטִרִ֣ים עָלֶ֔יךָ וְעַצְמ֥וֹת אָדָ֖ם יִשְׂרְפ֥וּ עָלֶֽיךָ׃",
+      "douay_rheims": "And he cried out against the altar in the word of the Lord, and said: O altar, altar, thus saith the Lord: Behold a child shall be born to the house of David, Josias by name, and he shall immolate upon thee the priests of the high places, who now burn incense upon thee, and he shall burn men's bones upon thee.",
+      "finnish_biblia": "Ja hän huusi alttaria vastaan Herran sanan kautta ja sanoi: alttari, alttari! Näin sanoo Herra: katso, Davidin huoneelle on syntyvä poika, Josia nimeltä: hän on uhraava sinun päälläs korkeuden pappeja, jotka sinun päälläs suitsuttavat, ja on polttava ihmisen luita sinun päälläs. ",
       "king_james": "And he cried against the altar in the word of the Lord, and said, O altar, altar, thus saith the Lord; Behold, a child shall be born unto the house of David, Josiah by name; and upon thee shall he offer the priests of the high places that burn incense upon thee, and men’s bones shall be burnt upon thee."
     },
     {
       "verse": 3,
       "latin_vulgate": "Deditque in illa die signum, dicens : Hoc erit signum quod locutus est Dominus : ecce altare scindetur, et effundetur cinis qui in eo est. ",
       "hebrew_masoretic": "וְנָתַן֩ בַּיּ֨וֹם הַה֤וּא מוֹפֵת֙ לֵאמֹ֔ר זֶ֣ה הַמּוֹפֵ֔ת אֲשֶׁ֖ר דִּבֶּ֣ר יְהֹוָ֑ה הִנֵּ֤ה הַמִּזְבֵּ֙חַ֙ נִקְרָ֔ע וְנִשְׁפַּ֖ךְ הַדֶּ֥שֶׁן אֲשֶׁר־עָלָֽיו׃",
+      "douay_rheims": "And he gave a sign the same day, saying: This shall be the sign, that the Lord hath spoken: Behold the altar shall be rent, and the ashes that are upon it, shall be poured out.",
+      "finnish_biblia": "Ja hän antoi sinä päivänä ihmeen ja sanoi: tämä on se ihme, jonka Herra puhunut on: katso, alttarin pitää halkeaman, ja tuhka, joka sen päällä on, pitää hajoitettaman. ",
       "king_james": "And he gave a sign the same day, saying, This is the sign which the Lord hath spoken; Behold, the altar shall be rent, and the ashes that are upon it shall be poured out."
     },
     {
       "verse": 4,
       "latin_vulgate": "Cumque audisset rex sermonem hominis Dei quem inclamaverat contra altare in Bethel, extendit manum suam de altari, dicens : Apprehendite eum. Et exaruit manus ejus quam extenderat contra eum, nec valuit retrahere eam ad se. ",
       "hebrew_masoretic": "וַיְהִי֩ כִשְׁמֹ֨עַ הַמֶּ֜לֶךְ אֶת־דְּבַ֣ר אִישׁ־הָאֱלֹהִ֗ים אֲשֶׁ֨ר קָרָ֤א עַל־הַמִּזְבֵּ֙חַ֙ בְּבֵֽית־אֵ֔ל וַיִּשְׁלַ֨ח יָרׇבְעָ֧ם אֶת־יָד֛וֹ מֵעַ֥ל הַמִּזְבֵּ֖חַ לֵאמֹ֣ר ׀ תִּפְשֻׂ֑הוּ וַתִּיבַ֤שׁ יָדוֹ֙ אֲשֶׁ֣ר שָׁלַ֣ח עָלָ֔יו וְלֹ֥א יָכֹ֖ל לַהֲשִׁיבָ֥הּ אֵלָֽיו׃",
+      "douay_rheims": "And when the king had heard the word of the man of God, which he had cried out against the altar in Bethel, he stretched forth his hand from the altar, saying: Lay hold on him. And his hand which he stretched forth against him, withered: and he was not able to draw it back again to him.",
+      "finnish_biblia": "Kuin kuningas kuuli sanan siltä Jumalan mieheltä, joka alttaria vastaan Betelissä huutanut oli, ojensi Jerobeam kätensä alttarin tyköä ja sanoi: ottakaat häntä kiinni. Ja hänen kätensä kuivettui, jonka hän häntä vastaan ojensi, ja ei hän taitanut sitä vetää jälleen puoleensa. ",
       "king_james": "And it came to pass, when king Jeroboam heard the saying of the man of God, which had cried against the altar in Beth–el, that he put forth his hand from the altar, saying, Lay hold on him. And his hand, which he put forth against him, dried up, so that he could not pull it in again to him."
     },
     {
       "verse": 5,
       "latin_vulgate": "Altare quoque scissum est, et effusus est cinis de altari, juxta signum quod prædixerat vir Dei in sermone Domini. ",
       "hebrew_masoretic": "וְהַמִּזְבֵּ֣חַ נִקְרָ֔ע וַיִּשָּׁפֵ֥ךְ הַדֶּ֖שֶׁן מִן־הַמִּזְבֵּ֑חַ כַּמּוֹפֵ֗ת אֲשֶׁ֥ר נָתַ֛ן אִ֥ישׁ הָאֱלֹהִ֖ים בִּדְבַ֥ר יְהֹוָֽה׃",
+      "douay_rheims": "The altar also was rent, and the ashes were poured out from the altar, according to the sign which the man of God had given before in the word of the Lord.",
+      "finnish_biblia": "Ja alttari halkesi, ja tuhka hajoitettiin alttarilta, sen ihmeen jälkeen, jonka Jumalan mies Herran sanan kautta antanut oli. ",
       "king_james": "The altar also was rent, and the ashes poured out from the altar, according to the sign which the man of God had given by the word of the Lord."
     },
     {
       "verse": 6,
       "latin_vulgate": "Et ait rex ad virum Dei : Deprecare faciem Domini Dei tui, et ora pro me, ut restituatur manus mea mihi. Oravitque vir Dei faciem Domini, et reversa est manus regis ad eum, et facta est sicut prius fuerat. ",
       "hebrew_masoretic": "וַיַּ֨עַן הַמֶּ֜לֶךְ וַיֹּ֣אמֶר ׀ אֶל־אִ֣ישׁ הָאֱלֹהִ֗ים חַל־נָ֞א אֶת־פְּנֵ֨י יְהֹוָ֤ה אֱלֹהֶ֙יךָ֙ וְהִתְפַּלֵּ֣ל בַּעֲדִ֔י וְתָשֹׁ֥ב יָדִ֖י אֵלָ֑י וַיְחַ֤ל אִישׁ־הָֽאֱלֹהִים֙ אֶת־פְּנֵ֣י יְהֹוָ֔ה וַתָּ֤שׇׁב יַד־הַמֶּ֙לֶךְ֙ אֵלָ֔יו וַתְּהִ֖י כְּבָרִאשֹׁנָֽה׃",
+      "douay_rheims": "And the king said to the man of God: Entreat the face of the Lord thy God, and pray for me, that my hand may be restored to me. And the man of God besought the face of the Lord, and the king's hand was restored to him, and it became as it was before.",
+      "finnish_biblia": "Ja kuningas vastasi ja sanoi Jumalan miehelle: nöyryytä nyt sinus rukouksella Herran Jumalas kasvoin edessä, ja rukoile minun edestäni, että käteni taipuis minun tyköni. Niin Jumalan mies rukoili nöyrästi Herraa, ja kuninkaan käsi taipui jälleen hänen puoleensa ja tuli niinkuin se oli ennenkin ollut. ",
       "king_james": "And the king answered and said unto the man of God, Intreat now the face of the Lord thy God, and pray for me, that my hand may be restored me again. And the man of God besought the Lord, and the king’s hand was restored him again, and became as it was before."
     },
     {
       "verse": 7,
       "latin_vulgate": "Locutus est autem rex ad virum Dei : Veni mecum domum ut prandeas, et dabo tibi munera. ",
       "hebrew_masoretic": "וַיְדַבֵּ֤ר הַמֶּ֙לֶךְ֙ אֶל־אִ֣ישׁ הָאֱלֹהִ֔ים בֹּֽאָה־אִתִּ֥י הַבַּ֖יְתָה וּֽסְעָ֑דָה וְאֶתְּנָ֥ה לְךָ֖ מַתָּֽת׃",
+      "douay_rheims": "And the king said to the man of God: Come home with me to dine, and I will make thee presents.",
+      "finnish_biblia": "Ja kuningas puhui Jumalan miehelle: tule kotia minun kanssani ja virvoita itses: minä annan sinulle lahjan. ",
       "king_james": "And the king said unto the man of God, Come home with me, and refresh thyself, and I will give thee a reward."
     },
     {
       "verse": 8,
       "latin_vulgate": "Responditque vir Dei ad regem : Si dederis mihi mediam partem domus tuæ, non veniam tecum, nec comedam panem, neque bibam aquam in loco isto : ",
       "hebrew_masoretic": "וַיֹּ֤אמֶר אִישׁ־הָֽאֱלֹהִים֙ אֶל־הַמֶּ֔לֶךְ אִם־תִּתֶּן־לִי֙ אֶת־חֲצִ֣י בֵיתֶ֔ךָ לֹ֥א אָבֹ֖א עִמָּ֑ךְ וְלֹא־אֹ֤כַל לֶ֙חֶם֙ וְלֹ֣א אֶשְׁתֶּה־מַּ֔יִם בַּמָּק֖וֹם הַזֶּֽה׃",
+      "douay_rheims": "And the man of God answered the king: If thou wouldst give me half thy house, I will not go with thee, nor eat bread, nor drink water in this place:",
+      "finnish_biblia": "Mutta Jumalan mies sanoi kuninkaalle: vaikkas antaisit minulle puolen huonettas, en minä sittenkään tulisi sinun kanssas, enkä syö tässä paikassa leipää enkä juo vettä. ",
       "king_james": "And the man of God said unto the king, If thou wilt give me half thine house, I will not go in with thee, neither will I eat bread nor drink water in this place:"
     },
     {
       "verse": 9,
       "latin_vulgate": "sic enim mandatum est mihi in sermone Domini præcipientis : Non comedes panem, neque bibes aquam, nec reverteris per viam qua venisti. ",
       "hebrew_masoretic": "כִּי־כֵ֣ן ׀ צִוָּ֣ה אֹתִ֗י בִּדְבַ֤ר יְהֹוָה֙ לֵאמֹ֔ר לֹא־תֹ֥אכַל לֶ֖חֶם וְלֹ֣א תִשְׁתֶּה־מָּ֑יִם וְלֹ֣א תָשׁ֔וּב בַּדֶּ֖רֶךְ אֲשֶׁ֥ר הָלָֽכְתָּ׃",
+      "douay_rheims": "For so it was enjoined me by the word of the Lord commanding me: Thou shalt not eat bread, nor drink water, nor return by the same way that thou camest.",
+      "finnish_biblia": "Sillä niin käski minua Herran sanansa kautta, sanoen: ei sinun pidä leipää syömän eikä vettä juoman, eikä myös palajaman sitä tietä, jota sinä mennyt olet. ",
       "king_james": "For so was it charged me by the word of the Lord, saying, Eat no bread, nor drink water, nor turn again by the same way that thou camest."
     },
     {
       "verse": 10,
       "latin_vulgate": "Abiit ergo per aliam viam, et non est reversus per iter quo venerat in Bethel.  ",
       "hebrew_masoretic": "וַיֵּ֖לֶךְ בְּדֶ֣רֶךְ אַחֵ֑ר וְלֹא־שָׁ֣ב בַּדֶּ֔רֶךְ אֲשֶׁ֛ר בָּ֥א בָ֖הּ אֶל־בֵּֽית־אֵֽל׃ {פ}",
+      "douay_rheims": "So he departed by another way, and returned not by the way that he came into Bethel.",
+      "finnish_biblia": "Ja hän meni toista tietä ja ei palannut sitä tietä, jota hän Beteliin tullut oli. ",
       "king_james": "So he went another way, and returned not by the way that he came to Beth–el."
     },
     {
       "verse": 11,
       "latin_vulgate": " Prophetes autem quidam senex habitabat in Bethel : ad quem venerunt filii sui, et narraverunt ei omnia opera quæ fecerat vir Dei illa die in Bethel : et verba quæ locutus fuerat ad regem, narraverunt patri suo. ",
       "hebrew_masoretic": "וְנָבִ֤יא אֶחָד֙ זָקֵ֔ן יֹשֵׁ֖ב בְּבֵֽית־אֵ֑ל וַיָּב֣וֹא בְנ֡וֹ וַיְסַפֶּר־ל֣וֹ אֶת־כׇּל־הַמַּעֲשֶׂ֣ה אֲשֶׁר־עָשָׂה֩ אִישׁ־הָאֱלֹהִ֨ים ׀ הַיּ֜וֹם בְּבֵֽית־אֵ֗ל אֶת־הַדְּבָרִים֙ אֲשֶׁ֣ר דִּבֶּ֣ר אֶל־הַמֶּ֔לֶךְ וַֽיְסַפְּר֖וּם לַאֲבִיהֶֽם׃",
+      "douay_rheims": "Now a certain old prophet dwelt in Bethel, and his sons came to him, and told him all the works that the man of God had done that day in Bethel: and they told their father the words which he had spoken to the king.",
+      "finnish_biblia": "Mutta Betelissä asui vanha propheta; hänen tykönsä tuli hänen poikansa ja jutteli hänelle kaikki, mitä Jumalan mies teki sinä päivänä Betelissä, ja sanat, jotka hän kuninkaalle sanonut oli, he juttelivat isällensä. ",
       "king_james": "Now there dwelt an old prophet in Beth–el; and his sons came and told him all the works that the man of God had done that day in Beth–el: the words which he had spoken unto the king, them they told also to their father."
     },
     {
       "verse": 12,
       "latin_vulgate": "Et dixit eis pater eorum : Per quam viam abiit ? Ostenderunt ei filii sui viam per quam abierat vir Dei, qui venerat de Juda. ",
       "hebrew_masoretic": "וַיְדַבֵּ֤ר אֲלֵהֶם֙ אֲבִיהֶ֔ם אֵי־זֶ֥ה הַדֶּ֖רֶךְ הָלָ֑ךְ וַיִּרְא֣וּ בָנָ֗יו אֶת־הַדֶּ֙רֶךְ֙ אֲשֶׁ֤ר הָלַךְ֙ אִ֣ישׁ הָאֱלֹהִ֔ים אֲשֶׁר־בָּ֖א מִיהוּדָֽה׃",
+      "douay_rheims": "And their father said to them: What way went he? His sons shewed him the way by which the man of God went, who came out of Juda.",
+      "finnish_biblia": "Ja heidän isänsä sanoi heille, mitä tietä hän meni? ja hänen poikansa osoittivat hänelle tien, jota Juudasta tullut Jumalan mies vaeltanut oli. ",
       "king_james": "And their father said unto them, What way went he? For his sons had seen what way the man of God went, which came from Judah."
     },
     {
       "verse": 13,
       "latin_vulgate": "Et ait filiis suis : Sternite mihi asinum. Qui cum stravissent, ascendit, ",
       "hebrew_masoretic": "וַיֹּ֙אמֶר֙ אֶל־בָּנָ֔יו חִבְשׁוּ־לִ֖י הַחֲמ֑וֹר וַיַּחְבְּשׁוּ־ל֣וֹ הַחֲמ֔וֹר וַיִּרְכַּ֖ב עָלָֽיו׃",
+      "douay_rheims": "And he said to his sons: Saddle me the ass. And when they had saddled it, he got up,",
+      "finnish_biblia": "Mutta hän sanoi pojillensa: satuloikaat minulle aasi. Ja kuin he olivat satuloineet aasin, istui hän sen selkään. ",
       "king_james": "And he said unto his sons, Saddle me the ass. So they saddled him the ass: and he rode thereon,"
     },
     {
       "verse": 14,
       "latin_vulgate": "et abiit post virum Dei, et invenit eum sedentem subtus terebinthum : et ait illi : Tune es vir Dei qui venisti de Juda ? Respondit ille : Ego sum. ",
       "hebrew_masoretic": "וַיֵּ֗לֶךְ אַֽחֲרֵי֙ אִ֣ישׁ הָאֱלֹהִ֔ים וַיִּ֨מְצָאֵ֔הוּ יֹשֵׁ֖ב תַּ֣חַת הָאֵלָ֑ה וַיֹּ֣אמֶר אֵלָ֗יו הַאַתָּ֧ה אִישׁ־הָאֱלֹהִ֛ים אֲשֶׁר־בָּ֥אתָ מִיהוּדָ֖ה וַיֹּ֥אמֶר אָֽנִי׃",
+      "douay_rheims": "And went after the man of God, and found him sitting under a turpentine tree: and he said to him: Art thou the man of God who camest from Juda? He answered: I am.",
+      "finnish_biblia": "Ja meni sen Jumalan miehen perään, ja löysi hänen istumassa tammen alla, ja sanoi hänelle, sinäkö se Jumalan mies olet, joka Juudasta tullut olet? Hän sanoi: minä. ",
       "king_james": "And went after the man of God, and found him sitting under an oak: and he said unto him, Art thou the man of God that camest from Judah? And he said, I am."
     },
     {
       "verse": 15,
       "latin_vulgate": "Dixitque ad eum : Veni mecum domum, ut comedas panem. ",
       "hebrew_masoretic": "וַיֹּ֣אמֶר אֵלָ֔יו לֵ֥ךְ אִתִּ֖י הַבָּ֑יְתָה וֶאֱכֹ֖ל לָֽחֶם׃",
+      "douay_rheims": "And he said to him: Come home with me to eat bread.",
+      "finnish_biblia": "Hän sanoi hänelle: tule minun kanssani kotia ja syö leipää. ",
       "king_james": "Then he said unto him, Come home with me, and eat bread."
     },
     {
       "verse": 16,
       "latin_vulgate": "Qui ait : Non possum reverti, neque venire tecum : nec comedam panem, neque bibam aquam in loco isto, ",
       "hebrew_masoretic": "וַיֹּ֗אמֶר לֹ֥א אוּכַ֛ל לָשׁ֥וּב אִתָּ֖ךְ וְלָב֣וֹא אִתָּ֑ךְ וְלֹא־אֹ֣כַל לֶ֗חֶם וְלֹֽא־אֶשְׁתֶּ֤ה אִתְּךָ֙ מַ֔יִם בַּמָּק֖וֹם הַזֶּֽה׃",
+      "douay_rheims": "But he said: I must not return, nor go with thee, neither will I eat bread, or drink water in this place:",
+      "finnish_biblia": "Hän sanoi: en minä taida palata sinun kanssas enkä tulla sinun tykös: en minä syö leipää enkä juo vettä sinun kanssas tässä paikassa. ",
       "king_james": "And he said, I may not return with thee, nor go in with thee: neither will I eat bread nor drink water with thee in this place:"
     },
     {
       "verse": 17,
       "latin_vulgate": "quia locutus est Dominus ad me in sermone Domini, dicens : Non comedes panem, et non bibes aquam ibi, nec reverteris per viam qua ieris. ",
       "hebrew_masoretic": "כִּֽי־דָבָ֤ר אֵלַי֙ בִּדְבַ֣ר יְהֹוָ֔ה לֹא־תֹאכַ֣ל לֶ֔חֶם וְלֹא־תִשְׁתֶּ֥ה שָׁ֖ם מָ֑יִם לֹא־תָשׁ֣וּב לָלֶ֔כֶת בַּדֶּ֖רֶךְ אֲשֶׁר־הָלַ֥כְתָּ בָּֽהּ׃",
+      "douay_rheims": "Because the Lord spoke to me, in the word of the Lord, saying: Thou shalt not eat bread, and thou shalt not drink water there, nor return by the way thou wentest.",
+      "finnish_biblia": "Sillä minun kanssani on puhuttu Herran sanan kautta: ei sinun pidä siellä leipää syömän eikä vettä juoman, ei myös sinun pidä palajaman sitä tietä, jota sinä sinne mennyt olet. ",
       "king_james": "For it was said to me by the word of the Lord, Thou shalt eat no bread nor drink water there, nor turn again to go by the way that thou camest."
     },
     {
       "verse": 18,
       "latin_vulgate": "Qui ait illi : Et ego propheta sum similis tui : et angelus locutus est mihi in sermone Domini, dicens : Reduc eum tecum in domum tuam, ut comedat panem, et bibat aquam. Fefellit eum, ",
       "hebrew_masoretic": "וַיֹּ֣אמֶר ל֗וֹ גַּם־אֲנִ֣י נָבִיא֮ כָּמ֒וֹךָ֒ וּמַלְאָ֡ךְ דִּבֶּ֣ר אֵלַי֩ בִּדְבַ֨ר יְהֹוָ֜ה לֵאמֹ֗ר הֲשִׁבֵ֤הוּ אִתְּךָ֙ אֶל־בֵּיתֶ֔ךָ וְיֹ֥אכַל לֶ֖חֶם וְיֵ֣שְׁתְּ מָ֑יִם כִּחֵ֖שׁ לֽוֹ׃",
+      "douay_rheims": "He said to him: I also am a prophet like unto thee: and an angel spoke to me, in the word of the Lord, saying: Bring him back with thee into thy house, that he may eat bread, and drink water. He deceived him,",
+      "finnish_biblia": "Hän sanoi hänelle: minä olen myös propheta niinkuin sinäkin, ja enkeli on puhunut minun kanssani Herran sanan kautta ja sanonut: vie häntä kanssas huoneeses syömään leipää ja juomaan vettä. Mutta hän valehteli hänen edessänsä. ",
       "king_james": "He said unto him, I am a prophet also as thou art; and an angel spake unto me by the word of the Lord, saying, Bring him back with thee into thine house, that he may eat bread and drink water. But he lied unto him."
     },
     {
       "verse": 19,
       "latin_vulgate": "et reduxit secum : comedit ergo panem in domo ejus, et bibit aquam. ",
       "hebrew_masoretic": "וַיָּ֣שׇׁב אִתּ֗וֹ וַיֹּ֥אכַל לֶ֛חֶם בְּבֵית֖וֹ וַיֵּ֥שְׁתְּ מָֽיִם׃",
+      "douay_rheims": "And brought him back with him: so he ate bread, and drank water in his house.",
+      "finnish_biblia": "Ja hän palasi hänen kanssansa, ja söi leipää ja joi vettä hänen huoneessansa. ",
       "king_james": "So he went back with him, and did eat bread in his house, and drank water."
     },
     {
       "verse": 20,
       "latin_vulgate": "Cumque sederent ad mensam, factus est sermo Domini ad prophetam qui reduxerat eum. ",
       "hebrew_masoretic": "וַיְהִ֕י הֵ֥ם יֹשְׁבִ֖ים אֶל־הַשֻּׁלְחָ֑ן {פ}וַֽיְהִי֙ דְּבַר־יְהֹוָ֔ה אֶל־הַנָּבִ֖יא אֲשֶׁ֥ר הֱשִׁיבֽוֹ׃",
+      "douay_rheims": "And as they sat at table, the word of the Lord came to the prophet that brought him back:",
+      "finnish_biblia": "Ja tapahtui, kuin he istuivat pöydän tykönä, että Herran sana tuli prophetan työ, joka hänen palauttanut oli, ",
       "king_james": "And it came to pass, as they sat at the table, that the word of the Lord came unto the prophet that brought him back:"
     },
     {
       "verse": 21,
       "latin_vulgate": "Et exclamavit ad virum Dei qui venerat de Juda, dicens : Hæc dicit Dominus : Quia non obediens fuisti ori Domini, et non custodisti mandatum quod præcepit tibi Dominus Deus tuus, ",
       "hebrew_masoretic": "וַיִּקְרָ֞א אֶל־אִ֣ישׁ הָאֱלֹהִ֗ים אֲשֶׁר־בָּ֤א מִֽיהוּדָה֙ לֵאמֹ֔ר כֹּ֖ה אָמַ֣ר יְהֹוָ֑ה יַ֗עַן כִּ֤י מָרִ֙יתָ֙ פִּ֣י יְהֹוָ֔ה וְלֹ֤א שָׁמַ֙רְתָּ֙ אֶת־הַמִּצְוָ֔ה אֲשֶׁ֥ר צִוְּךָ֖ יְהֹוָ֥ה אֱלֹהֶֽיךָ׃",
+      "douay_rheims": "And he cried out to the man of God who came out of Juda, saying: Thus saith the Lord: Because thou hast not been obedient to the Lord, and hast not kept the commandment which the Lord thy God commanded thee,",
+      "finnish_biblia": "Ja hän huusi Jumalan miehelle, joka Juudasta tullut oli, ja sanoi: näin sanoo Herra: ettäs olet Herran käskylle tottelematoin ollut, ja et ole sitä käskyä pitänyt, jonka Herra sinun Jumalas käskenyt on, ",
       "king_james": "And he cried unto the man of God that came from Judah, saying, Thus saith the Lord, Forasmuch as thou hast disobeyed the mouth of the Lord, and hast not kept the commandment which the Lord thy God commanded thee,"
     },
     {
       "verse": 22,
       "latin_vulgate": "et reversus es, et comedisti panem, et bibisti aquam in loco in quo præcepit tibi ne comederes panem neque biberes aquam, non inferetur cadaver tuum in sepulchrum patrum tuorum.  ",
       "hebrew_masoretic": "וַתָּ֗שׇׁב וַתֹּ֤אכַל לֶ֙חֶם֙ וַתֵּ֣שְׁתְּ מַ֔יִם בַּמָּקוֹם֙ אֲשֶׁ֣ר דִּבֶּ֣ר אֵלֶ֔יךָ אַל־תֹּ֥אכַל לֶ֖חֶם וְאַל־תֵּ֣שְׁתְּ מָ֑יִם לֹא־תָב֥וֹא נִבְלָתְךָ֖ אֶל־קֶ֥בֶר אֲבֹתֶֽיךָ׃",
+      "douay_rheims": "And hast returned, and eaten bread, and drunk water in the place wherein he commanded thee that thou shouldst not eat bread, nor drink water, thy dead body shall not be brought into the sepulchre of thy fathers.",
+      "finnish_biblia": "Ja olet palannut syömään leipää ja juomaan vettä siinä paikassa, josta sinulle sanottu oli: ei sinun pidä siellä leipää syömän eikä vettä juoman: ei pidä sinun ruumiis tuleman sinun isäis hautaan. ",
       "king_james": "But camest back, and hast eaten bread and drunk water in the place, of the which the Lord did say to thee, Eat no bread, and drink no water; thy carcase shall not come unto the sepulchre of thy fathers."
     },
     {
       "verse": 23,
       "latin_vulgate": " Cumque comedisset et bibisset, stravit asinum suum prophetæ quem reduxerat. ",
       "hebrew_masoretic": "וַיְהִ֗י אַחֲרֵ֛י אׇכְל֥וֹ לֶ֖חֶם וְאַחֲרֵ֣י שְׁתוֹת֑וֹ וַיַּחֲבׇשׁ־ל֣וֹ הַחֲמ֔וֹר לַנָּבִ֖יא אֲשֶׁ֥ר הֱשִׁיבֽוֹ׃",
+      "douay_rheims": "And when he had eaten and drunk, he saddled his ass for the prophet, whom he had brought back.",
+      "finnish_biblia": "Ja kuin hän leipää syönyt ja vettä juonut oli, satuloitsi hän aasin prophetalle, jonka hän palauttanut oli. ",
       "king_james": "And it came to pass, after he had eaten bread, and after he had drunk, that he saddled for him the ass, to wit, for the prophet whom he had brought back."
     },
     {
       "verse": 24,
       "latin_vulgate": "Qui cum abiisset, invenit eum leo in via, et occidit, et erat cadaver ejus projectum in itinere : asinus autem stabat juxta illum, et leo stabat juxta cadaver. ",
       "hebrew_masoretic": "וַיֵּ֕לֶךְ וַיִּמְצָאֵ֧הוּ אַרְיֵ֛ה בַּדֶּ֖רֶךְ וַיְמִיתֵ֑הוּ וַתְּהִ֤י נִבְלָתוֹ֙ מֻשְׁלֶ֣כֶת בַּדֶּ֔רֶךְ וְהַֽחֲמוֹר֙ עֹמֵ֣ד אֶצְלָ֔הּ וְהָ֣אַרְיֵ֔ה עֹמֵ֖ד אֵ֥צֶל הַנְּבֵלָֽה׃",
+      "douay_rheims": "And when he was gone, a lion found him in the way, and killed him, and his body was cast in the way: and the ass stood by him, and the lion stood by the dead body.",
+      "finnish_biblia": "Ja koska hän meni pois, kohtasi hänen jalopeura tiellä ja tappoi hänen. Ja hänen ruumiinsa makasi heitettynä tiellä, ja aasi seisoi hänen sivussansa, ja jalopeura seisoi lähinnä ruumista. ",
       "king_james": "And when he was gone, a lion met him by the way, and slew him: and his carcase was cast in the way, and the ass stood by it, the lion also stood by the carcase."
     },
     {
       "verse": 25,
       "latin_vulgate": "Et ecce viri transeuntes viderunt cadaver projectum in via, et leonem stantem juxta cadaver. Et venerunt, et divulgaverunt in civitate in qua prophetes ille senex habitabat. ",
       "hebrew_masoretic": "וְהִנֵּ֧ה אֲנָשִׁ֣ים עֹבְרִ֗ים וַיִּרְא֤וּ אֶת־הַנְּבֵלָה֙ מֻשְׁלֶ֣כֶת בַּדֶּ֔רֶךְ וְאֶת־הָ֣אַרְיֵ֔ה עֹמֵ֖ד אֵ֣צֶל הַנְּבֵלָ֑ה וַיָּבֹ֙אוּ֙ וַיְדַבְּר֣וּ בָעִ֔יר אֲשֶׁ֛ר הַנָּבִ֥יא הַזָּקֵ֖ן יֹשֵׁ֥ב בָּֽהּ׃",
+      "douay_rheims": "And behold, men passing by, saw the dead body cast in the way, and the lion standing by the body. And they came and told it in the city, wherein that old prophet dwelt.",
+      "finnish_biblia": "Ja katso, koska siitä kävi ihmisiä ohitse, näkivät he ruumiin heitetyksi tielle ja jalopeuran seisovan ruumiin tykönä; ja he tulivat ja sanoivat sen kaupungissa, jossa vanha propheta asui. ",
       "king_james": "And, behold, men passed by, and saw the carcase cast in the way, and the lion standing by the carcase: and they came and told it in the city where the old prophet dwelt."
     },
     {
       "verse": 26,
       "latin_vulgate": "Quod cum audisset propheta ille qui reduxerat eum de via, ait : Vir Dei est, qui inobediens fuit ori Domini, et tradidit eum Dominus leoni, et confregit eum, et occidit juxta verbum Domini quod locutus est ei. ",
       "hebrew_masoretic": "וַיִּשְׁמַ֣ע הַנָּבִיא֮ אֲשֶׁ֣ר הֱשִׁיב֣וֹ מִן־הַדֶּ֒רֶךְ֒ וַיֹּ֙אמֶר֙ אִ֣ישׁ הָאֱלֹהִ֣ים ה֔וּא אֲשֶׁ֥ר מָרָ֖ה אֶת־פִּ֣י יְהֹוָ֑ה וַיִּתְּנֵ֨הוּ יְהֹוָ֜ה לָאַרְיֵ֗ה וַֽיִּשְׁבְּרֵ֙הוּ֙ וַיְמִתֵ֔הוּ כִּדְבַ֥ר יְהֹוָ֖ה אֲשֶׁ֥ר דִּבֶּר־לֽוֹ׃",
+      "douay_rheims": "And when that prophet, who had brought him back out of the way, heard of it, he said: It is the man of God, that was disobedient to the mouth of the Lord, and the Lord hath delivered him to the lion, and he hath torn him, and killed him, according to the word of the Lord, which he spoke to him.",
+      "finnish_biblia": "Kuin propheta sen kuuli, joka hänen tieltä palauttanut oli, sanoi hän: se on Jumalan mies, joka Herran käskylle tottelematoin oli; sentähden on Herra hänen antanut jalopeuralle, ja se on musertanut ja tappanut hänen niiden sanain jälkeen, jotka Herra hänelle sanonut oli. ",
       "king_james": "And when the prophet that brought him back from the way heard thereof, he said, It is the man of God, who was disobedient unto the word of the Lord: therefore the Lord hath delivered him unto the lion, which hath torn him, and slain him, according to the word of the Lord, which he spake unto him."
     },
     {
       "verse": 27,
       "latin_vulgate": "Dixitque ad filios suos : Sternite mihi asinum. Qui cum stravissent, ",
       "hebrew_masoretic": "וַיְדַבֵּ֤ר אֶל־בָּנָיו֙ לֵאמֹ֔ר חִבְשׁוּ־לִ֖י אֶֽת־הַחֲמ֑וֹר וַֽיַּחֲבֹֽשׁוּ׃",
+      "douay_rheims": "And he said to his sons: Saddle me an ass. And when they had saddled it,",
+      "finnish_biblia": "Ja sanoi pojillensa: satuloikaat minulle aasi. Ja koska he olivat satuloineet, ",
       "king_james": "And he spake to his sons, saying, Saddle me the ass. And they saddled him."
     },
     {
       "verse": 28,
       "latin_vulgate": "et ille abiisset, invenit cadaver ejus projectum in via, et asinum et leonem stantes juxta cadaver : non comedit leo de cadavere, nec læsit asinum. ",
       "hebrew_masoretic": "וַיֵּ֗לֶךְ וַיִּמְצָ֤א אֶת־נִבְלָתוֹ֙ מֻשְׁלֶ֣כֶת בַּדֶּ֔רֶךְ וַֽחֲמוֹר֙ וְהָ֣אַרְיֵ֔ה עֹמְדִ֖ים אֵ֣צֶל הַנְּבֵלָ֑ה לֹֽא־אָכַ֤ל הָֽאַרְיֵה֙ אֶת־הַנְּבֵלָ֔ה וְלֹ֥א שָׁבַ֖ר אֶֽת־הַחֲמֽוֹר׃",
+      "douay_rheims": "And he was gone, he found the dead body cast in the way, and the ass and the lion standing by the carcass: the lion had not eaten of the dead body, nor hurt the ass.",
+      "finnish_biblia": "Meni hän sinne, ja löysi hänen ruumiinsa heitetyksi tielle, ja aasin ja jalopeuran seisovan ruumiin tykönä. Ei jalopeura ollut syönyt ruumista eikä reväissyt aasia. ",
       "king_james": "And he went and found his carcase cast in the way, and the ass and the lion standing by the carcase: the lion had not eaten the carcase, nor torn the ass."
     },
     {
       "verse": 29,
       "latin_vulgate": "Tulit ergo prophetes cadaver viri Dei, et posuit illud super asinum, et reversus intulit in civitatem prophetæ senis ut plangeret eum. ",
       "hebrew_masoretic": "וַיִּשָּׂ֨א הַנָּבִ֜יא אֶת־נִבְלַ֧ת אִישׁ־הָאֱלֹהִ֛ים וַיַּנִּחֵ֥הוּ אֶֽל־הַחֲמ֖וֹר וַיְשִׁיבֵ֑הוּ וַיָּבֹ֗א אֶל־עִיר֙ הַנָּבִ֣יא הַזָּקֵ֔ן לִסְפֹּ֖ד וּלְקׇבְרֽוֹ׃",
+      "douay_rheims": "And the prophet took up the body of the man of God, and laid it upon the ass, and going back brought it into the city of the old prophet, to mourn for him.",
+      "finnish_biblia": "Niin otti propheta sen Jumalan miehen ruumiin ja pani aasinsa päälle, ja vei sen takaperin; ja vanha propheta tuli kaupunkiin itkemään ja hautaamaan häntä. ",
       "king_james": "And the prophet took up the carcase of the man of God, and laid it upon the ass, and brought it back: and the old prophet came to the city, to mourn and to bury him."
     },
     {
       "verse": 30,
       "latin_vulgate": "Et posuit cadaver ejus in sepulchro suo, et planxerunt eum : Heu, heu mi frater ! ",
       "hebrew_masoretic": "וַיַּנַּ֥ח אֶת־נִבְלָת֖וֹ בְּקִבְר֑וֹ וַיִּסְפְּד֥וּ עָלָ֖יו ה֥וֹי אָחִֽי׃",
+      "douay_rheims": "And he laid his dead body in his own sepulchre: and they mourned over him, saying: Alas! alas, my brother.",
+      "finnish_biblia": "Ja hän pani ruumiin omaan hautaansa, ja he itkivät häntä: oi minun veljeni! ",
       "king_james": "And he laid his carcase in his own grave; and they mourned over him, saying, Alas, my brother!"
     },
     {
       "verse": 31,
       "latin_vulgate": "Cumque planxissent eum, dixit ad filios suos : Cum mortuus fuero, sepelite me in sepulchro in quo vir Dei sepultus est : juxta ossa ejus ponite ossa mea. ",
       "hebrew_masoretic": "וַיְהִי֮ אַחֲרֵ֣י קׇבְר֣וֹ אֹתוֹ֒ וַיֹּ֤אמֶר אֶל־בָּנָיו֙ לֵאמֹ֔ר בְּמוֹתִי֙ וּקְבַרְתֶּ֣ם אֹתִ֔י בַּקֶּ֕בֶר אֲשֶׁ֛ר אִ֥ישׁ הָאֱלֹהִ֖ים קָב֣וּר בּ֑וֹ אֵ֚צֶל עַצְמֹתָ֔יו הַנִּ֖יחוּ אֶת־עַצְמֹתָֽי׃",
+      "douay_rheims": "And when they had mourned over him, he said to his sons: When I am dead, bury me in the sepulchre wherein the man of God is buried: lay my bones beside his bones.",
+      "finnish_biblia": "Ja kuin he olivat haudanneet hänen, puhui hän pojillensa, sanoen: koska minä kuolen, niin haudatkaat minua siihen hautaan, johon Jumalan mies haudattu on, ja pankaat minun luuni hänen luidensa sivuun. ",
       "king_james": "And it came to pass, after he had buried him, that he spake to his sons, saying, When I am dead, then bury me in the sepulchre wherein the man of God is buried; lay my bones beside his bones:"
     },
     {
       "verse": 32,
       "latin_vulgate": "Profecto enim veniet sermo quem prædixit in sermone Domini contra altare quod est in Bethel, et contra omnia fana excelsorum quæ sunt in urbibus Samariæ.  ",
       "hebrew_masoretic": "כִּי֩ הָיֹ֨ה יִֽהְיֶ֜ה הַדָּבָ֗ר אֲשֶׁ֤ר קָרָא֙ בִּדְבַ֣ר יְהֹוָ֔ה עַל־הַמִּזְבֵּ֖חַ אֲשֶׁ֣ר בְּבֵֽית־אֵ֑ל וְעַל֙ כׇּל־בָּתֵּ֣י הַבָּמ֔וֹת אֲשֶׁ֖ר בְּעָרֵ֥י שֹׁמְרֽוֹן׃ {פ}",
+      "douay_rheims": "For assuredly the word shall come to pass which he hath foretold in the word of the Lord, against the altar that is in Bethel: and against all the temples of the high places, that are in the cities of Samaria.",
+      "finnish_biblia": "Sillä se on tapahtuva, minkä hän alttaria ja Beteliä vastaan Herran sanan kautta huutanut oli, ja kaikkia korkeuden huoneita vastaan, jotka Samarian kaupungeissa ovat. ",
       "king_james": "For the saying which he cried by the word of the Lord against the altar in Beth–el, and against all the houses of the high places which are in the cities of Samaria, shall surely come to pass."
     },
     {
       "verse": 33,
       "latin_vulgate": " Post verba hæc non est reversus Jeroboam de via sua pessima, sed e contrario fecit de novissimis populi sacerdotes excelsorum : quicumque volebat, implebat manum suam, et fiebat sacerdos excelsorum. ",
       "hebrew_masoretic": "אַחַר֙ הַדָּבָ֣ר הַזֶּ֔ה לֹא־שָׁ֥ב יָרׇבְעָ֖ם מִדַּרְכּ֣וֹ הָרָעָ֑ה וַ֠יָּ֠שׇׁב וַיַּ֜עַשׂ מִקְצ֤וֹת הָעָם֙ כֹּהֲנֵ֣י בָמ֔וֹת הֶֽחָפֵץ֙ יְמַלֵּ֣א אֶת־יָד֔וֹ וִיהִ֖י כֹּהֲנֵ֥י בָמֽוֹת׃",
+      "douay_rheims": "After these words, Jeroboam came not back from his wicked way: but on the contrary, he made of the meanest of the people priests of the high places: whosoever would, he filled his hand, and he was made a priest of the high places.",
+      "finnish_biblia": "Mutta kuin nämät tapahtuneet olivat, ei Jerobeam kääntänytkään itseänsä pahalta tieltänsä pois, mutta meni ja teki taas korkeuden pappeja halvimmista kansan seassa; kenenkä hän tahtoi, sen käden hän täytti, ja se tuli korkeuden papiksi. ",
       "king_james": "After this thing Jeroboam returned not from his evil way, but made again of the lowest of the people priests of the high places: whosoever would, he consecrated him, and he became one of the priests of the high places."
     },
     {
       "verse": 34,
       "latin_vulgate": "Et propter hanc causam peccavit domus Jeroboam, et eversa est, et deleta de superficie terræ.   ",
       "hebrew_masoretic": "וַֽיְהִי֙ בַּדָּבָ֣ר הַזֶּ֔ה לְחַטַּ֖את בֵּ֣ית יָרׇבְעָ֑ם וּלְהַכְחִיד֙ וּלְהַשְׁמִ֔יד מֵעַ֖ל פְּנֵ֥י הָאֲדָמָֽה׃ {פ}",
+      "douay_rheims": "And for this cause did the house of Jeroboam sin, and was cut off, and destroyed from the face of the earth. ",
+      "finnish_biblia": "Ja tämä asia tapahtui Jerobeamin huoneelle synniksi, ja että hän piti hävitettämän ja hukutettaman maan päältä.   ",
       "king_james": "And this thing became sin unto the house of Jeroboam, even to cut it off, and to destroy it from off the face of the earth. "
     }
   ]

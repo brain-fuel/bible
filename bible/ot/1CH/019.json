@@ -2,6 +2,8 @@
   "book_id": "1CH",
   "latin_name": "I Paralipomenon",
   "hebrew_name": "דִּבְרֵי הַיָּמִים א",
+  "douay_name": "1 Paralipomenon",
+  "finnish_name": "1. Aikakirja",
   "english_name": "1 Chronicles",
   "chapter": 19,
   "verses": [
@@ -9,114 +11,152 @@
       "verse": 1,
       "latin_vulgate": "Accidit autem ut moreretur Naas rex filiorum Ammon, et regnaret filius ejus pro eo. ",
       "hebrew_masoretic": "וַֽיְהִי֙ אַחֲרֵי־כֵ֔ן וַיָּ֕מׇת נָחָ֖שׁ מֶ֣לֶךְ בְּנֵֽי־עַמּ֑וֹן וַיִּמְלֹ֥ךְ בְּנ֖וֹ תַּחְתָּֽיו׃",
+      "douay_rheims": "Now it came to pass that Naas the king of the children of Ammon died, and his son reigned in his stead.",
+      "finnish_biblia": "Sen jälkeen tapahtui, että Nahas Ammonin lasten kuningas kuoli, ja hänen poikansa tuli kuninkaaksi hänen siaansa. ",
       "king_james": "Now it came to pass after this, that Nahash the king of the children of Ammon died, and his son reigned in his stead."
     },
     {
       "verse": 2,
       "latin_vulgate": "Dixitque David : Faciam misericordiam cum Hanon filio Naas : præstitit enim mihi pater ejus gratiam. Misitque David nuntios ad consolandum eum super morte patris sui. Qui cum pervenissent in terram filiorum Ammon ut consolarentur Hanon, ",
       "hebrew_masoretic": "וַיֹּ֨אמֶר דָּוִ֜יד אֶעֱשֶׂה־חֶ֣סֶד ׀ עִם־חָנ֣וּן בֶּן־נָחָ֗שׁ כִּֽי־עָשָׂ֨ה אָבִ֤יו עִמִּי֙ חֶ֔סֶד וַיִּשְׁלַ֥ח דָּוִ֛יד מַלְאָכִ֖ים לְנַחֲמ֣וֹ עַל־אָבִ֑יו וַיָּבֹ֩אוּ֩ עַבְדֵ֨י דָוִ֜יד אֶל־אֶ֧רֶץ בְּנֵֽי־עַמּ֛וֹן אֶל־חָנ֖וּן לְנַחֲמֽוֹ׃",
+      "douay_rheims": "And David said: I will shew kindness to Hanon the son of Naas: for his father did a favour tome. And David sent messengers to comfort him upon the death of his father. But when they were come into the land of the children of Ammon, to comfort Hanon,",
+      "finnish_biblia": "Niin David sanoi: minä osoitan laupiuden Hanunille Nahaksen pojalle; sillä hänen isänsä on tehnyt laupiuden minun kohtaani. Ja David lähetti sanansaattajat lohduttamaan häntä hänen isänsä tähden. Ja Davidin palveliat tulivat Ammonin lasten maalle Hanunin tykö, lohduttamaan häntä. ",
       "king_james": "And David said, I will shew kindness unto Hanun the son of Nahash, because his father shewed kindness to me. And David sent messengers to comfort him concerning his father. So the servants of David came into the land of the children of Ammon to Hanun, to comfort him."
     },
     {
       "verse": 3,
       "latin_vulgate": "dixerunt principes filiorum Ammon ad Hanon : Tu forsitan putas, quod David honoris causa in patrem tuum miserit qui consolentur te : nec animadvertis quod ut explorent, et investigent, et scrutentur terram tuam, venerint ad te servi ejus. ",
       "hebrew_masoretic": "וַיֹּאמְרוּ֩ שָׂרֵ֨י בְנֵי־עַמּ֜וֹן לְחָנ֗וּן הַֽמְכַבֵּ֨ד דָּוִ֤יד אֶת־אָבִ֙יךָ֙ בְּעֵינֶ֔יךָ כִּֽי־שָׁלַ֥ח לְךָ֖ מְנַחֲמִ֑ים הֲלֹ֡א בַּ֠עֲב֠וּר לַחְקֹ֨ר וְלַהֲפֹ֤ךְ וּלְרַגֵּל֙ הָאָ֔רֶץ בָּ֥אוּ עֲבָדָ֖יו אֵלֶֽיךָ׃",
+      "douay_rheims": "The princes of the children of Ammon said to Hanon: Thou thinkest perhaps that David to do honour to thy father hath sent comforters to thee: and thou dost not take notice, that his servants are come to thee to consider, and search, and spy out thy land.",
+      "finnish_biblia": "Niin sanoivat Ammonin lasten ylimmäiset Hanunille: luuletkos Davidin kunnioittavan isääs sinun silmäis edessä, että hän lähetti lohduttajat sinun tykös? ja eikö hänen palveliansa tulleet sinun tykös tutkistelemaan, kukistamaan ja vakoomaan maata? ",
       "king_james": "But the princes of the children of Ammon said to Hanun, Thinkest thou that David doth honour thy father, that he hath sent comforters unto thee? are not his servants come unto thee for to search, and to overthrow, and to spy out the land?"
     },
     {
       "verse": 4,
       "latin_vulgate": "Igitur Hanon pueros David decalvavit, et rasit, et præcidit tunicas eorum a natibus usque ad pedes, et dimisit eos. ",
       "hebrew_masoretic": "וַיִּקַּ֨ח חָנ֜וּן אֶת־עַבְדֵ֤י דָוִיד֙ וַֽיְגַלְּחֵ֔ם וַיִּכְרֹ֧ת אֶת־מַדְוֵיהֶ֛ם בַּחֵ֖צִי עַד־הַמִּפְשָׂעָ֑ה וַֽיְשַׁלְּחֵֽם׃",
+      "douay_rheims": "Wherefore Hanon shaved the heads and beards of the servants of David, and cut away their garments from the buttocks to the feet, and sent them away.",
+      "finnish_biblia": "Silloin otti Hanun Davidin palveliat, ajeli heidät ja leikkasi puolen heidän vaatteistansa liki kupeisiin asti, ja päästi heidät menemään. ",
       "king_james": "Wherefore Hanun took David’s servants, and shaved them, and cut off their garments in the midst hard by their buttocks, and sent them away."
     },
     {
       "verse": 5,
       "latin_vulgate": "Qui cum abiissent, et hoc mandassent David, misit in occursum eorum (grandem enim contumeliam sustinuerant) et præcepit ut manerent in Jericho, donec cresceret barba eorum, et tunc reverterentur. ",
       "hebrew_masoretic": "וַיֵּלְכוּ֩ וַיַּגִּ֨ידוּ לְדָוִ֤יד עַל־הָֽאֲנָשִׁים֙ וַיִּשְׁלַ֣ח לִקְרָאתָ֔ם כִּֽי־הָי֥וּ הָאֲנָשִׁ֖ים נִכְלָמִ֣ים מְאֹ֑ד וַיֹּ֤אמֶר הַמֶּ֙לֶךְ֙ שְׁב֣וּ בִֽירֵח֔וֹ עַ֛ד אֲשֶׁר־יְצַמַּ֥ח זְקַנְכֶ֖ם וְשַׁבְתֶּֽם׃ {ס}",
+      "douay_rheims": "And when they were gone, they sent word to David, who sent to meet them (for they had suffered a great affront) and ordered them to stay at Jericho till their beards grew and then to return.",
+      "finnish_biblia": "Ja he menivät, ja se tehtiin Davidille tiettäväksi niistä miehistä. Ja hän lähetti heitä vastaan (sillä miehet olivat sangen suuresti häväistyt), ja kuningas sanoi: olkaat siihenasti Jerihossa kuin teidän partanne kasvaa, tulkaat sitte jälleen. ",
       "king_james": "Then there went certain, and told David how the men were served. And he sent to meet them: for the men were greatly ashamed. And the king said, Tarry at Jericho until your beards be grown, and then return."
     },
     {
       "verse": 6,
       "latin_vulgate": "Videntes autem filii Ammon quod injuriam fecissent David, tam Hanon quam reliquus populus, miserunt mille talenta argenti, ut conducerent sibi de Mesopotamia, et de Syria Maacha, et de Soba currus et equites. ",
       "hebrew_masoretic": "וַיִּרְאוּ֙ בְּנֵ֣י עַמּ֔וֹן כִּ֥י הִֽתְבָּאֲשׁ֖וּ עִם־דָּוִ֑יד וַיִּשְׁלַ֣ח חָ֠נ֠וּן וּבְנֵ֨י עַמּ֜וֹן אֶ֣לֶף כִּכַּר־כֶּ֗סֶף לִשְׂכֹּ֣ר לָ֠הֶ֠ם מִן־אֲרַ֨ם נַהֲרַ֜יִם וּמִן־אֲרַ֤ם מַֽעֲכָה֙ וּמִצּוֹבָ֔ה רֶ֖כֶב וּפָרָשִֽׁים׃",
+      "douay_rheims": "And when the children of Ammon saw that they had done an injury to David, Hanon and the rest of the people sent a thousand talents of silver, to hire them chariots and horsemen out of Mesopotamia and out of Syria Maacha, and out of Soba.",
+      "finnish_biblia": "Mutta kuin Ammonin lapset näkivät haisevansa Davidin edessä, lähetti Hanun ja Ammonin lapset tuhannen leiviskää hopiaa, palkataksensa vaunuja ja hevosmiehiä Mesopotamiasta ja Syrian Maekasta ja Sobasta. ",
       "king_james": "And when the children of Ammon saw that they had made themselves odious to David, Hanun and the children of Ammon sent a thousand talents of silver to hire them chariots and horsemen out of Mesopotamia, and out of Syria–maachah, and out of Zobah."
     },
     {
       "verse": 7,
       "latin_vulgate": "Conduxeruntque triginta duo millia curruum, et regem Maacha cum populo ejus. Qui cum venissent, castrametati sunt e regione Medaba. Filii quoque Ammon congregati de urbibus suis venerunt ad bellum. ",
       "hebrew_masoretic": "וַיִּשְׂכְּר֣וּ לָהֶ֡ם שְׁנַ֩יִם֩ וּשְׁלֹשִׁ֨ים אֶ֜לֶף רֶ֗כֶב וְאֶת־מֶ֤לֶךְ מַֽעֲכָה֙ וְאֶת־עַמּ֔וֹ וַיָּבֹ֕אוּ וַֽיַּחֲנ֖וּ לִפְנֵ֣י מֵֽידְבָ֑א {ס} וּבְנֵ֣י עַמּ֗וֹן נֶֽאֶסְפוּ֙ מֵעָ֣רֵיהֶ֔ם וַיָּבֹ֖אוּ לַמִּלְחָמָֽה׃ {ס}",
+      "douay_rheims": "And they hired two and thirty thousand chariots, and the king of Maacha, with his people. And they came and camped over against Medaba. And the children of Ammon gathered themselves together out of their cities, and came to battle.",
+      "finnish_biblia": "Ja he palkkasivat kaksineljättäkymmentä tuhatta vaunua, ja Maekan kuninkaan väkinensä. He tulivat ja sioittivat itsensä Medban eteen. Ja Ammonin lapset kokoontuivat myös kaupungeistansa ja tulivat sotaan. ",
       "king_james": "So they hired thirty and two thousand chariots, and the king of Maachah and his people; who came and pitched before Medeba. And the children of Ammon gathered themselves together from their cities, and came to battle."
     },
     {
       "verse": 8,
       "latin_vulgate": "Quod cum audisset David, misit Joab, et omnem exercitum virorum fortium : ",
       "hebrew_masoretic": "וַיִּשְׁמַ֖ע דָּוִ֑יד וַיִּשְׁלַח֙ אֶת־יוֹאָ֔ב וְאֵ֥ת כׇּל־צָבָ֖א הַגִּבּוֹרִֽים׃",
+      "douay_rheims": "And when David heard of it, he sent Joab, and all the army of valiant men:",
+      "finnish_biblia": "Kuin David sen kuuli, lähetti hän Joabin ulos ja koko sankarein sotajoukon. ",
       "king_james": "And when David heard of it, he sent Joab, and all the host of the mighty men."
     },
     {
       "verse": 9,
       "latin_vulgate": "egressique filii Ammon, direxerunt aciem juxta portam civitatis ; reges autem, qui ad auxilium ejus venerant, separatim in agro steterunt.  ",
       "hebrew_masoretic": "וַיֵּֽצְאוּ֙ בְּנֵ֣י עַמּ֔וֹן וַיַּעַרְכ֥וּ מִלְחָמָ֖ה פֶּ֣תַח הָעִ֑יר וְהַמְּלָכִ֣ים אֲשֶׁר־בָּ֔אוּ לְבַדָּ֖ם בַּשָּׂדֶֽה׃",
+      "douay_rheims": "And the children of Ammon came out and put their army in array before the gate of the city: and the kings, that were come to their aid, stood apart in the field.",
+      "finnish_biblia": "Ja Ammonin lapset olivat lähteneet ja hankitsivat heitänsä sotaan kaupungin portin edessä; mutta kuninkaat, jotka tulleet olivat, olivat kedolla erinänsä. ",
       "king_james": "And the children of Ammon came out, and put the battle in array before the gate of the city: and the kings that were come were by themselves in the field."
     },
     {
       "verse": 10,
       "latin_vulgate": " Igitur Joab, intelligens bellum ex adverso et post tergum contra se fieri, elegit viros fortissimos de universo Israël, et perrexit contra Syrum. ",
       "hebrew_masoretic": "וַיַּ֣רְא יוֹאָ֗ב כִּֽי־הָיְתָ֧ה פְנֵֽי־הַמִּלְחָמָ֛ה אֵלָ֖יו פָּנִ֣ים וְאָח֑וֹר וַיִּבְחַ֗ר מִכׇּל־בָּחוּר֙ בְּיִשְׂרָאֵ֔ל וַֽיַּעֲרֹ֖ךְ לִקְרַ֥את אֲרָֽם׃",
+      "douay_rheims": "Wherefore Joab understanding that the battle was set against him before and behind, chose out the bravest men of all Israel, and marched against the Syrians,",
+      "finnish_biblia": "Kuin Joab näki sodan sekä edessänsä että takanansa nousevan häntä vastaan, valitsi hän kaikki parhaat miehet Israelista ja asetti ne Syrialaisia vastaan. ",
       "king_james": "Now when Joab saw that the battle was set against him before and behind, he chose out of all the choice of Israel, and put them in array against the Syrians."
     },
     {
       "verse": 11,
       "latin_vulgate": "Reliquam autem partem populi dedit sub manu Abisai fratris sui : et perrexerunt contra filios Ammon. ",
       "hebrew_masoretic": "וְאֵת֙ יֶ֣תֶר הָעָ֔ם נָתַ֕ן בְּיַ֖ד אַבְשַׁ֣י אָחִ֑יו וַיַּ֣עַרְכ֔וּ לִקְרַ֖את בְּנֵ֥י עַמּֽוֹן׃",
+      "douay_rheims": "And the rest of the people he delivered into the hand of Abisai his brother, and they went against the children of Ammon.",
+      "finnish_biblia": "Muun väen antoi hän veljensä Abisain käden alle, ja he varustivat itsensä Ammonin lapsia vastaan. ",
       "king_james": "And the rest of the people he delivered unto the hand of Abishai his brother, and they set themselves in array against the children of Ammon."
     },
     {
       "verse": 12,
       "latin_vulgate": "Dixitque : Si vicerit me Syrus, auxilio eris mihi : si autem superaverint te filii Ammon, ero tibi in præsidium. ",
       "hebrew_masoretic": "וַיֹּ֗אמֶר אִם־תֶּחֱזַ֤ק מִמֶּ֙נִּי֙ אֲרָ֔ם וְהָיִ֥יתָ לִּ֖י לִתְשׁוּעָ֑ה {ס} וְאִם־בְּנֵ֥י עַמּ֛וֹן יֶחֶזְק֥וּ מִמְּךָ֖ וְהוֹשַׁעְתִּֽיךָ׃",
+      "douay_rheims": "And he said: If the Syrians be too strong for me, then thou shalt help me: but if the children of Ammon be too strong for thee, I will help thee.",
+      "finnish_biblia": "Ja hän sanoi: jos Syrialaiset tulevat minua väkevämmäksi, niin tule minun avukseni; ja jos Ammonin lapset tulevat sinua väkevämmäksi, niin minä autan sinua. ",
       "king_james": "And he said, If the Syrians be too strong for me, then thou shalt help me: but if the children of Ammon be too strong for thee, then I will help thee."
     },
     {
       "verse": 13,
       "latin_vulgate": "Confortare, et agamus viriliter pro populo nostro, et pro urbibus Dei nostri : Dominus autem, quod in conspectu suo bonum est, faciet. ",
       "hebrew_masoretic": "חֲזַ֤ק וְנִֽתְחַזְּקָה֙ בְּעַד־עַמֵּ֔נוּ וּבְעַ֖ד עָרֵ֣י אֱלֹהֵ֑ינוּ וַֽיהֹוָ֔ה הַטּ֥וֹב בְּעֵינָ֖יו יַעֲשֶֽׂה׃",
+      "douay_rheims": "Be of good courage and let us behave ourselves manfully for our people, and for the cities of our God: and the Lord will do that which is good in his sight.",
+      "finnish_biblia": "Ole miehuullinen, ja olkaamme vahvat kansamme edestä ja Jumalamme kaupunkein edestä: mutta Herra tehköön niinkuin hänelle otollinen on! ",
       "king_james": "Be of good courage, and let us behave ourselves valiantly for our people, and for the cities of our God: and let the Lord do that which is good in his sight."
     },
     {
       "verse": 14,
       "latin_vulgate": "Perrexit ergo Joab et populus qui cum eo erat, contra Syrum ad prælium : et fugavit eos. ",
       "hebrew_masoretic": "וַיִּגַּ֨שׁ יוֹאָ֜ב וְהָעָ֧ם אֲשֶׁר־עִמּ֛וֹ לִפְנֵ֥י אֲרָ֖ם לַמִּלְחָמָ֑ה וַיָּנ֖וּסוּ מִפָּנָֽיו׃",
+      "douay_rheims": "So Joab and the people that were with him, went against the Syrians to the battle: and he put them to flight.",
+      "finnish_biblia": "Ja Joab lähestyi sillä väellä, joka hänen kanssansa oli, sotimaan Syrialaisia vastaan; ja ne pakenivat häntä. ",
       "king_james": "So Joab and the people that were with him drew nigh before the Syrians unto the battle; and they fled before him."
     },
     {
       "verse": 15,
       "latin_vulgate": "Porro filii Ammon videntes quod fugisset Syrus, ipsi quoque fugerunt Abisai fratrem ejus, et ingressi sunt civitatem : reversusque est etiam Joab in Jerusalem. ",
       "hebrew_masoretic": "וּבְנֵ֨י עַמּ֤וֹן רָאוּ֙ כִּֽי־נָ֣ס אֲרָ֔ם וַיָּנ֣וּסוּ גַם־הֵ֗ם מִפְּנֵי֙ אַבְשַׁ֣י אָחִ֔יו וַיָּבֹ֖אוּ הָעִ֑ירָה וַיָּבֹ֥א יוֹאָ֖ב יְרוּשָׁלָֽ͏ִם׃ {ס}",
+      "douay_rheims": "And the children of Ammon seeing that the Syrians were fled, they likewise fled from Abisai his brother, and went into the city: and Joab also returned to Jerusalem.",
+      "finnish_biblia": "Kuin Ammonin lapset näkivät Syrialaisten pakenevan, pakenivat hekin Abisaita hänen veljeänsä ja menivät kaupunkiin; ja Joab meni Jerusalemiin. ",
       "king_james": "And when the children of Ammon saw that the Syrians were fled, they likewise fled before Abishai his brother, and entered into the city. Then Joab came to Jerusalem."
     },
     {
       "verse": 16,
       "latin_vulgate": "Videns autem Syrus quod cecidisset coram Israël, misit nuntios, et adduxit Syrum, qui erat trans fluvium : Sophach autem princeps militiæ Adarezer erat dux eorum. ",
       "hebrew_masoretic": "וַיַּ֣רְא אֲרָ֗ם כִּ֣י נִגְּפוּ֮ לִפְנֵ֣י יִשְׂרָאֵל֒ וַֽיִּשְׁלְחוּ֙ מַלְאָכִ֔ים וַיּוֹצִ֣יאוּ אֶת־אֲרָ֔ם אֲשֶׁ֖ר מֵעֵ֣בֶר הַנָּהָ֑ר וְשׁוֹפַ֛ךְ שַׂר־צְבָ֥א הֲדַדְעֶ֖זֶר לִפְנֵיהֶֽם׃",
+      "douay_rheims": "But the Syrians seeing that they had fallen before Israel, sent messengers, and brought to them the Syrians that were beyond the river: and Sophach, general of the army of Adarezer, was their leader.",
+      "finnish_biblia": "Kuin Syrialaiset näkivät itsensä Israelilta lyödyksi, lähettivät he sanansaattajat ja toivat Syrialaiset tuolta puolelta virtaa. Ja Sophak Hadareserin sodanpäämies meni heidän edellänsä. ",
       "king_james": "And when the Syrians saw that they were put to the worse before Israel, they sent messengers, and drew forth the Syrians that were beyond the river: and Shophach the captain of the host of Hadarezer went before them."
     },
     {
       "verse": 17,
       "latin_vulgate": "Quod cum nuntiatum esset David, congregavit universum Israël, et transivit Jordanem, irruitque in eos et direxit ex adverso aciem, illis contra pugnantibus. ",
       "hebrew_masoretic": "וַיֻּגַּ֣ד לְדָוִ֗יד וַיֶּאֱסֹ֤ף אֶת־כׇּל־יִשְׂרָאֵל֙ וַיַּעֲבֹ֣ר הַיַּרְדֵּ֔ן וַיָּבֹ֣א אֲלֵהֶ֔ם וַֽיַּעֲרֹ֖ךְ אֲלֵהֶ֑ם וַיַּעֲרֹ֨ךְ דָּוִ֜יד לִקְרַ֤את אֲרָם֙ מִלְחָמָ֔ה וַיִּֽלָּחֲמ֖וּ עִמּֽוֹ׃",
+      "douay_rheims": "And it was told David, and he gathered together all Israel, and passed the Jordan, and came upon them, and put his army in array against them, and they fought with him.",
+      "finnish_biblia": "Kuin se oli Davidille sanottu, kokosi hän koko Israelin ja meni Jordanin ylitse. Ja kuin hän tuli heidän tykönsä, asettui hän heitä vastaan; ja David asetti itsensä Syrialaisia vastaan sotaan, ja ne sotivat hänen kanssansa. ",
       "king_james": "And it was told David; and he gathered all Israel, and passed over Jordan, and came upon them, and set the battle in array against them. So when David had put the battle in array against the Syrians, they fought with him."
     },
     {
       "verse": 18,
       "latin_vulgate": "Fugit autem Syrus Israël, et interfecit David de Syris septem millia curruum, et quadraginta millia peditum, et Sophach exercitus principem. ",
       "hebrew_masoretic": "וַיָּ֣נׇס אֲרָם֮ מִלִּפְנֵ֣י יִשְׂרָאֵל֒ וַיַּהֲרֹ֨ג דָּוִ֜יד מֵאֲרָ֗ם שִׁבְעַ֤ת אֲלָפִים֙ רֶ֔כֶב וְאַרְבָּעִ֥ים אֶ֖לֶף אִ֣ישׁ רַגְלִ֑י וְאֵ֛ת שׁוֹפַ֥ךְ שַֽׂר־הַצָּבָ֖א הֵמִֽית׃",
+      "douay_rheims": "But the Syrian fled before Israel: and David slew of the Syrians seven thousand chariots, and forty thousand footmen, and Sophach the general of the army.",
+      "finnish_biblia": "Mutta Syrialaiset pakenivat Israelia. Ja David tappoi Syrialaisista seitsemäntuhatta vaunua ja neljäkymmentä tuhatta jalkamiestä, hän tappoi myös Sophakin sodanpäämiehen. ",
       "king_james": "But the Syrians fled before Israel; and David slew of the Syrians seven thousand men which fought in chariots, and forty thousand footmen, and killed Shophach the captain of the host."
     },
     {
       "verse": 19,
       "latin_vulgate": "Videntes autem servi Adarezer se ab Israël esse superatos, transfugerunt ad David, et servierunt ei : noluitque ultra Syria auxilium præbere filiis Ammon.   ",
       "hebrew_masoretic": "וַיִּרְא֞וּ עַבְדֵ֣י הֲדַדְעֶ֗זֶר כִּ֤י נִגְּפוּ֙ לִפְנֵ֣י יִשְׂרָאֵ֔ל וַיַּשְׁלִ֥ימוּ עִם־דָּוִ֖יד וַיַּעַבְדֻ֑הוּ וְלֹֽא־אָבָ֣ה אֲרָ֔ם לְהוֹשִׁ֥יעַ אֶת־בְּנֵֽי־עַמּ֖וֹן עֽוֹד׃ {ס}",
+      "douay_rheims": "And when the servants of Adarezer saw themselves overcome by Israel, they went over to David, and served him: and Syria would not help the children of Ammon any more. ",
+      "finnish_biblia": "Ja koska Hadareserin palveliat näkivät itsensä lyödyksi Israelilta, tekivät he rauhan Davidin kanssa, ja olivat hänen palveliansa; ja Syrialaiset ei tahtoneet enää auttaa Ammonin lapsia.   ",
       "king_james": "And when the servants of Hadarezer saw that they were put to the worse before Israel, they made peace with David, and became his servants: neither would the Syrians help the children of Ammon any more. "
     }
   ]

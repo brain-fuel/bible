@@ -2,6 +2,8 @@
   "book_id": "EST",
   "latin_name": "Esther",
   "hebrew_name": "אֶסְתֵּר",
+  "douay_name": "Esther",
+  "finnish_name": "Esterin kirja",
   "english_name": "Esther",
   "chapter": 1,
   "verses": [
@@ -9,132 +11,176 @@
       "verse": 1,
       "latin_vulgate": "In diebus Assueri, qui regnavit ab India usque Æthiopiam super centum viginti septem provincias, ",
       "hebrew_masoretic": "וַיְהִ֖י בִּימֵ֣י אֲחַשְׁוֵר֑וֹשׁ ה֣וּא אֲחַשְׁוֵר֗וֹשׁ הַמֹּלֵךְ֙ מֵהֹ֣דּוּ וְעַד־כּ֔וּשׁ שֶׁ֛בַע וְעֶשְׂרִ֥ים וּמֵאָ֖ה מְדִינָֽה׃",
+      "douay_rheims": "In the days of Assuerus, who reigned from India to Ethiopia over a hundred and twenty seven provinces:",
+      "finnish_biblia": "Siihen aikaan, kuin Ahasverus hallitsi Indiasta Etiopiaan asti, sataa ja seitsemääkolmattakymmenta maakuntaa, ",
       "king_james": "Now it came to pass in the days of Ahasuerus, (this is Ahasuerus which reigned, from India even unto Ethiopia, over an hundred and seven and twenty provinces:)"
     },
     {
       "verse": 2,
       "latin_vulgate": "quando sedit in solio regni sui, Susan civitas regni ejus exordium fuit. ",
       "hebrew_masoretic": "בַּיָּמִ֖ים הָהֵ֑ם כְּשֶׁ֣בֶת ׀ הַמֶּ֣לֶךְ אֲחַשְׁוֵר֗וֹשׁ עַ֚ל כִּסֵּ֣א מַלְכוּת֔וֹ אֲשֶׁ֖ר בְּשׁוּשַׁ֥ן הַבִּירָֽה׃",
+      "douay_rheims": "When he sat on the throne of his kingdom, the city Susan was the capital of his kingdom.",
+      "finnish_biblia": "Ja kuin hän istui valtakuntansa istuimella, Susanin linnassa, ",
       "king_james": "That in those days, when the king Ahasuerus sat on the throne of his kingdom, which was in Shushan the palace,"
     },
     {
       "verse": 3,
       "latin_vulgate": "Tertio igitur anno imperii sui fecit grande convivium cunctis principibus et pueris suis, fortissimis Persarum, et Medorum inclytis, et præfectis provinciarum coram se, ",
       "hebrew_masoretic": "בִּשְׁנַ֤ת שָׁלוֹשׁ֙ לְמׇלְכ֔וֹ עָשָׂ֣ה מִשְׁתֶּ֔ה לְכׇל־שָׂרָ֖יו וַעֲבָדָ֑יו חֵ֣יל ׀ פָּרַ֣ס וּמָדַ֗י הַֽפַּרְתְּמִ֛ים וְשָׂרֵ֥י הַמְּדִינ֖וֹת לְפָנָֽיו׃",
+      "douay_rheims": "Now in the third year of his reign he made a great feast for all the princes, and for his servants, for the most mighty of the Persians, and the nobles of the Medes, and the governors of the provinces in his sight,",
+      "finnish_biblia": "Kolmantena hallituksensa vuonna, teki hän pidot kaikille päämiehillensä ja palvelioillensa, Persian ja Median sodanpäämiehille ja maakuntain hallitsioille hänen edessänsä, ",
       "king_james": "In the third year of his reign, he made a feast unto all his princes and his servants; the power of Persia and Media, the nobles and princes of the provinces, being before him:"
     },
     {
       "verse": 4,
       "latin_vulgate": "ut ostenderet divitias gloriæ regni sui, ac magnitudinem atque jactantiam potentiæ suæ, multo tempore, centum videlicet et octoginta diebus. ",
       "hebrew_masoretic": "בְּהַרְאֹת֗וֹ אֶת־עֹ֙שֶׁר֙ כְּב֣וֹד מַלְכוּת֔וֹ וְאֶ֨ת־יְקָ֔ר תִּפְאֶ֖רֶת גְּדוּלָּת֑וֹ יָמִ֣ים רַבִּ֔ים שְׁמוֹנִ֥ים וּמְאַ֖ת יֽוֹם׃",
+      "douay_rheims": "That he might shew the riches of the glory of his kingdom, and the greatness, and boasting of his power, for a long time, to wit, for a hundred and fourscore days.",
+      "finnish_biblia": "Näyttäin heille valtakuntansa kunnian rikkaudet ja herrautensa kalliit kaunistukset monta päivää, sata ja kahdeksankymmentä päivää. ",
       "king_james": "When he shewed the riches of his glorious kingdom and the honour of his excellent majesty many days, even an hundred and fourscore days."
     },
     {
       "verse": 5,
       "latin_vulgate": "Cumque implerentur dies convivii, invitavit omnem populum, qui inventus est in Susan, a maximo usque ad minimum : et jussit septem diebus convivium præparari in vestibulo horti, et nemoris quod regio cultu et manu consitum erat. ",
       "hebrew_masoretic": "וּבִמְל֣וֹאת ׀ הַיָּמִ֣ים הָאֵ֗לֶּה עָשָׂ֣ה הַמֶּ֡לֶךְ לְכׇל־הָעָ֣ם הַנִּמְצְאִים֩ בְּשׁוּשַׁ֨ן הַבִּירָ֜ה לְמִגָּד֧וֹל וְעַד־קָטָ֛ן מִשְׁתֶּ֖ה שִׁבְעַ֣ת יָמִ֑ים בַּחֲצַ֕ר גִּנַּ֥ת בִּיתַ֖ן הַמֶּֽלֶךְ׃",
+      "douay_rheims": "And when the days of the feast were expired, he invited all the people that were found in Susan, from the greatest to the least: and commanded a feast to be made seven days in the court of the garden, and of the wood, which was planted by the care and the hand of the king.",
+      "finnish_biblia": "Ja kuin ne päivät olivat täytetyt, teki kuningas kaikelle kansalle, joka Susanin linnassa oli, sekä suurille että pienille pidot seitsemäksi päiväksi, kuninkaallisen huoneen yrttitarhan salissa. ",
       "king_james": "And when these days were expired, the king made a feast unto all the people that were present in Shushan the palace, both unto great and small, seven days, in the court of the garden of the king’s palace;"
     },
     {
       "verse": 6,
       "latin_vulgate": "Et pendebant ex omni parte tentoria ærii coloris et carbasini ac hyacinthini, sustentata funibus byssinis atque purpureis, qui eburneis circulis inserti erant, et columnis marmoreis fulciebantur. Lectuli quoque aurei et argentei, super pavimentum smaragdino et pario stratum lapide, dispositi erant : quod mira varietate pictura decorabat. ",
       "hebrew_masoretic": "ח֣וּר ׀ כַּרְפַּ֣ס וּתְכֵ֗לֶת אָחוּז֙ בְּחַבְלֵי־ב֣וּץ וְאַרְגָּמָ֔ן עַל־גְּלִ֥ילֵי כֶ֖סֶף וְעַמּ֣וּדֵי שֵׁ֑שׁ מִטּ֣וֹת ׀ זָהָ֣ב וָכֶ֗סֶף עַ֛ל רִֽצְפַ֥ת בַּהַט־וָשֵׁ֖שׁ וְדַ֥ר וְסֹחָֽרֶת׃",
+      "douay_rheims": "And there were hung up on every side sky coloured, and green, and violet hangings, fastened with cords of silk, and of purple, which were put into rings of ivory, and were held up with marble pillars. The beds also were of gold and silver, placed in order upon a floor paved with porphyry and white marble: which was embellished with painting of wonderful variety.",
+      "finnish_biblia": "Siellä riippuivat valkiat, viheriäiset ja sinertävät seinävaatteet, yhteen sidotut kalliilla liinaisilla ja purppuraisilla siteillä hopiarenkaissa, marmorikivisten patsasten päällä; vuoteet olivat kullasta ja hopiasta, permanto oli laskettu viheriäisistä, valkeista, keltaisista ja mustista marmorikivistä. ",
       "king_james": "Where were white, green, and blue, hangings, fastened with cords of fine linen and purple to silver rings and pillars of marble: the beds were of gold and silver, upon a pavement of red, and blue, and white, and black, marble."
     },
     {
       "verse": 7,
       "latin_vulgate": "Bibebant autem qui invitati erant aureis poculis, et aliis atque aliis vasis cibi inferebantur. Vinum quoque, ut magnificentia regia dignum erat, abundans, et præcipuum ponebatur. ",
       "hebrew_masoretic": "וְהַשְׁקוֹת֙ בִּכְלֵ֣י זָהָ֔ב וְכֵלִ֖ים מִכֵּלִ֣ים שׁוֹנִ֑ים וְיֵ֥ין מַלְכ֛וּת רָ֖ב כְּיַ֥ד הַמֶּֽלֶךְ׃",
+      "douay_rheims": "And they that were invited, drank in golden cups, and the meats were brought in divers vessels one after another. Wine also in abundance and of the best was presented, as was worthy of a king's magnificence.",
+      "finnish_biblia": "Ja juomaa kannettiin kultaisilla astioilla, ja aina toisilla ja toisilla astioilla, ja kuninkaallista viinaa yltäkyllä, kuninkaan varan perään. ",
       "king_james": "And they gave them drink in vessels of gold, (the vessels being diverse one from another,) and royal wine in abundance, according to the state of the king."
     },
     {
       "verse": 8,
       "latin_vulgate": "Nec erat qui nolentes cogeret ad bibendum, sed sicut rex statuerat, præponens mensis singulos de principibus suis ut sumeret unusquisque quod vellet. ",
       "hebrew_masoretic": "וְהַשְּׁתִיָּ֥ה כַדָּ֖ת אֵ֣ין אֹנֵ֑ס כִּי־כֵ֣ן ׀ יִסַּ֣ד הַמֶּ֗לֶךְ עַ֚ל כׇּל־רַ֣ב בֵּית֔וֹ לַעֲשׂ֖וֹת כִּרְצ֥וֹן אִישׁ־וָאִֽישׁ׃",
+      "douay_rheims": "Neither was there any one to compel them to drink that were not willing, but as the king had appointed, who set over every table one of his nobles, that every man might take what he would.",
+      "finnish_biblia": "Ja juominen tapahtui säädöksen jälkeen, niin ettei yksikään toistansa vaatinut; sillä kuningas oli niin käskenyt kaikille edeskäyville huoneessansa, tehdä jokaisen mielen nouteeksi. ",
       "king_james": "And the drinking was according to the law; none did compel: for so the king had appointed to all the officers of his house, that they should do according to every man’s pleasure."
     },
     {
       "verse": 9,
       "latin_vulgate": "Vasthi quoque regina fecit convivium feminarum in palatio, ubi rex Assuerus manere consueverat.  ",
       "hebrew_masoretic": "גַּ֚ם וַשְׁתִּ֣י הַמַּלְכָּ֔ה עָשְׂתָ֖ה מִשְׁתֵּ֣ה נָשִׁ֑ים בֵּ֚ית הַמַּלְכ֔וּת אֲשֶׁ֖ר לַמֶּ֥לֶךְ אֲחַשְׁוֵרֽוֹשׁ׃ {ס}",
+      "douay_rheims": "Also Vasthi the queen made a feast for the women in the palace, where king Assuerus was used to dwell.",
+      "finnish_biblia": "Ja kuningatar Vasti teki myös pidot vaimoille kuningas Ahasveruksen kuninkaallisessa huoneessa. ",
       "king_james": "Also Vashti the queen made a feast for the women in the royal house which belonged to king Ahasuerus."
     },
     {
       "verse": 10,
       "latin_vulgate": " Itaque die septimo, cum rex esset hilarior, et post nimiam potationem incaluisset mero, præcepit Maumam, et Bazatha, et Harbona, et Bagatha, et Abgatha, et Zethar, et Charchas, septem eunuchis qui in conspectu ejus ministrabant, ",
       "hebrew_masoretic": "בַּיּוֹם֙ הַשְּׁבִיעִ֔י כְּט֥וֹב לֵב־הַמֶּ֖לֶךְ בַּיָּ֑יִן אָמַ֡ר לִ֠מְהוּמָ֠ן בִּזְּתָ֨א חַרְבוֹנָ֜א בִּגְתָ֤א וַאֲבַגְתָא֙ זֵתַ֣ר וְכַרְכַּ֔ס שִׁבְעַת֙ הַסָּ֣רִיסִ֔ים הַמְשָׁ֣רְתִ֔ים אֶת־פְּנֵ֖י הַמֶּ֥לֶךְ אֲחַשְׁוֵרֽוֹשׁ׃",
+      "douay_rheims": "Now on the seventh day, when the king was merry, and after very much drinking was well warmed with wine, he commanded Mauman, and Bazatha, and Harbona, and Bagatha, and Abgatha, and Zethar, and Charcas, the seven eunuchs that served in his presence,",
+      "finnish_biblia": "Ja seitsemäntenä päivänä, kuin kuningas oli iloinen viinasta, käski hän Mehumanin, Bistan, Harbonan, Bigtan, Abagtan, Setarin ja Karkaan, seitsemän kamaripalveliaa, jotka palvelivat kuningas Ahasverusta, ",
       "king_james": "On the seventh day, when the heart of the king was merry with wine, he commanded Mehuman, Biztha, Harbona, Bigtha, and Abagtha, Zethar, and Carcas, the seven chamberlains that served in the presence of Ahasuerus the king,"
     },
     {
       "verse": 11,
       "latin_vulgate": "ut introducerent reginam Vasthi coram rege, posito super caput ejus diademate, ut ostenderet cunctis populis et principibus pulchritudinem illius : erat enim pulchra valde. ",
       "hebrew_masoretic": "לְ֠הָבִ֠יא אֶת־וַשְׁתִּ֧י הַמַּלְכָּ֛ה לִפְנֵ֥י הַמֶּ֖לֶךְ בְּכֶ֣תֶר מַלְכ֑וּת לְהַרְא֨וֹת הָֽעַמִּ֤ים וְהַשָּׂרִים֙ אֶת־יׇפְיָ֔הּ כִּֽי־טוֹבַ֥ת מַרְאֶ֖ה הִֽיא׃",
+      "douay_rheims": "To bring in queen Vasthi before the king, with the crown set upon her head, to shew her beauty to all the people and the princes: for she was exceeding beautiful.",
+      "finnish_biblia": "Tuomaan kuningatar Vastia kuninkaan eteen hänen kuninkaallisella kruunullansa, näyttääksensä kansalle ja päämiehille hänen kauneuttansa; sillä hän oli kaunis. ",
       "king_james": "To bring Vashti the queen before the king with the crown royal, to shew the people and the princes her beauty: for she was fair to look on."
     },
     {
       "verse": 12,
       "latin_vulgate": "Quæ renuit, et ad regis imperium quod per eunuchos mandaverat, venire contempsit. Unde iratus rex, et nimio furore succensus, ",
       "hebrew_masoretic": "וַתְּמָאֵ֞ן הַמַּלְכָּ֣ה וַשְׁתִּ֗י לָבוֹא֙ בִּדְבַ֣ר הַמֶּ֔לֶךְ אֲשֶׁ֖ר בְּיַ֣ד הַסָּרִיסִ֑ים וַיִּקְצֹ֤ף הַמֶּ֙לֶךְ֙ מְאֹ֔ד וַחֲמָת֖וֹ בָּעֲרָ֥ה בֽוֹ׃",
+      "douay_rheims": "But she refused, and would not come at the king's commandment, which he had signified to her by the eunuchs. Whereupon the king, being angry, and inflamed with a very great fury,",
+      "finnish_biblia": "Mutta kuningatar Vasti ei tahtonut tulla kuninkaan käskyn jälkeen, kuin hän oli käskenyt kamaripalveliain kautta. Niin kuningas vihastui kovin, ja hänen vihansa syttyi hänessä. ",
       "king_james": "But the queen Vashti refused to come at the king’s commandment by his chamberlains: therefore was the king very wroth, and his anger burned in him."
     },
     {
       "verse": 13,
       "latin_vulgate": "interrogavit sapientes, qui ex more regio semper ei aderant, et illorum faciebat cuncta consilio, scientium leges, ac jura majorum ",
       "hebrew_masoretic": "וַיֹּ֣אמֶר הַמֶּ֔לֶךְ לַחֲכָמִ֖ים יֹדְעֵ֣י הָֽעִתִּ֑ים כִּי־כֵן֙ דְּבַ֣ר הַמֶּ֔לֶךְ לִפְנֵ֕י כׇּל־יֹדְעֵ֖י דָּ֥ת וָדִֽין׃",
+      "douay_rheims": "Asked the wise men, who according to the custom of the kings, were always near his person, and all he did was by their counsel, who knew the laws, and judgments of their forefathers:",
+      "finnish_biblia": "Kuningas sanoi viisaille, jotka ymmärsivät maan tavat (sillä kuninkaan asia piti ratkaistaman kaikkein lain ja oikeuden ymmärtäväisten edessä; ",
       "king_james": "Then the king said to the wise men, which knew the times, (for so was the king’s manner toward all that knew law and judgment:"
     },
     {
       "verse": 14,
       "latin_vulgate": "(erant autem primi et proximi, Charsena, et Sethar, et Admatha, et Tharsis, et Mares, et Marsana, et Mamuchan, septem duces Persarum, atque Medorum, qui videbant faciem regis, et primi post eum residere soliti erant) : ",
       "hebrew_masoretic": "וְהַקָּרֹ֣ב אֵלָ֗יו כַּרְשְׁנָ֤א שֵׁתָר֙ אַדְמָ֣תָא תַרְשִׁ֔ישׁ מֶ֥רֶס מַרְסְנָ֖א מְמוּכָ֑ן שִׁבְעַ֞ת שָׂרֵ֣י ׀ פָּרַ֣ס וּמָדַ֗י רֹאֵי֙ פְּנֵ֣י הַמֶּ֔לֶךְ הַיֹּשְׁבִ֥ים רִאשֹׁנָ֖ה בַּמַּלְכֽוּת׃",
+      "douay_rheims": "(Now the chief and nearest him were, Charsena, and Sethar, and Admatha, and Tharsis, and Mares, and Marsana, and Mamuchan, seven princes of the Persians and of the Medes, who saw the face of the king, and were used to sit first after him:)",
+      "finnish_biblia": "Ja lähin häntä olivat: Karsena, Setar, Admata, Tarsis, Meres, Marsena ja Memukan, seitsemän Persian ja Median päämiestä, jotka näkivät kuninkaan kasvot ja istuivat ylimmäisinä valtakunnassa:) ",
       "king_james": "And the next unto him was Carshena, Shethar, Admatha, Tarshish, Meres, Marsena, and Memucan, the seven princes of Persia and Media, which saw the king’s face, and which sat the first in the kingdom;)"
     },
     {
       "verse": 15,
       "latin_vulgate": "cui sententiæ Vasthi regina subjaceret, quæ Assueri regis imperium, quod per eunuchos mandaverat, facere noluisset. ",
       "hebrew_masoretic": "כְּדָת֙ מַֽה־לַּעֲשׂ֔וֹת בַּמַּלְכָּ֖ה וַשְׁתִּ֑י עַ֣ל ׀ אֲשֶׁ֣ר לֹֽא־עָשְׂתָ֗ה אֶֽת־מַאֲמַר֙ הַמֶּ֣לֶךְ אֲחַשְׁוֵר֔וֹשׁ בְּיַ֖ד הַסָּרִיסִֽים׃ {פ}",
+      "douay_rheims": "What sentence ought to pass upon Vasthi the queen, who had refused to obey the commandment of king Assuerus, which he had sent to her by the eunuchs?",
+      "finnish_biblia": "Mitä kuningatar Vastille pitää tehtämän oikeuden jälkeen, ettei hän tehnyt kuningas Ahasveruksen sanan jälkeen, hänen kamaripalveliainsa kautta? ",
       "king_james": "What shall we do unto the queen Vashti according to law, because she hath not performed the commandment of the king Ahasuerus by the chamberlains?"
     },
     {
       "verse": 16,
       "latin_vulgate": "Responditque Mamuchan, audiente rege atque principibus : Non solum regem læsit regina Vasthi, sed et omnes populos et principes qui sunt in cunctis provinciis regis Assueri. ",
       "hebrew_masoretic": "וַיֹּ֣אמֶר (מומכן) [מְמוּכָ֗ן] לִפְנֵ֤י הַמֶּ֙לֶךְ֙ וְהַשָּׂרִ֔ים לֹ֤א עַל־הַמֶּ֙לֶךְ֙ לְבַדּ֔וֹ עָוְתָ֖ה וַשְׁתִּ֣י הַמַּלְכָּ֑ה כִּ֤י עַל־כׇּל־הַשָּׂרִים֙ וְעַל־כׇּל־הָ֣עַמִּ֔ים אֲשֶׁ֕ר בְּכׇל־מְדִינ֖וֹת הַמֶּ֥לֶךְ אֲחַשְׁוֵרֽוֹשׁ׃",
+      "douay_rheims": "And Mamuchan answered, in the hearing of the king and the princes: Queen Vasthi hath not only injured the king, but also all the people and princes that are in all the provinces of king Assuerus.",
+      "finnish_biblia": "Niin sanoi Memukan kuninkaan ja päämiesten edessä: kuningatar Vasti ei ole ainoastansa tehnyt pahoin kuningasta vastaan, mutta myös kaikkia päämiehiä ja kaikkia kansoja vastaan, jotka ovat kaikissa kuningas Ahasveruksen maakunnissa. ",
       "king_james": "And Memucan answered before the king and the princes, Vashti the queen hath not done wrong to the king only, but also to all the princes, and to all the people that are in all the provinces of the king Ahasuerus."
     },
     {
       "verse": 17,
       "latin_vulgate": "Egredietur enim sermo reginæ ad omnes mulieres, ut contemnant viros suos, et dicant : Rex Assuerus jussit ut regina Vasthi intraret ad eum, et illa noluit. ",
       "hebrew_masoretic": "כִּֽי־יֵצֵ֤א דְבַר־הַמַּלְכָּה֙ עַל־כׇּל־הַנָּשִׁ֔ים לְהַבְז֥וֹת בַּעְלֵיהֶ֖ן בְּעֵינֵיהֶ֑ן בְּאׇמְרָ֗ם הַמֶּ֣לֶךְ אֲחַשְׁוֵר֡וֹשׁ אָמַ֞ר לְהָבִ֨יא אֶת־וַשְׁתִּ֧י הַמַּלְכָּ֛ה לְפָנָ֖יו וְלֹא־בָֽאָה׃",
+      "douay_rheims": "For this deed of the queen will go abroad to all women, so that they will despise their husbands, and will say: King Assuerus commanded that queen Vasthi should come in to him, and she would not.",
+      "finnish_biblia": "Sillä tämä kuningattaren teko hajoo kaikkein vaimoin tykö, niin että hekin katsovat miehensä ylön silmäinsä edessä, ja sanovat: kuningas Ahasverus käski kuningatar Vastin tulla eteensä, mutta ei hän tullut. ",
       "king_james": "For this deed of the queen shall come abroad unto all women, so that they shall despise their husbands in their eyes, when it shall be reported, The king Ahasuerus commanded Vashti the queen to be brought in before him, but she came not."
     },
     {
       "verse": 18,
       "latin_vulgate": "Atque hoc exemplo omnes principum conjuges Persarum atque Medorum parvipendent imperia maritorum : unde regis justa est indignatio. ",
       "hebrew_masoretic": "וְֽהַיּ֨וֹם הַזֶּ֜ה תֹּאמַ֣רְנָה ׀ שָׂר֣וֹת פָּֽרַס־וּמָדַ֗י אֲשֶׁ֤ר שָֽׁמְעוּ֙ אֶת־דְּבַ֣ר הַמַּלְכָּ֔ה לְכֹ֖ל שָׂרֵ֣י הַמֶּ֑לֶךְ וּכְדַ֖י בִּזָּי֥וֹן וָקָֽצֶף׃",
+      "douay_rheims": "And by this example all the wives of the princes of the Persians and the Medes will slight the commandments of their husbands: wherefore the king's indignation is just.",
+      "finnish_biblia": "Niin Persian ja Median päämiesten emännät sanovat tänäpänä kaikille kuninkaan päämiehille, kuin he kuulevat tämän kuningattaren teon; niin siitä tulee kyllä ylönkatsetta ja vihaa. ",
       "king_james": "Likewise shall the ladies of Persia and Media say this day unto all the king’s princes, which have heard of the deed of the queen. Thus shall there arise too much contempt and wrath."
     },
     {
       "verse": 19,
       "latin_vulgate": "Si tibi placet, egrediatur edictum a facie tua, et scribatur juxta legem Persarum atque Medorum, quam præteriri illicitum est, ut nequaquam ultra Vasthi ingrediatur ad regem, sed regnum illius altera, quæ melior est illa, accipiat. ",
       "hebrew_masoretic": "אִם־עַל־הַמֶּ֣לֶךְ ט֗וֹב יֵצֵ֤א דְבַר־מַלְכוּת֙ מִלְּפָנָ֔יו וְיִכָּתֵ֛ב בְּדָתֵ֥י פָֽרַס־וּמָדַ֖י וְלֹ֣א יַעֲב֑וֹר אֲשֶׁ֨ר לֹֽא־תָב֜וֹא וַשְׁתִּ֗י לִפְנֵי֙ הַמֶּ֣לֶךְ אֲחַשְׁוֵר֔וֹשׁ וּמַלְכוּתָהּ֙ יִתֵּ֣ן הַמֶּ֔לֶךְ לִרְעוּתָ֖הּ הַטּוֹבָ֥ה מִמֶּֽנָּה׃",
+      "douay_rheims": "If it please thee, let an edict go out from thy presence, and let it be written according to the law of the Persians and of the Medes, which must not be altered, that Vasthi come in no more to the king, but another, that is better than her, be made queen in her place.",
+      "finnish_biblia": "Jos siis kuninkaalle kelpaa, niin antakaan kuninkaallisen käskyn käydä ulos ja kirjoittaa Persian ja Median lakiin jota ei kenkään rikkoa tohdi: ettei Vasti pidä enää tuleman kuningas Ahasveruksen eteen, ja antakaan kuningas hänen valtakuntansa hänen lähimmäisellensä, joka on parempi häntä. ",
       "king_james": "If it please the king, let there go a royal commandment from him, and let it be written among the laws of the Persians and the Medes, that it be not altered, That Vashti come no more before king Ahasuerus; and let the king give her royal estate unto another that is better than she."
     },
     {
       "verse": 20,
       "latin_vulgate": "Et hoc in omne (quod latissimum est) provinciarum tuarum divulgetur imperium, et cunctæ uxores, tam majorum quam minorum, deferant maritis suis honorem. ",
       "hebrew_masoretic": "וְנִשְׁמַע֩ פִּתְגָ֨ם הַמֶּ֤לֶךְ אֲשֶֽׁר־יַעֲשֶׂה֙ בְּכׇל־מַלְכוּת֔וֹ כִּ֥י רַבָּ֖ה הִ֑יא וְכׇל־הַנָּשִׁ֗ים יִתְּנ֤וּ יְקָר֙ לְבַעְלֵיהֶ֔ן לְמִגָּד֖וֹל וְעַד־קָטָֽן׃",
+      "douay_rheims": "And let this be published through all the provinces of thy empire, (which is very wide,) and let all wives, as well of the greater as of the lesser, give honour to their husbands.",
+      "finnish_biblia": "Ja tämä kuninkaan kirja, joka nyt tehdään, kuulukoon ympärinsä koko hänen valtakuntansa, joka suuri on: että jokainen vaimo pitäis miehensä kunniassa, suurten ja pienten seassa, ",
       "king_james": "And when the king’s decree which he shall make shall be published throughout all his empire, (for it is great,) all the wives shall give to their husbands honour, both to great and small."
     },
     {
       "verse": 21,
       "latin_vulgate": "Placuit consilium ejus regi et principibus : fecitque rex juxta consilium Mamuchan, ",
       "hebrew_masoretic": "וַיִּיטַב֙ הַדָּבָ֔ר בְּעֵינֵ֥י הַמֶּ֖לֶךְ וְהַשָּׂרִ֑ים וַיַּ֥עַשׂ הַמֶּ֖לֶךְ כִּדְבַ֥ר מְמוּכָֽן׃",
+      "douay_rheims": "His counsel pleased the king, and the princes: and the king did according to the counsel of Mamuchan.",
+      "finnish_biblia": "Tämä kelpasi kuninkaalle ja päämiehille; ja kuningas teki Memukanin sanan jälkeen. ",
       "king_james": "And the saying pleased the king and the princes; and the king did according to the word of Memucan:"
     },
     {
       "verse": 22,
       "latin_vulgate": "et misit epistolas ad universas provincias regni sui, ut quæque gens audire et legere poterat, diversis linguis et litteris, esse viros principes ac majores in domibus suis : et hoc per cunctos populos divulgari.   ",
       "hebrew_masoretic": "וַיִּשְׁלַ֤ח סְפָרִים֙ אֶל־כׇּל־מְדִינ֣וֹת הַמֶּ֔לֶךְ אֶל־מְדִינָ֤ה וּמְדִינָה֙ כִּכְתָבָ֔הּ וְאֶל־עַ֥ם וָעָ֖ם כִּלְשׁוֹנ֑וֹ לִהְי֤וֹת כׇּל־אִישׁ֙ שֹׂרֵ֣ר בְּבֵית֔וֹ וּמְדַבֵּ֖ר כִּלְשׁ֥וֹן עַמּֽוֹ׃ {פ}",
+      "douay_rheims": "And he sent letters to all the provinces of his kingdom, as every nation could hear and read, in divers languages and characters, that the husbands should be rulers and masters in their houses: and that this should be published to every people. ",
+      "finnish_biblia": "Niin kirjat lähetettiin kaikkiin kuninkaan maakuntiin, jokaiseen maakuntaan heidän kirjoituksensa jälkeen, ja kaikkein kansain tykö heidän kielellänsä: että jokainen mies on hallitsia huoneessansa, ja antoi puhuttaa kansansa kielellä.   ",
       "king_james": "For he sent letters into all the king’s provinces, into every province according to the writing thereof, and to every people after their language, that every man should bear rule in his own house, and that it should be published according to the language of every people. "
     }
   ]

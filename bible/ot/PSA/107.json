@@ -2,6 +2,8 @@
   "book_id": "PSA",
   "latin_name": "Liber Psalmorum",
   "hebrew_name": "תְּהִלִּים",
+  "douay_name": "Psalms",
+  "finnish_name": "Psalmit",
   "english_name": "Psalms",
   "chapter": 107,
   "verses": [
@@ -9,9 +11,14 @@
       "verse": 1,
       "latin_vulgate": "Alleluja.   Confitemini Domino, quoniam bonus,  quoniam in sæculum misericordia ejus. ",
       "hebrew_masoretic": "הֹד֣וּ לַיהֹוָ֣ה כִּי־ט֑וֹב כִּ֖י לְעוֹלָ֣ם חַסְדּֽוֹ׃",
+      "douay_rheims": "Give glory to the Lord, for he is good: for his mercy endureth for ever.",
+      "finnish_biblia": "Kiittäkäät Herraa; sillä hän on hyvä, ja hänen laupiutensa pysyy ijankaikkisesti. ",
       "king_james": "O give thanks unto the Lord, for he is good: for his mercy endureth for ever.",
       "refs": {
         "latin_vulgate": {
+          "src": "106:1"
+        },
+        "douay_rheims": {
           "src": "106:1"
         }
       }
@@ -20,9 +27,14 @@
       "verse": 2,
       "latin_vulgate": " Dicant qui redempti sunt a Domino,  quos redemit de manu inimici,  et de regionibus congregavit eos, ",
       "hebrew_masoretic": "יֹ֭אמְרוּ גְּאוּלֵ֣י יְהֹוָ֑ה אֲשֶׁ֥ר גְּ֝אָלָ֗ם מִיַּד־צָֽר׃",
+      "douay_rheims": "Let them say so that have been redeemed by the Lord, whom he hath redeemed from the hand of the enemy: and gathered out of the countries.",
+      "finnish_biblia": "Sanokaan Herran lunastetut, jotka hän on tuskasta vapahtanut, ",
       "king_james": "Let the redeemed of the Lord say so, whom he hath redeemed from the hand of the enemy;",
       "refs": {
         "latin_vulgate": {
+          "src": "106:2"
+        },
+        "douay_rheims": {
           "src": "106:2"
         }
       }
@@ -31,9 +43,14 @@
       "verse": 3,
       "latin_vulgate": " a solis ortu, et occasu, ab aquilone, et mari. ",
       "hebrew_masoretic": "וּֽמֵאֲרָצ֗וֹת קִ֫בְּצָ֥ם מִמִּזְרָ֥ח וּמִֽמַּעֲרָ֑ב מִצָּפ֥וֹן וּמִיָּֽם׃",
+      "douay_rheims": "From the rising and from the setting of the sun, from the north and from the sea.",
+      "finnish_biblia": "Ja jotka hän on maakunnista koonnut, idästä ja lännestä, pohjoisesta ja etelästä, ",
       "king_james": "And gathered them out of the lands, from the east, and from the west, from the north, and from the south.",
       "refs": {
         "latin_vulgate": {
+          "src": "106:3"
+        },
+        "douay_rheims": {
           "src": "106:3"
         }
       }
@@ -42,9 +59,14 @@
       "verse": 4,
       "latin_vulgate": " Erraverunt in solitudine, in inaquoso ;  viam civitatis habitaculi non invenerunt. ",
       "hebrew_masoretic": "תָּע֣וּ בַ֭מִּדְבָּר בִּישִׁימ֣וֹן דָּ֑רֶךְ עִ֥יר מ֝וֹשָׁ֗ב לֹ֣א מָצָֽאוּ׃",
+      "douay_rheims": "They wandered in a wilderness, in a place without water: they found not the way of a city for their habitation.",
+      "finnish_biblia": "Jotka eksyksissä vaelsivat korvessa umpitietä, ja ei he löytäneet kaupunkia asuaksensa, ",
       "king_james": "They wandered in the wilderness in a solitary way; they found no city to dwell in.",
       "refs": {
         "latin_vulgate": {
+          "src": "106:4"
+        },
+        "douay_rheims": {
           "src": "106:4"
         }
       }
@@ -53,9 +75,14 @@
       "verse": 5,
       "latin_vulgate": " Esurientes et sitientes,  anima eorum in ipsis defecit. ",
       "hebrew_masoretic": "רְעֵבִ֥ים גַּם־צְמֵאִ֑ים נַ֝פְשָׁ֗ם בָּהֶ֥ם תִּתְעַטָּֽף׃",
+      "douay_rheims": "They were hungry and thirsty: their soul fainted in them.",
+      "finnish_biblia": "Isoovaiset ja janoovaiset; ja heidän sielunsa vaipui heissä. ",
       "king_james": "Hungry and thirsty, their soul fainted in them.",
       "refs": {
         "latin_vulgate": {
+          "src": "106:5"
+        },
+        "douay_rheims": {
           "src": "106:5"
         }
       }
@@ -64,9 +91,14 @@
       "verse": 6,
       "latin_vulgate": " Et clamaverunt ad Dominum cum tribularentur,  et de necessitatibus eorum eripuit eos ; ",
       "hebrew_masoretic": "וַיִּצְעֲק֣וּ אֶל־יְ֭הֹוָה בַּצַּ֣ר לָהֶ֑ם מִ֝מְּצ֥וּקוֹתֵיהֶ֗ם יַצִּילֵֽם׃",
+      "douay_rheims": "And they cried to the Lord in their tribulation: and he delivered them out of their distresses.",
+      "finnish_biblia": "Ja he huusivat Herraa tuskissansa, ja hän pelasti heitä heidän hädistänsä, ",
       "king_james": "Then they cried unto the Lord in their trouble, and he delivered them out of their distresses.",
       "refs": {
         "latin_vulgate": {
+          "src": "106:6"
+        },
+        "douay_rheims": {
           "src": "106:6"
         }
       }
@@ -75,9 +107,14 @@
       "verse": 7,
       "latin_vulgate": " et deduxit eos in viam rectam,  ut irent in civitatem habitationis. ",
       "hebrew_masoretic": "וַֽ֭יַּדְרִיכֵם בְּדֶ֣רֶךְ יְשָׁרָ֑ה לָ֝לֶ֗כֶת אֶל־עִ֥יר מוֹשָֽׁב׃",
+      "douay_rheims": "And he led them into the right way, that they might go to a city of habitation.",
+      "finnish_biblia": "Ja vei heitä oikiaa tietä, että he menivät asuinkaupunkiin. ",
       "king_james": "And he led them forth by the right way, that they might go to a city of habitation.",
       "refs": {
         "latin_vulgate": {
+          "src": "106:7"
+        },
+        "douay_rheims": {
           "src": "106:7"
         }
       }
@@ -86,9 +123,14 @@
       "verse": 8,
       "latin_vulgate": " Confiteantur Domino misericordiæ ejus,  et mirabilia ejus filiis hominum. ",
       "hebrew_masoretic": "יוֹד֣וּ לַיהֹוָ֣ה חַסְדּ֑וֹ וְ֝נִפְלְאוֹתָ֗יו לִבְנֵ֥י אָדָֽם׃",
+      "douay_rheims": "Let the mercies of the Lord give glory to him: and his wonderful works to the children of men.",
+      "finnish_biblia": "Kiittäkään he siis Herraa hänen laupiutensa edestä, ja hänen ihmeittensä tähden, jotka hän ihmisten lasten kohtaan tekee: ",
       "king_james": "Oh that men would praise the Lord for his goodness, and for his wonderful works to the children of men!",
       "refs": {
         "latin_vulgate": {
+          "src": "106:8"
+        },
+        "douay_rheims": {
           "src": "106:8"
         }
       }
@@ -97,9 +139,14 @@
       "verse": 9,
       "latin_vulgate": " Quia satiavit animam inanem,  et animam esurientem satiavit bonis. ",
       "hebrew_masoretic": "כִּֽי־הִ֭שְׂבִּיעַ נֶ֣פֶשׁ שֹׁקֵקָ֑ה וְנֶ֥פֶשׁ רְ֝עֵבָ֗ה מִלֵּא־טֽוֹב׃",
+      "douay_rheims": "For he hath satisfied the empty soul, and hath filled the hungry soul with good things.",
+      "finnish_biblia": "Että hän ravitsee himoitsevaisen sielun ja täyttää isoovaisen sielun hyvyydellä. ",
       "king_james": "For he satisfieth the longing soul, and filleth the hungry soul with goodness.",
       "refs": {
         "latin_vulgate": {
+          "src": "106:9"
+        },
+        "douay_rheims": {
           "src": "106:9"
         }
       }
@@ -108,9 +155,14 @@
       "verse": 10,
       "latin_vulgate": " Sedentes in tenebris et umbra mortis ;  vinctos in mendicitate et ferro. ",
       "hebrew_masoretic": "יֹ֭שְׁבֵי חֹ֣שֶׁךְ וְצַלְמָ֑וֶת אֲסִירֵ֖י עֳנִ֣י וּבַרְזֶֽל׃",
+      "douay_rheims": "Such as sat in darkness and in the shadow of death: bound in want and in iron.",
+      "finnish_biblia": "Jotka istuvat pimeässä ja kuoleman varjossa, vangitut ahdistuksessa ja raudoissa: ",
       "king_james": "Such as sit in darkness and in the shadow of death, being bound in affliction and iron;",
       "refs": {
         "latin_vulgate": {
+          "src": "106:10"
+        },
+        "douay_rheims": {
           "src": "106:10"
         }
       }
@@ -119,9 +171,14 @@
       "verse": 11,
       "latin_vulgate": " Quia exacerbaverunt eloquia Dei,  et consilium Altissimi irritaverunt. ",
       "hebrew_masoretic": "כִּֽי־הִמְר֥וּ אִמְרֵי־אֵ֑ל וַעֲצַ֖ת עֶלְי֣וֹן נָאָֽצוּ׃",
+      "douay_rheims": "Because they had exasperated the words of God: and provoked the counsel of the most High:",
+      "finnish_biblia": "Että he olivat Jumalan käskyä vastaan kovakorvaiset, ja olivat katsoneet ylön ylimmäisen lain; ",
       "king_james": "Because they rebelled against the words of God, and contemned the counsel of the most High:",
       "refs": {
         "latin_vulgate": {
+          "src": "106:11"
+        },
+        "douay_rheims": {
           "src": "106:11"
         }
       }
@@ -130,9 +187,14 @@
       "verse": 12,
       "latin_vulgate": " Et humiliatum est in laboribus cor eorum ;  infirmati sunt, nec fuit qui adjuvaret. ",
       "hebrew_masoretic": "וַיַּכְנַ֣ע בֶּעָמָ֣ל לִבָּ֑ם כָּ֝שְׁל֗וּ וְאֵ֣ין עֹזֵֽר׃",
+      "douay_rheims": "And their heart was humbled with labours: they were weakened, and there was none to help them.",
+      "finnish_biblia": "Sentähden täytyi heidän sydämensä onnettomuudella vaivattaa, niin että he lankesivat, ja ei kenkään heitä auttanut. ",
       "king_james": "Therefore he brought down their heart with labour; they fell down, and there was none to help.",
       "refs": {
         "latin_vulgate": {
+          "src": "106:12"
+        },
+        "douay_rheims": {
           "src": "106:12"
         }
       }
@@ -141,9 +203,14 @@
       "verse": 13,
       "latin_vulgate": " Et clamaverunt ad Dominum cum tribularentur ;  et de necessitatibus eorum liberavit eos. ",
       "hebrew_masoretic": "וַיִּזְעֲק֣וּ אֶל־יְ֭הֹוָה בַּצַּ֣ר לָהֶ֑ם מִ֝מְּצֻ֥קוֹתֵיהֶ֗ם יוֹשִׁיעֵֽם׃",
+      "douay_rheims": "Then they cried to the Lord in their affliction: and he delivered them out of their distresses.",
+      "finnish_biblia": "Ja he huusivat Herraa tuskissansa, ja hän autti heitä heidän hädistänsä, ",
       "king_james": "Then they cried unto the Lord in their trouble, and he saved them out of their distresses.",
       "refs": {
         "latin_vulgate": {
+          "src": "106:13"
+        },
+        "douay_rheims": {
           "src": "106:13"
         }
       }
@@ -152,9 +219,14 @@
       "verse": 14,
       "latin_vulgate": " Et eduxit eos de tenebris et umbra mortis,  et vincula eorum dirupit. ",
       "hebrew_masoretic": "י֭וֹצִיאֵם מֵחֹ֣שֶׁךְ וְצַלְמָ֑וֶת וּמוֹסְר֖וֹתֵיהֶ֣ם יְנַתֵּֽק׃",
+      "douay_rheims": "And he brought them out of darkness, and the shadow of death; and broke their bonds in sunder.",
+      "finnish_biblia": "Ja vei heitä pimeydestä ulos ja kuoleman varjosta, ja särki heidän siteensä. ",
       "king_james": "He brought them out of darkness and the shadow of death, and brake their bands in sunder.",
       "refs": {
         "latin_vulgate": {
+          "src": "106:14"
+        },
+        "douay_rheims": {
           "src": "106:14"
         }
       }
@@ -163,9 +235,14 @@
       "verse": 15,
       "latin_vulgate": " Confiteantur Domino misericordiæ ejus,  et mirabilia ejus filiis hominum. ",
       "hebrew_masoretic": "יוֹד֣וּ לַיהֹוָ֣ה חַסְדּ֑וֹ וְ֝נִפְלְאוֹתָ֗יו לִבְנֵ֥י אָדָֽם׃",
+      "douay_rheims": "Let the mercies of the Lord give glory to him, and his wonderful works to the children of men.",
+      "finnish_biblia": "Kiittäkään he siis Herraa hänen laupiutensa edestä, ja hänen ihmeittensä tähden, jotka hän ihmisten lasten kohtaan tekee: ",
       "king_james": "Oh that men would praise the Lord for his goodness, and for his wonderful works to the children of men!",
       "refs": {
         "latin_vulgate": {
+          "src": "106:15"
+        },
+        "douay_rheims": {
           "src": "106:15"
         }
       }
@@ -174,9 +251,14 @@
       "verse": 16,
       "latin_vulgate": " Quia contrivit portas æreas,  et vectes ferreos confregit. ",
       "hebrew_masoretic": "כִּי־שִׁ֭בַּר דַּלְת֣וֹת נְחֹ֑שֶׁת וּבְרִיחֵ֖י בַרְזֶ֣ל גִּדֵּֽעַ׃",
+      "douay_rheims": "Because he hath broken gates of brass, and burst iron bars.",
+      "finnish_biblia": "Että hän särkee vaskiportit, ja rikkoo rautaiset salvat. ",
       "king_james": "For he hath broken the gates of brass, and cut the bars of iron in sunder.",
       "refs": {
         "latin_vulgate": {
+          "src": "106:16"
+        },
+        "douay_rheims": {
           "src": "106:16"
         }
       }
@@ -185,9 +267,14 @@
       "verse": 17,
       "latin_vulgate": " Suscepit eos de via iniquitatis eorum ;  propter injustitias enim suas humiliati sunt. ",
       "hebrew_masoretic": "אֱ֭וִלִים מִדֶּ֣רֶךְ פִּשְׁעָ֑ם וּֽ֝מֵעֲוֺ֥נֹתֵיהֶ֗ם יִתְעַנּֽוּ׃",
+      "douay_rheims": "He took them out of the way of their iniquity: for they were brought low for their injustices.",
+      "finnish_biblia": "Hullut, jotka rangaistiin ylitsekäymisensä tähden, ja synteinsä tähden, ",
       "king_james": "Fools because of their transgression, and because of their iniquities, are afflicted.",
       "refs": {
         "latin_vulgate": {
+          "src": "106:17"
+        },
+        "douay_rheims": {
           "src": "106:17"
         }
       }
@@ -196,9 +283,14 @@
       "verse": 18,
       "latin_vulgate": " Omnem escam abominata est anima eorum,  et appropinquaverunt usque ad portas mortis. ",
       "hebrew_masoretic": "כׇּל־אֹ֭כֶל תְּתַעֵ֣ב נַפְשָׁ֑ם וַ֝יַּגִּ֗יעוּ עַד־שַׁ֥עֲרֵי מָֽוֶת׃",
+      "douay_rheims": "Their soul abhorred all manner of meat: and they drew nigh even to the gates of death.",
+      "finnish_biblia": "Heidän sielunsa kauhistui kaikkea ruokaa, ja saivat kuolintautinsa. ",
       "king_james": "Their soul abhorreth all manner of meat; and they draw near unto the gates of death.",
       "refs": {
         "latin_vulgate": {
+          "src": "106:18"
+        },
+        "douay_rheims": {
           "src": "106:18"
         }
       }
@@ -207,9 +299,14 @@
       "verse": 19,
       "latin_vulgate": " Et clamaverunt ad Dominum cum tribularentur,  et de necessitatibus eorum liberavit eos. ",
       "hebrew_masoretic": "וַיִּזְעֲק֣וּ אֶל־יְ֭הֹוָה בַּצַּ֣ר לָהֶ֑ם מִ֝מְּצֻ֥קוֹתֵיהֶ֗ם יוֹשִׁיעֵֽם׃",
+      "douay_rheims": "And they cried to the Lord in their affliction: and he delivered them out of their distresses.",
+      "finnish_biblia": "Ja he huusivat Herraa tuskissansa, ja hän autti heitä heidän hädistänsä. ",
       "king_james": "Then they cry unto the Lord in their trouble, and he saveth them out of their distresses.",
       "refs": {
         "latin_vulgate": {
+          "src": "106:19"
+        },
+        "douay_rheims": {
           "src": "106:19"
         }
       }
@@ -218,9 +315,14 @@
       "verse": 20,
       "latin_vulgate": " Misit verbum suum, et sanavit eos,  et eripuit eos de interitionibus eorum. ",
       "hebrew_masoretic": "יִשְׁלַ֣ח דְּ֭בָרוֹ וְיִרְפָּאֵ֑ם וִ֝ימַלֵּ֗ט מִשְּׁחִֽיתוֹתָֽם׃",
+      "douay_rheims": "He sent his word, and healed them: and delivered them from their destructions.",
+      "finnish_biblia": "Hän lähetti sanansa ja paransi heitä, ja pelasti heitä, ettei he kuolleet. ",
       "king_james": "He sent his word, and healed them, and delivered them from their destructions.",
       "refs": {
         "latin_vulgate": {
+          "src": "106:20"
+        },
+        "douay_rheims": {
           "src": "106:20"
         }
       }
@@ -229,9 +331,14 @@
       "verse": 21,
       "latin_vulgate": " Confiteantur Domino misericordiæ ejus,  et mirabilia ejus filiis hominum. ",
       "hebrew_masoretic": "יוֹד֣וּ לַיהֹוָ֣ה חַסְדּ֑וֹ וְ֝נִפְלְאוֹתָ֗יו לִבְנֵ֥י אָדָֽם׃",
+      "douay_rheims": "Let the mercies of the Lord give glory to him: and his wonderful works to the children of men.",
+      "finnish_biblia": "Kiittäkään he siis Herraa hänen laupiutensa edestä, ja hänen ihmeittensä tähden, jotka hän ihmisten lasten kohtaan tekee, ",
       "king_james": "Oh that men would praise the Lord for his goodness, and for his wonderful works to the children of men!",
       "refs": {
         "latin_vulgate": {
+          "src": "106:21"
+        },
+        "douay_rheims": {
           "src": "106:21"
         }
       }
@@ -240,9 +347,14 @@
       "verse": 22,
       "latin_vulgate": " Et sacrificent sacrificium laudis,  et annuntient opera ejus in exsultatione. ",
       "hebrew_masoretic": "וְ֭יִזְבְּחוּ זִבְחֵ֣י תוֹדָ֑ה וִיסַפְּר֖וּ מַעֲשָׂ֣יו בְּרִנָּֽה׃",
+      "douay_rheims": "And let them sacrifice the sacrifice of praise: and declare his works with joy.",
+      "finnish_biblia": "Ja uhratkaan kiitosuhria, ja luetelkaan hänen tekojansa ilolla. ",
       "king_james": "And let them sacrifice the sacrifices of thanksgiving, and declare his works with rejoicing.",
       "refs": {
         "latin_vulgate": {
+          "src": "106:22"
+        },
+        "douay_rheims": {
           "src": "106:22"
         }
       }
@@ -251,9 +363,14 @@
       "verse": 23,
       "latin_vulgate": " Qui descendunt mare in navibus,  facientes operationem in aquis multis : ",
       "hebrew_masoretic": "׆ יוֹרְדֵ֣י הַ֭יָּם בׇּאֳנִיּ֑וֹת עֹשֵׂ֥י מְ֝לָאכָ֗ה בְּמַ֣יִם רַבִּֽים׃",
+      "douay_rheims": "They that go down to the sea in ships, doing business in the great waters:",
+      "finnish_biblia": "Jotka haaksilla meressä vaeltavat, ja asiansa toimittavat suurilla vesillä, ",
       "king_james": "They that go down to the sea in ships, that do business in great waters;",
       "refs": {
         "latin_vulgate": {
+          "src": "106:23"
+        },
+        "douay_rheims": {
           "src": "106:23"
         }
       }
@@ -262,9 +379,14 @@
       "verse": 24,
       "latin_vulgate": " ipsi viderunt opera Domini,  et mirabilia ejus in profundo. ",
       "hebrew_masoretic": "׆ הֵ֣מָּה רָ֭אוּ מַעֲשֵׂ֣י יְהֹוָ֑ה וְ֝נִפְלְאוֹתָ֗יו בִּמְצוּלָֽה׃",
+      "douay_rheims": "These have seen the works of the Lord, and his wonders in the deep.",
+      "finnish_biblia": "He näkivät Herran työt, ja hänen ihmeensä syvyydessä. ",
       "king_james": "These see the works of the Lord, and his wonders in the deep.",
       "refs": {
         "latin_vulgate": {
+          "src": "106:24"
+        },
+        "douay_rheims": {
           "src": "106:24"
         }
       }
@@ -273,9 +395,14 @@
       "verse": 25,
       "latin_vulgate": " Dixit, et stetit spiritus procellæ,  et exaltati sunt fluctus ejus. ",
       "hebrew_masoretic": "׆ וַיֹּ֗אמֶר וַֽ֭יַּעֲמֵד ר֣וּחַ סְעָרָ֑ה וַתְּרוֹמֵ֥ם גַּלָּֽיו׃",
+      "douay_rheims": "He said the word, and there arose a storm of wind: and the waves thereof were lifted up.",
+      "finnish_biblia": "Kuin hän sanoi, ja paisutti suuren ilman, joka aallot nosti ylös, ",
       "king_james": "For he commandeth, and raiseth the stormy wind, which lifteth up the waves thereof.",
       "refs": {
         "latin_vulgate": {
+          "src": "106:25"
+        },
+        "douay_rheims": {
           "src": "106:25"
         }
       }
@@ -284,9 +411,14 @@
       "verse": 26,
       "latin_vulgate": " Ascendunt usque ad cælos, et descendunt usque ad abyssos ;  anima eorum in malis tabescebat. ",
       "hebrew_masoretic": "׆ יַעֲל֣וּ שָׁ֭מַיִם יֵרְד֣וּ תְהוֹמ֑וֹת נַ֝פְשָׁ֗ם בְּרָעָ֥ה תִתְמוֹגָֽג׃",
+      "douay_rheims": "They mount up to the heavens, and they go down to the depths: their soul pined away with evils.",
+      "finnish_biblia": "Niin he menivät ylös taivasta kohden ja menivät syvyyteen alas, että heidän sielunsa ahdistuksesta epäili, ",
       "king_james": "They mount up to the heaven, they go down again to the depths: their soul is melted because of trouble.",
       "refs": {
         "latin_vulgate": {
+          "src": "106:26"
+        },
+        "douay_rheims": {
           "src": "106:26"
         }
       }
@@ -295,9 +427,14 @@
       "verse": 27,
       "latin_vulgate": " Turbati sunt, et moti sunt sicut ebrius,  et omnis sapientia eorum devorata est. ",
       "hebrew_masoretic": "׆ יָח֣וֹגּוּ וְ֭יָנוּעוּ כַּשִּׁכּ֑וֹר וְכׇל־חׇ֝כְמָתָ֗ם תִּתְבַּלָּֽע׃",
+      "douay_rheims": "They were troubled, and reeled like a drunken man; and all their wisdom was swallowed up.",
+      "finnish_biblia": "Että he horjuivat ja hoipertelivat niinkuin juopuneet, ja ei silleen neuvoa tietäneet; ",
       "king_james": "They reel to and fro, and stagger like a drunken man, and are at their wits’ end.",
       "refs": {
         "latin_vulgate": {
+          "src": "106:27"
+        },
+        "douay_rheims": {
           "src": "106:27"
         }
       }
@@ -306,9 +443,14 @@
       "verse": 28,
       "latin_vulgate": " Et clamaverunt ad Dominum cum tribularentur ;  et de necessitatibus eorum eduxit eos. ",
       "hebrew_masoretic": "׆ וַיִּצְעֲק֣וּ אֶל־יְ֭הֹוָה בַּצַּ֣ר לָהֶ֑ם וּֽ֝מִמְּצ֥וּקֹתֵיהֶ֗ם יוֹצִיאֵֽם׃",
+      "douay_rheims": "And they cried to the Lord in their affliction: and he brought them out of their distresses.",
+      "finnish_biblia": "Ja he huusivat Herraa tuskissansa, ja hän autti heitä heidän hädistänsä. ",
       "king_james": "Then they cry unto the Lord in their trouble, and he bringeth them out of their distresses.",
       "refs": {
         "latin_vulgate": {
+          "src": "106:28"
+        },
+        "douay_rheims": {
           "src": "106:28"
         }
       }
@@ -317,9 +459,14 @@
       "verse": 29,
       "latin_vulgate": " Et statuit procellam ejus in auram,  et siluerunt fluctus ejus. ",
       "hebrew_masoretic": "יָקֵ֣ם סְ֭עָרָה לִדְמָמָ֑ה וַ֝יֶּחֱשׁ֗וּ גַּלֵּיהֶֽם׃",
+      "douay_rheims": "And he turned the storm into a breeze: and its waves were still.",
+      "finnish_biblia": "Ja hän hillitsi kovan ilman, että aallot asettuivat. ",
       "king_james": "He maketh the storm a calm, so that the waves thereof are still.",
       "refs": {
         "latin_vulgate": {
+          "src": "106:29"
+        },
+        "douay_rheims": {
           "src": "106:29"
         }
       }
@@ -328,9 +475,14 @@
       "verse": 30,
       "latin_vulgate": " Et lætati sunt quia siluerunt ;  et deduxit eos in portum voluntatis eorum. ",
       "hebrew_masoretic": "וַיִּשְׂמְח֥וּ כִֽי־יִשְׁתֹּ֑קוּ וַ֝יַּנְחֵ֗ם אֶל־מְח֥וֹז חֶפְצָֽם׃",
+      "douay_rheims": "And they rejoiced because they were still: and he brought them to the haven which they wished for.",
+      "finnish_biblia": "Ja he tulivat iloisiksi, että tyveni, ja hän vei heitä satamaan heidän mielensä jälkeen. ",
       "king_james": "Then are they glad because they be quiet; so he bringeth them unto their desired haven.",
       "refs": {
         "latin_vulgate": {
+          "src": "106:30"
+        },
+        "douay_rheims": {
           "src": "106:30"
         }
       }
@@ -339,9 +491,14 @@
       "verse": 31,
       "latin_vulgate": " Confiteantur Domino misericordiæ ejus,  et mirabilia ejus filiis hominum. ",
       "hebrew_masoretic": "יוֹד֣וּ לַיהֹוָ֣ה חַסְדּ֑וֹ וְ֝נִפְלְאוֹתָ֗יו לִבְנֵ֥י אָדָֽם׃",
+      "douay_rheims": "Let the mercies of the Lord give glory to him, and his wonderful works to the children of men.",
+      "finnish_biblia": "Kiittäkään he siis Herraa hänen laupiutensa edestä, ja hänen ihmeittensä tähden, jotka hän ihmisten lasten kohtaan tekee. ",
       "king_james": "Oh that men would praise the Lord for his goodness, and for his wonderful works to the children of men!",
       "refs": {
         "latin_vulgate": {
+          "src": "106:31"
+        },
+        "douay_rheims": {
           "src": "106:31"
         }
       }
@@ -350,9 +507,14 @@
       "verse": 32,
       "latin_vulgate": " Et exaltent eum in ecclesia plebis,  et in cathedra seniorum laudent eum. ",
       "hebrew_masoretic": "וִֽ֭ירוֹמְמוּהוּ בִּקְהַל־עָ֑ם וּבְמוֹשַׁ֖ב זְקֵנִ֣ים יְהַלְלֽוּהוּ׃",
+      "douay_rheims": "And let them exalt him in the church of the people: and praise him in the chair of the ancients.",
+      "finnish_biblia": "Ja ylistäkään häntä kansan seurakunnassa, ja kiittäkään häntä vanhimpain seassa, ",
       "king_james": "Let them exalt him also in the congregation of the people, and praise him in the assembly of the elders.",
       "refs": {
         "latin_vulgate": {
+          "src": "106:32"
+        },
+        "douay_rheims": {
           "src": "106:32"
         }
       }
@@ -361,9 +523,14 @@
       "verse": 33,
       "latin_vulgate": " Posuit flumina in desertum,  et exitus aquarum in sitim ; ",
       "hebrew_masoretic": "יָשֵׂ֣ם נְהָר֣וֹת לְמִדְבָּ֑ר וּמֹצָ֥אֵי מַ֝֗יִם לְצִמָּאֽוֹן׃",
+      "douay_rheims": "He hath turned rivers into a wilderness: and the sources of waters into dry ground:",
+      "finnish_biblia": "Joka virrat teki erämaaksi, ja vesilähteet kuivaksi maaksi, ",
       "king_james": "He turneth rivers into a wilderness, and the watersprings into dry ground;",
       "refs": {
         "latin_vulgate": {
+          "src": "106:33"
+        },
+        "douay_rheims": {
           "src": "106:33"
         }
       }
@@ -372,9 +539,14 @@
       "verse": 34,
       "latin_vulgate": " terram fructiferam in salsuginem,  a malitia inhabitantium in ea. ",
       "hebrew_masoretic": "אֶ֣רֶץ פְּ֭רִי לִמְלֵחָ֑ה מֵ֝רָעַ֗ת י֣וֹשְׁבֵי בָֽהּ׃",
+      "douay_rheims": "A fruitful land into barrenness, for the wickedness of them that dwell therein.",
+      "finnish_biblia": "Ettei hedelmällinen maa mitään kantanut, heidän pahuutensa tähden, jotka siinä asuivat. ",
       "king_james": "A fruitful land into barrenness, for the wickedness of them that dwell therein.",
       "refs": {
         "latin_vulgate": {
+          "src": "106:34"
+        },
+        "douay_rheims": {
           "src": "106:34"
         }
       }
@@ -383,9 +555,14 @@
       "verse": 35,
       "latin_vulgate": " Posuit desertum in stagna aquarum,  et terram sine aqua in exitus aquarum. ",
       "hebrew_masoretic": "יָשֵׂ֣ם מִ֭דְבָּר לַאֲגַם־מַ֑יִם וְאֶ֥רֶץ צִ֝יָּ֗ה לְמֹצָ֥אֵי מָֽיִם׃",
+      "douay_rheims": "He hath turned a wilderness into pools of waters, and a dry land into water springs.",
+      "finnish_biblia": "Erämaan teki hän vesilammiksi ja kuivan maan vesilähteeksi, ",
       "king_james": "He turneth the wilderness into a standing water, and dry ground into watersprings.",
       "refs": {
         "latin_vulgate": {
+          "src": "106:35"
+        },
+        "douay_rheims": {
           "src": "106:35"
         }
       }
@@ -394,9 +571,14 @@
       "verse": 36,
       "latin_vulgate": " Et collocavit illic esurientes,  et constituerunt civitatem habitationis : ",
       "hebrew_masoretic": "וַיּ֣וֹשֶׁב שָׁ֣ם רְעֵבִ֑ים וַ֝יְכוֹנְנ֗וּ עִ֣יר מוֹשָֽׁב׃",
+      "douay_rheims": "And hath placed there the hungry; and they made a city for their habitation.",
+      "finnish_biblia": "Ja asetti sinne isoovaiset; ja he valmistivat siihen kaupunkia, jossa he asuivat, ",
       "king_james": "And there he maketh the hungry to dwell, that they may prepare a city for habitation;",
       "refs": {
         "latin_vulgate": {
+          "src": "106:36"
+        },
+        "douay_rheims": {
           "src": "106:36"
         }
       }
@@ -405,9 +587,14 @@
       "verse": 37,
       "latin_vulgate": " et seminaverunt agros et plantaverunt vineas,  et fecerunt fructum nativitatis. ",
       "hebrew_masoretic": "וַיִּזְרְע֣וּ שָׂ֭דוֹת וַיִּטְּע֣וּ כְרָמִ֑ים וַ֝יַּעֲשׂ֗וּ פְּרִ֣י תְבוּאָֽה׃",
+      "douay_rheims": "And they sowed fields, and planted vineyards: and they yielded fruit of birth.",
+      "finnish_biblia": "Ja kylvivät pellot ja viinapuita istuttivat, ja saivat jokavuotisen hedelmän. ",
       "king_james": "And sow the fields, and plant vineyards, which may yield fruits of increase.",
       "refs": {
         "latin_vulgate": {
+          "src": "106:37"
+        },
+        "douay_rheims": {
           "src": "106:37"
         }
       }
@@ -416,9 +603,14 @@
       "verse": 38,
       "latin_vulgate": " Et benedixit eis, et multiplicati sunt nimis ;  et jumenta eorum non minoravit. ",
       "hebrew_masoretic": "וַיְבָרְכֵ֣ם וַיִּרְבּ֣וּ מְאֹ֑ד וּ֝בְהֶמְתָּ֗ם לֹ֣א יַמְעִֽיט׃",
+      "douay_rheims": "And he blessed them, and they were multiplied exceedingly: and their cattle he suffered not to decrease.",
+      "finnish_biblia": "Ja hän siunasi heitä ja he sangen suuresti enenivät, ja hän antoi paljon karjaa heille; ",
       "king_james": "He blesseth them also, so that they are multiplied greatly; and suffereth not their cattle to decrease.",
       "refs": {
         "latin_vulgate": {
+          "src": "106:38"
+        },
+        "douay_rheims": {
           "src": "106:38"
         }
       }
@@ -427,9 +619,14 @@
       "verse": 39,
       "latin_vulgate": " Et pauci facti sunt et vexati sunt,  a tribulatione malorum et dolore. ",
       "hebrew_masoretic": "וַיִּמְעֲט֥וּ וַיָּשֹׁ֑חוּ מֵעֹ֖צֶר רָעָ֣ה וְיָגֽוֹן׃",
+      "douay_rheims": "Then they were brought to be few: and they were afflicted through the trouble of evils and sorrow.",
+      "finnish_biblia": "Jotka olivat painetut alas ja sorretut pahain väkivallalta ja ahdistukselta, ",
       "king_james": "Again, they are minished and brought low through oppression, affliction, and sorrow.",
       "refs": {
         "latin_vulgate": {
+          "src": "106:39"
+        },
+        "douay_rheims": {
           "src": "106:39"
         }
       }
@@ -438,9 +635,14 @@
       "verse": 40,
       "latin_vulgate": " Effusa est contemptio super principes :  et errare fecit eos in invio, et non in via. ",
       "hebrew_masoretic": "׆ שֹׁפֵ֣ךְ בּ֭וּז עַל־נְדִיבִ֑ים וַ֝יַּתְעֵ֗ם בְּתֹ֣הוּ לֹא־דָֽרֶךְ׃",
+      "douay_rheims": "Contempt was poured forth upon their princes: and he caused them to wander where there was no passing, and out of the way.",
+      "finnish_biblia": "Koska ylönkatse päämiesten päälle vuodatettu oli, ja kaikki maa eksyksissä ja autiona oli. ",
       "king_james": "He poureth contempt upon princes, and causeth them to wander in the wilderness, where there is no way.",
       "refs": {
         "latin_vulgate": {
+          "src": "106:40"
+        },
+        "douay_rheims": {
           "src": "106:40"
         }
       }
@@ -449,9 +651,14 @@
       "verse": 41,
       "latin_vulgate": " Et adjuvit pauperem de inopia,  et posuit sicut oves familias. ",
       "hebrew_masoretic": "וַיְשַׂגֵּ֣ב אֶבְי֣וֹן מֵע֑וֹנִי וַיָּ֥שֶׂם כַּ֝צֹּ֗אן מִשְׁפָּחֽוֹת׃",
+      "douay_rheims": "And he helped the poor out of poverty: and made him families like a flock of sheep.",
+      "finnish_biblia": "Ja hän varjeli köyhää raadollisuudesta, ja enensi hänen sukunsa niinkuin lauman. ",
       "king_james": "Yet setteth he the poor on high from affliction, and maketh him families like a flock.",
       "refs": {
         "latin_vulgate": {
+          "src": "106:41"
+        },
+        "douay_rheims": {
           "src": "106:41"
         }
       }
@@ -460,9 +667,14 @@
       "verse": 42,
       "latin_vulgate": " Videbunt recti, et lætabuntur ;  et omnis iniquitas oppilabit os suum. ",
       "hebrew_masoretic": "יִרְא֣וּ יְשָׁרִ֣ים וְיִשְׂמָ֑חוּ וְכׇל־עַ֝וְלָ֗ה קָ֣פְצָה פִּֽיהָ׃",
+      "douay_rheims": "The just shall see, and shall rejoice, and all iniquity shall stop her mouth.",
+      "finnish_biblia": "Näitä vanhurskaat näkevät ja iloitsevat, ja jokainen paha suu pitää tukittaman. ",
       "king_james": "The righteous shall see it, and rejoice: and all iniquity shall stop her mouth.",
       "refs": {
         "latin_vulgate": {
+          "src": "106:42"
+        },
+        "douay_rheims": {
           "src": "106:42"
         }
       }
@@ -471,9 +683,14 @@
       "verse": 43,
       "latin_vulgate": " Quis sapiens, et custodiet hæc,  et intelliget misericordias Domini ?  ",
       "hebrew_masoretic": "מִי־חָכָ֥ם וְיִשְׁמׇר־אֵ֑לֶּה וְ֝יִתְבּוֹנְנ֗וּ חַֽסְדֵ֥י יְהֹוָֽה׃ {פ}",
+      "douay_rheims": "Who is wise, and will keep these things; and will understand the mercies of the Lord? ",
+      "finnish_biblia": "Kuka on taitava ja näitä kätkee, se ymmärtää Herran moninaisen laupiuden.   ",
       "king_james": "Whoso is wise, and will observe these things, even they shall understand the lovingkindness of the Lord. ",
       "refs": {
         "latin_vulgate": {
+          "src": "106:43"
+        },
+        "douay_rheims": {
           "src": "106:43"
         }
       }

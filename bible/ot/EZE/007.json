@@ -2,6 +2,8 @@
   "book_id": "EZE",
   "latin_name": "Ezechiel",
   "hebrew_name": "יְחֶזְקֵאל",
+  "douay_name": "Ezechiel",
+  "finnish_name": "Hesekiel",
   "english_name": "Ezekiel",
   "chapter": 7,
   "verses": [
@@ -9,162 +11,216 @@
       "verse": 1,
       "latin_vulgate": "Et factus est sermo Domini ad me, dicens : ",
       "hebrew_masoretic": "וַיְהִ֥י דְבַר־יְהֹוָ֖ה אֵלַ֥י לֵאמֹֽר׃",
+      "douay_rheims": "And the word of the Lord came to me, saying:",
+      "finnish_biblia": "Ja Herran sana tapahtui minulle ja sanoi: ",
       "king_james": "Moreover the word of the Lord came unto me, saying,"
     },
     {
       "verse": 2,
       "latin_vulgate": "Et tu, fili hominis, hæc dicit Dominus Deus terræ Israël :   Finis venit : venit finis super quatuor plagas terræ. ",
       "hebrew_masoretic": "וְאַתָּ֣ה בֶן־אָדָ֗ם כֹּֽה־אָמַ֞ר אֲדֹנָ֧י יֱהֹוִ֛ה לְאַדְמַ֥ת יִשְׂרָאֵ֖ל קֵ֑ץ בָּ֣א הַקֵּ֔ץ עַל־[אַרְבַּ֖ע] (ארבעת) כַּנְפ֥וֹת הָאָֽרֶץ׃",
+      "douay_rheims": "And thou son of man, thus saith the Lord God to the land of Israel: The end is come, the end is come upon the four quarters of the land.",
+      "finnish_biblia": "Sinä ihmisten lapsi, näin sanoo Herra, Herra, Israelin maasta: loppu tulee; koko neljän maan äären loppu tulee. ",
       "king_james": "Also, thou son of man, thus saith the Lord God unto the land of Israel; An end, the end is come upon the four corners of the land."
     },
     {
       "verse": 3,
       "latin_vulgate": " Nunc finis super te, et immittam furorem meum in te :  et judicabo te juxta vias tuas,  et ponam contra te omnes abominationes tuas. ",
       "hebrew_masoretic": "עַתָּה֙ הַקֵּ֣ץ עָלַ֔יִךְ וְשִׁלַּחְתִּ֤י אַפִּי֙ בָּ֔ךְ וּשְׁפַטְתִּ֖יךְ כִּדְרָכָ֑יִךְ וְנָתַתִּ֣י עָלַ֔יִךְ אֵ֖ת כׇּל־תּוֹעֲבוֹתָֽיִךְ׃",
+      "douay_rheims": "Now is an end come upon thee, and I will send my wrath upon thee, and I will judge thee according to thy ways: and I will set all thy abominations against thee.",
+      "finnish_biblia": "Nyt tulee sinun loppus; sillä minä tahdon lähettää minun hirmuisuuteni sinun päälles, ja tuomita sinua, niinkuin sinä ansainnut olet, ja antaa sinulle, mitä kaikkiin sinun kauhistuksiis tulee. ",
       "king_james": "Now is the end come upon thee, and I will send mine anger upon thee, and will judge thee according to thy ways, and will recompense upon thee all thine abominations."
     },
     {
       "verse": 4,
       "latin_vulgate": " Et non parcet oculus meus super te, et non miserebor :  sed vias tuas ponam super te, et abominationes tuæ in medio tui erunt,  et scietis quia ego Dominus. ",
       "hebrew_masoretic": "וְלֹא־תָח֥וֹס עֵינִ֛י עָלַ֖יִךְ וְלֹ֣א אֶחְמ֑וֹל כִּ֣י דְרָכַ֜יִךְ עָלַ֣יִךְ אֶתֵּ֗ן וְתוֹעֲבוֹתַ֙יִךְ֙ בְּתוֹכֵ֣ךְ תִּֽהְיֶ֔יןָ וִידַעְתֶּ֖ם כִּי־אֲנִ֥י יְהֹוָֽה׃ {פ}",
+      "douay_rheims": "And my eye shall not spare thee, and I will shew thee no pity: but I will lay thy ways upon thee, and thy abominations shall be in the midst of thee: and you shall know that I am the Lord.",
+      "finnish_biblia": "Minun silmäni ei pidä säästämän sinua, eikä armahtaman; mutta minä tahdon antaa sinulle, niinkuin sinä ansainnut olet, ja sinun kauhistukses pitää tuleman sinun sekaas, että teidän tietämän pitää, että minä olen Herra. ",
       "king_james": "And mine eye shall not spare thee, neither will I have pity: but I will recompense thy ways upon thee, and thine abominations shall be in the midst of thee: and ye shall know that I am the Lord."
     },
     {
       "verse": 5,
       "latin_vulgate": " Hæc dicit Dominus Deus :  Afflictio una, afflictio ecce venit. ",
       "hebrew_masoretic": "כֹּ֥ה אָמַ֖ר אֲדֹנָ֣י יֱהֹוִ֑ה רָעָ֛ה אַחַ֥ת רָעָ֖ה הִנֵּ֥ה בָאָֽה׃",
+      "douay_rheims": "Thus saith the Lord God: One affliction, behold an affliction is come.",
+      "finnish_biblia": "Näin sanoo Herra, Herra: katso, yksi onnettomuus tulee toisen jälkeen. ",
       "king_james": "Thus saith the Lord God; An evil, an only evil, behold, is come."
     },
     {
       "verse": 6,
       "latin_vulgate": " Finis venit, venit finis :  evigilavit adversum te, ecce venit. ",
       "hebrew_masoretic": "קֵ֣ץ בָּ֔א בָּ֥א הַקֵּ֖ץ הֵקִ֣יץ אֵלָ֑יִךְ הִנֵּ֖ה בָּאָֽה׃",
+      "douay_rheims": "An end is come, the end is come, it hath awaked against thee: behold it is come.",
+      "finnish_biblia": "Loppu tulee, loppu tulee; se valvoo sinua vastaan; katso, se tulee. ",
       "king_james": "An end is come, the end is come: it watcheth for thee; behold, it is come."
     },
     {
       "verse": 7,
       "latin_vulgate": " Venit contritio super te, qui habitas in terra :  venit tempus, prope est dies occisionis,  et non gloriæ montium. ",
       "hebrew_masoretic": "בָּ֧אָה הַצְּפִירָ֛ה אֵלֶ֖יךָ יוֹשֵׁ֣ב הָאָ֑רֶץ בָּ֣א הָעֵ֗ת קָר֛וֹב הַיּ֥וֹם מְהוּמָ֖ה וְלֹא־הֵ֥ד הָרִֽים׃",
+      "douay_rheims": "Destruction is come upon thee that dwellest in the land: the time is come, the day of slaughter is near, and not of the joy of mountains.",
+      "finnish_biblia": "Se käy jo ylös ja tulee niinkuin aamu sinun päälles, sinä joka maassa asut; aika tulee, tuskapäivä on juuri läsnä, ettei vuorilla pidä laulettaman. ",
       "king_james": "The morning is come unto thee, O thou that dwellest in the land: the time is come, the day of trouble is near, and not the sounding again of the mountains."
     },
     {
       "verse": 8,
       "latin_vulgate": " Nunc de propinquo effundam iram meam super te,  et complebo furorem meum in te :  et judicabo te juxta vias tuas,  et imponam tibi omnia scelera tua, ",
       "hebrew_masoretic": "עַתָּ֣ה מִקָּר֗וֹב אֶשְׁפּ֤וֹךְ חֲמָתִי֙ עָלַ֔יִךְ וְכִלֵּיתִ֤י אַפִּי֙ בָּ֔ךְ וּשְׁפַטְתִּ֖יךְ כִּדְרָכָ֑יִךְ וְנָתַתִּ֣י עָלַ֔יִךְ אֵ֖ת כׇּל־תּוֹעֲבוֹתָֽיִךְ׃",
+      "douay_rheims": "Now very shortly I will pour out my wrath upon thee, and I will accomplish my anger in thee: and I will judge thee according to thy ways, and I will lay upon thee all thy crimes.",
+      "finnish_biblia": "Nyt tahdon minä pian vuodattaa minun hirmuisuuteni sinun päälles, ja täyttää vihani sinussa ja tuomita sinun, niinkuin sinä ansainnut olet, ja antaa sinulle, mitä kaikkiin sinun kauhistuksiis tulee. ",
       "king_james": "Now will I shortly pour out my fury upon thee, and accomplish mine anger upon thee: and I will judge thee according to thy ways, and will recompense thee for all thine abominations."
     },
     {
       "verse": 9,
       "latin_vulgate": " et non parcet oculus meus,  nec miserebor :  sed vias tuas imponam tibi,  et abominationes tuæ in medio tui erunt,  et scietis quia ego sum Dominus percutiens. ",
       "hebrew_masoretic": "וְלֹא־תָח֥וֹס עֵינִ֖י וְלֹ֣א אֶחְמ֑וֹל כִּדְרָכַ֜יִךְ עָלַ֣יִךְ אֶתֵּ֗ן וְתוֹעֲבוֹתַ֙יִךְ֙ בְּתוֹכֵ֣ךְ תִּהְיֶ֔יןָ וִידַעְתֶּ֕ם כִּ֛י אֲנִ֥י יְהֹוָ֖ה מַכֶּֽה׃",
+      "douay_rheims": "And my eye shall not spare, neither will I shew mercy: but I will lay thy ways upon thee, and thy abominations shall be in the midst of thee: and you shall know that I am the Lord that strike.",
+      "finnish_biblia": "Minun silmäni ei pidä säästämän sinua eikä armahtaman; minä tahdon antaa sinulle, niinkuin sinä ansainnut olet, ja sinun kauhistukses pitää tuleman sinun sekaas, että teidän tietämän pitää, että minä olen Herra, joka teitä lyön. ",
       "king_james": "And mine eye shall not spare, neither will I have pity: I will recompense thee according to thy ways and thine abominations that are in the midst of thee; and ye shall know that I am the Lord that smiteth."
     },
     {
       "verse": 10,
       "latin_vulgate": " Ecce dies, ecce venit :  egressa est contritio,  floruit virga, germinavit superbia, ",
       "hebrew_masoretic": "הִנֵּ֥ה הַיּ֖וֹם הִנֵּ֣ה בָאָ֑ה יָֽצְאָה֙ הַצְּפִרָ֔ה צָ֚ץ הַמַּטֶּ֔ה פָּרַ֖ח הַזָּדֽוֹן׃",
+      "douay_rheims": "Behold the day, behold it is come: destruction is gone forth, the rod hath blossomed, pride hath budded.",
+      "finnish_biblia": "Katsos päivää, katso, se tulee; aamu tulee edes, vitsa kukoistaa, ja ylpiä viheriöitsee. ",
       "king_james": "Behold the day, behold, it is come: the morning is gone forth; the rod hath blossomed, pride hath budded."
     },
     {
       "verse": 11,
       "latin_vulgate": " iniquitas surrexit in virga impietatis :  non ex eis, et non ex populo,  neque ex sonitu eorum :  et non erit requies in eis. ",
       "hebrew_masoretic": "הֶחָמָ֥ס ׀ קָ֖ם לְמַטֵּה־רֶ֑שַׁע לֹא־מֵהֶ֞ם וְלֹ֧א מֵהֲמוֹנָ֛ם וְלֹ֥א מֶהֱמֵהֶ֖ם וְלֹא־נֹ֥הַּ בָּהֶֽם׃",
+      "douay_rheims": "Iniquity is risen up into a rod of impiety: nothing of them shall remain, nor of their people, nor of the noise of them: and there shall be no rest among them.",
+      "finnish_biblia": "Tyranni on itsensä valmistanut jumalattomain vitsaksi, niin ettei kenkään heitä eli heidän kansaansa taikka heidän joukkoansa pidä valittaman. ",
       "king_james": "Violence is risen up into a rod of wickedness: none of them shall remain, nor of their multitude, nor of any of theirs: neither shall there be wailing for them."
     },
     {
       "verse": 12,
       "latin_vulgate": " Venit tempus, appropinquavit dies :  qui emit, non lætetur,  et qui vendit, non lugeat :  quia ira super omnem populum ejus. ",
       "hebrew_masoretic": "בָּ֤א הָעֵת֙ הִגִּ֣יעַ הַיּ֔וֹם הַקּוֹנֶה֙ אַל־יִשְׂמָ֔ח וְהַמֹּכֵ֖ר אַל־יִתְאַבָּ֑ל כִּ֥י חָר֖וֹן אֶל־כׇּל־הֲמוֹנָֽהּ׃",
+      "douay_rheims": "The time is come, the day is at hand: let not the buyer rejoice: nor the seller mourn: for wrath is upon all the people thereof.",
+      "finnish_biblia": "Aika tulee, päivä lähestyy, ostaja älköön iloitko, ja myyjä älköön murehtiko; sillä viha tulee kaiken heidän joukkonsa päälle. ",
       "king_james": "The time is come, the day draweth near: let not the buyer rejoice, nor the seller mourn: for wrath is upon all the multitude thereof."
     },
     {
       "verse": 13,
       "latin_vulgate": " Quia qui vendit, ad id quod vendidit non revertetur :  et adhuc in viventibus vita eorum :  visio enim ad omnem multitudinem ejus non regredietur,  et vir in iniquitate vitæ suæ non confortabitur. ",
       "hebrew_masoretic": "כִּ֣י הַמֹּכֵ֗ר אֶל־הַמִּמְכָּר֙ לֹ֣א יָשׁ֔וּב וְע֥וֹד בַּחַיִּ֖ים חַיָּתָ֑ם כִּֽי־חָז֤וֹן אֶל־כׇּל־הֲמוֹנָהּ֙ לֹ֣א יָשׁ֔וּב וְאִ֧ישׁ בַּעֲוֺנ֛וֹ חַיָּת֖וֹ לֹ֥א יִתְחַזָּֽקוּ׃",
+      "douay_rheims": "For the seller shall not return to that which he hath sold, although their life be yet among the living. For the vision which regardeth all the multitude thereof, shall not go back: neither shall man be strengthened in the iniquity of his life.",
+      "finnish_biblia": "Sillä myyjän ei pidä enään myydyn kalunsa tykö palajaman, vaikka he vielä hengissäkin olisivat; sillä ennustus kaikesta heidän paljoudestansa ei pidä käymän takaperin, eikä kenkään taida vahvistaa elämäänsä pahuutensa kautta. ",
       "king_james": "For the seller shall not return to that which is sold, although they were yet alive: for the vision is touching the whole multitude thereof, which shall not return; neither shall any strengthen himself in the iniquity of his life."
     },
     {
       "verse": 14,
       "latin_vulgate": " Canite tuba, præparentur omnes :  et non est qui vadat ad prælium :  ira enim mea super universum populum ejus. ",
       "hebrew_masoretic": "תָּקְע֤וּ בַתָּק֙וֹעַ֙ וְהָכִ֣ין הַכֹּ֔ל וְאֵ֥ין הֹלֵ֖ךְ לַמִּלְחָמָ֑ה כִּ֥י חֲרוֹנִ֖י אֶל־כׇּל־הֲמוֹנָֽהּ׃",
+      "douay_rheims": "Blow the trumpet, let all be made ready, yet there is none to go to the battle: for my wrath shall be upon all the people thereof.",
+      "finnish_biblia": "Soittakaat vaskitorveen, ja valmistakaat kaikki; ei kuitenkaan yksikään sotaan ole lähtevä; sillä minun vihani tulee kaiken hänen kansansa päälle. ",
       "king_james": "They have blown the trumpet, even to make all ready; but none goeth to the battle: for my wrath is upon all the multitude thereof."
     },
     {
       "verse": 15,
       "latin_vulgate": " Gladium foris, et pestis et fames intrinsecus :  qui in agro est, gladio morietur,  et qui in civitate, pestilentia et fame devorabuntur. ",
       "hebrew_masoretic": "הַחֶ֣רֶב בַּח֔וּץ וְהַדֶּ֥בֶר וְהָרָעָ֖ב מִבָּ֑יִת אֲשֶׁ֤ר בַּשָּׂדֶה֙ בַּחֶ֣רֶב יָמ֔וּת וַאֲשֶׁ֣ר בָּעִ֔יר רָעָ֥ב וָדֶ֖בֶר יֹאכְלֶֽנּוּ׃",
+      "douay_rheims": "The sword without: and the pestilence, and the famine within: he that is in the field shall die by the sword: and they that are in the city, shall be devoured by the pestilence, and the famine.",
+      "finnish_biblia": "Ulkona liikkuu miekka, sisällä rutto ja nälkä; se joka kedolla on, hänen pitää miekalla lankeeman, mutta se joka kaupungissa on, hänen pitää ruttoon ja nälkään vaipuman. ",
       "king_james": "The sword is without, and the pestilence and the famine within: he that is in the field shall die with the sword; and he that is in the city, famine and pestilence shall devour him."
     },
     {
       "verse": 16,
       "latin_vulgate": " Et salvabuntur qui fugerint ex eis :  et erunt in montibus quasi columbæ convallium omnes trepidi,  unusquisque in iniquitate sua. ",
       "hebrew_masoretic": "וּפָֽלְטוּ֙ פְּלִ֣יטֵיהֶ֔ם וְהָי֣וּ אֶל־הֶהָרִ֗ים כְּיוֹנֵ֧י הַגֵּאָי֛וֹת כֻּלָּ֖ם הֹמ֑וֹת אִ֖ישׁ בַּעֲוֺנֽוֹ׃",
+      "douay_rheims": "And such of them as shall flee shall escape: and they shall be in the mountains like doves of the valleys, all of them trembling, every one for his iniquity.",
+      "finnish_biblia": "Ja jotka heiltä pääsevät pakoon, pitää oleman vuorilla niinkuin kyhkyiset laaksoissa, ja kaikkein pitää valittaman, kukin pahuuttansa. ",
       "king_james": "But they that escape of them shall escape, and shall be on the mountains like doves of the valleys, all of them mourning, every one for his iniquity."
     },
     {
       "verse": 17,
       "latin_vulgate": " Omnes manus dissolventur,  et omnia genua fluent aquis. ",
       "hebrew_masoretic": "כׇּל־הַיָּדַ֖יִם תִּרְפֶּ֑ינָה וְכׇל־בִּרְכַּ֖יִם תֵּלַ֥כְנָה מָּֽיִם׃",
+      "douay_rheims": "All hands shall be made feeble, and all knees shall run with water.",
+      "finnish_biblia": "Kaikki kädet pitää nääntymän, ja kaikki polvet horjuman niinkuin vesi. ",
       "king_james": "All hands shall be feeble, and all knees shall be weak as water."
     },
     {
       "verse": 18,
       "latin_vulgate": " Et accingent se ciliciis,  et operiet eos formido :  et in omni facie confusio,  et in universis capitibus eorum calvitium. ",
       "hebrew_masoretic": "וְחָגְר֣וּ שַׂקִּ֔ים וְכִסְּתָ֥ה אוֹתָ֖ם פַּלָּצ֑וּת וְאֶ֤ל כׇּל־פָּנִים֙ בּוּשָׁ֔ה וּבְכׇל־רָאשֵׁיהֶ֖ם קׇרְחָֽה׃",
+      "douay_rheims": "And they shall gird themselves with haircloth, and fear shall cover them and shame shall be upon every face, and baldness upon all their heads.",
+      "finnish_biblia": "Ja heidän pitää itsensä säkkiin puettaman, ja pelko pitää heidät peittämän, ja kaikki kasvot surkiasti katsoman, ja kaikki päät paljaaksi tuleman. ",
       "king_james": "They shall also gird themselves with sackcloth, and horror shall cover them; and shame shall be upon all faces, and baldness upon all their heads."
     },
     {
       "verse": 19,
       "latin_vulgate": " Argentum eorum foras projicietur,  et aurum eorum in sterquilinium erit :  argentum eorum et aurum eorum  non valebit liberare eos in die furoris Domini :  animam suam non saturabunt,  et ventres eorum non implebuntur,  quia scandalum iniquitatis eorum factum est. ",
       "hebrew_masoretic": "כַּסְפָּ֞ם בַּחוּצ֣וֹת יַשְׁלִ֗יכוּ וּזְהָבָם֮ לְנִדָּ֣ה יִֽהְיֶה֒ כַּסְפָּ֨ם וּזְהָבָ֜ם לֹא־יוּכַ֣ל לְהַצִּילָ֗ם בְּיוֹם֙ עֶבְרַ֣ת יְהֹוָ֔ה נַפְשָׁם֙ לֹ֣א יְשַׂבֵּ֔עוּ וּמֵעֵיהֶ֖ם לֹ֣א יְמַלֵּ֑אוּ כִּֽי־מִכְשׁ֥וֹל עֲוֺנָ֖ם הָיָֽה׃",
+      "douay_rheims": "Their silver shall be cast forth, and their gold shall become a dunghill. Their silver and their gold shall not be able to deliver them in the day of the wrath of the Lord. They shall not satisfy their soul, and their bellies shall not be filled: because it hath been the stumblingblock of their iniquity.",
+      "finnish_biblia": "Heidän pitää hopiansa heittämän kaduille, ja heidän kultansa kauvas joutuman; sillä heidän hopiansa ja kultansa ei pidä taitaman auttaa heitä Herran vihan päivänä; ja ei taitaman sieluansa ravita, eikä vatsaansa täyttää; sillä se on ollut heille pahennus, heidän pahoihin töihinsä. ",
       "king_james": "They shall cast their silver in the streets, and their gold shall be removed: their silver and their gold shall not be able to deliver them in the day of the wrath of the Lord: they shall not satisfy their souls, neither fill their bowels: because it is the stumblingblock of their iniquity."
     },
     {
       "verse": 20,
       "latin_vulgate": " Et ornamentum monilium suorum in superbiam posuerunt,  et imagines abominationum suarum et simulacrorum fecerunt ex eo :  propter hoc dedi eis illud in immunditiam. ",
       "hebrew_masoretic": "וּצְבִ֤י עֶדְיוֹ֙ לְגָא֣וֹן שָׂמָ֔הוּ וְצַלְמֵ֧י תוֹעֲבֹתָ֛ם שִׁקּוּצֵיהֶ֖ם עָ֣שׂוּ ב֑וֹ עַל־כֵּ֛ן נְתַתִּ֥יו לָהֶ֖ם לְנִדָּֽה׃",
+      "douay_rheims": "And they have turned the ornament of their jewels into pride, and have made of it the images of their abominations, and idols: therefore I have made it an uncleanness to them.",
+      "finnish_biblia": "Kalliista kaluistansa, joilla he ylpeilivät, ovat he kauhistustensa ja epäjumalainsa kuvat tehneet; sentähden tahdon minä tehdä heille sen saastaisuudeksi, ",
       "king_james": "As for the beauty of his ornament, he set it in majesty: but they made the images of their abominations and of their detestable things therein: therefore have I set it far from them."
     },
     {
       "verse": 21,
       "latin_vulgate": " Et dabo illud in manus alienorum ad diripiendum,  et impiis terræ in prædam,  et contaminabunt illud. ",
       "hebrew_masoretic": "וּנְתַתִּ֤יו בְּיַֽד־הַזָּרִים֙ לָבַ֔ז וּלְרִשְׁעֵ֥י הָאָ֖רֶץ לְשָׁלָ֑ל (וחללוה) [וְחִלְּלֽוּהוּ]׃",
+      "douay_rheims": "And I will give it into the hands of strangers for spoil, and to the wicked of the earth for a prey, and they shall defile it.",
+      "finnish_biblia": "Ja antaa sen muukalaisten käsiin, että ne sen ryöväämän pitää, ja jumalattomille maan päällä saaliiksi, että ne sen saastuttavat. ",
       "king_james": "And I will give it into the hands of the strangers for a prey, and to the wicked of the earth for a spoil; and they shall pollute it."
     },
     {
       "verse": 22,
       "latin_vulgate": " Et avertam faciem meam ab eis,  et violabunt arcanum meum :  et introibunt in illud emissarii,  et contaminabunt illud. ",
       "hebrew_masoretic": "וַהֲסִבּוֹתִ֤י פָנַי֙ מֵהֶ֔ם וְחִלְּל֖וּ אֶת־צְפוּנִ֑י וּבָאוּ־בָ֥הּ פָּרִיצִ֖ים וְחִלְּלֽוּהָ׃ {פ}",
+      "douay_rheims": "And I will turn away my face from them, and they shall violate my secret place: and robbers shall enter into it, and defile it.",
+      "finnish_biblia": "Minä tahdon minun kasvoni kääntää sieltä pois, että he juuri minun majani turmelevat; ja ryövärit pitää tuleman sinne, ja sen saastuttaman. ",
       "king_james": "My face will I turn also from them, and they shall pollute my secret place: for the robbers shall enter into it, and defile it."
     },
     {
       "verse": 23,
       "latin_vulgate": " Fac conclusionem,  quoniam terra plena est judicio sanguinum,  et civitas plena iniquitate. ",
       "hebrew_masoretic": "עֲשֵׂ֖ה הָרַתּ֑וֹק כִּ֣י הָאָ֗רֶץ מָֽלְאָה֙ מִשְׁפַּ֣ט דָּמִ֔ים וְהָעִ֖יר מָלְאָ֥ה חָמָֽס׃",
+      "douay_rheims": "Make a shutting up: for the land is full of the judgment of blood, and the city is full of iniquity.",
+      "finnish_biblia": "Tee kahleet; sillä maa on täynnä veren vikoja, ja kaupunki täysi väkivaltaa. ",
       "king_james": "Make a chain: for the land is full of bloody crimes, and the city is full of violence."
     },
     {
       "verse": 24,
       "latin_vulgate": " Et adducam pessimos de gentibus,  et possidebunt domos eorum :  et quiescere faciam superbiam potentium,  et possidebunt sanctuaria eorum. ",
       "hebrew_masoretic": "וְהֵֽבֵאתִי֙ רָעֵ֣י גוֹיִ֔ם וְיָרְשׁ֖וּ אֶת־בָּתֵּיהֶ֑ם וְהִשְׁבַּתִּי֙ גְּא֣וֹן עַזִּ֔ים וְנִחֲל֖וּ מְקַֽדְשֵׁיהֶֽם׃",
+      "douay_rheims": "And I will bring the worst of the nations, and they shall possess their houses: and I will make the pride of the mighty to cease, and they shall possess their sanctuary.",
+      "finnish_biblia": "Niin tahdon minä antaa tulla kaikkein pahimmat pakanain seasta, että ne pitää heidän huoneensa omistaman, ja tahdon lopettaa voimallisten ylpeyden, ja heidän pyhänsä pitää saastutetuksi tuleman. ",
       "king_james": "Wherefore I will bring the worst of the heathen, and they shall possess their houses: I will also make the pomp of the strong to cease; and their holy places shall be defiled."
     },
     {
       "verse": 25,
       "latin_vulgate": " Angustia superveniente, requirent pacem,  et non erit. ",
       "hebrew_masoretic": "קְפָ֖דָה־בָ֑א וּבִקְשׁ֥וּ שָׁל֖וֹם וָאָֽיִן׃",
+      "douay_rheims": "When distress cometh upon them, they will seek for peace and there shall be none.",
+      "finnish_biblia": "Hävittäjä tulee; niin pitää heidän rauhaa etsimän, ja ei se pidä oleman heillä. ",
       "king_james": "Destruction cometh; and they shall seek peace, and there shall be none."
     },
     {
       "verse": 26,
       "latin_vulgate": " Conturbatio super conturbationem veniet,  et auditus super auditum :  et quærent visionem de propheta,  et lex peribit a sacerdote,  et consilium a senioribus. ",
       "hebrew_masoretic": "הֹוָ֤ה עַל־הֹוָה֙ תָּב֔וֹא וּשְׁמֻעָ֥ה אֶל־שְׁמוּעָ֖ה תִּֽהְיֶ֑ה וּבִקְשׁ֤וּ חָזוֹן֙ מִנָּבִ֔יא וְתוֹרָה֙ תֹּאבַ֣ד מִכֹּהֵ֔ן וְעֵצָ֖ה מִזְּקֵנִֽים׃",
+      "douay_rheims": "Trouble shall come upon trouble, and rumour upon rumour, and they shall seek a vision of the prophet, and the law shall perish from the priest, and counsel from the ancients.",
+      "finnish_biblia": "Yksi onnettomuus pitää tuleman toisen jälkeen, yksi sanoma toisen päälle, niin pitää heidän prophetailta näkyä etsimän; mutta siellä ei laki enään ole pappien tykönä, eikä neuvo vanhain tykönä. ",
       "king_james": "Mischief shall come upon mischief, and rumour shall be upon rumour; then shall they seek a vision of the prophet; but the law shall perish from the priest, and counsel from the ancients."
     },
     {
       "verse": 27,
       "latin_vulgate": " Rex lugebit, et princeps induetur mœrore,  et manus populi terræ conturbabuntur :  secundum viam eorum faciam eis,  et secundum judicia eorum judicabo eos,  et scient quia ego Dominus.  ",
       "hebrew_masoretic": "הַמֶּ֣לֶךְ יִתְאַבָּ֗ל וְנָשִׂיא֙ יִלְבַּ֣שׁ שְׁמָמָ֔ה וִידֵ֥י עַם־הָאָ֖רֶץ תִּבָּהַ֑לְנָה מִדַּרְכָּ֞ם אֶעֱשֶׂ֤ה אֹתָם֙ וּבְמִשְׁפְּטֵיהֶ֣ם אֶשְׁפְּטֵ֔ם וְיָדְע֖וּ כִּֽי־אֲנִ֥י יְהֹוָֽה׃ {פ}",
+      "douay_rheims": "The king shall mourn, and the prince shall be clothed with sorrow, and the hands of the people of the land shall be troubled. I will do to them according to their way, and will judge them according to their judgments: and they shall know that I am the Lord. ",
+      "finnish_biblia": "Kuninkaan pitää murheessa oleman ja päämiehet surullisissa vaatteissa, ja maassa kansan kädet vapiseman. Minä tahdon niin laittaa itseni heidän kanssansa, kuin he eläneet ovat, ja tuomita heitä, niinkuin he ansainneet ovat: ja heidän pitää tietämän, että minä olen Herra.   ",
       "king_james": "The king shall mourn, and the prince shall be clothed with desolation, and the hands of the people of the land shall be troubled: I will do unto them after their way, and according to their deserts will I judge them; and they shall know that I am the Lord. "
     }
   ]

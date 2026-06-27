@@ -2,6 +2,8 @@
   "book_id": "PRO",
   "latin_name": "Liber Proverbiorum",
   "hebrew_name": "מִשְׁלֵי",
+  "douay_name": "Proverbs",
+  "finnish_name": "Sananlaskut",
   "english_name": "Proverbs",
   "chapter": 11,
   "verses": [
@@ -9,186 +11,248 @@
       "verse": 1,
       "latin_vulgate": "Statera dolosa abominatio est apud Dominum,  et pondus æquum voluntas ejus. ",
       "hebrew_masoretic": "מֹאזְנֵ֣י מִ֭רְמָה תּוֹעֲבַ֣ת יְהֹוָ֑ה וְאֶ֖בֶן שְׁלֵמָ֣ה רְצוֹנֽוֹ׃",
+      "douay_rheims": "A deceitful balance is an abomination before the Lord: and a just weight is his will.",
+      "finnish_biblia": "Väärä vaaka on Herralle kauhistus, mutta oikia puntari on hänelle otollinen. ",
       "king_james": "A false balance is abomination to the Lord: but a just weight is his delight."
     },
     {
       "verse": 2,
       "latin_vulgate": " Ubi fuerit superbia, ibi erit et contumelia ;  ubi autem est humilitas, ibi et sapientia. ",
       "hebrew_masoretic": "בָּֽא־זָ֭דוֹן וַיָּבֹ֣א קָל֑וֹן וְֽאֶת־צְנוּעִ֥ים חׇכְמָֽה׃",
+      "douay_rheims": "Where pride is, there also shall be reproach: but where humility is, there also is wisdom.",
+      "finnish_biblia": "Kussa ylpeys on, siinä on myös ylönkatse; mutta viisaus on nöyräin tykönä. ",
       "king_james": "When pride cometh, then cometh shame: but with the lowly is wisdom."
     },
     {
       "verse": 3,
       "latin_vulgate": " Simplicitas justorum diriget eos,  et supplantatio perversorum vastabit illos. ",
       "hebrew_masoretic": "תֻּמַּ֣ת יְשָׁרִ֣ים תַּנְחֵ֑ם וְסֶ֖לֶף בֹּגְדִ֣ים (ושדם) [יְשׇׁדֵּֽם]׃",
+      "douay_rheims": "The simplicity of the just shall guide them: and the deceitfulness of the wicked shall destroy them.",
+      "finnish_biblia": "Viattomuus johdattaa siviät, vaan pahuus kukistaa pilkkaajat. ",
       "king_james": "The integrity of the upright shall guide them: but the perverseness of transgressors shall destroy them."
     },
     {
       "verse": 4,
       "latin_vulgate": " Non proderunt divitiæ in die ultionis ;  justitia autem liberabit a morte. ",
       "hebrew_masoretic": "לֹא־יוֹעִ֣יל ה֭וֹן בְּי֣וֹם עֶבְרָ֑ה וּ֝צְדָקָ֗ה תַּצִּ֥יל מִמָּֽוֶת׃",
+      "douay_rheims": "Riches shall not profit in the day of revenge: but justice shall deliver from death.",
+      "finnish_biblia": "Ei rakkaus auta vihan päivänä, mutta vanhurskaus vapahtaa kuolemasta. ",
       "king_james": "Riches profit not in the day of wrath: but righteousness delivereth from death."
     },
     {
       "verse": 5,
       "latin_vulgate": " Justitia simplicis diriget viam ejus,  et in impietate sua corruet impius. ",
       "hebrew_masoretic": "צִדְקַ֣ת תָּ֭מִים תְּיַשֵּׁ֣ר דַּרְכּ֑וֹ וּ֝בְרִשְׁעָת֗וֹ יִפֹּ֥ל רָשָֽׁע׃",
+      "douay_rheims": "The justice of the upright shall make his way prosperous: and the wicked man shall fall by his own wickedness.",
+      "finnish_biblia": "Viattoman vanhurskaus tekee hänen tiensä tasaiseksi, mutta jumalatoin lankee jumalattomassa menossansa. ",
       "king_james": "The righteousness of the perfect shall direct his way: but the wicked shall fall by his own wickedness."
     },
     {
       "verse": 6,
       "latin_vulgate": " Justitia rectorum liberabit eos,  et in insidiis suis capientur iniqui. ",
       "hebrew_masoretic": "צִדְקַ֣ת יְ֭שָׁרִים תַּצִּילֵ֑ם וּ֝בְהַוַּ֗ת בֹּגְדִ֥ים יִלָּכֵֽדוּ׃",
+      "douay_rheims": "The justice of the righteous shall deliver them: and the unjust shall be caught in their own snares.",
+      "finnish_biblia": "Jumalisten vanhurskaus pelastaa heitä, vaan väärintekiät käsitetään viekkaudessansa. ",
       "king_james": "The righteousness of the upright shall deliver them: but transgressors shall be taken in their own naughtiness."
     },
     {
       "verse": 7,
       "latin_vulgate": " Mortuo homine impio, nulla erit ultra spes,  et exspectatio sollicitorum peribit. ",
       "hebrew_masoretic": "בְּמ֤וֹת אָדָ֣ם רָ֭שָׁע תֹּאבַ֣ד תִּקְוָ֑ה וְתוֹחֶ֖לֶת אוֹנִ֣ים אָבָֽדָה׃",
+      "douay_rheims": "When the wicked man is dead, there shall be no hope any more: and the expectation of the solicitous shall perish.",
+      "finnish_biblia": "Kuin jumalatoin ihminen kuolee, niin ei ole yhtään toivoa: ja jota väärintekiät odottavat, se tulee tyhjäksi. ",
       "king_james": "When a wicked man dieth, his expectation shall perish: and the hope of unjust men perisheth."
     },
     {
       "verse": 8,
       "latin_vulgate": " Justus de angustia liberatus est,  et tradetur impius pro eo. ",
       "hebrew_masoretic": "צַ֭דִּיק מִצָּרָ֣ה נֶחֱלָ֑ץ וַיָּבֹ֖א רָשָׁ֣ע תַּחְתָּֽיו׃",
+      "douay_rheims": "The just is delivered out of distress: and the wicked shall be given up for him.",
+      "finnish_biblia": "Vanhurskas vapahdetaan vaivasta, ja jumalatoin tuleehänen siaansa. ",
       "king_james": "The righteous is delivered out of trouble, and the wicked cometh in his stead."
     },
     {
       "verse": 9,
       "latin_vulgate": " Simulator ore decipit amicum suum ;  justi autem liberabuntur scientia. ",
       "hebrew_masoretic": "בְּפֶ֗ה חָ֭נֵף יַשְׁחִ֣ת רֵעֵ֑הוּ וּ֝בְדַ֗עַת צַדִּיקִ֥ים יֵחָלֵֽצוּ׃",
+      "douay_rheims": "The dissembler with his mouth deceiveth his friend: but the just shall be delivered by knowledge.",
+      "finnish_biblia": "Ulkokullatun ihmisen suun kautta petetään hänen lähimmäisensä; vaan vanhurskaat ymmärtävät sen, ja pelastetaan. ",
       "king_james": "An hypocrite with his mouth destroyeth his neighbour: but through knowledge shall the just be delivered."
     },
     {
       "verse": 10,
       "latin_vulgate": " In bonis justorum exsultabit civitas,  et in perditione impiorum erit laudatio. ",
       "hebrew_masoretic": "בְּט֣וּב צַ֭דִּיקִים תַּעֲלֹ֣ץ קִרְיָ֑ה וּבַאֲבֹ֖ד רְשָׁעִ֣ים רִנָּֽה׃",
+      "douay_rheims": "When it goeth well with the just, the city shall rejoice: and when the wicked perish, there shall be praise.",
+      "finnish_biblia": "Kaupunki iloitsee, koska vanhurskaan hyvin käy, ja riemuitsee, koska jumalatoin hukkuu. ",
       "king_james": "When it goeth well with the righteous, the city rejoiceth: and when the wicked perish, there is shouting."
     },
     {
       "verse": 11,
       "latin_vulgate": " Benedictione justorum exaltabitur civitas,  et ore impiorum subvertetur. ",
       "hebrew_masoretic": "בְּבִרְכַּ֣ת יְ֭שָׁרִים תָּר֣וּם קָ֑רֶת וּבְפִ֥י רְ֝שָׁעִ֗ים תֵּהָרֵֽס׃",
+      "douay_rheims": "By the blessing of the just the city shall be exalted: and by the mouth of the wicked it shall be overthrown.",
+      "finnish_biblia": "Vanhurskasten siunauksen kautta kaupunki korotetaan, vaan jumalattoman suun kautta kukistetaan. ",
       "king_james": "By the blessing of the upright the city is exalted: but it is overthrown by the mouth of the wicked."
     },
     {
       "verse": 12,
       "latin_vulgate": " Qui despicit amicum suum indigens corde est ;  vir autem prudens tacebit. ",
       "hebrew_masoretic": "בׇּז־לְרֵעֵ֥הוּ חֲסַר־לֵ֑ב וְאִ֖ישׁ תְּבוּנ֣וֹת יַחֲרִֽישׁ׃",
+      "douay_rheims": "He that despiseth his friend, is mean of heart: but the wise man will hold his peace.",
+      "finnish_biblia": "Joka lähimmäistänsä häpäisee, se on hullu, mutta toimellinen mies on vaiti. ",
       "king_james": "He that is void of wisdom despiseth his neighbour: but a man of understanding holdeth his peace."
     },
     {
       "verse": 13,
       "latin_vulgate": " Qui ambulat fraudulenter, revelat arcana ;  qui autem fidelis est animi, celat amici commissum. ",
       "hebrew_masoretic": "הוֹלֵ֣ךְ רָ֭כִיל מְגַלֶּה־סּ֑וֹד וְנֶאֱמַן־ר֝֗וּחַ מְכַסֶּ֥ה דָבָֽר׃",
+      "douay_rheims": "He that walketh deceitfully, revealeth secrets: but he that is faithful, concealeth the thing committed to him by his friend.",
+      "finnish_biblia": "Panettelia ilmoittaa salaisuuden, vaan jolla on uskollinen sydän, hän salaa sen. ",
       "king_james": "A talebearer revealeth secrets: but he that is of a faithful spirit concealeth the matter."
     },
     {
       "verse": 14,
       "latin_vulgate": " Ubi non est gubernator, populus corruet ;  salus autem, ubi multa consilia. ",
       "hebrew_masoretic": "בְּאֵ֣ין תַּ֭חְבֻּלוֹת יִפׇּל־עָ֑ם וּ֝תְשׁוּעָ֗ה בְּרֹ֣ב יוֹעֵֽץ׃",
+      "douay_rheims": "Where there is no governor, the people shall fall: but there is safety where there is much counsel.",
+      "finnish_biblia": "Jossa ei neuvoa ole, siinä kansa hukkuu; vaan jossa monta neuvonantajaa on, siinä hyvin käy. ",
       "king_james": "Where no counsel is, the people fall: but in the multitude of counsellors there is safety."
     },
     {
       "verse": 15,
       "latin_vulgate": " Affligetur malo qui fidem facit pro extraneo ;  qui autem cavet laqueos securus erit. ",
       "hebrew_masoretic": "רַע־יֵ֭רוֹעַ כִּי־עָ֣רַב זָ֑ר וְשֹׂנֵ֖א תֹקְעִ֣ים בּוֹטֵֽחַ׃",
+      "douay_rheims": "He shall be afflicted with evil, that is surety for a stranger: but he that is aware of snares, shall be secure.",
+      "finnish_biblia": "Joka toisen takaa, hän tulee vahinkoon; vaan joka siitä itsensä pitää pois, hän on murheetoin. ",
       "king_james": "He that is surety for a stranger shall smart for it: and he that hateth suretiship is sure."
     },
     {
       "verse": 16,
       "latin_vulgate": " Mulier gratiosa inveniet gloriam,  et robusti habebunt divitias. ",
       "hebrew_masoretic": "אֵֽשֶׁת־חֵ֭ן תִּתְמֹ֣ךְ כָּב֑וֹד וְ֝עָרִיצִ֗ים יִתְמְכוּ־עֹֽשֶׁר׃",
+      "douay_rheims": "A gracious woman shall find glory: and the strong shall have riches.",
+      "finnish_biblia": "Vaimo, joka otollinen on, pitää kunnian; vaan väkevät pitävät rikkauden. ",
       "king_james": "A gracious woman retaineth honour: and strong men retain riches."
     },
     {
       "verse": 17,
       "latin_vulgate": " Benefacit animæ suæ vir misericors ;  qui autem crudelis est, etiam propinquos abjicit. ",
       "hebrew_masoretic": "גֹּמֵ֣ל נַ֭פְשׁוֹ אִ֣ישׁ חָ֑סֶד וְעֹכֵ֥ר שְׁ֝אֵר֗וֹ אַכְזָרִֽי׃",
+      "douay_rheims": "A merciful man doth good to his own soul: but he that is cruel casteth off even his own kindred.",
+      "finnish_biblia": "Armias mies tekee ruumiillensa hyvää; vaan se, joka julma on, saattaa lihansa murheelliseksi. ",
       "king_james": "The merciful man doeth good to his own soul: but he that is cruel troubleth his own flesh."
     },
     {
       "verse": 18,
       "latin_vulgate": " Impius facit opus instabile,  seminanti autem justitiam merces fidelis. ",
       "hebrew_masoretic": "רָשָׁ֗ע עֹשֶׂ֥ה פְעֻלַּת־שָׁ֑קֶר וְזֹרֵ֥עַ צְ֝דָקָ֗ה שֶׂ֣כֶר אֱמֶֽת׃",
+      "douay_rheims": "The wicked maketh an unsteady work: but to him that soweth justice, there is a faithful reward.",
+      "finnish_biblia": "Jumalattoman työ on turha, vaan joka vanhurskautta kylvää, sillä on hyvä palkka. ",
       "king_james": "The wicked worketh a deceitful work: but to him that soweth righteousness shall be a sure reward."
     },
     {
       "verse": 19,
       "latin_vulgate": " Clementia præparat vitam,  et sectatio malorum mortem. ",
       "hebrew_masoretic": "כֵּן־צְדָקָ֥ה לְחַיִּ֑ים וּמְרַדֵּ֖ף רָעָ֣ה לְמוֹתֽוֹ׃",
+      "douay_rheims": "Clemency prepareth life: and the pursuing of evil things, death.",
+      "finnish_biblia": "Sillä vanhurskaus saattaa elämän, vaan joka pahaa pyytää, hän saattaa kuoleman. ",
       "king_james": "As righteousness tendeth to life: so he that pursueth evil pursueth it to his own death."
     },
     {
       "verse": 20,
       "latin_vulgate": " Abominabile Domino cor pravum,  et voluntas ejus in iis qui simpliciter ambulant. ",
       "hebrew_masoretic": "תּוֹעֲבַ֣ת יְ֭הֹוָה עִקְּשֵׁי־לֵ֑ב וּ֝רְצוֹנ֗וֹ תְּמִ֣ימֵי דָֽרֶךְ׃",
+      "douay_rheims": "A perverse heart is abominable to the Lord: and his will is in them that walk sincerely.",
+      "finnish_biblia": "Petollinen sydän on kauhistus Herralle, Vaan viattoman tie on hänelle otollinen. ",
       "king_james": "They that are of a froward heart are abomination to the Lord: but such as are upright in their way are his delight."
     },
     {
       "verse": 21,
       "latin_vulgate": " Manus in manu non erit innocens malus ;  semen autem justorum salvabitur. ",
       "hebrew_masoretic": "יָ֣ד לְ֭יָד לֹא־יִנָּ֣קֶה רָּ֑ע וְזֶ֖רַע צַדִּיקִ֣ים נִמְלָֽט׃",
+      "douay_rheims": "Hand in hand the evil man shall not be innocent: but the seed of the just shall be saved.",
+      "finnish_biblia": "Ei jumalattoimia auta, vaikka kaikki kätensä yhteen pistäisivät, mutta vanhurskaan siemen pelastetaan. ",
       "king_james": "Though hand join in hand, the wicked shall not be unpunished: but the seed of the righteous shall be delivered."
     },
     {
       "verse": 22,
       "latin_vulgate": " Circulus aureus in naribus suis,  mulier pulchra et fatua. ",
       "hebrew_masoretic": "נֶ֣זֶם זָ֭הָב בְּאַ֣ף חֲזִ֑יר אִשָּׁ֥ה יָ֝פָ֗ה וְסָ֣רַת טָֽעַם׃",
+      "douay_rheims": "A golden ring in a swine's snout, a woman fair and foolish.",
+      "finnish_biblia": "Kaunis vaimo ilman taidota on niinkuin sika, jolla olis kultainen käädy kuonossa. ",
       "king_james": "As a jewel of gold in a swine’s snout, so is a fair woman which is without discretion."
     },
     {
       "verse": 23,
       "latin_vulgate": " Desiderium justorum omne bonum est ;  præstolatio impiorum furor. ",
       "hebrew_masoretic": "תַּאֲוַ֣ת צַדִּיקִ֣ים אַךְ־ט֑וֹב תִּקְוַ֖ת רְשָׁעִ֣ים עֶבְרָֽה׃",
+      "douay_rheims": "The desire of the just is all good, the expectation of the wicked is indignation.",
+      "finnish_biblia": "Vanhurskasten himo on ainoastaan hyvä, vaan jumalattomain odotus on kiukku. ",
       "king_james": "The desire of the righteous is only good: but the expectation of the wicked is wrath."
     },
     {
       "verse": 24,
       "latin_vulgate": " Alii dividunt propria, et ditiores fiunt ;  alii rapiunt non sua, et semper in egestate sunt. ",
       "hebrew_masoretic": "יֵ֣שׁ מְ֭פַזֵּר וְנוֹסָ֥ף ע֑וֹד וְחֹשֵׂ֥ךְ מִ֝יֹּ֗שֶׁר אַךְ־לְמַחְסֽוֹר׃",
+      "douay_rheims": "Some distribute their own goods, and grow richer: others take away what is not their own, and are always in want.",
+      "finnish_biblia": "Muutama jakaa omastansa, ja saa enemmän; toinen säästää, jossa ei pitäisi, ja tulee köyhemmäksi. ",
       "king_james": "There is that scattereth, and yet increaseth; and there is that withholdeth more than is meet, but it tendeth to poverty."
     },
     {
       "verse": 25,
       "latin_vulgate": " Anima quæ benedicit impinguabitur,  et qui inebriat, ipse quoque inebriabitur. ",
       "hebrew_masoretic": "נֶֽפֶשׁ־בְּרָכָ֥ה תְדֻשָּׁ֑ן וּ֝מַרְוֶ֗ה גַּם־ה֥וּא יוֹרֶֽא׃",
+      "douay_rheims": "The soul that blesseth, shall be made fat: and he that inebriateth, shall be inebriated also himself.",
+      "finnish_biblia": "Sielu, joka siunaa, tulee rikkaaksi: ja joka juottaa, se myös juotetaan. ",
       "king_james": "The liberal soul shall be made fat: and he that watereth shall be watered also himself."
     },
     {
       "verse": 26,
       "latin_vulgate": " Qui abscondit frumenta maledicetur in populis ;  benedictio autem super caput vendentium. ",
       "hebrew_masoretic": "מֹ֣נֵֽעַ בָּ֭ר יִקְּבֻ֣הוּ לְא֑וֹם וּ֝בְרָכָ֗ה לְרֹ֣אשׁ מַשְׁבִּֽיר׃",
+      "douay_rheims": "He that hideth up corn, shall be cursed among the people: but a blessing upon the head of them that sell.",
+      "finnish_biblia": "Joka jyvät salaa, häntä kansa kiroilee; mutta joka myy, hänelle tulee siunaus. ",
       "king_james": "He that withholdeth corn, the people shall curse him: but blessing shall be upon the head of him that selleth it."
     },
     {
       "verse": 27,
       "latin_vulgate": " Bene consurgit diluculo qui quærit bona ;  qui autem investigator malorum est, opprimetur ab eis. ",
       "hebrew_masoretic": "שֹׁ֣חֵֽר ט֭וֹב יְבַקֵּ֣שׁ רָצ֑וֹן וְדֹרֵ֖שׁ רָעָ֣ה תְבוֹאֶֽנּוּ׃",
+      "douay_rheims": "Well doth he rise early who seeketh good things; but he that seeketh after evil things, shall be oppressed by them.",
+      "finnish_biblia": "Joka varhain hyvää etsii, hänelle hyvin menestyy; mutta joka pahaa noudattaa, hänelle pahoin tapahtuu. ",
       "king_james": "He that diligently seeketh good procureth favour: but he that seeketh mischief, it shall come unto him."
     },
     {
       "verse": 28,
       "latin_vulgate": " Qui confidit in divitiis suis corruet :  justi autem quasi virens folium germinabunt. ",
       "hebrew_masoretic": "בּוֹטֵ֣חַ בְּ֭עׇשְׁרוֹ ה֣וּא יִפּ֑וֹל וְ֝כֶעָלֶ֗ה צַדִּיקִ֥ים יִפְרָֽחוּ׃",
+      "douay_rheims": "He that trusteth in his riches shall fall: but the just shall spring up as a green leaf.",
+      "finnish_biblia": "Joka rikkauteensa luottaa, hän hukkuu, vaan vanhurskaat viheriöitsevät niinkuin lehti. ",
       "king_james": "He that trusteth in his riches shall fall: but the righteous shall flourish as a branch."
     },
     {
       "verse": 29,
       "latin_vulgate": " Qui conturbat domum suam possidebit ventos,  et qui stultus est serviet sapienti. ",
       "hebrew_masoretic": "עֹכֵ֣ר בֵּ֭יתוֹ יִנְחַל־ר֑וּחַ וְעֶ֥בֶד אֱ֝וִ֗יל לַֽחֲכַם־לֵֽב׃",
+      "douay_rheims": "He that troubleth his own house, shall inherit the winds: and the fool shall serve the wise.",
+      "finnish_biblia": "Joka huoneensa murheelliseksi tekee, hän saa tuulen perinnöksi: ja hullun täytyy viisasta palvella. ",
       "king_james": "He that troubleth his own house shall inherit the wind: and the fool shall be servant to the wise of heart."
     },
     {
       "verse": 30,
       "latin_vulgate": " Fructus justi lignum vitæ,  et qui suscipit animas sapiens est. ",
       "hebrew_masoretic": "פְּֽרִי־צַ֭דִּיק עֵ֣ץ חַיִּ֑ים וְלֹקֵ֖חַ נְפָשׁ֣וֹת חָכָֽם׃",
+      "douay_rheims": "The fruit of the just man is a tree of life: and he that gaineth souls is wise.",
+      "finnish_biblia": "Vanhurskaan hedelmä on elämän puu: joka viisas on, hän kääntää sielut. ",
       "king_james": "The fruit of the righteous is a tree of life; and he that winneth souls is wise."
     },
     {
       "verse": 31,
       "latin_vulgate": " Si justus in terra recipit,  quanto magis impius et peccator !  ",
       "hebrew_masoretic": "הֵ֣ן צַ֭דִּיק בָּאָ֣רֶץ יְשֻׁלָּ֑ם אַ֝֗ף כִּֽי־רָשָׁ֥ע וְחוֹטֵֽא׃",
+      "douay_rheims": "If the just man receive in the earth, how much more the wicked and the sinner. ",
+      "finnish_biblia": "Koska vanhurskas paljon kärsii, kuinka paljoa enemmin jumalatoin ja syntinen?   ",
       "king_james": "Behold, the righteous shall be recompensed in the earth: much more the wicked and the sinner. "
     }
   ]

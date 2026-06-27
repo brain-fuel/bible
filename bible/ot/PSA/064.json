@@ -2,6 +2,8 @@
   "book_id": "PSA",
   "latin_name": "Liber Psalmorum",
   "hebrew_name": "תְּהִלִּים",
+  "douay_name": "Psalms",
+  "finnish_name": "Psalmit",
   "english_name": "Psalms",
   "chapter": 64,
   "verses": [
@@ -9,6 +11,8 @@
       "verse": 1,
       "latin_vulgate": "  Exaudi, Deus, orationem meam cum deprecor ;  a timore inimici eripe animam meam. ",
       "hebrew_masoretic": "שְׁמַע־אֱלֹהִ֣ים קוֹלִ֣י בְשִׂיחִ֑י מִפַּ֥חַד א֝וֹיֵ֗ב תִּצֹּ֥ר חַיָּֽי׃",
+      "douay_rheims": "Hear O God, my prayer, when I make supplication to thee: deliver my soul from the fear of the enemy.",
+      "finnish_biblia": "Davidin Psalmi, edelläveisaajalle. (H64:2) Kuule, Jumala, ääntäni, minun valituksessani: varjele elämäni vihollisen pelvosta. ",
       "king_james": "Hear my voice, O God, in my prayer: preserve my life from fear of the enemy.",
       "refs": {
         "latin_vulgate": {
@@ -16,6 +20,9 @@
         },
         "hebrew_masoretic": {
           "src": "64:2"
+        },
+        "douay_rheims": {
+          "src": "63:2"
         }
       }
     },
@@ -23,6 +30,8 @@
       "verse": 2,
       "latin_vulgate": " Protexisti me a conventu malignantium,  a multitudine operantium iniquitatem. ",
       "hebrew_masoretic": "תַּ֭סְתִּירֵנִי מִסּ֣וֹד מְרֵעִ֑ים מֵ֝רִגְשַׁ֗ת פֹּ֣עֲלֵי אָֽוֶן׃",
+      "douay_rheims": "Thou hast protected me from the assembly of the malignant; from the multitude of the workers of iniquity.",
+      "finnish_biblia": "Peitä minua pahain neuvosta, väärintekiäin metelistä, ",
       "king_james": "Hide me from the secret counsel of the wicked; from the insurrection of the workers of iniquity:",
       "refs": {
         "latin_vulgate": {
@@ -30,6 +39,9 @@
         },
         "hebrew_masoretic": {
           "src": "64:3"
+        },
+        "douay_rheims": {
+          "src": "63:3"
         }
       }
     },
@@ -37,6 +49,8 @@
       "verse": 3,
       "latin_vulgate": " Quia exacuerunt ut gladium linguas suas ;  intenderunt arcum rem amaram, ",
       "hebrew_masoretic": "אֲשֶׁ֤ר שָׁנְנ֣וּ כַחֶ֣רֶב לְשׁוֹנָ֑ם דָּרְכ֥וּ חִ֝צָּ֗ם דָּבָ֥ר מָֽר׃",
+      "douay_rheims": "For they have whetted their tongues like a sword; they have bent their bow a bitter thing,",
+      "finnish_biblia": "Jotka kielensä hiovat niinkuin miekan: he ampuvat myrkyllisillä sanoillansa niinkuin nuolilla; ",
       "king_james": "Who whet their tongue like a sword, and bend their bows to shoot their arrows, even bitter words:",
       "refs": {
         "latin_vulgate": {
@@ -44,6 +58,9 @@
         },
         "hebrew_masoretic": {
           "src": "64:4"
+        },
+        "douay_rheims": {
+          "src": "63:4"
         }
       }
     },
@@ -51,6 +68,8 @@
       "verse": 4,
       "latin_vulgate": " ut sagittent in occultis immaculatum. ",
       "hebrew_masoretic": "לִירֹ֣ת בַּמִּסְתָּרִ֣ים תָּ֑ם פִּתְאֹ֥ם יֹ֝רֻ֗הוּ וְלֹ֣א יִירָֽאוּ׃",
+      "douay_rheims": "To shoot in secret the undefiled.",
+      "finnish_biblia": "Että he salaisesti ampuisivat viatointa: he ampuvat häntä äkisti ilman pelvota. ",
       "king_james": "That they may shoot in secret at the perfect: suddenly do they shoot at him, and fear not.",
       "refs": {
         "latin_vulgate": {
@@ -58,6 +77,9 @@
         },
         "hebrew_masoretic": {
           "src": "64:5"
+        },
+        "douay_rheims": {
+          "src": "63:5"
         }
       }
     },
@@ -65,6 +87,8 @@
       "verse": 5,
       "latin_vulgate": " Subito sagittabunt eum, et non timebunt ;  firmaverunt sibi sermonem nequam.  Narraverunt ut absconderent laqueos ;  dixerunt : Quis videbit eos ? ",
       "hebrew_masoretic": "יְחַזְּקוּ־לָ֨מוֹ ׀ דָּ֘בָ֤ר רָ֗ע יְֽ֭סַפְּרוּ לִטְמ֣וֹן מוֹקְשִׁ֑ים אָ֝מְר֗וּ מִ֣י יִרְאֶה־לָּֽמוֹ׃",
+      "douay_rheims": "They will shoot at him on a sudden, and will not fear: they are resolute in wickedness. They have talked of hiding snares; they have said: Who shall see them?",
+      "finnish_biblia": "He vahvistavat itsensä pahoissa juonissansa ja puhuvat, kuinka he paulat virittäisivät, ja sanovat: kuka taitaa ne nähdä? ",
       "king_james": "They encourage themselves in an evil matter: they commune of laying snares privily; they say, Who shall see them?",
       "refs": {
         "latin_vulgate": {
@@ -72,6 +96,9 @@
         },
         "hebrew_masoretic": {
           "src": "64:6"
+        },
+        "douay_rheims": {
+          "src": "63:6"
         }
       }
     },
@@ -79,6 +106,8 @@
       "verse": 6,
       "latin_vulgate": " Scrutati sunt iniquitates ;  defecerunt scrutantes scrutinio.  Accedet homo ad cor altum, ",
       "hebrew_masoretic": "יַ֥חְפְּֽשׂוּ־עוֹלֹ֗ת תַּ֭מְנוּ חֵ֣פֶשׂ מְחֻפָּ֑שׂ וְקֶ֥רֶב אִ֝֗ישׁ וְלֵ֣ב עָמֹֽק׃",
+      "douay_rheims": "They have searched after iniquities: they have failed in their search. Man shall come to a deep heart:",
+      "finnish_biblia": "He ajattelevat vääryyttä, ja täyttävät sen minkä he ajatelleet ovat; viekkaat ihmiset ja salakavalat sydämet. ",
       "king_james": "They search out iniquities; they accomplish a diligent search: both the inward thought of every one of them, and the heart, is deep.",
       "refs": {
         "latin_vulgate": {
@@ -86,6 +115,9 @@
         },
         "hebrew_masoretic": {
           "src": "64:7"
+        },
+        "douay_rheims": {
+          "src": "63:7"
         }
       }
     },
@@ -93,6 +125,8 @@
       "verse": 7,
       "latin_vulgate": " et exaltabitur Deus.  Sagittæ parvulorum factæ sunt plagæ eorum, ",
       "hebrew_masoretic": "וַיֹּרֵ֗ם אֱלֹ֫הִ֥ים חֵ֥ץ פִּתְא֑וֹם הָ֝י֗וּ מַכּוֹתָֽם׃",
+      "douay_rheims": "And God shall be exalted. The arrows of children are their wounds:",
+      "finnish_biblia": "Mutta Jumala ampuu heitä; äkillinen nuoli on heidän rangaistuksensa. ",
       "king_james": "But God shall shoot at them with an arrow; suddenly shall they be wounded.",
       "refs": {
         "latin_vulgate": {
@@ -100,6 +134,9 @@
         },
         "hebrew_masoretic": {
           "src": "64:8"
+        },
+        "douay_rheims": {
+          "src": "63:8"
         }
       }
     },
@@ -107,6 +144,8 @@
       "verse": 8,
       "latin_vulgate": " et infirmatæ sunt contra eos linguæ eorum.  Conturbati sunt omnes qui videbant eos, ",
       "hebrew_masoretic": "וַיַּכְשִׁיל֣וּהוּ עָלֵ֣ימוֹ לְשׁוֹנָ֑ם יִ֝תְנֹדְד֗וּ כׇּל־רֹ֥אֵה בָֽם׃",
+      "douay_rheims": "And their tongues against them are made weak. All that saw them were troubled;",
+      "finnish_biblia": "Heidän oma kielensä pitää heitä langettaman, että jokainen, joka heidät näkee, pakenee heitä. ",
       "king_james": "So they shall make their own tongue to fall upon themselves: all that see them shall flee away.",
       "refs": {
         "latin_vulgate": {
@@ -114,6 +153,9 @@
         },
         "hebrew_masoretic": {
           "src": "64:9"
+        },
+        "douay_rheims": {
+          "src": "63:9"
         }
       }
     },
@@ -121,6 +163,8 @@
       "verse": 9,
       "latin_vulgate": " et timuit omnis homo.  Et annuntiaverunt opera Dei,  et facta ejus intellexerunt. ",
       "hebrew_masoretic": "וַיִּֽירְא֗וּ כׇּל־אָ֫דָ֥ם וַ֭יַּגִּידוּ פֹּ֥עַל אֱלֹהִ֗ים וּֽמַעֲשֵׂ֥הוּ הִשְׂכִּֽילוּ׃",
+      "douay_rheims": "And every man was afraid. And they declared the works of God, and understood his doings.",
+      "finnish_biblia": "Ja kaikkein ihmisten pitää pelkäämän, ja Jumalan työtä ilmoittaman, ja hänen työnsä ymmärtämän. ",
       "king_james": "And all men shall fear, and shall declare the work of God; for they shall wisely consider of his doing.",
       "refs": {
         "latin_vulgate": {
@@ -128,6 +172,9 @@
         },
         "hebrew_masoretic": {
           "src": "64:10"
+        },
+        "douay_rheims": {
+          "src": "63:10"
         }
       }
     },
@@ -135,6 +182,8 @@
       "verse": 10,
       "latin_vulgate": " Lætabitur justus in Domino, et sperabit in eo,  et laudabuntur omnes recti corde.  ",
       "hebrew_masoretic": "יִשְׂמַ֬ח צַדִּ֣יק בַּ֭יהֹוָה וְחָ֣סָה ב֑וֹ וְ֝יִתְהַלְל֗וּ כׇּל־יִשְׁרֵי־לֵֽב׃ {פ}",
+      "douay_rheims": "The just shall rejoice in the Lord, and shall hope in him: and all the upright in heart shall be praised. ",
+      "finnish_biblia": "Vanhurskaat pitää Herrassa riemuitseman, ja häneen uskaltaman; ja kaikki vaat sydämet kerskatkoon siitä.   ",
       "king_james": "The righteous shall be glad in the Lord, and shall trust in him; and all the upright in heart shall glory. ",
       "refs": {
         "latin_vulgate": {
@@ -142,6 +191,9 @@
         },
         "hebrew_masoretic": {
           "src": "64:11"
+        },
+        "douay_rheims": {
+          "src": "63:11"
         }
       }
     }

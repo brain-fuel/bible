@@ -2,6 +2,8 @@
   "book_id": "GEN",
   "latin_name": "Genesis",
   "hebrew_name": "בְּרֵאשִׁית",
+  "douay_name": "Genesis",
+  "finnish_name": "1. Mooseksen kirja",
   "english_name": "Genesis",
   "chapter": 8,
   "verses": [
@@ -9,132 +11,176 @@
       "verse": 1,
       "latin_vulgate": "Recordatus autem Deus Noë, cunctorumque animantium, et omnium jumentorum, quæ erant cum eo in arca, adduxit spiritum super terram, et imminutæ sunt aquæ. ",
       "hebrew_masoretic": "וַיִּזְכֹּ֤ר אֱלֹהִים֙ אֶת־נֹ֔חַ וְאֵ֤ת כׇּל־הַֽחַיָּה֙ וְאֶת־כׇּל־הַבְּהֵמָ֔ה אֲשֶׁ֥ר אִתּ֖וֹ בַּתֵּבָ֑ה וַיַּעֲבֵ֨ר אֱלֹהִ֥ים ר֙וּחַ֙ עַל־הָאָ֔רֶץ וַיָּשֹׁ֖כּוּ הַמָּֽיִם׃",
+      "douay_rheims": "And God remembered Noe, and all the living creatures, and all the cattle which were with him in the ark, and brought a wind upon the earth, and the waters were abated:",
+      "finnish_biblia": "Silloin Jumala muisti Noaa ja kaikkia eläviä, ja kaikkea karjaa, kuin hänen kanssansa olivat arkissa, ja Jumala nosti tuulen maan päälle, ja vedet seisahtivat. ",
       "king_james": "And God remembered Noah, and every living thing, and all the cattle that was with him in the ark: and God made a wind to pass over the earth, and the waters asswaged;"
     },
     {
       "verse": 2,
       "latin_vulgate": "Et clausi sunt fontes abyssi, et cataractæ cæli : et prohibitæ sunt pluviæ de cælo. ",
       "hebrew_masoretic": "וַיִּסָּֽכְרוּ֙ מַעְיְנֹ֣ת תְּה֔וֹם וַֽאֲרֻבֹּ֖ת הַשָּׁמָ֑יִם וַיִּכָּלֵ֥א הַגֶּ֖שֶׁם מִן־הַשָּׁמָֽיִם׃",
+      "douay_rheims": "The fountains also of the deep, and the floodgates of heaven, were shut up, and the rain from heaven was restrained.",
+      "finnish_biblia": "Ja syvyyden lähteet tukittiin, ja taivaan akkunat, ja sateet taivaasta asetettiin. ",
       "king_james": "The fountains also of the deep and the windows of heaven were stopped, and the rain from heaven was restrained;"
     },
     {
       "verse": 3,
       "latin_vulgate": "Reversæque sunt aquæ de terra euntes et redeuntes : et cœperunt minui post centum quinquaginta dies. ",
       "hebrew_masoretic": "וַיָּשֻׁ֧בוּ הַמַּ֛יִם מֵעַ֥ל הָאָ֖רֶץ הָל֣וֹךְ וָשׁ֑וֹב וַיַּחְסְר֣וּ הַמַּ֔יִם מִקְצֵ֕ה חֲמִשִּׁ֥ים וּמְאַ֖ת יֽוֹם׃",
+      "douay_rheims": "And the waters returned from off the earth going and coming: and they began to be abated after a hundred and fifty days.",
+      "finnish_biblia": "Ja vedet maan päältä enemmin ja enemmin juoksivat pois, ja vähenivät sadan ja viidenkymmenen päivän perästä. ",
       "king_james": "And the waters returned from off the earth continually: and after the end of the hundred and fifty days the waters were abated."
     },
     {
       "verse": 4,
       "latin_vulgate": "Requievitque arca mense septimo, vigesimo septimo die mensis, super montes Armeniæ. ",
       "hebrew_masoretic": "וַתָּ֤נַח הַתֵּבָה֙ בַּחֹ֣דֶשׁ הַשְּׁבִיעִ֔י בְּשִׁבְעָה־עָשָׂ֥ר י֖וֹם לַחֹ֑דֶשׁ עַ֖ל הָרֵ֥י אֲרָרָֽט׃",
+      "douay_rheims": "And the ark rested in the seventh month, the seven and twentieth day of the month, upon the mountains of Armenia.",
+      "finnish_biblia": "Ja seitsemäntenätoistakymmenentenä päivänä, seitsemännessä kuukaudessa jäi arkki Araratin vuorelle. ",
       "king_james": "And the ark rested in the seventh month, on the seventeenth day of the month, upon the mountains of Ararat."
     },
     {
       "verse": 5,
       "latin_vulgate": "At vero aquæ ibant et decrescebant usque ad decimum mensem : decimo enim mense, primo die mensis, apparuerunt cacumina montium. ",
       "hebrew_masoretic": "וְהַמַּ֗יִם הָיוּ֙ הָל֣וֹךְ וְחָס֔וֹר עַ֖ד הַחֹ֣דֶשׁ הָֽעֲשִׂירִ֑י בָּֽעֲשִׂירִי֙ בְּאֶחָ֣ד לַחֹ֔דֶשׁ נִרְא֖וּ רָאשֵׁ֥י הֶֽהָרִֽים׃",
+      "douay_rheims": "And the waters were going and decreasing until the tenth month: for in the tenth month, the first day of the month, the tops of the mountains appeared.",
+      "finnish_biblia": "Mutta vedet juoksivat pois, ja vähenivät hamaan kymmenenteen kuukauteen asti. Ensimäisnä päivänä kymmenentenä kuukautena näkyivät vuorten kukkulat. ",
       "king_james": "And the waters decreased continually until the tenth month: in the tenth month, on the first day of the month, were the tops of the mountains seen."
     },
     {
       "verse": 6,
       "latin_vulgate": "Cumque transissent quadraginta dies, aperiens Noë fenestram arcæ, quam fecerat, dimisit corvum, ",
       "hebrew_masoretic": "וַיְהִ֕י מִקֵּ֖ץ אַרְבָּעִ֣ים י֑וֹם וַיִּפְתַּ֣ח נֹ֔חַ אֶת־חַלּ֥וֹן הַתֵּבָ֖ה אֲשֶׁ֥ר עָשָֽׂה׃",
+      "douay_rheims": "And after that forty days were passed, Noe opening the window of the ark, which he had made, sent forth a raven:",
+      "finnish_biblia": "Neljänkymmenen päivän perästä avasi Noa arkin akkunan, jonka hän tehnyt oli. ",
       "king_james": "And it came to pass at the end of forty days, that Noah opened the window of the ark which he had made:"
     },
     {
       "verse": 7,
       "latin_vulgate": "qui egrediebatur, et non revertebatur, donec siccarentur aquæ super terram. ",
       "hebrew_masoretic": "וַיְשַׁלַּ֖ח אֶת־הָֽעֹרֵ֑ב וַיֵּצֵ֤א יָצוֹא֙ וָשׁ֔וֹב עַד־יְבֹ֥שֶׁת הַמַּ֖יִם מֵעַ֥ל הָאָֽרֶץ׃",
+      "douay_rheims": "Which went forth and did not return, till the waters were dried up upon the earth.",
+      "finnish_biblia": "Ja antoi kaarneen lentää ulos, joka lensi kahtiapäin, siihen asti kuin vedet maan päältä kuivuivat. ",
       "king_james": "And he sent forth a raven, which went forth to and fro, until the waters were dried up from off the earth."
     },
     {
       "verse": 8,
       "latin_vulgate": "Emisit quoque columbam post eum, ut videret si jam cessassent aquæ super faciem terræ. ",
       "hebrew_masoretic": "וַיְשַׁלַּ֥ח אֶת־הַיּוֹנָ֖ה מֵאִתּ֑וֹ לִרְאוֹת֙ הֲקַ֣לּוּ הַמַּ֔יִם מֵעַ֖ל פְּנֵ֥י הָֽאֲדָמָֽה׃",
+      "douay_rheims": "He sent forth also a dove after him, to see if the waters had now ceased upon the face of the earth.",
+      "finnish_biblia": "Sitte lähetti hän kyhkyisen tyköänsä, koettelemaan, jos vedet olisivat juosseet pois maan päältä. ",
       "king_james": "Also he sent forth a dove from him, to see if the waters were abated from off the face of the ground;"
     },
     {
       "verse": 9,
       "latin_vulgate": "Quæ cum non invenisset ubi requiesceret pes ejus, reversa est ad eum in arcam : aquæ enim erant super universam terram : extenditque manum, et apprehensam intulit in arcam. ",
       "hebrew_masoretic": "וְלֹֽא־מָצְאָה֩ הַיּוֹנָ֨ה מָנ֜וֹחַ לְכַף־רַגְלָ֗הּ וַתָּ֤שׇׁב אֵלָיו֙ אֶל־הַתֵּבָ֔ה כִּי־מַ֖יִם עַל־פְּנֵ֣י כׇל־הָאָ֑רֶץ וַיִּשְׁלַ֤ח יָדוֹ֙ וַיִּקָּחֶ֔הָ וַיָּבֵ֥א אֹתָ֛הּ אֵלָ֖יו אֶל־הַתֵּבָֽה׃",
+      "douay_rheims": "But she not finding where her foot might rest, returned to him into the ark: for the waters were upon the whole earth: and he put forth his hand, and caught her, and brought her into the ark.",
+      "finnish_biblia": "Koska ei kyhkyinen löytänyt kussa hän sai jalkansa levätä, palasi hän hänen tykönsä arkkiin: sillä vedet olivat vielä koko maan päällä, niin hän ojensi kätensä, otti hänen ja toi arkkiin. ",
       "king_james": "But the dove found no rest for the sole of her foot, and she returned unto him into the ark, for the waters were on the face of the whole earth: then he put forth his hand, and took her, and pulled her in unto him into the ark."
     },
     {
       "verse": 10,
       "latin_vulgate": "Expectatis autem ultra septem diebus aliis, rursum dimisit columbam ex arca. ",
       "hebrew_masoretic": "וַיָּ֣חֶל ע֔וֹד שִׁבְעַ֥ת יָמִ֖ים אֲחֵרִ֑ים וַיֹּ֛סֶף שַׁלַּ֥ח אֶת־הַיּוֹנָ֖ה מִן־הַתֵּבָֽה׃",
+      "douay_rheims": "And having waited yet seven other days, he again sent forth the dove out of the ark.",
+      "finnish_biblia": "Ja odotti vielä toiset seitsemän päivää, ja antoi taas kyhkyisen lentää arkista. ",
       "king_james": "And he stayed yet other seven days; and again he sent forth the dove out of the ark;"
     },
     {
       "verse": 11,
       "latin_vulgate": "At illa venit ad eum ad vesperam, portans ramum olivæ virentibus foliis in ore suo : intellexit ergo Noë quod cessassent aquæ super terram. ",
       "hebrew_masoretic": "וַתָּבֹ֨א אֵלָ֤יו הַיּוֹנָה֙ לְעֵ֣ת עֶ֔רֶב וְהִנֵּ֥ה עֲלֵה־זַ֖יִת טָרָ֣ף בְּפִ֑יהָ וַיֵּ֣דַע נֹ֔חַ כִּי־קַ֥לּוּ הַמַּ֖יִם מֵעַ֥ל הָאָֽרֶץ׃",
+      "douay_rheims": "And she came to him in the evening carrying a bough of an olive tree, with green leaves, in her mouth. Noe therefore understood that the waters were ceased upon the earth.",
+      "finnish_biblia": "Se palasi hänen tykönsä, ehtoopuolella, ja katso, hän toi suussansa öljypuun lehden, jonka hän murtanut oli. Niin Noa ymmärsi vedet maan päältä juosseeksi pois. ",
       "king_james": "And the dove came in to him in the evening; and, lo, in her mouth was an olive leaf pluckt off: so Noah knew that the waters were abated from off the earth."
     },
     {
       "verse": 12,
       "latin_vulgate": "Expectavitque nihilominus septem alios dies : et emisit columbam, quæ non est reversa ultra ad eum. ",
       "hebrew_masoretic": "וַיִּיָּ֣חֶל ע֔וֹד שִׁבְעַ֥ת יָמִ֖ים אֲחֵרִ֑ים וַיְשַׁלַּח֙ אֶת־הַיּוֹנָ֔ה וְלֹֽא־יָסְפָ֥ה שׁוּב־אֵלָ֖יו עֽוֹד׃",
+      "douay_rheims": "And he stayed yet other seven days: and he sent forth the dove, which returned not any more unto him.",
+      "finnish_biblia": "Mutta hän odotti vielä seitsemän päivää, ja antoi kyhkyisen lentää ulos, joka ei enää palannut. ",
       "king_james": "And he stayed yet other seven days; and sent forth the dove; which returned not again unto him any more."
     },
     {
       "verse": 13,
       "latin_vulgate": "Igitur sexcentesimo primo anno, primo mense, prima die mensis, imminutæ sunt aquæ super terram : et aperiens Noë tectum arcæ, aspexit, viditque quod exsiccata esset superficies terræ. ",
       "hebrew_masoretic": "וַ֠יְהִ֠י בְּאַחַ֨ת וְשֵׁשׁ־מֵא֜וֹת שָׁנָ֗ה בָּֽרִאשׁוֹן֙ בְּאֶחָ֣ד לַחֹ֔דֶשׁ חָֽרְב֥וּ הַמַּ֖יִם מֵעַ֣ל הָאָ֑רֶץ וַיָּ֤סַר נֹ֙חַ֙ אֶת־מִכְסֵ֣ה הַתֵּבָ֔ה וַיַּ֕רְא וְהִנֵּ֥ה חָֽרְב֖וּ פְּנֵ֥י הָֽאֲדָמָֽה׃",
+      "douay_rheims": "Therefore in the six hundredth and first year, the first month, the first day of the month, the waters were lessened upon the earth, and Noe opening the covering of the ark, looked, and saw that the face of the earth was dried.",
+      "finnish_biblia": "Ja kuudennella sadalla ja ensimäisellä ajastajalla (Noan ijästä) ensimäisenä päivänä ensimäisessä kuukaudessa, kuivuivat vedet maan päältä. Niin avasi Noa arkin katon, ja näki, ja katso, maa oli kuivunut. ",
       "king_james": "And it came to pass in the six hundredth and first year, in the first month, the first day of the month, the waters were dried up from off the earth: and Noah removed the covering of the ark, and looked, and, behold, the face of the ground was dry."
     },
     {
       "verse": 14,
       "latin_vulgate": "Mense secundo, septimo et vigesimo die mensis arefacta est terra.  ",
       "hebrew_masoretic": "וּבַחֹ֙דֶשׁ֙ הַשֵּׁנִ֔י בְּשִׁבְעָ֧ה וְעֶשְׂרִ֛ים י֖וֹם לַחֹ֑דֶשׁ יָבְשָׁ֖ה הָאָֽרֶץ׃ {ס}",
+      "douay_rheims": "In the second month, the seven and twentieth day of the month, the earth was dried.",
+      "finnish_biblia": "Niin maa tuli peräti kuivaksi seitsemäntenäkolmattakymmenentenä päivänä toisessa kuukaudessa. ",
       "king_james": "And in the second month, on the seven and twentieth day of the month, was the earth dried."
     },
     {
       "verse": 15,
       "latin_vulgate": " Locutus est autem Deus ad Noë, dicens : ",
       "hebrew_masoretic": "וַיְדַבֵּ֥ר אֱלֹהִ֖ים אֶל־נֹ֥חַ לֵאמֹֽר׃",
+      "douay_rheims": "And God spoke to Noe, saying:",
+      "finnish_biblia": "Niin Jumala puhui Noalle sanoen: ",
       "king_james": "And God spake unto Noah, saying,"
     },
     {
       "verse": 16,
       "latin_vulgate": "Egredere de arca, tu et uxor tua, filii tui et uxores filiorum tuorum tecum. ",
       "hebrew_masoretic": "צֵ֖א מִן־הַתֵּבָ֑ה אַתָּ֕ה וְאִשְׁתְּךָ֛ וּבָנֶ֥יךָ וּנְשֵֽׁי־בָנֶ֖יךָ אִתָּֽךְ׃",
+      "douay_rheims": "Go out of the ark, thou and thy wife, thy sons and the wives of thy sons with thee.",
+      "finnish_biblia": "Lähde arkista, sinä ja sinun emäntäs, ja sinun poikas, ja sinun poikais emännät sinun kanssas. ",
       "king_james": "Go forth of the ark, thou, and thy wife, and thy sons, and thy sons’ wives with thee."
     },
     {
       "verse": 17,
       "latin_vulgate": "Cuncta animantia, quæ sunt apud te, ex omni carne, tam in volatilibus quam in bestiis et universis reptilibus, quæ reptant super terram, educ tecum, et ingredimini super terram : crescite et multiplicamini super eam. ",
       "hebrew_masoretic": "כׇּל־הַחַיָּ֨ה אֲשֶֽׁר־אִתְּךָ֜ מִכׇּל־בָּשָׂ֗ר בָּע֧וֹף וּבַבְּהֵמָ֛ה וּבְכׇל־הָרֶ֛מֶשׂ הָרֹמֵ֥שׂ עַל־הָאָ֖רֶץ (הוצא) [הַיְצֵ֣א] אִתָּ֑ךְ וְשָֽׁרְצ֣וּ בָאָ֔רֶץ וּפָר֥וּ וְרָב֖וּ עַל־הָאָֽרֶץ׃",
+      "douay_rheims": "All living things that are with thee of all flesh, as well in fowls as in beasts, and all creeping things that creep upon the earth, bring out with thee, and go ye upon the earth: increase and multiply upon it.",
+      "finnish_biblia": "Kaikkinaiset eläimet, jotka sinun tykönäs ovat, kaikkinaisesta lihasta, sekä linnuista että karjasta, ja kaikista matelevaisista maan päällä, johdata ne ulos kanssas: ja kävelköön ne maan päällä, ja olkoon hedelmälliset ja lisääntyköön maan päällä. ",
       "king_james": "Bring forth with thee every living thing that is with thee, of all flesh, both of fowl, and of cattle, and of every creeping thing that creepeth upon the earth; that they may breed abundantly in the earth, and be fruitful, and multiply upon the earth."
     },
     {
       "verse": 18,
       "latin_vulgate": "Egressus est ergo Noë, et filii ejus : uxor illius, et uxores filiorum ejus cum eo. ",
       "hebrew_masoretic": "וַיֵּ֖צֵא־נֹ֑חַ וּבָנָ֛יו וְאִשְׁתּ֥וֹ וּנְשֵֽׁי־בָנָ֖יו אִתּֽוֹ׃",
+      "douay_rheims": "So Noe went out, he and his sons: his wife, and the wives of his sons with him.",
+      "finnish_biblia": "Niin Noa meni ulos poikinensa, ja emäntinensä, ja poikainsa emännät hänen kanssansa. ",
       "king_james": "And Noah went forth, and his sons, and his wife, and his sons’ wives with him:"
     },
     {
       "verse": 19,
       "latin_vulgate": "Sed et omnia animantia, jumenta, et reptilia quæ reptant super terram, secundum genus suum, egressa sunt de arca. ",
       "hebrew_masoretic": "כׇּל־הַֽחַיָּ֗ה כׇּל־הָרֶ֙מֶשׂ֙ וְכׇל־הָע֔וֹף כֹּ֖ל רוֹמֵ֣שׂ עַל־הָאָ֑רֶץ לְמִשְׁפְּחֹ֣תֵיהֶ֔ם יָצְא֖וּ מִן־הַתֵּבָֽה׃",
+      "douay_rheims": "And all living things, and cattle, and creeping things that creep upon the earth, according to their kinds went out of the ark.",
+      "finnish_biblia": "Kaikkinaiset eläimet, kaikkinaiset matelevaiset, kaikkinaiset linnut, ja kaikki kuin maalla matelevat: läksivät arkista, jokainen kaltaisensa tykö. ",
       "king_james": "Every beast, every creeping thing, and every fowl, and whatsoever creepeth upon the earth, after their kinds, went forth out of the ark."
     },
     {
       "verse": 20,
       "latin_vulgate": "Ædificavit autem Noë altare Domino : et tollens de cunctis pecoribus et volucribus mundis, obtulit holocausta super altare. ",
       "hebrew_masoretic": "וַיִּ֥בֶן נֹ֛חַ מִזְבֵּ֖חַ לַֽיהֹוָ֑ה וַיִּקַּ֞ח מִכֹּ֣ל ׀ הַבְּהֵמָ֣ה הַטְּהֹרָ֗ה וּמִכֹּל֙ הָע֣וֹף הַטָּה֔וֹר וַיַּ֥עַל עֹלֹ֖ת בַּמִּזְבֵּֽחַ׃",
+      "douay_rheims": "And Noe built an altar unto the Lord: and taking of all cattle and fowls that were clean, offered holocausts upon the altar.",
+      "finnish_biblia": "Ja Noa rakensi Herralle alttarin: ja otti kaikkinaisesta puhtaasta karjasta, ja kaikkinaisista puhtaista linnuista, ja uhrasi polttouhria alttarilla. ",
       "king_james": "And Noah builded an altar unto the Lord; and took of every clean beast, and of every clean fowl, and offered burnt offerings on the altar."
     },
     {
       "verse": 21,
       "latin_vulgate": "Odoratusque est Dominus odorem suavitatis, et ait : Nequaquam ultra maledicam terræ propter homines : sensus enim et cogitatio humani cordis in malum prona sunt ab adolescentia sua : non igitur ultra percutiam omnem animam viventem sicut feci. ",
       "hebrew_masoretic": "וַיָּ֣רַח יְהֹוָה֮ אֶת־רֵ֣יחַ הַנִּיחֹ֒חַ֒ וַיֹּ֨אמֶר יְהֹוָ֜ה אֶל־לִבּ֗וֹ לֹֽא־אֹ֠סִ֠ף לְקַלֵּ֨ל ע֤וֹד אֶת־הָֽאֲדָמָה֙ בַּעֲב֣וּר הָֽאָדָ֔ם כִּ֠י יֵ֣צֶר לֵ֧ב הָאָדָ֛ם רַ֖ע מִנְּעֻרָ֑יו וְלֹֽא־אֹסִ֥ף ע֛וֹד לְהַכּ֥וֹת אֶת־כׇּל־חַ֖י כַּֽאֲשֶׁ֥ר עָשִֽׂיתִי׃",
+      "douay_rheims": "And the Lord smelled a sweet savour, and said: I will no more curse the earth for the sake of man: for the imagination and thought of man's heart are prone to evil from his youth: therefore I will no more destroy every living soul as I have done.",
+      "finnish_biblia": "Ja Herra haisti lepytyshajun, ja Herra sanoi sydämessänsä: en minä silleen enää maata kiroo ihmisen tähden: vaikka ihmisen sydämen aivoitus on paha hamasta lapsuudesta: ja en minä silleen enää lyö kaikkia kuin elävät, niinkuin minä tehnyt olen. ",
       "king_james": "And the Lord smelled a sweet savour; and the Lord said in his heart, I will not again curse the ground any more for man’s sake; for the imagination of man’s heart is evil from his youth; neither will I again smite any more every thing living, as I have done."
     },
     {
       "verse": 22,
       "latin_vulgate": "Cunctis diebus terræ, sementis et messis, frigus et æstus, æstas et hiems, nox et dies non requiescent.   ",
       "hebrew_masoretic": "עֹ֖ד כׇּל־יְמֵ֣י הָאָ֑רֶץ זֶ֡רַע וְ֠קָצִ֠יר וְקֹ֨ר וָחֹ֜ם וְקַ֧יִץ וָחֹ֛רֶף וְי֥וֹם וָלַ֖יְלָה לֹ֥א יִשְׁבֹּֽתוּ׃",
+      "douay_rheims": "All the days of the earth, seedtime and harvest, cold and heat, summer and winter, night and day, shall not cease. ",
+      "finnish_biblia": "Niin kauvan kuin maa seisoo, ei pidä kylväminen ja niittäminen, vilu ja helle, suvi ja talvi, päivä ja yö lakkaaman.   ",
       "king_james": "While the earth remaineth, seedtime and harvest, and cold and heat, and summer and winter, and day and night shall not cease. "
     }
   ]

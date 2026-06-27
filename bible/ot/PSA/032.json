@@ -2,6 +2,8 @@
   "book_id": "PSA",
   "latin_name": "Liber Psalmorum",
   "hebrew_name": "תְּהִלִּים",
+  "douay_name": "Psalms",
+  "finnish_name": "Psalmit",
   "english_name": "Psalms",
   "chapter": 32,
   "verses": [
@@ -9,9 +11,14 @@
       "verse": 1,
       "latin_vulgate": "Ipsi David intellectus.   Beati quorum remissæ sunt iniquitates,  et quorum tecta sunt peccata. ",
       "hebrew_masoretic": "לְדָוִ֗ד מַ֫שְׂכִּ֥יל אַשְׁרֵ֥י נְֽשׂוּי־פֶּ֗שַׁע כְּס֣וּי חֲטָאָֽה׃",
+      "douay_rheims": "To David himself, understanding. Blessed are they whose iniquities are forgiven, and whose sins are covered.",
+      "finnish_biblia": "Davidin opetus. Autuas on se, jonka pahat teot ovat annetut anteeksi ja jonka synnit peitetyt ovat. ",
       "king_james": "Blessed is he whose transgression is forgiven, whose sin is covered.",
       "refs": {
         "latin_vulgate": {
+          "src": "31:1"
+        },
+        "douay_rheims": {
           "src": "31:1"
         }
       }
@@ -20,9 +27,14 @@
       "verse": 2,
       "latin_vulgate": " Beatus vir cui non imputavit Dominus peccatum,  nec est in spiritu ejus dolus. ",
       "hebrew_masoretic": "אַ֥שְֽׁרֵי־אָדָ֗ם לֹ֤א יַחְשֹׁ֬ב יְהֹוָ֣ה ל֣וֹ עָוֺ֑ן וְאֵ֖ין בְּרוּח֣וֹ רְמִיָּֽה׃",
+      "douay_rheims": "Blessed is the man to whom the Lord hath not imputed sin, and in whose spirit there is no guile.",
+      "finnish_biblia": "Autuas on se ihminen, jolle Herra ei soimaa vääryyttä, jonka hengessä ei vilppiä ole. ",
       "king_james": "Blessed is the man unto whom the Lord imputeth not iniquity, and in whose spirit there is no guile.",
       "refs": {
         "latin_vulgate": {
+          "src": "31:2"
+        },
+        "douay_rheims": {
           "src": "31:2"
         }
       }
@@ -31,9 +43,14 @@
       "verse": 3,
       "latin_vulgate": " Quoniam tacui, inveteraverunt ossa mea,  dum clamarem tota die. ",
       "hebrew_masoretic": "כִּֽי־הֶ֭חֱרַשְׁתִּי בָּל֣וּ עֲצָמָ֑י בְּ֝שַׁאֲגָתִ֗י כׇּל־הַיּֽוֹם׃",
+      "douay_rheims": "Because I was silent my bones grew old; whilst I cried out all the day long.",
+      "finnish_biblia": "Sillä koska minä tahdoin sitä vaieta, musertuivat minun luuni jokapäiväisestä itkustani, ",
       "king_james": "When I kept silence, my bones waxed old through my roaring all the day long.",
       "refs": {
         "latin_vulgate": {
+          "src": "31:3"
+        },
+        "douay_rheims": {
           "src": "31:3"
         }
       }
@@ -42,9 +59,14 @@
       "verse": 4,
       "latin_vulgate": " Quoniam die ac nocte gravata est super me manus tua,  conversus sum in ærumna mea, dum configitur spina. ",
       "hebrew_masoretic": "כִּ֤י ׀ יוֹמָ֣ם וָלַיְלָה֮ תִּכְבַּ֥ד עָלַ֗י יָ֫דֶ֥ךָ נֶהְפַּ֥ךְ לְשַׁדִּ֑י בְּחַרְבֹ֖נֵי קַ֣יִץ סֶֽלָה׃",
+      "douay_rheims": "For day and night thy hand was heavy upon me: I am turned in my anguish, whilst the thorn is fastened.",
+      "finnish_biblia": "Sillä sinun kätes oli yöllä ja päivällä raskas minun päälläni, niin että nesteeni kuivui: niinkuin kesällä kuivuu, Sela! ",
       "king_james": "For day and night thy hand was heavy upon me: my moisture is turned into the drought of summer. Selah.",
       "refs": {
         "latin_vulgate": {
+          "src": "31:4"
+        },
+        "douay_rheims": {
           "src": "31:4"
         }
       }
@@ -53,9 +75,14 @@
       "verse": 5,
       "latin_vulgate": " Delictum meum cognitum tibi feci,  et injustitiam meam non abscondi.  Dixi : Confitebor adversum me injustitiam meam Domino ;  et tu remisisti impietatem peccati mei. ",
       "hebrew_masoretic": "חַטָּאתִ֨י אוֹדִ֪יעֲךָ֡ וַעֲ֘וֺנִ֤י לֹֽא־כִסִּ֗יתִי אָמַ֗רְתִּי אוֹדֶ֤ה עֲלֵ֣י פְ֭שָׁעַי לַיהֹוָ֑ה וְאַתָּ֨ה נָ֘שָׂ֤אתָ עֲוֺ֖ן חַטָּאתִ֣י סֶֽלָה׃",
+      "douay_rheims": "I have acknowledged my sin to thee, and my injustice I have not concealed. I said I will confess against my self my injustice to the Lord: and thou hast forgiven the wickedness of my sin.",
+      "finnish_biblia": "Sentähden minä tunnustan sinun edessäs syntini, ja en peitä pahoja tekojani. Minä sanoin: minä tunnustan Herralle pahat tekoni; niin sinä annoit anteeksi syntini vääryyden, Sela! ",
       "king_james": "I acknowledged my sin unto thee, and mine iniquity have I not hid. I said, I will confess my transgressions unto the Lord; and thou forgavest the iniquity of my sin. Selah.",
       "refs": {
         "latin_vulgate": {
+          "src": "31:5"
+        },
+        "douay_rheims": {
           "src": "31:5"
         }
       }
@@ -64,9 +91,14 @@
       "verse": 6,
       "latin_vulgate": " Pro hac orabit ad te omnis sanctus  in tempore opportuno.  Verumtamen in diluvio aquarum multarum,  ad eum non approximabunt. ",
       "hebrew_masoretic": "עַל־זֹ֡את יִתְפַּלֵּ֬ל כׇּל־חָסִ֨יד ׀ אֵלֶיךָ֮ לְעֵ֢ת מְ֫צֹ֥א רַ֗ק לְ֭שֵׁטֶף מַ֣יִם רַבִּ֑ים אֵ֝לָ֗יו לֹ֣א יַגִּֽיעוּ׃",
+      "douay_rheims": "For this shall every one that is holy pray to thee in a seasonable time. And yet in a flood of many waters, they shall not come nigh unto him.",
+      "finnish_biblia": "Tämän tähden pitää kaikkein pyhäin sinua rukoileman oikialla ajalla: sentähden kuin suuret vedenpaisumiset tulevat, ei he niihin ulotu. ",
       "king_james": "For this shall every one that is godly pray unto thee in a time when thou mayest be found: surely in the floods of great waters they shall not come nigh unto him.",
       "refs": {
         "latin_vulgate": {
+          "src": "31:6"
+        },
+        "douay_rheims": {
           "src": "31:6"
         }
       }
@@ -75,9 +107,14 @@
       "verse": 7,
       "latin_vulgate": " Tu es refugium meum a tribulatione quæ circumdedit me ;  exsultatio mea, erue me a circumdantibus me. ",
       "hebrew_masoretic": "אַתָּ֤ה ׀ סֵ֥תֶר לִי֮ מִצַּ֢ר תִּ֫צְּרֵ֥נִי רׇנֵּ֥י פַלֵּ֑ט תְּס֖וֹבְבֵ֣נִי סֶֽלָה׃",
+      "douay_rheims": "Thou art my refuge from the trouble which hath encompassed me: my joy, deliver me from them that surround me.",
+      "finnish_biblia": "Sinä olet minun varjelukseni, kätke minua murheesta, että minä pelastettuna sangen riemuisesti kerskaisin, Sela! ",
       "king_james": "Thou art my hiding place; thou shalt preserve me from trouble; thou shalt compass me about with songs of deliverance. Selah.",
       "refs": {
         "latin_vulgate": {
+          "src": "31:7"
+        },
+        "douay_rheims": {
           "src": "31:7"
         }
       }
@@ -86,9 +123,14 @@
       "verse": 8,
       "latin_vulgate": " Intellectum tibi dabo, et instruam te in via hac qua gradieris ;  firmabo super te oculos meos. ",
       "hebrew_masoretic": "אַשְׂכִּֽילְךָ֨ ׀ וְֽאוֹרְךָ֗ בְּדֶֽרֶךְ־ז֥וּ תֵלֵ֑ךְ אִיעֲצָ֖ה עָלֶ֣יךָ עֵינִֽי׃",
+      "douay_rheims": "I will give thee understanding, and I will instruct thee in this way, in which thou shalt go: I will fix my eyes upon thee.",
+      "finnish_biblia": "Minä neuvon sinua ja osoitan sinulle tien, jotas vaellat: minä johdatan sinun silmilläni. ",
       "king_james": "I will instruct thee and teach thee in the way which thou shalt go: I will guide thee with mine eye.",
       "refs": {
         "latin_vulgate": {
+          "src": "31:8"
+        },
+        "douay_rheims": {
           "src": "31:8"
         }
       }
@@ -97,9 +139,14 @@
       "verse": 9,
       "latin_vulgate": " Nolite fieri sicut equus et mulus,  quibus non est intellectus.  In camo et freno maxillas eorum constringe,  qui non approximant ad te. ",
       "hebrew_masoretic": "אַל־תִּהְי֤וּ ׀ כְּס֥וּס כְּפֶרֶד֮ אֵ֤ין הָ֫בִ֥ין בְּמֶתֶג־וָרֶ֣סֶן עֶדְי֣וֹ לִבְל֑וֹם בַּ֝֗ל קְרֹ֣ב אֵלֶֽיךָ׃",
+      "douay_rheims": "Do not become like the horse and the mule, who have no understanding. With bit and bridle bind fast their jaws, who come not near unto thee.",
+      "finnish_biblia": "Älkäät olko niinkuin orhiit ja muulit, joilla ei ymmärrystä ole, joille pitää suitset ja ohjat suuhun pantaman, ellei he lähene sinua. ",
       "king_james": "Be ye not as the horse, or as the mule, which have no understanding: whose mouth must be held in with bit and bridle, lest they come near unto thee.",
       "refs": {
         "latin_vulgate": {
+          "src": "31:9"
+        },
+        "douay_rheims": {
           "src": "31:9"
         }
       }
@@ -108,9 +155,14 @@
       "verse": 10,
       "latin_vulgate": " Multa flagella peccatoris ;  sperantem autem in Domino misericordia circumdabit. ",
       "hebrew_masoretic": "רַבִּ֥ים מַכְאוֹבִ֗ים לָ֫רָשָׁ֥ע וְהַבּוֹטֵ֥חַ בַּֽיהֹוָ֑ה חֶ֝֗סֶד יְסוֹבְבֶֽנּוּ׃",
+      "douay_rheims": "Many are the scourges of the sinner, but mercy shall encompass him that hopeth in the Lord.",
+      "finnish_biblia": "Jumalattomalla on monta vitsausta; mutta joka Herraan toivoo, hänen hyvyys ympäri piirittää. ",
       "king_james": "Many sorrows shall be to the wicked: but he that trusteth in the Lord, mercy shall compass him about.",
       "refs": {
         "latin_vulgate": {
+          "src": "31:10"
+        },
+        "douay_rheims": {
           "src": "31:10"
         }
       }
@@ -119,9 +171,14 @@
       "verse": 11,
       "latin_vulgate": " Lætamini in Domino, et exsultate, justi ;  et gloriamini, omnes recti corde.  ",
       "hebrew_masoretic": "שִׂמְח֬וּ בַיהֹוָ֣ה וְ֭גִילוּ צַדִּיקִ֑ים וְ֝הַרְנִ֗ינוּ כׇּל־יִשְׁרֵי־לֵֽב׃ {פ}",
+      "douay_rheims": "Be glad in the Lord, and rejoice, ye just, and glory, all ye right of heart. ",
+      "finnish_biblia": "Riemuitkaat teitänne Herrassa, ja olkaat iloiset, te vanhurskaat, ja kerskatkaat, kaikki te yksivakaiset.   ",
       "king_james": "Be glad in the Lord, and rejoice, ye righteous: and shout for joy, all ye that are upright in heart. ",
       "refs": {
         "latin_vulgate": {
+          "src": "31:11"
+        },
+        "douay_rheims": {
           "src": "31:11"
         }
       }

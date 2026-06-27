@@ -2,6 +2,8 @@
   "book_id": "PSA",
   "latin_name": "Liber Psalmorum",
   "hebrew_name": "תְּהִלִּים",
+  "douay_name": "Psalms",
+  "finnish_name": "Psalmit",
   "english_name": "Psalms",
   "chapter": 38,
   "verses": [
@@ -9,6 +11,8 @@
       "verse": 1,
       "latin_vulgate": "  Domine, ne in furore tuo arguas me,  neque in ira tua corripias me : ",
       "hebrew_masoretic": "יְֽהֹוָ֗ה אַל־בְּקֶצְפְּךָ֥ תוֹכִיחֵ֑נִי וּֽבַחֲמָתְךָ֥ תְיַסְּרֵֽנִי׃",
+      "douay_rheims": "Rebuke me not, O Lord, in thy indignation; nor chastise me in thy wrath.",
+      "finnish_biblia": "Davidin Psalmi muistoksi. (H38:2) Herra, älä rankaise minua vihassas, ja älä kurita minua hirmuisuudessas! ",
       "king_james": "O Lord, rebuke me not in thy wrath: neither chasten me in thy hot displeasure.",
       "refs": {
         "latin_vulgate": {
@@ -16,6 +20,9 @@
         },
         "hebrew_masoretic": {
           "src": "38:2"
+        },
+        "douay_rheims": {
+          "src": "37:2"
         }
       }
     },
@@ -23,6 +30,8 @@
       "verse": 2,
       "latin_vulgate": " quoniam sagittæ tuæ infixæ sunt mihi,  et confirmasti super me manum tuam. ",
       "hebrew_masoretic": "כִּֽי־חִ֭צֶּיךָ נִ֣חֲתוּ בִ֑י וַתִּנְחַ֖ת עָלַ֣י יָדֶֽךָ׃",
+      "douay_rheims": "For thy arrows are fastened in me: and thy hand hath been strong upon me.",
+      "finnish_biblia": "Sillä sinun nuoles ovat minuun kiinnitetyt, ja sinun kätes painaa minua. ",
       "king_james": "For thine arrows stick fast in me, and thy hand presseth me sore.",
       "refs": {
         "latin_vulgate": {
@@ -30,6 +39,9 @@
         },
         "hebrew_masoretic": {
           "src": "38:3"
+        },
+        "douay_rheims": {
+          "src": "37:3"
         }
       }
     },
@@ -37,6 +49,8 @@
       "verse": 3,
       "latin_vulgate": " Non est sanitas in carne mea, a facie iræ tuæ ;  non est pax ossibus meis, a facie peccatorum meorum : ",
       "hebrew_masoretic": "אֵין־מְתֹ֣ם בִּ֭בְשָׂרִי מִפְּנֵ֣י זַעְמֶ֑ךָ אֵין־שָׁל֥וֹם בַּ֝עֲצָמַ֗י מִפְּנֵ֥י חַטָּאתִֽי׃",
+      "douay_rheims": "There is no health in my flesh, because of thy wrath: there is no peace for my bones, because of my sins.",
+      "finnish_biblia": "Ei ole terveys minun ruumiissani, sinun uhkauksestas: ja ei ole rauhaa minun luissani, minun synteini tähden. ",
       "king_james": "There is no soundness in my flesh because of thine anger; neither is there any rest in my bones because of my sin.",
       "refs": {
         "latin_vulgate": {
@@ -44,6 +58,9 @@
         },
         "hebrew_masoretic": {
           "src": "38:4"
+        },
+        "douay_rheims": {
+          "src": "37:4"
         }
       }
     },
@@ -51,6 +68,8 @@
       "verse": 4,
       "latin_vulgate": " quoniam iniquitates meæ supergressæ sunt caput meum,  et sicut onus grave gravatæ sunt super me. ",
       "hebrew_masoretic": "כִּ֣י עֲ֭וֺנֹתַי עָבְר֣וּ רֹאשִׁ֑י כְּמַשָּׂ֥א כָ֝בֵ֗ד יִכְבְּד֥וּ מִמֶּֽנִּי׃",
+      "douay_rheims": "For my iniquities are gone over my head: and as a heavy burden are become heavy upon me.",
+      "finnish_biblia": "Sillä minun syntini käyvät pääni ylitse; niinkuin raskas kuorma ovat he ylen raskaaksi tulleet. ",
       "king_james": "For mine iniquities are gone over mine head: as an heavy burden they are too heavy for me.",
       "refs": {
         "latin_vulgate": {
@@ -58,6 +77,9 @@
         },
         "hebrew_masoretic": {
           "src": "38:5"
+        },
+        "douay_rheims": {
+          "src": "37:5"
         }
       }
     },
@@ -65,6 +87,8 @@
       "verse": 5,
       "latin_vulgate": " Putruerunt et corruptæ sunt cicatrices meæ,  a facie insipientiæ meæ. ",
       "hebrew_masoretic": "הִבְאִ֣ישׁוּ נָ֭מַקּוּ חַבּוּרֹתָ֑י מִ֝פְּנֵ֗י אִוַּלְתִּֽי׃",
+      "douay_rheims": "My sores are putrefied and corrupted, because of my foolishness.",
+      "finnish_biblia": "Minun haavani haisevat ja mätänevät minun hulluuteni tähden. ",
       "king_james": "My wounds stink and are corrupt because of my foolishness.",
       "refs": {
         "latin_vulgate": {
@@ -72,6 +96,9 @@
         },
         "hebrew_masoretic": {
           "src": "38:6"
+        },
+        "douay_rheims": {
+          "src": "37:6"
         }
       }
     },
@@ -79,6 +106,8 @@
       "verse": 6,
       "latin_vulgate": " Miser factus sum et curvatus sum usque in finem ;  tota die contristatus ingrediebar. ",
       "hebrew_masoretic": "נַעֲוֵ֣יתִי שַׁחֹ֣תִי עַד־מְאֹ֑ד כׇּל־הַ֝יּ֗וֹם קֹדֵ֥ר הִלָּֽכְתִּי׃",
+      "douay_rheims": "I am become miserable, and am bowed down even to the end: I walked sorrowful all the day long.",
+      "finnish_biblia": "Minä käyn kymärässä ja kumarruksissa: yli päivää minä käyn murheissani. ",
       "king_james": "I am troubled; I am bowed down greatly; I go mourning all the day long.",
       "refs": {
         "latin_vulgate": {
@@ -86,6 +115,9 @@
         },
         "hebrew_masoretic": {
           "src": "38:7"
+        },
+        "douay_rheims": {
+          "src": "37:7"
         }
       }
     },
@@ -93,6 +125,8 @@
       "verse": 7,
       "latin_vulgate": " Quoniam lumbi mei impleti sunt illusionibus,  et non est sanitas in carne mea. ",
       "hebrew_masoretic": "כִּֽי־כְ֭סָלַי מָלְא֣וּ נִקְלֶ֑ה וְאֵ֥ין מְ֝תֹ֗ם בִּבְשָׂרִֽי׃",
+      "douay_rheims": "For my loins are filled with illusions; and there is no health in my flesh.",
+      "finnish_biblia": "Sillä minun kupeeni peräti kuivettuvat, ja ei ole mitään tervettä minun ruumiissani. ",
       "king_james": "For my loins are filled with a loathsome disease: and there is no soundness in my flesh.",
       "refs": {
         "latin_vulgate": {
@@ -100,6 +134,9 @@
         },
         "hebrew_masoretic": {
           "src": "38:8"
+        },
+        "douay_rheims": {
+          "src": "37:8"
         }
       }
     },
@@ -107,6 +144,8 @@
       "verse": 8,
       "latin_vulgate": " Afflictus sum, et humiliatus sum nimis ;  rugiebam a gemitu cordis mei. ",
       "hebrew_masoretic": "נְפוּג֣וֹתִי וְנִדְכֵּ֣יתִי עַד־מְאֹ֑ד שָׁ֝אַ֗גְתִּי מִֽנַּהֲמַ֥ת לִבִּֽי׃",
+      "douay_rheims": "I am afflicted and humbled exceedingly: I roared with the groaning of my heart.",
+      "finnish_biblia": "Minä olen ylen paljon runneltu ja lyöty rikki: minä myrisen minun sydämeni kivusta. ",
       "king_james": "I am feeble and sore broken: I have roared by reason of the disquietness of my heart.",
       "refs": {
         "latin_vulgate": {
@@ -114,6 +153,9 @@
         },
         "hebrew_masoretic": {
           "src": "38:9"
+        },
+        "douay_rheims": {
+          "src": "37:9"
         }
       }
     },
@@ -121,6 +163,8 @@
       "verse": 9,
       "latin_vulgate": " Domine, ante te omne desiderium meum,  et gemitus meus a te non est absconditus. ",
       "hebrew_masoretic": "אֲֽדֹנָ֗י נֶגְדְּךָ֥ כׇל־תַּאֲוָתִ֑י וְ֝אַנְחָתִ֗י מִמְּךָ֥ לֹֽא־נִסְתָּֽרָה׃",
+      "douay_rheims": "Lord, all my desire is before thee, and my groaning is not hidden from thee.",
+      "finnish_biblia": "Herra, sinun edessäs on kaikki minun haluni, ja minun huokaukseni ei ole sinulta salattu. ",
       "king_james": "Lord, all my desire is before thee; and my groaning is not hid from thee.",
       "refs": {
         "latin_vulgate": {
@@ -128,6 +172,9 @@
         },
         "hebrew_masoretic": {
           "src": "38:10"
+        },
+        "douay_rheims": {
+          "src": "37:10"
         }
       }
     },
@@ -135,6 +182,8 @@
       "verse": 10,
       "latin_vulgate": " Cor meum conturbatum est ;  dereliquit me virtus mea, et lumen oculorum meorum,  et ipsum non est mecum. ",
       "hebrew_masoretic": "לִבִּ֣י סְ֭חַרְחַר עֲזָבַ֣נִי כֹחִ֑י וְֽאוֹר־עֵינַ֥י גַּם־הֵ֝֗ם אֵ֣ין אִתִּֽי׃",
+      "douay_rheims": "My heart is troubled, my strength hath left me, and the light of my eyes itself is not with me.",
+      "finnish_biblia": "Minun sydämeni värisee, minun voimani on minusta luopunut, ja minun silmäini valkeus ei ole minun tykönäni. ",
       "king_james": "My heart panteth, my strength faileth me: as for the light of mine eyes, it also is gone from me.",
       "refs": {
         "latin_vulgate": {
@@ -142,6 +191,9 @@
         },
         "hebrew_masoretic": {
           "src": "38:11"
+        },
+        "douay_rheims": {
+          "src": "37:11"
         }
       }
     },
@@ -149,6 +201,8 @@
       "verse": 11,
       "latin_vulgate": " Amici mei et proximi mei adversum me appropinquaverunt, et steterunt ;  et qui juxta me erant, de longe steterunt :  et vim faciebant qui quærebant animam meam. ",
       "hebrew_masoretic": "אֹֽהֲבַ֨י ׀ וְרֵעַ֗י מִנֶּ֣גֶד נִגְעִ֣י יַעֲמֹ֑דוּ וּ֝קְרוֹבַ֗י מֵרָחֹ֥ק עָמָֽדוּ׃",
+      "douay_rheims": "My friends and my neighbours have drawn near, and stood against me. And they that were near me stood afar off:",
+      "finnish_biblia": "Minun ystäväni ja lähimmäiseni ovat kohdastansa minua vastaan, ja minun omaiseni seisovat kaukana. ",
       "king_james": "My lovers and my friends stand aloof from my sore; and my kinsmen stand afar off.",
       "refs": {
         "latin_vulgate": {
@@ -156,6 +210,9 @@
         },
         "hebrew_masoretic": {
           "src": "38:12"
+        },
+        "douay_rheims": {
+          "src": "37:12"
         }
       }
     },
@@ -163,6 +220,8 @@
       "verse": 12,
       "latin_vulgate": " Et qui inquirebant mala mihi, locuti sunt vanitates,  et dolos tota die meditabantur. ",
       "hebrew_masoretic": "וַיְנַקְשׁ֤וּ ׀ מְבַקְשֵׁ֬י נַפְשִׁ֗י וְדֹרְשֵׁ֣י רָ֭עָתִי דִּבְּר֣וּ הַוּ֑וֹת וּ֝מִרְמ֗וֹת כׇּל־הַיּ֥וֹם יֶהְגּֽוּ׃",
+      "douay_rheims": "And they that sought my soul used violence. And they that sought evils to me spoke vain things, and studied deceits all the day long.",
+      "finnish_biblia": "Jotka minun sieluani etsivät, ne virittelevät paulat minun eteeni, ja jotka minulle pahaa suovat, ne puhuvat sulaa pahuutta, ja petosta joka päivä ajattelevat. ",
       "king_james": "They also that seek after my life lay snares for me: and they that seek my hurt speak mischievous things, and imagine deceits all the day long.",
       "refs": {
         "latin_vulgate": {
@@ -170,6 +229,9 @@
         },
         "hebrew_masoretic": {
           "src": "38:13"
+        },
+        "douay_rheims": {
+          "src": "37:13"
         }
       }
     },
@@ -177,6 +239,8 @@
       "verse": 13,
       "latin_vulgate": " Ego autem, tamquam surdus, non audiebam ;  et sicut mutus non aperiens os suum. ",
       "hebrew_masoretic": "וַאֲנִ֣י כְ֭חֵרֵשׁ לֹ֣א אֶשְׁמָ֑ע וּ֝כְאִלֵּ֗ם לֹ֣א יִפְתַּח־פִּֽיו׃",
+      "douay_rheims": "But I, as a deaf man, heard not: and as a dumb man not opening his mouth.",
+      "finnish_biblia": "Mutta minun täytyy olla niinkuin kuuron, ja ei mitään kuuleman, ja niinkuin mykän, joka ei avaja suutansa, ",
       "king_james": "But I, as a deaf man, heard not; and I was as a dumb man that openeth not his mouth.",
       "refs": {
         "latin_vulgate": {
@@ -184,6 +248,9 @@
         },
         "hebrew_masoretic": {
           "src": "38:14"
+        },
+        "douay_rheims": {
+          "src": "37:14"
         }
       }
     },
@@ -191,6 +258,8 @@
       "verse": 14,
       "latin_vulgate": " Et factus sum sicut homo non audiens,  et non habens in ore suo redargutiones. ",
       "hebrew_masoretic": "וָאֱהִ֗י כְּ֭אִישׁ אֲשֶׁ֣ר לֹֽא־שֹׁמֵ֑עַ וְאֵ֥ין בְּ֝פִ֗יו תּוֹכָחֽוֹת׃",
+      "douay_rheims": "And I became as a man that heareth not: and that hath no reproofs in his mouth.",
+      "finnish_biblia": "Ja minun täytyy olla niinkuin se, joka ei mitään kuule, ja jonka suussa ei ole vastausta. ",
       "king_james": "Thus I was as a man that heareth not, and in whose mouth are no reproofs.",
       "refs": {
         "latin_vulgate": {
@@ -198,6 +267,9 @@
         },
         "hebrew_masoretic": {
           "src": "38:15"
+        },
+        "douay_rheims": {
+          "src": "37:15"
         }
       }
     },
@@ -205,6 +277,8 @@
       "verse": 15,
       "latin_vulgate": " Quoniam in te, Domine, speravi ;  tu exaudies me, Domine Deus meus. ",
       "hebrew_masoretic": "כִּֽי־לְךָ֣ יְהֹוָ֣ה הוֹחָ֑לְתִּי אַתָּ֥ה תַ֝עֲנֶ֗ה אֲדֹנָ֥י אֱלֹהָֽי׃",
+      "douay_rheims": "For in thee, O Lord, have I hoped: thou wilt hear me, O Lord my God.",
+      "finnish_biblia": "Mutta minä odotan sinua, Herra; sinä, Herra, minun Jumalani, kuultelet minua. ",
       "king_james": "For in thee, O Lord, do I hope: thou wilt hear, O Lord my God.",
       "refs": {
         "latin_vulgate": {
@@ -212,6 +286,9 @@
         },
         "hebrew_masoretic": {
           "src": "38:16"
+        },
+        "douay_rheims": {
+          "src": "37:16"
         }
       }
     },
@@ -219,6 +296,8 @@
       "verse": 16,
       "latin_vulgate": " Quia dixi : Nequando supergaudeant mihi inimici mei ;  et dum commoventur pedes mei, super me magna locuti sunt. ",
       "hebrew_masoretic": "כִּֽי־אָ֭מַרְתִּי פֶּן־יִשְׂמְחוּ־לִ֑י בְּמ֥וֹט רַ֝גְלִ֗י עָלַ֥י הִגְדִּֽילוּ׃",
+      "douay_rheims": "For I said: Lest at any time my enemies rejoice over me: and whilst my feet are moved, they speak great things against me.",
+      "finnish_biblia": "Sillä minä ajattelen, ettei heidän suinkaan pidä minusta iloitseman: jos minun jalkani kompastuis, niin he kerskaisivat sangen paljon minusta. ",
       "king_james": "For I said, Hear me, lest otherwise they should rejoice over me: when my foot slippeth, they magnify themselves against me.",
       "refs": {
         "latin_vulgate": {
@@ -226,6 +305,9 @@
         },
         "hebrew_masoretic": {
           "src": "38:17"
+        },
+        "douay_rheims": {
+          "src": "37:17"
         }
       }
     },
@@ -233,6 +315,8 @@
       "verse": 17,
       "latin_vulgate": " Quoniam ego in flagella paratus sum,  et dolor meus in conspectu meo semper. ",
       "hebrew_masoretic": "כִּֽי־אֲ֭נִי לְצֶ֣לַע נָכ֑וֹן וּמַכְאוֹבִ֖י נֶגְדִּ֣י תָמִֽיד׃",
+      "douay_rheims": "For I am ready for scourges: and my sorrow is continually before me.",
+      "finnish_biblia": "Sillä minä olen tehty kärsimään, ja minun kipuni on alati minun edessäni. ",
       "king_james": "For I am ready to halt, and my sorrow is continually before me.",
       "refs": {
         "latin_vulgate": {
@@ -240,6 +324,9 @@
         },
         "hebrew_masoretic": {
           "src": "38:18"
+        },
+        "douay_rheims": {
+          "src": "37:18"
         }
       }
     },
@@ -247,6 +334,8 @@
       "verse": 18,
       "latin_vulgate": " Quoniam iniquitatem meam annuntiabo,  et cogitabo pro peccato meo. ",
       "hebrew_masoretic": "כִּֽי־עֲוֺנִ֥י אַגִּ֑יד אֶ֝דְאַ֗ג מֵ֖חַטָּאתִֽי׃",
+      "douay_rheims": "For I will declare my iniquity: and I will think for my sin.",
+      "finnish_biblia": "Sillä minä julistan pahan tekoni, ja murehdin syntini tähden. ",
       "king_james": "For I will declare mine iniquity; I will be sorry for my sin.",
       "refs": {
         "latin_vulgate": {
@@ -254,6 +343,9 @@
         },
         "hebrew_masoretic": {
           "src": "38:19"
+        },
+        "douay_rheims": {
+          "src": "37:19"
         }
       }
     },
@@ -261,6 +353,8 @@
       "verse": 19,
       "latin_vulgate": " Inimici autem mei vivunt, et confirmati sunt super me :  et multiplicati sunt qui oderunt me inique. ",
       "hebrew_masoretic": "וְֽ֭אֹיְבַי חַיִּ֣ים עָצֵ֑מוּ וְרַבּ֖וּ שֹׂנְאַ֣י שָֽׁקֶר׃",
+      "douay_rheims": "But my enemies live, and are stronger than I: and they that hate me wrongfully are multiplied.",
+      "finnish_biblia": "Mutta minun viholliseni elävät ja ovat väkevät: ne ovat suuret, jotka minua syyttömästi vihaavat. ",
       "king_james": "But mine enemies are lively, and they are strong: and they that hate me wrongfully are multiplied.",
       "refs": {
         "latin_vulgate": {
@@ -268,6 +362,9 @@
         },
         "hebrew_masoretic": {
           "src": "38:20"
+        },
+        "douay_rheims": {
+          "src": "37:20"
         }
       }
     },
@@ -275,6 +372,8 @@
       "verse": 20,
       "latin_vulgate": " Qui retribuunt mala pro bonis detrahebant mihi,  quoniam sequebar bonitatem. ",
       "hebrew_masoretic": "וּמְשַׁלְּמֵ֣י רָ֭עָה תַּ֣חַת טוֹבָ֑ה יִ֝שְׂטְנ֗וּנִי תַּ֣חַת (רדופי) [רׇֽדְפִי־]טֽוֹב׃",
+      "douay_rheims": "They that render evil for good, have detracted me, because I followed goodness.",
+      "finnish_biblia": "Ja ne, jotka minulle maksavat pahalla hyvän, asettavat heitänsä minua vastaan, että minä hyvää noudatan. ",
       "king_james": "They also that render evil for good are mine adversaries; because I follow the thing that good is.",
       "refs": {
         "latin_vulgate": {
@@ -282,6 +381,9 @@
         },
         "hebrew_masoretic": {
           "src": "38:21"
+        },
+        "douay_rheims": {
+          "src": "37:21"
         }
       }
     },
@@ -289,6 +391,8 @@
       "verse": 21,
       "latin_vulgate": " Ne derelinquas me, Domine Deus meus ;  ne discesseris a me. ",
       "hebrew_masoretic": "אַל־תַּעַזְבֵ֥נִי יְהֹוָ֑ה אֱ֝לֹהַ֗י אַל־תִּרְחַ֥ק מִמֶּֽנִּי׃",
+      "douay_rheims": "For sake me not, O Lord my God: do not thou depart from me.",
+      "finnish_biblia": "Älä hylkää minua, Herra: minun Jumalani, älä ole kaukana minusta! ",
       "king_james": "Forsake me not, O Lord: O my God, be not far from me.",
       "refs": {
         "latin_vulgate": {
@@ -296,6 +400,9 @@
         },
         "hebrew_masoretic": {
           "src": "38:22"
+        },
+        "douay_rheims": {
+          "src": "37:22"
         }
       }
     },
@@ -303,6 +410,8 @@
       "verse": 22,
       "latin_vulgate": " Intende in adjutorium meum,  Domine Deus salutis meæ.  ",
       "hebrew_masoretic": "ח֥וּשָׁה לְעֶזְרָתִ֑י אֲ֝דֹנָ֗י תְּשׁוּעָתִֽי׃ {פ}",
+      "douay_rheims": "Attend unto my help, O Lord, the God of my salvation. ",
+      "finnish_biblia": "Riennä minua auttamaan, Herra, minun autuuteni!   ",
       "king_james": "Make haste to help me, O Lord my salvation. ",
       "refs": {
         "latin_vulgate": {
@@ -310,6 +419,9 @@
         },
         "hebrew_masoretic": {
           "src": "38:23"
+        },
+        "douay_rheims": {
+          "src": "37:23"
         }
       }
     }

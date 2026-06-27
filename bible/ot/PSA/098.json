@@ -2,6 +2,8 @@
   "book_id": "PSA",
   "latin_name": "Liber Psalmorum",
   "hebrew_name": "תְּהִלִּים",
+  "douay_name": "Psalms",
+  "finnish_name": "Psalmit",
   "english_name": "Psalms",
   "chapter": 98,
   "verses": [
@@ -9,9 +11,14 @@
       "verse": 1,
       "latin_vulgate": "Psalmus ipsi David.   Cantate Domino canticum novum,  quia mirabilia fecit.  Salvavit sibi dextera ejus,  et brachium sanctum ejus. ",
       "hebrew_masoretic": "מִזְמ֡וֹר שִׁ֤ירוּ לַיהֹוָ֨ה ׀ שִׁ֣יר חָ֭דָשׁ כִּֽי־נִפְלָא֣וֹת עָשָׂ֑ה הוֹשִׁיעָה־לּ֥וֹ יְ֝מִינ֗וֹ וּזְר֥וֹעַ קׇדְשֽׁוֹ׃",
+      "douay_rheims": "A psalm for David himself. Sing ye to the Lord a new canticle: because he hath done wonderful things. His right hand hath wrought for him salvation, and his arm is holy.",
+      "finnish_biblia": "Psalmi. Veisatkaat Herralle uusi veisu; sillä hän tekee ihmeitä. Hän saa voiton oikialla kädellänsä ja pyhällä käsivarrellansa. ",
       "king_james": "O sing unto the Lord a new song; for he hath done marvellous things: his right hand, and his holy arm, hath gotten him the victory.",
       "refs": {
         "latin_vulgate": {
+          "src": "97:1"
+        },
+        "douay_rheims": {
           "src": "97:1"
         }
       }
@@ -20,9 +27,14 @@
       "verse": 2,
       "latin_vulgate": " Notum fecit Dominus salutare suum ;  in conspectu gentium revelavit justitiam suam. ",
       "hebrew_masoretic": "הוֹדִ֣יעַ יְ֭הֹוָה יְשׁוּעָת֑וֹ לְעֵינֵ֥י הַ֝גּוֹיִ֗ם גִּלָּ֥ה צִדְקָתֽוֹ׃",
+      "douay_rheims": "The Lord hath made known his salvation: he hath revealed his justice in the sight of the Gentiles.",
+      "finnish_biblia": "Herra antaa tiettäväksi tehdä autuutensa: kansain edessä hän ilmoittaa vanhurskautensa. ",
       "king_james": "The Lord hath made known his salvation: his righteousness hath he openly shewed in the sight of the heathen.",
       "refs": {
         "latin_vulgate": {
+          "src": "97:2"
+        },
+        "douay_rheims": {
           "src": "97:2"
         }
       }
@@ -31,9 +43,14 @@
       "verse": 3,
       "latin_vulgate": " Recordatus est misericordiæ suæ,  et veritatis suæ domui Israël.  Viderunt omnes termini terræ  salutare Dei nostri. ",
       "hebrew_masoretic": "זָ֘כַ֤ר חַסְדּ֨וֹ ׀ וֶ֥אֱֽמוּנָתוֹ֮ לְבֵ֢ית יִשְׂרָ֫אֵ֥ל רָא֥וּ כׇל־אַפְסֵי־אָ֑רֶץ אֵ֝֗ת יְשׁוּעַ֥ת אֱלֹהֵֽינוּ׃",
+      "douay_rheims": "He hath remembered his mercy and his truth toward the house of Israel. All the ends of the earth have seen the salvation of our God.",
+      "finnish_biblia": "Hän muistaa armonsa ja totuutensa Israelin huoneelle: kaikki maailman ääret näkevät meidän Jumalamme autuuden. ",
       "king_james": "He hath remembered his mercy and his truth toward the house of Israel: all the ends of the earth have seen the salvation of our God.",
       "refs": {
         "latin_vulgate": {
+          "src": "97:3"
+        },
+        "douay_rheims": {
           "src": "97:3"
         }
       }
@@ -42,9 +59,14 @@
       "verse": 4,
       "latin_vulgate": " Jubilate Deo, omnis terra ;  cantate, et exsultate, et psallite. ",
       "hebrew_masoretic": "הָרִ֣יעוּ לַ֭יהֹוָה כׇּל־הָאָ֑רֶץ פִּצְח֖וּ וְרַנְּנ֣וּ וְזַמֵּֽרוּ׃",
+      "douay_rheims": "Sing joyfully to God, all the earth; make melody, rejoice and sing.",
+      "finnish_biblia": "Riemuitkaat Herralle kaikki maa: veisatkaat, ylistäkäät ja kiittäkäät. ",
       "king_james": "Make a joyful noise unto the Lord, all the earth: make a loud noise, and rejoice, and sing praise.",
       "refs": {
         "latin_vulgate": {
+          "src": "97:4"
+        },
+        "douay_rheims": {
           "src": "97:4"
         }
       }
@@ -53,9 +75,14 @@
       "verse": 5,
       "latin_vulgate": " Psallite Domino in cithara ;  in cithara et voce psalmi ; ",
       "hebrew_masoretic": "זַמְּר֣וּ לַיהֹוָ֣ה בְּכִנּ֑וֹר בְּ֝כִנּ֗וֹר וְק֣וֹל זִמְרָֽה׃",
+      "douay_rheims": "Sing praise to the Lord on the harp, on the harp, and with the voice of a psalm:",
+      "finnish_biblia": "Kiittäkäät Herraa kanteleella, kanteleella ja psalmilla, ",
       "king_james": "Sing unto the Lord with the harp; with the harp, and the voice of a psalm.",
       "refs": {
         "latin_vulgate": {
+          "src": "97:5"
+        },
+        "douay_rheims": {
           "src": "97:5"
         }
       }
@@ -64,9 +91,14 @@
       "verse": 6,
       "latin_vulgate": " in tubis ductilibus, et voce tubæ corneæ.  Jubilate in conspectu regis Domini : ",
       "hebrew_masoretic": "בַּ֭חֲצֹ֣צְרוֹת וְק֣וֹל שׁוֹפָ֑ר הָ֝רִ֗יעוּ לִפְנֵ֤י ׀ הַמֶּ֬לֶךְ יְהֹוָֽה׃",
+      "douay_rheims": "With long trumpets, and sound of cornet. Make a joyful noise before the Lord our king:",
+      "finnish_biblia": "Vaskitorvilla ja basunilla: riemuitkaat Herran, kuninkaan, edessä. ",
       "king_james": "With trumpets and sound of cornet make a joyful noise before the Lord, the King.",
       "refs": {
         "latin_vulgate": {
+          "src": "97:6"
+        },
+        "douay_rheims": {
           "src": "97:6"
         }
       }
@@ -75,9 +107,14 @@
       "verse": 7,
       "latin_vulgate": " moveatur mare, et plenitudo ejus ;  orbis terrarum, et qui habitant in eo. ",
       "hebrew_masoretic": "יִרְעַ֣ם הַ֭יָּם וּמְלֹא֑וֹ תֵּ֝בֵ֗ל וְיֹ֣שְׁבֵי בָֽהּ׃",
+      "douay_rheims": "Let the sea be moved and the fullness thereof: the world and they that dwell therein.",
+      "finnish_biblia": "Meri pauhatkaan ja kaikki, mitä hänessä on, maan piiri ja jotka asuvat sen päällä. ",
       "king_james": "Let the sea roar, and the fulness thereof; the world, and they that dwell therein.",
       "refs": {
         "latin_vulgate": {
+          "src": "97:7"
+        },
+        "douay_rheims": {
           "src": "97:7"
         }
       }
@@ -86,9 +123,14 @@
       "verse": 8,
       "latin_vulgate": " Flumina plaudent manu ;  simul montes exsultabunt ",
       "hebrew_masoretic": "נְהָר֥וֹת יִמְחֲאוּ־כָ֑ף יַ֝֗חַד הָרִ֥ים יְרַנֵּֽנוּ׃",
+      "douay_rheims": "The rivers shall clap their hands, the mountains shall rejoice together",
+      "finnish_biblia": "Kosket pauhatkaan ilosta, ja kaikki vuoret olkaan iloiset, ",
       "king_james": "Let the floods clap their hands: let the hills be joyful together",
       "refs": {
         "latin_vulgate": {
+          "src": "97:8"
+        },
+        "douay_rheims": {
           "src": "97:8"
         }
       }
@@ -97,9 +139,14 @@
       "verse": 9,
       "latin_vulgate": "a conspectu Domini :  quoniam venit judicare terram.  Judicabit orbem terrarum in justitia,  et populos in æquitate.  ",
       "hebrew_masoretic": "לִ֥פְֽנֵי־יְהֹוָ֗ה כִּ֥י בָא֮ לִשְׁפֹּ֢ט הָ֫אָ֥רֶץ יִשְׁפֹּֽט־תֵּבֵ֥ל בְּצֶ֑דֶק וְ֝עַמִּ֗ים בְּמֵישָׁרִֽים׃ {פ}",
+      "douay_rheims": "At the presence of the Lord: because he cometh to judge the earth. He shall judge the world with justice, and the people with equity. ",
+      "finnish_biblia": "Herran edessä; sillä hän tulee maata tuomitsemaan: hän tuomitsee maan piirin vanhurskaudella ja kansat oikeudella.   ",
       "king_james": "Before the Lord; for he cometh to judge the earth: with righteousness shall he judge the world, and the people with equity. ",
       "refs": {
         "latin_vulgate": {
+          "src": "97:9"
+        },
+        "douay_rheims": {
           "src": "97:9"
         }
       }

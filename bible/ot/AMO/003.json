@@ -2,6 +2,8 @@
   "book_id": "AMO",
   "latin_name": "Amos",
   "hebrew_name": "עָמוֹס",
+  "douay_name": "Amos",
+  "finnish_name": "Aamos",
   "english_name": "Amos",
   "chapter": 3,
   "verses": [
@@ -9,90 +11,120 @@
       "verse": 1,
       "latin_vulgate": "Audite verbum quod locutus est Dominus super vos, filii Israël,  super omnem cognationem quam eduxi de terra Ægypti, dicens : ",
       "hebrew_masoretic": "שִׁמְע֞וּ אֶת־הַדָּבָ֣ר הַזֶּ֗ה אֲשֶׁ֨ר דִּבֶּ֧ר יְהֹוָ֛ה עֲלֵיכֶ֖ם בְּנֵ֣י יִשְׂרָאֵ֑ל עַ֚ל כׇּל־הַמִּשְׁפָּחָ֔ה אֲשֶׁ֧ר הֶעֱלֵ֛יתִי מֵאֶ֥רֶץ מִצְרַ֖יִם לֵאמֹֽר׃",
+      "douay_rheims": "Hear the word that the Lord hath spoken concerning you, O ye children of Israel: concerning the whole family that I brought up out of the land of Egypt, saying:",
+      "finnish_biblia": "Kuulkaat tätä sanaa, jonka Herra puhuu teistä, te Israelin lapset, kaikista sukukunnista, jotka minä olen vienyt ulos Egyptin maalta, ja sanoin: ",
       "king_james": "Hear this word that the Lord hath spoken against you, O children of Israel, against the whole family which I brought up from the land of Egypt, saying,"
     },
     {
       "verse": 2,
       "latin_vulgate": " Tantummodo vos cognovi ex omnibus cognationibus terræ ;  idcirco visitabo super vos omnes iniquitates vestras. ",
       "hebrew_masoretic": "רַ֚ק אֶתְכֶ֣ם יָדַ֔עְתִּי מִכֹּ֖ל מִשְׁפְּח֣וֹת הָאֲדָמָ֑ה עַל־כֵּן֙ אֶפְקֹ֣ד עֲלֵיכֶ֔ם אֵ֖ת כׇּל־עֲוֺנֹתֵיכֶֽם׃",
+      "douay_rheims": "You only have I known of all the families of the earth: therefore will I visit upon you all your iniquities.",
+      "finnish_biblia": "Kaikista sukukunnista maan päällä olen minä teidät ainoastaan korjannut; sen tähden tahdon minä myös teitä etsiä kaikissa teidän pahoissa töissänne. ",
       "king_james": "You only have I known of all the families of the earth: therefore I will punish you for all your iniquities."
     },
     {
       "verse": 3,
       "latin_vulgate": " Numquid ambulabunt duo pariter,  nisi convenerit eis ? ",
       "hebrew_masoretic": "הֲיֵלְכ֥וּ שְׁנַ֖יִם יַחְדָּ֑ו בִּלְתִּ֖י אִם־נוֹעָֽדוּ׃",
+      "douay_rheims": "Shall two walk together except they be agreed?",
+      "finnish_biblia": "Taitaako kaksi yhdessä vaeltaa, ellei he yhteen sovi? ",
       "king_james": "Can two walk together, except they be agreed?"
     },
     {
       "verse": 4,
       "latin_vulgate": " numquid rugiet leo in saltu,  nisi habuerit prædam ?  numquid dabit catulus leonis vocem de cubili suo,  nisi aliquid apprehenderit ? ",
       "hebrew_masoretic": "הֲיִשְׁאַ֤ג אַרְיֵה֙ בַּיַּ֔עַר וְטֶ֖רֶף אֵ֣ין ל֑וֹ הֲיִתֵּ֨ן כְּפִ֤יר קוֹלוֹ֙ מִמְּעֹ֣נָת֔וֹ בִּלְתִּ֖י אִם־לָכָֽד׃",
+      "douay_rheims": "Will a lion roar in the forest, if he have no prey? will the lion's whelp cry out of his den, if he have taken nothing?",
+      "finnish_biblia": "Kiljuuko jalopeura metsässä, jos ei hänellä ruokaa ole? Parkuuko jalopeuran penikka luolastansa, ellei hän jotakin saanut ole? ",
       "king_james": "Will a lion roar in the forest, when he hath no prey? will a young lion cry out of his den, if he have taken nothing?"
     },
     {
       "verse": 5,
       "latin_vulgate": " numquid cadet avis in laqueum terræ  absque aucupe ?  numquid auferetur laqueus de terra  antequam quid ceperit ? ",
       "hebrew_masoretic": "הֲתִפֹּ֤ל צִפּוֹר֙ עַל־פַּ֣ח הָאָ֔רֶץ וּמוֹקֵ֖שׁ אֵ֣ין לָ֑הּ הֲיַֽעֲלֶה־פַּח֙ מִן־הָ֣אֲדָמָ֔ה וְלָכ֖וֹד לֹ֥א יִלְכּֽוֹד׃",
+      "douay_rheims": "Will the bird fall into the snare upon the earth, if there be no fowler? Shall the snare be taken up from the earth, before it hath taken somewhat?",
+      "finnish_biblia": "Menneekö lintu paulaan maan päällä, kussa ei pyytäjää ole? Ottaneeko hän paulansa maasta, joka ei mitään vielä saanut ole? ",
       "king_james": "Can a bird fall in a snare upon the earth, where no gin is for him? shall one take up a snare from the earth, and have taken nothing at all?"
     },
     {
       "verse": 6,
       "latin_vulgate": " si clanget tuba in civitate,  et populus non expavescet ?  si erit malum in civitate,  quod Dominus non fecerit ? ",
       "hebrew_masoretic": "אִם־יִתָּקַ֤ע שׁוֹפָר֙ בְּעִ֔יר וְעָ֖ם לֹ֣א יֶחֱרָ֑דוּ אִם־תִּֽהְיֶ֤ה רָעָה֙ בְּעִ֔יר וַיהֹוָ֖ה לֹ֥א עָשָֽׂה׃",
+      "douay_rheims": "Shall the trumpet sound in a city, and the people not be afraid? Shall there be evil in a city, which the Lord hath not done?",
+      "finnish_biblia": "Soitetaanko vaskitorvea kaupungissa, ja ei kansa hämmästy? Onko myös jotain pahaa kaupungissa, jota ei Herra tee? ",
       "king_james": "Shall a trumpet be blown in the city, and the people not be afraid? shall there be evil in a city, and the Lord hath not done it?"
     },
     {
       "verse": 7,
       "latin_vulgate": " Quia non facit Dominus Deus verbum,  nisi revelaverit secretum suum ad servos suos prophetas. ",
       "hebrew_masoretic": "כִּ֣י לֹ֧א יַעֲשֶׂ֛ה אֲדֹנָ֥י יֱהֹוִ֖ה דָּבָ֑ר כִּ֚י אִם־גָּלָ֣ה סוֹד֔וֹ אֶל־עֲבָדָ֖יו הַנְּבִיאִֽים׃",
+      "douay_rheims": "For the Lord God doth nothing without revealing his secret to his servants the prophets.",
+      "finnish_biblia": "Sillä ei Herra, Herra tee mitään, ellei hän ilmoita salauttansa palvelioillensa prophetaille. ",
       "king_james": "Surely the Lord God will do nothing, but he revealeth his secret unto his servants the prophets."
     },
     {
       "verse": 8,
       "latin_vulgate": " Leo rugiet, quis non timebit ?  Dominus Deus locutus est, quis non prophetabit ? ",
       "hebrew_masoretic": "אַרְיֵ֥ה שָׁאָ֖ג מִ֣י לֹ֣א יִירָ֑א אֲדֹנָ֤י יֱהֹוִה֙ דִּבֶּ֔ר מִ֖י לֹ֥א יִנָּבֵֽא׃",
+      "douay_rheims": "The lion shall roar, who will not fear? The Lord God hath spoken, who shall not prophesy?",
+      "finnish_biblia": "Jalopeura kiljuu, kuka ei pelkää? Herra, Herra puhuu, kuka ei ennusta? ",
       "king_james": "The lion hath roared, who will not fear? the Lord God hath spoken, who can but prophesy?"
     },
     {
       "verse": 9,
       "latin_vulgate": " Auditum facite in ædibus Azoti,  et in ædibus terræ Ægypti,  et dicite : Congregamini super montes Samariæ,  et videte insanias multas in medio ejus,  et calumniam patientes in penetralibus ejus. ",
       "hebrew_masoretic": "הַשְׁמִ֙יעוּ֙ עַל־אַרְמְנ֣וֹת בְּאַשְׁדּ֔וֹד וְעַֽל־אַרְמְנ֖וֹת בְּאֶ֣רֶץ מִצְרָ֑יִם וְאִמְר֗וּ הֵאָֽסְפוּ֙ עַל־הָרֵ֣י שֹׁמְר֔וֹן וּרְא֞וּ מְהוּמֹ֤ת רַבּוֹת֙ בְּתוֹכָ֔הּ וַעֲשׁוּקִ֖ים בְּקִרְבָּֽהּ׃",
+      "douay_rheims": "Publish it in the houses of Azotus, and in the houses of the land of Egypt, and say: Assemble yourselves upon the mountains of Samaria, and behold the many follies in the midst thereof, and them that suffer oppression in the inner rooms thereof.",
+      "finnish_biblia": "Julistakaat Asdodin huoneissa ja Egyptin maan huoneissa, ja sanokaat: kootkaat teitänne Samarian vuorille, ja katsokaat, kuinka suuri vääryys ja väkivalta siellä on. ",
       "king_james": "Publish in the palaces at Ashdod, and in the palaces in the land of Egypt, and say, Assemble yourselves upon the mountains of Samaria, and behold the great tumults in the midst thereof, and the oppressed in the midst thereof."
     },
     {
       "verse": 10,
       "latin_vulgate": " Et nescierunt facere rectum, dicit Dominus,  thesaurizantes iniquitatem et rapinas in ædibus suis. ",
       "hebrew_masoretic": "וְלֹא־יָדְע֥וּ עֲשׂוֹת־נְכֹחָ֖ה נְאֻם־יְהֹוָ֑ה הָא֥וֹצְרִ֛ים חָמָ֥ס וָשֹׁ֖ד בְּאַרְמְנוֹתֵיהֶֽם׃ {פ}",
+      "douay_rheims": "And they have not known to do the right thing, saith the Lord, storing up iniquity, and robberies in their houses.",
+      "finnish_biblia": "Ei he taida oikeutta tehdä, sanoo Herra; vaan kokoovat tavaroita huoneissansa väkivallalla ja ryöstämisellä. ",
       "king_james": "For they know not to do right, saith the Lord, who store up violence and robbery in their palaces."
     },
     {
       "verse": 11,
       "latin_vulgate": " Propterea hæc dicit Dominus Deus :  Tribulabitur et circuietur terra :  et detrahetur ex te fortitudo tua,  et diripientur ædes tuæ. ",
       "hebrew_masoretic": "לָכֵ֗ן כֹּ֤ה אָמַר֙ אֲדֹנָ֣י יֱהֹוִ֔ה צַ֖ר וּסְבִ֣יב הָאָ֑רֶץ וְהוֹרִ֤יד מִמֵּךְ֙ עֻזֵּ֔ךְ וְנָבֹ֖זּוּ אַרְמְנוֹתָֽיִךְ׃",
+      "douay_rheims": "Therefore thus saith the Lord God: The land shall be in tribulation, and shall be compassed about: and thy strength shall be taken away from thee, and thy houses shall be spoiled.",
+      "finnish_biblia": "Sentähden näin sanoo Herra, Herra: tämä maa piiritetään; ja sinä paiskataan alas sinun vallastas, ja sinun huonees raadellaan. ",
       "king_james": "Therefore thus saith the Lord God; An adversary there shall be even round about the land; and he shall bring down thy strength from thee, and thy palaces shall be spoiled."
     },
     {
       "verse": 12,
       "latin_vulgate": " Hæc dicit Dominus :  Quomodo si eruat pastor de ore leonis  duo crura, aut extremum auriculæ,  sic eruentur filii Israël, qui habitant in Samaria  in plaga lectuli, et in Damasci grabato. ",
       "hebrew_masoretic": "כֹּה֮ אָמַ֣ר יְהֹוָה֒ כַּאֲשֶׁר֩ יַצִּ֨יל הָרֹעֶ֜ה מִפִּ֧י הָאֲרִ֛י שְׁתֵּ֥י כְרָעַ֖יִם א֣וֹ בְדַל־אֹ֑זֶן כֵּ֣ן יִנָּצְל֞וּ בְּנֵ֣י יִשְׂרָאֵ֗ל הַיֹּֽשְׁבִים֙ בְּשֹׁ֣מְר֔וֹן בִּפְאַ֥ת מִטָּ֖ה וּבִדְמֶ֥שֶׁק עָֽרֶשׂ׃",
+      "douay_rheims": "Thus saith the Lord: As if a shepherd should get out of the lion's mouth two legs, or the tip of the ear: so shall the children of Israel be taken out that dwell in Samaria, in a place of a bed, and in the couch of Damascus.",
+      "finnish_biblia": "Näin sanoo Herra: Niinkuin paimen tempaa ulos jalopeuran suusta kaksi reittä eli korvan kappaleen; niin myös Israelin lapset pitää temmatuksi tuleman, jotka Samariassa asuvat, vuoteen loukkaassa ja kehdon kulmassa. ",
       "king_james": "Thus saith the Lord; As the shepherd taketh out of the mouth of the lion two legs, or a piece of an ear; so shall the children of Israel be taken out that dwell in Samaria in the corner of a bed, and in Damascus in a couch."
     },
     {
       "verse": 13,
       "latin_vulgate": " Audite, et contestamini in domo Jacob,  dicit Dominus Deus exercituum ; ",
       "hebrew_masoretic": "שִׁמְע֥וּ וְהָעִ֖ידוּ בְּבֵ֣ית יַעֲקֹ֑ב נְאֻם־אֲדֹנָ֥י יֱהֹוִ֖ה אֱלֹהֵ֥י הַצְּבָאֽוֹת׃",
+      "douay_rheims": "Hear ye, and testify in the house of Jacob, saith the Lord the God of hosts:",
+      "finnish_biblia": "Kuulkaat ja todistakaat Jakobin huoneessa, sanoo Herra, Herra Jumala Zebaot. ",
       "king_james": "Hear ye, and testify in the house of Jacob, saith the Lord God, the God of hosts,"
     },
     {
       "verse": 14,
       "latin_vulgate": " quia in die cum visitare cœpero prævaricationes Israël,  super eum visitabo, et super altaria Bethel ;  et amputabuntur cornua altaris, et cadent in terram. ",
       "hebrew_masoretic": "כִּ֗י בְּי֛וֹם פׇּקְדִ֥י פִשְׁעֵֽי־יִשְׂרָאֵ֖ל עָלָ֑יו וּפָֽקַדְתִּי֙ עַל־מִזְבְּח֣וֹת בֵּֽית־אֵ֔ל וְנִגְדְּעוּ֙ קַרְנ֣וֹת הַמִּזְבֵּ֔חַ וְנָפְל֖וּ לָאָֽרֶץ׃",
+      "douay_rheims": "That in the day when I shall begin to visit the transgressions of Israel, I will visit upon him, and upon the altars of Bethel: and the horns of the altars shall be cut off, and shall fall to the ground.",
+      "finnish_biblia": "Sillä silloin, kuin minä Israelin synnit etsin, tahdon minä myös Betelin alttarin etsiä; ja alttarin sarvet pitää hakattaman pois, ja ne lankeeman maahan. ",
       "king_james": "That in the day that I shall visit the transgressions of Israel upon him I will also visit the altars of Beth–el: and the horns of the altar shall be cut off, and fall to the ground."
     },
     {
       "verse": 15,
       "latin_vulgate": " Et percutiam domum hiemalem cum domo æstiva,  et peribunt domus eburneæ,  et dissipabuntur ædes multæ,  dicit Dominus.  ",
       "hebrew_masoretic": "וְהִכֵּיתִ֥י בֵית־הַחֹ֖רֶף עַל־בֵּ֣ית הַקָּ֑יִץ וְאָבְד֞וּ בָּתֵּ֣י הַשֵּׁ֗ן וְסָפ֛וּ בָּתִּ֥ים רַבִּ֖ים נְאֻם־יְהֹוָֽה׃ {ס}",
+      "douay_rheims": "And I will strike the winter house with the summer house: and the houses of ivory shall perish, and many houses shall be destroyed, saith the Lord. ",
+      "finnish_biblia": "Ja tahdon talvihuoneen ja suvihuoneen maahan lyödä; ja elephantin luiset huoneet pitää hukkuman, ja paljo huoneita pitää häviämän, sanoo Herra.   ",
       "king_james": "And I will smite the winter house with the summer house; and the houses of ivory shall perish, and the great houses shall have an end, saith the Lord. "
     }
   ]

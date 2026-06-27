@@ -2,6 +2,8 @@
   "book_id": "PSA",
   "latin_name": "Liber Psalmorum",
   "hebrew_name": "תְּהִלִּים",
+  "douay_name": "Psalms",
+  "finnish_name": "Psalmit",
   "english_name": "Psalms",
   "chapter": 117,
   "verses": [
@@ -9,9 +11,14 @@
       "verse": 1,
       "latin_vulgate": "Alleluja.   Laudate Dominum, omnes gentes ;  laudate eum, omnes populi. ",
       "hebrew_masoretic": "הַֽלְל֣וּ אֶת־יְ֭הֹוָה כׇּל־גּוֹיִ֑ם שַׁ֝בְּח֗וּהוּ כׇּל־הָאֻמִּֽים׃",
+      "douay_rheims": "O Praise the Lord, all ye nations: praise him, all ye people.",
+      "finnish_biblia": "Kiittäkäät Herraa, kaikki pakanat: ylistäkäät häntä kaikki kansat! ",
       "king_james": "O praise the Lord, all ye nations: praise him, all ye people.",
       "refs": {
         "latin_vulgate": {
+          "src": "116:1"
+        },
+        "douay_rheims": {
           "src": "116:1"
         }
       }
@@ -20,9 +27,14 @@
       "verse": 2,
       "latin_vulgate": " Quoniam confirmata est super nos misericordia ejus,  et veritas Domini manet in æternum.  ",
       "hebrew_masoretic": "כִּ֥י־גָ֘בַ֤ר עָלֵ֨ינוּ ׀ חַסְדּ֗וֹ וֶאֱמֶת־יְהֹוָ֥ה לְעוֹלָ֗ם הַֽלְלוּ־יָֽהּ׃ {פ}",
+      "douay_rheims": "For his mercy is confirmed upon us: and the truth of the Lord remaineth for ever. ",
+      "finnish_biblia": "Sillä hänen armonsa on voimallinen meidän päällemme, ja Herran totuus ijankaikkisesti. Halleluja!   ",
       "king_james": "For his merciful kindness is great toward us: and the truth of the Lord endureth for ever. Praise ye the Lord. ",
       "refs": {
         "latin_vulgate": {
+          "src": "116:2"
+        },
+        "douay_rheims": {
           "src": "116:2"
         }
       }

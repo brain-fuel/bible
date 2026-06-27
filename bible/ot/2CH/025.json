@@ -2,6 +2,8 @@
   "book_id": "2CH",
   "latin_name": "II Paralipomenon",
   "hebrew_name": "דִּבְרֵי הַיָּמִים ב",
+  "douay_name": "2 Paralipomenon",
+  "finnish_name": "2. Aikakirja",
   "english_name": "2 Chronicles",
   "chapter": 25,
   "verses": [
@@ -9,168 +11,224 @@
       "verse": 1,
       "latin_vulgate": "Viginti quinque annorum erat Amasias cum regnare cœpisset, et viginti novem annis regnavit in Jerusalem : nomen matris ejus Joadan de Jerusalem. ",
       "hebrew_masoretic": "בֶּן־עֶשְׂרִ֨ים וְחָמֵ֤שׁ שָׁנָה֙ מָלַ֣ךְ אֲמַצְיָ֔הוּ וְעֶשְׂרִ֤ים וָתֵ֙שַׁע֙ שָׁנָ֔ה מָלַ֖ךְ בִּירוּשָׁלָ֑͏ִם וְשֵׁ֣ם אִמּ֔וֹ יְהוֹעַדָּ֖ן מִירוּשָׁלָֽיִם׃",
+      "douay_rheims": "Amasias was five and twenty years old when he began to reign, and he reigned nine and twenty years in Jerusalem, the name of his mother was Joadan of Jerusalem.",
+      "finnish_biblia": "Amatsia oli viiden ajastaikainen kolmattakymmentä tullessansa kuninkaaksi, ja hallitsi yhdeksänkolmattakymmentä ajastaikaa Jerusalemissa. Ja hänen äitinsä nimi oli Joaddan Jerusalemista. ",
       "king_james": "Amaziah was twenty and five years old when he began to reign, and he reigned twenty and nine years in Jerusalem. And his mother’s name was Jehoaddan of Jerusalem."
     },
     {
       "verse": 2,
       "latin_vulgate": "Fecitque bonum in conspectu Domini, verumtamen non in corde perfecto. ",
       "hebrew_masoretic": "וַיַּ֥עַשׂ הַיָּשָׁ֖ר בְּעֵינֵ֣י יְהֹוָ֑ה רַ֕ק לֹ֖א בְּלֵבָ֥ב שָׁלֵֽם׃",
+      "douay_rheims": "And he did what was good in the sight of the Lord: but yet not with a perfect heart.",
+      "finnish_biblia": "Ja hän teki, mitä Herralle oli otollinen, vaan ei täydestä sydämestä. ",
       "king_james": "And he did that which was right in the sight of the Lord, but not with a perfect heart."
     },
     {
       "verse": 3,
       "latin_vulgate": "Cumque roboratum sibi videret imperium, jugulavit servos qui occiderant regem patrem suum, ",
       "hebrew_masoretic": "וַיְהִ֕י כַּאֲשֶׁ֛ר חָזְקָ֥ה הַמַּמְלָכָ֖ה עָלָ֑יו וַֽיַּהֲרֹג֙ אֶת־עֲבָדָ֔יו הַמַּכִּ֖ים אֶת־הַמֶּ֥לֶךְ אָבִֽיו׃",
+      "douay_rheims": "And when he saw himself strengthened in his kingdom, he put to death the servants that had slain the king his father.",
+      "finnish_biblia": "Kuin hänen valtakuntansa vahvistettiin, tappoi hän palveliansa, jotka tappoivat kuninkaan hänen isänsä. ",
       "king_james": "Now it came to pass, when the kingdom was established to him, that he slew his servants that had killed the king his father."
     },
     {
       "verse": 4,
       "latin_vulgate": "sed filios eorum non interfecit, sicut scriptum est in libro legis Moysi, ubi præcepit Dominus, dicens : Non occidentur patres pro filiis, neque filii pro patribus suis, sed unusquisque in suo peccato morietur. ",
       "hebrew_masoretic": "וְאֶת־בְּנֵיהֶ֖ם לֹ֣א הֵמִ֑ית כִּ֣י כַכָּת֣וּב בַּתּוֹרָ֡ה בְּסֵ֣פֶר מֹשֶׁה֩ אֲשֶׁר־צִוָּ֨ה יְהֹוָ֜ה לֵאמֹ֗ר לֹא־יָמ֨וּתוּ אָב֤וֹת עַל־בָּנִים֙ וּבָנִים֙ לֹא־יָמ֣וּתוּ עַל־אָב֔וֹת כִּ֛י אִ֥ישׁ בְּחֶטְא֖וֹ יָמֽוּתוּ׃",
+      "douay_rheims": "But he slew not their children, as it is written in the book of the law of Moses, where the Lord commanded, saying: The fathers shall not be slain for the children, nor the children for their fathers, but every man shall die for his own sin.",
+      "finnish_biblia": "Mutta heidän lapsiansa ei hän tappanut; sillä näin on kirjoitettu laissa Moseksen raamatussa, jossa Herra kieltää, sanoen: ei tule isäin kuolla lasten edestä, eikä lasten isäin edestä; mutta jokaisen pitää kuoleman syntinsä tähden. ",
       "king_james": "But he slew not their children, but did as it is written in the law in the book of Moses, where the Lord commanded, saying, The fathers shall not die for the children, neither shall the children die for the fathers, but every man shall die for his own sin."
     },
     {
       "verse": 5,
       "latin_vulgate": "Congregavit igitur Amasias Judam, et constituit eos per familias, tribunosque et centuriones in universo Juda et Benjamin : et recensuit a viginti annis supra, invenitque trecenta millia juvenum qui egrederentur ad pugnam, et tenerent hastam et clypeum : ",
       "hebrew_masoretic": "וַיִּקְבֹּ֤ץ אֲמַצְיָ֙הוּ֙ אֶת־יְהוּדָ֔ה וַיַּעֲמִידֵ֣ם לְבֵית־אָב֗וֹת לְשָׂרֵ֤י הָאֲלָפִים֙ וּלְשָׂרֵ֣י הַמֵּא֔וֹת לְכׇל־יְהוּדָ֖ה וּבִנְיָמִ֑ן וַֽיִּפְקְדֵ֗ם לְמִבֶּ֨ן עֶשְׂרִ֤ים שָׁנָה֙ וָמַ֔עְלָה וַיִּמְצָאֵ֗ם שְׁלֹשׁ־מֵא֨וֹת אֶ֤לֶף בָּחוּר֙ יוֹצֵ֣א צָבָ֔א אֹחֵ֖ז רֹ֥מַח וְצִנָּֽה׃",
+      "douay_rheims": "Amasias therefore gathered Juda together, and appointed them by families, and captains of thousands and of hundreds in all Juda, and Benjamin: and he numbered them from twenty years old and upwards, and found three hundred thousand young men that could go out to battle, and could hold the spear and shield.",
+      "finnish_biblia": "Ja Amatsia kokosi Juudan ja asetti heidät isäinsä huoneen jälkeen, tuhanten ja satain päämiehet koko Juudassa ja Benjaminissa, ja luki kahdenkymmenen vuotiset ja sitä vanhemmat, ja löysi heitä kolmesataa tuhatta valittua, jotka olivat kelvolliset sotaan, kantamaan keihästä ja kilpeä. ",
       "king_james": "Moreover Amaziah gathered Judah together, and made them captains over thousands, and captains over hundreds, according to the houses of their fathers, throughout all Judah and Benjamin: and he numbered them from twenty years old and above, and found them three hundred thousand choice men, able to go forth to war, that could handle spear and shield."
     },
     {
       "verse": 6,
       "latin_vulgate": "mercede quoque conduxit de Israël centum millia robustorum, centum talentis argenti. ",
       "hebrew_masoretic": "וַיִּשְׂכֹּ֣ר מִיִּשְׂרָאֵ֗ל מֵ֥אָה אֶ֛לֶף גִּבּ֥וֹר חָ֖יִל בְּמֵאָ֥ה כִכַּר־כָּֽסֶף׃",
+      "douay_rheims": "He hired also of Israel a hundred thousand valiant men, for a hundred talents of silver.",
+      "finnish_biblia": "Hän palkkasi myös Israelista satatuhatta vahvaa sotamiestä sadalla leiviskällä hopiaa. ",
       "king_james": "He hired also an hundred thousand mighty men of valour out of Israel for an hundred talents of silver."
     },
     {
       "verse": 7,
       "latin_vulgate": "Venit autem homo Dei ad illum, et ait : O rex, ne egrediatur tecum exercitus Israël : non est enim Dominus cum Israël, et cunctis filiis Ephraim : ",
       "hebrew_masoretic": "וְאִ֣ישׁ הָאֱלֹהִ֗ים בָּ֤א אֵלָיו֙ לֵאמֹ֔ר הַמֶּ֕לֶךְ אַל־יָב֥וֹא עִמְּךָ֖ צְבָ֣א יִשְׂרָאֵ֑ל כִּ֣י אֵ֤ין יְהֹוָה֙ עִם־יִשְׂרָאֵ֔ל כֹּ֖ל בְּנֵ֥י אֶפְרָֽיִם׃",
+      "douay_rheims": "But a man of God came to him, and said: O king, let not the army of Israel go out with thee, for the Lord is not with Israel, and all the children of Ephraim:",
+      "finnish_biblia": "Niin tuli Jumalan mies hänen tykönsä ja sanoi: kuningas, älä salli Israelin sotajoukon tulla kanssas; sillä ei Herra ole Israelin kanssa, eikä kaikkein Ephraimin lasten kanssa. ",
       "king_james": "But there came a man of God to him, saying, O king, let not the army of Israel go with thee; for the Lord is not with Israel, to wit, with all the children of Ephraim."
     },
     {
       "verse": 8,
       "latin_vulgate": "quod si putas in robore exercitus bella consistere, superari te faciet Deus ab hostibus : Dei quippe est et adjuvare, et in fugam convertere. ",
       "hebrew_masoretic": "כִּ֚י אִם־בֹּ֣א אַתָּ֔ה עֲשֵׂ֖ה חֲזַ֣ק לַמִּלְחָמָ֑ה יַכְשִֽׁילְךָ֤ הָאֱלֹהִים֙ לִפְנֵ֣י אוֹיֵ֔ב כִּ֥י יֶשׁ־כֹּ֛חַ בֵּאלֹהִ֖ים לַעְז֥וֹר וּלְהַכְשִֽׁיל׃",
+      "douay_rheims": "And if thou think that battles consist in the strength of the army, God will make thee to be overcome by the enemies: for it belongeth to God both to help, and to put to flight.",
+      "finnish_biblia": "Sillä jos sinä tulet osoittamaan sinun rohkeuttas sodassa, niin Jumala antaa sinun kaatua vihamiestes eteen; sillä Jumalalla on voima auttaa ja langettaa. ",
       "king_james": "But if thou wilt go, do it, be strong for the battle: God shall make thee fall before the enemy: for God hath power to help, and to cast down."
     },
     {
       "verse": 9,
       "latin_vulgate": "Dixitque Amasias ad hominem Dei : Quid ergo fiet de centum talentis, quæ dedi militibus Israël ? Et respondit ei homo Dei : Habet Dominus unde tibi dare possit multo his plura. ",
       "hebrew_masoretic": "וַיֹּ֤אמֶר אֲמַצְיָ֙הוּ֙ לְאִ֣ישׁ הָאֱלֹהִ֔ים וּמַֽה־לַּעֲשׂוֹת֙ לִמְאַ֣ת הַכִּכָּ֔ר אֲשֶׁ֥ר נָתַ֖תִּי לִגְד֣וּד יִשְׂרָאֵ֑ל וַיֹּ֙אמֶר֙ אִ֣ישׁ הָאֱלֹהִ֔ים יֵ֚שׁ לַֽיהֹוָ֔ה לָ֥תֶת לְךָ֖ הַרְבֵּ֥ה מִזֶּֽה׃",
+      "douay_rheims": "And Amasias said to the man of God: What will then become of the hundred talents which I have given to the soldiers of Israel? and the man of God answered him: The Lord is rich enough to be able to give thee much more than this.",
+      "finnish_biblia": "Amatsia sanoi Jumalan miehelle: mitäs sadan leiviskän kanssa tehdään, jotka minä Israelin sotamiehille annoin? Jumalan mies sanoi: Herralla on varaa antaa sinulle paljon enemmän kuin se on. ",
       "king_james": "And Amaziah said to the man of God, But what shall we do for the hundred talents which I have given to the army of Israel? And the man of God answered, The Lord is able to give thee much more than this."
     },
     {
       "verse": 10,
       "latin_vulgate": "Separavit itaque Amasias exercitum qui venerat ad eum ex Ephraim, ut reverteretur in locum suum : at illi contra Judam vehementer irati, reversi sunt in regionem suam.  ",
       "hebrew_masoretic": "וַיַּבְדִּילֵ֣ם אֲמַצְיָ֗הוּ לְהַגְּדוּד֙ אֲשֶׁר־בָּ֤א אֵלָיו֙ מֵאֶפְרַ֔יִם לָלֶ֖כֶת לִמְקוֹמָ֑ם וַיִּ֨חַר אַפָּ֤ם מְאֹד֙ בִּֽיהוּדָ֔ה וַיָּשׁ֥וּבוּ לִמְקוֹמָ֖ם בׇּחֳרִי־אָֽף׃ {ס}",
+      "douay_rheims": "Then Amasias separated the army, that came to him out of Ephraim, to go home again: but they being much enraged against Juda, returned to their own country.",
+      "finnish_biblia": "Niin eroitti Amatsia ne sotamiehet tyköänsä, jotka Ephraimista olivat hänen tykönsä tulleet, menemään siallensa. Niin he närkästyivät sangen suuresti Juudan päälle ja menivät kotiansa vihoissansa. ",
       "king_james": "Then Amaziah separated them, to wit, the army that was come to him out of Ephraim, to go home again: wherefore their anger was greatly kindled against Judah, and they returned home in great anger."
     },
     {
       "verse": 11,
       "latin_vulgate": " Porro Amasias confidenter eduxit populum suum, et abiit in vallem Salinarum, percussitque filios Seir decem millia : ",
       "hebrew_masoretic": "וַאֲמַצְיָ֙הוּ֙ הִתְחַזַּ֔ק וַיִּנְהַג֙ אֶת־עַמּ֔וֹ וַיֵּ֖לֶךְ גֵּ֣יא הַמֶּ֑לַח וַיַּ֥ךְ אֶת־בְּנֵֽי־שֵׂעִ֖יר עֲשֶׂ֥רֶת אֲלָפִֽים׃",
+      "douay_rheims": "And Amasias taking courage led forth his people, and went to the vale of saltpits, and slew of the children of Seir ten thousand.",
+      "finnish_biblia": "Ja Amatsia tuli rohkiaksi ja johdatti kansansa ulos, ja meni Suolalaaksoon, ja löi siellä Seirin lapsista kymmenentuhatta. ",
       "king_james": "And Amaziah strengthened himself, and led forth his people, and went to the valley of salt, and smote of the children of Seir ten thousand."
     },
     {
       "verse": 12,
       "latin_vulgate": "et alia decem millia virorum ceperunt filii Juda, et adduxerunt ad præruptum cujusdam petræ, præcipitaveruntque eos de summo in præceps : qui universi crepuerunt. ",
       "hebrew_masoretic": "וַעֲשֶׂ֨רֶת אֲלָפִ֜ים חַיִּ֗ים שָׁבוּ֙ בְּנֵ֣י יְהוּדָ֔ה וַיְבִיא֖וּם לְרֹ֣אשׁ הַסָּ֑לַע וַיַּשְׁלִיכ֥וּם מֵֽרֹאשׁ־הַסֶּ֖לַע וְכֻלָּ֥ם נִבְקָֽעוּ׃",
+      "douay_rheims": "And other ten thousand men the sons of Juda took, and brought to the steep of a certain rock, and cast them down headlong from the top, and they all were broken to pieces.",
+      "finnish_biblia": "Ja Juudan lapset veivät pois elävältä vankina kymmenentuhatta, ja veivät heidät kallion kukkulalle ja sysäsivät heidät kukkulalta maahan, niin että he kaikki musertuivat liivaksi. ",
       "king_james": "And other ten thousand left alive did the children of Judah carry away captive, and brought them unto the top of the rock, and cast them down from the top of the rock, that they all were broken in pieces."
     },
     {
       "verse": 13,
       "latin_vulgate": "At ille exercitus quem remiserat Amasias ne secum iret ad prælium, diffusus est in civitatibus Juda, a Samaria usque ad Bethoron, et interfectis tribus millibus, diripuit prædam magnam. ",
       "hebrew_masoretic": "וּבְנֵ֣י הַגְּד֗וּד אֲשֶׁ֨ר הֵשִׁ֤יב אֲמַצְיָ֙הוּ֙ מִלֶּ֤כֶת עִמּוֹ֙ לַמִּלְחָמָ֔ה וַֽיִּפְשְׁטוּ֙ בְּעָרֵ֣י יְהוּדָ֔ה מִשֹּׁמְר֖וֹן וְעַד־בֵּ֣ית חוֹר֑וֹן וַיַּכּ֤וּ מֵהֶם֙ שְׁלֹ֣שֶׁת אֲלָפִ֔ים וַיָּבֹ֖זּוּ בִּזָּ֥ה רַבָּֽה׃ {פ}",
+      "douay_rheims": "But that army which Amasias had sent back, that they should not go with him to battle, spread themselves among the cities of Juda, from Samaria to Beth-horon, and having killed three thousand took away much spoil.",
+      "finnish_biblia": "Mutta sotamiehet, jotka Amatsia oli antanut mennä takaisin, niin ettei ne hänen kanssansa päässeet menemään sotaan, hajoittivat itsensä Juudan kaupunkeihin Samariasta Bethoroniin asti, ja löivät heistä kolmetuhatta, ja ottivat paljon saalista. ",
       "king_james": "But the soldiers of the army which Amaziah sent back, that they should not go with him to battle, fell upon the cities of Judah, from Samaria even unto Beth–horon, and smote three thousand of them, and took much spoil."
     },
     {
       "verse": 14,
       "latin_vulgate": "Amasias vero post cædem Idumæorum, et allatos deos filiorum Seir, statuit illos in deos sibi, et adorabat eos, et illis adolebat incensum. ",
       "hebrew_masoretic": "וַיְהִ֗י אַחֲרֵ֨י ב֤וֹא אֲמַצְיָ֙הוּ֙ מֵהַכּ֣וֹת אֶת־אֲדוֹמִ֔ים וַיָּבֵ֗א אֶת־אֱלֹהֵי֙ בְּנֵ֣י שֵׂעִ֔יר וַיַּעֲמִידֵ֥ם ל֖וֹ לֵאלֹהִ֑ים וְלִפְנֵיהֶ֥ם יִֽשְׁתַּחֲוֶ֖ה וְלָהֶ֥ם יְקַטֵּֽר׃",
+      "douay_rheims": "But Amasias after he had slain the Edomites, set up the gods of the children of Seir, which he had brought thence, to be his gods, and adored them, and burnt incense to them.",
+      "finnish_biblia": "Ja kuin Amatsia palasi Edomilaisten taposta, toi hän myötänsä Seirin lasten epäjumalat ja asetti ne itsellensä jumaliksi, kumarsi niiden edessä ja teki heille suitsutusta. ",
       "king_james": "Now it came to pass, after that Amaziah was come from the slaughter of the Edomites, that he brought the gods of the children of Seir, and set them up to be his gods, and bowed down himself before them, and burned incense unto them."
     },
     {
       "verse": 15,
       "latin_vulgate": "Quam ob rem iratus Dominus contra Amasiam misit ad illum prophetam, qui diceret ei : Cur adorasti deos qui non liberaverunt populum suum de manu tua ? ",
       "hebrew_masoretic": "וַיִּֽחַר־אַ֥ף יְהֹוָ֖ה בַּאֲמַצְיָ֑הוּ וַיִּשְׁלַ֤ח אֵלָיו֙ נָבִ֔יא וַיֹּ֣אמֶר ל֗וֹ לָ֤מָּה דָרַ֙שְׁתָּ֙ אֶת־אֱלֹהֵ֣י הָעָ֔ם אֲשֶׁ֛ר לֹא־הִצִּ֥ילוּ אֶת־עַמָּ֖ם מִיָּדֶֽךָ׃",
+      "douay_rheims": "Wherefore the Lord being angry against Amasias, sent a prophet to him, to say to him: Why hast thou adored gods that have not delivered their own people out of thy hand?",
+      "finnish_biblia": "Niin Herran viha julmistui Amatsian päälle, ja hän lähetti prophetan hänen tykönsä, joka sanoi: miksis etsit sen kansan jumalia, jotka kansaansa ei taitaneet auttaa sinun käsistäs? ",
       "king_james": "Wherefore the anger of the Lord was kindled against Amaziah, and he sent unto him a prophet, which said unto him, Why hast thou sought after the gods of the people, which could not deliver their own people out of thine hand?"
     },
     {
       "verse": 16,
       "latin_vulgate": "Cumque hæc ille loqueretur, respondit ei : Num consiliarius regis es ? quiesce, ne interficiam te. Discedensque propheta : Scio, inquit, quod cogitaverit Deus occidere te quia fecisti hoc malum, et insuper non acquievisti consilio meo.  ",
       "hebrew_masoretic": "וַיְהִ֣י ׀ בְּדַבְּר֣וֹ אֵלָ֗יו וַיֹּ֤אמֶר לוֹ֙ הַלְיוֹעֵ֤ץ לַמֶּ֙לֶךְ֙ נְתַנּ֔וּךָ חֲדַל־לְךָ֖ לָ֣מָּה יַכּ֑וּךָ וַיֶּחְדַּ֣ל הַנָּבִ֗יא וַיֹּ֙אמֶר֙ יָדַ֗עְתִּי כִּֽי־יָעַ֤ץ אֱלֹהִים֙ לְהַשְׁחִיתֶ֔ךָ כִּֽי־עָשִׂ֣יתָ זֹּ֔את וְלֹ֥א שָׁמַ֖עְתָּ לַעֲצָתִֽי׃ {פ}",
+      "douay_rheims": "And when he spoke these things, he answered him: Art thou the king's counsellor? be quiet, lest I kill thee. And the prophet departing, said: I know that God is minded to kill thee, because thou hast done this evil, and moreover hast not hearkened to my counsel.",
+      "finnish_biblia": "Kuin hän puhui hänen kanssansa, sanoi hän hänelle: oletkos asetettu kuninkaan neuvonantajaksi? lakkaa, miksis tahdot antaa sinuas lyödä? Niin propheta lakkasi ja sanoi: minä ymmärrän, että Jumala on aikonut sinua turmella, koskas sen tehnyt olet, ja et totellut minun neuvoani. ",
       "king_james": "And it came to pass, as he talked with him, that the king said unto him, Art thou made of the king’s counsel? forbear; why shouldest thou be smitten? Then the prophet forbare, and said, I know that God hath determined to destroy thee, because thou hast done this, and hast not hearkened unto my counsel."
     },
     {
       "verse": 17,
       "latin_vulgate": " Igitur Amasias rex Juda inito pessimo consilio, misit ad Joas filium Joachaz filii Jehu regem Israël, dicens : Veni, videamus nos mutuo. ",
       "hebrew_masoretic": "וַיִּוָּעַ֗ץ אֲמַצְיָ֙הוּ֙ מֶ֣לֶךְ יְהוּדָ֔ה וַ֠יִּשְׁלַ֠ח אֶל־יוֹאָ֨שׁ בֶּן־יְהוֹאָחָ֧ז בֶּן־יֵה֛וּא מֶ֥לֶךְ יִשְׂרָאֵ֖ל לֵאמֹ֑ר (לך) [לְכָ֖ה] נִתְרָאֶ֥ה פָנִֽים׃",
+      "douay_rheims": "Then Amasias king of Juda taking very bad counsel, sent to Joas the son of Joachaz the son of Jehu, king of Israel, saying: Come, let us see one another.",
+      "finnish_biblia": "Ja Amatsia Juudan kuningas piti neuvoa, ja lähetti Joaksen Joahaksen pojan, Jehun pojan Israelin kuninkaan tykö, ja käski sanoa hänelle: tule, katselkaamme toinen toistamme. ",
       "king_james": "Then Amaziah king of Judah took advice, and sent to Joash, the son of Jehoahaz, the son of Jehu, king of Israel, saying, Come, let us see one another in the face."
     },
     {
       "verse": 18,
       "latin_vulgate": "At ille remisit nuntios, dicens : Carduus qui est in Libano misit ad cedrum Libani, dicens : Da filiam tuam filio meo uxorem : et ecce bestiæ quæ erant in silva Libani, transierunt, et conculcaverunt carduum. ",
       "hebrew_masoretic": "וַיִּשְׁלַ֞ח יוֹאָ֣שׁ מֶֽלֶךְ־יִשְׂרָאֵ֗ל אֶל־אֲמַצְיָ֣הוּ מֶלֶךְ־יְהוּדָה֮ לֵאמֹר֒ הַח֜וֹחַ אֲשֶׁ֣ר בַּלְּבָנ֗וֹן שָׁ֠לַ֠ח אֶל־הָאֶ֜רֶז אֲשֶׁ֤ר בַּלְּבָנוֹן֙ לֵאמֹ֔ר תְּנָֽה־אֶת־בִּתְּךָ֥ לִבְנִ֖י לְאִשָּׁ֑ה וַֽתַּעֲבֹ֞ר חַיַּ֤ת הַשָּׂדֶה֙ אֲשֶׁ֣ר בַּלְּבָנ֔וֹן וַתִּרְמֹ֖ס אֶת־הַחֽוֹחַ׃",
+      "douay_rheims": "But he sent back the messengers, saying: The thistle that is in Libanus, sent to the cedar in Libanus, saying: Give thy daughter to my son to wife: and behold the beasts that were in the wood of Libanus passed by and trod down the thistle.",
+      "finnish_biblia": "Mutta Joas Israelin kuningas lähetti Amatsian Juudan kuninkaan tykö, sanoen: orjantappurapensas Libanonissa lähetti sedripuun tykö Libanonissa, sanoen hänelle: anna tyttäres minun pojalleni emännäksi; mutta pedot Libanonissa juoksivat orjantappurapensaan päälle ja tallasivat sen. ",
       "king_james": "And Joash king of Israel sent to Amaziah king of Judah, saying, The thistle that was in Lebanon sent to the cedar that was in Lebanon, saying, Give thy daughter to my son to wife: and there passed by a wild beast that was in Lebanon, and trode down the thistle."
     },
     {
       "verse": 19,
       "latin_vulgate": "Dixisti : Percussi Edom, et idcirco erigitur cor tuum in superbiam : sede in domo tua : cur malum adversum te provocas, ut cadas et tu, et Juda tecum ? ",
       "hebrew_masoretic": "אָמַ֗רְתָּ הִנֵּ֤ה הִכִּ֙יתָ֙ אֶת־אֱד֔וֹם וּנְשָׂאֲךָ֥ לִבְּךָ֖ לְהַכְבִּ֑יד עַתָּה֙ שְׁבָ֣ה בְּבֵיתֶ֔ךָ לָ֤מָּה תִתְגָּרֶה֙ בְּרָעָ֔ה וְנָ֣פַלְתָּ֔ אַתָּ֖ה וִיהוּדָ֥ה עִמָּֽךְ׃",
+      "douay_rheims": "Thou hast said: I have overthrown Edom, and therefore thy heart is lifted up with pride: stay at home, why dost thou provoke evil against thee, that both thou shouldst fall and Juda with thee.",
+      "finnish_biblia": "Sinä ajattelet, katso, sinä olet lyönyt Edomilaiset, siitä sinun sydämes paisuu kerskaamaan itsiäs: pysy kotonas, miksis etsit vahinkoa, langetakses sekä itse että Juuda sinun kanssas? ",
       "king_james": "Thou sayest, Lo, thou hast smitten the Edomites; and thine heart lifteth thee up to boast: abide now at home; why shouldest thou meddle to thine hurt, that thou shouldest fall, even thou, and Judah with thee?"
     },
     {
       "verse": 20,
       "latin_vulgate": "Noluit audire Amasias, eo quod Domini esset voluntas ut traderetur in manus hostium propter deos Edom. ",
       "hebrew_masoretic": "וְלֹא־שָׁמַ֣ע אֲמַצְיָ֔הוּ כִּ֤י מֵהָֽאֱלֹהִים֙ הִ֔יא לְמַ֖עַן תִּתָּ֣ם בְּיָ֑ד כִּ֣י דָֽרְשׁ֔וּ אֵ֖ת אֱלֹהֵ֥י אֱדֽוֹם׃",
+      "douay_rheims": "Amasias would not hearken to him, because it was the Lord's will that he should be delivered into the hands of enemies, because of the gods of Edom.",
+      "finnish_biblia": "Mutta ei Amatsia totellut, sillä se tapahtui Jumalalta, että he piti annettaman käsiin; sillä he olivat etsineet Edomilaisten jumalia. ",
       "king_james": "But Amaziah would not hear; for it came of God, that he might deliver them into the hand of their enemies, because they sought after the gods of Edom."
     },
     {
       "verse": 21,
       "latin_vulgate": "Ascendit igitur Joas rex Israël, et mutuos sibi præbuere conspectus : Amasias autem rex Juda erat in Bethsames Juda : ",
       "hebrew_masoretic": "וַיַּ֨עַל יוֹאָ֤שׁ מֶֽלֶךְ־יִשְׂרָאֵל֙ וַיִּתְרָא֣וּ פָנִ֔ים ה֖וּא וַאֲמַצְיָ֣הוּ מֶלֶךְ־יְהוּדָ֑ה בְּבֵ֥ית שֶׁ֖מֶשׁ אֲשֶׁ֥ר לִיהוּדָֽה׃",
+      "douay_rheims": "So Joas king of Israel went up, and they presented themselves to be seen by one another: and Amasias king of Juda was in Bethsames of Juda:",
+      "finnish_biblia": "Niin Joas Israelin kuningas meni ylös, ja he katselivat toinen toistansa, hän ja Amatsia Juudan kuningas, Betsemeksessä, joka on Juudassa. ",
       "king_james": "So Joash the king of Israel went up; and they saw one another in the face, both he and Amaziah king of Judah, at Beth–shemesh, which belongeth to Judah."
     },
     {
       "verse": 22,
       "latin_vulgate": "corruitque Juda coram Israël, et fugit in tabernacula sua. ",
       "hebrew_masoretic": "וַיִּנָּ֥גֶף יְהוּדָ֖ה לִפְנֵ֣י יִשְׂרָאֵ֑ל וַיָּנֻ֖סוּ אִ֥ישׁ לְאֹהָלָֽיו׃",
+      "douay_rheims": "And Juda fell before Israel, and they fled to their dwellings.",
+      "finnish_biblia": "Mutta Juuda lyötiin Israelilta, ja kukin pakeni majoillensa. ",
       "king_james": "And Judah was put to the worse before Israel, and they fled every man to his tent."
     },
     {
       "verse": 23,
       "latin_vulgate": "Porro Amasiam regem Juda, filium Joas filii Joachaz, cepit Joas rex Israël in Bethsames, et adduxit in Jerusalem : destruxitque murum ejus a porta Ephraim usque ad portam anguli quadringentis cubitis. ",
       "hebrew_masoretic": "וְאֵת֩ אֲמַצְיָ֨הוּ מֶלֶךְ־יְהוּדָ֜ה בֶּן־יוֹאָ֣שׁ בֶּן־יְהוֹאָחָ֗ז תָּפַ֛שׂ יוֹאָ֥שׁ מֶלֶךְ־יִשְׂרָאֵ֖ל בְּבֵ֣ית שָׁ֑מֶשׁ וַיְבִיאֵ֙הוּ֙ יְר֣וּשָׁלַ֔͏ִם וַיִּפְרֹ֞ץ בְּחוֹמַ֣ת יְרוּשָׁלַ֗͏ִם מִשַּׁ֤עַר אֶפְרַ֙יִם֙ עַד־שַׁ֣עַר הַפּוֹנֶ֔ה אַרְבַּ֥ע מֵא֖וֹת אַמָּֽה׃",
+      "douay_rheims": "And Joas king of Israel took Amasias king of Juda, the son of Joas, the son of Joachaz, in Bethsames, and brought him to Jerusalem: and broke down the walls thereof from the gate of Ephraim, to the gate of the corner, four hundred cubits.",
+      "finnish_biblia": "Ja Joas Israelin kuningas käsitti Amatsian Juudan kuninkaan Joaksen pojan Joahaksen pojan Betsemeksessä ja vei Jerusalemiin, ja särki Jerusalemin muurin Ephraimin portista kulmaporttiin asti, neljäsataa kyynärää. ",
       "king_james": "And Joash the king of Israel took Amaziah king of Judah, the son of Joash, the son of Jehoahaz, at Beth–shemesh, and brought him to Jerusalem, and brake down the wall of Jerusalem from the gate of Ephraim to the corner gate, four hundred cubits."
     },
     {
       "verse": 24,
       "latin_vulgate": "Omne quoque aurum et argentum, et universa vasa quæ repererat in domo Dei, et apud Obededom in thesauris etiam domus regiæ, necnon et filios obsidum, reduxit in Samariam. ",
       "hebrew_masoretic": "וְכׇֽל־הַזָּהָ֣ב וְהַכֶּ֡סֶף וְאֵ֣ת כׇּל־הַ֠כֵּלִ֠ים הַנִּמְצְאִ֨ים בְּבֵית־הָאֱלֹהִ֜ים עִם־עֹבֵ֣ד אֱד֗וֹם וְאֶת־אֽוֹצְרוֹת֙ בֵּ֣ית הַמֶּ֔לֶךְ וְאֵ֖ת בְּנֵ֣י הַתַּעֲרֻב֑וֹת וַיָּ֖שׇׁב שֹׁמְרֽוֹן׃ {פ}",
+      "douay_rheims": "And he took all the gold, and silver, and all the vessels, that he found in the house of God, and with Obededom, and in the treasures of the king's house, moreover also the sons of the hostages, he brought back to Samaria.",
+      "finnish_biblia": "Ja hän otti kaiken kullan ja hopian, ja kaikki astiat jotka löydettiin Jumalan huoneessa Obededomin tykönä, ja kuninkaan huoneen tavarat ja (otti) lapset pantiksi ja palasi Samariaan. ",
       "king_james": "And he took all the gold and the silver, and all the vessels that were found in the house of God with Obed–edom, and the treasures of the king’s house, the hostages also, and returned to Samaria."
     },
     {
       "verse": 25,
       "latin_vulgate": "Vixit autem Amasias filius Joas rex Juda, postquam mortuus est Joas filius Joachaz rex Israël, quindecim annis. ",
       "hebrew_masoretic": "וַיְחִ֨י אֲמַצְיָ֤הוּ בֶן־יוֹאָשׁ֙ מֶ֣לֶךְ יְהוּדָ֔ה אַחֲרֵ֣י מ֔וֹת יוֹאָ֥שׁ בֶּן־יְהוֹאָחָ֖ז מֶ֣לֶךְ יִשְׂרָאֵ֑ל חֲמֵ֥שׁ עֶשְׂרֵ֖ה שָׁנָֽה׃",
+      "douay_rheims": "And Amasias the son of Joas king of Juda lived, after the death of Joas the son of Joachaz king of Israel, fifteen years.",
+      "finnish_biblia": "Ja Amatsia Joaksen poika Juudan kuningas eli Joaksen Joahaksen pojan Israelin kuninkaan kuoleman jälkeen viisitoistakymmentä ajastaikaa. ",
       "king_james": "And Amaziah the son of Joash king of Judah lived after the death of Joash son of Jehoahaz king of Israel fifteen years."
     },
     {
       "verse": 26,
       "latin_vulgate": "Reliqua autem sermonum Amasiæ priorum et novissimorum scripta sunt in libro regum Juda et Israël. ",
       "hebrew_masoretic": "וְיֶ֙תֶר֙ דִּבְרֵ֣י אֲמַצְיָ֔הוּ הָרִאשֹׁנִ֖ים וְהָאַחֲרוֹנִ֑ים הֲלֹא֙ הִנָּ֣ם כְּתוּבִ֔ים עַל־סֵ֥פֶר מַלְכֵֽי־יְהוּדָ֖ה וְיִשְׂרָאֵֽל׃",
+      "douay_rheims": "Now the rest of the acts of Amasias, the first and last, are written in the book of the kings of Juda and Israel.",
+      "finnish_biblia": "Mitä enempää Amatsian menoista sanomista on, sekä ensimäisistä että viimeisistä: eikö se ole kirjoitettu Juudan ja Israelin kuningasten kirjassa? ",
       "king_james": "Now the rest of the acts of Amaziah, first and last, behold, are they not written in the book of the kings of Judah and Israel?"
     },
     {
       "verse": 27,
       "latin_vulgate": "Qui postquam recessit a Domino, tetenderunt ei insidias in Jerusalem. Cumque fugisset in Lachis, miserunt, et interfecerunt eum ibi. ",
       "hebrew_masoretic": "וּמֵעֵ֗ת אֲשֶׁר־סָ֤ר אֲמַצְיָ֙הוּ֙ מֵאַחֲרֵ֣י יְהֹוָ֔ה וַיִּקְשְׁר֨וּ עָלָ֥יו קֶ֛שֶׁר בִּירוּשָׁלַ֖͏ִם וַיָּ֣נׇס לָכִ֑ישָׁה וַיִּשְׁלְח֤וּ אַחֲרָיו֙ לָכִ֔ישָׁה וַיְמִיתֻ֖הוּ שָֽׁם׃",
+      "douay_rheims": "And after he revolted from the Lord, they made a conspiracy against him in Jerusalem. And he fled into Lachis, and they sent, and killed him there.",
+      "finnish_biblia": "Ja siitä ajasta, jona Amatsia luopui Herrasta, tekivät he häntä vastaan liiton Jerusalemissa; mutta hän pakeni Lakikseen. Niin lähettivät he hänen perässänsä Lakikseen ja tappoivat hänen siellä. ",
       "king_james": "Now after the time that Amaziah did turn away from following the Lord they made a conspiracy against him in Jerusalem; and he fled to Lachish: but they sent to Lachish after him, and slew him there."
     },
     {
       "verse": 28,
       "latin_vulgate": "Reportantesque super equos, sepelierunt eum cum patribus suis in civitate David.   ",
       "hebrew_masoretic": "וַיִּשָּׂאֻ֖הוּ עַל־הַסּוּסִ֑ים וַֽיִּקְבְּר֥וּ אֹת֛וֹ עִם־אֲבֹתָ֖יו בְּעִ֥יר יְהוּדָֽה׃",
+      "douay_rheims": "And they brought him back upon horses, and buried him with his fathers in the city of David. ",
+      "finnish_biblia": "Ja he veivät hänen hevosilla ja hautasivat hänen isäinsä tykö Juudan kaupunkiin.   ",
       "king_james": "And they brought him upon horses, and buried him with his fathers in the city of Judah. "
     }
   ]

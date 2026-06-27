@@ -2,6 +2,8 @@
   "book_id": "NUM",
   "latin_name": "Numeri",
   "hebrew_name": "בְּמִדְבַּר",
+  "douay_name": "Numbers",
+  "finnish_name": "4. Mooseksen kirja",
   "english_name": "Numbers",
   "chapter": 10,
   "verses": [
@@ -9,216 +11,288 @@
       "verse": 1,
       "latin_vulgate": "Locutusque est Dominus ad Moysen, dicens : ",
       "hebrew_masoretic": "וַיְדַבֵּ֥ר יְהֹוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃",
+      "douay_rheims": "And the Lord spoke to Moses, saying:",
+      "finnish_biblia": "Ja Herra puhui Mosekselle, sanoen: ",
       "king_james": "And the Lord spake unto Moses, saying,"
     },
     {
       "verse": 2,
       "latin_vulgate": "Fac tibi duas tubas argenteas ductiles, quibus convocare possis multitudinem quando movenda sunt castra. ",
       "hebrew_masoretic": "עֲשֵׂ֣ה לְךָ֗ שְׁתֵּי֙ חֲצֽוֹצְרֹ֣ת כֶּ֔סֶף מִקְשָׁ֖ה תַּעֲשֶׂ֣ה אֹתָ֑ם וְהָי֤וּ לְךָ֙ לְמִקְרָ֣א הָֽעֵדָ֔ה וּלְמַסַּ֖ע אֶת־הַֽמַּחֲנֽוֹת׃",
+      "douay_rheims": "Make thee two trumpets of beaten silver, wherewith thou mayest call together the multitude when the camp is to be removed.",
+      "finnish_biblia": "Tee sinulles hopiasta kaksi torvea, vahvaksi sinun ne tekemän pitää, niillä kutsuakses seurakuntaa kokoon, ja koska joukon pitää matkustaman. ",
       "king_james": "Make thee two trumpets of silver; of a whole piece shalt thou make them: that thou mayest use them for the calling of the assembly, and for the journeying of the camps."
     },
     {
       "verse": 3,
       "latin_vulgate": "Cumque increpueris tubis, congregabitur ad te omnis turba ad ostium tabernaculi fœderis. ",
       "hebrew_masoretic": "וְתָקְע֖וּ בָּהֵ֑ן וְנֽוֹעֲד֤וּ אֵלֶ֙יךָ֙ כׇּל־הָ֣עֵדָ֔ה אֶל־פֶּ֖תַח אֹ֥הֶל מוֹעֵֽד׃",
+      "douay_rheims": "And when thou shalt sound the trumpets, all the multitude shall gather unto thee to the door of the tabernacle of the covenant.",
+      "finnish_biblia": "Koska niillä molemmilla hiljaksensa soitetaan, silloin pitää koko seurakunnan kokoontuman seurakunnan majan oven eteen. ",
       "king_james": "And when they shall blow with them, all the assembly shall assemble themselves to thee at the door of the tabernacle of the congregation."
     },
     {
       "verse": 4,
       "latin_vulgate": "Si semel clangueris, venient ad te principes, et capita multitudinis Israël. ",
       "hebrew_masoretic": "וְאִם־בְּאַחַ֖ת יִתְקָ֑עוּ וְנוֹעֲד֤וּ אֵלֶ֙יךָ֙ הַנְּשִׂיאִ֔ים רָאשֵׁ֖י אַלְפֵ֥י יִשְׂרָאֵֽל׃",
+      "douay_rheims": "If thou sound but once, the princes and the heads of the multitude of Israel shall come to thee.",
+      "finnish_biblia": "Vaan koska ainoastaan yhdellä hiljaksensa soitetaan, silloin pitää päämiehet ja tuhanten esimiehet Israelissa tuleman kokoon. ",
       "king_james": "And if they blow but with one trumpet, then the princes, which are heads of the thousands of Israel, shall gather themselves unto thee."
     },
     {
       "verse": 5,
       "latin_vulgate": "Si autem prolixior atque concisus clangor increpuerit, movebunt castra primi qui sunt ad orientalem plagam. ",
       "hebrew_masoretic": "וּתְקַעְתֶּ֖ם תְּרוּעָ֑ה וְנָֽסְעוּ֙ הַֽמַּחֲנ֔וֹת הַחֹנִ֖ים קֵֽדְמָה׃",
+      "douay_rheims": "But if the sound of the trumpets be longer, and with interruptions, they that are on the east side, shall first go forward.",
+      "finnish_biblia": "Mutta koska te vahvasti soitatte, silloin pitää ne leirit lähtemän matkaan, jotka itään päin ovat. ",
       "king_james": "When ye blow an alarm, then the camps that lie on the east parts shall go forward."
     },
     {
       "verse": 6,
       "latin_vulgate": "In secundo autem sonitu et pari ululatu tubæ, levabunt tentoria qui habitant ad meridiem ; et juxta hunc modum reliqui facient, ululantibus tubis in profectionem. ",
       "hebrew_masoretic": "וּתְקַעְתֶּ֤ם תְּרוּעָה֙ שֵׁנִ֔ית וְנָֽסְעוּ֙ הַֽמַּחֲנ֔וֹת הַחֹנִ֖ים תֵּימָ֑נָה תְּרוּעָ֥ה יִתְקְע֖וּ לְמַסְעֵיהֶֽם׃",
+      "douay_rheims": "And at the second sounding and like noise of the trumpet, they who lie on the south side shall take up their tents. And after this manner shall the rest do, when the trumpets shall sound for a march.",
+      "finnish_biblia": "Mutta koska te toisen kerran vahvasti soitatte, silloin pitää ne leirit lähtemän matkaan, jotka etelään päin ovat; sillä koska he lähtevät matkaan, niin pitää teidän vahvasti soittaman. ",
       "king_james": "When ye blow an alarm the second time, then the camps that lie on the south side shall take their journey: they shall blow an alarm for their journeys."
     },
     {
       "verse": 7,
       "latin_vulgate": "Quando autem congregandus est populus, simplex tubarum clangor erit, et non concise ululabunt. ",
       "hebrew_masoretic": "וּבְהַקְהִ֖יל אֶת־הַקָּהָ֑ל תִּתְקְע֖וּ וְלֹ֥א תָרִֽיעוּ׃",
+      "douay_rheims": "But when the people is to be gathered together, the sound of the trumpets shall be plain, and they shall not make a broken sound.",
+      "finnish_biblia": "Mutta koska seurakunnan pitää kokoontuman, silloin teidän pitää ainoastansa hiljaksensa, ja ei vahvasti soittaman. ",
       "king_james": "But when the congregation is to be gathered together, ye shall blow, but ye shall not sound an alarm."
     },
     {
       "verse": 8,
       "latin_vulgate": "Filii autem Aaron sacerdotes clangent tubis : eritque hoc legitimum sempiternum in generationibus vestris. ",
       "hebrew_masoretic": "וּבְנֵ֤י אַהֲרֹן֙ הַכֹּ֣הֲנִ֔ים יִתְקְע֖וּ בַּחֲצֹֽצְר֑וֹת וְהָי֥וּ לָכֶ֛ם לְחֻקַּ֥ת עוֹלָ֖ם לְדֹרֹתֵיכֶֽם׃",
+      "douay_rheims": "And the sons of Aaron the priest shall sound the trumpets: and this shall be an ordinance for ever in your generations.",
+      "finnish_biblia": "Ja papit Aaronin pojat pitää näillä torvilla soittaman: ja tämä pitää teille ja teidän sukukunnillenne oleman ijankaikkinen sääty. ",
       "king_james": "And the sons of Aaron, the priests, shall blow with the trumpets; and they shall be to you for an ordinance for ever throughout your generations."
     },
     {
       "verse": 9,
       "latin_vulgate": "Si exieritis ad bellum de terra vestra contra hostes qui dimicant adversum vos, clangetis ululantibus tubis, et erit recordatio vestri coram Domino Deo vestro, ut eruamini de manibus inimicorum vestrorum. ",
       "hebrew_masoretic": "וְכִֽי־תָבֹ֨אוּ מִלְחָמָ֜ה בְּאַרְצְכֶ֗ם עַל־הַצַּר֙ הַצֹּרֵ֣ר אֶתְכֶ֔ם וַהֲרֵעֹתֶ֖ם בַּחֲצֹצְרֹ֑ת וְנִזְכַּרְתֶּ֗ם לִפְנֵי֙ יְהֹוָ֣ה אֱלֹֽהֵיכֶ֔ם וְנוֹשַׁעְתֶּ֖ם מֵאֹיְבֵיכֶֽם׃",
+      "douay_rheims": "If you go forth to war out of your land against the enemies that fight against you, you shall sound aloud with the trumpets, and there shall be a remembrance of you before the Lord your God, that you may be delivered out of the hands of your enemies.",
+      "finnish_biblia": "Ja koska te lähdette sotaan teidän maallanne vihollisianne vastaan, jotka teitä vainoovat, silloin pitää teidän vahvasti torvilla soittaman, että teitä muistettaisiin Herran teidän Jumalanne edessä, ja te pelastettaisiin vihollisistanne. ",
       "king_james": "And if ye go to war in your land against the enemy that oppresseth you, then ye shall blow an alarm with the trumpets; and ye shall be remembered before the Lord your God, and ye shall be saved from your enemies."
     },
     {
       "verse": 10,
       "latin_vulgate": "Siquando habebitis epulum, et dies festos, et calendas, canetis tubis super holocaustis, et pacificis victimis, ut sint vobis in recordationem Dei vestri. Ego Dominus Deus vester.  ",
       "hebrew_masoretic": "וּבְי֨וֹם שִׂמְחַתְכֶ֥ם וּֽבְמוֹעֲדֵיכֶם֮ וּבְרָאשֵׁ֣י חׇדְשֵׁיכֶם֒ וּתְקַעְתֶּ֣ם בַּחֲצֹֽצְרֹ֗ת עַ֚ל עֹלֹ֣תֵיכֶ֔ם וְעַ֖ל זִבְחֵ֣י שַׁלְמֵיכֶ֑ם וְהָי֨וּ לָכֶ֤ם לְזִכָּרוֹן֙ לִפְנֵ֣י אֱלֹֽהֵיכֶ֔ם אֲנִ֖י יְהֹוָ֥ה אֱלֹהֵיכֶֽם׃ {פ}",
+      "douay_rheims": "If at any time you shall have a banquet, and on your festival days, and on the first days of your months, you shall sound the trumpets over the holocausts, and the sacrifices of peace offerings, that they may be to you for a remembrance of your God. I am the Lord your God.",
+      "finnish_biblia": "Niin myös teidän ilopäivinänne, ja teidän juhlapäivinänne, ja teidän uusissa kuissanne, pitää teidän torvilla soittaman, teidän polttouhrianne ja kiitosuhrianne uhratessanne, että ne olisivat teille muistoksi teidän Jumalanne edessä. Minä Herra teidän Jumalanne. ",
       "king_james": "Also in the day of your gladness, and in your solemn days, and in the beginnings of your months, ye shall blow with the trumpets over your burnt offerings, and over the sacrifices of your peace offerings; that they may be to you for a memorial before your God: I am the Lord your God."
     },
     {
       "verse": 11,
       "latin_vulgate": " Anno secundo, mense secundo, vigesima die mensis, elevata est nubes de tabernaculo fœderis : ",
       "hebrew_masoretic": "וַיְהִ֞י בַּשָּׁנָ֧ה הַשֵּׁנִ֛ית בַּחֹ֥דֶשׁ הַשֵּׁנִ֖י בְּעֶשְׂרִ֣ים בַּחֹ֑דֶשׁ נַעֲלָה֙ הֶֽעָנָ֔ן מֵעַ֖ל מִשְׁכַּ֥ן הָעֵדֻֽת׃",
+      "douay_rheims": "The second year, in the second month, the twentieth day of the month, the cloud was taken up from the tabernacle of the covenant.",
+      "finnish_biblia": "Ja tapahtui kahdentenakymmenentenä päivänä, toisena kuukautena toisena vuonna, että pilvi nostettiin todistuksen majan tyköä, ",
       "king_james": "And it came to pass on the twentieth day of the second month, in the second year, that the cloud was taken up from off the tabernacle of the testimony."
     },
     {
       "verse": 12,
       "latin_vulgate": "profectique sunt filii Israël per turmas suas de deserto Sinai, et recubuit nubes in solitudine Pharan. ",
       "hebrew_masoretic": "וַיִּסְע֧וּ בְנֵֽי־יִשְׂרָאֵ֛ל לְמַסְעֵיהֶ֖ם מִמִּדְבַּ֣ר סִינָ֑י וַיִּשְׁכֹּ֥ן הֶעָנָ֖ן בְּמִדְבַּ֥ר פָּארָֽן׃",
+      "douay_rheims": "And the children of Israel marched by their troops from the desert of Sinai, and the cloud rested in the wilderness of Pharan.",
+      "finnish_biblia": "Ja Israelin lapset läksivät matkaansa järjestyksessä Sinain korvesta, ja pilvi seisahti Paranin korvessa. ",
       "king_james": "And the children of Israel took their journeys out of the wilderness of Sinai; and the cloud rested in the wilderness of Paran."
     },
     {
       "verse": 13,
       "latin_vulgate": "Moveruntque castra primi juxta imperium Domini in manu Moysi. ",
       "hebrew_masoretic": "וַיִּסְע֖וּ בָּרִאשֹׁנָ֑ה עַל־פִּ֥י יְהֹוָ֖ה בְּיַד־מֹשֶֽׁה׃",
+      "douay_rheims": "And the first went forward according to the commandment of the Lord by the hand of Moses.",
+      "finnish_biblia": "Ja he läksivät ensimäisen kerran Herran sanan jälkeen Moseksen kautta. ",
       "king_james": "And they first took their journey according to the commandment of the Lord by the hand of Moses."
     },
     {
       "verse": 14,
       "latin_vulgate": "Filii Juda per turmas suas : quorum princeps erat Nahasson filius Aminadab. ",
       "hebrew_masoretic": "וַיִּסַּ֞ע דֶּ֣גֶל מַחֲנֵ֧ה בְנֵֽי־יְהוּדָ֛ה בָּרִאשֹׁנָ֖ה לְצִבְאֹתָ֑ם וְעַ֨ל־צְבָא֔וֹ נַחְשׁ֖וֹן בֶּן־עַמִּינָדָֽב׃",
+      "douay_rheims": "The sons of Juda by their troops: whose prince was Nahasson the son of Aminadab.",
+      "finnish_biblia": "Nimittäin Juudan lasten leirin lippu läksi ensin matkaan joukkoinensa, ja heidän joukkonsa päällä oli Nahesson Amminadabin poika. ",
       "king_james": "In the first place went the standard of the camp of the children of Judah according to their armies: and over his host was Nahshon the son of Amminadab."
     },
     {
       "verse": 15,
       "latin_vulgate": "In tribu filiorum Issachar fuit princeps Nathanaël filius Suar. ",
       "hebrew_masoretic": "וְעַ֨ל־צְבָ֔א מַטֵּ֖ה בְּנֵ֣י יִשָּׂשכָ֑ר נְתַנְאֵ֖ל בֶּן־צוּעָֽר׃",
+      "douay_rheims": "In the tribe of the sons of Issachar, the prince was Nathanael the son of Suar.",
+      "finnish_biblia": "Ja Isaskarin lasten suvun joukon päällä oli Netaneel Suarin poika. ",
       "king_james": "And over the host of the tribe of the children of Issachar was Nethaneel the son of Zuar."
     },
     {
       "verse": 16,
       "latin_vulgate": "In tribu Zabulon erat princeps Eliab filius Helon. ",
       "hebrew_masoretic": "וְעַ֨ל־צְבָ֔א מַטֵּ֖ה בְּנֵ֣י זְבוּלֻ֑ן אֱלִיאָ֖ב בֶּן־חֵלֹֽן׃",
+      "douay_rheims": "In the tribe of Zabulon, the prince was Eliab the son of Helon.",
+      "finnish_biblia": "Ja Sebulonin lasten suvun joukon päällä oli Eliab Helonin poika. ",
       "king_james": "And over the host of the tribe of the children of Zebulun was Eliab the son of Helon."
     },
     {
       "verse": 17,
       "latin_vulgate": "Depositumque est tabernaculum, quod portantes egressi sunt filii Gerson et Merari. ",
       "hebrew_masoretic": "וְהוּרַ֖ד הַמִּשְׁכָּ֑ן וְנָסְע֤וּ בְנֵֽי־גֵרְשׁוֹן֙ וּבְנֵ֣י מְרָרִ֔י נֹשְׂאֵ֖י הַמִּשְׁכָּֽן׃",
+      "douay_rheims": "And the tabernacle was taken down, and the sons of Gerson and Merari set forward, bearing it.",
+      "finnish_biblia": "Silloin maja otettiin maahan: ja Gersonin ja Merarin lapset läksivät matkaan ja kantoivat majaa. ",
       "king_james": "And the tabernacle was taken down; and the sons of Gershon and the sons of Merari set forward, bearing the tabernacle."
     },
     {
       "verse": 18,
       "latin_vulgate": "Profectique sunt et filii Ruben, per turmas et ordinem suum : quorum princeps erat Helisur filius Sedeur. ",
       "hebrew_masoretic": "וְנָסַ֗ע דֶּ֛גֶל מַחֲנֵ֥ה רְאוּבֵ֖ן לְצִבְאֹתָ֑ם וְעַ֨ל־צְבָא֔וֹ אֱלִיצ֖וּר בֶּן־שְׁדֵיאֽוּר׃",
+      "douay_rheims": "And the sons of Ruben also marched, by their troops and ranks, whose prince was Helisur the son of Sedeur.",
+      "finnish_biblia": "Sitälähin läksi Rubenin leirin lippu joukkoinensa, ja hänen joukkonsa päällä oli Elisur Sedeurin poika. ",
       "king_james": "And the standard of the camp of Reuben set forward according to their armies: and over his host was Elizur the son of Shedeur."
     },
     {
       "verse": 19,
       "latin_vulgate": "In tribu autem filiorum Simeon, princeps fuit Salamiel filius Surisaddai. ",
       "hebrew_masoretic": "וְעַ֨ל־צְבָ֔א מַטֵּ֖ה בְּנֵ֣י שִׁמְע֑וֹן שְׁלֻֽמִיאֵ֖ל בֶּן־צוּרִֽישַׁדָּֽי׃",
+      "douay_rheims": "And in the tribe of Simeon, the prince was Salamiel the son of Surisaddai.",
+      "finnish_biblia": "Ja Simeonin lasten suvun joukon päällä oli Selumiel SuriSaddain poika. ",
       "king_james": "And over the host of the tribe of the children of Simeon was Shelumiel the son of Zurishaddai."
     },
     {
       "verse": 20,
       "latin_vulgate": "Porro in tribu Gad erat princeps Eliasaph filius Duel. ",
       "hebrew_masoretic": "וְעַל־צְבָ֖א מַטֵּ֣ה בְנֵי־גָ֑ד אֶלְיָסָ֖ף בֶּן־דְּעוּאֵֽל׃",
+      "douay_rheims": "And in the tribe of Gad, the prince was Eliasaph the son of Duel.",
+      "finnish_biblia": "Ja Gadin lasten suvun joukon päällä oli Eliasaph Deguelin poika. ",
       "king_james": "And over the host of the tribe of the children of Gad was Eliasaph the son of Deuel."
     },
     {
       "verse": 21,
       "latin_vulgate": "Profectique sunt et Caathitæ portantes sanctuarium. Tamdiu tabernaculum portabatur, donec venirent ad erectionis locum. ",
       "hebrew_masoretic": "וְנָסְעוּ֙ הַקְּהָתִ֔ים נֹשְׂאֵ֖י הַמִּקְדָּ֑שׁ וְהֵקִ֥ימוּ אֶת־הַמִּשְׁכָּ֖ן עַד־בֹּאָֽם׃",
+      "douay_rheims": "Then the Caathites also marched carrying the sanctuary. So long was the tabernacle carried, till they came to the place of setting it up.",
+      "finnish_biblia": "Niin matkustivat myös Kahatilaiset ja kantoivat pyhää, ja toiset panivat majan ylös, siihenasti että nämät tulivat. ",
       "king_james": "And the Kohathites set forward, bearing the sanctuary: and the other did set up the tabernacle against they came."
     },
     {
       "verse": 22,
       "latin_vulgate": "Moverunt castra et filii Ephraim per turmas suas, in quorum exercitu princeps erat Elisama filius Ammiud. ",
       "hebrew_masoretic": "וְנָסַ֗ע דֶּ֛גֶל מַחֲנֵ֥ה בְנֵֽי־אֶפְרַ֖יִם לְצִבְאֹתָ֑ם וְעַ֨ל־צְבָא֔וֹ אֱלִישָׁמָ֖ע בֶּן־עַמִּיהֽוּד׃",
+      "douay_rheims": "The sons of Ephraim also moved their camp by their troops, in whose army the prince was Elisama the son of Ammiud.",
+      "finnish_biblia": "Sitälikin läksi Ephraimin lasten leirin lippu joukkoinensa, ja hänen joukkonsa päällä oli Elisama Ammihudin poika. ",
       "king_james": "And the standard of the camp of the children of Ephraim set forward according to their armies: and over his host was Elishama the son of Ammihud."
     },
     {
       "verse": 23,
       "latin_vulgate": "In tribu autem filiorum Manasse princeps fuit Gamaliel filius Phadassur. ",
       "hebrew_masoretic": "וְעַ֨ל־צְבָ֔א מַטֵּ֖ה בְּנֵ֣י מְנַשֶּׁ֑ה גַּמְלִיאֵ֖ל בֶּן־פְּדָהצֽוּר׃",
+      "douay_rheims": "And in the tribe of the sons of Manasses, the prince was Gamaliel the son of Phadassur.",
+      "finnish_biblia": "Ja Manassen lasten sukukunnan joukon päällä oli Gamliel Pedatsurin poika. ",
       "king_james": "And over the host of the tribe of the children of Manasseh was Gamaliel the son of Pedahzur."
     },
     {
       "verse": 24,
       "latin_vulgate": "Et in tribu Benjamin erat dux Abidan filius Gedeonis. ",
       "hebrew_masoretic": "וְעַ֨ל־צְבָ֔א מַטֵּ֖ה בְּנֵ֣י בִנְיָמִ֑ן אֲבִידָ֖ן בֶּן־גִּדְעוֹנִֽי׃",
+      "douay_rheims": "And in the tribe of Benjamin, the prince was Abidan the son of Gedeon.",
+      "finnish_biblia": "Ja BenJaminin lasten sukukunnan joukon päällä oli Abidan Gideonin poika. ",
       "king_james": "And over the host of the tribe of the children of Benjamin was Abidan the son of Gideoni."
     },
     {
       "verse": 25,
       "latin_vulgate": "Novissimi castrorum omnium profecti sunt filii Dan per turmas suas, in quorum exercitu princeps fuit Ahiezer filius Ammisaddai. ",
       "hebrew_masoretic": "וְנָסַ֗ע דֶּ֚גֶל מַחֲנֵ֣ה בְנֵי־דָ֔ן מְאַסֵּ֥ף לְכׇל־הַֽמַּחֲנֹ֖ת לְצִבְאֹתָ֑ם וְעַ֨ל־צְבָא֔וֹ אֲחִיעֶ֖זֶר בֶּן־עַמִּישַׁדָּֽי׃",
+      "douay_rheims": "The last of all the camp marched the sons of Dan by their troops, in whose army the prince was Ahiezer the son of Ammisaddai.",
+      "finnish_biblia": "Sitälikin läksi Danin lasten leirin lippu joukkoinensa. Ja niin kaikki leirit matkassansa olivat. Ja hänen joukkonsa päällä oli AhiEser AmmiSaddain poika. ",
       "king_james": "And the standard of the camp of the children of Dan set forward, which was the rereward of all the camps throughout their hosts: and over his host was Ahiezer the son of Ammishaddai."
     },
     {
       "verse": 26,
       "latin_vulgate": "In tribu autem filiorum Aser erat princeps Phegiel filius Ochran. ",
       "hebrew_masoretic": "וְעַ֨ל־צְבָ֔א מַטֵּ֖ה בְּנֵ֣י אָשֵׁ֑ר פַּגְעִיאֵ֖ל בֶּן־עׇכְרָֽן׃",
+      "douay_rheims": "And in the tribe of the sons of Aser, the prince was Phegiel the son of Ochran.",
+      "finnish_biblia": "Ja Asserin lasten sukukunnan joukon päällä oli Pagiel Okranin poika. ",
       "king_james": "And over the host of the tribe of the children of Asher was Pagiel the son of Ocran."
     },
     {
       "verse": 27,
       "latin_vulgate": "Et in tribu filiorum Nephthali princeps fuit Ahira filius Enan. ",
       "hebrew_masoretic": "וְעַ֨ל־צְבָ֔א מַטֵּ֖ה בְּנֵ֣י נַפְתָּלִ֑י אֲחִירַ֖ע בֶּן־עֵינָֽן׃",
+      "douay_rheims": "And in the tribe of the sons of Nephtali, the prince was Ahira the son of Enan.",
+      "finnish_biblia": "Ja Naphtalin lasten sukukunnan joukon päällä oli Ahira Enanin poika. ",
       "king_james": "And over the host of the tribe of the children of Naphtali was Ahira the son of Enan."
     },
     {
       "verse": 28,
       "latin_vulgate": "Hæc sunt castra, et profectiones filiorum Israël per turmas suas quando egrediebantur.  ",
       "hebrew_masoretic": "אֵ֛לֶּה מַסְעֵ֥י בְנֵֽי־יִשְׂרָאֵ֖ל לְצִבְאֹתָ֑ם וַיִּסָּֽעוּ׃ {ס}",
+      "douay_rheims": "This was the order of the camps, and marches of the children of Israel by their troops, when they set forward.",
+      "finnish_biblia": "Nämät ovat Israelin lasten vaellukset joukkoinensa, koska he matkustivat. ",
       "king_james": "Thus were the journeyings of the children of Israel according to their armies, when they set forward."
     },
     {
       "verse": 29,
       "latin_vulgate": " Dixitque Moyses Hobab filio Raguel Madianitæ, cognato suo : Proficiscimur ad locum quem Dominus daturus est nobis : veni nobiscum, ut benefaciamus tibi, quia Dominus bona promisit Israëli. ",
       "hebrew_masoretic": "וַיֹּ֣אמֶר מֹשֶׁ֗ה לְ֠חֹבָ֠ב בֶּן־רְעוּאֵ֣ל הַמִּדְיָנִי֮ חֹתֵ֣ן מֹשֶׁה֒ נֹסְעִ֣ים ׀ אֲנַ֗חְנוּ אֶל־הַמָּקוֹם֙ אֲשֶׁ֣ר אָמַ֣ר יְהֹוָ֔ה אֹת֖וֹ אֶתֵּ֣ן לָכֶ֑ם לְכָ֤ה אִתָּ֙נוּ֙ וְהֵטַ֣בְנוּ לָ֔ךְ כִּֽי־יְהֹוָ֥ה דִּבֶּר־ט֖וֹב עַל־יִשְׂרָאֵֽל׃",
+      "douay_rheims": "And Moses said to Hobab the son of Raguel the Madianite, his kinsman: We are going towards the place which the Lord will give us: come with us, that we may do thee good: for the Lord hath promised good things to Israel.",
+      "finnish_biblia": "Ja Moses puhui näälämiehellensä Hobabille Reguelin Midianilaisen pojalle: me menemme siihen paikkaan, josta Herra sanonut on: minä annan sen teille. Tule meidän kanssamme, me teemme sinulle hyvää, sillä Herra on hyvää luvannut Israelille. ",
       "king_james": "And Moses said unto Hobab, the son of Raguel the Midianite, Moses’ father in law, We are journeying unto the place of which the Lord said, I will give it you: come thou with us, and we will do thee good: for the Lord hath spoken good concerning Israel."
     },
     {
       "verse": 30,
       "latin_vulgate": "Cui ille respondit : Non vadam tecum, sed revertar in terram meam, in qua natus sum. ",
       "hebrew_masoretic": "וַיֹּ֥אמֶר אֵלָ֖יו לֹ֣א אֵלֵ֑ךְ כִּ֧י אִם־אֶל־אַרְצִ֛י וְאֶל־מוֹלַדְתִּ֖י אֵלֵֽךְ׃",
+      "douay_rheims": "But he answered him: I will not go with thee, but I will return to my country, wherein I was born.",
+      "finnish_biblia": "Hän vastasi häntä: en minä tule teidän kanssanne, vaan minä menen omalle maalleni sukuni tykö. ",
       "king_james": "And he said unto him, I will not go; but I will depart to mine own land, and to my kindred."
     },
     {
       "verse": 31,
       "latin_vulgate": "Et ille : Noli, inquit, nos relinquere : tu enim nosti in quibus locis per desertum castra ponere debeamus, et eris ductor noster. ",
       "hebrew_masoretic": "וַיֹּ֕אמֶר אַל־נָ֖א תַּעֲזֹ֣ב אֹתָ֑נוּ כִּ֣י ׀ עַל־כֵּ֣ן יָדַ֗עְתָּ חֲנֹתֵ֙נוּ֙ בַּמִּדְבָּ֔ר וְהָיִ֥יתָ לָּ֖נוּ לְעֵינָֽיִם׃",
+      "douay_rheims": "And he said: Do not leave us: for thou knowest in what places we should encamp in the wilderness, and thou shalt be our guide.",
+      "finnish_biblia": "Hän sanoi: älä meistä luovu, sillä sinä tiedät, kussa meidän pitää itsemme sioittaman korvessa, ja sinä olet meidän silmämme. ",
       "king_james": "And he said, Leave us not, I pray thee; forasmuch as thou knowest how we are to encamp in the wilderness, and thou mayest be to us instead of eyes."
     },
     {
       "verse": 32,
       "latin_vulgate": "Cumque nobiscum veneris, quidquid optimum fuerit ex opibus, quas nobis traditurus est Dominus, dabimus tibi. ",
       "hebrew_masoretic": "וְהָיָ֖ה כִּי־תֵלֵ֣ךְ עִמָּ֑נוּ וְהָיָ֣ה ׀ הַטּ֣וֹב הַה֗וּא אֲשֶׁ֨ר יֵיטִ֧יב יְהֹוָ֛ה עִמָּ֖נוּ וְהֵטַ֥בְנוּ לָֽךְ׃",
+      "douay_rheims": "And if thou comest with us, we will give thee what is the best of the riches which the Lord shall deliver to us.",
+      "finnish_biblia": "Ja jos sinä tulet meidän kanssamme, niin se hyvä, minkä Herra meille tekee, sen me teemme sinulle. ",
       "king_james": "And it shall be, if thou go with us, yea, it shall be, that what goodness the Lord shall do unto us, the same will we do unto thee."
     },
     {
       "verse": 33,
       "latin_vulgate": "Profecti sunt ergo de monte Domini viam trium dierum, arcaque fœderis Domini præcedebat eos, per dies tres providens castrorum locum. ",
       "hebrew_masoretic": "וַיִּסְעוּ֙ מֵהַ֣ר יְהֹוָ֔ה דֶּ֖רֶךְ שְׁלֹ֣שֶׁת יָמִ֑ים וַאֲר֨וֹן בְּרִית־יְהֹוָ֜ה נֹסֵ֣עַ לִפְנֵיהֶ֗ם דֶּ֚רֶךְ שְׁלֹ֣שֶׁת יָמִ֔ים לָת֥וּר לָהֶ֖ם מְנוּחָֽה׃",
+      "douay_rheims": "So they marched from the mount of the Lord three days' journey, and the ark of the covenant of the Lord went before them, for three days providing a place for the camp.",
+      "finnish_biblia": "Niin he matkustivat kolme päiväkuntaa Herran vuoren tyköä, ja Herran liiton arkki vaelsi heidän edellänsä kolme päiväkuntaa, katsomaan heille, kussa heidän lepäämän piti. ",
       "king_james": "And they departed from the mount of the Lord three days’ journey: and the ark of the covenant of the Lord went before them in the three days’ journey, to search out a resting place for them."
     },
     {
       "verse": 34,
       "latin_vulgate": "Nubes quoque Domini super eos erat per diem cum incederent. ",
       "hebrew_masoretic": "וַעֲנַ֧ן יְהֹוָ֛ה עֲלֵיהֶ֖ם יוֹמָ֑ם בְּנׇסְעָ֖ם מִן־הַֽמַּחֲנֶֽה׃ {ס}",
+      "douay_rheims": "The cloud also of the Lord was over them by day when they marched.",
+      "finnish_biblia": "Ja Herran pilvi oli heidän päällänsä päivällä, koska he leiristä matkustivat. ",
       "king_james": "And the cloud of the Lord was upon them by day, when they went out of the camp."
     },
     {
       "verse": 35,
       "latin_vulgate": "Cumque elevaretur arca, dicebat Moyses : Surge, Domine, et dissipentur inimici tui, et fugiant qui oderunt te, a facie tua. ",
       "hebrew_masoretic": "׆ וַיְהִ֛י בִּנְסֹ֥עַ הָאָרֹ֖ן וַיֹּ֣אמֶר מֹשֶׁ֑ה קוּמָ֣ה ׀ יְהֹוָ֗ה וְיָפֻ֙צוּ֙ אֹֽיְבֶ֔יךָ וְיָנֻ֥סוּ מְשַׂנְאֶ֖יךָ מִפָּנֶֽיךָ׃",
+      "douay_rheims": "And when the ark was lifted up, Moses said: Arise, O Lord, and let thy enemies be scattered, and let them that hate thee, flee from before thy face.",
+      "finnish_biblia": "Ja koska arkki läksi matkaan, sanoi Moses: Herra nouse, että vihollises hajotettaisiin, ja ne, jotka sinua vainoovat, pakenisivat sinun edestäs. ",
       "king_james": "And it came to pass, when the ark set forward, that Moses said, Rise up, Lord, and let thine enemies be scattered; and let them that hate thee flee before thee."
     },
     {
       "verse": 36,
       "latin_vulgate": "Cum autem deponeretur, aiebat : Revertere, Domine, ad multitudinem exercitus Israël.   ",
       "hebrew_masoretic": "וּבְנֻחֹ֖ה יֹאמַ֑ר שׁוּבָ֣ה יְהֹוָ֔ה רִֽבְב֖וֹת אַלְפֵ֥י יִשְׂרָאֵֽל׃ ׆ {פ}",
+      "douay_rheims": "And when it was set down, he said: Return, O Lord, to the multitude of the host of Israel. ",
+      "finnish_biblia": "Koska arkki lepäsi, sanoi hän: Palaja, Herra, niiden monen kymmenen tuhannen tykö Israelissa.   ",
       "king_james": "And when it rested, he said, Return, O Lord, unto the many thousands of Israel. "
     }
   ]

@@ -2,6 +2,8 @@
   "book_id": "DEU",
   "latin_name": "Deuteronomium",
   "hebrew_name": "דְּבָרִים",
+  "douay_name": "Deuteronomy",
+  "finnish_name": "5. Mooseksen kirja",
   "english_name": "Deuteronomy",
   "chapter": 20,
   "verses": [
@@ -9,120 +11,160 @@
       "verse": 1,
       "latin_vulgate": "Si exieris ad bellum contra hostes tuos, et videris equitatus et currus, et majorem quam tu habeas adversarii exercitus multitudinem, non timebis eos : quia Dominus Deus tuus tecum est, qui eduxit te de terra Ægypti. ",
       "hebrew_masoretic": "כִּֽי־תֵצֵ֨א לַמִּלְחָמָ֜ה עַל־אֹיְבֶ֗ךָ וְֽרָאִ֜יתָ ס֤וּס וָרֶ֙כֶב֙ עַ֚ם רַ֣ב מִמְּךָ֔ לֹ֥א תִירָ֖א מֵהֶ֑ם כִּֽי־יְהֹוָ֤ה אֱלֹהֶ֙יךָ֙ עִמָּ֔ךְ הַמַּֽעַלְךָ֖ מֵאֶ֥רֶץ מִצְרָֽיִם׃",
+      "douay_rheims": "If thou go out to war against thy enemies, and see horsemen and chariots, and the numbers of the enemy's army greater than thine, thou shalt not fear them: because the Lord thy God is with thee, who brought thee out of the land of Egypt.",
+      "finnish_biblia": "Koskas menet sotaan vihollisias vastaan, ja näet hevoset ja vaunut, ja kansan joka on suurempi sinua, niin älä pelkää heitä; sillä Herra sinun Jumalas, joka sinun johdatti ulos Egyptin maalta, on sinun kanssas. ",
       "king_james": "When thou goest out to battle against thine enemies, and seest horses, and chariots, and a people more than thou, be not afraid of them: for the Lord thy God is with thee, which brought thee up out of the land of Egypt."
     },
     {
       "verse": 2,
       "latin_vulgate": "Appropinquante autem jam prælio, stabit sacerdos ante aciem, et sic loquetur ad populum : ",
       "hebrew_masoretic": "וְהָיָ֕ה כְּקָֽרׇבְכֶ֖ם אֶל־הַמִּלְחָמָ֑ה וְנִגַּ֥שׁ הַכֹּהֵ֖ן וְדִבֶּ֥ר אֶל־הָעָֽם׃",
+      "douay_rheims": "And when the battle is now at hand, the priest shall stand before the army, and shall speak to the people in this manner:",
+      "finnish_biblia": "Ja kuin te lähestytte sotaa, niin astukaan pappi edes ja puhukaan kansalle, ",
       "king_james": "And it shall be, when ye are come nigh unto the battle, that the priest shall approach and speak unto the people,"
     },
     {
       "verse": 3,
       "latin_vulgate": "Audi, Israël : vos hodie contra inimicos vestros pugnam committitis : non pertimescat cor vestrum, nolite metuere, nolite cedere, nec formidetis eos : ",
       "hebrew_masoretic": "וְאָמַ֤ר אֲלֵהֶם֙ שְׁמַ֣ע יִשְׂרָאֵ֔ל אַתֶּ֨ם קְרֵבִ֥ים הַיּ֛וֹם לַמִּלְחָמָ֖ה עַל־אֹיְבֵיכֶ֑ם אַל־יֵרַ֣ךְ לְבַבְכֶ֗ם אַל־תִּֽירְא֧וּ וְאַֽל־תַּחְפְּז֛וּ וְאַל־תַּֽעַרְצ֖וּ מִפְּנֵיהֶֽם׃",
+      "douay_rheims": "Hear, O Israel, you join battle this day against your enemies, let not your heart be dismayed, be not afraid, do not give back, fear ye them not:",
+      "finnish_biblia": "Ja sanokaan heille: kuule Israel, te menette tänäpänä sotaan vihollisianne vastaan: älkään sydämenne pehmetkö, älkäät peljätkö, älkäät vavisko, älkäät myös hämmästykö heidän edessänsä. ",
       "king_james": "And shall say unto them, Hear, O Israel, ye approach this day unto battle against your enemies: let not your hearts faint, fear not, and do not tremble, neither be ye terrified because of them;"
     },
     {
       "verse": 4,
       "latin_vulgate": "quia Dominus Deus vester in medio vestri est, et pro vobis contra adversarios dimicabit, ut eruat vos de periculo. ",
       "hebrew_masoretic": "כִּ֚י יְהֹוָ֣ה אֱלֹֽהֵיכֶ֔ם הַהֹלֵ֖ךְ עִמָּכֶ֑ם לְהִלָּחֵ֥ם לָכֶ֛ם עִם־אֹיְבֵיכֶ֖ם לְהוֹשִׁ֥יעַ אֶתְכֶֽם׃",
+      "douay_rheims": "Because the Lord your God is in the midst of you, and will fight for you against your enemies, to deliver you from danger.",
+      "finnish_biblia": "Sillä Herra teidän Jumalanne käy kanssanne, sotimaan edestänne vihollisianne vastaan, ja auttaa teitä. ",
       "king_james": "For the Lord your God is he that goeth with you, to fight for you against your enemies, to save you."
     },
     {
       "verse": 5,
       "latin_vulgate": "Duces quoque per singulas turmas audiente exercitu proclamabunt : Quis est homo qui ædificavit domum novam, et non dedicavit eam ? vadat, et revertatur in domum suam, ne forte moriatur in bello, et alius dedicet eam. ",
       "hebrew_masoretic": "וְדִבְּר֣וּ הַשֹּֽׁטְרִים֮ אֶל־הָעָ֣ם לֵאמֹר֒ מִֽי־הָאִ֞ישׁ אֲשֶׁ֨ר בָּנָ֤ה בַֽיִת־חָדָשׁ֙ וְלֹ֣א חֲנָכ֔וֹ יֵלֵ֖ךְ וְיָשֹׁ֣ב לְבֵית֑וֹ פֶּן־יָמוּת֙ בַּמִּלְחָמָ֔ה וְאִ֥ישׁ אַחֵ֖ר יַחְנְכֶֽנּוּ׃",
+      "douay_rheims": "And the captains shall proclaim through every band in the hearing of the army: What man is there, that hath built a new house, and hath not dedicated it? let him go and return to his house, lest he die in the battle, and another man dedicate it.",
+      "finnish_biblia": "Vaan sodan päämiehet puhutelkaan kansaa ja sanokaan: joka uuden huoneen on rakentanut, ja ei siinä vielä ruvennut asumaan, hän menkään pois ja palatkaan kotiansa, ettei hän kuolisi sodassa, ja joku toinen omistais sen. ",
       "king_james": "And the officers shall speak unto the people, saying, What man is there that hath built a new house, and hath not dedicated it? let him go and return to his house, lest he die in the battle, and another man dedicate it."
     },
     {
       "verse": 6,
       "latin_vulgate": "Quis est homo qui plantavit vineam, et necdum fecit eam esse communem, de qua vesci omnibus liceat ? vadat, et revertatur in domum suam, ne forte moriatur in bello, et alius homo ejus fungatur officio. ",
       "hebrew_masoretic": "וּמִֽי־הָאִ֞ישׁ אֲשֶׁר־נָטַ֥ע כֶּ֙רֶם֙ וְלֹ֣א חִלְּל֔וֹ יֵלֵ֖ךְ וְיָשֹׁ֣ב לְבֵית֑וֹ פֶּן־יָמוּת֙ בַּמִּלְחָמָ֔ה וְאִ֥ישׁ אַחֵ֖ר יְחַלְּלֶֽנּוּ׃",
+      "douay_rheims": "What man is there, that hath planted a vineyard, and hath not as yet made it to be common, whereof all men may eat? let him go, and return to his house, lest he die in the battle, and another man execute his office.",
+      "finnish_biblia": "Ja se joka istutti viinamäen, ja ei vielä sitä tehnyt yhteiseksi, hän menkään pois ja palatkaan kotiansa, ettei hän kuolisi sodassa ja toinen tekis sen yhteiseksi. ",
       "king_james": "And what man is he that hath planted a vineyard, and hath not yet eaten of it? let him also go and return unto his house, lest he die in the battle, and another man eat of it."
     },
     {
       "verse": 7,
       "latin_vulgate": "Quis est homo, qui despondit uxorem, et non accepit eam ? vadat, et revertatur in domum suam, ne forte moriatur in bello, et alius homo accipiat eam. ",
       "hebrew_masoretic": "וּמִֽי־הָאִ֞ישׁ אֲשֶׁר־אֵרַ֤שׂ אִשָּׁה֙ וְלֹ֣א לְקָחָ֔הּ יֵלֵ֖ךְ וְיָשֹׁ֣ב לְבֵית֑וֹ פֶּן־יָמוּת֙ בַּמִּלְחָמָ֔ה וְאִ֥ישׁ אַחֵ֖ר יִקָּחֶֽנָּה׃",
+      "douay_rheims": "What man is there, that hath espoused a wife, and not taken her? let him go, and return to his house, lest he die in the war, and another man take her.",
+      "finnish_biblia": "Jos joku on hänellensä vaimon kihlannut, ja ei ottanut häntä tykönsä, hän menkään pois ja palatkaan kotiansa, ettei hän kuolisi sodassa, ja toinen nais häntä. ",
       "king_james": "And what man is there that hath betrothed a wife, and hath not taken her? let him go and return unto his house, lest he die in the battle, and another man take her."
     },
     {
       "verse": 8,
       "latin_vulgate": "His dictis addent reliqua, et loquentur ad populum : Quis est homo formidolosus, et corde pavido ? vadat, et revertatur in domum suam, ne pavere faciat corda fratrum suorum, sicut ipse timore perterritus est. ",
       "hebrew_masoretic": "וְיָסְפ֣וּ הַשֹּׁטְרִים֮ לְדַבֵּ֣ר אֶל־הָעָם֒ וְאָמְר֗וּ מִי־הָאִ֤ישׁ הַיָּרֵא֙ וְרַ֣ךְ הַלֵּבָ֔ב יֵלֵ֖ךְ וְיָשֹׁ֣ב לְבֵית֑וֹ וְלֹ֥א יִמַּ֛ס אֶת־לְבַ֥ב אֶחָ֖יו כִּלְבָבֽוֹ׃",
+      "douay_rheims": "After these things are declared they shall add the rest, and shall speak to the people: What man is there that is fearful, and faint hearted? let him go, and return to his house, lest he make the hearts of his brethren to fear, as he himself is possessed with fear.",
+      "finnish_biblia": "Ja sodan päämiehet vielä puhukaan kansalle ja sanokaan: joka pelkuri on ja vapisevaisella sydämellä, hän menkään pois ja palatkaan kotiansa, ettei hän saattaisi veljeinsä sydämiä pelkuriksi, niinkuin hänen sydämensä on. ",
       "king_james": "And the officers shall speak further unto the people, and they shall say, What man is there that is fearful and fainthearted? let him go and return unto his house, lest his brethren’s heart faint as well as his heart."
     },
     {
       "verse": 9,
       "latin_vulgate": "Cumque siluerint duces exercitus, et finem loquendi fecerint, unusquisque suos ad bellandum cuneos præparabit.  ",
       "hebrew_masoretic": "וְהָיָ֛ה כְּכַלֹּ֥ת הַשֹּׁטְרִ֖ים לְדַבֵּ֣ר אֶל־הָעָ֑ם וּפָ֥קְד֛וּ שָׂרֵ֥י צְבָא֖וֹת בְּרֹ֥אשׁ הָעָֽם׃ {ס}",
+      "douay_rheims": "And when the captains of the army shall hold their peace, and have made an end of speaking, every man shall prepare their bands to fight.",
+      "finnish_biblia": "Ja sittekuin sodan päämiehet lopettaneet ovat kansalle puheensa, niin he asettakaan sotajoukon ylimmäiset ensimäiseksi kansan sekaan. ",
       "king_james": "And it shall be, when the officers have made an end of speaking unto the people, that they shall make captains of the armies to lead the people."
     },
     {
       "verse": 10,
       "latin_vulgate": " Siquando accesseris ad expugnandam civitatem, offeres ei primum pacem. ",
       "hebrew_masoretic": "כִּֽי־תִקְרַ֣ב אֶל־עִ֔יר לְהִלָּחֵ֖ם עָלֶ֑יהָ וְקָרָ֥אתָ אֵלֶ֖יהָ לְשָׁלֽוֹם׃",
+      "douay_rheims": "If at any time thou come to fight against a city, thou shalt first offer it peace.",
+      "finnish_biblia": "Kuin mene jonkun kaupungin eteen, sotimaan sitä vastaan, niin taritse heille rauhaa. ",
       "king_james": "When thou comest nigh unto a city to fight against it, then proclaim peace unto it."
     },
     {
       "verse": 11,
       "latin_vulgate": "Si receperit, et aperuerit tibi portas, cunctus populus, qui in ea est, salvabitur, et serviet tibi sub tributo. ",
       "hebrew_masoretic": "וְהָיָה֙ אִם־שָׁל֣וֹם תַּֽעַנְךָ֔ וּפָתְחָ֖ה לָ֑ךְ וְהָיָ֞ה כׇּל־הָעָ֣ם הַנִּמְצָא־בָ֗הּ יִהְי֥וּ לְךָ֛ לָמַ֖ס וַעֲבָדֽוּךָ׃",
+      "douay_rheims": "If they receive it, and open the gates to thee, all the people that are therein, shall be saved, and shall serve thee paying tribute.",
+      "finnish_biblia": "Ja jos he sinua rauhallisesti vastaavat ja avaavat etees, niin olkaan kaikki kansa joka siinä on, sinulle verollinen ja palvelkaan sinua. ",
       "king_james": "And it shall be, if it make thee answer of peace, and open unto thee, then it shall be, that all the people that is found therein shall be tributaries unto thee, and they shall serve thee."
     },
     {
       "verse": 12,
       "latin_vulgate": "Sin autem fœdus inire noluerit, et cœperit contra te bellum, oppugnabis eam. ",
       "hebrew_masoretic": "וְאִם־לֹ֤א תַשְׁלִים֙ עִמָּ֔ךְ וְעָשְׂתָ֥ה עִמְּךָ֖ מִלְחָמָ֑ה וְצַרְתָּ֖ עָלֶֽיהָ׃",
+      "douay_rheims": "But if they will not make peace, and shall begin war against thee, thou shalt besiege it.",
+      "finnish_biblia": "Vaan jos ei he tee rauhaa sinun kanssas, vaan sotivat sinua vastaan, niin ahdista heitä. ",
       "king_james": "And if it will make no peace with thee, but will make war against thee, then thou shalt besiege it:"
     },
     {
       "verse": 13,
       "latin_vulgate": "Cumque tradiderit Dominus Deus tuus illam in manu tua, percuties omne quod in ea generis masculini est, in ore gladii, ",
       "hebrew_masoretic": "וּנְתָנָ֛הּ יְהֹוָ֥ה אֱלֹהֶ֖יךָ בְּיָדֶ֑ךָ וְהִכִּיתָ֥ אֶת־כׇּל־זְכוּרָ֖הּ לְפִי־חָֽרֶב׃",
+      "douay_rheims": "And when the Lord thy God shall deliver it into thy hands, thou shalt slay all that are therein of the male sex, with the edge of the sword,",
+      "finnish_biblia": "Ja kuin Herra sinun Jumalas antaa heidät sinun käsiis, niin lyö kuoliaaksi kaikki miehenpuoli miekan terällä. ",
       "king_james": "And when the Lord thy God hath delivered it into thine hands, thou shalt smite every male thereof with the edge of the sword:"
     },
     {
       "verse": 14,
       "latin_vulgate": "absque mulieribus et infantibus, jumentis et ceteris quæ in civitate sunt. Omnem prædam exercitui divides, et comedes de spoliis hostium tuorum, quæ Dominus Deus tuus dederit tibi. ",
       "hebrew_masoretic": "רַ֣ק הַ֠נָּשִׁ֠ים וְהַטַּ֨ף וְהַבְּהֵמָ֜ה וְכֹל֩ אֲשֶׁ֨ר יִהְיֶ֥ה בָעִ֛יר כׇּל־שְׁלָלָ֖הּ תָּבֹ֣ז לָ֑ךְ וְאָֽכַלְתָּ֙ אֶת־שְׁלַ֣ל אֹיְבֶ֔יךָ אֲשֶׁ֥ר נָתַ֛ן יְהֹוָ֥ה אֱלֹהֶ֖יךָ לָֽךְ׃",
+      "douay_rheims": "Excepting women and children, cattle and other things, that are in the city. And thou shalt divide all the prey to the army, and thou shalt eat the spoils of thy enemies, which the Lord thy God shall give thee.",
+      "finnish_biblia": "Mutta vaimot, lapset ja eläimet, ja kaikki ne jotka kaupungissa ovat, ja kaikki saalis ota itselles, ja syö vihollistes saalista, kuin Herra sinun Jumalas antaa sinulle. ",
       "king_james": "But the women, and the little ones, and the cattle, and all that is in the city, even all the spoil thereof, shalt thou take unto thyself; and thou shalt eat the spoil of thine enemies, which the Lord thy God hath given thee."
     },
     {
       "verse": 15,
       "latin_vulgate": "Sic facies cunctis civitatibus, quæ a te procul valde sunt, et non sunt de his urbibus, quas in possessionem accepturus es. ",
       "hebrew_masoretic": "כֵּ֤ן תַּעֲשֶׂה֙ לְכׇל־הֶ֣עָרִ֔ים הָרְחֹקֹ֥ת מִמְּךָ֖ מְאֹ֑ד אֲשֶׁ֛ר לֹא־מֵעָרֵ֥י הַגּֽוֹיִם־הָאֵ֖לֶּה הֵֽנָּה׃",
+      "douay_rheims": "So shalt thou do to all cities that are at a great distance from thee, and are not of these cities which thou shalt receive in possession.",
+      "finnish_biblia": "Ja tee niin jokaiselle kaupungille, joka sinusta aivan kaukana on, ja ei ole näiden kansain kaupunkia. ",
       "king_james": "Thus shalt thou do unto all the cities which are very far off from thee, which are not of the cities of these nations."
     },
     {
       "verse": 16,
       "latin_vulgate": "De his autem civitatibus, quæ dabuntur tibi, nullum omnino permittes vivere : ",
       "hebrew_masoretic": "רַ֗ק מֵעָרֵ֤י הָֽעַמִּים֙ הָאֵ֔לֶּה אֲשֶׁר֙ יְהֹוָ֣ה אֱלֹהֶ֔יךָ נֹתֵ֥ן לְךָ֖ נַחֲלָ֑ה לֹ֥א תְחַיֶּ֖ה כׇּל־נְשָׁמָֽה׃",
+      "douay_rheims": "But of those cities that shall be given thee, thou shalt suffer none at all to live:",
+      "finnish_biblia": "Mutta näiden kansain kaupungeissa, jotka Herra sinun Jumalas sinulle perimiseksi antaa, älä jätä elämään yhtäkään henkeä; ",
       "king_james": "But of the cities of these people, which the Lord thy God doth give thee for an inheritance, thou shalt save alive nothing that breatheth:"
     },
     {
       "verse": 17,
       "latin_vulgate": "sed interficies in ore gladii, Hethæum videlicet, et Amorrhæum, et Chananæum, Pherezæum, et Hevæum, et Jebusæum, sicut præcepit tibi Dominus Deus tuus : ",
       "hebrew_masoretic": "כִּֽי־הַחֲרֵ֣ם תַּחֲרִימֵ֗ם הַחִתִּ֤י וְהָאֱמֹרִי֙ הַכְּנַעֲנִ֣י וְהַפְּרִזִּ֔י הַחִוִּ֖י וְהַיְבוּסִ֑י כַּאֲשֶׁ֥ר צִוְּךָ֖ יְהֹוָ֥ה אֱלֹהֶֽיךָ׃",
+      "douay_rheims": "But shalt kill them with the edge of the sword, to wit, the Hethite, and the Amorrhite, and the Chanaanite, the Pherezite, and the Hevite, and the Jebusite, as the Lord thy God hath commanded thee:",
+      "finnish_biblia": "Vaan hukuta ne peräti: nimittäin Hetiläiset, Amorilaiset, Kanaanealaiset, Pheresiläiset, Heviläiset ja Jebusilaiset, niinkuin Herran sinun Jumalas sinulle on käskenyt, ",
       "king_james": "But thou shalt utterly destroy them; namely, the Hittites, and the Amorites, the Canaanites, and the Perizzites, the Hivites, and the Jebusites; as the Lord thy God hath commanded thee:"
     },
     {
       "verse": 18,
       "latin_vulgate": "ne forte doceant vos facere cunctas abominationes, quas ipsi operati sunt diis suis, et peccetis in Dominum Deum vestrum. ",
       "hebrew_masoretic": "לְמַ֗עַן אֲשֶׁ֨ר לֹֽא־יְלַמְּד֤וּ אֶתְכֶם֙ לַעֲשׂ֔וֹת כְּכֹל֙ תּֽוֹעֲבֹתָ֔ם אֲשֶׁ֥ר עָשׂ֖וּ לֵאלֹֽהֵיהֶ֑ם וַחֲטָאתֶ֖ם לַיהֹוָ֥ה אֱלֹהֵיכֶֽם׃ {ס}",
+      "douay_rheims": "Lest they teach you to do all the abominations which they have done to their gods: and you should sin against the Lord your God.",
+      "finnish_biblia": "Ettei he opettaisi teitä tekemään kaikkia niitä kauhistuksia, joita he tekivät jumalillensa, ettette myös tekisi syntiä Herraa teidän Jumalaanne vastaan. ",
       "king_james": "That they teach you not to do after all their abominations, which they have done unto their gods; so should ye sin against the Lord your God."
     },
     {
       "verse": 19,
       "latin_vulgate": "Quando obsederis civitatem multo tempore, et munitionibus circumdederis ut expugnes eam, non succides arbores, de quibus vesci potest, nec securibus per circuitum debes vastare regionem : quoniam lignum est, et non homo, nec potest bellantium contra te augere numerum. ",
       "hebrew_masoretic": "כִּֽי־תָצ֣וּר אֶל־עִיר֩ יָמִ֨ים רַבִּ֜ים לְֽהִלָּחֵ֧ם עָלֶ֣יהָ לְתׇפְשָׂ֗הּ לֹֽא־תַשְׁחִ֤ית אֶת־עֵצָהּ֙ לִנְדֹּ֤חַ עָלָיו֙ גַּרְזֶ֔ן כִּ֚י מִמֶּ֣נּוּ תֹאכֵ֔ל וְאֹת֖וֹ לֹ֣א תִכְרֹ֑ת כִּ֤י הָֽאָדָם֙ עֵ֣ץ הַשָּׂדֶ֔ה לָבֹ֥א מִפָּנֶ֖יךָ בַּמָּצֽוֹר׃",
+      "douay_rheims": "When thou hast besieged a city a long time, and hath compassed it with bulwarks, to take it, thou shalt not cut down the trees that may be eaten of, neither shalt thou spoil the country round about with axes: for it is a tree, and not a man, neither can it increase the number of them that fight against thee.",
+      "finnish_biblia": "Jos sinä kauvan olet jonkun kaupungin edessä, jota vastaan sinä sodit omistaakses sitä, niin älä hävitä sen puita, älä myös kirveellä raiskaa niitä; sillä sinä saat niistä syödä, sentähden älä hakkaa niitä maahan; sillä ihmisellä on metsäpuitakin, tulemaan varustukseksi sinun etees. ",
       "king_james": "When thou shalt besiege a city a long time, in making war against it to take it, thou shalt not destroy the trees thereof by forcing an axe against them: for thou mayest eat of them, and thou shalt not cut them down (for the tree of the field is man’s life) to employ them in the siege:"
     },
     {
       "verse": 20,
       "latin_vulgate": "Si qua autem ligna non sunt pomifera, sed agrestia, et in ceteros apta usus, succide, et instrue machinas, donec capias civitatem, quæ contra te dimicat.   ",
       "hebrew_masoretic": "רַ֞ק עֵ֣ץ אֲשֶׁר־תֵּדַ֗ע כִּֽי־לֹא־עֵ֤ץ מַאֲכָל֙ ה֔וּא אֹת֥וֹ תַשְׁחִ֖ית וְכָרָ֑תָּ וּבָנִ֣יתָ מָצ֗וֹר עַל־הָעִיר֙ אֲשֶׁר־הִ֨וא עֹשָׂ֧ה עִמְּךָ֛ מִלְחָמָ֖ה עַ֥ד רִדְתָּֽהּ׃ {פ}",
+      "douay_rheims": "But if there be any trees that are not fruitful, but wild, and fit for other uses, cut them down, and make engines, until thou take the city, which fighteth against thee. ",
+      "finnish_biblia": "Vaan ne puut, joista tiedät, ettei ne ole syötäviä, hävitä ja hakkaa maahan, ja rakenna varustus kaupunkia vastaan, jonka kanssa sinä sodit, siksi kuin sinä voitat sen.   ",
       "king_james": "Only the trees which thou knowest that they be not trees for meat, thou shalt destroy and cut them down; and thou shalt build bulwarks against the city that maketh war with thee, until it be subdued. "
     }
   ]

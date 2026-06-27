@@ -2,6 +2,8 @@
   "book_id": "2SA",
   "latin_name": "II Samuelis",
   "hebrew_name": "שְׁמוּאֵל ב",
+  "douay_name": "2 Kings",
+  "finnish_name": "2. Samuelin kirja",
   "english_name": "2 Samuel",
   "chapter": 18,
   "verses": [
@@ -9,198 +11,264 @@
       "verse": 1,
       "latin_vulgate": "Igitur considerato David populo suo, constituit super eos tribunos et centuriones, ",
       "hebrew_masoretic": "וַיִּפְקֹ֣ד דָּוִ֔ד אֶת־הָעָ֖ם אֲשֶׁ֣ר אִתּ֑וֹ וַיָּ֣שֶׂם עֲלֵיהֶ֔ם שָׂרֵ֥י אֲלָפִ֖ים וְשָׂרֵ֥י מֵאֽוֹת׃",
+      "douay_rheims": "And David, having reviewed his people, appointed over them captains of thousands and of hundreds,",
+      "finnish_biblia": "Ja David silmäili kansan, joka hänen tykönänsä oli, ja pani päämiehiä tuhanten ja satain päälle, ",
       "king_james": "And David numbered the people that were with him, and set captains of thousands and captains of hundreds over them."
     },
     {
       "verse": 2,
       "latin_vulgate": "et dedit populi tertiam partem sub manu Joab, et tertiam partem sub manu Abisai filii Sarviæ fratris Joab, et tertiam partem sub manu Ethai, qui erat de Geth. Dixitque rex ad populum : Egrediar et ego vobiscum. ",
       "hebrew_masoretic": "וַיְשַׁלַּ֨ח דָּוִ֜ד אֶת־הָעָ֗ם הַשְּׁלִשִׁ֤ית בְּיַד־יוֹאָב֙ וְ֠הַשְּׁלִשִׁ֠ית בְּיַ֨ד אֲבִישַׁ֤י בֶּן־צְרוּיָה֙ אֲחִ֣י יוֹאָ֔ב וְהַ֨שְּׁלִשִׁ֔ת בְּיַ֖ד אִתַּ֣י הַגִּתִּ֑י {ס} וַיֹּ֤אמֶר הַמֶּ֙לֶךְ֙ אֶל־הָעָ֔ם יָצֹ֥א אֵצֵ֛א גַּם־אֲנִ֖י עִמָּכֶֽם׃",
+      "douay_rheims": "And sent forth a third part of the people under the hand of Joab, and a third part under the hand of Abisai the son of Sarvia Joab's brother, and a third part under the hand of Ethai, who was of Geth: and the king said to the people: I also will go forth with you.",
+      "finnish_biblia": "Ja lähetti kansasta kolmannen osan Joabin kanssa ja kolmannen osan Abisain ZeruJan pojan Joabin veljen kanssa, ja kolmannen osan Ittain sen Gatilaisen kanssa. Ja kuningas sanoi kansalle: minä menen kohta myös teidän kanssanne. ",
       "king_james": "And David sent forth a third part of the people under the hand of Joab, and a third part under the hand of Abishai the son of Zeruiah, Joab’s brother, and a third part under the hand of Ittai the Gittite. And the king said unto the people, I will surely go forth with you myself also."
     },
     {
       "verse": 3,
       "latin_vulgate": "Et respondit populus : Non exibis : sive enim fugerimus, non magnopere ad eos de nobis pertinebit : sive media pars ceciderit e nobis, non satis curabunt, quia tu unus pro decem millibus computaris : melius est igitur ut sis nobis in urbe præsidio. ",
       "hebrew_masoretic": "וַיֹּ֨אמֶר הָעָ֜ם לֹ֣א תֵצֵ֗א כִּי֩ אִם־נֹ֨ס נָנ֜וּס לֹֽא־יָשִׂ֧ימוּ אֵלֵ֣ינוּ לֵ֗ב וְאִם־יָמֻ֤תוּ חֶצְיֵ֙נוּ֙ לֹא־יָשִׂ֤ימוּ אֵלֵ֙ינוּ֙ לֵ֔ב כִּֽי־עַתָּ֥ה כָמֹ֖נוּ עֲשָׂרָ֣ה אֲלָפִ֑ים וְעַתָּ֣ה ט֔וֹב כִּֽי־תִֽהְיֶה־לָּ֥נוּ מֵעִ֖יר (לעזיר) [לַעְזֽוֹר]׃ {ס}",
+      "douay_rheims": "And the people answered: Thou shalt not go forth: for if we flee away, they will not much mind us: or if half of us should fall, they will not greatly care: for thou alone art accounted for ten thousand: it is better therefore that thou shouldst be in the city to succour us.",
+      "finnish_biblia": "Mutta kansa sanoi: älä mene; sillä jos me joudumme pakenemaan, ei he meistä tottele: jos puoli kuolee meistä, ei he siitä pidä lukua; sillä sinä olet niinkuin kymmenentuhatta meistä. Se on parempi, ettäs tulet meille avuksi kaupungista. ",
       "king_james": "But the people answered, Thou shalt not go forth: for if we flee away, they will not care for us; neither if half of us die, will they care for us: but now thou art worth ten thousand of us: therefore now it is better that thou succour us out of the city."
     },
     {
       "verse": 4,
       "latin_vulgate": "Ad quos rex ait : Quod vobis videtur rectum, hoc faciam. Stetit ergo rex juxta portam : egrediebaturque populus per turmas suas centeni et milleni. ",
       "hebrew_masoretic": "וַיֹּ֤אמֶר אֲלֵיהֶם֙ הַמֶּ֔לֶךְ אֲשֶׁר־יִיטַ֥ב בְּעֵינֵיכֶ֖ם אֶעֱשֶׂ֑ה וַיַּעֲמֹ֤ד הַמֶּ֙לֶךְ֙ אֶל־יַ֣ד הַשַּׁ֔עַר וְכׇל־הָעָם֙ יָֽצְא֔וּ לְמֵא֖וֹת וְלַאֲלָפִֽים׃",
+      "douay_rheims": "And the king said to them: What seemeth good to you, that will I do. And the king stood by the gate: and all the people went forth by their troops, by hundreds and by thousands.",
+      "finnish_biblia": "Kuningas sanoi heille: mitä te luulette teillenne olevan hyväksi, sen minä teen. Ja kuningas seisoi portilla, ja kansa kävi sadoin ja tuhansin ulos. ",
       "king_james": "And the king said unto them, What seemeth you best I will do. And the king stood by the gate side, and all the people came out by hundreds and by thousands."
     },
     {
       "verse": 5,
       "latin_vulgate": "Et præcepit rex Joab, et Abisai, et Ethai, dicens : Servate mihi puerum Absalom. Et omnis populus audiebat præcipientem regem cunctis principibus pro Absalom.  ",
       "hebrew_masoretic": "וַיְצַ֣ו הַמֶּ֡לֶךְ אֶת־י֠וֹאָ֠ב וְאֶת־אֲבִישַׁ֤י וְאֶת־אִתַּי֙ לֵאמֹ֔ר לְאַט־לִ֖י לַנַּ֣עַר לְאַבְשָׁל֑וֹם וְכׇל־הָעָ֣ם שָׁמְע֗וּ בְּצַוֺּ֥ת הַמֶּ֛לֶךְ אֶת־כׇּל־הַשָּׂרִ֖ים עַל־דְּבַ֥ר אַבְשָׁלֽוֹם׃",
+      "douay_rheims": "And the king commanded Joab, and Abisai, and Ethai, saying: Save me the boy Absalom. And all the people heard the king giving charge to all the princes concerning Absalom.",
+      "finnish_biblia": "Ja kuningas käski Joabia, Abisaita ja Ittaita, sanoen: menkäät siviästi nuorukaisen Absalomin kanssa; ja kaikki kansa kuuli kuninkaan varoittavan jokaista päämiestä Absalomista. ",
       "king_james": "And the king commanded Joab and Abishai and Ittai, saying, Deal gently for my sake with the young man, even with Absalom. And all the people heard when the king gave all the captains charge concerning Absalom."
     },
     {
       "verse": 6,
       "latin_vulgate": " Itaque egressus est populus in campum contra Israël, et factum est prælium in saltu Ephraim. ",
       "hebrew_masoretic": "וַיֵּצֵ֥א הָעָ֛ם הַשָּׂדֶ֖ה לִקְרַ֣את יִשְׂרָאֵ֑ל וַתְּהִ֥י הַמִּלְחָמָ֖ה בְּיַ֥עַר אֶפְרָֽיִם׃",
+      "douay_rheims": "So the people went out into the field against Israel, and the battle was fought in the forest of Ephraim.",
+      "finnish_biblia": "Ja kuin kansa tuli väljälle Israelia vastaan, niin oli sota Ephraimin metsässä. ",
       "king_james": "So the people went out into the field against Israel: and the battle was in the wood of Ephraim;"
     },
     {
       "verse": 7,
       "latin_vulgate": "Et cæsus est ibi populus Israël ab exercitu David, factaque est plaga magna in die illa, viginti millium. ",
       "hebrew_masoretic": "וַיִּנָּ֤גְפוּ שָׁם֙ עַ֣ם יִשְׂרָאֵ֔ל לִפְנֵ֖י עַבְדֵ֣י דָוִ֑ד וַתְּהִי־שָׁ֞ם הַמַּגֵּפָ֧ה גְדוֹלָ֛ה בַּיּ֥וֹם הַה֖וּא עֶשְׂרִ֥ים אָֽלֶף׃",
+      "douay_rheims": "And the people of Israel were defeated there by David's army, and a great slaughter was made that day of twenty thousand men.",
+      "finnish_biblia": "Ja Israelin kansa lyötiin siellä Davidin palvelioilta, että sinä päivänä tapahtui sangen suuri tappo: (ja kaatui) kaksikymmentä tuhatta miestä. ",
       "king_james": "Where the people of Israel were slain before the servants of David, and there was there a great slaughter that day of twenty thousand men."
     },
     {
       "verse": 8,
       "latin_vulgate": "Fuit autem ibi prælium dispersum super faciem omnis terræ, et multo plures erant quos saltus consumpserat de populo, quam hi quos voraverat gladius in die illa. ",
       "hebrew_masoretic": "וַתְּהִי־שָׁ֧ם הַמִּלְחָמָ֛ה (נפצות) [נָפ֖וֹצֶת] עַל־פְּנֵ֣י כׇל־הָאָ֑רֶץ וַיֶּ֤רֶב הַיַּ֙עַר֙ לֶאֱכֹ֣ל בָּעָ֔ם מֵאֲשֶׁ֥ר אָכְלָ֛ה הַחֶ֖רֶב בַּיּ֥וֹם הַהֽוּא׃",
+      "douay_rheims": "And the battle there was scattered over the face of all the country, and there were many more of the people whom the forest consumed, than whom the sword devoured that day.",
+      "finnish_biblia": "Ja sota hajoitettiin siellä kaikkeen maahan; ja metsä surmasi usiamman sinä päivänä kansasta, kuin miekka. ",
       "king_james": "For the battle was there scattered over the face of all the country: and the wood devoured more people that day than the sword devoured."
     },
     {
       "verse": 9,
       "latin_vulgate": "Accidit autem ut occurreret Absalom servis David, sedens mulo : cumque ingressus fuisset mulus subter condensam quercum et magnam, adhæsit caput ejus quercui : et illo suspenso inter cælum et terram, mulus cui insederat, pertransivit. ",
       "hebrew_masoretic": "וַיִּקָּרֵא֙ אַבְשָׁל֔וֹם לִפְנֵ֖י עַבְדֵ֣י דָוִ֑ד וְאַבְשָׁל֞וֹם רֹכֵ֣ב עַל־הַפֶּ֗רֶד וַיָּבֹ֣א הַפֶּ֡רֶד תַּ֣חַת שׂ֩וֹבֶךְ֩ הָאֵלָ֨ה הַגְּדוֹלָ֜ה וַיֶּחֱזַ֧ק רֹאשׁ֣וֹ בָאֵלָ֗ה וַיֻּתַּן֙ בֵּ֤ין הַשָּׁמַ֙יִם֙ וּבֵ֣ין הָאָ֔רֶץ וְהַפֶּ֥רֶד אֲשֶׁר־תַּחְתָּ֖יו עָבָֽר׃",
+      "douay_rheims": "And it happened that Absalom met the servants of David, riding on a mule: and as the mule went under a thick and large oak, his head stuck in the oak: and while he hung between the heaven and the earth, the mule on which he rode passed on.",
+      "finnish_biblia": "Ja Absalom kohtasi Davidin palvelioita ja ajoi muulilla. Ja kun muuli tuli oksaisen paksun tammen alle, tarttui hänen päänsä tammeen, ja hän jäi riippumaan taivaan ja maan välille, mutta muuli juoksi matkaansa hänen altansa. ",
       "king_james": "And Absalom met the servants of David. And Absalom rode upon a mule, and the mule went under the thick boughs of a great oak, and his head caught hold of the oak, and he was taken up between the heaven and the earth; and the mule that was under him went away."
     },
     {
       "verse": 10,
       "latin_vulgate": "Vidit autem hoc quispiam, et nuntiavit Joab, dicens : Vidi Absalom pendere de quercu. ",
       "hebrew_masoretic": "וַיַּרְא֙ אִ֣ישׁ אֶחָ֔ד וַיַּגֵּ֖ד לְיוֹאָ֑ב וַיֹּ֗אמֶר הִנֵּה֙ רָאִ֣יתִי אֶת־אַבְשָׁלֹ֔ם תָּל֖וּי בָּאֵלָֽה׃",
+      "douay_rheims": "And one saw this and told Joab, saying: I saw Absalom hanging upon an oak.",
+      "finnish_biblia": "Kuin yksi mies sen näki, ilmoitti hän Joabille, ja sanoi: katso, minä näin Absalomin riippuvan tammessa. ",
       "king_james": "And a certain man saw it, and told Joab, and said, Behold, I saw Absalom hanged in an oak."
     },
     {
       "verse": 11,
       "latin_vulgate": "Et ait Joab viro qui nuntiaverat ei : Si vidisti, quare non confodisti eum cum terra, et ego dedissem tibi decem argenti siclos, et unum balteum ? ",
       "hebrew_masoretic": "וַיֹּ֣אמֶר יוֹאָ֗ב לָאִישׁ֙ הַמַּגִּ֣יד ל֔וֹ וְהִנֵּ֣ה רָאִ֔יתָ וּמַדּ֛וּעַ לֹא־הִכִּית֥וֹ שָׁ֖ם אָ֑רְצָה וְעָלַ֗י לָ֤תֶת לְךָ֙ עֲשָׂ֣רָה כֶ֔סֶף וַחֲגֹרָ֖ה אֶחָֽת׃",
+      "douay_rheims": "And Joab said to the man that told him: If thou sawest him, why didst thou not stab him to the ground, and I would have given thee ten sicles of silver, and a belt?",
+      "finnish_biblia": "Ja Joab sanoi miehelle, joka sen hänelle ilmoitti: katso, näitkös sen? Miksi et lyönyt häntä siitä maahan? Niin minä olisin minun puolestani antanut sinulle kymmenen hopiapenninkiä ja yhden vyön. ",
       "king_james": "And Joab said unto the man that told him, And, behold, thou sawest him, and why didst thou not smite him there to the ground? and I would have given thee ten shekels of silver, and a girdle."
     },
     {
       "verse": 12,
       "latin_vulgate": "Qui dixit ad Joab : Si appenderes in manibus meis mille argenteos, nequaquam mitterem manum meam in filium regis : audientibus enim nobis præcepit rex tibi, et Abisai, et Ethai, dicens : Custodite mihi puerum Absalom. ",
       "hebrew_masoretic": "וַיֹּ֤אמֶר הָאִישׁ֙ אֶל־יוֹאָ֔ב (ולא) [וְל֨וּ] אָנֹכִ֜י שֹׁקֵ֤ל עַל־כַּפַּי֙ אֶ֣לֶף כֶּ֔סֶף לֹא־אֶשְׁלַ֥ח יָדִ֖י אֶל־בֶּן־הַמֶּ֑לֶךְ כִּ֣י בְאׇזְנֵ֜ינוּ צִוָּ֣ה הַמֶּ֗לֶךְ אֹ֠תְךָ֠ וְאֶת־אֲבִישַׁ֤י וְאֶת־אִתַּי֙ לֵאמֹ֔ר שִׁמְרוּ־מִ֕י בַּנַּ֖עַר בְּאַבְשָׁלֽוֹם׃",
+      "douay_rheims": "And he said to Joab: If thou wouldst have paid down in my hands a thousand pieces of silver, I would not lay my hands upon the king's son for in our hearing the king charged thee, and Abisai, and Ethai, saying: Save me the boy Absalom.",
+      "finnish_biblia": "Mies sanoi Joabille: jos olisin saanut punnittuna tuhannen hopiapenninkiä minun käteeni, en minä vielä sittenkään olisi kättäni satuttanut kuninkaan poikaan; sillä kuningas käski meidän kuullemme sinua ja Abisaita ja Ittaita, sanoen: pitäkäät vaari nuorukaisesta Absalomista. ",
       "king_james": "And the man said unto Joab, Though I should receive a thousand shekels of silver in mine hand, yet would I not put forth mine hand against the king’s son: for in our hearing the king charged thee and Abishai and Ittai, saying, Beware that none touch the young man Absalom."
     },
     {
       "verse": 13,
       "latin_vulgate": "Sed etsi fecissem contra animam meam audacter, nequaquam hoc regem latere potuisset, et tu stares ex adverso ? ",
       "hebrew_masoretic": "אֽוֹ־עָשִׂ֤יתִי (בנפשו) [בְנַפְשִׁי֙] שֶׁ֔קֶר וְכׇל־דָּבָ֖ר לֹא־יִכָּחֵ֣ד מִן־הַמֶּ֑לֶךְ וְאַתָּ֖ה תִּתְיַצֵּ֥ב מִנֶּֽגֶד׃",
+      "douay_rheims": "Yea and if I should have acted boldly against my own life, this could not have been hid from the king, and wouldst thou have stood by me?",
+      "finnish_biblia": "Eli jos minä vielä jotakin vääryyttä tehnyt olisin sieluni vahingoksi (sillä ei kuninkaan edessä mitään salattu ole), niin sinä olisit ollut minua vastaan. ",
       "king_james": "Otherwise I should have wrought falsehood against mine own life: for there is no matter hid from the king, and thou thyself wouldest have set thyself against me."
     },
     {
       "verse": 14,
       "latin_vulgate": "Et ait Joab : Non sicut tu vis, sed aggrediar eum coram te. Tulit ergo tres lanceas in manu sua, et infixit eas in corde Absalom : cumque adhuc palpitaret hærens in quercu, ",
       "hebrew_masoretic": "וַיֹּ֣אמֶר יוֹאָ֔ב לֹא־כֵ֖ן אֹחִ֣ילָה לְפָנֶ֑יךָ וַיִּקַּח֩ שְׁלֹשָׁ֨ה שְׁבָטִ֜ים בְּכַפּ֗וֹ וַיִּתְקָעֵם֙ בְּלֵ֣ב אַבְשָׁל֔וֹם עוֹדֶ֥נּוּ חַ֖י בְּלֵ֥ב הָאֵלָֽה׃",
+      "douay_rheims": "And Joab said: Not as thou wilt, but I will set upon him in thy sight. So he took three lances in his hand, and thrust them into the heart of Absalom: and whilst he yet panted for life, sticking on the oak,",
+      "finnish_biblia": "Joab sanoi: en minä enää sinun tykönäs viivy; ja otti kolme keihästä käteensä ja pisti ne Absalomin sydämeen, kuin hän vielä tammessa eli; ",
       "king_james": "Then said Joab, I may not tarry thus with thee. And he took three darts in his hand, and thrust them through the heart of Absalom, while he was yet alive in the midst of the oak."
     },
     {
       "verse": 15,
       "latin_vulgate": "cucurrerunt decem juvenes armigeri Joab, et percutientes interfecerunt eum. ",
       "hebrew_masoretic": "וַיָּסֹ֙בּוּ֙ עֲשָׂרָ֣ה נְעָרִ֔ים נֹשְׂאֵ֖י כְּלֵ֣י יוֹאָ֑ב וַיַּכּ֥וּ אֶת־אַבְשָׁל֖וֹם וַיְמִתֻֽהוּ׃",
+      "douay_rheims": "Ten young men, armourbearers of Joab, ran up, and striking him slew him.",
+      "finnish_biblia": "Ja kymmenen nuorukaista Joabin asetten kantajista piirittivät hänen; he löivät ja tappoivat Absalomin. ",
       "king_james": "And ten young men that bare Joab’s armour compassed about and smote Absalom, and slew him."
     },
     {
       "verse": 16,
       "latin_vulgate": "Cecinit autem Joab buccina, et retinuit populum, ne persequeretur fugientem Israël, volens parcere multitudini. ",
       "hebrew_masoretic": "וַיִּתְקַ֤ע יוֹאָב֙ בַּשֹּׁפָ֔ר וַיָּ֣שׇׁב הָעָ֔ם מִרְדֹ֖ף אַחֲרֵ֣י יִשְׂרָאֵ֑ל כִּֽי־חָשַׂ֥ךְ יוֹאָ֖ב אֶת־הָעָֽם׃",
+      "douay_rheims": "And Joab sounded the trumpet, and kept back the people from pursuing after Israel in their flight, being willing to spare the multitude.",
+      "finnish_biblia": "Niin puhalsi Joab basunaan, ja kansa palasi ajamasta Israelia takaa; sillä Joab tahtoi armahtaa kansaa. ",
       "king_james": "And Joab blew the trumpet, and the people returned from pursuing after Israel: for Joab held back the people."
     },
     {
       "verse": 17,
       "latin_vulgate": "Et tulerunt Absalom, et projecerunt eum in saltu, in foveam grandem, et comportaverunt super eum acervum lapidum magnum nimis : omnis autem Israël fugit in tabernacula sua. ",
       "hebrew_masoretic": "וַיִּקְח֣וּ אֶת־אַבְשָׁל֗וֹם וַיַּשְׁלִ֨כוּ אֹת֤וֹ בַיַּ֙עַר֙ אֶל־הַפַּ֣חַת הַגָּד֔וֹל וַיַּצִּ֧בוּ עָלָ֛יו גַּל־אֲבָנִ֖ים גָּד֣וֹל מְאֹ֑ד וְכׇ֨ל־יִשְׂרָאֵ֔ל נָ֖סוּ אִ֥ישׁ לְאֹהָלָֽו׃",
+      "douay_rheims": "And they took Absalom, and cast him into a great pit in the forest, and they laid an exceeding great heap of stones upon him: but all Israel fled to their own dwellings.",
+      "finnish_biblia": "Ja he ottivat Absalomin, ja heittivät metsässä suureen kuoppaan, ja panivat suuren kiviroukkion hänen päällensä. Ja koko Israel pakeni kukin majallensa. ",
       "king_james": "And they took Absalom, and cast him into a great pit in the wood, and laid a very great heap of stones upon him: and all Israel fled every one to his tent."
     },
     {
       "verse": 18,
       "latin_vulgate": "Porro Absalom erexerat sibi, cum adhuc viveret, titulum qui est in Valle regis : dixerat enim : Non habeo filium, et hoc erit monimentum nominis mei. Vocavitque titulum nomine suo, et appellatur Manus Absalom, usque ad hanc diem.  ",
       "hebrew_masoretic": "וְאַבְשָׁלֹ֣ם לָקַ֗ח וַיַּצֶּב־ל֤וֹ בְחַיָּו֙ אֶת־מַצֶּ֙בֶת֙ אֲשֶׁ֣ר בְּעֵֽמֶק־הַמֶּ֔לֶךְ כִּ֤י אָמַר֙ אֵֽין־לִ֣י בֵ֔ן בַּעֲב֖וּר הַזְכִּ֣יר שְׁמִ֑י וַיִּקְרָ֤א לַמַּצֶּ֙בֶת֙ עַל־שְׁמ֔וֹ וַיִּקָּ֤רֵא לָהּ֙ יַ֣ד אַבְשָׁל֔וֹם עַ֖ד הַיּ֥וֹם הַזֶּֽה׃ {ס}",
+      "douay_rheims": "Now Absalom had reared up for himself, in his lifetime, a pillar, which is in the king's valley: for he said: I have no son, and this shall be the monument of my name. And he called the pillar by his own name, and it is called the hand of Absalom, to this day.",
+      "finnish_biblia": "Vaan Absalom oli eläissänsä pystyttänyt itsellensä patsaan, se seisoo Kuninkaanlaaksossa; sillä hän sanoi: ei minulla ole yhtään poikaa, olkoon tämä sentähden minun nimeni muistoksi. Ja kutsui sen patsaan nimellänsä, joka vielä tänäpänä kutsutaan Absalomin paikaksi. ",
       "king_james": "Now Absalom in his lifetime had taken and reared up for himself a pillar, which is in the king’s dale: for he said, I have no son to keep my name in remembrance: and he called the pillar after his own name: and it is called unto this day, Absalom’s place."
     },
     {
       "verse": 19,
       "latin_vulgate": " Achimaas autem filius Sadoc, ait : Curram, et nuntiabo regi quia judicium fecerit ei Dominus de manu inimicorum ejus. ",
       "hebrew_masoretic": "וַאֲחִימַ֤עַץ בֶּן־צָדוֹק֙ אָמַ֔ר אָר֣וּצָה נָּ֔א וַאֲבַשְּׂרָ֖ה אֶת־הַמֶּ֑לֶךְ כִּֽי־שְׁפָט֥וֹ יְהֹוָ֖ה מִיַּ֥ד אֹיְבָֽיו׃",
+      "douay_rheims": "And Achimaas the son of Sadoc said: I will run and tell the king, that the Lord hath done judgment for him from the hand of his enemies.",
+      "finnish_biblia": "Ahimaats Zadokin poika sanoi: minä juoksen nyt ja ilmoitan kuninkaalle, Herran saattaneeksi hänelle oikeuden hänen vihollistensa käsistä. ",
       "king_james": "Then said Ahimaaz the son of Zadok, Let me now run, and bear the king tidings, how that the Lord hath avenged him of his enemies."
     },
     {
       "verse": 20,
       "latin_vulgate": "Ad quem Joab dixit : Non eris nuntius in hac die, sed nuntiabis in alia : hodie nolo te nuntiare : filius enim regis est mortuus. ",
       "hebrew_masoretic": "וַיֹּ֧אמֶר ל֣וֹ יוֹאָ֗ב לֹא֩ אִ֨ישׁ בְּשֹׂרָ֤ה אַתָּה֙ הַיּ֣וֹם הַזֶּ֔ה וּבִשַּׂרְתָּ֖ בְּי֣וֹם אַחֵ֑ר וְהַיּ֤וֹם הַזֶּה֙ לֹ֣א תְבַשֵּׂ֔ר כִּֽי־עַל־[כֵּ֥ן] בֶּן־הַמֶּ֖לֶךְ מֵֽת׃",
+      "douay_rheims": "And Joab said to him: Thou shalt not be the messenger this day, but shalt bear tidings another day: this day I will not have thee bear tidings, because the king's son is dead.",
+      "finnish_biblia": "Joab sanoi hänelle: et sinä yhtään hyvää sanomaa vie tänäpänä, vie toisena päivänä sanomia, vaan ei sinun pidä tänäpänä sanomaa saattaman; sillä kuninkaan poika on kuollut. ",
       "king_james": "And Joab said unto him, Thou shalt not bear tidings this day, but thou shalt bear tidings another day: but this day thou shalt bear no tidings, because the king’s son is dead."
     },
     {
       "verse": 21,
       "latin_vulgate": "Et ait Joab Chusi : Vade, et nuntia regi quæ vidisti. Adoravit Chusi Joab, et cucurrit. ",
       "hebrew_masoretic": "וַיֹּ֤אמֶר יוֹאָב֙ לַכּוּשִׁ֔י לֵ֛ךְ הַגֵּ֥ד לַמֶּ֖לֶךְ אֲשֶׁ֣ר רָאִ֑יתָה וַיִּשְׁתַּ֧חוּ כוּשִׁ֛י לְיוֹאָ֖ב וַיָּרֹֽץ׃",
+      "douay_rheims": "And Joab said to Chusai: Go, and tell the king what thou hast seen. Chusai bowed down to Joab, and ran.",
+      "finnish_biblia": "Mutta Joab sanoi Kuusille: mene ja ilmoita kuninkaalle mitäs nähnyt olet. Ja Kuusi kumarsi Joabia ja juoksi. ",
       "king_james": "Then said Joab to Cushi, Go tell the king what thou hast seen. And Cushi bowed himself unto Joab, and ran."
     },
     {
       "verse": 22,
       "latin_vulgate": "Rursus autem Achimaas filius Sadoc dixit ad Joab : Quid impedit si etiam ego curram post Chusi ? Dixitque ei Joab : Quid vis currere, fili mi ? non eris boni nuntii bajulus. ",
       "hebrew_masoretic": "וַיֹּ֨סֶף ע֜וֹד אֲחִימַ֤עַץ בֶּן־צָדוֹק֙ וַיֹּ֣אמֶר אֶל־יוֹאָ֔ב וִ֣יהִי מָ֔ה אָרֻֽצָה־נָּ֥א גַם־אָ֖נִי אַחֲרֵ֣י הַכּוּשִׁ֑י וַיֹּ֣אמֶר יוֹאָ֗ב לָֽמָּה־זֶּ֞ה אַתָּ֥ה רָץ֙ בְּנִ֔י וּלְכָ֖ה אֵין־בְּשׂוֹרָ֥ה מֹצֵֽאת׃",
+      "douay_rheims": "Then Achimaas the son of Sadoc said to Joab again: Why might not I also run after Chusai? And Joab said to him: Why wilt thou run, my son? thou wilt not be the bearer of good tidings.",
+      "finnish_biblia": "Mutta Ahimaats Zadokin poika sanoi vielä kerran Joabille: vaikka mitä olis, minä juoksen myös Kuusin perässä. Joab sanoi: miksi sinä juokset, poikani? Et sinä vie yhtään hyvää sanomaa. ",
       "king_james": "Then said Ahimaaz the son of Zadok yet again to Joab, But howsoever, let me, I pray thee, also run after Cushi. And Joab said, Wherefore wilt thou run, my son, seeing that thou hast no tidings ready?"
     },
     {
       "verse": 23,
       "latin_vulgate": "Qui respondit : Quid enim si cucurrero ? Et ait ei : Curre. Currens ergo Achimaas per viam compendii, transivit Chusi. ",
       "hebrew_masoretic": "וִיהִי־מָ֣ה אָר֔וּץ וַיֹּ֥אמֶר ל֖וֹ ר֑וּץ וַיָּ֤רׇץ אֲחִימַ֙עַץ֙ דֶּ֣רֶךְ הַכִּכָּ֔ר וַֽיַּעֲבֹ֖ר אֶת־הַכּוּשִֽׁי׃",
+      "douay_rheims": "He answered: But what if I run? And he said to him: Run. Then Achimaas running by a nearer way passed Chusai.",
+      "finnish_biblia": "Hän vastasi: vaikka mitä olis, minä juoksen. Hän sanoi hänelle: juokse. Niin Ahimaats juoksi kohdastansa ja ennätti Kuusin. ",
       "king_james": "But howsoever, said he, let me run. And he said unto him, Run. Then Ahimaaz ran by the way of the plain, and overran Cushi."
     },
     {
       "verse": 24,
       "latin_vulgate": "David autem sedebat inter duas portas : speculator vero, qui erat in fastigio portæ super murum, elevans oculos, vidit hominem currentem solum. ",
       "hebrew_masoretic": "וְדָוִ֥ד יוֹשֵׁ֖ב בֵּין־שְׁנֵ֣י הַשְּׁעָרִ֑ים וַיֵּ֨לֶךְ הַצֹּפֶ֜ה אֶל־גַּ֤ג הַשַּׁ֙עַר֙ אֶל־הַ֣חוֹמָ֔ה וַיִּשָּׂ֤א אֶת־עֵינָיו֙ וַיַּ֔רְא וְהִנֵּה־אִ֖ישׁ רָ֥ץ לְבַדּֽוֹ׃",
+      "douay_rheims": "And David sat between the two gates: and the watchman that was on the top of the gate upon the wall, lifting up his eyes, saw a man running alone.",
+      "finnish_biblia": "Mutta David istui kahden portin vaiheella, ja vartia meni portin kohdalle, muurin katon päälle, nosti silmänsä ja näki miehen juoksevan yksinänsä, ",
       "king_james": "And David sat between the two gates: and the watchman went up to the roof over the gate unto the wall, and lifted up his eyes, and looked, and behold a man running alone."
     },
     {
       "verse": 25,
       "latin_vulgate": "Et exclamans indicavit regi : dixitque rex : Si solus est, bonus est nuntius in ore ejus. Properante autem illo, et accedente propius, ",
       "hebrew_masoretic": "וַיִּקְרָ֤א הַצֹּפֶה֙ וַיַּגֵּ֣ד לַמֶּ֔לֶךְ וַיֹּ֣אמֶר הַמֶּ֔לֶךְ אִם־לְבַדּ֖וֹ בְּשׂוֹרָ֣ה בְּפִ֑יו וַיֵּ֥לֶךְ הָל֖וֹךְ וְקָרֵֽב׃",
+      "douay_rheims": "And crying out he told the king: and the king said: If he be alone, there are good tidings in his mouth. And as he was coming apace, and drawing nearer,",
+      "finnish_biblia": "Ja vartia huusi ja sanoi sen kuninkaalle. Kuningas sanoi: jos hän on yksin, niin hän on hyvä sanantuoja; Ja hän aina juoksi ja tuli lähemmä. ",
       "king_james": "And the watchman cried, and told the king. And the king said, If he be alone, there is tidings in his mouth. And he came apace, and drew near."
     },
     {
       "verse": 26,
       "latin_vulgate": "vidit speculator hominem alterum currentem, et vociferans in culmine, ait : Apparet mihi alter homo currens solus. Dixitque rex : Et iste bonus est nuntius. ",
       "hebrew_masoretic": "וַיַּ֣רְא הַצֹּפֶה֮ אִישׁ־אַחֵ֣ר רָץ֒ וַיִּקְרָ֤א הַצֹּפֶה֙ אֶל־הַשֹּׁעֵ֔ר וַיֹּ֕אמֶר הִנֵּה־אִ֖ישׁ רָ֣ץ לְבַדּ֑וֹ וַיֹּ֥אמֶר הַמֶּ֖לֶךְ גַּם־זֶ֥ה מְבַשֵּֽׂר׃",
+      "douay_rheims": "The watchman saw another man running, and crying aloud from above, he said: I see another man running alone. And the king said: He also is a good messenger.",
+      "finnish_biblia": "Niin vartia näki toisen miehen juoksevan, ja huusi ovenvartialle ja sanoi: katso, yksi mies juoksee yksinänsä. Kuningas sanoi: se on myös hyvä sanantuoja. ",
       "king_james": "And the watchman saw another man running: and the watchman called unto the porter, and said, Behold another man running alone. And the king said, He also bringeth tidings."
     },
     {
       "verse": 27,
       "latin_vulgate": "Speculator autem : Contemplor, ait, cursum prioris, quasi cursum Achimaas filii Sadoc. Et ait rex : Vir bonus est, et nuntium portans bonum venit. ",
       "hebrew_masoretic": "וַיֹּ֙אמֶר֙ הַצֹּפֶ֔ה אֲנִ֤י רֹאֶה֙ אֶת־מְרוּצַ֣ת הָרִאשׁ֔וֹן כִּמְרֻצַ֖ת אֲחִימַ֣עַץ בֶּן־צָד֑וֹק וַיֹּ֤אמֶר הַמֶּ֙לֶךְ֙ אִֽישׁ־ט֣וֹב זֶ֔ה וְאֶל־בְּשׂוֹרָ֥ה טוֹבָ֖ה יָבֽוֹא׃",
+      "douay_rheims": "And the watchman said: The running of the foremost seemeth to me like the running of Achimaas the son of Sadoc. And the king said: He is a good man: and cometh with good news.",
+      "finnish_biblia": "Vartia sanoi: minulle näkyy ensimäisen juoksu, niinkuin se olis Ahimaatsin Zadokin pojan juoksu. Ja kuningas sanoi: se on hyvä mies ja tuo hyvää sanomaa. ",
       "king_james": "And the watchman said, Me thinketh the running of the foremost is like the running of Ahimaaz the son of Zadok. And the king said, He is a good man, and cometh with good tidings."
     },
     {
       "verse": 28,
       "latin_vulgate": "Clamans autem Achimaas, dixit ad regem : Salve rex. Et adorans regem coram eo pronus in terram, ait : Benedictus Dominus Deus tuus, qui conclusit homines qui levaverunt manus suas contra dominum meum regem. ",
       "hebrew_masoretic": "וַיִּקְרָ֣א אֲחִימַ֗עַץ וַיֹּ֤אמֶר אֶל־הַמֶּ֙לֶךְ֙ שָׁל֔וֹם וַיִּשְׁתַּ֧חוּ לַמֶּ֛לֶךְ לְאַפָּ֖יו אָ֑רְצָה {ס} וַיֹּ֗אמֶר בָּרוּךְ֙ יְהֹוָ֣ה אֱלֹהֶ֔יךָ אֲשֶׁ֤ר סִגַּר֙ אֶת־הָ֣אֲנָשִׁ֔ים אֲשֶׁר־נָשְׂא֥וּ אֶת־יָדָ֖ם בַּאדֹנִ֥י הַמֶּֽלֶךְ׃ {ס}",
+      "douay_rheims": "And Achimaas crying out, said to the king: God save thee, O king. And falling down before the king with his face to the ground, he said: Blessed be the Lord thy God, who hath shut up the men that have lifted up their hands against the lord my king.",
+      "finnish_biblia": "Ahimaats huusi ja sanoi kuninkaalle: Rauha! ja kumarsi kuninkaan edessä maahan kasvoillensa ja sanoi: kiitetty olkoon Herra sinun Jumalas, joka ne miehet on antanut sinun kätees, jotka nostivat kätensä herraani kuningasta vastaan! ",
       "king_james": "And Ahimaaz called, and said unto the king, All is well. And he fell down to the earth upon his face before the king, and said, Blessed be the Lord thy God, which hath delivered up the men that lifted up their hand against my lord the king."
     },
     {
       "verse": 29,
       "latin_vulgate": "Et ait rex : Estne pax puero Absalom ? Dixitque Achimaas : Vidi tumultum magnum cum mitteret Joab servus tuus, o rex, me servum tuum : nescio aliud. ",
       "hebrew_masoretic": "וַיֹּ֣אמֶר הַמֶּ֔לֶךְ שָׁל֥וֹם לַנַּ֖עַר לְאַבְשָׁל֑וֹם וַיֹּ֣אמֶר אֲחִימַ֡עַץ רָאִ֩יתִי֩ הֶהָמ֨וֹן הַגָּד֜וֹל לִ֠שְׁלֹ֠חַ אֶת־עֶ֨בֶד הַמֶּ֤לֶךְ יוֹאָב֙ וְאֶת־עַבְדֶּ֔ךָ וְלֹ֥א יָדַ֖עְתִּי מָֽה׃",
+      "douay_rheims": "And the king said: Is the young man Absalom safe? And Achimaas said: I saw a great tumult, O king, when thy servant Joab sent me thy servant: I know nothing else.",
+      "finnish_biblia": "Kuningas sanoi: onko nuorukainen Absalom rauhassa? Ahimaats sanoi: minä näin suuren metelin, kuin Joab kuninkaan palvelia lähetti minun sinun palvelias tänne, ja en minä tiedä, mikä se oli. ",
       "king_james": "And the king said, Is the young man Absalom safe? And Ahimaaz answered, When Joab sent the king’s servant, and me thy servant, I saw a great tumult, but I knew not what it was."
     },
     {
       "verse": 30,
       "latin_vulgate": "Ad quem rex : Transi, ait, et sta hic. Cumque ille transisset, et staret, ",
       "hebrew_masoretic": "וַיֹּ֣אמֶר הַמֶּ֔לֶךְ סֹ֖ב הִתְיַצֵּ֣ב כֹּ֑ה וַיִּסֹּ֖ב וַֽיַּעֲמֹֽד׃",
+      "douay_rheims": "And the king said to him: Pass, and stand here.",
+      "finnish_biblia": "Kuningas sanoi: mene erinäs ja seiso siellä. Ja hän meni erinänsä ja seisoi siellä. ",
       "king_james": "And the king said unto him, Turn aside, and stand here. And he turned aside, and stood still."
     },
     {
       "verse": 31,
       "latin_vulgate": "apparuit Chusi : et veniens ait : Bonum apporto nuntium, domine mi rex : judicavit enim pro te Dominus hodie de manu omnium qui surrexerunt contra te.  ",
       "hebrew_masoretic": "וְהִנֵּ֥ה הַכּוּשִׁ֖י בָּ֑א וַיֹּ֣אמֶר הַכּוּשִׁ֗י יִתְבַּשֵּׂר֙ אֲדֹנִ֣י הַמֶּ֔לֶךְ כִּֽי־שְׁפָטְךָ֤ יְהֹוָה֙ הַיּ֔וֹם מִיַּ֖ד כׇּל־הַקָּמִ֥ים עָלֶֽיךָ׃ {ס}",
+      "douay_rheims": "And when he had passed, and stood still, Chusai appeared and coming up he said: I bring good tidings, my lord, the king, for the Lord hath judged for thee this day from the hand of all that have risen up against thee.",
+      "finnish_biblia": "Ja katso, Kuusi tuli ja sanoi: täällä ovat hyvät sanomat, herrani kuningas: Herra on saattanut tänäpänä sinulle oikeuden kaikkein kädestä, jotka nousivat sinua vastaan. ",
       "king_james": "And, behold, Cushi came; and Cushi said, Tidings, my lord the king: for the Lord hath avenged thee this day of all them that rose up against thee."
     },
     {
       "verse": 32,
       "latin_vulgate": " Dixit autem rex ad Chusi : Estne pax puero Absalom ? Cui respondens Chusi : Fiant, inquit, sicut puer, inimici domini mei regis, et universi qui consurgunt adversus eum in malum. ",
       "hebrew_masoretic": "וַיֹּ֤אמֶר הַמֶּ֙לֶךְ֙ אֶל־הַכּוּשִׁ֔י הֲשָׁל֥וֹם לַנַּ֖עַר לְאַבְשָׁל֑וֹם וַיֹּ֣אמֶר הַכּוּשִׁ֗י יִהְי֤וּ כַנַּ֙עַר֙ אֹֽיְבֵי֙ אֲדֹנִ֣י הַמֶּ֔לֶךְ וְכֹ֛ל אֲשֶׁר־קָ֥מוּ עָלֶ֖יךָ לְרָעָֽה׃ {ס}",
+      "douay_rheims": "And the king said to Chusai: Is the young man Absalom safe? And Chusai answering him, said: Let the enemies of my lord, the king, and all that rise against him unto evil, be as the young man is.",
+      "finnish_biblia": "Kuningas sanoi Kuusille: onko nuorukainen Absalom rauhassa? Kuusi sanoi: tapahtukoon niin herrani kuninkaan vihollisille, kuin nuorukaiselle on tapahtunut, ja kaikille niille, jotka heitänsä asettavat sinua vastaan sinulle vahingoksi! ",
       "king_james": "And the king said unto Cushi, Is the young man Absalom safe? And Cushi answered, The enemies of my lord the king, and all that rise against thee to do thee hurt, be as that young man is."
     },
     {
       "verse": 33,
       "latin_vulgate": "Contristatus itaque rex, ascendit cœnaculum portæ, et flevit. Et sic loquebatur, vadens : Fili mi Absalom, Absalom fili mi : quis mihi tribuat ut ego moriar pro te, Absalom fili mi, fili mi Absalom ?   ",
       "hebrew_masoretic": "וַיִּרְגַּ֣ז הַמֶּ֗לֶךְ וַיַּ֛עַל עַל־עֲלִיַּ֥ת הַשַּׁ֖עַר וַיֵּ֑בְךְּ וְכֹ֣ה ׀ אָמַ֣ר בְּלֶכְתּ֗וֹ בְּנִ֤י אַבְשָׁלוֹם֙ בְּנִ֣י בְנִ֣י אַבְשָׁל֔וֹם מִֽי־יִתֵּ֤ן מוּתִי֙ אֲנִ֣י תַחְתֶּ֔יךָ אַבְשָׁל֖וֹם בְּנִ֥י בְנִֽי׃",
+      "douay_rheims": "The king therefore being much moved, went up to the high chamber over the gate, and wept. And as he went he spoke in this manner: My son Absalom, Absalom my son: would to God that I might die for thee, Absalom my son, my son Absalom. ",
+      "finnish_biblia": "Niin tuli kuningas murheelliseksi, ja meni portin ylistupaan ja itki, ja sanoi mennessänsä näin: poikani Absalom! poikani, poikani Absalom! 0, jospa minä olisin kuollut sinun siassas, oi, Absalom poikani, minun poikani!   ",
       "king_james": "And the king was much moved, and went up to the chamber over the gate, and wept: and as he went, thus he said, O my son Absalom, my son, my son Absalom! would God I had died for thee, O Absalom, my son, my son! ",
       "refs": {
         "hebrew_masoretic": {

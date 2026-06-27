@@ -2,6 +2,8 @@
   "book_id": "EZE",
   "latin_name": "Ezechiel",
   "hebrew_name": "יְחֶזְקֵאל",
+  "douay_name": "Ezechiel",
+  "finnish_name": "Hesekiel",
   "english_name": "Ezekiel",
   "chapter": 3,
   "verses": [
@@ -9,162 +11,216 @@
       "verse": 1,
       "latin_vulgate": "Et dixit ad me : Fili hominis, quodcumque inveneris, comede : comede volumen istud, et vadens loquere ad filios Israël. ",
       "hebrew_masoretic": "וַיֹּ֣אמֶר אֵלַ֔י בֶּן־אָדָ֕ם אֵ֥ת אֲשֶׁר־תִּמְצָ֖א אֱכ֑וֹל אֱכוֹל֙ אֶת־הַמְּגִלָּ֣ה הַזֹּ֔את וְלֵ֥ךְ דַּבֵּ֖ר אֶל־בֵּ֥ית יִשְׂרָאֵֽל׃",
+      "douay_rheims": "And he said to me: Son of man, eat all that thou shalt find: eat this book, and go speak to the children of Israel.",
+      "finnish_biblia": "Ja hän sanoi minulle: sinä ihmisen lapsi, syö mitä sinun edessäs on: syö tämä kirja, ja mene ja saarnaa Israelin huoneelle. ",
       "king_james": "Moreover he said unto me, Son of man, eat that thou findest; eat this roll, and go speak unto the house of Israel."
     },
     {
       "verse": 2,
       "latin_vulgate": "Et aperui os meum, et cibavit me volumine illo : ",
       "hebrew_masoretic": "וָאֶפְתַּ֖ח אֶת־פִּ֑י וַיַּ֣אֲכִילֵ֔נִי אֵ֖ת הַמְּגִלָּ֥ה הַזֹּֽאת׃",
+      "douay_rheims": "And I opened my mouth, and he caused me to eat that book:",
+      "finnish_biblia": "Niin minä avasin suuni, ja hän antoi sen kirjan minun syödäkseni, ",
       "king_james": "So I opened my mouth, and he caused me to eat that roll."
     },
     {
       "verse": 3,
       "latin_vulgate": "et dixit ad me : Fili hominis, venter tuus comedet, et viscera tua complebuntur volumine isto quod ego do tibi. Et comedi illud, et factum est in ore meo sicut mel dulce. ",
       "hebrew_masoretic": "וַיֹּ֣אמֶר אֵלַ֗י בֶּן־אָדָם֙ בִּטְנְךָ֤ תַֽאֲכֵל֙ וּמֵעֶ֣יךָ תְמַלֵּ֔א אֵ֚ת הַמְּגִלָּ֣ה הַזֹּ֔את אֲשֶׁ֥ר אֲנִ֖י נֹתֵ֣ן אֵלֶ֑יךָ וָאֹ֣כְלָ֔ה וַתְּהִ֥י בְּפִ֖י כִּדְבַ֥שׁ לְמָתֽוֹק׃ {פ}",
+      "douay_rheims": "And he said to me: Son of man, thy belly shall eat, and thy bowels shall be filled with this book, which I give thee, and I did eat it: and it was sweet as honey in my mouth.",
+      "finnish_biblia": "Ja hän sanoi minulle: sinä ihmisen lapsi, sinun pitää tämän kirjan, jonka minä annan sinulle, syömän ruumises ja täyttämän sillä vatsas. Niin minä söin sen, ja se oli minun suussani niin makia kuin hunaja. ",
       "king_james": "And he said unto me, Son of man, cause thy belly to eat, and fill thy bowels with this roll that I give thee. Then did I eat it; and it was in my mouth as honey for sweetness."
     },
     {
       "verse": 4,
       "latin_vulgate": "Et dixit ad me : Fili hominis, vade ad domum Israël, et loqueris verba mea ad eos. ",
       "hebrew_masoretic": "וַיֹּ֖אמֶר אֵלָ֑י בֶּן־אָדָ֗ם לֶךְ־בֹּא֙ אֶל־בֵּ֣ית יִשְׂרָאֵ֔ל וְדִבַּרְתָּ֥ בִדְבָרַ֖י אֲלֵיהֶֽם׃",
+      "douay_rheims": "And he said to me: Son of man, go to the house of Israel, and thou shalt speak my words to them.",
+      "finnish_biblia": "Ja hän sanoi minulle: sinä ihmisen lapsi, mene Israelin huoneesen ja saarnaa heille minun sanani. ",
       "king_james": "And he said unto me, Son of man, go, get thee unto the house of Israel, and speak with my words unto them."
     },
     {
       "verse": 5,
       "latin_vulgate": "Non enim ad populum profundi sermonis et ignotæ linguæ tu mitteris ad domum Israël : ",
       "hebrew_masoretic": "כִּ֡י לֹא֩ אֶל־עַ֨ם עִמְקֵ֥י שָׂפָ֛ה וְכִבְדֵ֥י לָשׁ֖וֹן אַתָּ֣ה שָׁל֑וּחַ אֶל־בֵּ֖ית יִשְׂרָאֵֽל׃",
+      "douay_rheims": "For thou art not sent to a people of a profound speech, and of an unknown tongue, but to the house of Israel:",
+      "finnish_biblia": "Sillä en minä sinua lähetä sen kansan tykö, jolla outo puhe ja vieras kieli on, vaan Israelin huoneesen, ",
       "king_james": "For thou art not sent to a people of a strange speech and of an hard language, but to the house of Israel;"
     },
     {
       "verse": 6,
       "latin_vulgate": "neque ad populos multos profundi sermonis et ignotæ linguæ, quorum non possis audire sermones : et si ad illos mittereris, ipsi audirent te : ",
       "hebrew_masoretic": "לֹ֣א ׀ אֶל־עַמִּ֣ים רַבִּ֗ים עִמְקֵ֤י שָׂפָה֙ וְכִבְדֵ֣י לָשׁ֔וֹן אֲשֶׁ֥ר לֹא־תִשְׁמַ֖ע דִּבְרֵיהֶ֑ם אִם־לֹ֤א אֲלֵיהֶם֙ שְׁלַחְתִּ֔יךָ הֵ֖מָּה יִשְׁמְע֥וּ אֵלֶֽיךָ׃",
+      "douay_rheims": "Nor to many nations of a strange speech, and of an unknown tongue, whose words thou canst not understand: and if thou wert sent to them, they would hearken to thee.",
+      "finnish_biblia": "Ja en suuren kansan tykö, joilla outo puhe ja vieras kieli olis, joiden puhetta et sinä ymmärrä. Ja jos minä vielä lähettäisin sinun niiden tykö, niin pitäis heidän kuitenkin mielellänsä kuuleman sinua. ",
       "king_james": "Not to many people of a strange speech and of an hard language, whose words thou canst not understand. Surely, had I sent thee to them, they would have hearkened unto thee."
     },
     {
       "verse": 7,
       "latin_vulgate": "domus autem Israël nolunt audire te, quia nolunt audire me : omnis quippe domus Israël attrita fronte est, et duro corde. ",
       "hebrew_masoretic": "וּבֵ֣ית יִשְׂרָאֵ֗ל לֹ֤א יֹאבוּ֙ לִשְׁמֹ֣עַ אֵלֶ֔יךָ כִּי־אֵינָ֥ם אֹבִ֖ים לִשְׁמֹ֣עַ אֵלָ֑י כִּ֚י כׇּל־בֵּ֣ית יִשְׂרָאֵ֔ל חִזְקֵי־מֵ֥צַח וּקְשֵׁי־לֵ֖ב הֵֽמָּה׃",
+      "douay_rheims": "But the house of Israel will not hearken to thee: because they will not hearken to me: for all the house of Israel are of a hard forehead and an obstinate heart.",
+      "finnish_biblia": "Mutta Israelin huone ei tahdo sinua kuulla, sillä ei he tahdo kuulla itse minuakaan; sillä koko Israelin huoneella on kova otsa ja paatunut sydän. ",
       "king_james": "But the house of Israel will not hearken unto thee; for they will not hearken unto me: for all the house of Israel are impudent and hardhearted."
     },
     {
       "verse": 8,
       "latin_vulgate": "Ecce dedi faciem tuam valentiorem faciebus eorum, et frontem tuam duriorem frontibus eorum : ",
       "hebrew_masoretic": "הִנֵּ֨ה נָתַ֧תִּי אֶת־פָּנֶ֛יךָ חֲזָקִ֖ים לְעֻמַּ֣ת פְּנֵיהֶ֑ם וְאֶֽת־מִצְחֲךָ֥ חָזָ֖ק לְעֻמַּ֥ת מִצְחָֽם׃",
+      "douay_rheims": "Behold I have made thy face stronger than their faces: and thy forehead harder than their foreheads.",
+      "finnish_biblia": "Mutta katso, kuitenkin olen minä tehnyt sinun kasvos lujaksi heidän kasvojansa vastaan ja sinun otsas lujaksi heidän otsaansa vastaan. ",
       "king_james": "Behold, I have made thy face strong against their faces, and thy forehead strong against their foreheads."
     },
     {
       "verse": 9,
       "latin_vulgate": "ut adamantem et ut silicem dedi faciem tuam : ne timeas eos, neque metuas a facie eorum, quia domus exasperans est.  ",
       "hebrew_masoretic": "כְּשָׁמִ֛יר חָזָ֥ק מִצֹּ֖ר נָתַ֣תִּי מִצְחֶ֑ךָ לֹֽא־תִירָ֤א אוֹתָם֙ וְלֹא־תֵחַ֣ת מִפְּנֵיהֶ֔ם כִּ֛י בֵּ֥ית מְרִ֖י הֵֽמָּה׃ {פ}",
+      "douay_rheims": "I have made thy face like an adamant and like flint: fear them not, neither be thou dismayed at their presence: for they are a provoking house.",
+      "finnish_biblia": "Ja minä olen tehnyt sinun otas niin kovaksi kuin timantin, joka kovempi on kuin kallio: älä pelkää heitä, älä myös hämmästy heidän edessänsä, ehkä he ovat tottelematoin huone. ",
       "king_james": "As an adamant harder than flint have I made thy forehead: fear them not, neither be dismayed at their looks, though they be a rebellious house."
     },
     {
       "verse": 10,
       "latin_vulgate": " Et dixit ad me : Fili hominis, omnes sermones meos quos ego loquor ad te, assume in corde tuo, et auribus tuis audi : ",
       "hebrew_masoretic": "וַיֹּ֖אמֶר אֵלָ֑י בֶּן־אָדָ֕ם אֶת־כׇּל־דְּבָרַי֙ אֲשֶׁ֣ר אֲדַבֵּ֣ר אֵלֶ֔יךָ קַ֥ח בִּֽלְבָבְךָ֖ וּבְאׇזְנֶ֥יךָ שְּׁמָֽע׃",
+      "douay_rheims": "And he said to me: Son of man, receive in thy heart, and hear with thy ears, all the words that I speak to thee:",
+      "finnish_biblia": "Ja hän sanoi minulle: sinä ihmisen lapsi, kaikki minun sanani, jotka minä sanoin sinulle, ota sinun sydämees ja pane korviis. ",
       "king_james": "Moreover he said unto me, Son of man, all my words that I shall speak unto thee receive in thine heart, and hear with thine ears."
     },
     {
       "verse": 11,
       "latin_vulgate": "et vade, ingredere ad transmigrationem, ad filios populi tui, et loqueris ad eos : et dices eis : Hæc dicit Dominus Deus : si forte audiant et quiescant. ",
       "hebrew_masoretic": "וְלֵ֨ךְ בֹּ֤א אֶל־הַגּוֹלָה֙ אֶל־בְּנֵ֣י עַמֶּ֔ךָ וְדִבַּרְתָּ֤ אֲלֵיהֶם֙ וְאָמַרְתָּ֣ אֲלֵיהֶ֔ם כֹּ֥ה אָמַ֖ר אֲדֹנָ֣י יֱהֹוִ֑ה אִֽם־יִשְׁמְע֖וּ וְאִם־יֶחְדָּֽלוּ׃",
+      "douay_rheims": "And go get thee in to them of the captivity, to the children of thy people, and thou shalt speak to them, and shalt say to them: Thus saith the Lord: If so be they will hear, and will forbear.",
+      "finnish_biblia": "Ja mene pois sinun kansas vankien tykö, ja saarnaa heille, ja sano heille: näin sanoo Herra, Herra: jos he kuulevat sen, taikka katsovat ylön. ",
       "king_james": "And go, get thee to them of the captivity, unto the children of thy people, and speak unto them, and tell them, Thus saith the Lord God; whether they will hear, or whether they will forbear."
     },
     {
       "verse": 12,
       "latin_vulgate": "Et assumpsit me spiritus, et audivi post me vocem commotionis magnæ : Benedicta gloria Domini de loco suo : ",
       "hebrew_masoretic": "וַתִּשָּׂאֵ֣נִי ר֔וּחַ וָאֶשְׁמַ֣ע אַחֲרַ֔י ק֖וֹל רַ֣עַשׁ גָּד֑וֹל בָּר֥וּךְ כְּבוֹד־יְהֹוָ֖ה מִמְּקוֹמֽוֹ׃",
+      "douay_rheims": "And the spirit took me up, and I heard behind me the voice of a great commotion, saying: Blessed be the glory of the Lord, from his place.",
+      "finnish_biblia": "Ja henki otti minun ylös, ja minä kuulin jälissäni suuren humauksen äänen (sanovan): siunattu olkoon Herran kunnia hänen siassansa! ",
       "king_james": "Then the spirit took me up, and I heard behind me a voice of a great rushing, saying, Blessed be the glory of the Lord from his place."
     },
     {
       "verse": 13,
       "latin_vulgate": "et vocem alarum animalium percutientium alteram ad alteram, et vocem rotarum sequentium animalia, et vocem commotionis magnæ. ",
       "hebrew_masoretic": "וְק֣וֹל ׀ כַּנְפֵ֣י הַחַיּ֗וֹת מַשִּׁיקוֹת֙ אִשָּׁ֣ה אֶל־אֲחוֹתָ֔הּ וְק֥וֹל הָאוֹפַנִּ֖ים לְעֻמָּתָ֑ם וְק֖וֹל רַ֥עַשׁ גָּדֽוֹל׃",
+      "douay_rheims": "The noise of the wings of the living creatures striking one against another, and the noise of the wheels following the living creatures, and the noise of a great commotion.",
+      "finnish_biblia": "Ja minä kuulin eläinten siipien äänen, jotka löivät toiseensa ja ratasten jyrinän, jotka juuri niiden tykönä olivat, ja suuren humauksen äänen. ",
       "king_james": "I heard also the noise of the wings of the living creatures that touched one another, and the noise of the wheels over against them, and a noise of a great rushing."
     },
     {
       "verse": 14,
       "latin_vulgate": "Spiritus quoque levavit me, et assumpsit me : et abii amarus in indignatione spiritus mei : manus enim Domini erat mecum, confortans me. ",
       "hebrew_masoretic": "וְר֥וּחַ נְשָׂאַ֖תְנִי וַתִּקָּחֵ֑נִי וָאֵלֵ֥ךְ מַר֙ בַּחֲמַ֣ת רוּחִ֔י וְיַד־יְהֹוָ֥ה עָלַ֖י חָזָֽקָה׃",
+      "douay_rheims": "The spirit also lifted me, and took me up: and I went away in bitterness in the indignation of my spirit: for the hand of the Lord was with me, strengthening me.",
+      "finnish_biblia": "Niin henki nosti minut ylös, ja vei minut pois; ja minä menin pois, ja olin suuresti hämmästynyt mutta Herran käsi piti minun vahvana. ",
       "king_james": "So the spirit lifted me up, and took me away, and I went in bitterness, in the heat of my spirit; but the hand of the Lord was strong upon me."
     },
     {
       "verse": 15,
       "latin_vulgate": "Et veni ad transmigrationem, ad acervum novarum frugum, ad eos qui habitabant juxta flumen Chobar : et sedi ubi illi sedebant, et mansi ibi septem diebus mœrens in medio eorum. ",
       "hebrew_masoretic": "וָאָב֨וֹא אֶל־הַגּוֹלָ֜ה תֵּ֣ל אָ֠בִ֠יב הַיֹּשְׁבִ֤ים אֶֽל־נְהַר־כְּבָר֙ (ואשר) [וָאֵשֵׁ֔ב] הֵ֖מָּה יוֹשְׁבִ֣ים שָׁ֑ם וָאֵשֵׁ֥ב שָׁ֛ם שִׁבְעַ֥ת יָמִ֖ים מַשְׁמִ֥ים בְּתוֹכָֽם׃",
+      "douay_rheims": "And I came to them of the captivity, to the heap of new corn, to them that dwelt by the river Chobar, and I sat where they sat: and I remained there seven days mourning in the midst of them.",
+      "finnish_biblia": "Ja minä tulin vankien tykö Telabibiin, jotka asuivat Kebarin virran tykönä, ja viivyin heidän tykönänsä, kussa he istuivat, ja olin siellä seitsemän päivää hämmästyksissä heidän keskellänsä. ",
       "king_james": "Then I came to them of the captivity at Tel–abib, that dwelt by the river of Chebar, and I sat where they sat, and remained there astonished among them seven days."
     },
     {
       "verse": 16,
       "latin_vulgate": "Cum autem pertransissent septem dies, factum est verbum Domini ad me, dicens : ",
       "hebrew_masoretic": "וַיְהִ֕י מִקְצֵ֖ה שִׁבְעַ֣ת יָמִ֑ים {פ}וַיְהִ֥י דְבַר־יְהֹוָ֖ה אֵלַ֥י לֵאמֹֽר׃",
+      "douay_rheims": "And at the end of seven days the word of the Lord came to me, saying:",
+      "finnish_biblia": "Ja kuin ne seitsemän päivää olivat kuluneet, tapahtui Herran sana minulle ja sanoi: ",
       "king_james": "And it came to pass at the end of seven days, that the word of the Lord came unto me, saying,"
     },
     {
       "verse": 17,
       "latin_vulgate": "Fili hominis, speculatorem dedi te domui Israël, et audies de ore meo verbum, et annuntiabis eis ex me. ",
       "hebrew_masoretic": "בֶּן־אָדָ֕ם צֹפֶ֥ה נְתַתִּ֖יךָ לְבֵ֣ית יִשְׂרָאֵ֑ל וְשָׁמַעְתָּ֤ מִפִּי֙ דָּבָ֔ר וְהִזְהַרְתָּ֥ אוֹתָ֖ם מִמֶּֽנִּי׃",
+      "douay_rheims": "Son of man, I have made thee a watchman to the house of Israel: and thou shalt hear the word out of my mouth, and shalt tell it them from me.",
+      "finnish_biblia": "Sinä ihmisen lapsi, minä olen pannut sinun Israelin huoneen vartiaksi; sinun pitää kuuleman sanan minun suustani, ja varaaman heitä minun puolestani. ",
       "king_james": "Son of man, I have made thee a watchman unto the house of Israel: therefore hear the word at my mouth, and give them warning from me."
     },
     {
       "verse": 18,
       "latin_vulgate": "Si, dicente me ad impium : Morte morieris, non annuntiaveris ei, neque locutus fueris ut avertatur a via sua impia et vivat, ipse impius in iniquitate sua morietur, sanguinem autem ejus de manu tua requiram. ",
       "hebrew_masoretic": "בְּאׇמְרִ֤י לָרָשָׁע֙ מ֣וֹת תָּמ֔וּת וְלֹ֣א הִזְהַרְתּ֗וֹ וְלֹ֥א דִבַּ֛רְתָּ לְהַזְהִ֥יר רָשָׁ֛ע מִדַּרְכּ֥וֹ הָרְשָׁעָ֖ה לְחַיֹּת֑וֹ ה֤וּא רָשָׁע֙ בַּעֲוֺנ֣וֹ יָמ֔וּת וְדָמ֖וֹ מִיָּדְךָ֥ אֲבַקֵּֽשׁ׃",
+      "douay_rheims": "If, when I say to the wicked, Thou shalt surely die: thou declare it not to him, nor speak to him, that he may be converted from his wicked way, and live: the same wicked man shall die in his iniquity, but I will require his blood at thy hand.",
+      "finnish_biblia": "Kuin minä sanon jumalattomalle: sinun pitää totisesti kuoleman, ja et sinä varaa häntä etkä sano hänelle sitä, että jumalatoin lakkais jumalattomasta menostansa ja sais elää, niin pitää sen jumalattoman kuoleman synteinsä tähden; mutta hänen verensä tahdon minä vaatia sinun kädestäs. ",
       "king_james": "When I say unto the wicked, Thou shalt surely die; and thou givest him not warning, nor speakest to warn the wicked from his wicked way, to save his life; the same wicked man shall die in his iniquity; but his blood will I require at thine hand."
     },
     {
       "verse": 19,
       "latin_vulgate": "Si autem tu annuntiaveris impio, et ille non fuerit conversus ab impietate sua et a via sua impia, ipse quidem in iniquitate sua morietur : tu autem animam tuam liberasti. ",
       "hebrew_masoretic": "וְאַתָּה֙ כִּי־הִזְהַ֣רְתָּ רָשָׁ֔ע וְלֹא־שָׁב֙ מֵֽרִשְׁע֔וֹ וּמִדַּרְכּ֖וֹ הָרְשָׁעָ֑ה ה֚וּא בַּעֲוֺנ֣וֹ יָמ֔וּת וְאַתָּ֖ה אֶֽת־נַפְשְׁךָ֥ הִצַּֽלְתָּ׃",
+      "douay_rheims": "But if thou give warning to the wicked, and he be not converted from his wickedness, and from his evil way: he indeed shall die in his iniquity, but thou hast delivered thy soul.",
+      "finnish_biblia": "Mutta jos sinä varaat sitä jumalatointa, ja ei hän käänny jumalattomuudestansa ja jumalattomasta tiestänsä, niin hänen pitää synteinsä tähden kuoleman; mutta sinä olet sielus vapahtanut. ",
       "king_james": "Yet if thou warn the wicked, and he turn not from his wickedness, nor from his wicked way, he shall die in his iniquity; but thou hast delivered thy soul."
     },
     {
       "verse": 20,
       "latin_vulgate": "Sed et si conversus justus a justitia sua fuerit, et fecerit iniquitatem, ponam offendiculum coram eo : ipse morietur quia non annuntiasti ei. In peccato suo morietur, et non erunt in memoria justitiæ ejus quas fecit : sanguinem vero ejus de manu tua requiram. ",
       "hebrew_masoretic": "וּבְשׁ֨וּב צַדִּ֤יק מִצִּדְקוֹ֙ וְעָ֣שָׂה עָ֔וֶל וְנָתַתִּ֥י מִכְשׁ֛וֹל לְפָנָ֖יו ה֣וּא יָמ֑וּת כִּ֣י לֹ֤א הִזְהַרְתּוֹ֙ בְּחַטָּאת֣וֹ יָמ֔וּת וְלֹ֣א תִזָּכַ֗רְןָ צִדְקֹתָו֙ אֲשֶׁ֣ר עָשָׂ֔ה וְדָמ֖וֹ מִיָּדְךָ֥ אֲבַקֵּֽשׁ׃",
+      "douay_rheims": "Moreover if the just man shall turn away from his justice, and shall commit iniquity: I will lay a stumblingblock before him, he shall die, because thou hast not given him warning: he shall die in his sin, and his justices which he hath done, shall not be remembered: but I will require his blood at thy hand.",
+      "finnish_biblia": "Ja kuin vanhurskas luopuu vanhurskaudestansa ja tekee pahaa, niin minä sallin hänen loukata itsensä, ja hänen pitää kuoleman; sentähden, ettes ole häntä varannut, pitää hänen synteinsä tähden kuoleman, ja hänen entistä vanhurskauttansa, jonka hän tehnyt on, ei pidä muistettaman; mutta hänen verensä tahdon minä vaatia sinun kädestäs. ",
       "king_james": "Again, When a righteous man doth turn from his righteousness, and commit iniquity, and I lay a stumblingblock before him, he shall die: because thou hast not given him warning, he shall die in his sin, and his righteousness which he hath done shall not be remembered; but his blood will I require at thine hand."
     },
     {
       "verse": 21,
       "latin_vulgate": "Si autem tu annuntiaveris justo ut non peccet justus, et ille non peccaverit, vivens vivet, quia annuntiasti ei, et tu animam tuam liberasti.  ",
       "hebrew_masoretic": "וְאַתָּ֞ה כִּ֧י הִזְהַרְתּ֣וֹ צַדִּ֗יק לְבִלְתִּ֥י חֲטֹ֛א צַדִּ֖יק וְה֣וּא לֹֽא־חָטָ֑א חָי֤וֹ יִֽחְיֶה֙ כִּ֣י נִזְהָ֔ר וְאַתָּ֖ה אֶֽת־נַפְשְׁךָ֥ הִצַּֽלְתָּ׃ {פ}",
+      "douay_rheims": "But if thou warn the just man, that the just may not sin, and he doth not sin: living he shall live, because thou hast warned him, and thou hast delivered thy soul.",
+      "finnish_biblia": "Mutta jos sinä varaat vanhurskasta, ettei hän syntiä tekisi, ja ei hän myös syntiä tee, niin pitää hänen totisesti elämän, että hän on neuvon ottanut; olet sinä myös sielus vapahtanut. ",
       "king_james": "Nevertheless if thou warn the righteous man, that the righteous sin not, and he doth not sin, he shall surely live, because he is warned; also thou hast delivered thy soul."
     },
     {
       "verse": 22,
       "latin_vulgate": " Et facta est super me manus Domini, et dixit ad me : Surgens egredere in campum, et ibi loquar tecum. ",
       "hebrew_masoretic": "וַתְּהִ֥י עָלַ֛י שָׁ֖ם יַד־יְהֹוָ֑ה וַיֹּ֣אמֶר אֵלַ֗י ק֥וּם צֵא֙ אֶל־הַבִּקְעָ֔ה וְשָׁ֖ם אֲדַבֵּ֥ר אוֹתָֽךְ׃",
+      "douay_rheims": "And the hand of the Lord was upon me, and he said to me: Rise and go forth into the plain, and there I will speak to thee.",
+      "finnish_biblia": "Ja siellä tuli Herran käsi minun päälleni ja sanoi minulle: nouse ja mene ulos kedolle, siellä tahdon minä puhua sinun kanssas. ",
       "king_james": "And the hand of the Lord was there upon me; and he said unto me, Arise, go forth into the plain, and I will there talk with thee."
     },
     {
       "verse": 23,
       "latin_vulgate": "Et surgens egressus sum in campum : et ecce ibi gloria Domini stabat, quasi gloria quam vidi juxta fluvium Chobar : et cecidi in faciem meam. ",
       "hebrew_masoretic": "וָאָקוּם֮ וָאֵצֵ֣א אֶל־הַבִּקְעָה֒ וְהִנֵּה־שָׁ֤ם כְּבוֹד־יְהֹוָה֙ עֹמֵ֔ד כַּכָּב֕וֹד אֲשֶׁ֥ר רָאִ֖יתִי עַל־נְהַר־כְּבָ֑ר וָאֶפֹּ֖ל עַל־פָּנָֽי׃",
+      "douay_rheims": "And I rose up, and went forth into the plain: and behold the glory of the Lord stood there, like the glory which I saw by the river Chobar: and I fell upon my face.",
+      "finnish_biblia": "Ja minä nousin ja menin ulos kedolle, ja katso, siellä seisoi Herran kunnia, niinkuin se kunnia, jonka minä Kebarin virran tykönä ennen nähnyt olin; ja minä lankesin maahan kasvoilleni, ",
       "king_james": "Then I arose, and went forth into the plain: and, behold, the glory of the Lord stood there, as the glory which I saw by the river of Chebar: and I fell on my face."
     },
     {
       "verse": 24,
       "latin_vulgate": "Et ingressus est in me spiritus, et statuit me super pedes meos, et locutus est mihi, et dixit ad me : Ingredere, et includere in medio domus tuæ. ",
       "hebrew_masoretic": "וַתָּבֹא־בִ֣י ר֔וּחַ וַתַּעֲמִדֵ֖נִי עַל־רַגְלָ֑י וַיְדַבֵּ֤ר אֹתִי֙ וַיֹּ֣אמֶר אֵלַ֔י בֹּ֥א הִסָּגֵ֖ר בְּת֥וֹךְ בֵּיתֶֽךָ׃",
+      "douay_rheims": "And the spirit entered into me, and set me upon my feet: and he spoke to me, and said to me: Go in; and shut thyself up in the midst of thy house.",
+      "finnish_biblia": "Ja tulin virvoitetuksi hengessä, ja hän asetti minun jaloilleni, ja puhui minun kanssani, ja sanoi minulle: mene ja sulje itses huoneeses. ",
       "king_james": "Then the spirit entered into me, and set me upon my feet, and spake with me, and said unto me, Go, shut thyself within thine house."
     },
     {
       "verse": 25,
       "latin_vulgate": "Et tu, fili hominis, ecce data sunt super te vincula, et ligabunt te in eis, et non egredieris de medio eorum. ",
       "hebrew_masoretic": "וְאַתָּ֣ה בֶן־אָדָ֗ם הִנֵּ֨ה נָתְנ֤וּ עָלֶ֙יךָ֙ עֲבוֹתִ֔ים וַאֲסָר֖וּךָ בָּהֶ֑ם וְלֹ֥א תֵצֵ֖א בְּתוֹכָֽם׃",
+      "douay_rheims": "And thou, O son of man, behold they shall put bands upon thee, and they shall bind thee with them: and thou shalt not go forth from the midst of them.",
+      "finnish_biblia": "Ja sinä ihmisen lapsi, katso, nuorat pitää pantaman sinun päälles, ja he sitovat sinun niillä, ettei sinun pidä pääsemän heiltä. ",
       "king_james": "But thou, O son of man, behold, they shall put bands upon thee, and shall bind thee with them, and thou shalt not go out among them:"
     },
     {
       "verse": 26,
       "latin_vulgate": "Et linguam tuam adhærere faciam palato tuo, et eris mutus, nec quasi vir objurgans, quia domus exasperans est. ",
       "hebrew_masoretic": "וּלְשֽׁוֹנְךָ֙ אַדְבִּ֣יק אֶל־חִכֶּ֔ךָ וְנֶֽאֱלַ֔מְתָּ וְלֹא־תִהְיֶ֥ה לָהֶ֖ם לְאִ֣ישׁ מוֹכִ֑יחַ כִּ֛י בֵּ֥ית מְרִ֖י הֵֽמָּה׃",
+      "douay_rheims": "And I will make thy tongue stick fast to the roof of thy mouth, and thou shalt be dumb, and not as a man that reproveth: because they are a provoking house.",
+      "finnish_biblia": "Ja minä tahdon sinun kieles antaa tarttua suus lakeen, niin että sinun pitää tuleman mykäksi, ja ei enään taitaman nuhdella heitä; sillä se on vastahakoinen huone. ",
       "king_james": "And I will make thy tongue cleave to the roof of thy mouth, that thou shalt be dumb, and shalt not be to them a reprover: for they are a rebellious house."
     },
     {
       "verse": 27,
       "latin_vulgate": "Cum autem locutus fuero tibi, aperiam os tuum, et dices ad eos : Hæc dicit Dominus Deus : Qui audit, audiat, et qui quiescit, quiescat : quia domus exasperans est.   ",
       "hebrew_masoretic": "וּֽבְדַבְּרִ֤י אֽוֹתְךָ֙ אֶפְתַּ֣ח אֶת־פִּ֔יךָ וְאָמַרְתָּ֣ אֲלֵיהֶ֔ם כֹּ֥ה אָמַ֖ר אֲדֹנָ֣י יֱהֹוִ֑ה הַשֹּׁמֵ֤עַ ׀ יִשְׁמָע֙ וְהֶחָדֵ֣ל ׀ יֶחְדָּ֔ל כִּ֛י בֵּ֥ית מְרִ֖י הֵֽמָּה׃ {פ}",
+      "douay_rheims": "But when I shall speak to thee, I will open thy mouth, and thou shalt say to them: Thus saith the Lord God: He that heareth, let him hear: and he that forbeareth, let him forbear: for they are a provoking house. ",
+      "finnish_biblia": "Mutta kuin minä puhun sinun kanssas, niin tahdon minä avata sinun suus, että sinun heille sanoman pitää: näin sanoo Herra, Herra: joka kuulee, se kuulkaan, ja joka hylkää, se hyljätkään; sillä se on tottelematoin huone.   ",
       "king_james": "But when I speak with thee, I will open thy mouth, and thou shalt say unto them, Thus saith the Lord God; He that heareth, let him hear; and he that forbeareth, let him forbear: for they are a rebellious house. "
     }
   ]

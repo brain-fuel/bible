@@ -2,6 +2,8 @@
   "book_id": "PRO",
   "latin_name": "Liber Proverbiorum",
   "hebrew_name": "מִשְׁלֵי",
+  "douay_name": "Proverbs",
+  "finnish_name": "Sananlaskut",
   "english_name": "Proverbs",
   "chapter": 6,
   "verses": [
@@ -9,210 +11,280 @@
       "verse": 1,
       "latin_vulgate": "Fili mi, si spoponderis pro amico tuo,  defixisti apud extraneum manum tuam : ",
       "hebrew_masoretic": "בְּ֭נִי אִם־עָרַ֣בְתָּ לְרֵעֶ֑ךָ תָּקַ֖עְתָּ לַזָּ֣ר כַּפֶּֽיךָ׃",
+      "douay_rheims": "My son, if thou be surety for thy friend, thou hast engaged fast thy hand to a stranger,",
+      "finnish_biblia": "Poikani, jos sinää takaat lähimmäises, niin sinä olet kiinnittänyt kätes muukalaiseen. ",
       "king_james": "My son, if thou be surety for thy friend, if thou hast stricken thy hand with a stranger,"
     },
     {
       "verse": 2,
       "latin_vulgate": " illaqueatus es verbis oris tui,  et captus propriis sermonibus. ",
       "hebrew_masoretic": "נוֹקַ֥שְׁתָּ בְאִמְרֵי־פִ֑יךָ נִ֝לְכַּ֗דְתָּ בְּאִמְרֵי־פִֽיךָ׃",
+      "douay_rheims": "Thou art ensnared with the words of thy mouth, and caught with thy own words.",
+      "finnish_biblia": "Sinun sanoissas olet sinä paulaan istunut: sinä olet saavutettu puheissas. ",
       "king_james": "Thou art snared with the words of thy mouth, thou art taken with the words of thy mouth."
     },
     {
       "verse": 3,
       "latin_vulgate": " Fac ergo quod dico, fili mi, et temetipsum libera,  quia incidisti in manum proximi tui.  Discurre, festina, suscita amicum tuum. ",
       "hebrew_masoretic": "עֲשֵׂ֨ה זֹ֥את אֵפ֪וֹא ׀ בְּנִ֡י וְֽהִנָּצֵ֗ל כִּ֘י־בָ֤אתָ בְכַף־רֵעֶ֑ךָ לֵ֥ךְ הִ֝תְרַפֵּ֗ס וּרְהַ֥ב רֵעֶֽיךָ׃",
+      "douay_rheims": "Do, therefore, my son, what I say, and deliver thyself: because thou art fallen into the hand of thy neighbour. Run about, make haste, stir up thy friend:",
+      "finnish_biblia": "ee siis, poikani, näin: pelasta itses: sillä olet tullut lähimmäises käsiin: joudu, nöyryytä itses ja vaadi lähimmäistäs. ",
       "king_james": "Do this now, my son, and deliver thyself, when thou art come into the hand of thy friend; go, humble thyself, and make sure thy friend."
     },
     {
       "verse": 4,
       "latin_vulgate": " Ne dederis somnum oculis tuis,  nec dormitent palpebræ tuæ. ",
       "hebrew_masoretic": "אַל־תִּתֵּ֣ן שֵׁנָ֣ה לְעֵינֶ֑יךָ וּ֝תְנוּמָ֗ה לְעַפְעַפֶּֽיךָ׃",
+      "douay_rheims": "Give not sleep to thy eyes, neither let thy eyelids slumber.",
+      "finnish_biblia": "Älä anna silmilles unta, eikä silmälautas torkkua. ",
       "king_james": "Give not sleep to thine eyes, nor slumber to thine eyelids."
     },
     {
       "verse": 5,
       "latin_vulgate": " Eruere quasi damula de manu,  et quasi avis de manu aucupis. ",
       "hebrew_masoretic": "הִ֭נָּצֵל כִּצְבִ֣י מִיָּ֑ד וּ֝כְצִפּ֗וֹר מִיַּ֥ד יָקֽוּשׁ׃ {פ}",
+      "douay_rheims": "Deliver thyself as a doe from the hand, and as a bird from the hand of the fowler.",
+      "finnish_biblia": "Kirvoita itses niinkuin metsävuohi pois käsistä, niinkuin lintu pyytäjänsä käsistä. ",
       "king_james": "Deliver thyself as a roe from the hand of the hunter, and as a bird from the hand of the fowler."
     },
     {
       "verse": 6,
       "latin_vulgate": " Vade ad formicam, o piger,  et considera vias ejus, et disce sapientiam. ",
       "hebrew_masoretic": "לֵֽךְ־אֶל־נְמָלָ֥ה עָצֵ֑ל רְאֵ֖ה דְרָכֶ֣יהָ וַחֲכָֽם׃",
+      "douay_rheims": "Go to the ant, O sluggard, and consider her ways, and learn wisdom:",
+      "finnish_biblia": "Mene laiska myyriäisen tykö, katso hänen menoansa ja opi. ",
       "king_james": "Go to the ant, thou sluggard; consider her ways, and be wise:"
     },
     {
       "verse": 7,
       "latin_vulgate": " Quæ cum non habeat ducem,  nec præceptorem, nec principem, ",
       "hebrew_masoretic": "אֲשֶׁ֖ר אֵֽין־לָ֥הּ קָצִ֗ין שֹׁטֵ֥ר וּמֹשֵֽׁל׃",
+      "douay_rheims": "Which, although she hath no guide, nor master, nor captain,",
+      "finnish_biblia": "Vaikka ei hänelläyhtään hallitsiaa, teettäjää ja isäntää ole, ",
       "king_james": "Which having no guide, overseer, or ruler,"
     },
     {
       "verse": 8,
       "latin_vulgate": " parat in æstate cibum sibi,  et congregat in messe quod comedat. ",
       "hebrew_masoretic": "תָּכִ֣ין בַּקַּ֣יִץ לַחְמָ֑הּ אָגְרָ֥ה בַ֝קָּצִ֗יר מַאֲכָלָֽהּ׃",
+      "douay_rheims": "Provideth her meat for herself in the summer, and gathereth her food in the harvest.",
+      "finnish_biblia": "Kuitenkin valmistaa hän elatuksensa suvella, ja koo ruokansa eloaikana. ",
       "king_james": "Provideth her meat in the summer, and gathereth her food in the harvest."
     },
     {
       "verse": 9,
       "latin_vulgate": " Usquequo, piger, dormies ?  quando consurges e somno tuo ? ",
       "hebrew_masoretic": "עַד־מָתַ֖י עָצֵ֥ל ׀ תִּשְׁכָּ֑ב מָ֝תַ֗י תָּק֥וּם מִשְּׁנָתֶֽךָ׃",
+      "douay_rheims": "How long wilt thou sleep, O sluggard? when wilt thou arise out of thy sleep?",
+      "finnish_biblia": "Kuinka kauan sinä laiska makaat? koskas nouset unesta? ",
       "king_james": "How long wilt thou sleep, O sluggard? when wilt thou arise out of thy sleep?"
     },
     {
       "verse": 10,
       "latin_vulgate": " Paululum dormies, paululum dormitabis,  paululum conseres manus ut dormias ; ",
       "hebrew_masoretic": "מְעַ֣ט שֵׁ֭נוֹת מְעַ֣ט תְּנוּמ֑וֹת מְעַ֓ט ׀ חִבֻּ֖ק יָדַ֣יִם לִשְׁכָּֽב׃",
+      "douay_rheims": "Thou wilt sleep a little, thou wilt slumber a little, thou wilt fold thy hands a little to sleep:",
+      "finnish_biblia": "Makaa vielä vähä, ota vielä unta päähäs; laske kätes vähä yhteen, ettäs vielä levätä voisit; ",
       "king_james": "Yet a little sleep, a little slumber, a little folding of the hands to sleep:"
     },
     {
       "verse": 11,
       "latin_vulgate": " et veniet tibi quasi viator egestas,  et pauperies quasi vir armatus.  Si vero impiger fueris, veniet ut fons messis tua,  et egestas longe fugiet a te. ",
       "hebrew_masoretic": "וּבָֽא־כִמְהַלֵּ֥ךְ רֵאשֶׁ֑ךָ וּ֝מַחְסֹרְךָ֗ כְּאִ֣ישׁ מָגֵֽן׃ {פ}",
+      "douay_rheims": "And want shall come upon thee, as a traveller, and poverty as a man armed. But if thou be diligent, thy harvest shall come as a fountain, and want shall flee far from thee.",
+      "finnish_biblia": "Niin köyhyys äkisti tulee päälles niinkuin matkamies, ja vaivaisuus niinkuin varustettu mies. ",
       "king_james": "So shall thy poverty come as one that travelleth, and thy want as an armed man."
     },
     {
       "verse": 12,
       "latin_vulgate": " Homo apostata, vir inutilis, graditur ore perverso ; ",
       "hebrew_masoretic": "אָדָ֣ם בְּ֭לִיַּעַל אִ֣ישׁ אָ֑וֶן ה֝וֹלֵ֗ךְ עִקְּשׁ֥וּת פֶּֽה׃",
+      "douay_rheims": "A man that is an apostate, an unprofitable man, walketh with a perverse mouth,",
+      "finnish_biblia": "Jumalatoin ihminen, vahingollinen mies, kävelee suunsa vääryydellä, ",
       "king_james": "A naughty person, a wicked man, walketh with a froward mouth."
     },
     {
       "verse": 13,
       "latin_vulgate": " annuit oculis, terit pede, digito loquitur, ",
       "hebrew_masoretic": "קֹרֵ֣ץ בְּ֭עֵינָו מֹלֵ֣ל בְּרַגְלָ֑ו מֹ֝רֶ֗ה בְּאֶצְבְּעֹתָֽיו׃",
+      "douay_rheims": "He winketh with the eyes, presseth with the foot, speaketh with the finger.",
+      "finnish_biblia": "Iskee silmää, nyhtää jalvoillansa, kokottelee sormillansa. ",
       "king_james": "He winketh with his eyes, he speaketh with his feet, he teacheth with his fingers;"
     },
     {
       "verse": 14,
       "latin_vulgate": " pravo corde machinatur malum,  et omni tempore jurgia seminat. ",
       "hebrew_masoretic": "תַּ֥הְפֻּכ֨וֹת ׀ בְּלִבּ֗וֹ חֹרֵ֣שׁ רָ֣ע בְּכׇל־עֵ֑ת (מדנים) [מִדְיָנִ֥ים] יְשַׁלֵּֽחַ׃",
+      "douay_rheims": "With a wicked heart he deviseth evil, and at all times he soweth discord.",
+      "finnish_biblia": "Vääryys on hänen sydämessänsä, ja aikoo pahaa: hän saattaa riidat matkaan. ",
       "king_james": "Frowardness is in his heart, he deviseth mischief continually; he soweth discord."
     },
     {
       "verse": 15,
       "latin_vulgate": " Huic extemplo veniet perditio sua,  et subito conteretur, nec habebit ultra medicinam. ",
       "hebrew_masoretic": "עַל־כֵּ֗ן פִּ֭תְאֹם יָב֣וֹא אֵיד֑וֹ פֶּ֥תַע יִ֝שָּׁבֵ֗ר וְאֵ֣ין מַרְפֵּֽא׃ {פ}",
+      "douay_rheims": "To such a one his destruction shall presently come, and he shall suddenly be destroyed, and shall no longer have any remedy.",
+      "finnish_biblia": "Sentähden tulee pikaisesti hänen kadotuksensa, ja hän äkisti muserretaan rikki, niin ettei hänellä yhtään parannusta ole. ",
       "king_james": "Therefore shall his calamity come suddenly; suddenly shall he be broken without remedy."
     },
     {
       "verse": 16,
       "latin_vulgate": " Sex sunt quæ odit Dominus,  et septimum detestatur anima ejus : ",
       "hebrew_masoretic": "שֶׁשׁ־הֵ֭נָּה שָׂנֵ֣א יְהֹוָ֑ה וְ֝שֶׁ֗בַע (תועבות) [תּוֹעֲבַ֥ת] נַפְשֽׁוֹ׃",
+      "douay_rheims": "Six things there are, which the Lord hateth, and the seventh his soul detesteth:",
+      "finnish_biblia": "Kuusi on, joita Herra vihaa, ja seitsemää kauhistuu hänen sielunsa: ",
       "king_james": "These six things doth the Lord hate: yea, seven are an abomination unto him:"
     },
     {
       "verse": 17,
       "latin_vulgate": " oculos sublimes, linguam mendacem,  manus effundentes innoxium sanguinem, ",
       "hebrew_masoretic": "עֵינַ֣יִם רָ֭מוֹת לְשׁ֣וֹן שָׁ֑קֶר וְ֝יָדַ֗יִם שֹׁפְכ֥וֹת דָּם־נָקִֽי׃",
+      "douay_rheims": "Haughty eyes, a lying tongue, hands that shed innocent blood,",
+      "finnish_biblia": "Ylpiät silmät, petollinen kieli, kädet, jotka vuodattavat viatonta verta; ",
       "king_james": "A proud look, a lying tongue, and hands that shed innocent blood,"
     },
     {
       "verse": 18,
       "latin_vulgate": " cor machinans cogitationes pessimas,  pedes veloces ad currendum in malum, ",
       "hebrew_masoretic": "לֵ֗ב חֹ֭רֵשׁ מַחְשְׁב֣וֹת אָ֑וֶן רַגְלַ֥יִם מְ֝מַהֲר֗וֹת לָר֥וּץ לָרָעָֽה׃",
+      "douay_rheims": "A heart that deviseth wicked plots, feet that are swift to run into mischief,",
+      "finnish_biblia": "Sydän, joka vahingollisia ajattelee, jalat, jotka ovat nopsat pahuuteen juoksemaan; ",
       "king_james": "An heart that deviseth wicked imaginations, feet that be swift in running to mischief,"
     },
     {
       "verse": 19,
       "latin_vulgate": " proferentem mendacia testem fallacem,  et eum qui seminat inter fratres discordias. ",
       "hebrew_masoretic": "יָפִ֣יחַ כְּ֭זָבִים עֵ֣ד שָׁ֑קֶר וּמְשַׁלֵּ֥חַ מְ֝דָנִ֗ים בֵּ֣ין אַחִֽים׃ {פ}",
+      "douay_rheims": "A deceitful witness that uttereth lies, and him that soweth discord among brethren.",
+      "finnish_biblia": "Väärä todistaja, joka valheita tuottaa, ja se, joka saattaa riidan veljesten välille. ",
       "king_james": "A false witness that speaketh lies, and he that soweth discord among brethren."
     },
     {
       "verse": 20,
       "latin_vulgate": " Conserva, fili mi, præcepta patris tui,  et ne dimittas legem matris tuæ. ",
       "hebrew_masoretic": "נְצֹ֣ר בְּ֭נִי מִצְוַ֣ת אָבִ֑יךָ וְאַל־תִּ֝טֹּ֗שׁ תּוֹרַ֥ת אִמֶּֽךָ׃",
+      "douay_rheims": "My son, keep the commandments of thy father, and forsake not the law of thy mother.",
+      "finnish_biblia": "Poikani, pidä isäs käskyt, ja älä hylkää äitis lakia. ",
       "king_james": "My son, keep thy father’s commandment, and forsake not the law of thy mother:"
     },
     {
       "verse": 21,
       "latin_vulgate": " Liga ea in corde tuo jugiter,  et circumda gutturi tuo. ",
       "hebrew_masoretic": "קׇשְׁרֵ֣ם עַל־לִבְּךָ֣ תָמִ֑יד עׇ֝נְדֵ֗ם עַל־גַּרְגְּרֹתֶֽךָ׃",
+      "douay_rheims": "Bind them in thy heart continually, and put them about thy neck.",
+      "finnish_biblia": "Sido ne alati yhteen sydämes päälle, ja ripusta ne kaulaas. ",
       "king_james": "Bind them continually upon thine heart, and tie them about thy neck."
     },
     {
       "verse": 22,
       "latin_vulgate": " Cum ambulaveris, gradiantur tecum ;  cum dormieris, custodiant te :  et evigilans loquere cum eis. ",
       "hebrew_masoretic": "בְּהִתְהַלֶּכְךָ֨ ׀ תַּנְחֶ֬ה אֹתָ֗ךְ בְּֽ֭שׇׁכְבְּךָ תִּשְׁמֹ֣ר עָלֶ֑יךָ וַ֝הֲקִיצ֗וֹתָ הִ֣יא תְשִׂיחֶֽךָ׃",
+      "douay_rheims": "When thou walkest, let them go with thee: when thou sleepest, let them keep thee, and when thou awakest, talk with them.",
+      "finnish_biblia": "Koskas vaellat, niin ne johdattavat sinua; koskas lepäät, niin he varjelevat sinua; koskas heräät, niin he puhuttelevat sinua. ",
       "king_james": "When thou goest, it shall lead thee; when thou sleepest, it shall keep thee; and when thou awakest, it shall talk with thee."
     },
     {
       "verse": 23,
       "latin_vulgate": " Quia mandatum lucerna est, et lex lux,  et via vitæ increpatio disciplinæ : ",
       "hebrew_masoretic": "כִּ֤י נֵ֣ר מִ֭צְוָה וְת֣וֹרָה א֑וֹר וְדֶ֥רֶךְ חַ֝יִּ֗ים תּוֹכְח֥וֹת מוּסָֽר׃",
+      "douay_rheims": "Because the commandment is a lamp, and the law a light, and reproofs of instruction are the way of life:",
+      "finnish_biblia": "Sillä käsky on niinkuin kynttilä, ja laki niinkuin valkeus, ja opin kuritus elämän tie, ",
       "king_james": "For the commandment is a lamp; and the law is light; and reproofs of instruction are the way of life:"
     },
     {
       "verse": 24,
       "latin_vulgate": " ut custodiant te a muliere mala,  et a blanda lingua extraneæ. ",
       "hebrew_masoretic": "לִ֭שְׁמׇרְךָ מֵאֵ֣שֶׁת רָ֑ע מֵ֝חֶלְקַ֗ת לָשׁ֥וֹן נׇכְרִיָּֽה׃",
+      "douay_rheims": "That they may keep thee from the evil woman, and from the flattering tongue of the stranger.",
+      "finnish_biblia": "Ettäs varjeltaisiin pahasta vaimosta, ja muukalaisen makiasta kielestä. ",
       "king_james": "To keep thee from the evil woman, from the flattery of the tongue of a strange woman."
     },
     {
       "verse": 25,
       "latin_vulgate": " Non concupiscat pulchritudinem ejus cor tuum,  nec capiaris nutibus illius : ",
       "hebrew_masoretic": "אַל־תַּחְמֹ֣ד יׇ֭פְיָהּ בִּלְבָבֶ֑ךָ וְאַל־תִּ֝קָּחֲךָ֗ בְּעַפְעַפֶּֽיהָ׃",
+      "douay_rheims": "Let not thy heart covet her beauty, be not caught with her winks:",
+      "finnish_biblia": "Älä himoitse sydämessäs hänen kauneuttansa, ettes vieteltäisi hänen silmäinsä kiillosta. ",
       "king_james": "Lust not after her beauty in thine heart; neither let her take thee with her eyelids."
     },
     {
       "verse": 26,
       "latin_vulgate": " pretium enim scorti vix est unius panis,  mulier autem viri pretiosam animam capit. ",
       "hebrew_masoretic": "כִּ֤י בְעַד־אִשָּׁ֥ה זוֹנָ֗ה עַֽד־כִּכַּ֫ר־לָ֥חֶם וְאֵ֥שֶׁת אִ֑ישׁ נֶ֖פֶשׁ יְקָרָ֣ה תָצֽוּד׃ {פ}",
+      "douay_rheims": "For the price of a harlot is scarce one loaf: but the woman catcheth the precious soul of a man.",
+      "finnish_biblia": "Sillä portto saattaa leivältä pois; mutta aviovaimo saattaa kauniin elämän. ",
       "king_james": "For by means of a whorish woman a man is brought to a piece of bread: and the adulteress will hunt for the precious life."
     },
     {
       "verse": 27,
       "latin_vulgate": " Numquid potest homo abscondere ignem in sinu suo,  ut vestimenta illius non ardeant ? ",
       "hebrew_masoretic": "הֲיַחְתֶּ֤ה אִ֓ישׁ אֵ֬שׁ בְּחֵיק֑וֹ וּ֝בְגָדָ֗יו לֹ֣א תִשָּׂרַֽפְנָה׃",
+      "douay_rheims": "Can a man hide fire in his bosom, and his garments not burn?",
+      "finnish_biblia": "Taitaako joku kätkeä tulen poveensa, ettei hänen vaattensa pala? ",
       "king_james": "Can a man take fire in his bosom, and his clothes not be burned?"
     },
     {
       "verse": 28,
       "latin_vulgate": " aut ambulare super prunas,  ut non comburantur plantæ ejus ? ",
       "hebrew_masoretic": "אִם־יְהַלֵּ֣ךְ אִ֭ישׁ עַל־הַגֶּחָלִ֑ים וְ֝רַגְלָ֗יו לֹ֣א תִכָּוֶֽינָה׃",
+      "douay_rheims": "Or can he walk upon hot coals, and his feet not be burnt?",
+      "finnish_biblia": "Eli taitaako joku hiilten päällä kävellä, ettei hän jalkojansa polta? ",
       "king_james": "Can one go upon hot coals, and his feet not be burned?"
     },
     {
       "verse": 29,
       "latin_vulgate": " sic qui ingreditur ad mulierem proximi sui,  non erit mundus cum tetigerit eam. ",
       "hebrew_masoretic": "כֵּ֗ן הַ֭בָּא אֶל־אֵ֣שֶׁת רֵעֵ֑הוּ לֹ֥א יִ֝נָּקֶ֗ה כׇּֽל־הַנֹּגֵ֥עַ בָּֽהּ׃",
+      "douay_rheims": "So he that goeth in to his neighbour's wife, shall not be clean when he shall touch her.",
+      "finnish_biblia": "Niin sille tapahtuu, joka lähimmäisensä vaimoa lähentelee; ei se pääse rankaisematta, joka häneen ryhtyy. ",
       "king_james": "So he that goeth in to his neighbour’s wife; whosoever toucheth her shall not be innocent."
     },
     {
       "verse": 30,
       "latin_vulgate": " Non grandis est culpa cum quis furatus fuerit :  furatur enim ut esurientem impleat animam ; ",
       "hebrew_masoretic": "לֹא־יָב֣וּזוּ לַ֭גַּנָּב כִּ֣י יִגְנ֑וֹב לְמַלֵּ֥א נַ֝פְשׁ֗וֹ כִּ֣י יִרְעָֽב׃",
+      "douay_rheims": "The fault is not so great when a man hath stolen: for he stealeth to fill his hungry soul:",
+      "finnish_biblia": "Ei se ole varkaalle niin suuri häpiä, jos hän varastaa henkensä piteeksi, koska nälkä on: ",
       "king_james": "Men do not despise a thief, if he steal to satisfy his soul when he is hungry;"
     },
     {
       "verse": 31,
       "latin_vulgate": " deprehensus quoque reddet septuplum,  et omnem substantiam domus suæ tradet. ",
       "hebrew_masoretic": "וְ֭נִמְצָא יְשַׁלֵּ֣ם שִׁבְעָתָ֑יִם אֶת־כׇּל־ה֖וֹן בֵּית֣וֹ יִתֵּֽן׃",
+      "douay_rheims": "And if he be taken, he shall restore sevenfold, and shall give up all the substance of his house.",
+      "finnish_biblia": "Jos hän käsitetään, antaa hän sen seitsemänkertaisesti jälleen, ja kaiken huoneensa saadun; ",
       "king_james": "But if he be found, he shall restore sevenfold; he shall give all the substance of his house."
     },
     {
       "verse": 32,
       "latin_vulgate": " Qui autem adulter est,  propter cordis inopiam perdet animam suam ; ",
       "hebrew_masoretic": "נֹאֵ֣ף אִשָּׁ֣ה חֲסַר־לֵ֑ב מַֽשְׁחִ֥ית נַ֝פְשׁ֗וֹ ה֣וּא יַעֲשֶֽׂנָּה׃",
+      "douay_rheims": "But he that is an adulterer, for the folly of his heart shall destroy his own soul:",
+      "finnish_biblia": "Mutta joka vaimon janssa huoruuteen lankee, se on tyhmä, ja joka sielunsa kadottaa tahtoo, se niin tekee. ",
       "king_james": "But whoso committeth adultery with a woman lacketh understanding: he that doeth it destroyeth his own soul."
     },
     {
       "verse": 33,
       "latin_vulgate": " turpitudinem et ignominiam congregat sibi,  et opprobrium illius non delebitur : ",
       "hebrew_masoretic": "נֶגַע־וְקָל֥וֹן יִמְצָ֑א וְ֝חֶרְפָּת֗וֹ לֹ֣א תִמָּחֶֽה׃",
+      "douay_rheims": "He gathereth to himself shame and dishonour, and his reproach shall not be blotted out:",
+      "finnish_biblia": "Rangaistus ja häpiä tulee hänen päällensä, ja hänen häväistyksensä ei pyyhitä pois. ",
       "king_james": "A wound and dishonour shall he get; and his reproach shall not be wiped away."
     },
     {
       "verse": 34,
       "latin_vulgate": " quia zelus et furor viri  non parcet in die vindictæ, ",
       "hebrew_masoretic": "כִּֽי־קִנְאָ֥ה חֲמַת־גָּ֑בֶר וְלֹא־יַ֝חְמ֗וֹל בְּי֣וֹם נָקָֽם׃",
+      "douay_rheims": "Because the jealousy and rage of the husband will not spare in the day of revenge,",
+      "finnish_biblia": "Sillä miehen vihalla on kiivaus: ei hän säästä häntä koston päivänä: ",
       "king_james": "For jealousy is the rage of a man: therefore he will not spare in the day of vengeance."
     },
     {
       "verse": 35,
       "latin_vulgate": " nec acquiescet cujusquam precibus,  nec suscipiet pro redemptione dona plurima.  ",
       "hebrew_masoretic": "לֹֽא־יִ֭שָּׂא פְּנֵ֣י כׇל־כֹּ֑פֶר וְלֹא־יֹ֝אבֶ֗ה כִּ֣י תַרְבֶּה־שֹּֽׁחַד׃ {פ}",
+      "douay_rheims": "Nor will he yield to any man's prayers, nor will he accept for satisfaction ever so many gifts. ",
+      "finnish_biblia": "Ei hän lukua pidä sovittajasta, eikä ota lahjoja, vaikka paljon antaisit.   ",
       "king_james": "He will not regard any ransom; neither will he rest content, though thou givest many gifts. "
     }
   ]

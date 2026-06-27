@@ -2,6 +2,8 @@
   "book_id": "PSA",
   "latin_name": "Liber Psalmorum",
   "hebrew_name": "תְּהִלִּים",
+  "douay_name": "Psalms",
+  "finnish_name": "Psalmit",
   "english_name": "Psalms",
   "chapter": 126,
   "verses": [
@@ -9,9 +11,14 @@
       "verse": 1,
       "latin_vulgate": "Canticum graduum.   In convertendo Dominus captivitatem Sion,  facti sumus sicut consolati. ",
       "hebrew_masoretic": "שִׁ֗יר הַֽמַּ֫עֲל֥וֹת בְּשׁ֣וּב יְ֭הֹוָה אֶת־שִׁיבַ֣ת צִיּ֑וֹן הָ֝יִ֗ינוּ כְּחֹלְמִֽים׃",
+      "douay_rheims": "A gradual canticle. When the Lord brought back the captivity of Sion, we became like men comforted.",
+      "finnish_biblia": "Veisu korkeimmassa Kuorissa. Koska Herra päästää Zionin vangit, niin me olemme niinkuin unta näkeväiset. ",
       "king_james": "When the Lord turned again the captivity of Zion, we were like them that dream.",
       "refs": {
         "latin_vulgate": {
+          "src": "125:1"
+        },
+        "douay_rheims": {
           "src": "125:1"
         }
       }
@@ -20,9 +27,14 @@
       "verse": 2,
       "latin_vulgate": " Tunc repletum est gaudio os nostrum,  et lingua nostra exsultatione.  Tunc dicent inter gentes :  Magnificavit Dominus facere cum eis. ",
       "hebrew_masoretic": "אָ֤ז יִמָּלֵ֪א שְׂח֡וֹק פִּינוּ֮ וּלְשׁוֹנֵ֢נוּ רִ֫נָּ֥ה אָ֭ז יֹאמְר֣וּ בַגּוֹיִ֑ם הִגְדִּ֥יל יְ֝הֹוָ֗ה לַעֲשׂ֥וֹת עִם־אֵֽלֶּה׃",
+      "douay_rheims": "Then was our mouth filled with gladness; and our tongue with joy. Then shall they say among the Gentiles: The Lord hath done great things for them.",
+      "finnish_biblia": "Silloin meidän suumme naurulla täytetään, ja kielemme on täynnä riemua; silloin sanotaan pakanoissa: Herra on suuria heidän kohtaansa tehnyt. ",
       "king_james": "Then was our mouth filled with laughter, and our tongue with singing: then said they among the heathen, The Lord hath done great things for them.",
       "refs": {
         "latin_vulgate": {
+          "src": "125:2"
+        },
+        "douay_rheims": {
           "src": "125:2"
         }
       }
@@ -31,9 +43,14 @@
       "verse": 3,
       "latin_vulgate": " Magnificavit Dominus facere nobiscum ;  facti sumus lætantes. ",
       "hebrew_masoretic": "הִגְדִּ֣יל יְ֭הֹוָה לַעֲשׂ֥וֹת עִמָּ֗נוּ הָיִ֥ינוּ שְׂמֵחִֽים׃",
+      "douay_rheims": "The Lord hath done great things for us: we are become joyful.",
+      "finnish_biblia": "Herra on suuria tehnyt meidän kohtaamme: siitä me olemme iloiset. ",
       "king_james": "The Lord hath done great things for us; whereof we are glad.",
       "refs": {
         "latin_vulgate": {
+          "src": "125:3"
+        },
+        "douay_rheims": {
           "src": "125:3"
         }
       }
@@ -42,9 +59,14 @@
       "verse": 4,
       "latin_vulgate": " Converte, Domine, captivitatem nostram,  sicut torrens in austro. ",
       "hebrew_masoretic": "שׁוּבָ֣ה יְ֭הֹוָה אֶת־[שְׁבִיתֵ֑נוּ] (שבותנו) כַּאֲפִיקִ֥ים בַּנֶּֽגֶב׃",
+      "douay_rheims": "Turn again our captivity, O Lord, as a stream in the south.",
+      "finnish_biblia": "Herra! käännä meidän vankiutemme, niinkuin virrat etelässä. ",
       "king_james": "Turn again our captivity, O Lord, as the streams in the south.",
       "refs": {
         "latin_vulgate": {
+          "src": "125:4"
+        },
+        "douay_rheims": {
           "src": "125:4"
         }
       }
@@ -53,9 +75,14 @@
       "verse": 5,
       "latin_vulgate": " Qui seminant in lacrimis,  in exsultatione metent. ",
       "hebrew_masoretic": "הַזֹּרְעִ֥ים בְּדִמְעָ֗ה בְּרִנָּ֥ה יִקְצֹֽרוּ׃",
+      "douay_rheims": "They that sow in tears shall reap in joy.",
+      "finnish_biblia": "Jotka kyyneleillä kylvävät, ne ilolla niittävät. ",
       "king_james": "They that sow in tears shall reap in joy.",
       "refs": {
         "latin_vulgate": {
+          "src": "125:5"
+        },
+        "douay_rheims": {
           "src": "125:5"
         }
       }
@@ -64,9 +91,14 @@
       "verse": 6,
       "latin_vulgate": " Euntes ibant et flebant,  mittentes semina sua.  Venientes autem venient cum exsultatione,  portantes manipulos suos.  ",
       "hebrew_masoretic": "הָ֘ל֤וֹךְ יֵלֵ֨ךְ ׀ וּבָכֹה֮ נֹשֵׂ֢א מֶשֶׁךְ־הַ֫זָּ֥רַע בֹּא־יָבֹ֥א בְרִנָּ֑ה נֹ֝שֵׂ֗א אֲלֻמֹּתָֽיו׃ {פ}",
+      "douay_rheims": "Going they went and wept, casting their seeds.",
+      "finnish_biblia": "He menevät matkaan ja itkevät, ja vievät ulos kalliin siemenen, ja tulevat riemulla, ja tuovat lyhteensä.   ",
       "king_james": "He that goeth forth and weepeth, bearing precious seed, shall doubtless come again with rejoicing, bringing his sheaves with him. ",
       "refs": {
         "latin_vulgate": {
+          "src": "125:6"
+        },
+        "douay_rheims": {
           "src": "125:6"
         }
       }

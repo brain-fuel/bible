@@ -2,6 +2,8 @@
   "book_id": "PSA",
   "latin_name": "Liber Psalmorum",
   "hebrew_name": "תְּהִלִּים",
+  "douay_name": "Psalms",
+  "finnish_name": "Psalmit",
   "english_name": "Psalms",
   "chapter": 54,
   "verses": [
@@ -9,6 +11,8 @@
       "verse": 1,
       "latin_vulgate": "  Deus, in nomine tuo salvum me fac,  et in virtute tua judica me. ",
       "hebrew_masoretic": "אֱ֭לֹהִים בְּשִׁמְךָ֣ הוֹשִׁיעֵ֑נִי וּבִגְבוּרָתְךָ֥ תְדִינֵֽנִי׃",
+      "douay_rheims": "Save me, O God, by thy name, and judge me in thy strength.",
+      "finnish_biblia": "Davidin opetus, edelläveisaajalle, kanteleilla, (H54:2) Kuin Siphiläiset tulivat ja sanoivat Saulille: David on lymyttänyt itsensä meidän tykönämme. (H52:3) Auta minua Jumala sinun nimelläs, ja saata minulle oikeus sinun väkevyydelläs. ",
       "king_james": "Save me, O God, by thy name, and judge me by thy strength.",
       "refs": {
         "latin_vulgate": {
@@ -16,6 +20,9 @@
         },
         "hebrew_masoretic": {
           "src": "54:3"
+        },
+        "douay_rheims": {
+          "src": "53:3"
         }
       }
     },
@@ -23,6 +30,8 @@
       "verse": 2,
       "latin_vulgate": " Deus, exaudi orationem meam ;  auribus percipe verba oris mei. ",
       "hebrew_masoretic": "אֱ֭לֹהִים שְׁמַ֣ע תְּפִלָּתִ֑י הַ֝אֲזִ֗ינָה לְאִמְרֵי־פִֽי׃",
+      "douay_rheims": "O God, hear my prayer: give ear to the words of my mouth.",
+      "finnish_biblia": "Jumala, kuule minun rukoukseni, ota korviis minun suuni sanat. ",
       "king_james": "Hear my prayer, O God; give ear to the words of my mouth.",
       "refs": {
         "latin_vulgate": {
@@ -30,6 +39,9 @@
         },
         "hebrew_masoretic": {
           "src": "54:4"
+        },
+        "douay_rheims": {
+          "src": "53:4"
         }
       }
     },
@@ -37,6 +49,8 @@
       "verse": 3,
       "latin_vulgate": " Quoniam alieni insurrexerunt adversum me,  et fortes quæsierunt animam meam,  et non proposuerunt Deum ante conspectum suum. ",
       "hebrew_masoretic": "כִּ֤י זָרִ֨ים ׀ קָ֤מוּ עָלַ֗י וְֽ֭עָרִיצִים בִּקְשׁ֣וּ נַפְשִׁ֑י לֹ֤א שָׂ֨מוּ אֱלֹהִ֖ים לְנֶגְדָּ֣ם סֶֽלָה׃",
+      "douay_rheims": "For strangers have risen up against me; and the mighty have sought after my soul: and they have not set God before their eyes.",
+      "finnish_biblia": "Sillä muukalaiset karkasivat minua vastaan, ja väkivaltaiset väijyivät minun sieluani: ei he pitäneet Jumalaa silmäinsä edessä, Sela! ",
       "king_james": "For strangers are risen up against me, and oppressors seek after my soul: they have not set God before them. Selah.",
       "refs": {
         "latin_vulgate": {
@@ -44,6 +58,9 @@
         },
         "hebrew_masoretic": {
           "src": "54:5"
+        },
+        "douay_rheims": {
+          "src": "53:5"
         }
       }
     },
@@ -51,6 +68,8 @@
       "verse": 4,
       "latin_vulgate": " Ecce enim Deus adjuvat me,  et Dominus susceptor est animæ meæ. ",
       "hebrew_masoretic": "הִנֵּ֣ה אֱ֭לֹהִים עֹזֵ֣ר לִ֑י אֲ֝דֹנָ֗י בְּֽסֹמְכֵ֥י נַפְשִֽׁי׃",
+      "douay_rheims": "For behold God is my helper: and the Lord is the protector of my soul.",
+      "finnish_biblia": "Katso, Jumala auttaa minua: Herra tukee minun sieluani. ",
       "king_james": "Behold, God is mine helper: the Lord is with them that uphold my soul.",
       "refs": {
         "latin_vulgate": {
@@ -58,6 +77,9 @@
         },
         "hebrew_masoretic": {
           "src": "54:6"
+        },
+        "douay_rheims": {
+          "src": "53:6"
         }
       }
     },
@@ -65,6 +87,8 @@
       "verse": 5,
       "latin_vulgate": " Averte mala inimicis meis ;  et in veritate tua disperde illos. ",
       "hebrew_masoretic": "(ישוב) [יָשִׁ֣יב] הָ֭רַע לְשֹׁרְרָ֑י בַּ֝אֲמִתְּךָ֗ הַצְמִיתֵֽם׃",
+      "douay_rheims": "Turn back the evils upon my enemies; and cut them off in thy truth.",
+      "finnish_biblia": "Hän kostaa minun vihollisteni pahuuden: hajoita ne totuudessas. ",
       "king_james": "He shall reward evil unto mine enemies: cut them off in thy truth.",
       "refs": {
         "latin_vulgate": {
@@ -72,6 +96,9 @@
         },
         "hebrew_masoretic": {
           "src": "54:7"
+        },
+        "douay_rheims": {
+          "src": "53:7"
         }
       }
     },
@@ -79,6 +106,8 @@
       "verse": 6,
       "latin_vulgate": " Voluntarie sacrificabo tibi,  et confitebor nomini tuo, Domine, quoniam bonum est. ",
       "hebrew_masoretic": "בִּנְדָבָ֥ה אֶזְבְּחָה־לָּ֑ךְ א֤וֹדֶה־שִּׁמְךָ֖ יְהֹוָ֣ה כִּי־טֽוֹב׃",
+      "douay_rheims": "I will freely sacrifice to thee, and will give praise, O God, to thy name: because it is good:",
+      "finnish_biblia": "Niin minä mielelläni sinulle uhraan: minä kiitän, Herra, sinun nimeäs, sillä se on hyvä. ",
       "king_james": "I will freely sacrifice unto thee: I will praise thy name, O Lord; for it is good.",
       "refs": {
         "latin_vulgate": {
@@ -86,6 +115,9 @@
         },
         "hebrew_masoretic": {
           "src": "54:8"
+        },
+        "douay_rheims": {
+          "src": "53:8"
         }
       }
     },
@@ -93,6 +125,8 @@
       "verse": 7,
       "latin_vulgate": " Quoniam ex omni tribulatione eripuisti me,  et super inimicos meos despexit oculus meus.  ",
       "hebrew_masoretic": "כִּ֣י מִכׇּל־צָ֭רָה הִצִּילָ֑נִי וּ֝בְאֹיְבַ֗י רָאֲתָ֥ה עֵינִֽי׃ {פ}",
+      "douay_rheims": "For thou hast delivered me out of all trouble: and my eye hath looked down upon my enemies. ",
+      "finnish_biblia": "Sillä hän on pelastanut minun kaikesta hädästä; ja minun silmäni ovat nähneet minun viholiseni.   ",
       "king_james": "For he hath delivered me out of all trouble: and mine eye hath seen his desire upon mine enemies. ",
       "refs": {
         "latin_vulgate": {
@@ -100,6 +134,9 @@
         },
         "hebrew_masoretic": {
           "src": "54:9"
+        },
+        "douay_rheims": {
+          "src": "53:9"
         }
       }
     }

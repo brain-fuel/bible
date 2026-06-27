@@ -2,6 +2,8 @@
   "book_id": "EXO",
   "latin_name": "Exodus",
   "hebrew_name": "שְׁמוֹת",
+  "douay_name": "Exodus",
+  "finnish_name": "2. Mooseksen kirja",
   "english_name": "Exodus",
   "chapter": 23,
   "verses": [
@@ -9,198 +11,264 @@
       "verse": 1,
       "latin_vulgate": "Non suscipies vocem mendacii, nec junges manum tuam ut pro impio dicas falsum testimonium. ",
       "hebrew_masoretic": "לֹ֥א תִשָּׂ֖א שֵׁ֣מַע שָׁ֑וְא אַל־תָּ֤שֶׁת יָֽדְךָ֙ עִם־רָשָׁ֔ע לִהְיֹ֖ת עֵ֥ד חָמָֽס׃",
+      "douay_rheims": "Thou shalt not receive the voice of a lie: neither shalt thou join thy hand to bear false witness for a wicked person.",
+      "finnish_biblia": "Ei sinun pidä uskoman valheita; ettäs auttaisit jumalatointa, ja tulisit vääräksi todistajaksi. ",
       "king_james": "Thou shalt not raise a false report: put not thine hand with the wicked to be an unrighteous witness."
     },
     {
       "verse": 2,
       "latin_vulgate": "Non sequeris turbam ad faciendum malum : nec in judicio, plurimorum acquiesces sententiæ, ut a vero devies. ",
       "hebrew_masoretic": "לֹֽא־תִהְיֶ֥ה אַחֲרֵֽי־רַבִּ֖ים לְרָעֹ֑ת וְלֹא־תַעֲנֶ֣ה עַל־רִ֗ב לִנְטֹ֛ת אַחֲרֵ֥י רַבִּ֖ים לְהַטֹּֽת׃",
+      "douay_rheims": "Thou shalt not follow the multitude to do evil: neither shalt thou yield in judgment, to the opinion of the most part, to stray from the truth.",
+      "finnish_biblia": "Ei sinun pidä joukkoa seuraaman pahuuteen, eikä myös vastaaman oikeuden edessä niin että sinä poikkeat joukon jälkeen pois oikeutta vääntämään. ",
       "king_james": "Thou shalt not follow a multitude to do evil; neither shalt thou speak in a cause to decline after many to wrest judgment:"
     },
     {
       "verse": 3,
       "latin_vulgate": "Pauperis quoque non misereberis in judicio. ",
       "hebrew_masoretic": "וְדָ֕ל לֹ֥א תֶהְדַּ֖ר בְּרִיבֽוֹ׃ {ס}",
+      "douay_rheims": "Neither shalt thou favour a poor man in judgment.",
+      "finnish_biblia": "Ei sinun pidä kaunisteleman köyhää, hänen asiassansa. ",
       "king_james": "Neither shalt thou countenance a poor man in his cause."
     },
     {
       "verse": 4,
       "latin_vulgate": "Si occurreris bovi inimici tui, aut asino erranti, reduc ad eum. ",
       "hebrew_masoretic": "כִּ֣י תִפְגַּ֞ע שׁ֧וֹר אֹֽיִבְךָ֛ א֥וֹ חֲמֹר֖וֹ תֹּעֶ֑ה הָשֵׁ֥ב תְּשִׁיבֶ֖נּוּ לֽוֹ׃ {ס}",
+      "douay_rheims": "If thou meet thy enemy's ox or ass going astray, bring it back to him.",
+      "finnish_biblia": "Koska sinä kohtaat vihollises härjän eli aasin eksyksissä niin sinun pitää johdattaman sen hänelle jällensä. ",
       "king_james": "If thou meet thine enemy’s ox or his ass going astray, thou shalt surely bring it back to him again."
     },
     {
       "verse": 5,
       "latin_vulgate": "Si videris asinum odientis te jacere sub onere, non pertransibis, sed sublevabis cum eo. ",
       "hebrew_masoretic": "כִּֽי־תִרְאֶ֞ה חֲמ֣וֹר שֹׂנַאֲךָ֗ רֹבֵץ֙ תַּ֣חַת מַשָּׂא֔וֹ וְחָדַלְתָּ֖ מֵעֲזֹ֣ב ל֑וֹ עָזֹ֥ב תַּעֲזֹ֖ב עִמּֽוֹ׃ {ס}",
+      "douay_rheims": "If thou see the ass of him that hateth thee lie underneath his burden, thou shalt not pass by, but shalt lift him up with him.",
+      "finnish_biblia": "Koskas näet vihollises aasin makaavan kuorman alla, kavahda, ettes häntä jättäisi; vaan sinun pitää kaiketi auttaman häntä. ",
       "king_james": "If thou see the ass of him that hateth thee lying under his burden, and wouldest forbear to help him, thou shalt surely help with him."
     },
     {
       "verse": 6,
       "latin_vulgate": "Non declinabis in judicium pauperis. ",
       "hebrew_masoretic": "לֹ֥א תַטֶּ֛ה מִשְׁפַּ֥ט אֶבְיֹנְךָ֖ בְּרִיבֽוֹ׃",
+      "douay_rheims": "Thou shalt not go aside in the poor man's judgment.",
+      "finnish_biblia": "Ei sinun pidä kääntelemän sinun köyhäs oikeutta hänen asiassansa. ",
       "king_james": "Thou shalt not wrest the judgment of thy poor in his cause."
     },
     {
       "verse": 7,
       "latin_vulgate": "Mendacium fugies. Insontem et justum non occides : quia aversor impium. ",
       "hebrew_masoretic": "מִדְּבַר־שֶׁ֖קֶר תִּרְחָ֑ק וְנָקִ֤י וְצַדִּיק֙ אַֽל־תַּהֲרֹ֔ג כִּ֥י לֹא־אַצְדִּ֖יק רָשָֽׁע׃",
+      "douay_rheims": "Thou shalt fly lying. The innocent and just person thou shalt not put to death: because I abhor the wicked.",
+      "finnish_biblia": "Ja ole kaukana vääristä asioista. Viatointa ja hurskasta ei sinun pidä tappaman; sillä en minä pidä jumalatointa hurskaana. ",
       "king_james": "Keep thee far from a false matter; and the innocent and righteous slay thou not: for I will not justify the wicked."
     },
     {
       "verse": 8,
       "latin_vulgate": "Nec accipies munera, quæ etiam excæcant prudentes, et subvertunt verba justorum. ",
       "hebrew_masoretic": "וְשֹׁ֖חַד לֹ֣א תִקָּ֑ח כִּ֤י הַשֹּׁ֙חַד֙ יְעַוֵּ֣ר פִּקְחִ֔ים וִֽיסַלֵּ֖ף דִּבְרֵ֥י צַדִּיקִֽים׃",
+      "douay_rheims": "Neither shalt thou take bribes, which even blind the wise, and pervert the words of the just.",
+      "finnish_biblia": "Ei sinun pidä lahjoja ottaman; sillä lahjat sokaisevat näkeväiset, ja kääntävät hurskasten asiat. ",
       "king_james": "And thou shalt take no gift: for the gift blindeth the wise, and perverteth the words of the righteous."
     },
     {
       "verse": 9,
       "latin_vulgate": "Peregrino molestus non eris. Scitis enim advenarum animas : quia et ipsi peregrini fuistis in terra Ægypti.  ",
       "hebrew_masoretic": "וְגֵ֖ר לֹ֣א תִלְחָ֑ץ וְאַתֶּ֗ם יְדַעְתֶּם֙ אֶת־נֶ֣פֶשׁ הַגֵּ֔ר כִּֽי־גֵרִ֥ים הֱיִיתֶ֖ם בְּאֶ֥רֶץ מִצְרָֽיִם׃",
+      "douay_rheims": "Thou shalt not molest a stranger, for you know the hearts of strangers: for you also were strangers in the land of Egypt.",
+      "finnish_biblia": "Ei teidän pidä solvaiseman muukalaisia; sillä te tiedätte muukalaisen sydämen, että te myös itse olette olleet muukalaiset Egyptin maalla. ",
       "king_james": "Also thou shalt not oppress a stranger: for ye know the heart of a stranger, seeing ye were strangers in the land of Egypt."
     },
     {
       "verse": 10,
       "latin_vulgate": " Sex annis seminabis terram tuam, et congregabis fruges ejus : ",
       "hebrew_masoretic": "וְשֵׁ֥שׁ שָׁנִ֖ים תִּזְרַ֣ע אֶת־אַרְצֶ֑ךָ וְאָסַפְתָּ֖ אֶת־תְּבוּאָתָֽהּ׃",
+      "douay_rheims": "Six years thou shalt sow thy ground, and shalt gather the corn thereof.",
+      "finnish_biblia": "Kuusi vuotta pitää sinun kylvämän sinun maas, ja kokooman sen tulon. ",
       "king_james": "And six years thou shalt sow thy land, and shalt gather in the fruits thereof:"
     },
     {
       "verse": 11,
       "latin_vulgate": "anno autem septimo dimittes eam, et requiescere facies, ut comedant pauperes populi tui : et quidquid reliquum fuerit, edant bestiæ agri : ita facies in vinea et in oliveto tuo. ",
       "hebrew_masoretic": "וְהַשְּׁבִיעִ֞ת תִּשְׁמְטֶ֣נָּה וּנְטַשְׁתָּ֗הּ וְאָֽכְלוּ֙ אֶבְיֹנֵ֣י עַמֶּ֔ךָ וְיִתְרָ֕ם תֹּאכַ֖ל חַיַּ֣ת הַשָּׂדֶ֑ה כֵּֽן־תַּעֲשֶׂ֥ה לְכַרְמְךָ֖ לְזֵיתֶֽךָ׃",
+      "douay_rheims": "But the seventh year thou shalt let it alone, and suffer it to rest, that the poor of thy people may eat, and whatsoever shall be left, let the beasts of the field eat it: so shalt thou do with thy vineyard and thy oliveyard.",
+      "finnish_biblia": "Vaan seitsemäntenä vuonna pitää sinun sen levolle jättämän, että köyhät sinun kansastas siitä syödä saisivat. Ja mitä jää, sen metsän pedot syökään. Niin pitää myös sinun tekemän viinamäkes ja öljymäkes kanssa. ",
       "king_james": "But the seventh year thou shalt let it rest and lie still; that the poor of thy people may eat: and what they leave the beasts of the field shall eat. In like manner thou shalt deal with thy vineyard, and with thy oliveyard."
     },
     {
       "verse": 12,
       "latin_vulgate": "Sex diebus operaberis : septimo die cessabis, ut requiescat bos et asinus tuus, et refrigeretur filius ancillæ tuæ, et advena. ",
       "hebrew_masoretic": "שֵׁ֤שֶׁת יָמִים֙ תַּעֲשֶׂ֣ה מַעֲשֶׂ֔יךָ וּבַיּ֥וֹם הַשְּׁבִיעִ֖י תִּשְׁבֹּ֑ת לְמַ֣עַן יָנ֗וּחַ שֽׁוֹרְךָ֙ וַחֲמֹרֶ֔ךָ וְיִנָּפֵ֥שׁ בֶּן־אֲמָתְךָ֖ וְהַגֵּֽר׃",
+      "douay_rheims": "Six days thou shalt work: the seventh day thou shalt cease, that thy ox and thy ass may rest: and the son of thy handmaid and the stranger may be refreshed.",
+      "finnish_biblia": "Kuusi päivää pitää sinun työtäs tekemän, mutta seitsemäntenä päivänä pitää sinun lepäämän: että sinun härkäs ja aasis saisivat levätä, ja sinun piikas poika ja muukalainen sais itsensä virvottaa. ",
       "king_james": "Six days thou shalt do thy work, and on the seventh day thou shalt rest: that thine ox and thine ass may rest, and the son of thy handmaid, and the stranger, may be refreshed."
     },
     {
       "verse": 13,
       "latin_vulgate": "Omnia quæ dixi vobis, custodite. Et per nomen externorum deorum non jurabitis, neque audietur ex ore vestro.  ",
       "hebrew_masoretic": "וּבְכֹ֛ל אֲשֶׁר־אָמַ֥רְתִּי אֲלֵיכֶ֖ם תִּשָּׁמֵ֑רוּ וְשֵׁ֨ם אֱלֹהִ֤ים אֲחֵרִים֙ לֹ֣א תַזְכִּ֔ירוּ לֹ֥א יִשָּׁמַ֖ע עַל־פִּֽיךָ׃",
+      "douay_rheims": "Keep all things that I have said to you. And by the name of strange gods you shall not swear, neither shall it be heard out of your mouth.",
+      "finnish_biblia": "Kaikki ne mitkä minä olen teille sanonut, pitää teidän pitämän. Ja vierasten jumalain nimeä ei pidä teidän muistaman, ja sinun suustas ei pidä ne kuuluman. ",
       "king_james": "And in all things that I have said unto you be circumspect: and make no mention of the name of other gods, neither let it be heard out of thy mouth."
     },
     {
       "verse": 14,
       "latin_vulgate": " Tribus vicibus per singulos annos mihi festa celebrabitis. ",
       "hebrew_masoretic": "שָׁלֹ֣שׁ רְגָלִ֔ים תָּחֹ֥ג לִ֖י בַּשָּׁנָֽה׃",
+      "douay_rheims": "Three times every year you shall celebrate feasts to me.",
+      "finnish_biblia": "Kolmasti vuodessa pitää sinun minulle juhlaa pitämän. ",
       "king_james": "Three times thou shalt keep a feast unto me in the year."
     },
     {
       "verse": 15,
       "latin_vulgate": "Solemnitatem azymorum custodies. Septem diebus comedes azyma, sicut præcepi tibi, tempore mensis novorum, quando egressus es de Ægypto : non apparebis in conspectu meo vacuus. ",
       "hebrew_masoretic": "אֶת־חַ֣ג הַמַּצּוֹת֮ תִּשְׁמֹר֒ שִׁבְעַ֣ת יָמִים֩ תֹּאכַ֨ל מַצּ֜וֹת כַּֽאֲשֶׁ֣ר צִוִּיתִ֗ךָ לְמוֹעֵד֙ חֹ֣דֶשׁ הָֽאָבִ֔יב כִּי־ב֖וֹ יָצָ֣אתָ מִמִּצְרָ֑יִם וְלֹא־יֵרָא֥וּ פָנַ֖י רֵיקָֽם׃",
+      "douay_rheims": "Thou shalt keep the feast of unleavened bread. Seven days shalt thou eat unleavened bread, as I commanded thee, in the time of the month of new corn, when thou didst come forth out of Egypt: thou shalt not appear empty before me.",
+      "finnish_biblia": "Happamattoman leivän juhlan pitää sinun pitämän, niin että sinä seitsemän päivää syöt happamatointa leipää, niinkuin minä sinulle käskenyt olen, määrättynä aikana sillä kuulla Abib. Sillä että sillä ajalla olet sinä lähtenyt Egyptistä; mutta älä tule tyhjin käsin minun eteeni. ",
       "king_james": "Thou shalt keep the feast of unleavened bread: (thou shalt eat unleavened bread seven days, as I commanded thee, in the time appointed of the month Abib; for in it thou camest out from Egypt: and none shall appear before me empty:)"
     },
     {
       "verse": 16,
       "latin_vulgate": "Et solemnitatem messis primitivorum operis tui, quæcumque seminaveris in agro : solemnitatem quoque in exitu anni, quando congregaveris omnes fruges tuas de agro. ",
       "hebrew_masoretic": "וְחַ֤ג הַקָּצִיר֙ בִּכּוּרֵ֣י מַעֲשֶׂ֔יךָ אֲשֶׁ֥ר תִּזְרַ֖ע בַּשָּׂדֶ֑ה וְחַ֤ג הָֽאָסִף֙ בְּצֵ֣את הַשָּׁנָ֔ה בְּאׇסְפְּךָ֥ אֶֽת־מַעֲשֶׂ֖יךָ מִן־הַשָּׂדֶֽה׃",
+      "douay_rheims": "And the feast of the harvest of the firstfruits of thy work, whatsoever thou hast sown in the field. The feast also in the end of the year, when thou hast gathered in all thy corn out of the field.",
+      "finnish_biblia": "Ja sen juhlan, koskas ensin rupeet pellolta korjaamaan, mitäs siihen kylvänyt olet. Ja korjaamisen juhlan, vuoden lopussa, koska sinä työs kedolta korjannut olet. ",
       "king_james": "And the feast of harvest, the firstfruits of thy labours, which thou hast sown in the field: and the feast of ingathering, which is in the end of the year, when thou hast gathered in thy labours out of the field."
     },
     {
       "verse": 17,
       "latin_vulgate": "Ter in anno apparebit omne masculinum tuum coram Domino Deo tuo. ",
       "hebrew_masoretic": "שָׁלֹ֥שׁ פְּעָמִ֖ים בַּשָּׁנָ֑ה יֵרָאֶה֙ כׇּל־זְכ֣וּרְךָ֔ אֶל־פְּנֵ֖י הָאָדֹ֥ן ׀ יְהֹוָֽה׃",
+      "douay_rheims": "Thrice a year shall all thy males appear before the Lord thy God.",
+      "finnish_biblia": "Kolmasti vuodessa pitää kaikki sinun miesväkes tuleman Herran Jumalan eteen. ",
       "king_james": "Three times in the year all thy males shall appear before the Lord God."
     },
     {
       "verse": 18,
       "latin_vulgate": "Non immolabis super fermento sanguinem victimæ meæ, nec remanebit adeps solemnitatis meæ usque mane. ",
       "hebrew_masoretic": "לֹֽא־תִזְבַּ֥ח עַל־חָמֵ֖ץ דַּם־זִבְחִ֑י וְלֹֽא־יָלִ֥ין חֵֽלֶב־חַגִּ֖י עַד־בֹּֽקֶר׃",
+      "douay_rheims": "Thou shalt not sacrifice the blood of my victim upon leaven, neither shall the fat of my solemnity remain until the morning.",
+      "finnish_biblia": "Ei sinun pidä uhraaman minun uhrini verta happaman taikinan kanssa; ja minun juhlani lihavuus ei pidä ylitse yön jäämän huomeneksi. ",
       "king_james": "Thou shalt not offer the blood of my sacrifice with leavened bread; neither shall the fat of my sacrifice remain until the morning."
     },
     {
       "verse": 19,
       "latin_vulgate": "Primitias frugum terræ tuæ deferes in domum Domini Dei tui. Non coques hædum in lacte matris suæ.  ",
       "hebrew_masoretic": "רֵאשִׁ֗ית בִּכּוּרֵי֙ אַדְמָ֣תְךָ֔ תָּבִ֕יא בֵּ֖ית יְהֹוָ֣ה אֱלֹהֶ֑יךָ לֹֽא־תְבַשֵּׁ֥ל גְּדִ֖י בַּחֲלֵ֥ב אִמּֽוֹ׃ {פ}",
+      "douay_rheims": "Thou shalt carry the first-fruits of the corn of thy ground to the house of the Lord thy God. Thou shalt not boil a kid in the milk of his dam.",
+      "finnish_biblia": "Uutista ensimäisestä sinun maas hedelmästä pitää sinun tuoman sinun Herras Jumalas huoneesen. Ei sinun pidä keittämän vohlaa emänsä rieskassa. ",
       "king_james": "The first of the firstfruits of thy land thou shalt bring into the house of the Lord thy God. Thou shalt not seethe a kid in his mother’s milk."
     },
     {
       "verse": 20,
       "latin_vulgate": " Ecce ego mittam angelum meum, qui præcedat te, et custodiat in via, et introducat in locum quem paravi. ",
       "hebrew_masoretic": "הִנֵּ֨ה אָנֹכִ֜י שֹׁלֵ֤חַ מַלְאָךְ֙ לְפָנֶ֔יךָ לִשְׁמׇרְךָ֖ בַּדָּ֑רֶךְ וְלַהֲבִ֣יאֲךָ֔ אֶל־הַמָּק֖וֹם אֲשֶׁ֥ר הֲכִנֹֽתִי׃",
+      "douay_rheims": "Behold I will send my angel, who shall go before thee, and keep thee in thy journey, and bring thee into the place that I have prepared.",
+      "finnish_biblia": "Katso, minä lähetän enkelin sinun edelles varjelemaan sinua tiellä, ja johdattamaan sinun siihen paikkaan, jonka minä olen valmistanut. ",
       "king_james": "Behold, I send an Angel before thee, to keep thee in the way, and to bring thee into the place which I have prepared."
     },
     {
       "verse": 21,
       "latin_vulgate": "Observa eum, et audi vocem ejus, nec contemnendum putes : quia non dimittet cum peccaveris, et est nomen meum in illo. ",
       "hebrew_masoretic": "הִשָּׁ֧מֶר מִפָּנָ֛יו וּשְׁמַ֥ע בְּקֹל֖וֹ אַל־תַּמֵּ֣ר בּ֑וֹ כִּ֣י לֹ֤א יִשָּׂא֙ לְפִשְׁעֲכֶ֔ם כִּ֥י שְׁמִ֖י בְּקִרְבּֽוֹ׃",
+      "douay_rheims": "Take notice of him, and hear his voice, and do not think him one to be contemned: for he will not forgive when thou hast sinned, and my name is in him.",
+      "finnish_biblia": "Pidä vaari itsestäs hänen kasvoinsa edessä ja kuule hänen äänensä, älä hänen mieltänsä pahoita; sillä ei hän jätä rankaisemata teidän ylitsekäymistänne: sillä minun nimeni on hänessä. ",
       "king_james": "Beware of him, and obey his voice, provoke him not; for he will not pardon your transgressions: for my name is in him."
     },
     {
       "verse": 22,
       "latin_vulgate": "Quod si audieris vocem ejus, et feceris omnia quæ loquor, inimicus ero inimicis tuis, et affligam affligentes te.  ",
       "hebrew_masoretic": "כִּ֣י אִם־שָׁמ֤וֹעַ תִּשְׁמַע֙ בְּקֹל֔וֹ וְעָשִׂ֕יתָ כֹּ֖ל אֲשֶׁ֣ר אֲדַבֵּ֑ר וְאָֽיַבְתִּי֙ אֶת־אֹ֣יְבֶ֔יךָ וְצַרְתִּ֖י אֶת־צֹרְרֶֽיךָ׃",
+      "douay_rheims": "But if thou wilt hear hi voice, and do all that I speak, I will be an enemy to thy enemies, and will afflict them that afflict thee.",
+      "finnish_biblia": "Vaan jos sinä ahkerasti kuulet hänen äänensä, ja teet kaikki mitä minä sinulle käsken, niin minä olen sinun vihollistes vihollinen, ja sinun vainoojais vainooja. ",
       "king_james": "But if thou shalt indeed obey his voice, and do all that I speak; then I will be an enemy unto thine enemies, and an adversary unto thine adversaries."
     },
     {
       "verse": 23,
       "latin_vulgate": " Præcedetque te angelus meus, et introducet te ad Amorrhæum, et Hethæum, et Pherezæum, Chananæumque, et Hevæum, et Jebusæum, quos ego conteram. ",
       "hebrew_masoretic": "כִּֽי־יֵלֵ֣ךְ מַלְאָכִי֮ לְפָנֶ֒יךָ֒ וֶהֱבִֽיאֲךָ֗ אֶל־הָֽאֱמֹרִי֙ וְהַ֣חִתִּ֔י וְהַפְּרִזִּי֙ וְהַֽכְּנַעֲנִ֔י הַחִוִּ֖י וְהַיְבוּסִ֑י וְהִכְחַדְתִּֽיו׃",
+      "douay_rheims": "And my angel shall go before thee, and shall bring thee in unto the Amorrhite, and the Hethite, and the Pherexite, and the Chanaanite, and the Hevite, and the Jebuzite, whom I will destroy.",
+      "finnish_biblia": "Sillä minun enkelini käy sinun edelläs, ja johdattaa sinun Amorilaisten, Hetiläisten, Pheresiläisten, Kanaanealaisten, Heviläisten, ja Jebusilaisten tykö, ja minä hävitän heitä. ",
       "king_james": "For mine Angel shall go before thee, and bring thee in unto the Amorites, and the Hittites, and the Perizzites, and the Canaanites, the Hivites, and the Jebusites: and I will cut them off."
     },
     {
       "verse": 24,
       "latin_vulgate": "Non adorabis deos eorum, nec coles eos : non facies opera eorum, sed destrues eos, et confringes statuas eorum. ",
       "hebrew_masoretic": "לֹֽא־תִשְׁתַּחֲוֶ֤ה לֵאלֹֽהֵיהֶם֙ וְלֹ֣א תׇֽעׇבְדֵ֔ם וְלֹ֥א תַעֲשֶׂ֖ה כְּמַֽעֲשֵׂיהֶ֑ם כִּ֤י הָרֵס֙ תְּהָ֣רְסֵ֔ם וְשַׁבֵּ֥ר תְּשַׁבֵּ֖ר מַצֵּבֹתֵיהֶֽם׃",
+      "douay_rheims": "Thou shalt not adore their gods, nor serve them. Thou shalt not do their works, but shalt destroy them, and break their statues.",
+      "finnish_biblia": "Niin ei sinun pidä kumartaman heidän jumaliansa, eikä myös heitä palveleman, eikä heidän tekoinsa jälkeen tekemän; mutta sinun pitää heidän epäjumalansa heittämän pois, ja lyömän heidän kuvansa rikki. ",
       "king_james": "Thou shalt not bow down to their gods, nor serve them, nor do after their works: but thou shalt utterly overthrow them, and quite break down their images."
     },
     {
       "verse": 25,
       "latin_vulgate": "Servietisque Domino Deo vestro, ut benedicam panibus tuis et aquis, et auferam infirmitatem de medio tui. ",
       "hebrew_masoretic": "וַעֲבַדְתֶּ֗ם אֵ֚ת יְהֹוָ֣ה אֱלֹֽהֵיכֶ֔ם וּבֵרַ֥ךְ אֶֽת־לַחְמְךָ֖ וְאֶת־מֵימֶ֑יךָ וַהֲסִרֹתִ֥י מַחֲלָ֖ה מִקִּרְבֶּֽךָ׃ {ס}",
+      "douay_rheims": "And you shall serve the Lord your God, that I may bless your bread and your waters, and may take away sickness from the midst of thee.",
+      "finnish_biblia": "Mutta Herraa teidän Jumalaanne pitää teidän palveleman, niin hän siunaa sinun leipäs ja sinun vetes: ja minä otan sinulta pois kaikki sairaudet. ",
       "king_james": "And ye shall serve the Lord your God, and he shall bless thy bread, and thy water; and I will take sickness away from the midst of thee."
     },
     {
       "verse": 26,
       "latin_vulgate": "Non erit infœcunda, nec sterilis in terra tua : numerum dierum tuorum implebo. ",
       "hebrew_masoretic": "לֹ֥א תִהְיֶ֛ה מְשַׁכֵּלָ֥ה וַעֲקָרָ֖ה בְּאַרְצֶ֑ךָ אֶת־מִסְפַּ֥ר יָמֶ֖יךָ אֲמַלֵּֽא׃",
+      "douay_rheims": "There shall not be one fruitless nor barren in thy land: I will fill the number of thy days.",
+      "finnish_biblia": "Ei yksikään kesken synnyttäväinen eikä hedelmätöin pidä oleman sinun maassas; ja minä tahdon täyttää sinun päiväs luvun. ",
       "king_james": "There shall nothing cast their young, nor be barren, in thy land: the number of thy days I will fulfil."
     },
     {
       "verse": 27,
       "latin_vulgate": "Terrorem meum mittam in præcursum tuum, et occidam omnem populum, ad quem ingredieris : cunctorumque inimicorum tuorum coram te terga vertam : ",
       "hebrew_masoretic": "אֶת־אֵֽימָתִי֙ אֲשַׁלַּ֣ח לְפָנֶ֔יךָ וְהַמֹּתִי֙ אֶת־כׇּל־הָעָ֔ם אֲשֶׁ֥ר תָּבֹ֖א בָּהֶ֑ם וְנָתַתִּ֧י אֶת־כׇּל־אֹיְבֶ֛יךָ אֵלֶ֖יךָ עֹֽרֶף׃",
+      "douay_rheims": "I will send my fear before thee, and will destroy all the people to whom thou shalt come: and will turn the backs of all thy enemies before thee:",
+      "finnish_biblia": "Minä lähetän minun pelkoni sinun edelles, ja hukutan kaiken kansan, jonka tykö sinä menet: ja saatan kaikki sinun vihollises pakoon sinun edestäs. ",
       "king_james": "I will send my fear before thee, and will destroy all the people to whom thou shalt come, and I will make all thine enemies turn their backs unto thee."
     },
     {
       "verse": 28,
       "latin_vulgate": "emittens crabrones prius, qui fugabunt Hevæum, et Chananæum, et Hethæum, antequam introëas. ",
       "hebrew_masoretic": "וְשָׁלַחְתִּ֥י אֶת־הַצִּרְעָ֖ה לְפָנֶ֑יךָ וְגֵרְשָׁ֗ה אֶת־הַחִוִּ֧י אֶת־הַֽכְּנַעֲנִ֛י וְאֶת־הַחִתִּ֖י מִלְּפָנֶֽיךָ׃",
+      "douay_rheims": "Sending out hornets before, that shall drive away the Hevite, and the Chanaanite, and the Hethite, before thou come in.",
+      "finnish_biblia": "Minä lähetän hörhöläiset sinun edelles, jotka pitää ajaman pois sinun edestäs Heviläiset, Kanaanealaiset ja Hetiläiset. ",
       "king_james": "And I will send hornets before thee, which shall drive out the Hivite, the Canaanite, and the Hittite, from before thee."
     },
     {
       "verse": 29,
       "latin_vulgate": "Non ejiciam eos a facie tua anno uno : ne terra in solitudinem redigatur, et crescant contra te bestiæ. ",
       "hebrew_masoretic": "לֹ֧א אֲגָרְשֶׁ֛נּוּ מִפָּנֶ֖יךָ בְּשָׁנָ֣ה אֶחָ֑ת פֶּן־תִּהְיֶ֤ה הָאָ֙רֶץ֙ שְׁמָמָ֔ה וְרַבָּ֥ה עָלֶ֖יךָ חַיַּ֥ת הַשָּׂדֶֽה׃",
+      "douay_rheims": "I will not cast them out from thy face in one year; lest the land be brought into a wilderness, and the beasts multiply against thee.",
+      "finnish_biblia": "En minä heitä aja ulos yhtenä vuonna sinun edestäs, ettei maa autiaksi tulisi, eikä metsän pedot enenisi sinua vastaan. ",
       "king_james": "I will not drive them out from before thee in one year; lest the land become desolate, and the beast of the field multiply against thee."
     },
     {
       "verse": 30,
       "latin_vulgate": "Paulatim expellam eos de conspectu tuo, donec augearis, et possideas terram. ",
       "hebrew_masoretic": "מְעַ֥ט מְעַ֛ט אֲגָרְשֶׁ֖נּוּ מִפָּנֶ֑יךָ עַ֚ד אֲשֶׁ֣ר תִּפְרֶ֔ה וְנָחַלְתָּ֖ אֶת־הָאָֽרֶץ׃",
+      "douay_rheims": "By little and little I will drive them out from before thee, till thou be increased, and dost possess the land.",
+      "finnish_biblia": "Vähittäin minä heitä ajan ulos sinun edestäs, siihenasti ettäs kasvat ja omistat maan. ",
       "king_james": "By little and little I will drive them out from before thee, until thou be increased, and inherit the land."
     },
     {
       "verse": 31,
       "latin_vulgate": "Ponam autem terminos tuos a mari Rubro usque ad mare Palæstinorum, et a deserto usque ad fluvium : tradam in manibus vestris habitatores terræ, et ejiciam eos de conspectu vestro. ",
       "hebrew_masoretic": "וְשַׁתִּ֣י אֶת־גְּבֻלְךָ֗ מִיַּם־סוּף֙ וְעַד־יָ֣ם פְּלִשְׁתִּ֔ים וּמִמִּדְבָּ֖ר עַד־הַנָּהָ֑ר כִּ֣י ׀ אֶתֵּ֣ן בְּיֶדְכֶ֗ם אֵ֚ת יֹשְׁבֵ֣י הָאָ֔רֶץ וְגֵרַשְׁתָּ֖מוֹ מִפָּנֶֽיךָ׃",
+      "douay_rheims": "And I will set thy bounds from the Red Sea to the sea of the Palestines, and from the desert to the river: I will deliver the inhabitants of the land into your hands, and will drive them out from before you.",
+      "finnish_biblia": "Ja minä panen sinun maas rajat Punaisesta merestä niin Philistealaisten mereen asti, ja korvesta niin virtaan asti: sillä minä annan maan asuvaiset sinun kätees, ajaakses heitä ulos edestäs. ",
       "king_james": "And I will set thy bounds from the Red sea even unto the sea of the Philistines, and from the desert unto the river: for I will deliver the inhabitants of the land into your hand; and thou shalt drive them out before thee."
     },
     {
       "verse": 32,
       "latin_vulgate": "Non inibis cum eis fœdus, nec cum diis eorum. ",
       "hebrew_masoretic": "לֹֽא־תִכְרֹ֥ת לָהֶ֛ם וְלֵאלֹֽהֵיהֶ֖ם בְּרִֽית׃",
+      "douay_rheims": "Thou shalt not enter into league with them, nor with their gods.",
+      "finnish_biblia": "Ei sinun pidä liittoa tekemän heidän kanssansa, eikä heidän jumalainsa kanssa. ",
       "king_james": "Thou shalt make no covenant with them, nor with their gods."
     },
     {
       "verse": 33,
       "latin_vulgate": "Non habitent in terra tua, ne forte peccare te faciant in me, si servieris diis eorum : quod tibi certe erit in scandalum.   ",
       "hebrew_masoretic": "לֹ֤א יֵשְׁבוּ֙ בְּאַרְצְךָ֔ פֶּן־יַחֲטִ֥יאוּ אֹתְךָ֖ לִ֑י כִּ֤י תַעֲבֹד֙ אֶת־אֱלֹ֣הֵיהֶ֔ם כִּֽי־יִהְיֶ֥ה לְךָ֖ לְמוֹקֵֽשׁ׃ {פ}",
+      "douay_rheims": "Let them not dwell in thy land, lest perhaps they make thee sin against me, if thou serve their gods; which, undoubtedly, will be a scandal to thee. ",
+      "finnish_biblia": "Ei heidän pidä asuman sinun maassas, ettei he kehoittaisi sinua syntiä tekemään minua vastaan, niin ettäs palvelet heidän jumaliansa, sillä se on sinulle paulaksi.   ",
       "king_james": "They shall not dwell in thy land, lest they make thee sin against me: for if thou serve their gods, it will surely be a snare unto thee. "
     }
   ]

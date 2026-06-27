@@ -2,6 +2,8 @@
   "book_id": "PRO",
   "latin_name": "Liber Proverbiorum",
   "hebrew_name": "מִשְׁלֵי",
+  "douay_name": "Proverbs",
+  "finnish_name": "Sananlaskut",
   "english_name": "Proverbs",
   "chapter": 4,
   "verses": [
@@ -9,162 +11,216 @@
       "verse": 1,
       "latin_vulgate": "Audite, filii, disciplinam patris,  et attendite ut sciatis prudentiam. ",
       "hebrew_masoretic": "שִׁמְע֣וּ בָ֭נִים מ֣וּסַר אָ֑ב וְ֝הַקְשִׁ֗יבוּ לָדַ֥עַת בִּינָֽה׃",
+      "douay_rheims": "Hear, ye children, the instruction of a father, and attend, that you may know prudence.",
+      "finnish_biblia": "Kuulkaat, lapseni, isänne kuritusta, ja ottakaa vaari, oppiaksenne ja viisaammaksi tullaksenne. ",
       "king_james": "Hear, ye children, the instruction of a father, and attend to know understanding."
     },
     {
       "verse": 2,
       "latin_vulgate": " Donum bonum tribuam vobis :  legem meam ne derelinquatis. ",
       "hebrew_masoretic": "כִּ֤י לֶ֣קַח ט֭וֹב נָתַ֣תִּי לָכֶ֑ם תּ֝וֹרָתִ֗י אַֽל־תַּעֲזֹֽבוּ׃",
+      "douay_rheims": "I will give you a good gift, forsake not my law.",
+      "finnish_biblia": "Sillä minä annan teille hyvän opetuksen; älkööt hyljätkö minun lakiani. ",
       "king_james": "For I give you good doctrine, forsake ye not my law."
     },
     {
       "verse": 3,
       "latin_vulgate": " Nam et ego filius fui patris mei,  tenellus et unigenitus coram matre mea. ",
       "hebrew_masoretic": "כִּֽי־בֵ֭ן הָיִ֣יתִי לְאָבִ֑י רַ֥ךְ וְ֝יָחִ֗יד לִפְנֵ֥י אִמִּֽי׃",
+      "douay_rheims": "For I also was my father's son, tender, and as an only son in the sight of my mother:",
+      "finnish_biblia": "Sillä minä olin isäni poika, hoikka ja ainoa äidilläni. ",
       "king_james": "For I was my father’s son, tender and only beloved in the sight of my mother."
     },
     {
       "verse": 4,
       "latin_vulgate": " Et docebat me, atque dicebat :  Suscipiat verba mea cor tuum ;  custodi præcepta mea, et vives. ",
       "hebrew_masoretic": "וַיֹּרֵ֗נִי וַיֹּ֥אמֶר לִ֗י יִֽתְמׇךְ־דְּבָרַ֥י לִבֶּ֑ךָ שְׁמֹ֖ר מִצְוֺתַ֣י וֶחְיֵֽה׃",
+      "douay_rheims": "And he taught me, and said: Let thy heart receive my words, keep my commandments, and thou shalt live.",
+      "finnish_biblia": "Ja hän opetti minua, ja sanoi minulle; anna sydämes ottaa minun sanani vastaan: pidä minun käskyni, niin sinä elää saat. ",
       "king_james": "He taught me also, and said unto me, Let thine heart retain my words: keep my commandments, and live."
     },
     {
       "verse": 5,
       "latin_vulgate": " Posside sapientiam, posside prudentiam :  ne obliviscaris, neque declines a verbis oris mei. ",
       "hebrew_masoretic": "קְנֵ֣ה חׇ֭כְמָה קְנֵ֣ה בִינָ֑ה אַל־תִּשְׁכַּ֥ח וְאַל־תֵּ֝֗ט מֵאִמְרֵי־פִֽי׃",
+      "douay_rheims": "Get wisdom, get prudence: forget not, neither decline from the words of my mouth.",
+      "finnish_biblia": "Osta viisaus, osat ymmärrys: älä unohda, älä myös poikkee minun puheestani. ",
       "king_james": "Get wisdom, get understanding: forget it not; neither decline from the words of my mouth."
     },
     {
       "verse": 6,
       "latin_vulgate": " Ne dimittas eam, et custodiet te :  dilige eam, et conservabit te. ",
       "hebrew_masoretic": "אַל־תַּעַזְבֶ֥הָ וְתִשְׁמְרֶ֑ךָּ אֱהָבֶ֥הָ וְתִצְּרֶֽךָּ׃",
+      "douay_rheims": "Forsake her not, and she shall keep thee: love her, and she shall preserve thee.",
+      "finnish_biblia": "Älä häntä hylkää, niin hän sinut kätkee: rakasta häntä, niin hän sinua varjelee. ",
       "king_james": "Forsake her not, and she shall preserve thee: love her, and she shall keep thee."
     },
     {
       "verse": 7,
       "latin_vulgate": " Principium sapientiæ : posside sapientiam,  et in omni possessione tua acquire prudentiam. ",
       "hebrew_masoretic": "רֵאשִׁ֣ית חׇ֭כְמָה קְנֵ֣ה חׇכְמָ֑ה וּבְכׇל־קִ֝נְיָנְךָ֗ קְנֵ֣ה בִינָֽה׃",
+      "douay_rheims": "The beginning of wisdom, get wisdom, and with all thy possession purchase prudence.",
+      "finnish_biblia": "Sillä viisauden alku on, ostaa viisautta, ja kaikella saadullas ostaa taitoa. ",
       "king_james": "Wisdom is the principal thing; therefore get wisdom: and with all thy getting get understanding."
     },
     {
       "verse": 8,
       "latin_vulgate": " Arripe illam, et exaltabit te ;  glorificaberis ab ea cum eam fueris amplexatus. ",
       "hebrew_masoretic": "סַלְסְלֶ֥הָ וּֽתְרוֹמְמֶ֑ךָּ תְּ֝כַבֵּ֗דְךָ כִּ֣י תְחַבְּקֶֽנָּה׃",
+      "douay_rheims": "Take hold on her, and she shall exalt thee: thou shalt be glorified by her, when thou shalt embrace her.",
+      "finnish_biblia": "Pidä häntä korkiassa kunniassa, niin hän sinua korottaa, ja saattaa kunniaan, jos sinä häntä rakastat. ",
       "king_james": "Exalt her, and she shall promote thee: she shall bring thee to honour, when thou dost embrace her."
     },
     {
       "verse": 9,
       "latin_vulgate": " Dabit capiti tuo augmenta gratiarum,  et corona inclyta proteget te. ",
       "hebrew_masoretic": "תִּתֵּ֣ן לְ֭רֹאשְׁךָ לִוְיַת־חֵ֑ן עֲטֶ֖רֶת תִּפְאֶ֣רֶת תְּמַגְּנֶֽךָּ׃",
+      "douay_rheims": "She shall give to thy head increase of graces, and protect thee with a noble crown.",
+      "finnish_biblia": "Hän sinun pääs jalosti kaunistaa, ja kunnioittaa sinua ihanalla kruunulla. ",
       "king_james": "She shall give to thine head an ornament of grace: a crown of glory shall she deliver to thee."
     },
     {
       "verse": 10,
       "latin_vulgate": " Audi, fili mi, et suscipe verba mea,  ut multiplicentur tibi anni vitæ. ",
       "hebrew_masoretic": "שְׁמַ֣ע בְּ֭נִי וְקַ֣ח אֲמָרָ֑י וְיִרְבּ֥וּ לְ֝ךָ֗ שְׁנ֣וֹת חַיִּֽים׃",
+      "douay_rheims": "Hear, O my son, and receive my words, that years of life may be multiplied to thee.",
+      "finnish_biblia": "Kuule siis, poikani, ja ota minun puheeni, niin ikäs vuotta on monta. ",
       "king_james": "Hear, O my son, and receive my sayings; and the years of thy life shall be many."
     },
     {
       "verse": 11,
       "latin_vulgate": " Viam sapientiæ monstrabo tibi ;  ducam te per semitas æquitatis : ",
       "hebrew_masoretic": "בְּדֶ֣רֶךְ חׇ֭כְמָה הֹרֵיתִ֑יךָ הִ֝דְרַכְתִּ֗יךָ בְּמַעְגְּלֵי־יֹֽשֶׁר׃",
+      "douay_rheims": "I will shew thee the way of wisdom, I will lead thee by the paths of equity:",
+      "finnish_biblia": "Minä johdatan sinua viisauden tielle, ja saatan sinua käymään oikialla retkellä, ",
       "king_james": "I have taught thee in the way of wisdom; I have led thee in right paths."
     },
     {
       "verse": 12,
       "latin_vulgate": " quas cum ingressus fueris, non arctabuntur gressus tui,  et currens non habebis offendiculum. ",
       "hebrew_masoretic": "בְּֽ֭לֶכְתְּךָ לֹא־יֵצַ֣ר צַעֲדֶ֑ךָ וְאִם־תָּ֝ר֗וּץ לֹ֣א תִכָּשֵֽׁל׃",
+      "douay_rheims": "Which when thou shalt have entered, thy steps shall not be straitened, and when thou runnest, thou shalt not meet a stumblingblock.",
+      "finnish_biblia": "Niin että koskas vaellat, ei sinun käymises ole ahdas; ja koskas juokset, niin et sinä loukkaa sinuas. ",
       "king_james": "When thou goest, thy steps shall not be straitened; and when thou runnest, thou shalt not stumble."
     },
     {
       "verse": 13,
       "latin_vulgate": " Tene disciplinam, ne dimittas eam ;  custodi illam, quia ipsa est vita tua. ",
       "hebrew_masoretic": "הַחֲזֵ֣ק בַּמּוּסָ֣ר אַל־תֶּ֑רֶף נִ֝צְּרֶ֗הָ כִּי־הִ֥יא חַיֶּֽיךָ׃",
+      "douay_rheims": "Take hold on instruction, leave it not: keep it, because it is thy life.",
+      "finnish_biblia": "Pidä kuritus, älä hylkää häntä: kätke häntä; sillä hän on sinun elämäs. ",
       "king_james": "Take fast hold of instruction; let her not go: keep her; for she is thy life."
     },
     {
       "verse": 14,
       "latin_vulgate": " Ne delecteris in semitis impiorum,  nec tibi placeat malorum via. ",
       "hebrew_masoretic": "בְּאֹ֣רַח רְ֭שָׁעִים אַל־תָּבֹ֑א וְאַל־תְּ֝אַשֵּׁ֗ר בְּדֶ֣רֶךְ רָעִֽים׃",
+      "douay_rheims": "Be not delighted in the paths of the wicked, neither let the way of evil men please thee.",
+      "finnish_biblia": "Älä mene jumalattomain askelille, ja älä astu pahain tielle; ",
       "king_james": "Enter not into the path of the wicked, and go not in the way of evil men."
     },
     {
       "verse": 15,
       "latin_vulgate": " Fuge ab ea, nec transeas per illam ;  declina, et desere eam. ",
       "hebrew_masoretic": "פְּרָעֵ֥הוּ אַל־תַּעֲבׇר־בּ֑וֹ שְׂטֵ֖ה מֵעָלָ֣יו וַעֲבֹֽר׃",
+      "douay_rheims": "Flee from it, pass not by it: go aside, and forsake it.",
+      "finnish_biblia": "Jätä se pois, ja älä käy siinä; karta sitä, ja mene ohitse. ",
       "king_james": "Avoid it, pass not by it, turn from it, and pass away."
     },
     {
       "verse": 16,
       "latin_vulgate": " Non enim dormiunt nisi malefecerint,  et rapitur somnus ab eis nisi supplantaverint. ",
       "hebrew_masoretic": "כִּ֤י לֹ֣א יִֽ֭שְׁנוּ אִם־לֹ֣א יָרֵ֑עוּ וְֽנִגְזְלָ֥ה שְׁ֝נָתָ֗ם אִם־לֹ֥א (יכשולו) [יַכְשִֽׁילוּ]׃",
+      "douay_rheims": "For they sleep not, except they have done evil: and their sleep is taken away unless they have made some to fall.",
+      "finnish_biblia": "Sillä ei he makaa, jollei he ole pahoin tehneet, eikä lepää, jollei he ole vahinkoa tehneet. ",
       "king_james": "For they sleep not, except they have done mischief; and their sleep is taken away, unless they cause some to fall."
     },
     {
       "verse": 17,
       "latin_vulgate": " Comedunt panem impietatis,  et vinum iniquitatis bibunt. ",
       "hebrew_masoretic": "כִּ֣י לָ֭חֲמוּ לֶ֣חֶם רֶ֑שַׁע וְיֵ֖ין חֲמָסִ֣ים יִשְׁתּֽוּ׃",
+      "douay_rheims": "They eat the bread of wickedness, and drink the wine of iniquity.",
+      "finnish_biblia": "Sillä he syövät jumalattomuuden leipää, ja juovat vääryyden viinaa. ",
       "king_james": "For they eat the bread of wickedness, and drink the wine of violence."
     },
     {
       "verse": 18,
       "latin_vulgate": " Justorum autem semita quasi lux splendens procedit,  et crescit usque ad perfectam diem. ",
       "hebrew_masoretic": "וְאֹ֣רַח צַ֭דִּיקִים כְּא֣וֹר נֹ֑גַהּ הוֹלֵ֥ךְ וָ֝א֗וֹר עַד־נְכ֥וֹן הַיּֽוֹם׃",
+      "douay_rheims": "But the path of the just, as a shining light, goeth forwards, and increaseth even to perfect day.",
+      "finnish_biblia": "Mutta vanhurskasten retki paistaa niinkuin valkeus, käy edes, ja valistaa hamaan isoon päivään asti. ",
       "king_james": "But the path of the just is as the shining light, that shineth more and more unto the perfect day."
     },
     {
       "verse": 19,
       "latin_vulgate": " Via impiorum tenebrosa ;  nesciunt ubi corruant. ",
       "hebrew_masoretic": "דֶּ֣רֶךְ רְ֭שָׁעִים כָּאֲפֵלָ֑ה לֹ֥א יָ֝דְע֗וּ בַּמֶּ֥ה יִכָּשֵֽׁלוּ׃ {פ}",
+      "douay_rheims": "The way of the wicked is darksome: they know not where they fall.",
+      "finnish_biblia": "Mutta jumalattomain tie on niinkuin pimeys; ja ei he tiedä, kussa he lankeevat. ",
       "king_james": "The way of the wicked is as darkness: they know not at what they stumble."
     },
     {
       "verse": 20,
       "latin_vulgate": " Fili mi, ausculta sermones meos,  et ad eloquia mea inclina aurem tuam. ",
       "hebrew_masoretic": "בְּ֭נִי לִדְבָרַ֣י הַקְשִׁ֑יבָה לַ֝אֲמָרַ֗י הַט־אׇזְנֶֽךָ׃",
+      "douay_rheims": "My son, hearken to my words, and incline thy ear to my sayings.",
+      "finnish_biblia": "Poikani, ota vaari sanoistani, ja kallista korvas puheisiini. ",
       "king_james": "My son, attend to my words; incline thine ear unto my sayings."
     },
     {
       "verse": 21,
       "latin_vulgate": " Ne recedant ab oculis tuis :  custodi ea in medio cordis tui : ",
       "hebrew_masoretic": "אַל־יַלִּ֥יזוּ מֵעֵינֶ֑יךָ שׇׁ֝מְרֵ֗ם בְּת֣וֹךְ לְבָבֶֽךָ׃",
+      "douay_rheims": "Let them not depart from thy eyes, keep them in the midst of thy heart:",
+      "finnish_biblia": "Älä niiden anna tulla pois silmistäs: pidä ne sydämessäs. ",
       "king_james": "Let them not depart from thine eyes; keep them in the midst of thine heart."
     },
     {
       "verse": 22,
       "latin_vulgate": " vita enim sunt invenientibus ea,  et universæ carni sanitas. ",
       "hebrew_masoretic": "כִּֽי־חַיִּ֣ים הֵ֭ם לְמֹצְאֵיהֶ֑ם וּֽלְכׇל־בְּשָׂר֥וֹ מַרְפֵּֽא׃",
+      "douay_rheims": "For they are life to those that find them, and health to all flesh.",
+      "finnish_biblia": "Sillä ne ovat niiden elämä, jotka niitä ovat löytäneet, ja ovat terveelliset koko heidän ruumiillensa. ",
       "king_james": "For they are life unto those that find them, and health to all their flesh."
     },
     {
       "verse": 23,
       "latin_vulgate": " Omni custodia serva cor tuum,  quia ex ipso vita procedit. ",
       "hebrew_masoretic": "מִֽכׇּל־מִ֭שְׁמָר נְצֹ֣ר לִבֶּ֑ךָ כִּֽי־מִ֝מֶּ֗נּוּ תּוֹצְא֥וֹת חַיִּֽים׃",
+      "douay_rheims": "With all watchfulness keep thy heart, because life issueth out from it.",
+      "finnish_biblia": "Varjele sydämes kaikella ahkeruudella: sillä siitä elämä tulee. ",
       "king_james": "Keep thy heart with all diligence; for out of it are the issues of life."
     },
     {
       "verse": 24,
       "latin_vulgate": " Remove a te os pravum,  et detrahentia labia sint procul a te. ",
       "hebrew_masoretic": "הָסֵ֣ר מִ֭מְּךָ עִקְּשׁ֣וּת פֶּ֑ה וּלְז֥וּת שְׂ֝פָתַ֗יִם הַרְחֵ֥ק מִמֶּֽךָּ׃",
+      "douay_rheims": "Remove from thee a froward mouth, and let detracting lips be far from thee.",
+      "finnish_biblia": "Pane pois paha suu, ja väärät huulet anna olla sinustas kaukana. ",
       "king_james": "Put away from thee a froward mouth, and perverse lips put far from thee."
     },
     {
       "verse": 25,
       "latin_vulgate": " Oculi tui recta videant,  et palpebræ tuæ præcedant gressus tuos. ",
       "hebrew_masoretic": "עֵ֭ינֶיךָ לְנֹ֣כַח יַבִּ֑יטוּ וְ֝עַפְעַפֶּ֗יךָ יַיְשִׁ֥רוּ נֶגְדֶּֽךָ׃",
+      "douay_rheims": "Let thy eyes look straight on, and let thy eyelids go before thy steps.",
+      "finnish_biblia": "Katsokoon silmäs oikein eteensä, ja sinun silmäs laudat olkoot oikiat edessäs. ",
       "king_james": "Let thine eyes look right on, and let thine eyelids look straight before thee."
     },
     {
       "verse": 26,
       "latin_vulgate": " Dirige semitam pedibus tuis,  et omnes viæ tuæ stabilientur. ",
       "hebrew_masoretic": "פַּ֭לֵּס מַעְגַּ֣ל רַגְלֶ֑ךָ וְֽכׇל־דְּרָכֶ֥יךָ יִכֹּֽנוּ׃",
+      "douay_rheims": "Make straight the path for thy feet, and all thy ways shall be established.",
+      "finnish_biblia": "Koettele jalkais askeleet, niin kaikki sinun ties vahvistuvat. ",
       "king_james": "Ponder the path of thy feet, and let all thy ways be established."
     },
     {
       "verse": 27,
       "latin_vulgate": " Ne declines ad dexteram neque ad sinistram ;  averte pedem tuum a malo :  vias enim quæ a dextris sunt novit Dominus :  perversæ vero sunt quæ a sinistris sunt.  Ipse autem rectos faciet cursus tuos,  itinera autem tua in pace producet.  ",
       "hebrew_masoretic": "אַֽל־תֵּט־יָמִ֥ין וּשְׂמֹ֑אול הָסֵ֖ר רַגְלְךָ֣ מֵרָֽע׃ {פ}",
+      "douay_rheims": "Decline not to the right hand, nor to the left: turn away thy foot from evil. For the Lord knoweth the ways that are on the right hand: but those are perverse which are on the left hand. But he will make thy courses straight, he will bring forward thy ways in peace. ",
+      "finnish_biblia": "Älä poikkee oikialle eli vasemmalle puolelle: tempaa jalkas pois pahuudesta.   ",
       "king_james": "Turn not to the right hand nor to the left: remove thy foot from evil. "
     }
   ]

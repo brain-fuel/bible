@@ -2,6 +2,8 @@
   "book_id": "PRO",
   "latin_name": "Liber Proverbiorum",
   "hebrew_name": "מִשְׁלֵי",
+  "douay_name": "Proverbs",
+  "finnish_name": "Sananlaskut",
   "english_name": "Proverbs",
   "chapter": 9,
   "verses": [
@@ -9,108 +11,144 @@
       "verse": 1,
       "latin_vulgate": "Sapientia ædificavit sibi domum :  excidit columnas septem. ",
       "hebrew_masoretic": "חׇ֭כְמוֹת בָּנְתָ֣ה בֵיתָ֑הּ חָצְבָ֖ה עַמּוּדֶ֣יהָ שִׁבְעָֽה׃",
+      "douay_rheims": "Wisdom hath built herself a house, she hath hewn her out seven pillars.",
+      "finnish_biblia": "Viisaus rakensi huoneensa, ja vuoli siihen seitsemän patsasta, ",
       "king_james": "Wisdom hath builded her house, she hath hewn out her seven pillars:"
     },
     {
       "verse": 2,
       "latin_vulgate": " Immolavit victimas suas, miscuit vinum,  et proposuit mensam suam. ",
       "hebrew_masoretic": "טָבְחָ֣ה טִ֭בְחָהּ מָסְכָ֣ה יֵינָ֑הּ אַ֝֗ף עָרְכָ֥ה שֻׁלְחָנָֽהּ׃",
+      "douay_rheims": "She hath slain her victims, mingled her wine, and set forth her table.",
+      "finnish_biblia": "Ja teurasti teuraansa, sekoitti viinansa ja valmisti pöytänsä, ",
       "king_james": "She hath killed her beasts; she hath mingled her wine; she hath also furnished her table."
     },
     {
       "verse": 3,
       "latin_vulgate": " Misit ancillas suas ut vocarent  ad arcem et ad mœnia civitatis. ",
       "hebrew_masoretic": "שָׁלְחָ֣ה נַעֲרֹתֶ֣יהָ תִקְרָ֑א עַל־גַּ֝פֵּ֗י מְרֹ֣מֵי קָֽרֶת׃",
+      "douay_rheims": "She hath sent her maids to invite to the tower, and to the walls of the city:",
+      "finnish_biblia": "Ja lähetti piikansa, korkeista kaupungin saleista kutsumaan: ",
       "king_james": "She hath sent forth her maidens: she crieth upon the highest places of the city,"
     },
     {
       "verse": 4,
       "latin_vulgate": " Si quis est parvulus, veniat ad me.  Et insipientibus locuta est : ",
       "hebrew_masoretic": "מִֽי־פֶ֭תִי יָסֻ֣ר הֵ֑נָּה חֲסַר־לֵ֝֗ב אָ֣מְרָה לּֽוֹ׃",
+      "douay_rheims": "Whosoever is a little one, let him come to me. And to the unwise she said:",
+      "finnish_biblia": "Joka tyhmä on, hän tulkaan tänne; ja hulluille sanoi hän: ",
       "king_james": "Whoso is simple, let him turn in hither: as for him that wanteth understanding, she saith to him,"
     },
     {
       "verse": 5,
       "latin_vulgate": " Venite, comedite panem meum,  et bibite vinum quod miscui vobis. ",
       "hebrew_masoretic": "לְ֭כוּ לַחֲמ֣וּ בְֽלַחֲמִ֑י וּ֝שְׁת֗וּ בְּיַ֣יִן מָסָֽכְתִּי׃",
+      "douay_rheims": "Come, eat my bread, and drink the wine which I have mingled for you.",
+      "finnish_biblia": "Tulkaat ja syökäät minun leivästäni, ja juokaat viinaa, jonka minä sekoitin. ",
       "king_james": "Come, eat of my bread, and drink of the wine which I have mingled."
     },
     {
       "verse": 6,
       "latin_vulgate": " Relinquite infantiam, et vivite,  et ambulate per vias prudentiæ. ",
       "hebrew_masoretic": "עִזְב֣וּ פְתָאיִ֣ם וִֽחְי֑וּ וְ֝אִשְׁר֗וּ בְּדֶ֣רֶךְ בִּינָֽה׃",
+      "douay_rheims": "Forsake childishness, and live, and walk by the ways of prudence.",
+      "finnish_biblia": "Hyljätkää hullu meno, niin te saatte elää, ja käykää ymmärryksen tiellä. ",
       "king_james": "Forsake the foolish, and live; and go in the way of understanding."
     },
     {
       "verse": 7,
       "latin_vulgate": " Qui erudit derisorem, ipse injuriam sibi facit,  et qui arguit impium, sibi maculam generat. ",
       "hebrew_masoretic": "יֹ֤סֵ֨ר ׀ לֵ֗ץ לֹקֵ֣חַֽ ל֣וֹ קָל֑וֹן וּמוֹכִ֖יחַ לְרָשָׁ֣ע מוּמֽוֹ׃",
+      "douay_rheims": "He that teacheth a scorner, doth an injury to himself; and he that rebuketh a wicked man, getteth himself a blot.",
+      "finnish_biblia": "Joka pilkkaajaa kurittaa, hän saa häpiän, ja joka jumalatointa nuhtelee, hän häväistään. ",
       "king_james": "He that reproveth a scorner getteth to himself shame: and he that rebuketh a wicked man getteth himself a blot."
     },
     {
       "verse": 8,
       "latin_vulgate": " Noli arguere derisorem, ne oderit te :  argue sapientem, et diliget te. ",
       "hebrew_masoretic": "אַל־תּ֣וֹכַח לֵ֭ץ פֶּן־יִשְׂנָאֶ֑ךָּ הוֹכַ֥ח לְ֝חָכָ֗ם וְיֶאֱהָבֶֽךָּ׃",
+      "douay_rheims": "Rebuke not a scorner, lest he hate thee. Rebuke a wise man, and he will love thee.",
+      "finnish_biblia": "Älä rankaise pilkkaajaa, ettei hän sinua vihaisi: nuhtele viisasta, ja hän rakastaa sinua. ",
       "king_james": "Reprove not a scorner, lest he hate thee: rebuke a wise man, and he will love thee."
     },
     {
       "verse": 9,
       "latin_vulgate": " Da sapienti occasionem, et addetur ei sapientia ;  doce justum, et festinabit accipere. ",
       "hebrew_masoretic": "תֵּ֣ן לְ֭חָכָם וְיֶחְכַּם־ע֑וֹד הוֹדַ֥ע לְ֝צַדִּ֗יק וְי֣וֹסֶף לֶֽקַח׃",
+      "douay_rheims": "Give an occasion to a wise man, and wisdom shall be added to him. Teach a just man, and he shall make haste to receive it.",
+      "finnish_biblia": "Anna viisaalle, niin hän viisaammaksi tulee: opeta vanhurskasta, niin hän opissaan etenee. ",
       "king_james": "Give instruction to a wise man, and he will be yet wiser: teach a just man, and he will increase in learning."
     },
     {
       "verse": 10,
       "latin_vulgate": " Principium sapientiæ timor Domini,  et scientia sanctorum prudentia. ",
       "hebrew_masoretic": "תְּחִלַּ֣ת חׇ֭כְמָה יִרְאַ֣ת יְהֹוָ֑ה וְדַ֖עַת קְדֹשִׁ֣ים בִּינָֽה׃",
+      "douay_rheims": "The fear of the Lord is the beginning of wisdom: and the knowledge of the holy is prudence.",
+      "finnish_biblia": "Viisauden alku on Herran pelko, ja pyhäin tieto on ymmärrys. ",
       "king_james": "The fear of the Lord is the beginning of wisdom: and the knowledge of the holy is understanding."
     },
     {
       "verse": 11,
       "latin_vulgate": " Per me enim multiplicabuntur dies tui,  et addentur tibi anni vitæ. ",
       "hebrew_masoretic": "כִּי־בִ֭י יִרְבּ֣וּ יָמֶ֑יךָ וְיוֹסִ֥יפוּ לְּ֝ךָ֗ שְׁנ֣וֹת חַיִּֽים׃",
+      "douay_rheims": "For by me shall thy days be multiplied, and years of life shall be added to thee.",
+      "finnish_biblia": "Sillä minun kauttani sinun päiväs enennetään, ja ikäs vuodet lisätään. ",
       "king_james": "For by me thy days shall be multiplied, and the years of thy life shall be increased."
     },
     {
       "verse": 12,
       "latin_vulgate": " Si sapiens fueris, tibimetipsi eris ;  si autem illusor, solus portabis malum. ",
       "hebrew_masoretic": "אִם־חָ֭כַמְתָּ חָכַ֣מְתָּ לָּ֑ךְ וְ֝לַ֗צְתָּ לְֽבַדְּךָ֥ תִשָּֽׂא׃",
+      "douay_rheims": "If thou be wise, thou shalt be so to thyself: and if a scorner, thou alone shalt bear the evil.",
+      "finnish_biblia": "Jos sinä olet viisas, niin sinä itselles viisas olet; mutta jos sinä olet pilkkaaja, niin sinä itse sen kannat. ",
       "king_james": "If thou be wise, thou shalt be wise for thyself: but if thou scornest, thou alone shalt bear it."
     },
     {
       "verse": 13,
       "latin_vulgate": " Mulier stulta et clamosa,  plenaque illecebris, et nihil omnino sciens, ",
       "hebrew_masoretic": "אֵ֣שֶׁת כְּ֭סִילוּת הֹמִיָּ֑ה פְּ֝תַיּ֗וּת וּבַל־יָ֥דְעָה מָּֽה׃",
+      "douay_rheims": "A foolish woman and clamorous, and full of allurements, and knowing nothing at all,",
+      "finnish_biblia": "Hullu, huikentelevainen vaimo, mieletöin ei tiedä mitään, ",
       "king_james": "A foolish woman is clamorous: she is simple, and knoweth nothing."
     },
     {
       "verse": 14,
       "latin_vulgate": " sedit in foribus domus suæ,  super sellam in excelso urbis loco, ",
       "hebrew_masoretic": "וְֽ֭יָשְׁבָה לְפֶ֣תַח בֵּיתָ֑הּ עַל־כִּ֝סֵּ֗א מְרֹ֣מֵי קָֽרֶת׃",
+      "douay_rheims": "Sat at the door of her house, upon a seat, in a high place of the city,",
+      "finnish_biblia": "Istuu huoneensa ovella, korkialla istuimella, ylimmäisessä siassa kaupungissa, ",
       "king_james": "For she sitteth at the door of her house, on a seat in the high places of the city,"
     },
     {
       "verse": 15,
       "latin_vulgate": " ut vocaret transeuntes per viam,  et pergentes itinere suo : ",
       "hebrew_masoretic": "לִקְרֹ֥א לְעֹֽבְרֵי־דָ֑רֶךְ הַֽ֝מְיַשְּׁרִ֗ים אֹֽרְחוֹתָֽם׃",
+      "douay_rheims": "To call them that pass by the way, and go on their journey:",
+      "finnish_biblia": "Että hän houkuttelis kaikkia, jotka siitä käyvät ohitse, ja tietänsä vaeltavat: ",
       "king_james": "To call passengers who go right on their ways:"
     },
     {
       "verse": 16,
       "latin_vulgate": " Qui est parvulus declinet ad me.  Et vecordi locuta est : ",
       "hebrew_masoretic": "מִֽי־פֶ֭תִי יָסֻ֣ר הֵ֑נָּה וַחֲסַר־לֵ֝֗ב וְאָ֣מְרָה לּֽוֹ׃",
+      "douay_rheims": "He that is a little one, let him turn to me. And to the fool she said:",
+      "finnish_biblia": "Se joka tyhmä on, hän tulkoon tänne; ja hullulle sanoo hän: ",
       "king_james": "Whoso is simple, let him turn in hither: and as for him that wanteth understanding, she saith to him,"
     },
     {
       "verse": 17,
       "latin_vulgate": " Aquæ furtivæ dulciores sunt,  et panis absconditus suavior. ",
       "hebrew_masoretic": "מַֽיִם־גְּנוּבִ֥ים יִמְתָּ֑קוּ וְלֶ֖חֶם סְתָרִ֣ים יִנְעָֽם׃",
+      "douay_rheims": "Stolen waters are sweeter, and hidden bread is more pleasant.",
+      "finnish_biblia": "Varastettu vesi on makia, ja salattu leipä suloinen; ",
       "king_james": "Stolen waters are sweet, and bread eaten in secret is pleasant."
     },
     {
       "verse": 18,
       "latin_vulgate": " Et ignoravit quod ibi sint gigantes,  et in profundis inferni convivæ ejus.  ",
       "hebrew_masoretic": "וְֽלֹא־יָ֭דַע כִּֽי־רְפָאִ֣ים שָׁ֑ם בְּעִמְקֵ֖י שְׁא֣וֹל קְרֻאֶֽיהָ׃ {פ}",
+      "douay_rheims": "And he did not know that giants are there, and that her guests are in the depths of hell. ",
+      "finnish_biblia": "Vaan ei hän tiedä, että siellä kuolleet ovat: hänen vieraansa ovat helvetin syvyydessä.   ",
       "king_james": "But he knoweth not that the dead are there; and that her guests are in the depths of hell. "
     }
   ]

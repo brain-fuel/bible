@@ -2,6 +2,8 @@
   "book_id": "EZE",
   "latin_name": "Ezechiel",
   "hebrew_name": "יְחֶזְקֵאל",
+  "douay_name": "Ezechiel",
+  "finnish_name": "Hesekiel",
   "english_name": "Ezekiel",
   "chapter": 38,
   "verses": [
@@ -9,138 +11,184 @@
       "verse": 1,
       "latin_vulgate": "Et factus est sermo Domini ad me, dicens : ",
       "hebrew_masoretic": "וַיְהִ֥י דְבַר־יְהֹוָ֖ה אֵלַ֥י לֵאמֹֽר׃",
+      "douay_rheims": "And the word of the Lord came to me, saying:",
+      "finnish_biblia": "Ja Herran sana tapahtui minulle ja sanoi: ",
       "king_james": "And the word of the Lord came unto me, saying,"
     },
     {
       "verse": 2,
       "latin_vulgate": "Fili hominis, pone faciem tuam contra Gog, terram Magog, principem capitis Mosoch et Thubal, et vaticinare de eo. ",
       "hebrew_masoretic": "בֶּן־אָדָ֗ם שִׂ֤ים פָּנֶ֙יךָ֙ אֶל־גּוֹג֙ אֶ֣רֶץ הַמָּג֔וֹג נְשִׂ֕יא רֹ֖אשׁ מֶ֣שֶׁךְ וְתֻבָ֑ל וְהִנָּבֵ֖א עָלָֽיו׃",
+      "douay_rheims": "Son of man, set thy face against Gog, the land of Magog, the chief prince of Mosoch and Thubal: and prophesy of him,",
+      "finnish_biblia": "Sinä, ihmisen poika, käännä itses Gogia vastaan, joka on Magogin maalla, ja on ylimmäinen Mesekin ja Tubalin päämies, ja ennusta hänestä, ",
       "king_james": "Son of man, set thy face against Gog, the land of Magog, the chief prince of Meshech and Tubal, and prophesy against him,"
     },
     {
       "verse": 3,
       "latin_vulgate": "Et dices ad eum :   Hæc dicit Dominus Deus :  Ecce ego ad te, Gog, principem capitis Mosoch et Thubal. ",
       "hebrew_masoretic": "וְאָ֣מַרְתָּ֔ כֹּ֥ה אָמַ֖ר אֲדֹנָ֣י יֱהֹוִ֑ה הִנְנִ֤י אֵלֶ֙יךָ֙ גּ֔וֹג נְשִׂ֕יא רֹ֖אשׁ מֶ֥שֶׁךְ וְתֻבָֽל׃",
+      "douay_rheims": "And say to him: Thus saith the Lord God: Behold, I come against thee, O Gog, the chief prince of Mosoch and Thubal.",
+      "finnish_biblia": "Ja sano: näin sanoo Herra, Herra: katso, minä tulen kimppuus, sinä Gog, joka olet ylimmäinen Mesekin ja Tubalin päämies. ",
       "king_james": "And say, Thus saith the Lord God; Behold, I am against thee, O Gog, the chief prince of Meshech and Tubal:"
     },
     {
       "verse": 4,
       "latin_vulgate": " Et circumagam te, et ponam frenum in maxillis tuis :  et educam te, et omnem exercitum tuum,  equos et equites vestitos loricis universos,  multitudinem magnam, hastam et clypeum arripientium et gladium. ",
       "hebrew_masoretic": "וְשׁ֣וֹבַבְתִּ֔יךָ וְנָתַתִּ֥י חַחִ֖ים בִּלְחָיֶ֑יךָ וְהוֹצֵאתִי֩ אוֹתְךָ֨ וְאֶת־כׇּל־חֵילֶ֜ךָ סוּסִ֣ים וּפָרָשִׁ֗ים לְבֻשֵׁ֤י מִכְלוֹל֙ כֻּלָּ֔ם קָהָ֥ל רָב֙ צִנָּ֣ה וּמָגֵ֔ן תֹּפְשֵׂ֥י חֲרָב֖וֹת כֻּלָּֽם׃",
+      "douay_rheims": "And I will turn thee about, and I will put a bit in thy jaws: and I will bring thee forth, and all thy army, horses and horsemen all clothed with coats of mail, a great multitude, armed with spears and shields and swords.",
+      "finnish_biblia": "Ja palautan sinun, ja panen suitset sinun suuhus ja vien sinun ulos kaiken sinun joukkos, hevostes ja ratsasmiestes kanssa, jotka kaikki ovat jalosti valmistetut, joita on suuri joukko, ja kantavat kaikki keihäitä, kilpiä ja miekkoja. ",
       "king_james": "And I will turn thee back, and put hooks into thy jaws, and I will bring thee forth, and all thine army, horses and horsemen, all of them clothed with all sorts of armour, even a great company with bucklers and shields, all of them handling swords:"
     },
     {
       "verse": 5,
       "latin_vulgate": " Persæ, Æthiopes, et Libyes cum eis,  omnes scutati et galeati. ",
       "hebrew_masoretic": "פָּרַ֛ס כּ֥וּשׁ וּפ֖וּט אִתָּ֑ם כֻּלָּ֖ם מָגֵ֥ן וְכוֹבָֽע׃",
+      "douay_rheims": "The Persians, Ethiopians, and Libyans with them, all with shields and helmets.",
+      "finnish_biblia": "Sinun myötäs ovat Persialaiset, Etiopialaiset ja Putilaiset, jotka kaikki kantavat kilpiä ja rautalakkeja; ",
       "king_james": "Persia, Ethiopia, and Libya with them; all of them with shield and helmet:"
     },
     {
       "verse": 6,
       "latin_vulgate": " Gomer et universa agmina ejus,  domus Thogorma, latera aquilonis,  et totum robur ejus, populique multi tecum. ",
       "hebrew_masoretic": "גֹּ֚מֶר וְכׇל־אֲגַפֶּ֔יהָ בֵּ֚ית תּֽוֹגַרְמָ֔ה יַרְכְּתֵ֥י צָפ֖וֹן וְאֶת־כׇּל־אֲגַפָּ֑יו עַמִּ֥ים רַבִּ֖ים אִתָּֽךְ׃",
+      "douay_rheims": "Gomer, and all his bands, the house of Thogorma, the northern parts and all his strength, and many peoples with thee.",
+      "finnish_biblia": "Gomer ja kaikki hänen joukkonsa, ja myös Togarman huone, joka pohjaan päin on, kaiken hänen joukkonsa kanssa; ja sinun myötäs on paljo kansaa. ",
       "king_james": "Gomer, and all his bands; the house of Togarmah of the north quarters, and all his bands: and many people with thee."
     },
     {
       "verse": 7,
       "latin_vulgate": " Præpara et instrue te,  et omnem multitudinem tuam quæ coacervata est ad te :  et esto eis in præceptum. ",
       "hebrew_masoretic": "הִכֹּן֙ וְהָכֵ֣ן לְךָ֔ אַתָּ֕ה וְכׇל־קְהָלֶ֖ךָ הַנִּקְהָלִ֣ים עָלֶ֑יךָ וְהָיִ֥יתָ לָהֶ֖ם לְמִשְׁמָֽר׃",
+      "douay_rheims": "Prepare and make thyself ready, and all thy multitude that is assembled about thee, and be thou commander over them.",
+      "finnish_biblia": "Valmista itses, varusta itses hyvin, sinä ja kaikki sinun joukkos, joka sinun myötäs on: ja ole sinä heidän päämiehensä; ",
       "king_james": "Be thou prepared, and prepare for thyself, thou, and all thy company that are assembled unto thee, and be thou a guard unto them."
     },
     {
       "verse": 8,
       "latin_vulgate": " Post dies multos visitaberis :  in novissimo annorum venies ad terram quæ reversa est a gladio,  et congregata est de populis multis ad montes Israël,  qui fuerunt deserti jugiter :  hæc de populis educta est,  et habitabunt in ea confidenter universi. ",
       "hebrew_masoretic": "מִיָּמִ֣ים רַבִּים֮ תִּפָּקֵד֒ בְּאַחֲרִ֨ית הַשָּׁנִ֜ים תָּב֣וֹא ׀ אֶל־אֶ֣רֶץ ׀ מְשׁוֹבֶ֣בֶת מֵחֶ֗רֶב מְקֻבֶּ֙צֶת֙ מֵעַמִּ֣ים רַבִּ֔ים עַ֚ל הָרֵ֣י יִשְׂרָאֵ֔ל אֲשֶׁר־הָי֥וּ לְחׇרְבָּ֖ה תָּמִ֑יד וְהִיא֙ מֵעַמִּ֣ים הוּצָ֔אָה וְיָשְׁב֥וּ לָבֶ֖טַח כֻּלָּֽם׃",
+      "douay_rheims": "After many days thou shalt be visited: at the end of years thou shalt come to the land that is returned from the sword, and is gathered out of many nations, to the mountains of Israel which have been continually waste: but it hath been brought forth out of the nations, and they shall all of them dwell securely in it.",
+      "finnish_biblia": "Sinun pitää kuitenkin viimein rangaistuksi tuleman. Viimeisellä ajalla pitää sinun tuleman siihen maahan, joka on jälleen saatu miekalla, on myös koottu monesta kansasta, Israelin vuorelle, joka kauvan aikaa on autiona ollut; ja on nyt monesta kansasta johdatettu ulos, ja kaikki surutoinna asuvat. ",
       "king_james": "After many days thou shalt be visited: in the latter years thou shalt come into the land that is brought back from the sword, and is gathered out of many people, against the mountains of Israel, which have been always waste: but it is brought forth out of the nations, and they shall dwell safely all of them."
     },
     {
       "verse": 9,
       "latin_vulgate": " Ascendens autem quasi tempestas venies,  et quasi nubes, ut operias terram :  tu et omnia agmina tua,  et populi multi tecum. ",
       "hebrew_masoretic": "וְעָלִ֙יתָ֙ כַּשֹּׁאָ֣ה תָב֔וֹא כֶּעָנָ֛ן לְכַסּ֥וֹת הָאָ֖רֶץ תִּֽהְיֶ֑ה אַתָּה֙ וְכׇל־אֲגַפֶּ֔יךָ וְעַמִּ֥ים רַבִּ֖ים אוֹתָֽךְ׃ {ס}",
+      "douay_rheims": "And thou shalt go up and come like a storm, and like a cloud to cover the land, thou and all thy bands and many people with thee.",
+      "finnish_biblia": "Sinun pitää menemän ylös ja tuleman suurella raju-ilmalla, ja sinun pitää oleman niinkuin pilvi, joka maan peittää; sinä ja sinun joukkos, ja kansan paljous sinun kanssas. ",
       "king_james": "Thou shalt ascend and come like a storm, thou shalt be like a cloud to cover the land, thou, and all thy bands, and many people with thee."
     },
     {
       "verse": 10,
       "latin_vulgate": " Hæc dicit Dominus Deus :  In die illa, ascendent sermones super cor tuum,  et cogitabis cogitationem pessimam : ",
       "hebrew_masoretic": "כֹּ֥ה אָמַ֖ר אֲדֹנָ֣י יֱהֹוִ֑ה וְהָיָ֣ה ׀ בַּיּ֣וֹם הַה֗וּא יַעֲל֤וּ דְבָרִים֙ עַל־לְבָבֶ֔ךָ וְחָשַׁבְתָּ֖ מַחֲשֶׁ֥בֶת רָעָֽה׃",
+      "douay_rheims": "Thus saith the Lord God: In that day projects shall enter into thy heart, and thou shalt conceive a mischievous design.",
+      "finnish_biblia": "Näin sanoo Herra, Herra: siihen aikaan pitää sinun senkaltaisia aikoman sinun mielessäs, ja pitää pahoja juonia ajatteleman; ",
       "king_james": "Thus saith the Lord God; It shall also come to pass, that at the same time shall things come into thy mind, and thou shalt think an evil thought:"
     },
     {
       "verse": 11,
       "latin_vulgate": " et dices : Ascendam ad terram absque muro :  veniam ad quiescentes habitantesque secure :  hi omnes habitant sine muro ;  vectes et portæ non sunt eis : ",
       "hebrew_masoretic": "וְאָמַרְתָּ֗ אֶֽעֱלֶה֙ עַל־אֶ֣רֶץ פְּרָז֔וֹת אָבוֹא֙ הַשֹּׁ֣קְטִ֔ים יֹשְׁבֵ֖י לָבֶ֑טַח כֻּלָּ֗ם יֹֽשְׁבִים֙ בְּאֵ֣ין חוֹמָ֔ה וּבְרִ֥יחַ וּדְלָתַ֖יִם אֵ֥ין לָהֶֽם׃",
+      "douay_rheims": "And thou shalt say: I will go up to the land which is without a wall, I will come to them that are at rest, and dwell securely: all these dwell without a wall, they have no bars nor gates:",
+      "finnish_biblia": "Sinun pitää sanoman: minä tahdon hyökätä maakyliin, ja menen heidän päällensä, jotka surutoinna ja murheetoinna asuvat; nämät kaikki asuvat ilman muuria, joilla ei telkiä eikä porttia ole, ",
       "king_james": "And thou shalt say, I will go up to the land of unwalled villages; I will go to them that are at rest, that dwell safely, all of them dwelling without walls, and having neither bars nor gates,"
     },
     {
       "verse": 12,
       "latin_vulgate": " ut diripias spolia, et invadas prædam ;  ut inferas manum tuam super eos qui deserti fuerant, et postea restituti,  et super populum qui est congregatus ex gentibus,  qui possidere cœpit et esse habitator umbilici terræ. ",
       "hebrew_masoretic": "לִשְׁלֹ֥ל שָׁלָ֖ל וְלָבֹ֣ז בַּ֑ז לְהָשִׁ֨יב יָדְךָ֜ עַל־חֳרָב֣וֹת נוֹשָׁב֗וֹת וְאֶל־עַם֙ מְאֻסָּ֣ף מִגּוֹיִ֔ם עֹשֶׂה֙ מִקְנֶ֣ה וְקִנְיָ֔ן יֹשְׁבֵ֖י עַל־טַבּ֥וּר הָאָֽרֶץ׃",
+      "douay_rheims": "To take spoils, and lay hold on the prey, to lay thy hand upon them that had been wasted, and afterwards restored, and upon the people that is gathered together out of the nations, which hath begun to possess and to dwell in the midst of the earth.",
+      "finnish_biblia": "Ettäs kovin ryöstäisit ja julmasti raatelisit, ja antaisit kätes käydä hävitettyjä vastaan, jotka palaneet ovat, ja sitä kansaa vastaan, joka pakanoista koottu on, jotka karjaa kaitsevat ja kauppaa tekevät, ja asuvat keskellä maata. ",
       "king_james": "To take a spoil, and to take a prey; to turn thine hand upon the desolate places that are now inhabited, and upon the people that are gathered out of the nations, which have gotten cattle and goods, that dwell in the midst of the land."
     },
     {
       "verse": 13,
       "latin_vulgate": " Saba, et Dedan, et negotiatores Tharsis,  et omnes leones ejus, dicent tibi :  Numquid ad sumenda spolia tu venis ?  ecce ad diripiendam prædam congregasti multitudinem tuam,  ut tollas argentum et aurum,  et auferas supellectilem atque substantiam,  et diripias manubias infinitas. ",
       "hebrew_masoretic": "שְׁבָ֡א וּ֠דְדָ֠ן וְסֹחֲרֵ֨י תַרְשִׁ֤ישׁ וְכׇל־כְּפִירֶ֙יהָ֙ יֹאמְר֣וּ לְךָ֔ הֲלִשְׁלֹ֤ל שָׁלָל֙ אַתָּ֣ה בָ֔א הֲלָבֹ֥ז בַּ֖ז הִקְהַ֣לְתָּ קְהָלֶ֑ךָ לָשֵׂ֣את ׀ כֶּ֣סֶף וְזָהָ֗ב לָקַ֙חַת֙ מִקְנֶ֣ה וְקִנְיָ֔ן לִשְׁלֹ֖ל שָׁלָ֥ל גָּדֽוֹל׃ {ס}",
+      "douay_rheims": "Saba, and Dedan, and the merchants of Tharsis, and all the lions thereof shall say to thee: Art thou come to take spoils? behold, thou hast gathered thy multitude to take a prey, to take silver, and gold, and to carry away goods and substance, and to take rich spoils.",
+      "finnish_biblia": "Rikas Arabia, Dedan, ja meren kauppamiehet, ja kaikki voimalliset, jotka siellä ovat, pitää sinun sanoman: oletkos ollenkin tullut ryöstämään, ja koonnut joukkos perin raatelemaan, ottaakses pois hopian ja kullan ja kootakses karjaa ja tavaraa, ja suurta saalista saadakses? ",
       "king_james": "Sheba, and Dedan, and the merchants of Tarshish, with all the young lions thereof, shall say unto thee, Art thou come to take a spoil? hast thou gathered thy company to take a prey? to carry away silver and gold, to take away cattle and goods, to take a great spoil?"
     },
     {
       "verse": 14,
       "latin_vulgate": " Propterea vaticinare, fili hominis, et dices ad Gog :  Hæc dicit Dominus Deus :  Numquid non in die illo,  cum habitaverit populus meus Israël confidenter,  scies ? ",
       "hebrew_masoretic": "לָכֵן֙ הִנָּבֵ֣א בֶן־אָדָ֔ם וְאָמַרְתָּ֣ לְג֔וֹג כֹּ֥ה אָמַ֖ר אֲדֹנָ֣י יֱהֹוִ֑ה הֲל֣וֹא ׀ בַּיּ֣וֹם הַה֗וּא בְּשֶׁ֨בֶת עַמִּ֧י יִשְׂרָאֵ֛ל לָבֶ֖טַח תֵּדָֽע׃",
+      "douay_rheims": "Therefore, thou son of man, prophesy and say to Gog: Thus saith the Lord God: Shalt thou not know, in that day, when my people of Israel shall dwell securely?",
+      "finnish_biblia": "Sentähden ennusta sinä, ihmisen poika, ja sano Gogille: näin sanoo Herra, Herra: etkös ymmärrä, koska minun kansani Israel asuu suruttomasti, ",
       "king_james": "Therefore, son of man, prophesy and say unto Gog, Thus saith the Lord God; In that day when my people of Israel dwelleth safely, shalt thou not know it?"
     },
     {
       "verse": 15,
       "latin_vulgate": " Et venies de loco tuo a lateribus aquilonis,  tu et populi multi tecum,  ascensores equorum universi :  cœtus magnus, et exercitus vehemens. ",
       "hebrew_masoretic": "וּבָ֤אתָ מִמְּקֽוֹמְךָ֙ מִיַּרְכְּתֵ֣י צָפ֔וֹן אַתָּ֕ה וְעַמִּ֥ים רַבִּ֖ים אִתָּ֑ךְ רֹכְבֵ֤י סוּסִים֙ כֻּלָּ֔ם קָהָ֥ל גָּד֖וֹל וְחַ֥יִל רָֽב׃",
+      "douay_rheims": "And thou shalt come out of thy place from the northern parts, thou and many people with thee, all of them riding upon horses, a great company and a mighty army.",
+      "finnish_biblia": "Niin sinä tulet silloin paikastas, pohjan ääristä, sinä ja paljo kansaa kanssas, kaikki hevosilla, suuri ja väkevä sotajoukko? ",
       "king_james": "And thou shalt come from thy place out of the north parts, thou, and many people with thee, all of them riding upon horses, a great company, and a mighty army:"
     },
     {
       "verse": 16,
       "latin_vulgate": " Et ascendes super populum meum Israël  quasi nubes, ut operias terram.  In novissimis diebus eris,  et adducam te super terram meam :  ut sciant gentes me  cum sanctificatus fuero in te in oculis eorum, o Gog ! ",
       "hebrew_masoretic": "וְעָלִ֙יתָ֙ עַל־עַמִּ֣י יִשְׂרָאֵ֔ל כֶּעָנָ֖ן לְכַסּ֣וֹת הָאָ֑רֶץ בְּאַחֲרִ֨ית הַיָּמִ֜ים תִּהְיֶ֗ה וַהֲבִאוֹתִ֙יךָ֙ עַל־אַרְצִ֔י לְמַ֩עַן֩ דַּ֨עַת הַגּוֹיִ֜ם אֹתִ֗י בְּהִקָּדְשִׁ֥י בְךָ֛ לְעֵינֵיהֶ֖ם גּֽוֹג׃ {ס}",
+      "douay_rheims": "And thou shalt come upon my people of Israel like a cloud, to cover the earth. Thou shalt be in the latter days, and I will bring thee upon my land: that the nations may know me, when I shall be sanctified in thee, O Gog, before their eyes.",
+      "finnish_biblia": "Ja sinun pitää menemän ylös minun kansaani Israelia vastaan, niinkuin pilvi, joka maan peittää. Viimeisellä ajalla pitää sinun oleman, mutta minä tahdon sentähden antaa sinun tulla minun maalleni, että pakanain pitää oppiman minua tuntemaan, koska minä sinussa, Gog, pyhitetyksi tulen heidän silmäinsä edessä. ",
       "king_james": "And thou shalt come up against my people of Israel, as a cloud to cover the land; it shall be in the latter days, and I will bring thee against my land, that the heathen may know me, when I shall be sanctified in thee, O Gog, before their eyes."
     },
     {
       "verse": 17,
       "latin_vulgate": " Hæc dicit Dominus Deus :  Tu ergo ille es, de quo locutus sum in diebus antiquis  in manu servorum meorum prophetarum Israël,  qui prophetaverunt in diebus illorum temporum,  ut adducerem te super eos. ",
       "hebrew_masoretic": "כֹּה־אָמַ֞ר אֲדֹנָ֣י יֱהֹוִ֗ה הַאַתָּה־ה֨וּא אֲשֶׁר־דִּבַּ֜רְתִּי בְּיָמִ֣ים קַדְמוֹנִ֗ים בְּיַד֙ עֲבָדַי֙ נְבִיאֵ֣י יִשְׂרָאֵ֔ל הַֽנִּבְּאִ֛ים בַּיָּמִ֥ים הָהֵ֖ם שָׁנִ֑ים לְהָבִ֥יא אֹתְךָ֖ עֲלֵיהֶֽם׃ {ס}",
+      "douay_rheims": "Thus saith the Lord God: Thou then art he, of whom I have spoken in the days of old, by my servants the prophets of Israel, who prophesied in the days of those times that I would bring thee upon them.",
+      "finnish_biblia": "Näin sanoo Herra, Herra: sinä olet se, josta minä olen muinen sanonut minun palvelijaini Israelin prophetain kautta, jotka siihen aikaan ennustivat, minun tahtovani antaa sinun tulla heidän päällensä. ",
       "king_james": "Thus saith the Lord God; Art thou he of whom I have spoken in old time by my servants the prophets of Israel, which prophesied in those days many years that I would bring thee against them?"
     },
     {
       "verse": 18,
       "latin_vulgate": " Et erit in die illa,  in die adventus Gog super terram Israël,  ait Dominus Deus,  ascendet indignatio mea in furore meo. ",
       "hebrew_masoretic": "וְהָיָ֣ה ׀ בַּיּ֣וֹם הַה֗וּא בְּי֨וֹם בּ֥וֹא גוֹג֙ עַל־אַדְמַ֣ת יִשְׂרָאֵ֔ל נְאֻ֖ם אֲדֹנָ֣י יֱהֹוִ֑ה תַּעֲלֶ֥ה חֲמָתִ֖י בְּאַפִּֽי׃",
+      "douay_rheims": "And it shall come to pass in that day, in the day of the coming of Gog upon the land of Israel, saith the Lord God, that my indignation shall come up in my wrath.",
+      "finnish_biblia": "Ja sen pitää silloin tapahtuman, koska Gog tulee Israelin maata vastaan sanoo Herra, Herra, pitää minun vihani nouseman minun julmuudessani. ",
       "king_james": "And it shall come to pass at the same time when Gog shall come against the land of Israel, saith the Lord God, that my fury shall come up in my face."
     },
     {
       "verse": 19,
       "latin_vulgate": " Et in zelo meo, in igne iræ meæ locutus sum,  quia in die illa erit commotio magna super terram Israël : ",
       "hebrew_masoretic": "וּבְקִנְאָתִ֥י בְאֵשׁ־עֶבְרָתִ֖י דִּבַּ֑רְתִּי אִם־לֹ֣א ׀ בַּיּ֣וֹם הַה֗וּא יִֽהְיֶה֙ רַ֣עַשׁ גָּד֔וֹל עַ֖ל אַדְמַ֥ת יִשְׂרָאֵֽל׃",
+      "douay_rheims": "And I have spoken in my zeal, and in the fire of my anger, that in that day there shall be a great commotion upon the land of Israel:",
+      "finnish_biblia": "Ja minä puhun näitä minun kiivaudessani, ja minun vihani tulessa: että silloin pitää suuren vavistuksen oleman Israelin maalla; ",
       "king_james": "For in my jealousy and in the fire of my wrath have I spoken, Surely in that day there shall be a great shaking in the land of Israel;"
     },
     {
       "verse": 20,
       "latin_vulgate": " et commovebuntur a facie mea pisces maris,  et volucres cæli, et bestiæ agri,  et omne reptile quod movetur super humum,  cunctique homines qui sunt super faciem terræ :  et subvertentur montes, et cadent sepes,  et omnis murus corruet in terram. ",
       "hebrew_masoretic": "וְרָעֲשׁ֣וּ מִפָּנַ֡י דְּגֵ֣י הַיָּם֩ וְע֨וֹף הַשָּׁמַ֜יִם וְחַיַּ֣ת הַשָּׂדֶ֗ה וְכׇל־הָרֶ֙מֶשׂ֙ הָרֹמֵ֣שׂ עַל־הָאֲדָמָ֔ה וְכֹל֙ הָאָדָ֔ם אֲשֶׁ֖ר עַל־פְּנֵ֣י הָאֲדָמָ֑ה וְנֶהֶרְס֣וּ הֶהָרִ֗ים וְנָֽפְלוּ֙ הַמַּדְרֵג֔וֹת וְכׇל־חוֹמָ֖ה לָאָ֥רֶץ תִּפּֽוֹל׃",
+      "douay_rheims": "So that the fishes of the sea, and the birds of the air, and the beasts of the field, and every creeping thing that creepeth upon the ground, and all men that are upon the face of the earth, shall be moved at my presence: and the mountains shall be thrown down, and the hedges shall fall, and every wall shall fall to the ground.",
+      "finnish_biblia": "Että minun kasvoini edessä pitää kalat meressä vapiseman, linnut taivaan alla, eläimet kedolla, ja kaikki, jotka matelevat ja liikkuvat maan päällä, ja kaikki ihmiset, jotka maan päällä ovat, ja vuoret pitää kukistettaman, ja seinät ja kaikki muurit maahan putooman. ",
       "king_james": "So that the fishes of the sea, and the fowls of the heaven, and the beasts of the field, and all creeping things that creep upon the earth, and all the men that are upon the face of the earth, shall shake at my presence, and the mountains shall be thrown down, and the steep places shall fall, and every wall shall fall to the ground."
     },
     {
       "verse": 21,
       "latin_vulgate": " Et convocabo adversus eum in cunctis montibus meis gladium,  ait Dominus Deus :  gladius uniuscujusque in fratrem suum dirigetur. ",
       "hebrew_masoretic": "וְקָרָ֨אתִי עָלָ֤יו לְכׇל־הָרַי֙ חֶ֔רֶב נְאֻ֖ם אֲדֹנָ֣י יֱהֹוִ֑ה חֶ֥רֶב אִ֖ישׁ בְּאָחִ֥יו תִּהְיֶֽה׃",
+      "douay_rheims": "And I will call in the sword against him in all my mountains, saith the Lord God: every man's sword shall be pointed against his brother.",
+      "finnish_biblia": "Mutta minä kutsun miekan häntä vastaan kaikilla minun vuorillani, sanoo Herra, Herra; niin että jokaisen miekan pitää tuleman toinen toistansa vastaan. ",
       "king_james": "And I will call for a sword against him throughout all my mountains, saith the Lord God: every man’s sword shall be against his brother."
     },
     {
       "verse": 22,
       "latin_vulgate": " Et judicabo eum peste, et sanguine,  et imbre vehementi, et lapidibus immensis :  ignem et sulphur pluam super eum,  et super exercitum ejus,  et super populos multos qui sunt cum eo. ",
       "hebrew_masoretic": "וְנִשְׁפַּטְתִּ֥י אִתּ֖וֹ בְּדֶ֣בֶר וּבְדָ֑ם וְגֶ֣שֶׁם שׁוֹטֵף֩ וְאַבְנֵ֨י אֶלְגָּבִ֜ישׁ אֵ֣שׁ וְגׇפְרִ֗ית אַמְטִ֤יר עָלָיו֙ וְעַל־אֲגַפָּ֔יו וְעַל־עַמִּ֥ים רַבִּ֖ים אֲשֶׁ֥ר אִתּֽוֹ׃",
+      "douay_rheims": "And I will judge him with pestilence, and with blood, and with violent rain, and vast hailstones: I will rain fire and brimstone upon him, and upon his army, and upon the many nations that are with him.",
+      "finnish_biblia": "Ja minä tuomitsen hänen rutolla ja verellä; ja annan sataa räntää ja raekiviä, tulta ja tulikiveä hänen ja hänen joukkonsa päälle, ja sen paljon kansan päälle, joka hänen kanssansa on. ",
       "king_james": "And I will plead against him with pestilence and with blood; and I will rain upon him, and upon his bands, and upon the many people that are with him, an overflowing rain, and great hailstones, fire, and brimstone."
     },
     {
       "verse": 23,
       "latin_vulgate": " Et magnificabor, et sanctificabor,  et notus ero in oculis multarum gentium :  et scient quia ego Dominus.  ",
       "hebrew_masoretic": "וְהִתְגַּדִּלְתִּי֙ וְהִתְקַדִּשְׁתִּ֔י וְנ֣וֹדַעְתִּ֔י לְעֵינֵ֖י גּוֹיִ֣ם רַבִּ֑ים וְיָדְע֖וּ כִּֽי־אֲנִ֥י יְהֹוָֽה׃ {ס}",
+      "douay_rheims": "And I will be magnified, and I will be sanctified: and I will be known in the eyes of many nations and they shall know that I am the Lord. ",
+      "finnish_biblia": "Juuri niin pitää minun suureksi, pyhäksi ja tutuksi tuleman monien pakanain edessä, että heidän pitää ymmärtämän minun olevan Herra.   ",
       "king_james": "Thus will I magnify myself, and sanctify myself; and I will be known in the eyes of many nations, and they shall know that I am the Lord. "
     }
   ]

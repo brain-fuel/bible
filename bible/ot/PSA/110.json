@@ -2,6 +2,8 @@
   "book_id": "PSA",
   "latin_name": "Liber Psalmorum",
   "hebrew_name": "תְּהִלִּים",
+  "douay_name": "Psalms",
+  "finnish_name": "Psalmit",
   "english_name": "Psalms",
   "chapter": 110,
   "verses": [
@@ -9,9 +11,14 @@
       "verse": 1,
       "latin_vulgate": "Psalmus David.   Dixit Dominus Domino meo :  Sede a dextris meis,  donec ponam inimicos tuos scabellum pedum tuorum. ",
       "hebrew_masoretic": "לְדָוִ֗ד מִ֫זְמ֥וֹר נְאֻ֤ם יְהֹוָ֨ה ׀ לַֽאדֹנִ֗י שֵׁ֥ב לִֽימִינִ֑י עַד־אָשִׁ֥ית אֹ֝יְבֶ֗יךָ הֲדֹ֣ם לְרַגְלֶֽיךָ׃",
+      "douay_rheims": "A psalm for David. The Lord said to my Lord: Sit thou at my right hand: Until I make thy enemies thy footstool.",
+      "finnish_biblia": "Davidin Psalmi. Herra sanoi minun Herralleni: istu oikialle kädelleni, siihenasti kuin minä panen sinun vihollises sinun jalkais astinlaudaksi. ",
       "king_james": "The Lord said unto my Lord, Sit thou at my right hand, until I make thine enemies thy footstool.",
       "refs": {
         "latin_vulgate": {
+          "src": "109:1"
+        },
+        "douay_rheims": {
           "src": "109:1"
         }
       }
@@ -20,9 +27,14 @@
       "verse": 2,
       "latin_vulgate": " Virgam virtutis tuæ emittet Dominus ex Sion :  dominare in medio inimicorum tuorum. ",
       "hebrew_masoretic": "מַטֵּֽה־עֻזְּךָ֗ יִשְׁלַ֣ח יְ֭הֹוָה מִצִּיּ֑וֹן רְ֝דֵ֗ה בְּקֶ֣רֶב אֹיְבֶֽיךָ׃",
+      "douay_rheims": "The Lord will send forth the sceptre of thy power out of Sion: rule thou in the midst of thy enemies.",
+      "finnish_biblia": "Herra lähettää sinun väkevyytes valtikan Zionista: vallitse vihollistes seassa. ",
       "king_james": "The Lord shall send the rod of thy strength out of Zion: rule thou in the midst of thine enemies.",
       "refs": {
         "latin_vulgate": {
+          "src": "109:2"
+        },
+        "douay_rheims": {
           "src": "109:2"
         }
       }
@@ -31,9 +43,14 @@
       "verse": 3,
       "latin_vulgate": " Tecum principium in die virtutis tuæ  in splendoribus sanctorum :  ex utero, ante luciferum, genui te. ",
       "hebrew_masoretic": "עַמְּךָ֣ נְדָבֹת֮ בְּי֢וֹם חֵ֫ילֶ֥ךָ בְּֽהַדְרֵי־קֹ֭דֶשׁ מֵרֶ֣חֶם מִשְׁחָ֑ר לְ֝ךָ֗ טַ֣ל יַלְדֻתֶֽיךָ׃",
+      "douay_rheims": "With thee is the principality in the day of thy strength: in the brightness of the saints: from the womb before the day star I begot thee.",
+      "finnish_biblia": "Sinun voittos päivänä palvelee sinun kansas sinua mielellänsä pyhissä kaunistuksissa: sinun lapses synnytetään sinulle niinkuin kaste aamuruskosta. ",
       "king_james": "Thy people shall be willing in the day of thy power, in the beauties of holiness from the womb of the morning: thou hast the dew of thy youth.",
       "refs": {
         "latin_vulgate": {
+          "src": "109:3"
+        },
+        "douay_rheims": {
           "src": "109:3"
         }
       }
@@ -42,9 +59,14 @@
       "verse": 4,
       "latin_vulgate": " Juravit Dominus, et non pœnitebit eum :  Tu es sacerdos in æternum  secundum ordinem Melchisedech. ",
       "hebrew_masoretic": "נִשְׁבַּ֤ע יְהֹוָ֨ה ׀ וְלֹ֥א יִנָּחֵ֗ם אַתָּֽה־כֹהֵ֥ן לְעוֹלָ֑ם עַל־דִּ֝בְרָתִ֗י מַלְכִּי־צֶֽדֶק׃",
+      "douay_rheims": "The Lord hath sworn, and he will not repent: Thou art a priest for ever according to the order of Melchisedech.",
+      "finnish_biblia": "Herra on vannonut, ja ei kadu sitä: sinä olet pappi ijankaikkisesti, Melkisedekin säädyn jälkeen. ",
       "king_james": "The Lord hath sworn, and will not repent, Thou art a priest for ever after the order of Melchizedek.",
       "refs": {
         "latin_vulgate": {
+          "src": "109:4"
+        },
+        "douay_rheims": {
           "src": "109:4"
         }
       }
@@ -53,9 +75,14 @@
       "verse": 5,
       "latin_vulgate": " Dominus a dextris tuis ;  confregit in die iræ suæ reges. ",
       "hebrew_masoretic": "אֲדֹנָ֥י עַל־יְמִֽינְךָ֑ מָחַ֖ץ בְּיוֹם־אַפּ֣וֹ מְלָכִֽים׃",
+      "douay_rheims": "The Lord at thy right hand hath broken kings in the day of his wrath.",
+      "finnish_biblia": "Herra on sinun oikialla kädelläs: hän musertaa kuninkaat vihansa päivänä. ",
       "king_james": "The Lord at thy right hand shall strike through kings in the day of his wrath.",
       "refs": {
         "latin_vulgate": {
+          "src": "109:5"
+        },
+        "douay_rheims": {
           "src": "109:5"
         }
       }
@@ -64,9 +91,14 @@
       "verse": 6,
       "latin_vulgate": " Judicabit in nationibus, implebit ruinas ;  conquassabit capita in terra multorum. ",
       "hebrew_masoretic": "יָדִ֣ין בַּ֭גּוֹיִם מָלֵ֣א גְוִיּ֑וֹת מָ֥חַץ רֹ֝֗אשׁ עַל־אֶ֥רֶץ רַבָּֽה׃",
+      "douay_rheims": "He shall judge among nations, he shall fill ruins: he shall crush the heads in the land of many.",
+      "finnish_biblia": "Hän tuomitsee pakanain seassa, hän täyttää maakunnat ruumiilla: hän musertaa monen maakunnan pään. ",
       "king_james": "He shall judge among the heathen, he shall fill the places with the dead bodies; he shall wound the heads over many countries.",
       "refs": {
         "latin_vulgate": {
+          "src": "109:6"
+        },
+        "douay_rheims": {
           "src": "109:6"
         }
       }
@@ -75,9 +107,14 @@
       "verse": 7,
       "latin_vulgate": " De torrente in via bibet ;  propterea exaltabit caput.  ",
       "hebrew_masoretic": "מִ֭נַּחַל בַּדֶּ֣רֶךְ יִשְׁתֶּ֑ה עַל־כֵּ֝֗ן יָרִ֥ים רֹֽאשׁ׃ {פ}",
+      "douay_rheims": "He shall drink of the torrent in the way: therefore shall he lift up the head. ",
+      "finnish_biblia": "Hän juo ojasta tiellä; sen tähden korottaa hän päänsä.   ",
       "king_james": "He shall drink of the brook in the way: therefore shall he lift up the head. ",
       "refs": {
         "latin_vulgate": {
+          "src": "109:7"
+        },
+        "douay_rheims": {
           "src": "109:7"
         }
       }

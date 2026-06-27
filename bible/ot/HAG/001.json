@@ -2,6 +2,8 @@
   "book_id": "HAG",
   "latin_name": "Aggaeus",
   "hebrew_name": "חַגַּי",
+  "douay_name": "Aggeus",
+  "finnish_name": "Haggai",
   "english_name": "Haggai",
   "chapter": 1,
   "verses": [
@@ -9,93 +11,126 @@
       "verse": 1,
       "latin_vulgate": "In anno secundo Darii regis, in mense sexto, in die una mensis, factum est verbum Domini in manu Aggæi prophetæ, ad Zorobabel, filium Salathiel, ducem Juda, et ad Jesum, filium Josedec, sacerdotem magnum, dicens : ",
       "hebrew_masoretic": "בִּשְׁנַ֤ת שְׁתַּ֙יִם֙ לְדָרְיָ֣וֶשׁ הַמֶּ֔לֶךְ בַּחֹ֙דֶשׁ֙ הַשִּׁשִּׁ֔י בְּי֥וֹם אֶחָ֖ד לַחֹ֑דֶשׁ הָיָ֨ה דְבַר־יְהֹוָ֜ה בְּיַד־חַגַּ֣י הַנָּבִ֗יא אֶל־זְרֻבָּבֶ֤ל בֶּן־שְׁאַלְתִּיאֵל֙ פַּחַ֣ת יְהוּדָ֔ה וְאֶל־יְהוֹשֻׁ֧עַ בֶּן־יְהוֹצָדָ֛ק הַכֹּהֵ֥ן הַגָּד֖וֹל לֵאמֹֽר׃",
+      "douay_rheims": "In the second year of Darius the king, in the sixth month, in the first day of the month, the word of the Lord came by the hand of Haggai the prophet, to Zorobabel the son of Salathiel, governor of Juda, and to Jesus the son of Josedec the high priest, saying:",
+      "finnish_biblia": "Toisena kuningas Dariuksen vuotena, kuudentena kuukautena, ensimäisenä päivänä kuuta, tapahtui Herran sana prophetan Haggain kautta Serubbabelille Sealtielin pojalle, Juudan päämiehelle, ja Josualle Jotsadakin pojalle, ylimmäiselle papille, ja sanoi: ",
       "king_james": "In the second year of Darius the king, in the sixth month, in the first day of the month, came the word of the Lord by Haggai the prophet unto Zerubbabel the son of Shealtiel, governor of Judah, and to Joshua the son of Josedech, the high priest, saying,"
     },
     {
       "verse": 2,
       "latin_vulgate": "Hæc ait Dominus exercituum, dicens : Populus iste dicit : Nondum venit tempus domus Domini ædificandæ. ",
       "hebrew_masoretic": "כֹּ֥ה אָמַ֛ר יְהֹוָ֥ה צְבָא֖וֹת לֵאמֹ֑ר הָעָ֤ם הַזֶּה֙ אָֽמְר֔וּ לֹ֥א עֶת־בֹּ֛א עֶת־בֵּ֥ית יְהֹוָ֖ה לְהִבָּנֽוֹת׃ {פ}",
+      "douay_rheims": "Thus saith the Lord of hosts, saying: This people saith: The time is not yet come for building the house of the Lord.",
+      "finnish_biblia": "Näin puhuu Herra Zebaot, sanoen: tämä kansa sanoo: ei aika vielä ole tullut Herran huonetta rakentaa. ",
       "king_james": "Thus speaketh the Lord of hosts, saying, This people say, The time is not come, the time that the Lord’s house should be built."
     },
     {
       "verse": 3,
       "latin_vulgate": "Et factum est verbum Domini in manu Aggæi prophetæ, dicens :  ",
       "hebrew_masoretic": "וַֽיְהִי֙ דְּבַר־יְהֹוָ֔ה בְּיַד־חַגַּ֥י הַנָּבִ֖יא לֵאמֹֽר׃",
+      "douay_rheims": "And the word of the Lord came by the hand of Haggai the prophet, saying:",
+      "finnish_biblia": "Ja Herran sana tapahtui propheta Haggain kautta, sanoen: ",
       "king_james": "Then came the word of the Lord by Haggai the prophet, saying,"
     },
     {
       "verse": 4,
       "latin_vulgate": "  Numquid tempus vobis est ut habitetis in domibus laqueatis,  et domus ista deserta ? ",
       "hebrew_masoretic": "הַעֵ֤ת לָכֶם֙ אַתֶּ֔ם לָשֶׁ֖בֶת בְּבָתֵּיכֶ֣ם סְפוּנִ֑ים וְהַבַּ֥יִת הַזֶּ֖ה חָרֵֽב׃",
+      "douay_rheims": "Is it time for you to dwell in ceiled houses, and this house lie desolate?",
+      "finnish_biblia": "Kylläpä teidän aikanne on tullut asua kaunistetuissa huoneissanne, ja tämän huoneen täytyy autiona olla? ",
       "king_james": "Is it time for you, O ye, to dwell in your cieled houses, and this house lie waste?"
     },
     {
       "verse": 5,
       "latin_vulgate": " Et nunc hæc dicit Dominus exercituum :  Ponite corda vestra super vias vestras. ",
       "hebrew_masoretic": "וְעַתָּ֕ה כֹּ֥ה אָמַ֖ר יְהֹוָ֣ה צְבָא֑וֹת שִׂ֥ימוּ לְבַבְכֶ֖ם עַל־דַּרְכֵיכֶֽם׃",
+      "douay_rheims": "And now thus saith the Lord of hosts: Set your hearts to consider your ways.",
+      "finnish_biblia": "Nyt siis sanoo Herra Zebaot näin: katsokaat, kuinka teidän käy. ",
       "king_james": "Now therefore thus saith the Lord of hosts; Consider your ways."
     },
     {
       "verse": 6,
       "latin_vulgate": " Seminastis multum, et intulistis parum ;  comedistis, et non estis satiati ;  bibistis, et non estis inebriati ;  operuistis vos, et non estis calefacti ;  et qui mercedes congregavit, misit eas in sacculum pertusum. ",
       "hebrew_masoretic": "זְרַעְתֶּ֨ם הַרְבֵּ֜ה וְהָבֵ֣א מְעָ֗ט אָכ֤וֹל וְאֵין־לְשׇׂבְעָה֙ שָׁת֣וֹ וְאֵין־לְשׇׁכְרָ֔ה לָב֖וֹשׁ וְאֵין־לְחֹ֣ם ל֑וֹ וְהַ֨מִּשְׂתַּכֵּ֔ר מִשְׂתַּכֵּ֖ר אֶל־צְר֥וֹר נָקֽוּב׃ {פ}",
+      "douay_rheims": "You have sowed much, and brought in little: you have eaten, but have not had enough: you have drunk, but have not been filled with drink: you have clothed yourselves, but have not been warmed: and he that hath earned wages, put them into a bag with holes.",
+      "finnish_biblia": "Te kylvätte paljon, ja vähän viette aittaan; te syötte, ja ette tule ravituksi; te juotte, ja ette saa kylläänne; te verhootte teitänne, ja ette tule lämpimäksi; ja joka rahaa ansaitsee, hän panee sen lävelliseen kukkaroon. ",
       "king_james": "Ye have sown much, and bring in little; ye eat, but ye have not enough; ye drink, but ye are not filled with drink; ye clothe you, but there is none warm; and he that earneth wages earneth wages to put it into a bag with holes."
     },
     {
       "verse": 7,
       "latin_vulgate": " Hæc dicit Dominus exercituum :  Ponite corda vestra super vias vestras ; ",
       "hebrew_masoretic": "כֹּ֥ה אָמַ֖ר יְהֹוָ֣ה צְבָא֑וֹת שִׂ֥ימוּ לְבַבְכֶ֖ם עַל־דַּרְכֵיכֶֽם׃",
+      "douay_rheims": "Thus saith the Lord of hosts: Set your hearts upon your ways:",
+      "finnish_biblia": "Näin sanoo Herra Zebaot: katsokaat siis, kuinka teidän käy. ",
       "king_james": "Thus saith the Lord of hosts; Consider your ways."
     },
     {
       "verse": 8,
       "latin_vulgate": " ascendite in montem, portate ligna, et ædificate domum :  et acceptabilis mihi erit, et glorificabor, dicit Dominus. ",
       "hebrew_masoretic": "עֲל֥וּ הָהָ֛ר וַהֲבֵאתֶ֥ם עֵ֖ץ וּבְנ֣וּ הַבָּ֑יִת וְאֶרְצֶה־בּ֥וֹ (ואכבד) [וְאֶכָּבְדָ֖ה] אָמַ֥ר יְהֹוָֽה׃",
+      "douay_rheims": "Go up to the mountain, bring timber, and build the house: and it shall be acceptable to me, and I shall be glorified, saith the Lord.",
+      "finnish_biblia": "Menkäät vuorille ja hakekaat puita, ja rakentakaat huone; se on minulle otollinen oleva, ja minä tahdon minun kunniani osoittaa. ",
       "king_james": "Go up to the mountain, and bring wood, and build the house; and I will take pleasure in it, and I will be glorified, saith the Lord."
     },
     {
       "verse": 9,
       "latin_vulgate": " Respexistis ad amplius, et ecce factum est minus ;  et intulistis in domum, et exsufflavi illud :  quam ob causam ? dicit Dominus exercituum :  quia domus mea deserta est,  et vos festinatis unusquisque in domum suam. ",
       "hebrew_masoretic": "פָּנֹ֤ה אֶל־הַרְבֵּה֙ וְהִנֵּ֣ה לִמְעָ֔ט וַהֲבֵאתֶ֥ם הַבַּ֖יִת וְנָפַ֣חְתִּי ב֑וֹ יַ֣עַן מֶ֗ה נְאֻם֙ יְהֹוָ֣ה צְבָא֔וֹת יַ֗עַן בֵּיתִי֙ אֲשֶׁר־ה֣וּא חָרֵ֔ב וְאַתֶּ֥ם רָצִ֖ים אִ֥ישׁ לְבֵיתֽוֹ׃",
+      "douay_rheims": "You have looked for more, and behold it became less, and you brought it home, and I blowed it away: why, saith the Lord of hosts? because my house is desolate, and you make haste every man to his own house.",
+      "finnish_biblia": "Kyllä tosin te paljon toivotte, vaan se tulee vähäksi; ja vaikka te parhaallansa kotia veisitte, niin minä sen kuitenkin puhallan pois. Miksi niin? sanoo Herra Zebaot: minun huoneeni tähden, että se on autiona, ja kukin teistä rientää oman huoneensa kanssa. ",
       "king_james": "Ye looked for much, and, lo, it came to little; and when ye brought it home, I did blow upon it. Why? saith the Lord of hosts. Because of mine house that is waste, and ye run every man unto his own house."
     },
     {
       "verse": 10,
       "latin_vulgate": " Propter hoc super vos prohibiti sunt cæli ne darent rorem,  et terra prohibita est ne daret germen suum : ",
       "hebrew_masoretic": "עַל־כֵּ֣ן עֲלֵיכֶ֔ם כָּלְא֥וּ שָׁמַ֖יִם מִטָּ֑ל וְהָאָ֖רֶץ כָּלְאָ֥ה יְבוּלָֽהּ׃",
+      "douay_rheims": "Therefore the heavens over you were stayed from giving dew, and the earth was hindered from yielding her fruits:",
+      "finnish_biblia": "Sentähden on taivas teiltä kasteen pidättänyt, ja maa kieltänyt hedelmänsä. ",
       "king_james": "Therefore the heaven over you is stayed from dew, and the earth is stayed from her fruit."
     },
     {
       "verse": 11,
       "latin_vulgate": " et vocavi siccitatem super terram, et super montes,  et super triticum, et super vinum, et super oleum,  et quæcumque profert humus,  et super homines, et super jumenta,  et super omnem laborem manuum. ",
       "hebrew_masoretic": "וָאֶקְרָ֨א חֹ֜רֶב עַל־הָאָ֣רֶץ וְעַל־הֶהָרִ֗ים וְעַל־הַדָּגָן֙ וְעַל־הַתִּיר֣וֹשׁ וְעַל־הַיִּצְהָ֔ר וְעַ֛ל אֲשֶׁ֥ר תּוֹצִ֖יא הָאֲדָמָ֑ה וְעַל־הָֽאָדָם֙ וְעַל־הַבְּהֵמָ֔ה וְעַ֖ל כׇּל־יְגִ֥יעַ כַּפָּֽיִם׃ {פ}",
+      "douay_rheims": "And I called for a drought upon the land, and upon the mountains, and upon the corn, and upon the wine, and upon the oil, and upon all that the ground bringeth forth, and upon men, and upon beasts, and upon all the labour of the hands.",
+      "finnish_biblia": "Ja minä olen poudan kutsunut, sekä maan että vuorten päälle, jyväin, viinan, öljyn ja kaiken päälle, mitä maasta tulee, ihmisten ja karjan päälle, ja kaiken kätten työn päälle. ",
       "king_james": "And I called for a drought upon the land, and upon the mountains, and upon the corn, and upon the new wine, and upon the oil, and upon that which the ground bringeth forth, and upon men, and upon cattle, and upon all the labour of the hands."
     },
     {
       "verse": 12,
       "latin_vulgate": "Et audivit Zorobabel, filius Salathiel, et Jesus, filius Josedec, sacerdos magnus, et omnes reliquiæ populi, vocem Domini Dei sui, et verba Aggæi prophetæ, sicut misit eum Dominus Deus eorum ad eos, et timuit populus a facie Domini. ",
       "hebrew_masoretic": "וַיִּשְׁמַ֣ע זְרֻבָּבֶ֣ל ׀ בֶּֽן־שַׁלְתִּיאֵ֡ל וִיהוֹשֻׁ֣עַ בֶּן־יְהוֹצָדָק֩ הַכֹּהֵ֨ן הַגָּד֜וֹל וְכֹ֣ל ׀ שְׁאֵרִ֣ית הָעָ֗ם בְּקוֹל֙ יְהֹוָ֣ה אֱלֹֽהֵיהֶ֔ם וְעַל־דִּבְרֵי֙ חַגַּ֣י הַנָּבִ֔יא כַּאֲשֶׁ֥ר שְׁלָח֖וֹ יְהֹוָ֣ה אֱלֹהֵיהֶ֑ם וַיִּֽירְא֥וּ הָעָ֖ם מִפְּנֵ֥י יְהֹוָֽה׃",
+      "douay_rheims": "Then Zorobabel the son of Salathiel, and Jesus the son of Josedec the high priest, and all the remnant of the people hearkened to the voice of the Lord their God, and to the words of Haggai the prophet, as the Lord their God sent him to them: and the people feared before the Lord.",
+      "finnish_biblia": "Niin kuuli Serubbabel Sealtielin poika, ja Josua Jotsadakin poika, ylimmäinen pappi, ja kaikki jääneet kansasta, Herran Jumalansa äänen ja propheta Haggain sanat, niinkuin Herra heidän Jumalansa hänen lähettänyt oli; ja kansa pelkäsi Herraa. ",
       "king_james": "Then Zerubbabel the son of Shealtiel, and Joshua the son of Josedech, the high priest, with all the remnant of the people, obeyed the voice of the Lord their God, and the words of Haggai the prophet, as the Lord their God had sent him, and the people did fear before the Lord."
     },
     {
       "verse": 13,
       "latin_vulgate": "Et dixit Aggæus, nuntius Domini de nuntiis Domini, populo dicens : Ego vobiscum sum, dicit Dominus. ",
       "hebrew_masoretic": "וַ֠יֹּ֠אמֶר חַגַּ֞י מַלְאַ֧ךְ יְהֹוָ֛ה בְּמַלְאֲכ֥וּת יְהֹוָ֖ה לָעָ֣ם לֵאמֹ֑ר אֲנִ֥י אִתְּכֶ֖ם נְאֻם־יְהֹוָֽה׃",
+      "douay_rheims": "And Haggai the messenger of the Lord, as one of the messengers of the Lord, spoke, saying to the people: I am with you, saith the Lord.",
+      "finnish_biblia": "Niin sanoi Haggai, Herran sanansaattaja, Herran käskystä kansan tykö: minä olen teidän kanssanne, sanoo Herra. ",
       "king_james": "Then spake Haggai the Lord’s messenger in the Lord’s message unto the people, saying, I am with you, saith the Lord."
     },
     {
       "verse": 14,
       "latin_vulgate": "Et suscitavit Dominus spiritum Zorobabel, filii Salathiel, ducis Juda, et spiritum Jesu, filii Josedec, sacerdotis magni, et spiritum reliquorum de omni populo : et ingressi sunt, et faciebant opus in domo Domini exercituum, Dei sui.  ",
       "hebrew_masoretic": "וַיָּ֣עַר יְהֹוָ֡ה אֶת־ר֩וּחַ֩ זְרֻבָּבֶ֨ל בֶּן־שַׁלְתִּיאֵ֜ל פַּחַ֣ת יְהוּדָ֗ה וְאֶת־ר֙וּחַ֙ יְהוֹשֻׁ֤עַ בֶּן־יְהוֹצָדָק֙ הַכֹּהֵ֣ן הַגָּד֔וֹל וְֽאֶת־ר֔וּחַ כֹּ֖ל שְׁאֵרִ֣ית הָעָ֑ם וַיָּבֹ֙אוּ֙ וַיַּעֲשׂ֣וּ מְלָאכָ֔ה בְּבֵית־יְהֹוָ֥ה צְבָא֖וֹת אֱלֹהֵיהֶֽם׃ {פ}",
+      "douay_rheims": "And the Lord stirred up the spirit of Zorobabel the son of Salathiel governor of Juda, and the spirit of Jesus the son of Josedec the high priest, and the spirit of all the rest of the people: and they went in, and did the work in the house of the Lord of Hosts their God. ",
+      "finnish_biblia": "Ja Herra herätti Serubbabelin Sealtielin pojan, Juudan päämiehen hengen, ja Josuan Jotsadakin pojan, ylimmäisen papin hengen, ja kaiken jääneen kansan hengen, tulemaan ja työtä tekemään Herran Zebaotin heidän Jumalansa huoneessa, ",
       "king_james": "And the Lord stirred up the spirit of Zerubbabel the son of Shealtiel, governor of Judah, and the spirit of Joshua the son of Josedech, the high priest, and the spirit of all the remnant of the people; and they came and did work in the house of the Lord of hosts, their God,"
     },
     {
       "verse": 15,
       "latin_vulgate": "In die vigesima et quarta mensis, in sexto mense, in anno secundo Darii regis.  ",
       "hebrew_masoretic": "בְּי֨וֹם עֶשְׂרִ֧ים וְאַרְבָּעָ֛ה לַחֹ֖דֶשׁ בַּשִּׁשִּׁ֑י בִּשְׁנַ֥ת שְׁתַּ֖יִם לְדָרְיָ֥וֶשׁ הַמֶּֽלֶךְ׃",
+      "douay_rheims": "In the four and twentieth day of the month, in the sixth month, in the second year of Darius the king, they began.",
+      "finnish_biblia": "Neljäntenä päivänä kolmattakymmentä, kuudentena kuukautena, kuningas Dariuksen toisena vuotena.   ",
       "king_james": "In the four and twentieth day of the sixth month, in the second year of Darius the king. ",
       "refs": {
         "latin_vulgate": {
+          "src": "2:1"
+        },
+        "douay_rheims": {
           "src": "2:1"
         }
       }

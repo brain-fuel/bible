@@ -2,6 +2,8 @@
   "book_id": "1SA",
   "latin_name": "I Samuelis",
   "hebrew_name": "שְׁמוּאֵל א",
+  "douay_name": "1 Kings",
+  "finnish_name": "1. Samuelin kirja",
   "english_name": "1 Samuel",
   "chapter": 12,
   "verses": [
@@ -9,150 +11,200 @@
       "verse": 1,
       "latin_vulgate": "Dixit autem Samuel ad universum Israël : Ecce audivi vocem vestram juxta omnia quæ locuti estis ad me, et constitui super vos regem. ",
       "hebrew_masoretic": "וַיֹּ֤אמֶר שְׁמוּאֵל֙ אֶל־כׇּל־יִשְׂרָאֵ֔ל הִנֵּה֙ שָׁמַ֣עְתִּי בְקֹֽלְכֶ֔ם לְכֹ֥ל אֲשֶׁר־אֲמַרְתֶּ֖ם לִ֑י וָאַמְלִ֥יךְ עֲלֵיכֶ֖ם מֶֽלֶךְ׃",
+      "douay_rheims": "And Samuel said to all Israel: Behold I have hearkened to your voice in all that you said to me, and have made a king over you.",
+      "finnish_biblia": "Ja Samuel sanoi kaikelle Israelille: katsos, minä olen kuullut teidän äänenne kaikissa mitä te minulle puhuneet olette, ja olen asettanut teille kuninkaan. ",
       "king_james": "And Samuel said unto all Israel, Behold, I have hearkened unto your voice in all that ye said unto me, and have made a king over you."
     },
     {
       "verse": 2,
       "latin_vulgate": "Et nunc rex graditur ante vos : ego autem senui, et incanui : porro filii mei vobiscum sunt : itaque conversatus coram vobis ab adolescentia mea usque ad hanc diem, ecce præsto sum. ",
       "hebrew_masoretic": "וְעַתָּ֞ה הִנֵּ֥ה הַמֶּ֣לֶךְ ׀ מִתְהַלֵּ֣ךְ לִפְנֵיכֶ֗ם וַֽאֲנִי֙ זָקַ֣נְתִּי וָשַׂ֔בְתִּי וּבָנַ֖י הִנָּ֣ם אִתְּכֶ֑ם וַֽאֲנִי֙ הִתְהַלַּ֣כְתִּי לִפְנֵיכֶ֔ם מִנְּעֻרַ֖י עַד־הַיּ֥וֹם הַזֶּֽה׃",
+      "douay_rheims": "And now the king goeth before you: but I am old and greyheaded: and my sons are with you: having then conversed with you from my youth until this day, behold here I am.",
+      "finnish_biblia": "Ja katso, nyt kuningas käy teidän edellänne, ja minä olen vanhaksi ja harmaaksi tullut, ja minun poikani ovat teidän tykönänne; ja minä olen käynyt teidän edellänne minun nuoruudestani tähän päivään asti. ",
       "king_james": "And now, behold, the king walketh before you: and I am old and grayheaded; and, behold, my sons are with you: and I have walked before you from my childhood unto this day."
     },
     {
       "verse": 3,
       "latin_vulgate": "Loquimini de me coram Domino, et coram christo ejus, utrum bovem cujusquam tulerim, aut asinum : si quempiam calumniatus sum, si oppressi aliquem, si de manu cujusquam munus accepi : et contemnam illud hodie, restituamque vobis. ",
       "hebrew_masoretic": "הִנְנִ֣י עֲנ֣וּ בִי֩ נֶ֨גֶד יְהֹוָ֜ה וְנֶ֣גֶד מְשִׁיח֗וֹ אֶת־שׁוֹר֩ ׀ מִ֨י לָקַ֜חְתִּי וַחֲמ֧וֹר מִ֣י לָקַ֗חְתִּי וְאֶת־מִ֤י עָשַׁ֙קְתִּי֙ אֶת־מִ֣י רַצּ֔וֹתִי וּמִיַּד־מִי֙ לָקַ֣חְתִּי כֹ֔פֶר וְאַעְלִ֥ים עֵינַ֖י בּ֑וֹ וְאָשִׁ֖יב לָכֶֽם׃",
+      "douay_rheims": "Speak of me before the Lord, and before his anointed, whether I have taken any man's ox, or ass: if I have wronged any man, if I have oppressed any man, if I have taken a bribe at any man's hand: and I will despise it this day, and will restore it to you.",
+      "finnish_biblia": "Katso, tässä minä olen; vastatkaat minua Herran ja hänen voideltunsa edessä: jos olen kenenkään härjän eli aasin ottanut, ja jos olen jollekulle ylöllistä tehnyt eli jotakuta sortanut, jos jonkun kädestä olen lahjoja ottanut ja antanut soaista silmäni: niin minä ne teille annan jälleen. ",
       "king_james": "Behold, here I am: witness against me before the Lord, and before his anointed: whose ox have I taken? or whose ass have I taken? or whom have I defrauded? whom have I oppressed? or of whose hand have I received any bribe to blind mine eyes therewith? and I will restore it you."
     },
     {
       "verse": 4,
       "latin_vulgate": "Et dixerunt : Non es calumniatus nos, neque oppressisti, neque tulisti de manu alicujus quippiam. ",
       "hebrew_masoretic": "וַיֹּ֣אמְר֔וּ לֹ֥א עֲשַׁקְתָּ֖נוּ וְלֹ֣א רַצּוֹתָ֑נוּ וְלֹא־לָקַ֥חְתָּ מִיַּד־אִ֖ישׁ מְאֽוּמָה׃",
+      "douay_rheims": "And they said: Thou hast not wronged us, nor oppressed us, nor taken ought at any man's hand.",
+      "finnish_biblia": "He vastasivat: et sinä mitään ylöllistä etkä vääryyttä ole meille tehnyt, etkä myös kenenkään kädestä ole mitään ottanut. ",
       "king_james": "And they said, Thou hast not defrauded us, nor oppressed us, neither hast thou taken ought of any man’s hand."
     },
     {
       "verse": 5,
       "latin_vulgate": "Dixitque ad eos : Testis est Dominus adversum vos, et testis christus ejus in die hac, quia non inveneritis in manu mea quippiam. Et dixerunt : Testis.  ",
       "hebrew_masoretic": "וַיֹּ֨אמֶר אֲלֵיהֶ֜ם עֵ֧ד יְהֹוָ֣ה בָּכֶ֗ם וְעֵ֤ד מְשִׁיחוֹ֙ הַיּ֣וֹם הַזֶּ֔ה כִּ֣י לֹ֧א מְצָאתֶ֛ם בְּיָדִ֖י מְא֑וּמָה וַיֹּ֖אמֶר עֵֽד׃ {פ}",
+      "douay_rheims": "And he said to them: The Lord is witness against you, and his anointed is witness this day, that you have not found any thing in my hand. And they said: He is witness.",
+      "finnish_biblia": "Hän sanoi heille: Herra on todistaja teitä vastaan, ja hänen voideltunsa on todistaja tänäpänä, ettette ole mitään minun kädestäni löytäneet. He sanoivat: olkoon todistaja. ",
       "king_james": "And he said unto them, The Lord is witness against you, and his anointed is witness this day, that ye have not found ought in my hand. And they answered, He is witness."
     },
     {
       "verse": 6,
       "latin_vulgate": " Et ait Samuel ad populum : Dominus, qui fecit Moysen et Aaron, et eduxit patres nostros de terra Ægypti. ",
       "hebrew_masoretic": "וַיֹּ֥אמֶר שְׁמוּאֵ֖ל אֶל־הָעָ֑ם יְהֹוָ֗ה אֲשֶׁ֤ר עָשָׂה֙ אֶת־מֹשֶׁ֣ה וְאֶֽת־אַהֲרֹ֔ן וַאֲשֶׁ֧ר הֶעֱלָ֛ה אֶת־אֲבֹתֵיכֶ֖ם מֵאֶ֥רֶץ מִצְרָֽיִם׃",
+      "douay_rheims": "And Samuel said to the people: It is the Lord who made Moses and Aaron, and brought our fathers out of the land of Egypt.",
+      "finnish_biblia": "Ja Samuel sanoi kansalle: Herra joka Moseksen ja Aaronin teki, ja johdatti teidän isänne Egyptin maalta, ",
       "king_james": "And Samuel said unto the people, It is the Lord that advanced Moses and Aaron, and that brought your fathers up out of the land of Egypt."
     },
     {
       "verse": 7,
       "latin_vulgate": "Nunc ergo state, ut judicio contendam adversum vos coram Domino de omnibus misericordiis Domini quas fecit vobiscum et cum patribus vestris : ",
       "hebrew_masoretic": "וְעַתָּ֗ה הִֽתְיַצְּב֛וּ וְאִשָּׁפְטָ֥ה אִתְּכֶ֖ם לִפְנֵ֣י יְהֹוָ֑ה אֵ֚ת כׇּל־צִדְק֣וֹת יְהֹוָ֔ה אֲשֶׁר־עָשָׂ֥ה אִתְּכֶ֖ם וְאֶת־אֲבוֹתֵיכֶֽם׃",
+      "douay_rheims": "Now, therefore, stand up, that I may plead in judgment against you before the Lord, concerning all the kindness of the Lord, which he hath shewn to you, and to your fathers:",
+      "finnish_biblia": "Niin astukaat nyt edes, oikeudelle käydäkseni teidän kanssanne Herran edessä kaikista Herran hyvistä töistä, jotka hän teille ja teidän isillenne tehnyt on. ",
       "king_james": "Now therefore stand still, that I may reason with you before the Lord of all the righteous acts of the Lord, which he did to you and to your fathers."
     },
     {
       "verse": 8,
       "latin_vulgate": "quomodo Jacob ingressus est in Ægyptum, et clamaverunt patres vestri ad Dominum : et misit Dominus Moysen et Aaron, et eduxit patres vestros de Ægypto, et collocavit eos in loco hoc. ",
       "hebrew_masoretic": "כַּאֲשֶׁר־בָּ֥א יַעֲקֹ֖ב מִצְרָ֑יִם וַיִּזְעֲק֤וּ אֲבֽוֹתֵיכֶם֙ אֶל־יְהֹוָ֔ה וַיִּשְׁלַ֨ח יְהֹוָ֜ה אֶת־מֹשֶׁ֣ה וְאֶֽת־אַהֲרֹ֗ן וַיּוֹצִ֤יאוּ אֶת־אֲבֹֽתֵיכֶם֙ מִמִּצְרַ֔יִם וַיֹּשִׁב֖וּם בַּמָּק֥וֹם הַזֶּֽה׃",
+      "douay_rheims": "How Jacob went into Egypt, and your fathers cried to the Lord: and the Lord sent Moses and Aaron, and brought your fathers out of Egypt, and made them dwell in this place.",
+      "finnish_biblia": "Kuin Jakob oli tullut Egyptiin, huusivat teidän isänne Herran tykö, ja Herra lähetti Moseksen ja Aaronin, ja he johdattivat teidän isänne ulos Egyptistä ja asettivat heidän tähän paikkaan asumaan, ",
       "king_james": "When Jacob was come into Egypt, and your fathers cried unto the Lord, then the Lord sent Moses and Aaron, which brought forth your fathers out of Egypt, and made them dwell in this place."
     },
     {
       "verse": 9,
       "latin_vulgate": "Qui obliti sunt Domini Dei sui, et tradidit eos in manu Sisaræ magistri militiæ Hasor, et in manu Philisthinorum, et in manu regis Moab : et pugnaverunt adversum eos. ",
       "hebrew_masoretic": "וַֽיִּשְׁכְּח֖וּ אֶת־יְהֹוָ֣ה אֱלֹהֵיהֶ֑ם וַיִּמְכֹּ֣ר אֹתָ֡ם בְּיַ֣ד סִֽיסְרָא֩ שַׂר־צְבָ֨א חָצ֜וֹר וּבְיַד־פְּלִשְׁתִּ֗ים וּבְיַד֙ מֶ֣לֶךְ מוֹאָ֔ב וַיִּֽלָּחֲמ֖וּ בָּֽם׃",
+      "douay_rheims": "And they forgot the Lord their God, and he delivered them into the hands of Sisara, captain of the army of Hasor, and into the hands of the Philistines, and into the hand of the king of Moab, and they fought against them.",
+      "finnish_biblia": "Mutta kuin he unohtivat Herran Jumalansa, myi hän heidät Siseran, Hasorin sodanpäämiehen vallan alle, ja Philistealaisten vallan alle ja Moabin kuninkaan vallan alle, ja he sotivat heitä vastaan. ",
       "king_james": "And when they forgat the Lord their God, he sold them into the hand of Sisera, captain of the host of Hazor, and into the hand of the Philistines, and into the hand of the king of Moab, and they fought against them."
     },
     {
       "verse": 10,
       "latin_vulgate": "Postea autem clamaverunt ad Dominum, et dixerunt : Peccavimus, quia dereliquimus Dominum, et servivimus Baalim et Astaroth : nunc ergo erue nos de manu inimicorum nostrorum, et serviemus tibi. ",
       "hebrew_masoretic": "וַיִּזְעֲק֤וּ אֶל־יְהֹוָה֙ (ויאמר) [וַיֹּֽאמְר֣וּ] חָטָ֔אנוּ כִּ֤י עָזַ֙בְנוּ֙ אֶת־יְהֹוָ֔ה וַנַּעֲבֹ֥ד אֶת־הַבְּעָלִ֖ים וְאֶת־הָעַשְׁתָּר֑וֹת וְעַתָּ֗ה הַצִּילֵ֛נוּ מִיַּ֥ד אֹיְבֵ֖ינוּ וְנַעַבְדֶֽךָּ׃",
+      "douay_rheims": "But afterwards they cried to the Lord, and said: We have sinned, because we have forsaken the Lord, and have served Baalim and Astaroth: but now deliver us from the hand of our enemies, and we will serve thee.",
+      "finnish_biblia": "Ja he huusivat Herran tykö ja sanoivat: me olemme syntiä tehneet, että me hylkäsimme Herran ja palvelimme Baalia ja Astharotia; mutta vapahda nyt meitä meidän vihollistemme kädestä, niin me sinua palvelemme. ",
       "king_james": "And they cried unto the Lord, and said, We have sinned, because we have forsaken the Lord, and have served Baalim and Ashtaroth: but now deliver us out of the hand of our enemies, and we will serve thee."
     },
     {
       "verse": 11,
       "latin_vulgate": "Et misit Dominus Jerobaal, et Badan, et Jephte, et Samuel, et eruit vos de manu inimicorum vestrorum per circuitum, et habitastis confidenter. ",
       "hebrew_masoretic": "וַיִּשְׁלַ֤ח יְהֹוָה֙ אֶת־יְרֻבַּ֣עַל וְאֶת־בְּדָ֔ן וְאֶת־יִפְתָּ֖ח וְאֶת־שְׁמוּאֵ֑ל וַיַּצֵּ֨ל אֶתְכֶ֜ם מִיַּ֤ד אֹֽיְבֵיכֶם֙ מִסָּבִ֔יב וַתֵּשְׁב֖וּ בֶּֽטַח׃",
+      "douay_rheims": "And the Lord sent Jerobaal, and Badan, and Jephte, and Samuel, and delivered you from the hand of your enemies round about, and you dwelt securely.",
+      "finnish_biblia": "Ja Herra lähetti Jerubbaalin, Bedanin, Jephtan ja Samuelin, ja pelasti teitä teidän vihamiestenne käsistä ympäriltänne, ja antoi teidän asua rauhallisesti. ",
       "king_james": "And the Lord sent Jerubbaal, and Bedan, and Jephthah, and Samuel, and delivered you out of the hand of your enemies on every side, and ye dwelled safe."
     },
     {
       "verse": 12,
       "latin_vulgate": "Videntes autem quod Naas rex filiorum Ammon venisset adversum vos, dixistis mihi : Nequaquam, sed rex imperabit nobis : cum Dominus Deus vester regnaret in vobis. ",
       "hebrew_masoretic": "וַתִּרְא֗וּ כִּֽי־נָחָ֞שׁ מֶ֣לֶךְ בְּנֵי־עַמּוֹן֮ בָּ֣א עֲלֵיכֶם֒ וַתֹּ֣אמְרוּ לִ֔י לֹ֕א כִּי־מֶ֖לֶךְ יִמְלֹ֣ךְ עָלֵ֑ינוּ וַיהֹוָ֥ה אֱלֹהֵיכֶ֖ם מַלְכְּכֶֽם׃",
+      "douay_rheims": "But seeing that Naas, king of the children of Ammon, was come against you, you said to me: Nay, but a king shall reign over us: whereas the Lord your God was your king.",
+      "finnish_biblia": "Kuin te näitte Nahaksen Ammonin lasten kuninkaan tulevan teitä vastaan, sanoitte te minulle: ei millään muotoa, vaan kuningas meitä vallitkoon; vaikka Herra teidän Jumalanne oli teidän kuninkaanne. ",
       "king_james": "And when ye saw that Nahash the king of the children of Ammon came against you, ye said unto me, Nay; but a king shall reign over us: when the Lord your God was your king."
     },
     {
       "verse": 13,
       "latin_vulgate": "Nunc ergo præsto est rex vester, quem elegistis et petistis : ecce dedit vobis Dominus regem. ",
       "hebrew_masoretic": "וְעַתָּ֗ה הִנֵּ֥ה הַמֶּ֛לֶךְ אֲשֶׁ֥ר בְּחַרְתֶּ֖ם אֲשֶׁ֣ר שְׁאֶלְתֶּ֑ם וְהִנֵּ֨ה נָתַ֧ן יְהֹוָ֛ה עֲלֵיכֶ֖ם מֶֽלֶךְ׃",
+      "douay_rheims": "Now, therefore, your king is here, whom you have chosen and desired: Behold the Lord hath given you a king.",
+      "finnish_biblia": "Ja nyt katso, siinä on kuningas, jonka te olette valinneet ja anoneet; sillä katso, Herra on asettanut teille kuninkaan. ",
       "king_james": "Now therefore behold the king whom ye have chosen, and whom ye have desired! and, behold, the Lord hath set a king over you."
     },
     {
       "verse": 14,
       "latin_vulgate": "Si timueritis Dominum, et servieritis ei, et audieritis vocem ejus, et non exasperaveritis os Domini, eritis et vos, et rex qui imperat vobis, sequentes Dominum Deum vestrum : ",
       "hebrew_masoretic": "אִם־תִּֽירְא֣וּ אֶת־יְהֹוָ֗ה וַעֲבַדְתֶּ֤ם אֹתוֹ֙ וּשְׁמַעְתֶּ֣ם בְּקוֹל֔וֹ וְלֹ֥א תַמְר֖וּ אֶת־פִּ֣י יְהֹוָ֑ה וִהְיִתֶ֣ם גַּם־אַתֶּ֗ם וְגַם־הַמֶּ֙לֶךְ֙ אֲשֶׁ֣ר מָלַ֣ךְ עֲלֵיכֶ֔ם אַחַ֖ר יְהֹוָ֥ה אֱלֹהֵיכֶֽם׃",
+      "douay_rheims": "If you will fear the Lord, and serve him, and hearken to his voice, and not provoke the mouth of the Lord: then shall both you, and the king who reigneth over you, be followers of the Lord your God.",
+      "finnish_biblia": "Jos te pelkäätte Herraa ja palvelette häntä, kuulette hänen äänensä ja ette ole Herran suulle tottelemattomat, niin sekä te että teidän kuninkaanne, joka teitä hallitsee, seuraa Herraa teidän Jumalaanne. ",
       "king_james": "If ye will fear the Lord, and serve him, and obey his voice, and not rebel against the commandment of the Lord, then shall both ye and also the king that reigneth over you continue following the Lord your God:"
     },
     {
       "verse": 15,
       "latin_vulgate": "si autem non audieritis vocem Domini, sed exasperaveritis sermones ejus, erit manus Domini super vos, et super patres vestros. ",
       "hebrew_masoretic": "וְאִם־לֹ֤א תִשְׁמְעוּ֙ בְּק֣וֹל יְהֹוָ֔ה וּמְרִיתֶ֖ם אֶת־פִּ֣י יְהֹוָ֑ה וְהָיְתָ֧ה יַד־יְהֹוָ֛ה בָּכֶ֖ם וּבַאֲבֹתֵיכֶֽם׃",
+      "douay_rheims": "But if you will not hearken to the voice of the Lord, but will rebel against his words, the hand of the Lord shall be upon you, and upon your fathers.",
+      "finnish_biblia": "Mutta jollette Herran ääntä kuule, vaan olette hänen suullensa tottelemattomat, niin Herran käsi on sekä teitä että teidän isiänne vastaan. ",
       "king_james": "But if ye will not obey the voice of the Lord, but rebel against the commandment of the Lord, then shall the hand of the Lord be against you, as it was against your fathers."
     },
     {
       "verse": 16,
       "latin_vulgate": "Sed et nunc state, et videte rem istam grandem quam facturus est Dominus in conspectu vestro. ",
       "hebrew_masoretic": "גַּם־עַתָּה֙ הִתְיַצְּב֣וּ וּרְא֔וּ אֶת־הַדָּבָ֥ר הַגָּד֖וֹל הַזֶּ֑ה אֲשֶׁ֣ר יְהֹוָ֔ה עֹשֶׂ֖ה לְעֵינֵיכֶֽם׃",
+      "douay_rheims": "Now then stand, and see this great thing which the Lord will do in your sight.",
+      "finnish_biblia": "Niin käykäät siis tästä edes ja katsokaat tätä suurta asiaa, jota Herra on tekevä teidän silmäinne edessä. ",
       "king_james": "Now therefore stand and see this great thing, which the Lord will do before your eyes."
     },
     {
       "verse": 17,
       "latin_vulgate": "Numquid non messis tritici est hodie ? invocabo Dominum, et dabit voces et pluvias : et scietis, et videbitis, quia grande malum feceritis vobis in conspectu Domini, petentes super vos regem. ",
       "hebrew_masoretic": "הֲל֤וֹא קְצִיר־חִטִּים֙ הַיּ֔וֹם אֶקְרָא֙ אֶל־יְהֹוָ֔ה וְיִתֵּ֥ן קֹל֖וֹת וּמָטָ֑ר וּדְע֣וּ וּרְא֗וּ כִּֽי־רָעַתְכֶ֤ם רַבָּה֙ אֲשֶׁ֤ר עֲשִׂיתֶם֙ בְּעֵינֵ֣י יְהֹוָ֔ה לִשְׁא֥וֹל לָכֶ֖ם מֶֽלֶךְ׃ {ס}",
+      "douay_rheims": "Is it not wheat harvest to day? I will call upon the Lord, and he shall send thunder and rain: and you shall know, and see that you yourselves have done a great evil in the sight of the Lord, in desiring a king over you.",
+      "finnish_biblia": "Eikö nyt ole nisun elonaika? Vaan minä huudan Herran tykö, että hän antaisi jylistä ja sataa, ymmärtääksenne ja nähdäksenne sen suuren pahuuden, jonka te olette tehneet Herran edessä, anoissanne teillenne kuningasta. ",
       "king_james": "Is it not wheat harvest to day? I will call unto the Lord, and he shall send thunder and rain; that ye may perceive and see that your wickedness is great, which ye have done in the sight of the Lord, in asking you a king."
     },
     {
       "verse": 18,
       "latin_vulgate": "Et clamavit Samuel ad Dominum, et dedit Dominus voces et pluvias in illa die.  ",
       "hebrew_masoretic": "וַיִּקְרָ֤א שְׁמוּאֵל֙ אֶל־יְהֹוָ֔ה וַיִּתֵּ֧ן יְהֹוָ֛ה קֹלֹ֥ת וּמָטָ֖ר בַּיּ֣וֹם הַה֑וּא וַיִּירָ֨א כׇל־הָעָ֥ם מְאֹ֛ד אֶת־יְהֹוָ֖ה וְאֶת־שְׁמוּאֵֽל׃",
+      "douay_rheims": "And Samuel cried unto the Lord, and the Lord sent thunder and rain that day.",
+      "finnish_biblia": "Ja kuin Samuel huusi Herran tykö, antoi Herra sinä päivänä jylistä ja sataa. Niin kaikki kansa suuresti pelkäsi Herraa ja Samuelia. ",
       "king_james": "So Samuel called unto the Lord; and the Lord sent thunder and rain that day: and all the people greatly feared the Lord and Samuel."
     },
     {
       "verse": 19,
       "latin_vulgate": " Et timuit omnis populus nimis Dominum et Samuelem, et dixit universus populus ad Samuelem : Ora pro servis tuis ad Dominum Deum tuum, ut non moriamur : addidimus enim universis peccatis nostris malum, ut peteremus nobis regem. ",
       "hebrew_masoretic": "וַיֹּאמְר֨וּ כׇל־הָעָ֜ם אֶל־שְׁמוּאֵ֗ל הִתְפַּלֵּ֧ל בְּעַד־עֲבָדֶ֛יךָ אֶל־יְהֹוָ֥ה אֱלֹהֶ֖יךָ וְאַל־נָמ֑וּת כִּֽי־יָסַ֤פְנוּ עַל־כׇּל־חַטֹּאתֵ֙ינוּ֙ רָעָ֔ה לִשְׁאֹ֥ל לָ֖נוּ מֶֽלֶךְ׃",
+      "douay_rheims": "And all the people greatly feared the Lord and Samuel. And all the people said to Samuel: Pray for thy servants to the Lord thy God, that we may not die, for we have added to all our sins this evil, to ask for a king.",
+      "finnish_biblia": "Ja sanoivat kaikki Samuelille: rukoile sinun palveliais edestä Herraa sinun Jumalaas, ettemme kuolisi; sillä me olemme lisänneet kaikkein meidän synteimme tykö sen pahuuden, että me anoimme meillemme kuningasta. ",
       "king_james": "And all the people said unto Samuel, Pray for thy servants unto the Lord thy God, that we die not: for we have added unto all our sins this evil, to ask us a king."
     },
     {
       "verse": 20,
       "latin_vulgate": "Dixit autem Samuel ad populum : Nolite timere : vos fecistis universum malum hoc, verumtamen nolite recedere a tergo Domini, sed servite Domino in omni corde vestro. ",
       "hebrew_masoretic": "וַיֹּ֨אמֶר שְׁמוּאֵ֤ל אֶל־הָעָם֙ אַל־תִּירָ֔אוּ אַתֶּ֣ם עֲשִׂיתֶ֔ם אֵ֥ת כׇּל־הָרָעָ֖ה הַזֹּ֑את אַ֗ךְ אַל־תָּס֙וּרוּ֙ מֵאַחֲרֵ֣י יְהֹוָ֔ה וַעֲבַדְתֶּ֥ם אֶת־יְהֹוָ֖ה בְּכׇל־לְבַבְכֶֽם׃",
+      "douay_rheims": "And Samuel said to the people: Fear not, you have done all this evil: but yet depart not from following the Lord, but serve the Lord with all your heart.",
+      "finnish_biblia": "Ja Samuel sanoi kansalle: älkäät peljätkö: te tosin olette tehneet kaiken tämän pahuuden, mutta älkäät kuitenkaan luopuko Herrasta, vaan palvelkaat Herraa kaikesta teidän sydämestänne. ",
       "king_james": "And Samuel said unto the people, Fear not: ye have done all this wickedness: yet turn not aside from following the Lord, but serve the Lord with all your heart;"
     },
     {
       "verse": 21,
       "latin_vulgate": "Et nolite declinare post vana, quæ non proderunt vobis, neque eruent vos, quia vana sunt. ",
       "hebrew_masoretic": "וְלֹ֖א תָּס֑וּרוּ כִּ֣י ׀ אַחֲרֵ֣י הַתֹּ֗הוּ אֲשֶׁ֧ר לֹֽא־יוֹעִ֛ילוּ וְלֹ֥א יַצִּ֖ילוּ כִּי־תֹ֥הוּ הֵֽמָּה׃",
+      "douay_rheims": "And turn not aside after vain things, which shall never profit you, nor deliver you, because they are vain.",
+      "finnish_biblia": "Ja älkäät itsiänne kääntäkö turhan menon perään, ei se mitään teitä hyödytä eikä auta, sillä se on turhuus. ",
       "king_james": "And turn ye not aside: for then should ye go after vain things, which cannot profit nor deliver; for they are vain."
     },
     {
       "verse": 22,
       "latin_vulgate": "Et non derelinquet Dominus populum suum propter nomen suum magnum : quia juravit Dominus facere vos sibi populum. ",
       "hebrew_masoretic": "כִּ֠י לֹֽא־יִטֹּ֤שׁ יְהֹוָה֙ אֶת־עַמּ֔וֹ בַּעֲב֖וּר שְׁמ֣וֹ הַגָּד֑וֹל כִּ֚י הוֹאִ֣יל יְהֹוָ֔ה לַעֲשׂ֥וֹת אֶתְכֶ֛ם ל֖וֹ לְעָֽם׃",
+      "douay_rheims": "And the Lord will not forsake his people for his great name's sake: because the Lord hath sworn to make you his people.",
+      "finnish_biblia": "Mutta Herra ei hylkää kansaansa suuren nimensä tähden; sillä Herra on tahtonut teitä tehdä itsellensä kansaksi. ",
       "king_james": "For the Lord will not forsake his people for his great name’s sake: because it hath pleased the Lord to make you his people."
     },
     {
       "verse": 23,
       "latin_vulgate": "Absit autem a me hoc peccatum in Dominum, ut cessem orare pro vobis, et docebo vos viam bonam et rectam. ",
       "hebrew_masoretic": "גַּ֣ם אָנֹכִ֗י חָלִ֤ילָה לִּי֙ מֵחֲטֹ֣א לַיהֹוָ֔ה מֵחֲדֹ֖ל לְהִתְפַּלֵּ֣ל בַּעַדְכֶ֑ם וְהוֹרֵיתִ֣י אֶתְכֶ֔ם בְּדֶ֥רֶךְ הַטּוֹבָ֖ה וְהַיְשָׁרָֽה׃",
+      "douay_rheims": "And far from me be this sin against the Lord, that I should cease to pray for you: and I will teach you the good and right way.",
+      "finnish_biblia": "Olkoon myös kaukana minusta, että minä syntiä tekisin Herraa vastaan, lakaten rukoilemasta Herraa teidän edestänne, ja opettamasta teille hyvää ja oikiaa tietä. ",
       "king_james": "Moreover as for me, God forbid that I should sin against the Lord in ceasing to pray for you: but I will teach you the good and the right way:"
     },
     {
       "verse": 24,
       "latin_vulgate": "Igitur timete Dominum, et servite ei in veritate, et ex toto corde vestro : vidistis enim magnifica quæ in vobis gesserit. ",
       "hebrew_masoretic": "אַ֣ךְ ׀ יְר֣אוּ אֶת־יְהֹוָ֗ה וַעֲבַדְתֶּ֥ם אֹת֛וֹ בֶּאֱמֶ֖ת בְּכׇל־לְבַבְכֶ֑ם כִּ֣י רְא֔וּ אֵ֥ת אֲשֶׁר־הִגְדִּ֖ל עִמָּכֶֽם׃",
+      "douay_rheims": "Therefore fear the Lord, and serve him in truth, and with your whole heart, for you have seen the great works which he hath done among you.",
+      "finnish_biblia": "Ainoastansa peljätkäät Herraa ja palvelkaat häntä uskollisesti kaikesta sydämestänne; sillä katsokaat, kuinka suuria tekoja hän tekee teidän kanssanne. ",
       "king_james": "Only fear the Lord, and serve him in truth with all your heart: for consider how great things he hath done for you."
     },
     {
       "verse": 25,
       "latin_vulgate": "Quod si perseveraveritis in malitia, et vos et rex vester pariter peribitis.   ",
       "hebrew_masoretic": "וְאִם־הָרֵ֖עַ תָּרֵ֑עוּ גַּם־אַתֶּ֥ם גַּֽם־מַלְכְּכֶ֖ם תִּסָּפֽוּ׃ {פ}",
+      "douay_rheims": "But if you will still do wickedly: both you and your king shall perish together. ",
+      "finnish_biblia": "Mutta jos te teette pahaa, niin sekä te että teidän kuninkaanne hukkuu.   ",
       "king_james": "But if ye shall still do wickedly, ye shall be consumed, both ye and your king. "
     }
   ]

@@ -2,6 +2,8 @@
   "book_id": "PSA",
   "latin_name": "Liber Psalmorum",
   "hebrew_name": "תְּהִלִּים",
+  "douay_name": "Psalms",
+  "finnish_name": "Psalmit",
   "english_name": "Psalms",
   "chapter": 104,
   "verses": [
@@ -9,9 +11,14 @@
       "verse": 1,
       "latin_vulgate": "Ipsi David.   Benedic, anima mea, Domino :  Domine Deus meus, magnificatus es vehementer.  Confessionem et decorem induisti, ",
       "hebrew_masoretic": "בָּרְכִ֥י נַפְשִׁ֗י אֶת־יְ֫הֹוָ֥ה יְהֹוָ֣ה אֱ֭לֹהַי גָּדַ֣לְתָּ מְּאֹ֑ד ה֖וֹד וְהָדָ֣ר לָבָֽשְׁתָּ׃",
+      "douay_rheims": "For David himself. Bless the Lord, O my soul: O Lord my God, thou art exceedingly great. Thou hast put on praise and beauty:",
+      "finnish_biblia": "Kiitä Herraa, sieluni! Herra, minun Jumalani, sinä olet sangen suuresti kunnioitettu, suurella kunnialla ja kaunistuksella olet sinä puetettu. ",
       "king_james": "Bless the Lord, O my soul. O Lord my God, thou art very great; thou art clothed with honour and majesty.",
       "refs": {
         "latin_vulgate": {
+          "src": "103:1"
+        },
+        "douay_rheims": {
           "src": "103:1"
         }
       }
@@ -20,9 +27,14 @@
       "verse": 2,
       "latin_vulgate": " amictus lumine sicut vestimento.  Extendens cælum sicut pellem, ",
       "hebrew_masoretic": "עֹֽטֶה־א֭וֹר כַּשַּׂלְמָ֑ה נוֹטֶ֥ה שָׁ֝מַ֗יִם כַּיְרִיעָֽה׃",
+      "douay_rheims": "And art clothed with light as with a garment. Who stretchest out the heaven like a pavilion:",
+      "finnish_biblia": "Sinä puetat itses valkeudella niinkuin vaatteella: sinä levität taivaat niinkuin peitteen. ",
       "king_james": "Who coverest thyself with light as with a garment: who stretchest out the heavens like a curtain:",
       "refs": {
         "latin_vulgate": {
+          "src": "103:2"
+        },
+        "douay_rheims": {
           "src": "103:2"
         }
       }
@@ -31,9 +43,14 @@
       "verse": 3,
       "latin_vulgate": " qui tegis aquis superiora ejus :  qui ponis nubem ascensum tuum ;  qui ambulas super pennas ventorum : ",
       "hebrew_masoretic": "הַ֥מְקָרֶ֥ה בַמַּ֗יִם עֲֽלִיּ֫וֹתָ֥יו הַשָּׂם־עָבִ֥ים רְכוּב֑וֹ הַֽ֝מְהַלֵּ֗ךְ עַל־כַּנְפֵי־רֽוּחַ׃",
+      "douay_rheims": "Who coverest the higher rooms thereof with water. Who makest the clouds thy chariot: who walkest upon the wings of the winds.",
+      "finnish_biblia": "Sinä peität sen päällyksen vedellä: sinä menet pilvissä niinkuin ratasten päällä, ja käyt tuulen siipein päällä. ",
       "king_james": "Who layeth the beams of his chambers in the waters: who maketh the clouds his chariot: who walketh upon the wings of the wind:",
       "refs": {
         "latin_vulgate": {
+          "src": "103:3"
+        },
+        "douay_rheims": {
           "src": "103:3"
         }
       }
@@ -42,9 +59,14 @@
       "verse": 4,
       "latin_vulgate": " qui facis angelos tuos spiritus,  et ministros tuos ignem urentem. ",
       "hebrew_masoretic": "עֹשֶׂ֣ה מַלְאָכָ֣יו רוּח֑וֹת מְ֝שָׁרְתָ֗יו אֵ֣שׁ לֹהֵֽט׃",
+      "douay_rheims": "Who makest thy angels spirits: and thy ministers a burning fire.",
+      "finnish_biblia": "Sinä teet enkelis hengeksi ja palvelias liekitseväiseksi tuleksi. ",
       "king_james": "Who maketh his angels spirits; his ministers a flaming fire:",
       "refs": {
         "latin_vulgate": {
+          "src": "103:4"
+        },
+        "douay_rheims": {
           "src": "103:4"
         }
       }
@@ -53,9 +75,14 @@
       "verse": 5,
       "latin_vulgate": " Qui fundasti terram super stabilitatem suam :  non inclinabitur in sæculum sæculi. ",
       "hebrew_masoretic": "יָֽסַד־אֶ֭רֶץ עַל־מְכוֹנֶ֑יהָ בַּל־תִּ֝מּ֗וֹט עוֹלָ֥ם וָעֶֽד׃",
+      "douay_rheims": "Who hast founded the earth upon its own bases: it shall not be moved for ever and ever.",
+      "finnish_biblia": "Sinä joka maan perustit perustuksensa päälle, ettei sen pidä liikkuman ijankaikkisesti. ",
       "king_james": "Who laid the foundations of the earth, that it should not be removed for ever.",
       "refs": {
         "latin_vulgate": {
+          "src": "103:5"
+        },
+        "douay_rheims": {
           "src": "103:5"
         }
       }
@@ -64,9 +91,14 @@
       "verse": 6,
       "latin_vulgate": " Abyssus sicut vestimentum amictus ejus ;  super montes stabunt aquæ. ",
       "hebrew_masoretic": "תְּ֭הוֹם כַּלְּב֣וּשׁ כִּסִּית֑וֹ עַל־הָ֝רִ֗ים יַ֖עַמְדוּ־מָֽיִם׃",
+      "douay_rheims": "The deep like a garment is its clothing: above the mountains shall the waters stand.",
+      "finnish_biblia": "Syvyydellä sinä sen peität niinkuin vaatteella, ja vedet seisovat vuorilla. ",
       "king_james": "Thou coveredst it with the deep as with a garment: the waters stood above the mountains.",
       "refs": {
         "latin_vulgate": {
+          "src": "103:6"
+        },
+        "douay_rheims": {
           "src": "103:6"
         }
       }
@@ -75,9 +107,14 @@
       "verse": 7,
       "latin_vulgate": " Ab increpatione tua fugient ;  a voce tonitrui tui formidabunt. ",
       "hebrew_masoretic": "מִן־גַּעֲרָ֣תְךָ֣ יְנוּס֑וּן מִן־ק֥וֹל רַ֝עַמְךָ֗ יֵחָפֵזֽוּן׃",
+      "douay_rheims": "At thy rebuke they shall flee: at the voice of thy thunder they shall fear.",
+      "finnish_biblia": "Mutta sinun nuhtelemisestas he pakenevat: sinun jylinästäs he menevät pois. ",
       "king_james": "At thy rebuke they fled; at the voice of thy thunder they hasted away.",
       "refs": {
         "latin_vulgate": {
+          "src": "103:7"
+        },
+        "douay_rheims": {
           "src": "103:7"
         }
       }
@@ -86,9 +123,14 @@
       "verse": 8,
       "latin_vulgate": " Ascendunt montes, et descendunt campi,  in locum quem fundasti eis. ",
       "hebrew_masoretic": "יַעֲל֣וּ הָ֭רִים יֵרְד֣וּ בְקָע֑וֹת אֶל־מְ֝ק֗וֹם זֶ֤ה ׀ יָסַ֬דְתָּ לָהֶֽם׃",
+      "douay_rheims": "The mountains ascend, and the plains descend into the place which thou hast founded for them.",
+      "finnish_biblia": "Vuoret astuvat ylös, ja laaksot astuvat alas siallensa, johon heidät perustanut olet. ",
       "king_james": "They go up by the mountains; they go down by the valleys unto the place which thou hast founded for them.",
       "refs": {
         "latin_vulgate": {
+          "src": "103:8"
+        },
+        "douay_rheims": {
           "src": "103:8"
         }
       }
@@ -97,9 +139,14 @@
       "verse": 9,
       "latin_vulgate": " Terminum posuisti quem non transgredientur,  neque convertentur operire terram. ",
       "hebrew_masoretic": "גְּֽבוּל־שַׂ֭מְתָּ בַּל־יַעֲבֹר֑וּן בַּל־יְ֝שֻׁב֗וּן לְכַסּ֥וֹת הָאָֽרֶץ׃",
+      "douay_rheims": "Thou hast set a bound which they shall not pass over; neither shall they return to cover the earth.",
+      "finnish_biblia": "Määrän sinä panit, jota ei he käy ylitse, eikä palaja maata peittämään. ",
       "king_james": "Thou hast set a bound that they may not pass over; that they turn not again to cover the earth.",
       "refs": {
         "latin_vulgate": {
+          "src": "103:9"
+        },
+        "douay_rheims": {
           "src": "103:9"
         }
       }
@@ -108,9 +155,14 @@
       "verse": 10,
       "latin_vulgate": " Qui emittis fontes in convallibus ;  inter medium montium pertransibunt aquæ. ",
       "hebrew_masoretic": "הַֽמְשַׁלֵּ֣חַ מַ֭עְיָנִים בַּנְּחָלִ֑ים בֵּ֥ין הָ֝רִ֗ים יְהַלֵּכֽוּן׃",
+      "douay_rheims": "Thou sendest forth springs in the vales: between the midst of the hills the waters shall pass.",
+      "finnish_biblia": "Sinä annat lähteet laaksoissa kuohua, niin että ne vuorten välitse vuotavat; ",
       "king_james": "He sendeth the springs into the valleys, which run among the hills.",
       "refs": {
         "latin_vulgate": {
+          "src": "103:10"
+        },
+        "douay_rheims": {
           "src": "103:10"
         }
       }
@@ -119,9 +171,14 @@
       "verse": 11,
       "latin_vulgate": " Potabunt omnes bestiæ agri ;  expectabunt onagri in siti sua. ",
       "hebrew_masoretic": "יַ֭שְׁקוּ כׇּל־חַיְת֣וֹ שָׂדָ֑י יִשְׁבְּר֖וּ פְרָאִ֣ים צְמָאָֽם׃",
+      "douay_rheims": "All the beasts of the field shall drink: the wild asses shall expect in their thirst.",
+      "finnish_biblia": "Että kaikki eläimet metsässä joisivat, ja että pedot janonsa sammuttaisivat. ",
       "king_james": "They give drink to every beast of the field: the wild asses quench their thirst.",
       "refs": {
         "latin_vulgate": {
+          "src": "103:11"
+        },
+        "douay_rheims": {
           "src": "103:11"
         }
       }
@@ -130,9 +187,14 @@
       "verse": 12,
       "latin_vulgate": " Super ea volucres cæli habitabunt ;  de medio petrarum dabunt voces. ",
       "hebrew_masoretic": "עֲ֭לֵיהֶם עוֹף־הַשָּׁמַ֣יִם יִשְׁכּ֑וֹן מִבֵּ֥ין עֳ֝פָאיִ֗ם יִתְּנוּ־קֽוֹל׃",
+      "douay_rheims": "Over them the birds of the air shall dwell: from the midst of the rocks they shall give forth their voices.",
+      "finnish_biblia": "Heidän tykönänsä istuvat taivaan linnut, ja visertävät oksilla. ",
       "king_james": "By them shall the fowls of the heaven have their habitation, which sing among the branches.",
       "refs": {
         "latin_vulgate": {
+          "src": "103:12"
+        },
+        "douay_rheims": {
           "src": "103:12"
         }
       }
@@ -141,9 +203,14 @@
       "verse": 13,
       "latin_vulgate": " Rigans montes de superioribus suis ;  de fructu operum tuorum satiabitur terra : ",
       "hebrew_masoretic": "מַשְׁקֶ֣ה הָ֭רִים מֵעֲלִיּוֹתָ֑יו מִפְּרִ֥י מַ֝עֲשֶׂ֗יךָ תִּשְׂבַּ֥ע הָאָֽרֶץ׃",
+      "douay_rheims": "Thou waterest the hills from thy upper rooms: the earth shall be filled with the fruit of thy works:",
+      "finnish_biblia": "Sinä liotat vuoret ylhäältä: sinä täytät maan hedelmällä, jonka sinä saatat. ",
       "king_james": "He watereth the hills from his chambers: the earth is satisfied with the fruit of thy works.",
       "refs": {
         "latin_vulgate": {
+          "src": "103:13"
+        },
+        "douay_rheims": {
           "src": "103:13"
         }
       }
@@ -152,9 +219,14 @@
       "verse": 14,
       "latin_vulgate": " producens fœnum jumentis,  et herbam servituti hominum,  ut educas panem de terra, ",
       "hebrew_masoretic": "מַצְמִ֤יחַ חָצִ֨יר ׀ לַבְּהֵמָ֗ה וְ֭עֵשֶׂב לַעֲבֹדַ֣ת הָאָדָ֑ם לְה֥וֹצִיא לֶ֝֗חֶם מִן־הָאָֽרֶץ׃",
+      "douay_rheims": "Bringing forth grass for cattle, and herb for the service of men. That thou mayst bring bread out of the earth:",
+      "finnish_biblia": "Sinä kasvatat ruohon karjalle, ja jyvät ihmisten tarpeeksi, tuottaakses leipää maasta. ",
       "king_james": "He causeth the grass to grow for the cattle, and herb for the service of man: that he may bring forth food out of the earth;",
       "refs": {
         "latin_vulgate": {
+          "src": "103:14"
+        },
+        "douay_rheims": {
           "src": "103:14"
         }
       }
@@ -163,9 +235,14 @@
       "verse": 15,
       "latin_vulgate": " et vinum lætificet cor hominis :  ut exhilaret faciem in oleo,  et panis cor hominis confirmet. ",
       "hebrew_masoretic": "וְיַ֤יִן ׀ יְשַׂמַּ֬ח לְֽבַב־אֱנ֗וֹשׁ לְהַצְהִ֣יל פָּנִ֣ים מִשָּׁ֑מֶן וְ֝לֶ֗חֶם לְֽבַב־אֱנ֥וֹשׁ יִסְעָֽד׃",
+      "douay_rheims": "And that wine may cheer the heart of man. That he may make the face cheerful with oil: and that bread may strengthen man's heart.",
+      "finnish_biblia": "Ja että viina ihmisen sydämen ilahuttaa, ja hänen kasvonsa kaunistuu öljystä: ja leipä vahvistaa ihmisen sydämen. ",
       "king_james": "And wine that maketh glad the heart of man, and oil to make his face to shine, and bread which strengtheneth man’s heart.",
       "refs": {
         "latin_vulgate": {
+          "src": "103:15"
+        },
+        "douay_rheims": {
           "src": "103:15"
         }
       }
@@ -174,9 +251,14 @@
       "verse": 16,
       "latin_vulgate": " Saturabuntur ligna campi,  et cedri Libani quas plantavit : ",
       "hebrew_masoretic": "יִ֭שְׂבְּעוּ עֲצֵ֣י יְהֹוָ֑ה אַֽרְזֵ֥י לְ֝בָנ֗וֹן אֲשֶׁ֣ר נָטָֽע׃",
+      "douay_rheims": "The trees of the field shall be filled, and the cedars of Libanus which he hath planted:",
+      "finnish_biblia": "Että Herran puut nesteestä täynnä olisivat: Libanonin sedripuut, jotka hän on istuttanut; ",
       "king_james": "The trees of the Lord are full of sap; the cedars of Lebanon, which he hath planted;",
       "refs": {
         "latin_vulgate": {
+          "src": "103:16"
+        },
+        "douay_rheims": {
           "src": "103:16"
         }
       }
@@ -185,9 +267,14 @@
       "verse": 17,
       "latin_vulgate": " illic passeres nidificabunt :  herodii domus dux est eorum. ",
       "hebrew_masoretic": "אֲשֶׁר־שָׁ֭ם צִפֳּרִ֣ים יְקַנֵּ֑נוּ חֲ֝סִידָ֗ה בְּרוֹשִׁ֥ים בֵּיתָֽהּ׃",
+      "douay_rheims": "There the sparrows shall make their nests. The highest of them is the house of the heron.",
+      "finnish_biblia": "Siellä linnut pesiä tekevät, ja haikarat hongissa asuvat. ",
       "king_james": "Where the birds make their nests: as for the stork, the fir trees are her house.",
       "refs": {
         "latin_vulgate": {
+          "src": "103:17"
+        },
+        "douay_rheims": {
           "src": "103:17"
         }
       }
@@ -196,9 +283,14 @@
       "verse": 18,
       "latin_vulgate": " Montes excelsi cervis ;  petra refugium herinaciis. ",
       "hebrew_masoretic": "הָרִ֣ים הַ֭גְּבֹהִים לַיְּעֵלִ֑ים סְ֝לָעִ֗ים מַחְסֶ֥ה לַֽשְׁפַנִּֽים׃",
+      "douay_rheims": "The high hills are a refuge for the harts, the rock for the irchins.",
+      "finnish_biblia": "Korkiat vuoret ovat metsävuohten turva, ja kivirauniot kaninein. ",
       "king_james": "The high hills are a refuge for the wild goats; and the rocks for the conies.",
       "refs": {
         "latin_vulgate": {
+          "src": "103:18"
+        },
+        "douay_rheims": {
           "src": "103:18"
         }
       }
@@ -207,9 +299,14 @@
       "verse": 19,
       "latin_vulgate": " Fecit lunam in tempora ;  sol cognovit occasum suum. ",
       "hebrew_masoretic": "עָשָׂ֣ה יָ֭רֵחַ לְמוֹעֲדִ֑ים שֶׁ֝֗מֶשׁ יָדַ֥ע מְבוֹאֽוֹ׃",
+      "douay_rheims": "He hath made the moon for seasons: the sun knoweth his going down.",
+      "finnish_biblia": "Sinä teet kuun aikoja jakamaan, ja aurinko tietää laskemisensa. ",
       "king_james": "He appointed the moon for seasons: the sun knoweth his going down.",
       "refs": {
         "latin_vulgate": {
+          "src": "103:19"
+        },
+        "douay_rheims": {
           "src": "103:19"
         }
       }
@@ -218,9 +315,14 @@
       "verse": 20,
       "latin_vulgate": " Posuisti tenebras, et facta est nox ;  in ipsa pertransibunt omnes bestiæ silvæ : ",
       "hebrew_masoretic": "תָּֽשֶׁת־חֹ֭שֶׁךְ וִ֣יהִי לָ֑יְלָה בּוֹ־תִ֝רְמֹ֗שׂ כׇּל־חַיְתוֹ־יָֽעַר׃",
+      "douay_rheims": "Thou hast appointed darkness, and it is night: in it shall all the beasts of the woods go about:",
+      "finnish_biblia": "Sinä teet pimeyden ja yö tulee: silloin kaikki metsän eläimet tulevat ulos. ",
       "king_james": "Thou makest darkness, and it is night: wherein all the beasts of the forest do creep forth.",
       "refs": {
         "latin_vulgate": {
+          "src": "103:20"
+        },
+        "douay_rheims": {
           "src": "103:20"
         }
       }
@@ -229,9 +331,14 @@
       "verse": 21,
       "latin_vulgate": " catuli leonum rugientes ut rapiant,  et quærant a Deo escam sibi. ",
       "hebrew_masoretic": "הַ֭כְּפִירִים שֹׁאֲגִ֣ים לַטָּ֑רֶף וּלְבַקֵּ֖שׁ מֵאֵ֣ל אׇכְלָֽם׃",
+      "douay_rheims": "The young lions roaring after their prey, and seeking their meat from God.",
+      "finnish_biblia": "Nuoret jalopeurat saaliin perään kiljuvat, ja elatustansa Jumalalta etsivät. ",
       "king_james": "The young lions roar after their prey, and seek their meat from God.",
       "refs": {
         "latin_vulgate": {
+          "src": "103:21"
+        },
+        "douay_rheims": {
           "src": "103:21"
         }
       }
@@ -240,9 +347,14 @@
       "verse": 22,
       "latin_vulgate": " Ortus est sol, et congregati sunt,  et in cubilibus suis collocabuntur. ",
       "hebrew_masoretic": "תִּזְרַ֣ח הַ֭שֶּׁמֶשׁ יֵאָסֵפ֑וּן וְאֶל־מְ֝עוֹנֹתָ֗ם יִרְבָּצֽוּן׃",
+      "douay_rheims": "The sun ariseth, and they are gathered together: and they shall lie down in their dens.",
+      "finnish_biblia": "Mutta kuin aurinko koittaa, niin he kokoontuvat, ja luolissansa makaavat. ",
       "king_james": "The sun ariseth, they gather themselves together, and lay them down in their dens.",
       "refs": {
         "latin_vulgate": {
+          "src": "103:22"
+        },
+        "douay_rheims": {
           "src": "103:22"
         }
       }
@@ -251,9 +363,14 @@
       "verse": 23,
       "latin_vulgate": " Exibit homo ad opus suum,  et ad operationem suam usque ad vesperum. ",
       "hebrew_masoretic": "יֵצֵ֣א אָדָ֣ם לְפׇעֳל֑וֹ וְֽלַעֲבֹ֖דָת֣וֹ עֲדֵי־עָֽרֶב׃",
+      "douay_rheims": "Man shall go forth to his work, and to his labour until the evening.",
+      "finnish_biblia": "Niin menee myös ihminen työhönsä, ja askareillensa ehtoosen asti. ",
       "king_james": "Man goeth forth unto his work and to his labour until the evening.",
       "refs": {
         "latin_vulgate": {
+          "src": "103:23"
+        },
+        "douay_rheims": {
           "src": "103:23"
         }
       }
@@ -262,9 +379,14 @@
       "verse": 24,
       "latin_vulgate": " Quam magnificata sunt opera tua, Domine !  omnia in sapientia fecisti ;  impleta est terra possessione tua. ",
       "hebrew_masoretic": "מָה־רַבּ֬וּ מַעֲשֶׂ֨יךָ ׀ יְֽהֹוָ֗ה כֻּ֭לָּם בְּחׇכְמָ֣ה עָשִׂ֑יתָ מָלְאָ֥ה הָ֝אָ֗רֶץ קִנְיָנֶֽךָ׃",
+      "douay_rheims": "How great are thy works, O Lord ? thou hast made all things in wisdom: the earth is filled with thy riches.",
+      "finnish_biblia": "Herra, kuinka suuret ja monet ovat sinun käsialas? Sinä olet kaikki taitavasti säätänyt, ja maa on täynnä sinun tavaraas. ",
       "king_james": "O Lord, how manifold are thy works! in wisdom hast thou made them all: the earth is full of thy riches.",
       "refs": {
         "latin_vulgate": {
+          "src": "103:24"
+        },
+        "douay_rheims": {
           "src": "103:24"
         }
       }
@@ -273,9 +395,14 @@
       "verse": 25,
       "latin_vulgate": " Hoc mare magnum et spatiosum manibus ;  illic reptilia quorum non est numerus :  animalia pusilla cum magnis. ",
       "hebrew_masoretic": "זֶ֤ה ׀ הַיָּ֥ם גָּדוֹל֮ וּרְחַ֢ב יָ֫דָ֥יִם שָֽׁם־רֶ֭מֶשׂ וְאֵ֣ין מִסְפָּ֑ר חַיּ֥וֹת קְ֝טַנּ֗וֹת עִם־גְּדֹלֽוֹת׃",
+      "douay_rheims": "So is this great sea, which stretcheth wide its arms: there are creeping things without number: Creatures little and great.",
+      "finnish_biblia": "Tämä meri, joka niin suuri ja lavia on, siinä epälukuiset liikuvat, sekä pienet että suuret eläimet; ",
       "king_james": "So is this great and wide sea, wherein are things creeping innumerable, both small and great beasts.",
       "refs": {
         "latin_vulgate": {
+          "src": "103:25"
+        },
+        "douay_rheims": {
           "src": "103:25"
         }
       }
@@ -284,9 +411,14 @@
       "verse": 26,
       "latin_vulgate": " Illic naves pertransibunt ;  draco iste quem formasti ad illudendum ei. ",
       "hebrew_masoretic": "שָׁ֭ם אֳנִיּ֣וֹת יְהַלֵּכ֑וּן לִ֝וְיָתָ֗ן זֶֽה־יָצַ֥רְתָּ לְשַֽׂחֶק־בּֽוֹ׃",
+      "douay_rheims": "There the ships shall go. This sea dragon which thou hast formed to play therein.",
+      "finnish_biblia": "Siellä haahdet kuljeskelevat: siinä valaskalat ovat, jotkas tehnyt olet, leikitsemään hänessä. ",
       "king_james": "There go the ships: there is that leviathan, whom thou hast made to play therein.",
       "refs": {
         "latin_vulgate": {
+          "src": "103:26"
+        },
+        "douay_rheims": {
           "src": "103:26"
         }
       }
@@ -295,9 +427,14 @@
       "verse": 27,
       "latin_vulgate": " Omnia a te expectant  ut des illis escam in tempore. ",
       "hebrew_masoretic": "כֻּ֭לָּם אֵלֶ֣יךָ יְשַׂבֵּר֑וּן לָתֵ֖ת אׇכְלָ֣ם בְּעִתּֽוֹ׃",
+      "douay_rheims": "All expect of thee that thou give them food in season.",
+      "finnish_biblia": "Kaikki odottavat sinua, ettäs heille antaisit ruan ajallansa. ",
       "king_james": "These wait all upon thee; that thou mayest give them their meat in due season.",
       "refs": {
         "latin_vulgate": {
+          "src": "103:27"
+        },
+        "douay_rheims": {
           "src": "103:27"
         }
       }
@@ -306,9 +443,14 @@
       "verse": 28,
       "latin_vulgate": " Dante te illis, colligent ;  aperiente te manum tuam, omnia implebuntur bonitate. ",
       "hebrew_masoretic": "תִּתֵּ֣ן לָ֭הֶם יִלְקֹט֑וּן תִּפְתַּ֥ח יָ֝דְךָ֗ יִשְׂבְּע֥וּן טֽוֹב׃",
+      "douay_rheims": "What thou givest to them they shall gather up: when thou openest thy hand, they shall all be filled with good.",
+      "finnish_biblia": "Koskas heille annat, niin he kokoovat: koskas kätes avaat, niin he hyvyydellä ravitaan. ",
       "king_james": "That thou givest them they gather: thou openest thine hand, they are filled with good.",
       "refs": {
         "latin_vulgate": {
+          "src": "103:28"
+        },
+        "douay_rheims": {
           "src": "103:28"
         }
       }
@@ -317,9 +459,14 @@
       "verse": 29,
       "latin_vulgate": " Avertente autem te faciem, turbabuntur ;  auferes spiritum eorum, et deficient,  et in pulverem suum revertentur. ",
       "hebrew_masoretic": "תַּסְתִּ֥יר פָּנֶיךָ֮ יִֽבָּהֵ֫ל֥וּן תֹּסֵ֣ף ר֭וּחָם יִגְוָע֑וּן וְֽאֶל־עֲפָרָ֥ם יְשׁוּבֽוּן׃",
+      "douay_rheims": "But if thou turnest away thy face, they shall be troubled: thou shalt take away their breath, and they shall fail, and shall return to their dust.",
+      "finnish_biblia": "Jos sinä kasvos peität, niin he hämmästyvät: koska sinä otat heidän henkensä pois, niin he hukkuvat, ja tomuksi tulevat jälleen. ",
       "king_james": "Thou hidest thy face, they are troubled: thou takest away their breath, they die, and return to their dust.",
       "refs": {
         "latin_vulgate": {
+          "src": "103:29"
+        },
+        "douay_rheims": {
           "src": "103:29"
         }
       }
@@ -328,9 +475,14 @@
       "verse": 30,
       "latin_vulgate": " Emittes spiritum tuum, et creabuntur,  et renovabis faciem terræ. ",
       "hebrew_masoretic": "תְּשַׁלַּ֣ח ר֭וּחֲךָ יִבָּרֵא֑וּן וּ֝תְחַדֵּ֗שׁ פְּנֵ֣י אֲדָמָֽה׃",
+      "douay_rheims": "Thou shalt send forth thy spirit, and they shall be created: and thou shalt renew the face of the earth.",
+      "finnish_biblia": "Sinä lähetät ulos henkes, niin he luoduksi tulevat, ja sinä uudistat maan muodon. ",
       "king_james": "Thou sendest forth thy spirit, they are created: and thou renewest the face of the earth.",
       "refs": {
         "latin_vulgate": {
+          "src": "103:30"
+        },
+        "douay_rheims": {
           "src": "103:30"
         }
       }
@@ -339,9 +491,14 @@
       "verse": 31,
       "latin_vulgate": " Sit gloria Domini in sæculum ;  lætabitur Dominus in operibus suis. ",
       "hebrew_masoretic": "יְהִ֤י כְב֣וֹד יְהֹוָ֣ה לְעוֹלָ֑ם יִשְׂמַ֖ח יְהֹוָ֣ה בְּמַעֲשָֽׂיו׃",
+      "douay_rheims": "May the glory of the Lord endure for ever: the Lord shall rejoice in his works.",
+      "finnish_biblia": "Herran kunnia pysyy ijankaikkisesti: Herra iloitsee töissänsä. ",
       "king_james": "The glory of the Lord shall endure for ever: the Lord shall rejoice in his works.",
       "refs": {
         "latin_vulgate": {
+          "src": "103:31"
+        },
+        "douay_rheims": {
           "src": "103:31"
         }
       }
@@ -350,9 +507,14 @@
       "verse": 32,
       "latin_vulgate": " Qui respicit terram, et facit eam tremere ;  qui tangit montes, et fumigant. ",
       "hebrew_masoretic": "הַמַּבִּ֣יט לָ֭אָרֶץ וַתִּרְעָ֑ד יִגַּ֖ע בֶּהָרִ֣ים וְֽיֶעֱשָֽׁנוּ׃",
+      "douay_rheims": "He looketh upon the earth, and maketh it tremble: he troubleth the mountains, and they smoke.",
+      "finnish_biblia": "Hän katsahtaa maan päälle, niin se vapisee: hän rupee vuoriin, niin ne suitsevat. ",
       "king_james": "He looketh on the earth, and it trembleth: he toucheth the hills, and they smoke.",
       "refs": {
         "latin_vulgate": {
+          "src": "103:32"
+        },
+        "douay_rheims": {
           "src": "103:32"
         }
       }
@@ -361,9 +523,14 @@
       "verse": 33,
       "latin_vulgate": " Cantabo Domino in vita mea ;  psallam Deo meo quamdiu sum. ",
       "hebrew_masoretic": "אָשִׁ֣ירָה לַיהֹוָ֣ה בְּחַיָּ֑י אֲזַמְּרָ֖ה לֵאלֹהַ֣י בְּעוֹדִֽי׃",
+      "douay_rheims": "I will sing to the Lord as long as I live: I will sing praise to my God while I have my being.",
+      "finnish_biblia": "Minä veisaan Herralle minun elinaikanani, ja kiitän minun Jumalaani niinkauvan kuin minä olen. ",
       "king_james": "I will sing unto the Lord as long as I live: I will sing praise to my God while I have my being.",
       "refs": {
         "latin_vulgate": {
+          "src": "103:33"
+        },
+        "douay_rheims": {
           "src": "103:33"
         }
       }
@@ -372,9 +539,14 @@
       "verse": 34,
       "latin_vulgate": " Jucundum sit ei eloquium meum ;  ego vero delectabor in Domino. ",
       "hebrew_masoretic": "יֶעֱרַ֣ב עָלָ֣יו שִׂיחִ֑י אָ֝נֹכִ֗י אֶשְׂמַ֥ח בַּיהֹוָֽה׃",
+      "douay_rheims": "Let my speech be acceptable to him: but I will take delight in the Lord.",
+      "finnish_biblia": "Minun puheeni kelpaa hänelle, ja minä iloitsen Herrassa. ",
       "king_james": "My meditation of him shall be sweet: I will be glad in the Lord.",
       "refs": {
         "latin_vulgate": {
+          "src": "103:34"
+        },
+        "douay_rheims": {
           "src": "103:34"
         }
       }
@@ -383,9 +555,14 @@
       "verse": 35,
       "latin_vulgate": " Deficiant peccatores a terra,  et iniqui, ita ut non sint.  Benedic, anima mea, Domino.  ",
       "hebrew_masoretic": "יִתַּ֤מּוּ חַטָּאִ֨ים ׀ מִן־הָאָ֡רֶץ וּרְשָׁעִ֤ים ׀ ע֤וֹד אֵינָ֗ם בָּרְכִ֣י נַ֭פְשִׁי אֶת־יְהֹוָ֗ה הַֽלְלוּ־יָֽהּ׃ {פ}",
+      "douay_rheims": "Let sinners be consumed out of the earth, and the unjust, so that they be no more: O my soul, bless thou the Lord. ",
+      "finnish_biblia": "Syntiset maalta lopetetaan, ja jumalattomat ei pidä silleen oleman: kiitä Herraa, sieluni, Halleluja!   ",
       "king_james": "Let the sinners be consumed out of the earth, and let the wicked be no more. Bless thou the Lord, O my soul. Praise ye the Lord. ",
       "refs": {
         "latin_vulgate": {
+          "src": "103:35"
+        },
+        "douay_rheims": {
           "src": "103:35"
         }
       }

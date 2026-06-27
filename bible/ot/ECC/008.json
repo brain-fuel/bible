@@ -2,6 +2,8 @@
   "book_id": "ECC",
   "latin_name": "Ecclesiastes",
   "hebrew_name": "קֹהֶלֶת",
+  "douay_name": "Ecclesiastes",
+  "finnish_name": "Saarnaaja",
   "english_name": "Ecclesiastes",
   "chapter": 8,
   "verses": [
@@ -9,102 +11,136 @@
       "verse": 1,
       "latin_vulgate": "Sapientia hominis lucet in vultu ejus,  et potentissimus faciem illius commutabit. ",
       "hebrew_masoretic": "מִ֚י כְּהֶ֣חָכָ֔ם וּמִ֥י יוֹדֵ֖עַ פֵּ֣שֶׁר דָּבָ֑ר חׇכְמַ֤ת אָדָם֙ תָּאִ֣יר פָּנָ֔יו וְעֹ֥ז פָּנָ֖יו יְשֻׁנֶּֽא׃",
+      "douay_rheims": "The wisdom of a man shineth in his countenance, and the most mighty will change his face.",
+      "finnish_biblia": "Kuka on viisaan vertainen, ja kuka taitaa selittää asian? Ihmisen viisaus kirkastaa hänen kasvonsa, ja hänen kasvojensa kovuus muuttuu. ",
       "king_james": "Who is as the wise man? and who knoweth the interpretation of a thing? a man’s wisdom maketh his face to shine, and the boldness of his face shall be changed."
     },
     {
       "verse": 2,
       "latin_vulgate": " Ego os regis observo,  et præcepta juramenti Dei. ",
       "hebrew_masoretic": "אֲנִי֙ פִּי־מֶ֣לֶךְ שְׁמֹ֔ר וְעַ֕ל דִּבְרַ֖ת שְׁבוּעַ֥ת אֱלֹהִֽים׃",
+      "douay_rheims": "I observe the mouth of the king, and the commandments of the oath of God.",
+      "finnish_biblia": "Minä sanon: Ota vaari kuninkaan käskystä, varsinkin Jumalan kautta vannotun valan tähden. ",
       "king_james": "I counsel thee to keep the king’s commandment, and that in regard of the oath of God."
     },
     {
       "verse": 3,
       "latin_vulgate": " Ne festines recedere a facie ejus,  neque permaneas in opere malo :  quia omne quod voluerit faciet. ",
       "hebrew_masoretic": "אַל־תִּבָּהֵ֤ל מִפָּנָיו֙ תֵּלֵ֔ךְ אַֽל־תַּעֲמֹ֖ד בְּדָבָ֣ר רָ֑ע כִּ֛י כׇּל־אֲשֶׁ֥ר יַחְפֹּ֖ץ יַעֲשֶֽׂה׃",
+      "douay_rheims": "Be not hasty to depart from his face, and do not continue in an evil work: for he will do all that pleaseth him:",
+      "finnish_biblia": "Älä ole kerkeä luopumaan hänestä, äläkä asetu pahan asian puolelle, sillä hän tekee, mitä vain tahtoo. ",
       "king_james": "Be not hasty to go out of his sight: stand not in an evil thing; for he doeth whatsoever pleaseth him."
     },
     {
       "verse": 4,
       "latin_vulgate": " Et sermo illius potestate plenus est,  nec dicere ei quisquam potest : Quare ita facis ? ",
       "hebrew_masoretic": "בַּאֲשֶׁ֥ר דְּבַר־מֶ֖לֶךְ שִׁלְט֑וֹן וּמִ֥י יֹֽאמַר־ל֖וֹ מַֽה־תַּעֲשֶֽׂה׃",
+      "douay_rheims": "And his word is full of power: neither can any man say to him: Why dost thou so?",
+      "finnish_biblia": "Sillä kuninkaan sana on voimallinen, ja kuka voi sanoa hänelle: Mitäs teet? ",
       "king_james": "Where the word of a king is, there is power: and who may say unto him, What doest thou?"
     },
     {
       "verse": 5,
       "latin_vulgate": " Qui custodit præceptum non experietur quidquam mali.  Tempus et responsionem cor sapientis intelligit. ",
       "hebrew_masoretic": "שׁוֹמֵ֣ר מִצְוָ֔ה לֹ֥א יֵדַ֖ע דָּבָ֣ר רָ֑ע וְעֵ֣ת וּמִשְׁפָּ֔ט יֵדַ֖ע לֵ֥ב חָכָֽם׃",
+      "douay_rheims": "He that keepeth the commandment, shall find no evil. The heart of a wiser man understandeth time and answer.",
+      "finnish_biblia": "Joka käskyn pitää, ei tiedä pahasta asiasta; ja viisaan sydän tietää ajan ja tuomion. ",
       "king_james": "Whoso keepeth the commandment shall feel no evil thing: and a wise man’s heart discerneth both time and judgment."
     },
     {
       "verse": 6,
       "latin_vulgate": " Omni negotio tempus est, et opportunitas :  et multa hominis afflictio, ",
       "hebrew_masoretic": "כִּ֣י לְכׇל־חֵ֔פֶץ יֵ֖שׁ עֵ֣ת וּמִשְׁפָּ֑ט כִּֽי־רָעַ֥ת הָאָדָ֖ם רַבָּ֥ה עָלָֽיו׃",
+      "douay_rheims": "There is a time and opportunity for every business, and great affliction for man:",
+      "finnish_biblia": "Sillä itsekullakin asialla on aikansa ja tuomionsa; ihmistä näet painaa raskaasti hänen pahuutensa. ",
       "king_james": "Because to every purpose there is time and judgment, therefore the misery of man is great upon him."
     },
     {
       "verse": 7,
       "latin_vulgate": " quia ignorat præterita,  et futura nullo scire potest nuntio. ",
       "hebrew_masoretic": "כִּֽי־אֵינֶ֥נּוּ יֹדֵ֖עַ מַה־שֶּׁיִּֽהְיֶ֑ה כִּ֚י כַּאֲשֶׁ֣ר יִֽהְיֶ֔ה מִ֖י יַגִּ֥יד לֽוֹ׃",
+      "douay_rheims": "Because he is ignorant of things past, and things to come he cannot know by any messenger.",
+      "finnish_biblia": "Hän ei tiedä, mitä tuleva on; sillä kuka ilmaisee hänelle, miten se on tuleva? ",
       "king_james": "For he knoweth not that which shall be: for who can tell him when it shall be?"
     },
     {
       "verse": 8,
       "latin_vulgate": " Non est in hominis potestate prohibere spiritum,  nec habet potestatem in die mortis :  nec sinitur quiescere ingruente bello,  neque salvabit impietas impium. ",
       "hebrew_masoretic": "אֵ֣ין אָדָ֞ם שַׁלִּ֤יט בָּר֙וּחַ֙ לִכְל֣וֹא אֶת־הָר֔וּחַ וְאֵ֤ין שִׁלְטוֹן֙ בְּי֣וֹם הַמָּ֔וֶת וְאֵ֥ין מִשְׁלַ֖חַת בַּמִּלְחָמָ֑ה וְלֹֽא־יְמַלֵּ֥ט רֶ֖שַׁע אֶת־בְּעָלָֽיו׃",
+      "douay_rheims": "It is not in man's power to stop the spirit, neither hath he power in the day of death, neither is he suffered to rest when war is at hand, neither shall wickedness save the wicked.",
+      "finnish_biblia": "Ei ole ihminen tuulen valtias, niin että hän voisi sulkea tuulen, ei hallitse kukaan kuoleman päivää, ei ole pääsyä sodasta, eikä jumalattomuus pelasta harjoittajaansa. ",
       "king_james": "There is no man that hath power over the spirit to retain the spirit; neither hath he power in the day of death: and there is no discharge in that war; neither shall wickedness deliver those that are given to it."
     },
     {
       "verse": 9,
       "latin_vulgate": " Omnia hæc consideravi,  et dedi cor meum in cunctis operibus quæ fiunt sub sole.  Interdum dominatur homo homini in malum suum. ",
       "hebrew_masoretic": "אֶת־כׇּל־זֶ֤ה רָאִ֙יתִי֙ וְנָת֣וֹן אֶת־לִבִּ֔י לְכׇֽל־מַעֲשֶׂ֔ה אֲשֶׁ֥ר נַעֲשָׂ֖ה תַּ֣חַת הַשָּׁ֑מֶשׁ עֵ֗ת אֲשֶׁ֨ר שָׁלַ֧ט הָאָדָ֛ם בְּאָדָ֖ם לְרַ֥ע לֽוֹ׃",
+      "douay_rheims": "All these things I have considered, and applied my heart to all the works that are done under the sun. Sometimes one man ruleth over another to his own hurt.",
+      "finnish_biblia": "Kaiken tämän minä tulin näkemään, kun käänsin sydämeni tarkkaamaan kaikkea, mitä auringon alla tapahtuu aikana, jolloin ihminen vallitsee toista ihmistä hänen onnettomuudekseen. ",
       "king_james": "All this have I seen, and applied my heart unto every work that is done under the sun: there is a time wherein one man ruleth over another to his own hurt."
     },
     {
       "verse": 10,
       "latin_vulgate": " Vidi impios sepultos,  qui etiam cum adhuc viverent  in loco sancto erant,  et laudabantur in civitate  quasi justorum operum.  Sed et hoc vanitas est. ",
       "hebrew_masoretic": "וּבְכֵ֡ן רָאִ֩יתִי֩ רְשָׁעִ֨ים קְבֻרִ֜ים וָבָ֗אוּ וּמִמְּק֤וֹם קָדוֹשׁ֙ יְהַלֵּ֔כוּ וְיִֽשְׁתַּכְּח֥וּ בָעִ֖יר אֲשֶׁ֣ר כֵּן־עָשׂ֑וּ גַּם־זֶ֖ה הָֽבֶל׃",
+      "douay_rheims": "I saw the wicked buried: who also when they were yet living were in the holy place, and were praised in the city as men of just works: but this also is vanity.",
+      "finnish_biblia": "Sitten minä näin, kuinka jumalattomat haudattiin ja menivät lepoon, mutta ne, jotka olivat oikein tehneet, saivat lähteä pois pyhästä paikasta ja joutuivat unhotuksiin kaupungissa. Sekin on turhuus. ",
       "king_james": "And so I saw the wicked buried, who had come and gone from the place of the holy, and they were forgotten in the city where they had so done: this is also vanity."
     },
     {
       "verse": 11,
       "latin_vulgate": " Etenim quia non profertur cito contra malos sententia,  absque timore ullo  filii hominum perpetrant mala. ",
       "hebrew_masoretic": "אֲשֶׁר֙ אֵין־נַעֲשָׂ֣ה פִתְגָ֔ם מַעֲשֵׂ֥ה הָרָעָ֖ה מְהֵרָ֑ה עַל־כֵּ֡ן מָלֵ֞א לֵ֧ב בְּֽנֵי־הָאָדָ֛ם בָּהֶ֖ם לַעֲשׂ֥וֹת רָֽע׃",
+      "douay_rheims": "For because sentence is not speedily pronounced against the evil, the children of men commit evils without any fear.",
+      "finnish_biblia": "Milloin pahan teon tuomio ei tule pian, saavat ihmislapset rohkeutta tehdä pahaa, ",
       "king_james": "Because sentence against an evil work is not executed speedily, therefore the heart of the sons of men is fully set in them to do evil."
     },
     {
       "verse": 12,
       "latin_vulgate": " Attamen peccator ex eo quod centies facit malum,  et per patientiam sustentatur ;  ego cognovi quod erit bonum timentibus Deum,  qui verentur faciem ejus. ",
       "hebrew_masoretic": "אֲשֶׁ֣ר חֹטֶ֗א עֹשֶׂ֥ה רָ֛ע מְאַ֖ת וּמַאֲרִ֣יךְ ל֑וֹ כִּ֚י גַּם־יוֹדֵ֣עַ אָ֔נִי אֲשֶׁ֤ר יִהְיֶה־טּוֹב֙ לְיִרְאֵ֣י הָאֱלֹהִ֔ים אֲשֶׁ֥ר יִֽירְא֖וּ מִלְּפָנָֽיו׃",
+      "douay_rheims": "But though a sinner do evil a hundred times, and by patience be borne withal, I know from thence that it shall be well with them that fear God, who dread his face.",
+      "finnish_biblia": "koskapa syntinen saa tehdä pahaa sata kertaa ja elää kauan; tosin minä tiedän, että Jumalaa pelkääväisille käy hyvin, sentähden että he häntä pelkäävät, ",
       "king_james": "Though a sinner do evil an hundred times, and his days be prolonged, yet surely I know that it shall be well with them that fear God, which fear before him:"
     },
     {
       "verse": 13,
       "latin_vulgate": " Non sit bonum impio,  nec prolongentur dies ejus,  sed quasi umbra transeant qui non timent faciem Domini. ",
       "hebrew_masoretic": "וְטוֹב֙ לֹֽא־יִהְיֶ֣ה לָֽרָשָׁ֔ע וְלֹֽא־יַאֲרִ֥יךְ יָמִ֖ים כַּצֵּ֑ל אֲשֶׁ֛ר אֵינֶ֥נּוּ יָרֵ֖א מִלִּפְנֵ֥י אֱלֹהִֽים׃",
+      "douay_rheims": "But let it not be well with the wicked, neither let his days be prolonged, but as a shadow let them pass away that fear not the face of the Lord.",
+      "finnish_biblia": "mutta että jumalattomalle ei käy hyvin eikä hän saa jatkaa päiviään pitkiksi kuin varjo, sentähden ettei hän pelkää Jumalaa. ",
       "king_james": "But it shall not be well with the wicked, neither shall he prolong his days, which are as a shadow; because he feareth not before God."
     },
     {
       "verse": 14,
       "latin_vulgate": " Est et alia vanitas quæ fit super terram :  sunt justi quibus mala proveniunt  quasi opera egerint impiorum :  et sunt impii qui ita securi sunt  quasi justorum facta habeant.  Sed et hoc vanissimum judico. ",
       "hebrew_masoretic": "יֶשׁ־הֶ֘בֶל֮ אֲשֶׁ֣ר נַעֲשָׂ֣ה עַל־הָאָ֒רֶץ֒ אֲשֶׁ֣ר ׀ יֵ֣שׁ צַדִּיקִ֗ים אֲשֶׁ֨ר מַגִּ֤יעַ אֲלֵהֶם֙ כְּמַעֲשֵׂ֣ה הָרְשָׁעִ֔ים וְיֵ֣שׁ רְשָׁעִ֔ים שֶׁמַּגִּ֥יעַ אֲלֵהֶ֖ם כְּמַעֲשֵׂ֣ה הַצַּדִּיקִ֑ים אָמַ֕רְתִּי שֶׁגַּם־זֶ֖ה הָֽבֶל׃",
+      "douay_rheims": "There is also another vanity, which is done upon the earth. There are just men to whom evils happen, as though they had done the works of the wicked: and there are wicked men, who are as secure as though they had the deeds of the just: but this also I judge most vain.",
+      "finnish_biblia": "On turhuutta sekin, mitä tapahtuu maan päällä, kun vanhurskaita on, joiden käy, niinkuin olisivat jumalattomain tekoja tehneet, ja jumalattomia on, joiden käy, niinkuin olisivat vanhurskaitten tekoja tehneet. Minä sanoin: sekin on turhuutta. ",
       "king_james": "There is a vanity which is done upon the earth; that there be just men, unto whom it happeneth according to the work of the wicked; again, there be wicked men, to whom it happeneth according to the work of the righteous: I said that this also is vanity."
     },
     {
       "verse": 15,
       "latin_vulgate": " Laudavi igitur lætitiam ;  quod non esset homini bonum sub sole,  nisi quod comederet, et biberet, atque gauderet,  et hoc solum secum auferret de labore suo,  in diebus vitæ suæ quos dedit ei Deus sub sole. ",
       "hebrew_masoretic": "וְשִׁבַּ֤חְתִּֽי אֲנִי֙ אֶת־הַשִּׂמְחָ֔ה אֲשֶׁ֨ר אֵֽין־ט֤וֹב לָֽאָדָם֙ תַּ֣חַת הַשֶּׁ֔מֶשׁ כִּ֛י אִם־לֶאֱכֹ֥ל וְלִשְׁתּ֖וֹת וְלִשְׂמ֑וֹחַ וְה֞וּא יִלְוֶ֣נּוּ בַעֲמָל֗וֹ יְמֵ֥י חַיָּ֛יו אֲשֶׁר־נָֽתַן־ל֥וֹ הָאֱלֹהִ֖ים תַּ֥חַת הַשָּֽׁמֶשׁ׃",
+      "douay_rheims": "Therefore I commended mirth, because there was no good for a man under the sun, but to eat, and drink, and be merry, and that he should take nothing else with him of his labour in the days of his life, which God hath given him under the sun.",
+      "finnish_biblia": "Ja minä ylistin iloa, koska ei ihmisellä auringon alla ole mitään parempaa kuin syödä ja juoda ja olla iloinen; se seuraa häntä hänen vaivannäkönsä ohessa hänen elämänsä päivinä, jotka Jumala on antanut hänelle auringon alla. ",
       "king_james": "Then I commended mirth, because a man hath no better thing under the sun, than to eat, and to drink, and to be merry: for that shall abide with him of his labour the days of his life, which God giveth him under the sun."
     },
     {
       "verse": 16,
       "latin_vulgate": " Et apposui cor meum ut scirem sapientiam,  et intelligerem distentionem quæ versatur in terra.  Est homo qui diebus et noctibus somnum non capit oculis. ",
       "hebrew_masoretic": "כַּאֲשֶׁ֨ר נָתַ֤תִּי אֶת־לִבִּי֙ לָדַ֣עַת חׇכְמָ֔ה וְלִרְאוֹת֙ אֶת־הָ֣עִנְיָ֔ן אֲשֶׁ֥ר נַעֲשָׂ֖ה עַל־הָאָ֑רֶץ כִּ֣י גַ֤ם בַּיּוֹם֙ וּבַלַּ֔יְלָה שֵׁנָ֕ה בְּעֵינָ֖יו אֵינֶ֥נּוּ רֹאֶֽה׃",
+      "douay_rheims": "And I applied my heart to know wisdom, and to understand the distraction that is upon earth: for there are some that day and night take no sleep with their eyes.",
+      "finnish_biblia": "Kun minä käänsin sydämeni oppimaan viisautta ja katsomaan työtä, jota tehdään maan päällä saamatta untakaan silmiin päivällä tai yöllä, ",
       "king_james": "When I applied mine heart to know wisdom, and to see the business that is done upon the earth: (for also there is that neither day nor night seeth sleep with his eyes:)"
     },
     {
       "verse": 17,
       "latin_vulgate": " Et intellexi quod omnium operum Dei  nullam possit homo invenire rationem  eorum quæ fiunt sub sole ;  et quanto plus laboraverit ad quærendum,  tanto minus inveniat :  etiam si dixerit sapiens se nosse, non poterit reperire.  ",
       "hebrew_masoretic": "וְרָאִ֘יתִי֮ אֶת־כׇּל־מַעֲשֵׂ֣ה הָאֱלֹהִים֒ כִּי֩ לֹ֨א יוּכַ֜ל הָאָדָ֗ם לִמְצוֹא֙ אֶת־הַֽמַּעֲשֶׂה֙ אֲשֶׁ֣ר נַעֲשָׂ֣ה תַֽחַת־הַשֶּׁ֔מֶשׁ בְּ֠שֶׁ֠ל אֲשֶׁ֨ר יַעֲמֹ֧ל הָאָדָ֛ם לְבַקֵּ֖שׁ וְלֹ֣א יִמְצָ֑א וְגַ֨ם אִם־יֹאמַ֤ר הֶֽחָכָם֙ לָדַ֔עַת לֹ֥א יוּכַ֖ל לִמְצֹֽא׃",
+      "douay_rheims": "And I understood that man can find no reason of all those works of God that are done under the sun: and the more he shall labour to seek, so much the less shall he find: yea, though the wise man shall say, that he knoweth it, he shall not be able to find it. ",
+      "finnish_biblia": "niin minä tulin näkemään kaikista Jumalan teoista, että ihminen ei voi käsittää sitä, mitä tapahtuu auringon alla; sillä ihminen saa kyllä nähdä vaivaa etsiessään, mutta ei hän käsitä. Ja jos viisas luuleekin tietävänsä, ei hän kuitenkaan voi käsittää.   ",
       "king_james": "Then I beheld all the work of God, that a man cannot find out the work that is done under the sun: because though a man labour to seek it out, yet he shall not find it; yea further; though a wise man think to know it, yet shall he not be able to find it. "
     }
   ]

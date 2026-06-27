@@ -2,6 +2,8 @@
   "book_id": "ISA",
   "latin_name": "Isaias",
   "hebrew_name": "יְשַׁעְיָהוּ",
+  "douay_name": "Isaias",
+  "finnish_name": "Jesaja",
   "english_name": "Isaiah",
   "chapter": 10,
   "verses": [
@@ -9,204 +11,272 @@
       "verse": 1,
       "latin_vulgate": "Væ qui condunt leges iniquas,  et scribentes injustitiam scripserunt, ",
       "hebrew_masoretic": "ה֥וֹי הַחֹֽקְקִ֖ים חִקְקֵי־אָ֑וֶן וּֽמְכַתְּבִ֥ים עָמָ֖ל כִּתֵּֽבוּ׃",
+      "douay_rheims": "Woe to them that make wicked laws: and when they write, write injustice:",
+      "finnish_biblia": "Voi kirjanoppineita, jotka väärän lain tekevät ja väärän tuomion kirjoittavat, ",
       "king_james": "Woe unto them that decree unrighteous decrees, and that write grievousness which they have prescribed;"
     },
     {
       "verse": 2,
       "latin_vulgate": " ut opprimerent in judicio pauperes,  et vim facerent causæ humilium populi mei ;  ut essent viduæ præda eorum,  et pupillos diriperent. ",
       "hebrew_masoretic": "לְהַטּ֤וֹת מִדִּין֙ דַּלִּ֔ים וְלִגְזֹ֕ל מִשְׁפַּ֖ט עֲנִיֵּ֣י עַמִּ֑י לִֽהְי֤וֹת אַלְמָנוֹת֙ שְׁלָלָ֔ם וְאֶת־יְתוֹמִ֖ים יָבֹֽזּוּ׃",
+      "douay_rheims": "To oppress the poor in judgment, and do violence to the cause of the humble of my people: that widows might be their prey, and that they might rob the fatherless.",
+      "finnish_biblia": "Että he vääntelisivät köyhän asian, ja tekisivät väkivaltaa raadolliselle oikeudessa, minun kansassani; niin että lesket ovat heidän saaliinsa, ja orpoja he raatelevat. ",
       "king_james": "To turn aside the needy from judgment, and to take away the right from the poor of my people, that widows may be their prey, and that they may rob the fatherless!"
     },
     {
       "verse": 3,
       "latin_vulgate": " Quid facietis in die visitationis,  et calamitatis de longe venientis ?  ad cujus confugietis auxilium ?  et ubi derelinquetis gloriam vestram, ",
       "hebrew_masoretic": "וּמַֽה־תַּעֲשׂוּ֙ לְי֣וֹם פְּקֻדָּ֔ה וּלְשׁוֹאָ֖ה מִמֶּרְחָ֣ק תָּב֑וֹא עַל־מִי֙ תָּנ֣וּסוּ לְעֶזְרָ֔ה וְאָ֥נָה תַעַזְב֖וּ כְּבוֹדְכֶֽם׃",
+      "douay_rheims": "What will you do in the day of visitation, and of the calamity which cometh from afar? to whom will ye flee for help? and where will ye leave your glory?",
+      "finnish_biblia": "Mitä te tahdotte tehdä etsikkopäivänä, ja hävityksessä, joka kaukaa tulee? kenen tykö te pakenette apua saamaan? ja kuhunka te tahdotte panna teidän kunnianne? ",
       "king_james": "And what will ye do in the day of visitation, and in the desolation which shall come from far? to whom will ye flee for help? and where will ye leave your glory?"
     },
     {
       "verse": 4,
       "latin_vulgate": " ne incurvemini sub vinculo,  et cum interfectis cadatis ?  Super omnibus his non est aversus furor ejus,  sed adhuc manus ejus extenta. ",
       "hebrew_masoretic": "בִּלְתִּ֤י כָרַע֙ תַּ֣חַת אַסִּ֔יר וְתַ֥חַת הֲרוּגִ֖ים יִפֹּ֑לוּ בְּכׇל־זֹאת֙ לֹא־שָׁ֣ב אַפּ֔וֹ וְע֖וֹד יָד֥וֹ נְטוּיָֽה׃ {פ}",
+      "douay_rheims": "That you be not bowed down under the bond, and fall with the slain? In all these things his anger is not turned away, but his hand is stretched out still.",
+      "finnish_biblia": "Ettette vangittuin kanssa taivutettaisi, ja lyötyin seassa lankeaisi; näissä kaikissa ei ole hänen vihansa asetettu, vaan hänen kätensä on vielä nyt ojennettu. ",
       "king_james": "Without me they shall bow down under the prisoners, and they shall fall under the slain. For all this his anger is not turned away, but his hand is stretched out still."
     },
     {
       "verse": 5,
       "latin_vulgate": " Væ Assur ! virga furoris mei et baculus ipse est ;  in manu eorum indignatio mea. ",
       "hebrew_masoretic": "ה֥וֹי אַשּׁ֖וּר שֵׁ֣בֶט אַפִּ֑י וּמַטֶּה־ה֥וּא בְיָדָ֖ם זַעְמִֽי׃",
+      "douay_rheims": "Woe to the Assyrian, he is the rod and the staff of my anger, and my indignation is in their hands.",
+      "finnish_biblia": "Voi Assur, joka minun vihani vitsa on; joiden käsissä minun julmuuteni sauva on. ",
       "king_james": "O Assyrian, the rod of mine anger, and the staff in their hand is mine indignation."
     },
     {
       "verse": 6,
       "latin_vulgate": " Ad gentem fallacem mittam eum,  et contra populum furoris mei mandabo illi,  ut auferat spolia, et diripiat prædam,  et ponat illum in conculcationem quasi lutum platearum. ",
       "hebrew_masoretic": "בְּג֤וֹי חָנֵף֙ אֲשַׁלְּחֶ֔נּוּ וְעַל־עַ֥ם עֶבְרָתִ֖י אֲצַוֶּ֑נּוּ לִשְׁלֹ֤ל שָׁלָל֙ וְלָבֹ֣ז בַּ֔ז (ולשימו) [וּלְשׂוּמ֥וֹ] מִרְמָ֖ס כְּחֹ֥מֶר חוּצֽוֹת׃",
+      "douay_rheims": "I will send him to a deceitful nation, and I will give him a charge against the people of my wrath, to take away the spoils, and to lay hold on the prey, and to tread them down like the mire of the streets.",
+      "finnish_biblia": "Minä tahdon lähettää hänen ulkokullattua kansaa vastaan, ja antaa hänelle käskyn vihani kansaa vastaan, sitä täydellisesti ryöstämään, ja saalista jakamaan, ja tallaamaan sitä niinkuin lokaa kujilla. ",
       "king_james": "I will send him against an hypocritical nation, and against the people of my wrath will I give him a charge, to take the spoil, and to take the prey, and to tread them down like the mire of the streets."
     },
     {
       "verse": 7,
       "latin_vulgate": " Ipse autem non sic arbitrabitur,  et cor ejus non ita existimabit ;  sed ad conterendum erit cor ejus,  et ad internecionem gentium non paucarum. ",
       "hebrew_masoretic": "וְהוּא֙ לֹא־כֵ֣ן יְדַמֶּ֔ה וּלְבָב֖וֹ לֹא־כֵ֣ן יַחְשֹׁ֑ב כִּ֚י לְהַשְׁמִ֣יד בִּלְבָב֔וֹ וּלְהַכְרִ֥ית גּוֹיִ֖ם לֹ֥א מְעָֽט׃",
+      "douay_rheims": "But he shall not take it so, and his heart shall not think so: but his heart shall be set to destroy, and to cut off nations not a few.",
+      "finnish_biblia": "Vaikka ei hän sitä niin luule, eikä hänen sydämensä niin ajattele; vaan hänen sydämensä on turmelemaan ja hävittämään monta kansaa. ",
       "king_james": "Howbeit he meaneth not so, neither doth his heart think so; but it is in his heart to destroy and cut off nations not a few."
     },
     {
       "verse": 8,
       "latin_vulgate": " Dicet enim : ",
       "hebrew_masoretic": "כִּ֖י יֹאמַ֑ר הֲלֹ֥א שָׂרַ֛י יַחְדָּ֖ו מְלָכִֽים׃",
+      "douay_rheims": "For he shall say:",
+      "finnish_biblia": "Sillä hän sanoo: eikö kaikki minun pääruhtinaani ole kuninkaat? ",
       "king_james": "For he saith, Are not my princes altogether kings?"
     },
     {
       "verse": 9,
       "latin_vulgate": "Numquid non principes mei simul reges sunt ?  numquid non ut Charcamis, sic Calano ?  et ut Arphad, sic Emath ?  numquid non ut Damascus, sic Samaria ? ",
       "hebrew_masoretic": "הֲלֹ֥א כְּכַרְכְּמִ֖ישׁ כַּלְנ֑וֹ אִם־לֹ֤א כְאַרְפַּד֙ חֲמָ֔ת אִם־לֹ֥א כְדַמֶּ֖שֶׂק שֹׁמְרֽוֹן׃",
+      "douay_rheims": "Are not my princes as so many kings? is not Calano as Charcamis: and Emath as Arphad? is not Samaria as Damascus?",
+      "finnish_biblia": "Eikö Kalno ole niinkuin Karkemis? Eikö Hamat ole niinkuin Arpad? Eikö Samaria ole niinkuin Damasku. ",
       "king_james": "Is not Calno as Carchemish? is not Hamath as Arpad? is not Samaria as Damascus?"
     },
     {
       "verse": 10,
       "latin_vulgate": " Quomodo invenit manus mea regna idoli,  sic et simulacra eorum de Jerusalem et de Samaria. ",
       "hebrew_masoretic": "כַּֽאֲשֶׁר֙ מָצְאָ֣ה יָדִ֔י לְמַמְלְכֹ֖ת הָאֱלִ֑יל וּפְסִ֣ילֵיהֶ֔ם מִירוּשָׁלַ֖͏ִם וּמִשֹּׁמְרֽוֹן׃",
+      "douay_rheims": "As my hand hath found the kingdoms of the idol, so also their idols of Jerusalem, and of Samaria.",
+      "finnish_biblia": "Niinkuin minun käteni on löytänyt epäjumalain valtakunnat, niin myös heidän epäjumalansa, jotka Jerusalemissa ja Samariassa ovat. ",
       "king_james": "As my hand hath found the kingdoms of the idols, and whose graven images did excel them of Jerusalem and of Samaria;"
     },
     {
       "verse": 11,
       "latin_vulgate": " Numquid non sicut feci Samariæ et idolis ejus,  sic faciam Jerusalem et simulacris ejus ? ",
       "hebrew_masoretic": "הֲלֹ֗א כַּאֲשֶׁ֥ר עָשִׂ֛יתִי לְשֹׁמְר֖וֹן וְלֶאֱלִילֶ֑יהָ כֵּ֛ן אֶעֱשֶׂ֥ה לִירוּשָׁלַ֖͏ִם וְלַעֲצַבֶּֽיהָ׃ {פ}",
+      "douay_rheims": "Shall I not, as I have done to Samaria and her idols, so do to Jerusalem and her idols?",
+      "finnish_biblia": "Eikö minun tule tehdä Jerusalemille, ja hänen epäjumalillensa, niinkuin minä Samariallekin ja hänen epäjumalillensa tein? ",
       "king_james": "Shall I not, as I have done unto Samaria and her idols, so do to Jerusalem and her idols?"
     },
     {
       "verse": 12,
       "latin_vulgate": " Et erit, cum impleverit Dominus  cuncta opera sua  in monte Sion et in Jerusalem,  visitabo super fructum magnifici cordis regis Assur,  et super gloriam altitudinis oculorum ejus. ",
       "hebrew_masoretic": "וְהָיָ֗ה כִּֽי־יְבַצַּ֤ע אֲדֹנָי֙ אֶת־כׇּל־מַֽעֲשֵׂ֔הוּ בְּהַ֥ר צִיּ֖וֹן וּבִירוּשָׁלָ֑͏ִם אֶפְקֹ֗ד עַל־פְּרִֽי־גֹ֙דֶל֙ לְבַ֣ב מֶלֶךְ־אַשּׁ֔וּר וְעַל־תִּפְאֶ֖רֶת ר֥וּם עֵינָֽיו׃",
+      "douay_rheims": "And it shall come to pass, that when the Lord shall have performed all his works in mount Sion, and in Jerusalem, I will visit the fruit of the proud heart of the king of Assyria, and the glory of the haughtiness of his eyes.",
+      "finnish_biblia": "Mutta koska Herra on kaikki tekonsa Zionin vuorella ja Jerusalemissa toimittanut, niin minä tahdon etsiä Assurin kuninkaan ylpeän sydämen hedelmää, ja hänen ylpeiden silmäinsä koreutta; ",
       "king_james": "Wherefore it shall come to pass, that when the Lord hath performed his whole work upon mount Zion and on Jerusalem, I will punish the fruit of the stout heart of the king of Assyria, and the glory of his high looks."
     },
     {
       "verse": 13,
       "latin_vulgate": " Dixit enim : In fortitudine manus meæ feci,  et in sapientia mea intellexi ;  et abstuli terminos populorum,  et principes eorum deprædatus sum,  et detraxi quasi potens in sublimi residentes. ",
       "hebrew_masoretic": "כִּ֣י אָמַ֗ר בְּכֹ֤חַ יָדִי֙ עָשִׂ֔יתִי וּבְחׇכְמָתִ֖י כִּ֣י נְבֻנ֑וֹתִי וְאָסִ֣יר ׀ גְּבוּלֹ֣ת עַמִּ֗ים (ועתידתיהם) [וַעֲתֽוּדֹתֵיהֶם֙] שׁוֹשֵׂ֔תִי וְאוֹרִ֥יד כַּאבִּ֖יר יוֹשְׁבִֽים׃",
+      "douay_rheims": "For he hath said: By the strength of my own hand I have done it, and by my own wisdom I have understood: and I have removed the bounds of the people, and have taken the spoils of the princes, and as a mighty man hath pulled down them that sat on high.",
+      "finnish_biblia": "Että hän sanoo: minä olen sen toimittanut minun käteni voimalla ja minun taitoni kautta; sillä minä olen taitava: minä olen kansain rajat siirtänyt, ja heidän tavaransa ryöstänyt, ja niinkuin voimallinen lyönyt heidän asujansa maahan. ",
       "king_james": "For he saith, By the strength of my hand I have done it, and by my wisdom; for I am prudent: and I have removed the bounds of the people, and have robbed their treasures, and I have put down the inhabitants like a valiant man:"
     },
     {
       "verse": 14,
       "latin_vulgate": " Et invenit quasi nidum manus mea  fortitudinem populorum ;  et sicut colliguntur ova quæ derelicta sunt,  sic universam terram ego congregavi ;  et non fuit qui moveret pennam,  et aperiret os, et ganniret. ",
       "hebrew_masoretic": "וַתִּמְצָ֨א כַקֵּ֤ן ׀ יָדִי֙ לְחֵ֣יל הָעַמִּ֔ים וְכֶֽאֱסֹף֙ בֵּיצִ֣ים עֲזֻב֔וֹת כׇּל־הָאָ֖רֶץ אֲנִ֣י אָסָ֑פְתִּי וְלֹ֤א הָיָה֙ נֹדֵ֣ד כָּנָ֔ף וּפֹצֶ֥ה פֶ֖ה וּמְצַפְצֵֽף׃",
+      "douay_rheims": "And my hand hath found the strength of the people as a nest; and as eggs are gathered, that are left, so have I gathered all the earth: and there was none that moved the wing, or opened the mouth, or made the least noise.",
+      "finnish_biblia": "Ja minun käteni on löytänyt kansain tavaran niinkuin linnunpesän, niin että minä olen kaiken maan koonnut niinkuin hyljätyt munat kootaan, kussa ei yhtään ole, joka siipeänsä liikuttaa, nokkansa avaa, eli kirkaisee. ",
       "king_james": "And my hand hath found as a nest the riches of the people: and as one gathereth eggs that are left, have I gathered all the earth; and there was none that moved the wing, or opened the mouth, or peeped."
     },
     {
       "verse": 15,
       "latin_vulgate": " Numquid gloriabitur securis contra eum qui secat in ea ?  aut exaltabitur serra contra eum a quo trahitur ?  Quomodo si elevetur virga contra elevantem se,  et exaltetur baculus, qui utique lignum est. ",
       "hebrew_masoretic": "הֲיִתְפָּאֵר֙ הַגַּרְזֶ֔ן עַ֖ל הַחֹצֵ֣ב בּ֑וֹ אִם־יִתְגַּדֵּ֤ל הַמַּשּׂוֹר֙ עַל־מְנִיפ֔וֹ כְּהָנִ֥יף שֵׁ֙בֶט֙ וְאֶת־מְרִימָ֔יו כְּהָרִ֥ים מַטֶּ֖ה לֹא־עֵֽץ׃ {פ}",
+      "douay_rheims": "Shall the axe boast itself against him that cutteth with it? or shall the saw exalt itself against him by whom it is drawn? as if a rod should lift itself up against him that lifteth it up, and a staff exalt itself, which is but wood.",
+      "finnish_biblia": "Taitaako kirves kerskata sitä vastaan, joka hänellä hakkaa, eli saha taistella sen kanssa, joka häntä vetää? Se olis niinkuin sauva tahtois liikuttaa sitä, joka sen kantaa, ja sauva nostais itsensä niinkuin ei se puu oliskaan. ",
       "king_james": "Shall the axe boast itself against him that heweth therewith? or shall the saw magnify itself against him that shaketh it? as if the rod should shake itself against them that lift it up, or as if the staff should lift up itself, as if it were no wood."
     },
     {
       "verse": 16,
       "latin_vulgate": " Propter hoc mittet Dominator, Dominus exercituum,  in pinguibus ejus tenuitatem ;  et subtus gloriam ejus succensa ardebit  quasi combustio ignis. ",
       "hebrew_masoretic": "לָ֠כֵן יְשַׁלַּ֨ח הָאָד֜וֹן יְהֹוָ֧ה צְבָא֛וֹת בְּמִשְׁמַנָּ֖יו רָז֑וֹן וְתַ֧חַת כְּבֹד֛וֹ יֵקַ֥ד יְקֹ֖ד כִּיק֥וֹד אֵֽשׁ׃",
+      "douay_rheims": "Therefore the sovereign Lord, the Lord of hosts, shall send leanness among his fat ones: and under his glory shall be kindled a burning, as it were the burning of a fire.",
+      "finnish_biblia": "Sentähden on Herra, Herra Zebaot, lähettävä laihuuden hänen lihavainsa sekaan, ja sytyttävä hänen kunniansa palamaan kuin tulipalon. ",
       "king_james": "Therefore shall the Lord, the Lord of hosts, send among his fat ones leanness; and under his glory he shall kindle a burning like the burning of a fire."
     },
     {
       "verse": 17,
       "latin_vulgate": " Et erit lumen Israël in igne,  et Sanctus ejus in flamma ;  et succendetur, et devorabitur  spina ejus et vepres in die una. ",
       "hebrew_masoretic": "וְהָיָ֤ה אֽוֹר־יִשְׂרָאֵל֙ לְאֵ֔שׁ וּקְדוֹשׁ֖וֹ לְלֶהָבָ֑ה וּבָעֲרָ֗ה וְאָכְלָ֛ה שִׁית֥וֹ וּשְׁמִיר֖וֹ בְּי֥וֹם אֶחָֽד׃",
+      "douay_rheims": "And the light of Israel shall be as a fire, and the Holy One thereof as a flame: and his thorns and his briers shall be set on fire, and shall be devoured in one day.",
+      "finnish_biblia": "Ja Israelin valkeus on tuleva tuleksi, ja hänen pyhänsä liekiksi, ja pitää palaman, ja kuluttaman hänen orjantappuransa ja ohdakkeensa yhtenä päivänä. ",
       "king_james": "And the light of Israel shall be for a fire, and his Holy One for a flame: and it shall burn and devour his thorns and his briers in one day;"
     },
     {
       "verse": 18,
       "latin_vulgate": " Et gloria saltus ejus, et carmeli ejus,  ab anima usque ad carnem consumetur ;  et erit terrore profugus. ",
       "hebrew_masoretic": "וּכְב֤וֹד יַעְרוֹ֙ וְכַרְמִלּ֔וֹ מִנֶּ֥פֶשׁ וְעַד־בָּשָׂ֖ר יְכַלֶּ֑ה וְהָיָ֖ה כִּמְסֹ֥ס נֹסֵֽס׃",
+      "douay_rheims": "And the glory of his forest, and of his beautiful hill, shall be consumed from the soul even to the flesh, and he shall run away through fear.",
+      "finnish_biblia": "Ja hänen metsänsä ja ketonsa kunnia pitää tyhjään raukeneman, sekä sielu että ruumis, ja pitää tuleman niinkuin koska lipunkantaja nääntyy; ",
       "king_james": "And shall consume the glory of his forest, and of his fruitful field, both soul and body: and they shall be as when a standardbearer fainteth."
     },
     {
       "verse": 19,
       "latin_vulgate": " Et reliquiæ ligni saltus ejus præ paucitate numerabuntur,  et puer scribet eos. ",
       "hebrew_masoretic": "וּשְׁאָ֥ר עֵ֛ץ יַעְר֖וֹ מִסְפָּ֣ר יִהְי֑וּ וְנַ֖עַר יִכְתְּבֵֽם׃ {ס}",
+      "douay_rheims": "And they that remain of the trees of his forest shall be so few, that they shall easily be numbered, and a child shall write them down.",
+      "finnish_biblia": "Niin että hänen metsänsä jääneet puut lukea taidetaan, ja että lapsikin ne pyältää taitaa. ",
       "king_james": "And the rest of the trees of his forest shall be few, that a child may write them."
     },
     {
       "verse": 20,
       "latin_vulgate": " Et erit in die illa :  non adjiciet residuum Israël,  et hi qui fugerint de domo Jacob,  inniti super eo qui percutit eos ;  sed innitetur super Dominum,  Sanctum Israël, in veritate. ",
       "hebrew_masoretic": "וְהָיָ֣ה ׀ בַּיּ֣וֹם הַה֗וּא לֹא־יוֹסִ֨יף ע֜וֹד שְׁאָ֤ר יִשְׂרָאֵל֙ וּפְלֵיטַ֣ת בֵּֽית־יַעֲקֹ֔ב לְהִשָּׁעֵ֖ן עַל־מַכֵּ֑הוּ וְנִשְׁעַ֗ן עַל־יְהֹוָ֛ה קְד֥וֹשׁ יִשְׂרָאֵ֖ל בֶּאֱמֶֽת׃",
+      "douay_rheims": "And it shall come to pass in that day, that the remnant of Israel, and they that shall escape of the house of Jacob, shall lean no more upon him that striketh them: but they shall lean upon the Lord the Holy One of Israel, in truth.",
+      "finnish_biblia": "Silloin ei pidä jääneet Israelissa, ja ne jotka tallella ovat Jakobin huoneesta, enää turvaaman häneen, joka heitä lyö; vaan pitää todella turvaaman Herraan Israelin pyhään. ",
       "king_james": "And it shall come to pass in that day, that the remnant of Israel, and such as are escaped of the house of Jacob, shall no more again stay upon him that smote them; but shall stay upon the Lord, the Holy One of Israel, in truth."
     },
     {
       "verse": 21,
       "latin_vulgate": " Reliquiæ convertentur ; reliquiæ, inquam, Jacob  ad Deum fortem. ",
       "hebrew_masoretic": "שְׁאָ֥ר יָשׁ֖וּב שְׁאָ֣ר יַעֲקֹ֑ב אֶל־אֵ֖ל גִּבּֽוֹר׃",
+      "douay_rheims": "The remnant shall be converted, the remnant, I say, of Jacob, to the mighty God.",
+      "finnish_biblia": "Jääneet pitää kääntymän, Jakobin jääneet, väkevän Jumalan tykö. ",
       "king_james": "The remnant shall return, even the remnant of Jacob, unto the mighty God."
     },
     {
       "verse": 22,
       "latin_vulgate": " Si enim fuerit populus tuus, Israël, quasi arena maris,  reliquiæ convertentur ex eo ;  consummatio abbreviata  inundabit justitiam. ",
       "hebrew_masoretic": "כִּ֣י אִם־יִהְיֶ֞ה עַמְּךָ֤ יִשְׂרָאֵל֙ כְּח֣וֹל הַיָּ֔ם שְׁאָ֖ר יָשׁ֣וּב בּ֑וֹ כִּלָּי֥וֹן חָר֖וּץ שׁוֹטֵ֥ף צְדָקָֽה׃",
+      "douay_rheims": "For if thy people, O Israel, shall be as the sand of the sea, a remnant of them shall be converted, the consumption abridged shall overflow with justice.",
+      "finnish_biblia": "Sillä jos sinun kansas, o Israel, on niinkuin hiekka meressä, niin kuitenkin heidän jääneensä kääntyvät; sillä estetty hävitys pitää vuotaman yltäkylläisen vanhurskauden. ",
       "king_james": "For though thy people Israel be as the sand of the sea, yet a remnant of them shall return: the consumption decreed shall overflow with righteousness."
     },
     {
       "verse": 23,
       "latin_vulgate": " Consummationem enim et abbreviationem  Dominus Deus exercituum faciet in medio omnis terræ. ",
       "hebrew_masoretic": "כִּ֥י כָלָ֖ה וְנֶחֱרָצָ֑ה אֲדֹנָ֤י יֱהֹוִה֙ צְבָא֔וֹת עֹשֶׂ֖ה בְּקֶ֥רֶב כׇּל־הָאָֽרֶץ׃ {פ}",
+      "douay_rheims": "For the Lord God of hosts shall make a consumption, and an abridgment in the midst of all the land.",
+      "finnish_biblia": "Että Herra, Herra Zebaot, antaa tulla aivotun hävityksen koko maahan, ja hallitsee sen. ",
       "king_james": "For the Lord God of hosts shall make a consumption, even determined, in the midst of all the land."
     },
     {
       "verse": 24,
       "latin_vulgate": " Propter hoc, hæc dicit Dominus Deus exercituum :  Noli timere, populus meus,  habitator Sion, ab Assur :  in virga percutiet te,  et baculum suum levabit super te,  in via Ægypti. ",
       "hebrew_masoretic": "לָכֵ֗ן כֹּֽה־אָמַ֞ר אֲדֹנָ֤י יֱהֹוִה֙ צְבָא֔וֹת אַל־תִּירָ֥א עַמִּ֛י יֹשֵׁ֥ב צִיּ֖וֹן מֵאַשּׁ֑וּר בַּשֵּׁ֣בֶט יַכֶּ֔כָּה וּמַטֵּ֥הוּ יִשָּֽׂא־עָלֶ֖יךָ בְּדֶ֥רֶךְ מִצְרָֽיִם׃",
+      "douay_rheims": "Therefore, thus saith the Lord the God of hosts: O my people that dwellest in Sion, be not afraid of the Assyrian: he shall strike thee with his rod, and he shall lift up his staff over thee in the way of Egypt.",
+      "finnish_biblia": "Sanoo siis Herra, Herra Zebaot: älä pelkää kansani, joka Zionissa asut, Assuria. Hän lyö sinua vitsalla, ja nostaa sauvansa sinua vastaan niinkuin Egyptissä. ",
       "king_james": "Therefore thus saith the Lord God of hosts, O my people that dwellest in Zion, be not afraid of the Assyrian: he shall smite thee with a rod, and shall lift up his staff against thee, after the manner of Egypt."
     },
     {
       "verse": 25,
       "latin_vulgate": " Adhuc enim paululum modicumque,  et consummabitur indignatio  et furor meus super scelus eorum. ",
       "hebrew_masoretic": "כִּי־ע֖וֹד מְעַ֣ט מִזְעָ֑ר וְכָ֣לָה זַ֔עַם וְאַפִּ֖י עַל־תַּבְלִיתָֽם׃",
+      "douay_rheims": "For yet a little and a very little while, and my indignation shall cease, and my wrath shall be upon their wickedness.",
+      "finnish_biblia": "Sillä aivan vähän ajan perästä pitää armottomuus ja minun vihani täytettämän heidän kadotukseksensa. ",
       "king_james": "For yet a very little while, and the indignation shall cease, and mine anger in their destruction."
     },
     {
       "verse": 26,
       "latin_vulgate": " Et suscitabit super eum Dominus exercituum flagellum,  juxta plagam Madian in petra Oreb :  et virgam suam super mare,  et levabit eam in via Ægypti. ",
       "hebrew_masoretic": "וְעוֹרֵ֨ר עָלָ֜יו יְהֹוָ֤ה צְבָאוֹת֙ שׁ֔וֹט כְּמַכַּ֥ת מִדְיָ֖ן בְּצ֣וּר עוֹרֵ֑ב וּמַטֵּ֙הוּ֙ עַל־הַיָּ֔ם וּנְשָׂא֖וֹ בְּדֶ֥רֶךְ מִצְרָֽיִם׃",
+      "douay_rheims": "And the Lord of hosts shall raise up a scourge against him, according to the slaughter of Madian in the rock of Oreb, and his rod over the sea, and he shall lift it up in the way of Egypt.",
+      "finnish_biblia": "Silloin on Herra Zebaot nostava ruoskan heidän päällensä, niinkuin Midianin tapossa Orebin kalliolla, ja on ylentävä sauvansa meren yli, niinkuin Egyptissä. ",
       "king_james": "And the Lord of hosts shall stir up a scourge for him according to the slaughter of Midian at the rock of Oreb: and as his rod was upon the sea, so shall he lift it up after the manner of Egypt."
     },
     {
       "verse": 27,
       "latin_vulgate": " Et erit in die illa :  auferetur onus ejus de humero tuo  et jugum ejus de collo tuo,  et computrescet jugum a facie olei. ",
       "hebrew_masoretic": "וְהָיָ֣ה ׀ בַּיּ֣וֹם הַה֗וּא יָס֤וּר סֻבֳּלוֹ֙ מֵעַ֣ל שִׁכְמֶ֔ךָ וְעֻלּ֖וֹ מֵעַ֣ל צַוָּארֶ֑ךָ וְחֻבַּ֥ל עֹ֖ל מִפְּנֵי־שָֽׁמֶן׃",
+      "douay_rheims": "And it shall come to pass in that day, that his burden shall be taken away from off thy shoulder, and his yoke from off thy neck, and the yoke shall putrefy at the presence of the oil.",
+      "finnish_biblia": "Silloin pitää hänen kuormansa pakeneman pois sinun hartioiltas, ja hänen ikeensä sinun kaulastas, sillä ikeen pitää pirstaantuman lihavuudesta. ",
       "king_james": "And it shall come to pass in that day, that his burden shall be taken away from off thy shoulder, and his yoke from off thy neck, and the yoke shall be destroyed because of the anointing."
     },
     {
       "verse": 28,
       "latin_vulgate": " Veniet in Ajath, transibit in Magron,  apud Machmas commendabit vasa sua. ",
       "hebrew_masoretic": "בָּ֥א עַל־עַיַּ֖ת עָבַ֣ר בְּמִגְר֑וֹן לְמִכְמָ֖שׂ יַפְקִ֥יד כֵּלָֽיו׃",
+      "douay_rheims": "He shall come into Aiath, he shall pass into Magron: at Machmas he shall lay up his carriages.",
+      "finnish_biblia": "Hän tulee Ajatiin, hän vaeltaa Migronin lävitse, hän katselee aseensa Mikmaassa. ",
       "king_james": "He is come to Aiath, he is passed to Migron; at Michmash he hath laid up his carriages:"
     },
     {
       "verse": 29,
       "latin_vulgate": " Transierunt cursim,  Gaba sedes nostra ;  obstupuit Rama,  Gabaath Saulis fugit. ",
       "hebrew_masoretic": "עָֽבְרוּ֙ מַעְבָּרָ֔ה גֶּ֖בַע מָל֣וֹן לָ֑נוּ חָֽרְדָה֙ הָרָמָ֔ה גִּבְעַ֥ת שָׁא֖וּל נָֽסָה׃",
+      "douay_rheims": "They have passed in haste, Gaba is our lodging: Rama was astonished, Gabaath of Saul fled away.",
+      "finnish_biblia": "He vaeltavat luotuspaikan ylitse; he pitävät yösiaa Gebaassa; Raama peljästyy, Saulin Gibea pakenee. ",
       "king_james": "They are gone over the passage: they have taken up their lodging at Geba; Ramah is afraid; Gibeah of Saul is fled."
     },
     {
       "verse": 30,
       "latin_vulgate": " Hinni voce tua, filia Gallim,  attende Laisa, paupercula Anathoth. ",
       "hebrew_masoretic": "צַהֲלִ֥י קוֹלֵ֖ךְ בַּת־גַּלִּ֑ים הַקְשִׁ֥יבִי לַ֖יְשָׁה עֲנִיָּ֥ה עֲנָתֽוֹת׃",
+      "douay_rheims": "Lift up thy voice, O daughter of Gallim, attend, O Laisa, poor Anathoth.",
+      "finnish_biblia": "Sinä tytär Gallim, huuda vahvasti: ota vaari Laiksesta; sinä raadollinen Anatot. ",
       "king_james": "Lift up thy voice, O daughter of Gallim: cause it to be heard unto Laish, O poor Anathoth."
     },
     {
       "verse": 31,
       "latin_vulgate": " Migravit Medemena ;  habitatores Gabim, confortamini. ",
       "hebrew_masoretic": "נָֽדְדָ֖ה מַדְמֵנָ֑ה יֹשְׁבֵ֥י הַגֵּבִ֖ים הֵעִֽיזוּ׃",
+      "douay_rheims": "Medemena is removed: ye inhabitants of Gabim, take courage.",
+      "finnish_biblia": "Madmena menee pois tieltä, Gebimin asuvaiset juoksevat matkaansa. ",
       "king_james": "Madmenah is removed; the inhabitants of Gebim gather themselves to flee."
     },
     {
       "verse": 32,
       "latin_vulgate": " Adhuc dies est ut in Nobe stetur ;  agitabit manum suam super montem filiæ Sion,  collem Jerusalem. ",
       "hebrew_masoretic": "ע֥וֹד הַיּ֖וֹם בְּנֹ֣ב לַעֲמֹ֑ד יְנֹפֵ֤ף יָדוֹ֙ הַ֣ר (בית) [בַּת־]צִיּ֔וֹן גִּבְעַ֖ת יְרוּשָׁלָֽ͏ִם׃ {פ}",
+      "douay_rheims": "It is yet day enough, to remain in Nobe: he shall shake his hand against the mountain of the daughter of Sion, the hill of Jerusalem.",
+      "finnish_biblia": "Ollaan vielä päiväkunta Nobissa; niin hän on kääntävä kätensä Zionin tyttären vuoreen päin, ja Jerusalemin korkeuden puoleen. ",
       "king_james": "As yet shall he remain at Nob that day: he shall shake his hand against the mount of the daughter of Zion, the hill of Jerusalem."
     },
     {
       "verse": 33,
       "latin_vulgate": " Ecce Dominator, Dominus exercituum,  confringet lagunculam in terrore ;  et excelsi statura succidentur,  et sublimes humiliabuntur. ",
       "hebrew_masoretic": "הִנֵּ֤ה הָאָדוֹן֙ יְהֹוָ֣ה צְבָא֔וֹת מְסָעֵ֥ף פֻּארָ֖ה בְּמַעֲרָצָ֑ה וְרָמֵ֤י הַקּוֹמָה֙ גְּדוּעִ֔ים וְהַגְּבֹהִ֖ים יִשְׁפָּֽלוּ׃",
+      "douay_rheims": "Behold the sovereign Lord of hosts shall break the earthen vessel with terror, and the tall of stature shall be cut down, and the lofty shall be humbled.",
+      "finnish_biblia": "Katso, Herra, Herra Zebaot, on hakkaava oksat väellä, ja lyhentävä sitä korkiaa; ja korkiat pitää alennettaman. ",
       "king_james": "Behold, the Lord, the Lord of hosts, shall lop the bough with terror: and the high ones of stature shall be hewn down, and the haughty shall be humbled."
     },
     {
       "verse": 34,
       "latin_vulgate": " Et subvertentur condensa saltus ferro ;  et Libanus cum excelsis cadet.  ",
       "hebrew_masoretic": "וְנִקַּ֛ף סִֽבְכֵ֥י הַיַּ֖עַר בַּבַּרְזֶ֑ל וְהַלְּבָנ֖וֹן בְּאַדִּ֥יר יִפּֽוֹל׃ {ס}",
+      "douay_rheims": "And the thickets of the forest shall be cut down with iron, and Libanus with its high ones shall fall. ",
+      "finnish_biblia": "Ja tihkiä metsä pitää raudalla maahan hakattaman; ja Libanon pitää voimallisen kautta kaatuman.   ",
       "king_james": "And he shall cut down the thickets of the forest with iron, and Lebanon shall fall by a mighty one. "
     }
   ]

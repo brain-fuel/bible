@@ -2,6 +2,8 @@
   "book_id": "1CH",
   "latin_name": "I Paralipomenon",
   "hebrew_name": "דִּבְרֵי הַיָּמִים א",
+  "douay_name": "1 Paralipomenon",
+  "finnish_name": "1. Aikakirja",
   "english_name": "1 Chronicles",
   "chapter": 15,
   "verses": [
@@ -9,174 +11,232 @@
       "verse": 1,
       "latin_vulgate": "Fecit quoque sibi domos in civitate David : et ædificavit locum arcæ Dei, tetenditque ei tabernaculum. ",
       "hebrew_masoretic": "וַיַּעַשׂ־ל֥וֹ בָתִּ֖ים בְּעִ֣יר דָּוִ֑יד וַיָּ֤כֶן מָקוֹם֙ לַאֲר֣וֹן הָאֱלֹהִ֔ים וַיֶּט־ל֖וֹ אֹֽהֶל׃",
+      "douay_rheims": "He made also houses for himself in the city of David: and built a place for the ark of God, and pitched a tabernacle for it.",
+      "finnish_biblia": "Ja hän rakensi itsellensä huoneita Davidin kaupunkiin, ja valmisti sian Jumalan arkille, ja valmisti sille majan. ",
       "king_james": "And David made him houses in the city of David, and prepared a place for the ark of God, and pitched for it a tent."
     },
     {
       "verse": 2,
       "latin_vulgate": "Tunc dixit David : Illicitum est ut a quocumque portetur arca Dei nisi a Levitis, quos elegit Dominus ad portandum eam, et ad ministrandum sibi usque in æternum. ",
       "hebrew_masoretic": "אָ֚ז אָמַ֣ר דָּוִ֔יד לֹ֤א לָשֵׂאת֙ אֶת־אֲר֣וֹן הָאֱלֹהִ֔ים כִּ֖י אִם־הַלְוִיִּ֑ם כִּֽי־בָ֣ם ׀ בָּחַ֣ר יְהֹוָ֗ה לָשֵׂ֞את אֶת־אֲר֧וֹן יְהֹוָ֛ה וּֽלְשָׁרְת֖וֹ עַד־עוֹלָֽם׃ {פ}",
+      "douay_rheims": "Then David said: No one ought to carry the ark of God, but the Levites, whom the Lord hath chosen to carry it, and to minister unto himself for ever.",
+      "finnish_biblia": "Silloin sanoi David: ei yhdenkään pidä kantaman Jumalan arkkia, vaan Leviläiset; sillä Herra on heidät valinnut kantamaan Jumalan arkkia ja palvelemaan häntä ijankaikkisesti. ",
       "king_james": "Then David said, None ought to carry the ark of God but the Levites: for them hath the Lord chosen to carry the ark of God, and to minister unto him for ever."
     },
     {
       "verse": 3,
       "latin_vulgate": "Congregavitque universum Israël in Jerusalem, ut afferretur arca Dei in locum suum, quem præparaverat ei : ",
       "hebrew_masoretic": "וַיַּקְהֵ֥ל דָּוִ֛יד אֶת־כׇּל־יִשְׂרָאֵ֖ל אֶל־יְרוּשָׁלָ֑͏ִם לְהַֽעֲלוֹת֙ אֶת־אֲר֣וֹן יְהֹוָ֔ה אֶל־מְקוֹמ֖וֹ אֲשֶׁר־הֵכִ֥ין לֽוֹ׃",
+      "douay_rheims": "And he gathered all Israel together into Jerusalem, that the ark of God might be brought into its place, which he had prepared for it.",
+      "finnish_biblia": "Sentähden kokosi David koko Israelin Jerusalemiin, kantamaan Herran arkkia ylös siihen paikkaan, jonka hän hänelle valmistanut oli. ",
       "king_james": "And David gathered all Israel together to Jerusalem, to bring up the ark of the Lord unto his place, which he had prepared for it."
     },
     {
       "verse": 4,
       "latin_vulgate": "necnon et filios Aaron, et Levitas. ",
       "hebrew_masoretic": "וַיֶּאֱסֹ֥ף דָּוִ֛יד אֶת־בְּנֵ֥י אַהֲרֹ֖ן וְאֶת־הַלְוִיִּֽם׃ {ס}",
+      "douay_rheims": "And the sons of Aaron also, and the Levites.",
+      "finnish_biblia": "Ja David antoi myös tulla kokoon Aaronin lapset ja Leviläiset: ",
       "king_james": "And David assembled the children of Aaron, and the Levites:"
     },
     {
       "verse": 5,
       "latin_vulgate": "De filiis Caath, Uriel princeps fuit, et fratres ejus centum viginti. ",
       "hebrew_masoretic": "לִבְנֵ֖י קְהָ֑ת אוּרִיאֵ֣ל הַשָּׂ֔ר וְאֶחָ֖יו מֵאָ֥ה וְעֶשְׂרִֽים׃ {ס}",
+      "douay_rheims": "Of the children of Caath, Uriel was the chief, and his brethren a hundred and twenty.",
+      "finnish_biblia": "Kahatin lapsista päämiehen Urielin, sadan ja kahdenkymmenen veljensä kanssa; ",
       "king_james": "Of the sons of Kohath; Uriel the chief, and his brethren an hundred and twenty:"
     },
     {
       "verse": 6,
       "latin_vulgate": "De filiis Merari, Asaia princeps : et fratres ejus ducenti viginti. ",
       "hebrew_masoretic": "לִבְנֵ֖י מְרָרִ֑י עֲשָׂיָ֣ה הַשָּׂ֔ר וְאֶחָ֖יו מָאתַ֥יִם וְעֶשְׂרִֽים׃ {ס}",
+      "douay_rheims": "Of the sons of Merari, Asaia the chief, and his brethren two hundred and twenty.",
+      "finnish_biblia": "Merarin lapsista päämiehen Asajan, kahdensadan ja kahdenkymmenen veljensä kanssa; ",
       "king_james": "Of the sons of Merari; Asaiah the chief, and his brethren two hundred and twenty:"
     },
     {
       "verse": 7,
       "latin_vulgate": "De filiis Gersom, Joël princeps : et fratres ejus centum triginta. ",
       "hebrew_masoretic": "לִבְנֵ֖י גֵּרְשׁ֑וֹם יוֹאֵ֣ל הַשָּׂ֔ר וְאֶחָ֖יו מֵאָ֥ה וּשְׁלֹשִֽׁים׃ {ס}",
+      "douay_rheims": "Of the sons of Gersom, Joel the chief, and his brethren a hundred and thirty.",
+      "finnish_biblia": "Gersomin lapsista päämiehen Joelin, sadan ja kolmenkymmenen veljensä kanssa; ",
       "king_james": "Of the sons of Gershom; Joel the chief, and his brethren an hundred and thirty:"
     },
     {
       "verse": 8,
       "latin_vulgate": "De filiis Elisaphan, Semeias princeps : et fratres ejus ducenti. ",
       "hebrew_masoretic": "לִבְנֵ֖י אֱלִיצָפָ֑ן שְׁמַֽעְיָ֥ה הַשָּׂ֖ר וְאֶחָ֥יו מָאתָֽיִם׃ {ס}",
+      "douay_rheims": "Of the sons of Elisaphan, Semeias the chief: and his brethren two hundred.",
+      "finnish_biblia": "Elitsaphanin lapsista päämiehen Semajan, kahdensadan veljensä kanssa; ",
       "king_james": "Of the sons of Elizaphan; Shemaiah the chief, and his brethren two hundred:"
     },
     {
       "verse": 9,
       "latin_vulgate": "De filiis Hebron, Eliel princeps : et fratres ejus octoginta. ",
       "hebrew_masoretic": "לִבְנֵ֖י חֶבְר֑וֹן אֱלִיאֵ֥ל הַשָּׂ֖ר וְאֶחָ֥יו שְׁמוֹנִֽים׃ {ס}",
+      "douay_rheims": "Of the sons of Hebron, Eliel the chief: and his brethren eighty.",
+      "finnish_biblia": "Hebronin lapsista päämiehen Elielin, kahdeksankymmenen veljensä kanssa; ",
       "king_james": "Of the sons of Hebron; Eliel the chief, and his brethren fourscore:"
     },
     {
       "verse": 10,
       "latin_vulgate": "De filiis Oziel, Aminadab princeps : et fratres ejus centum duodecim. ",
       "hebrew_masoretic": "לִבְנֵ֖י עֻזִּיאֵ֑ל עַמִּינָדָ֣ב הַשָּׂ֔ר וְאֶחָ֕יו מֵאָ֖ה וּשְׁנֵ֥ים עָשָֽׂר׃ {פ}",
+      "douay_rheims": "Of the sons of Oziel, Aminadab the chief: and his brethren a hundred and twelve.",
+      "finnish_biblia": "Ussielin lapsista päämiehen Amminadabin, sadan ja kahdeksantoistakymmenen veljensä kanssa. ",
       "king_james": "Of the sons of Uzziel; Amminadab the chief, and his brethren an hundred and twelve."
     },
     {
       "verse": 11,
       "latin_vulgate": "Vocavitque David Sadoc et Abiathar sacerdotes, et Levitas, Uriel, Asaiam, Joël, Semeiam, Eliel, et Aminadab : ",
       "hebrew_masoretic": "וַיִּקְרָ֣א דָוִ֔יד לְצָד֥וֹק וּלְאֶבְיָתָ֖ר הַכֹּהֲנִ֑ים וְלַלְוִיִּ֗ם לְאוּרִיאֵ֤ל עֲשָׂיָה֙ וְיוֹאֵ֣ל שְׁמַֽעְיָ֔ה וֶאֱלִיאֵ֖ל וְעַמִּינָדָֽב׃ {ס}",
+      "douay_rheims": "And David called Sadoc, and Abiathar the priests, and the Levites, Uriel, Asaia, Joel, Semeia, Eliel, and Aminadab:",
+      "finnish_biblia": "Ja David kutsui papit Zadokin ja Abjatarin, ja Leviläiset, Urielin, Asajan, Joelin, Semajan, Elielin ja Amminadabin, ",
       "king_james": "And David called for Zadok and Abiathar the priests, and for the Levites, for Uriel, Asaiah, and Joel, Shemaiah, and Eliel, and Amminadab,"
     },
     {
       "verse": 12,
       "latin_vulgate": "et dixit ad eos : Vos, qui estis principes familiarum Leviticarum, sanctificamini cum fratribus vestris, et afferte arcam Domini Dei Israël ad locum qui ei præparatus est : ",
       "hebrew_masoretic": "וַיֹּ֣אמֶר לָהֶ֔ם אַתֶּ֛ם רָאשֵׁ֥י הָאָב֖וֹת לַלְוִיִּ֑ם הִֽתְקַדְּשׁוּ֙ אַתֶּ֣ם וַאֲחֵיכֶ֔ם וְהַעֲלִיתֶ֗ם אֵ֣ת אֲר֤וֹן יְהֹוָה֙ אֱלֹהֵ֣י יִשְׂרָאֵ֔ל אֶל־הֲכִינ֖וֹתִי לֽוֹ׃",
+      "douay_rheims": "And he said to them: You that are the heads of the Levitical families, be sanctified with your brethren, and bring the ark of the Lord the God of Israel to the place, which is prepared for it:",
+      "finnish_biblia": "Ja sanoi heille: te kuin olette isäin päämiehet Leviläisten seassa, pyhittäkäät teitänne veljeinne kanssa kantamaan ylös Herran Israelin Jumalan arkkia siihen siaan, jonka minä hänelle valmistanut olen. ",
       "king_james": "And said unto them, Ye are the chief of the fathers of the Levites: sanctify yourselves, both ye and your brethren, that ye may bring up the ark of the Lord God of Israel unto the place that I have prepared for it."
     },
     {
       "verse": 13,
       "latin_vulgate": "ne ut a principio, quia non eratis præsentes, percussit nos Dominus ; sic et nunc fiat, illicitum quid nobis agentibus. ",
       "hebrew_masoretic": "כִּ֛י לְמַבָּרִ֥אשׁוֹנָ֖ה לֹ֣א אַתֶּ֑ם פָּרַ֨ץ יְהֹוָ֤ה אֱלֹהֵ֙ינוּ֙ בָּ֔נוּ כִּֽי־לֹ֥א דְרַשְׁנֻ֖הוּ כַּמִּשְׁפָּֽט׃",
+      "douay_rheims": "Lest as the Lord at first struck us, because you were not present, the same should now also come to pass, by our doing some thing against the law.",
+      "finnish_biblia": "Sillä ennen kuin ette läsnä olleet, teki Herra meidän Jumalamme raon meissä, ettemme häntä etsineet, niinkuin meidän tekemän piti. ",
       "king_james": "For because ye did it not at the first, the Lord our God made a breach upon us, for that we sought him not after the due order."
     },
     {
       "verse": 14,
       "latin_vulgate": "Sanctificati sunt ergo sacerdotes et Levitæ ut portarent arcam Domini Dei Israël. ",
       "hebrew_masoretic": "וַיִּֽתְקַדְּשׁ֔וּ הַכֹּהֲנִ֖ים וְהַלְוִיִּ֑ם לְהַעֲל֕וֹת אֶת־אֲר֥וֹן יְהֹוָ֖ה אֱלֹהֵ֥י יִשְׂרָאֵֽל׃",
+      "douay_rheims": "So the priests and the Levites were sanctified, to carry the ark of the Lord the God of Israel.",
+      "finnish_biblia": "Niin papit ja Leviläiset pyhittivät itsensä Herran Israelin Jumalan arkkia kantamaan. ",
       "king_james": "So the priests and the Levites sanctified themselves to bring up the ark of the Lord God of Israel."
     },
     {
       "verse": 15,
       "latin_vulgate": "Et tulerunt filii Levi arcam Dei, sicut præceperat Moyses juxta verbum Domini, humeris suis in vectibus. ",
       "hebrew_masoretic": "וַיִּשְׂא֣וּ בְנֵֽי־הַלְוִיִּ֗ם אֵ֚ת אֲר֣וֹן הָאֱלֹהִ֔ים כַּאֲשֶׁ֛ר צִוָּ֥ה מֹשֶׁ֖ה כִּדְבַ֣ר יְהֹוָ֑ה בִּכְתֵפָ֥ם בַּמֹּט֖וֹת עֲלֵיהֶֽם׃ {פ}",
+      "douay_rheims": "And the sons of Levi took the ark of God as Moses had commanded, according to the word of the Lord, upon their shoulders, with the staves.",
+      "finnish_biblia": "Ja Leviläisten pojat kantoivat Jumalan arkin, niinkuin Moses Herran sanan jälkeen käskenyt oli, olallansa korennoilla, jotka siinä olivat. ",
       "king_james": "And the children of the Levites bare the ark of God upon their shoulders with the staves thereon, as Moses commanded according to the word of the Lord."
     },
     {
       "verse": 16,
       "latin_vulgate": "Dixitque David principibus Levitarum, ut constituerent de fratribus suis cantores in organis musicorum, nablis videlicet, et lyris, et cymbalis, ut resonaret in excelsis sonitus lætitiæ. ",
       "hebrew_masoretic": "וַיֹּ֣אמֶר דָּוִיד֮ לְשָׂרֵ֣י הַלְוִיִּם֒ לְהַעֲמִ֗יד אֶת־אֲחֵיהֶם֙ הַמְשֹׁ֣רְרִ֔ים בִּכְלֵי־שִׁ֛יר נְבָלִ֥ים וְכִנֹּר֖וֹת וּמְצִלְתָּ֑יִם מַשְׁמִיעִ֥ים לְהָרִֽים־בְּק֖וֹל לְשִׂמְחָֽה׃ {פ}",
+      "douay_rheims": "And David spoke to the chiefs of the Levites, to appoint some of their brethren to be singers with musical instruments, to wit, on psalteries, and harps, and cymbals, that the joyful noise might resound on high.",
+      "finnish_biblia": "Ja David sanoi Leviläisten päämiehille, että he asettaisivat veljistänsä veisaajia harpuilla, psaltareilla, kanteleilla ja symbaleilla, niin että he olisivat kuultut veisaavan korkialla äänellä ilon kanssa. ",
       "king_james": "And David spake to the chief of the Levites to appoint their brethren to be the singers with instruments of musick, psalteries and harps and cymbals, sounding, by lifting up the voice with joy."
     },
     {
       "verse": 17,
       "latin_vulgate": "Constitueruntque Levitas : Heman filium Joël, et de fratribus ejus Asaph filium Barachiæ : de filiis vero Merari, fratribus eorum : Ethan filium Casaiæ. ",
       "hebrew_masoretic": "וַיַּעֲמִ֣ידוּ הַלְוִיִּ֗ם אֵ֚ת הֵימָ֣ן בֶּן־יוֹאֵ֔ל וּמִ֨ן־אֶחָ֔יו אָסָ֖ף בֶּן־בֶּרֶכְיָ֑הוּ {ס} וּמִן־בְּנֵ֤י מְרָרִי֙ אֲחֵיהֶ֔ם אֵיתָ֖ן בֶּן־קוּשָׁיָֽהוּ׃",
+      "douay_rheims": "And they appointed Levites, Hemam the son of Joel, and of his brethren Asaph the son of Barachias: and of the sons of Merari, their brethren: Ethan the son of Casaia.",
+      "finnish_biblia": "Niin Leviläiset asettivat Hemanin Joelin pojan ja hänen veljistänsä Asaphin Berekian pojan, ja Merarin pojista heidän veljistänsä Etanin Kusajan pojan, ",
       "king_james": "So the Levites appointed Heman the son of Joel; and of his brethren, Asaph the son of Berechiah; and of the sons of Merari their brethren, Ethan the son of Kushaiah;"
     },
     {
       "verse": 18,
       "latin_vulgate": "Et cum eis fratres eorum : in secundo ordine, Zachariam, et Ben, et Jaziel, et Semiramoth, et Jahiel, et Ani, Eliab, et Banaiam, et Maasiam, et Mathathiam, et Eliphalu, et Maceniam, et Obededom, et Jehiel, janitores. ",
       "hebrew_masoretic": "וְעִמָּהֶ֖ם אֲחֵיהֶ֣ם הַמִּשְׁנִ֑ים זְכַרְיָ֡הוּ בֵּ֡ן וְיַעֲזִיאֵ֡ל וּשְׁמִירָמ֡וֹת וִיחִיאֵ֣ל ׀ וְעֻנִּ֡י אֱלִיאָ֡ב וּבְנָיָ֡הוּ וּמַעֲשֵׂיָ֡הוּ וּמַתִּתְיָ֩הוּ֩ וֶאֱלִ֨יפְלֵ֜הוּ וּמִקְנֵיָ֨הוּ וְעֹבֵ֥ד אֱדֹ֛ם וִיעִיאֵ֖ל הַשֹּׁעֲרִֽים׃",
+      "douay_rheims": "And with them their brethren: in the second rank, Zacharias, and Ben, and Jaziel, and Semiramoth, and Jahiel, and Ani, and Eliab, and Banaias, and Maasias, and Mathathias, and Eliphalu, and Macenias, and Obededom, and Jehiel, the porters.",
+      "finnish_biblia": "Ja heidän kanssansa heidän veljensä toisesta vuorosta, Sakarian, Benin, Jaeselin, Semiramotin, Jehielin, Unnin, Eliabin, Benajan, Maesejan, Mattitjan, Eliphelehun, Miknejan, Obededomin ja Jeielin, ovenvartiat. ",
       "king_james": "And with them their brethren of the second degree, Zechariah, Ben, and Jaaziel, and Shemiramoth, and Jehiel, and Unni, Eliab, and Benaiah, and Maaseiah, and Mattithiah, and Elipheleh, and Mikneiah, and Obed–edom, and Jeiel, the porters."
     },
     {
       "verse": 19,
       "latin_vulgate": "Porro cantores, Heman, Asaph, et Ethan, in cymbalis æneis concrepantes. ",
       "hebrew_masoretic": "וְהַמְשֹׁ֣רְרִ֔ים הֵימָ֥ן אָסָ֖ף וְאֵיתָ֑ן בִּמְצִלְתַּ֥יִם נְחֹ֖שֶׁת לְהַשְׁמִֽיעַ׃",
+      "douay_rheims": "Now the singers, Heman, Asaph, and Ethan, sounded with cymbals of brass.",
+      "finnish_biblia": "Sillä Heman, Asaph ja Etan olivat veisaajat vaskisymbaleilla, helistäin heliällä äänellä; ",
       "king_james": "So the singers, Heman, Asaph, and Ethan, were appointed to sound with cymbals of brass;"
     },
     {
       "verse": 20,
       "latin_vulgate": "Zacharias autem, et Oziel, et Semiramoth, et Jahiel, et Ani, et Eliab, et Maasias, et Banaias in nablis arcana cantabant. ",
       "hebrew_masoretic": "וּזְכַרְיָ֨ה וַעֲזִיאֵ֜ל וּשְׁמִירָמ֤וֹת וִֽיחִיאֵל֙ וְעֻנִּ֣י וֶאֱלִיאָ֔ב וּמַעֲשֵׂיָ֖הוּ וּבְנָיָ֑הוּ בִּנְבָלִ֖ים עַל־עֲלָמֽוֹת׃",
+      "douay_rheims": "And Zacharias, and Oziel, and Semiramoth, and Jehiel, and Ani, and Eliab, and Maasias, and Banaias, sung mysteries upon psalteries.",
+      "finnish_biblia": "Mutta Sakaria, Ussiel, Semiramot, Jehiel, Unni, Eliab, Maesia ja Benaja psaltarilla alamotin päällä; ",
       "king_james": "And Zechariah, and Aziel, and Shemiramoth, and Jehiel, and Unni, and Eliab, and Maaseiah, and Benaiah, with psalteries on Alamoth;"
     },
     {
       "verse": 21,
       "latin_vulgate": "Porro Mathathias, et Eliphalu, et Macenias, et Obededom, et Jehiel, et Ozaziu, in citharis pro octava canebant epinicion. ",
       "hebrew_masoretic": "וּמַתִּתְיָ֣הוּ וֶאֱלִֽיפְלֵ֗הוּ וּמִקְנֵיָ֙הוּ֙ וְעֹבֵ֣ד אֱדֹ֔ם וִיעִיאֵ֖ל וַעֲזַזְיָ֑הוּ בְּכִנֹּר֥וֹת עַל־הַשְּׁמִינִ֖ית לְנַצֵּֽחַ׃",
+      "douay_rheims": "And Mathathias, and Eliphalu, and Macenias and Obededom, and Jehiel and Ozaziu, sung a song of victory for the octave upon harps.",
+      "finnish_biblia": "Vaan Mattitja ja Eliphelehu ja Mikneja, ja Obededom, Jeiel ja Ahasia veisasivat kahdeksan kielisillä kanteleilla heidän edellänsä. ",
       "king_james": "And Mattithiah, and Elipheleh, and Mikneiah, and Obed–edom, and Jeiel, and Azaziah, with harps on the Sheminith to excel."
     },
     {
       "verse": 22,
       "latin_vulgate": "Chonenias autem princeps Levitarum, prophetiæ præerat, ad præcinendam melodiam : erat quippe valde sapiens. ",
       "hebrew_masoretic": "וּכְנַנְיָ֥הוּ שַֽׂר־הַלְוִיִּ֖ם בְּמַשָּׂ֑א יָסֹר֙ בַּמַּשָּׂ֔א כִּ֥י מֵבִ֖ין הֽוּא׃",
+      "douay_rheims": "And Chonenias chief of the Levites, presided over the prophecy, to give out the tunes: for he was very skilful.",
+      "finnish_biblia": "Mutta Kenania Leviläisten päämies, veisumestari, piti neuvoman heitä ylhäisesti veisaamaan; sillä hän oli sangen taitava. ",
       "king_james": "And Chenaniah, chief of the Levites, was for song: he instructed about the song, because he was skilful."
     },
     {
       "verse": 23,
       "latin_vulgate": "Et Barachias, et Elcana, janitores arcæ. ",
       "hebrew_masoretic": "וּבֶֽרֶכְיָה֙ וְאֶלְקָנָ֔ה שֹׁעֲרִ֖ים לָאָרֽוֹן׃",
+      "douay_rheims": "And Barachias, and Elcana, were doorkeepers of the ark.",
+      "finnish_biblia": "Ja Berekia ja Elkana olivat arkin ovenvartiat. ",
       "king_james": "And Berechiah and Elkanah were doorkeepers for the ark."
     },
     {
       "verse": 24,
       "latin_vulgate": "Porro Sebenias, et Josaphat, et Nathanaël, et Amasai, et Zacharias, et Banaias, et Eliezer sacerdotes, clangebant tubis coram arca Dei : et Obededom et Jehias erant janitores arcæ.  ",
       "hebrew_masoretic": "וּשְׁבַנְיָ֡הוּ וְיוֹשָׁפָ֡ט וּנְתַנְאֵ֡ל וַעֲמָשַׂ֡י וּ֠זְכַרְיָ֠הוּ וּבְנָיָ֤הוּ וֶאֱלִיעֶ֙זֶר֙ הַכֹּ֣הֲנִ֔ים (מחצצרים) [מַחְצְרִים֙] בַּחֲצֹ֣צְר֔וֹת לִפְנֵ֖י אֲר֣וֹן הָאֱלֹהִ֑ים וְעֹבֵ֤ד אֱדֹם֙ וִֽיחִיָּ֔ה שֹׁעֲרִ֖ים לָאָרֽוֹן׃",
+      "douay_rheims": "And Sebenias, and Josaphat, and Nathanael, and Amasai, and Zacharias, and Banaias, and Eliezer the priests, sounded with trumpets, before the ark of God: and Obededom and Jehias were porters of the ark.",
+      "finnish_biblia": "Mutta papit Sebania, Josaphat, Netaneel, Amasai, Sakaria, Benaja ja Elieser soittivat basunilla Jumalan arkin edessä; ja Obededom ja Jehija olivat arkin ovenvartiat. ",
       "king_james": "And Shebaniah, and Jehoshaphat, and Nethaneel, and Amasai, and Zechariah, and Benaiah, and Eliezer, the priests, did blow with the trumpets before the ark of God: and Obed–edom and Jehiah were doorkeepers for the ark."
     },
     {
       "verse": 25,
       "latin_vulgate": " Igitur David, et omnes majores natu Israël, et tribuni, ierunt ad deportandam arcam fœderis Domini de domo Obededom cum lætitia. ",
       "hebrew_masoretic": "וַיְהִ֥י דָוִ֛יד וְזִקְנֵ֥י יִשְׂרָאֵ֖ל וְשָׂרֵ֣י הָאֲלָפִ֑ים הַהֹלְכִ֗ים לְֽהַעֲל֞וֹת אֶת־אֲר֧וֹן בְּרִית־יְהֹוָ֛ה מִן־בֵּ֥ית עֹבֵֽד־אֱדֹ֖ם בְּשִׂמְחָֽה׃ {פ}",
+      "douay_rheims": "So David and all the ancients of Israel, and the captains over thousands, went to bring the ark of the covenant of the Lord out of the house of Obededom with joy.",
+      "finnish_biblia": "Niin meni David ja Israelin vanhimmat ja tuhanten päämiehet noutamaan Herran liitonarkkia Obededomin huoneesta ilolla. ",
       "king_james": "So David, and the elders of Israel, and the captains over thousands, went to bring up the ark of the covenant of the Lord out of the house of Obed–edom with joy."
     },
     {
       "verse": 26,
       "latin_vulgate": "Cumque adjuvisset Deus Levitas qui portabant arcam fœderis Domini, immolabantur septem tauri, et septem arietes. ",
       "hebrew_masoretic": "וַֽיְהִי֙ בֶּעְזֹ֣ר הָאֱלֹהִ֔ים אֶ֨ת־הַלְוִיִּ֔ם נֹשְׂאֵ֖י אֲר֣וֹן בְּרִית־יְהֹוָ֑ה וַיִּזְבְּח֥וּ שִׁבְעָֽה־פָרִ֖ים וְשִׁבְעָ֥ה אֵילִֽים׃",
+      "douay_rheims": "And when God had helped the Levites who carried the ark of the covenant of the Lord, they offered in sacrifice seven oxen, and seven rams.",
+      "finnish_biblia": "Ja koska Jumala autti Leviläisiä, jotka kantoivat Herran liitonarkkia, uhrasivat he seitsemän mullia ja seitsemän oinasta. ",
       "king_james": "And it came to pass, when God helped the Levites that bare the ark of the covenant of the Lord, that they offered seven bullocks and seven rams."
     },
     {
       "verse": 27,
       "latin_vulgate": "Porro David erat indutus stola byssina, et universi Levitæ qui portabant arcam, cantoresque, et Chonenias princeps prophetiæ inter cantores : David autem etiam indutus erat ephod lineo. ",
       "hebrew_masoretic": "וְדָוִ֞יד מְכֻרְבָּ֣ל ׀ בִּמְעִ֣יל בּ֗וּץ וְכׇל־הַלְוִיִּם֙ הַנֹּשְׂאִ֣ים אֶת־הָאָר֔וֹן וְהַמְשֹׁ֣רְרִ֔ים וּכְנַנְיָ֛ה הַשַּׂ֥ר הַמַּשָּׂ֖א הַמְשֹׁרְרִ֑ים וְעַל־דָּוִ֖יד אֵפ֥וֹד בָּֽד׃",
+      "douay_rheims": "And David was clothed with a robe of fine linen, and all the Levites that carried the ark, and the singing men, and Chonenias the ruler of the prophecy among the singers: and David also had on him an ephod of linen.",
+      "finnish_biblia": "Ja David oli puettu liinavaatteella, ja kaikki Leviläiset, jotka arkkia kantoivat, ja veisaajat, ja Kenania veisumestari veisaajain kanssa; oli myös Davidin yllä liinainen päällisvaate. ",
       "king_james": "And David was clothed with a robe of fine linen, and all the Levites that bare the ark, and the singers, and Chenaniah the master of the song with the singers: David also had upon him an ephod of linen."
     },
     {
       "verse": 28,
       "latin_vulgate": "Universusque Israël deducebant arcam fœderis Domini in jubilo, et sonitu buccinæ, et tubis, et cymbalis, et nablis, et citharis concrepantes. ",
       "hebrew_masoretic": "וְכׇל־יִשְׂרָאֵ֗ל מַֽעֲלִים֙ אֶת־אֲר֣וֹן בְּרִית־יְהֹוָ֔ה בִּתְרוּעָה֙ וּבְק֣וֹל שׁוֹפָ֔ר וּבַחֲצֹצְר֖וֹת וּבִמְצִלְתָּ֑יִם מַשְׁמִעִ֕ים בִּנְבָלִ֖ים וְכִנֹּרֽוֹת׃",
+      "douay_rheims": "And all Israel brought the ark of the covenant of the Lord with joyful shouting, and sounding with the sound of the cornet, and with trumpets, and cymbals, and psalteries, and harps.",
+      "finnish_biblia": "Niin saatti koko Israel Herran liitonarkin ilolla, basunain, trometein, heliäin symbalein, psaltarein ja kantelein kanssa. ",
       "king_james": "Thus all Israel brought up the ark of the covenant of the Lord with shouting, and with sound of the cornet, and with trumpets, and with cymbals, making a noise with psalteries and harps."
     },
     {
       "verse": 29,
       "latin_vulgate": "Cumque pervenisset arca fœderis Domini usque ad civitatem David, Michol filia Saul prospiciens per fenestram vidit regem David saltantem atque ludentem, et despexit eum in corde suo.   ",
       "hebrew_masoretic": "וַיְהִ֗י אֲרוֹן֙ בְּרִ֣ית יְהֹוָ֔ה בָּ֖א עַד־עִ֣יר דָּוִ֑יד וּמִיכַ֨ל בַּת־שָׁא֜וּל נִשְׁקְפָ֣ה ׀ בְּעַ֣ד הַחַלּ֗וֹן וַתֵּ֨רֶא אֶת־הַמֶּ֤לֶךְ דָּוִיד֙ מְרַקֵּ֣ד וּמְשַׂחֵ֔ק וַתִּ֥בֶז ל֖וֹ בְּלִבָּֽהּ׃ {פ}",
+      "douay_rheims": "And when the ark of the covenant of the Lord was come to the city of David, Michol the daughter of Saul looking out at a window, saw king David dancing and playing, and she despised him in her heart. ",
+      "finnish_biblia": "Kuin Herran liitonarkki tuli Davidin kaupunkiin, katsoi Mikal Saulin tytär akkunasta ja näki Davidin hyppäävän ja soittavan, niin hän katsoi hänen sydämessänsä ylön.   ",
       "king_james": "And it came to pass, as the ark of the covenant of the Lord came to the city of David, that Michal the daughter of Saul looking out at a window saw king David dancing and playing: and she despised him in her heart. "
     }
   ]

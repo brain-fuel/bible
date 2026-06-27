@@ -2,6 +2,8 @@
   "book_id": "JDG",
   "latin_name": "Iudicum",
   "hebrew_name": "שׁוֹפְטִים",
+  "douay_name": "Judges",
+  "finnish_name": "Tuomarien kirja",
   "english_name": "Judges",
   "chapter": 7,
   "verses": [
@@ -9,150 +11,200 @@
       "verse": 1,
       "latin_vulgate": "Igitur Jerobaal qui et Gedeon, de nocte consurgens, et omnis populus cum eo, venit ad fontem qui vocatur Harad. Erant autem castra Madian in valle ad septentrionalem plagam collis excelsi. ",
       "hebrew_masoretic": "וַיַּשְׁכֵּ֨ם יְרֻבַּ֜עַל ה֣וּא גִדְע֗וֹן וְכׇל־הָעָם֙ אֲשֶׁ֣ר אִתּ֔וֹ וַֽיַּחֲנ֖וּ עַל־עֵ֣ין חֲרֹ֑ד וּמַחֲנֵ֤ה מִדְיָן֙ הָיָה־ל֣וֹ מִצָּפ֔וֹן מִגִּבְעַ֥ת הַמּוֹרֶ֖ה בָּעֵֽמֶק׃ {ס}",
+      "douay_rheims": "Then Jerobaal, who is the same as Gedeon, rising up early, and all the people with him, came to the fountain that is called Harad. Now the camp of Madian was in the valley, on the north side of the high hill.",
+      "finnish_biblia": "Silloin nousi JerubBaal (se on Gideon) varhain aamulla ja kaikki väki joka hänen kanssansa oli, ja sioittivat heitänsä Harodin lähteen tykö, niin että Midianilaisten leiri oli pohjaan päin, vartian kukkulan takana, laaksossa. ",
       "king_james": "Then Jerubbaal, who is Gideon, and all the people that were with him, rose up early, and pitched beside the well of Harod: so that the host of the Midianites were on the north side of them, by the hill of Moreh, in the valley."
     },
     {
       "verse": 2,
       "latin_vulgate": "Dixitque Dominus ad Gedeon : Multus tecum est populus, nec tradetur Madian in manus ejus : ne glorietur contra me Israël, et dicat : Meis viribus liberatus sum. ",
       "hebrew_masoretic": "וַיֹּ֤אמֶר יְהֹוָה֙ אֶל־גִּדְע֔וֹן רַ֗ב הָעָם֙ אֲשֶׁ֣ר אִתָּ֔ךְ מִתִּתִּ֥י אֶת־מִדְיָ֖ן בְּיָדָ֑ם פֶּן־יִתְפָּאֵ֨ר עָלַ֤י יִשְׂרָאֵל֙ לֵאמֹ֔ר יָדִ֖י הוֹשִׁ֥יעָה לִּֽי׃",
+      "douay_rheims": "And the Lord said to Gedeon: The people that are with thee are many, and Madian shall not be delivered into their hands: lest Israel should glory against me, and say: I was delivered by my own strength.",
+      "finnish_biblia": "Ja Herra sanoi Gideonille: ylen paljo on väkeä sinun kanssas: jos minä antaisin Midianin heidän käsiinsä, kerskais Israel minua vastaan ja sanois: minun käteni vapahti minua. ",
       "king_james": "And the Lord said unto Gideon, The people that are with thee are too many for me to give the Midianites into their hands, lest Israel vaunt themselves against me, saying, Mine own hand hath saved me."
     },
     {
       "verse": 3,
       "latin_vulgate": "Loquere ad populum, et cunctis audientibus prædica : Qui formidolosus et timidus est, revertatur. Recesseruntque de monte Galaad, et reversi sunt de populo viginti duo millia virorum, et tantum decem millia remanserunt. ",
       "hebrew_masoretic": "וְעַתָּ֗ה קְרָ֨א נָ֜א בְּאׇזְנֵ֤י הָעָם֙ לֵאמֹ֔ר מִֽי־יָרֵ֣א וְחָרֵ֔ד יָשֹׁ֥ב וְיִצְפֹּ֖ר מֵהַ֣ר הַגִּלְעָ֑ד וַיָּ֣שׇׁב מִן־הָעָ֗ם עֶשְׂרִ֤ים וּשְׁנַ֙יִם֙ אֶ֔לֶף וַעֲשֶׂ֥רֶת אֲלָפִ֖ים נִשְׁאָֽרוּ׃ {ס}",
+      "douay_rheims": "Speak to the people, and proclaim in the hearing of all: Whosoever is fearful and timorous, let him return. So two and twenty thousand men went away from Mount Galaad and returned home, and only ten thousand remained.",
+      "finnish_biblia": "Niin anna nyt huutaa kansan korvissa ja sanoa: joka pelkuri ja hämmästynyt on, palatkaan ja nopiasti rientäkään Gileadin vuorelta. Silloin palasi kansaa takaperin kaksikolmattakymmentä tuhatta, ja kymmenentuhatta jäi. ",
       "king_james": "Now therefore go to, proclaim in the ears of the people, saying, Whosoever is fearful and afraid, let him return and depart early from mount Gilead. And there returned of the people twenty and two thousand; and there remained ten thousand."
     },
     {
       "verse": 4,
       "latin_vulgate": "Dixitque Dominus ad Gedeon : Adhuc populus multus est : duc eos ad aquas et ibi probabo illos : et de quo dixero tibi ut tecum vadat, ipse pergat ; quem ire prohibuero, revertatur. ",
       "hebrew_masoretic": "וַיֹּ֨אמֶר יְהֹוָ֜ה אֶל־גִּדְע֗וֹן עוֹד֮ הָעָ֣ם רָב֒ הוֹרֵ֤ד אוֹתָם֙ אֶל־הַמַּ֔יִם וְאֶצְרְפֶ֥נּוּ לְךָ֖ שָׁ֑ם וְהָיָ֡ה אֲשֶׁר֩ אֹמַ֨ר אֵלֶ֜יךָ זֶ֣ה ׀ יֵלֵ֣ךְ אִתָּ֗ךְ ה֚וּא יֵלֵ֣ךְ אִתָּ֔ךְ וְכֹ֨ל אֲשֶׁר־אֹמַ֜ר אֵלֶ֗יךָ זֶ֚ה לֹא־יֵלֵ֣ךְ עִמָּ֔ךְ ה֖וּא לֹ֥א יֵלֵֽךְ׃",
+      "douay_rheims": "And the Lord said to Gedeon: The people are still too many, bring them to the waters, and there I will try them: and of whom I shall say to thee, This shall go with thee, let him go: whom I shall forbid to go, let him return.",
+      "finnish_biblia": "Ja Herra sanoi Gideonille: vielä on paljo kansaa, vie heitä veden tykö, siellä minä koettelen heitä sinulle: ja josta minä sanon sinulle: tämä menköön sinun kanssas, hän myös menee sinun kanssas: ja josta minä taas sanon sinulle: älköön hän menkö sinun kanssas, ei hänen pidä menemän. ",
       "king_james": "And the Lord said unto Gideon, The people are yet too many; bring them down unto the water, and I will try them for thee there: and it shall be, that of whom I say unto thee, This shall go with thee, the same shall go with thee; and of whomsoever I say unto thee, This shall not go with thee, the same shall not go."
     },
     {
       "verse": 5,
       "latin_vulgate": "Cumque descendisset populus ad aquas, dixit Dominus ad Gedeon : Qui lingua lambuerint aquas, sicut solent canes lambere, separabis eos seorsum : qui autem curvatis genibus biberint, in altera parte erunt. ",
       "hebrew_masoretic": "וַיּ֥וֹרֶד אֶת־הָעָ֖ם אֶל־הַמָּ֑יִם וַיֹּ֨אמֶר יְהֹוָ֜ה אֶל־גִּדְע֗וֹן כֹּ֣ל אֲשֶׁר־יָלֹק֩ בִּלְשׁוֹנ֨וֹ מִן־הַמַּ֜יִם כַּאֲשֶׁ֧ר יָלֹ֣ק הַכֶּ֗לֶב תַּצִּ֤יג אוֹתוֹ֙ לְבָ֔ד וְכֹ֛ל אֲשֶׁר־יִכְרַ֥ע עַל־בִּרְכָּ֖יו לִשְׁתּֽוֹת׃",
+      "douay_rheims": "And when the people were come down to the waters, the Lord said to Gedeon: They that shall lap the water with their tongues, as dogs are wont to lap, thou shalt set apart by themselves: but they that shall drink bowing down their knees, shall be on the other side.",
+      "finnish_biblia": "Ja hän vei kansan veden tykö; ja Herra sanoi Gideonille: joka vettä latkii kielellänsä niinkuin koira latkii, aseta häntä erinänsä seisomaan, niin myös kaikki, jotka heitänsä polvillensa kumartavat juodessansa. ",
       "king_james": "So he brought down the people unto the water: and the Lord said unto Gideon, Every one that lappeth of the water with his tongue, as a dog lappeth, him shalt thou set by himself; likewise every one that boweth down upon his knees to drink."
     },
     {
       "verse": 6,
       "latin_vulgate": "Fuit itaque numerus eorum qui manu ad os projiciente lambuerunt aquas, trecenti viri : omnis autem reliqua multitudo flexo poplite biberat. ",
       "hebrew_masoretic": "וַיְהִ֗י מִסְפַּ֞ר הַֽמְלַקְקִ֤ים בְּיָדָם֙ אֶל־פִּיהֶ֔ם שְׁלֹ֥שׁ מֵא֖וֹת אִ֑ישׁ וְכֹל֙ יֶ֣תֶר הָעָ֔ם כָּרְע֥וּ עַל־בִּרְכֵיהֶ֖ם לִשְׁתּ֥וֹת מָֽיִם׃ {ס}",
+      "douay_rheims": "And the number of them that had lapped water; casting it with the hand to their mouth, was three hundred men: and all the rest of the multitude had drunk kneeling.",
+      "finnish_biblia": "Silloin oli niitä, jotka latkivat kädestänsä suuhunsa, kolmesataa miestä; ja kaikki muu kansa olivat kumartaneet polvillensa juomaan vettä. ",
       "king_james": "And the number of them that lapped, putting their hand to their mouth, were three hundred men: but all the rest of the people bowed down upon their knees to drink water."
     },
     {
       "verse": 7,
       "latin_vulgate": "Et ait Dominus ad Gedeon : In trecentis viris qui lambuerunt aquas, liberabo vos, et tradam in manu tua Madian : omnis autem reliqua multitudo revertatur in locum suum. ",
       "hebrew_masoretic": "וַיֹּ֨אמֶר יְהֹוָ֜ה אֶל־גִּדְע֗וֹן בִּשְׁלֹשׁ֩ מֵא֨וֹת הָאִ֤ישׁ הַֽמְלַקְקִים֙ אוֹשִׁ֣יעַ אֶתְכֶ֔ם וְנָתַתִּ֥י אֶת־מִדְיָ֖ן בְּיָדֶ֑ךָ וְכׇ֨ל־הָעָ֔ם יֵלְכ֖וּ אִ֥ישׁ לִמְקֹמֽוֹ׃",
+      "douay_rheims": "And the Lord said to Gedeon: By the three hundred men, that lapped water, I will save you, and deliver Madian into thy hand: but let all the rest of the people return to their place.",
+      "finnish_biblia": "Ja Herra sanoi Gideonille: kolmensadan miehen kautta, jotka latkivat, vapahdan minä teitä, ja annan Midianilaiset sinun käsiis; mutta kaikki muu kansa menkään kukin siallensa. ",
       "king_james": "And the Lord said unto Gideon, By the three hundred men that lapped will I save you, and deliver the Midianites into thine hand: and let all the other people go every man unto his place."
     },
     {
       "verse": 8,
       "latin_vulgate": "Sumptis itaque pro numero cibariis et tubis, omnem reliquam multitudinem abire præcepit ad tabernacula sua : et ipse cum trecentis viris se certamini dedit. Castra autem Madian erant subter in valle.  ",
       "hebrew_masoretic": "וַיִּקְח֣וּ אֶת־צֵדָה֩ הָעָ֨ם בְּיָדָ֜ם וְאֵ֣ת שׁוֹפְרֹֽתֵיהֶ֗ם וְאֵ֨ת כׇּל־אִ֤ישׁ יִשְׂרָאֵל֙ שִׁלַּח֙ אִ֣ישׁ לְאֹֽהָלָ֔יו וּבִשְׁלֹשׁ־מֵא֥וֹת הָאִ֖ישׁ הֶחֱזִ֑יק וּמַחֲנֵ֣ה מִדְיָ֔ן הָ֥יָה ל֖וֹ מִתַּ֥חַת בָּעֵֽמֶק׃ {פ}",
+      "douay_rheims": "So taking victuals and trumpets according to their number, he ordered all the rest of the multitude to depart to their tents: and he with the three hundred gave himself to the battle. Now the camp of Madia was beneath him in the valley.",
+      "finnish_biblia": "Ja kansa otti evään myötänsä ja basunansa, mutta kaikki muut Israelin miehet antoi hän mennä itsekunkin majaansa, ja vahvisti itsensä ainoasti kolmellasadalla miehellä; ja Midianilaisten leiri oli hänen edessänsä alhaalla laaksossa. ",
       "king_james": "So the people took victuals in their hand, and their trumpets: and he sent all the rest of Israel every man unto his tent, and retained those three hundred men: and the host of Midian was beneath him in the valley."
     },
     {
       "verse": 9,
       "latin_vulgate": " Eadem nocte dixit Dominus ad eum : Surge, et descende in castra : quia tradidi eos in manu tua. ",
       "hebrew_masoretic": "וַֽיְהִי֙ בַּלַּ֣יְלָה הַה֔וּא וַיֹּ֤אמֶר אֵלָיו֙ יְהֹוָ֔ה ק֖וּם רֵ֣ד בַּֽמַּחֲנֶ֑ה כִּ֥י נְתַתִּ֖יו בְּיָדֶֽךָ׃",
+      "douay_rheims": "The same night the Lord said to him: Arise, and go down into the camp: because I have delivered them into thy hand.",
+      "finnish_biblia": "Ja Herra sanoi sinä yönä hänelle: nouse ja mene alas leiriin, sillä minä olen antanut heidät sinut käsiis. ",
       "king_james": "And it came to pass the same night, that the Lord said unto him, Arise, get thee down unto the host; for I have delivered it into thine hand."
     },
     {
       "verse": 10,
       "latin_vulgate": "Sin autem solus ire formidas, descendat tecum Phara puer tuus. ",
       "hebrew_masoretic": "וְאִם־יָרֵ֥א אַתָּ֖ה לָרֶ֑דֶת רֵ֥ד אַתָּ֛ה וּפֻרָ֥ה נַעַרְךָ֖ אֶל־הַֽמַּחֲנֶֽה׃",
+      "douay_rheims": "But if thou be afraid to go alone, let Phara, thy servant, go down with thee.",
+      "finnish_biblia": "Jos sinä pelkäät mennä sinne, niin anna palvelias Puran mennä sinun kanssas leiriin, ",
       "king_james": "But if thou fear to go down, go thou with Phurah thy servant down to the host:"
     },
     {
       "verse": 11,
       "latin_vulgate": "Et cum audieris quid loquantur, tunc confortabuntur manus tuæ, et securior ad hostium castra descendes. Descendit ergo ipse et Phara puer ejus in partem castrorum, ubi erant armatorum vigiliæ. ",
       "hebrew_masoretic": "וְשָֽׁמַעְתָּ֙ מַה־יְדַבֵּ֔רוּ וְאַחַר֙ תֶּחֱזַ֣קְנָה יָדֶ֔יךָ וְיָרַדְתָּ֖ בַּֽמַּחֲנֶ֑ה וַיֵּ֤רֶד הוּא֙ וּפֻרָ֣ה נַעֲר֔וֹ אֶל־קְצֵ֥ה הַחֲמֻשִׁ֖ים אֲשֶׁ֥ר בַּֽמַּחֲנֶֽה׃",
+      "douay_rheims": "And when thou shalt hear what they are saying, then shall thy hands be strengthened, and thou shalt go down more secure to the enemies' camp. And he went down with Phara his servant, into part of the camp, where was the watch of men in arms.",
+      "finnish_biblia": "Ettäs kuulisit, mitä he puhuvat; sitte sinun kätes vahvistuvat ja sinä menet leiriin. Niin hän meni palveliansa Puran kanssa leiriin, sille paikalle, kussa vartiat olivat. ",
       "king_james": "And thou shalt hear what they say; and afterward shall thine hands be strengthened to go down unto the host. Then went he down with Phurah his servant unto the outside of the armed men that were in the host."
     },
     {
       "verse": 12,
       "latin_vulgate": "Madian autem et Amalec, et omnes orientales populi, fusi jacebant in valle, ut locustarum multitudo : cameli quoque innumerabiles erant, sicut arena quæ jacet in littore maris. ",
       "hebrew_masoretic": "וּמִדְיָ֨ן וַעֲמָלֵ֤ק וְכׇל־בְּנֵי־קֶ֙דֶם֙ נֹפְלִ֣ים בָּעֵ֔מֶק כָּאַרְבֶּ֖ה לָרֹ֑ב וְלִגְמַלֵּיהֶם֙ אֵ֣ין מִסְפָּ֔ר כַּח֛וֹל שֶׁעַל־שְׂפַ֥ת הַיָּ֖ם לָרֹֽב׃",
+      "douay_rheims": "But Madian and Amalec, and all the eastern people, lay scattered in the valley, as a multitude of locusts: their camels also were innumerable, as the sand that lieth on the sea shore.",
+      "finnish_biblia": "Mutta Midianilaiset ja Amalekilaiset ja kaikki ne itäiseltä maalta, makasivat laaksossa niinkuin metsäsirkkain paljous ja heidän kamelinsa olivat lukemattomat, niinkuin santa meren rannalla paljouden tähden. ",
       "king_james": "And the Midianites and the Amalekites and all the children of the east lay along in the valley like grasshoppers for multitude; and their camels were without number, as the sand by the sea side for multitude."
     },
     {
       "verse": 13,
       "latin_vulgate": "Cumque venisset Gedeon, narrabat aliquis somnium proximo suo : et in hunc modum referebat quod viderat : Vidi somnium, et videbatur mihi quasi subcinericius panis ex hordeo volvi, et in castra Madian descendere : cumque pervenisset ad tabernaculum, percussit illud, atque subvertit, et terræ funditus coæquavit. ",
       "hebrew_masoretic": "וַיָּבֹ֣א גִדְע֔וֹן וְהִ֨נֵּה־אִ֔ישׁ מְסַפֵּ֥ר לְרֵעֵ֖הוּ חֲל֑וֹם וַיֹּ֜אמֶר הִנֵּ֧ה חֲל֣וֹם חָלַ֗מְתִּי וְהִנֵּ֨ה צְלִ֜יל לֶ֤חֶם שְׂעֹרִים֙ מִתְהַפֵּךְ֙ בְּמַחֲנֵ֣ה מִדְיָ֔ן וַיָּבֹ֣א עַד־הָ֠אֹ֠הֶל וַיַּכֵּ֧הוּ וַיִּפֹּ֛ל וַיַּהַפְכֵ֥הוּ לְמַ֖עְלָה וְנָפַ֥ל הָאֹֽהֶל׃",
+      "douay_rheims": "And when Gedeon was come, one told his neighbour a dream: and in this manner related what he had seen: I dreamt a dream, and it seemed to me as if a hearth cake of barley bread rolled and came down into the camp of Madian: and when it was come to a tent, it struck it, and beat it down flat to the ground.",
+      "finnish_biblia": "Koska Gideon tuli, katso, niin jutteli yksi kumppanillensa unen ja sanoi: katso, minä näin unta ja olin näkevinäni ohraisen porokakun kierittävän itsensä Midianilaisten leiriin, ja tulevan majaan asti, ja lyövän sen päälle, niin että se lankesi maahan, ja kukistavan sen ylösalaisin, niin että maja maassa oli. ",
       "king_james": "And when Gideon was come, behold, there was a man that told a dream unto his fellow, and said, Behold, I dreamed a dream, and, lo, a cake of barley bread tumbled into the host of Midian, and came unto a tent, and smote it that it fell, and overturned it, that the tent lay along."
     },
     {
       "verse": 14,
       "latin_vulgate": "Respondit is, cui loquebatur : Non est hoc aliud, nisi gladius Gedeonis filii Joas viri Israëlitæ : tradidit enim Dominus in manus ejus Madian, et omnia castra ejus. ",
       "hebrew_masoretic": "וַיַּ֨עַן רֵעֵ֤הוּ וַיֹּ֙אמֶר֙ אֵ֣ין זֹ֔את בִּלְתִּ֗י אִם־חֶ֛רֶב גִּדְע֥וֹן בֶּן־יוֹאָ֖שׁ אִ֣ישׁ יִשְׂרָאֵ֑ל נָתַ֤ן הָאֱלֹהִים֙ בְּיָד֔וֹ אֶת־מִדְיָ֖ן וְאֶת־כׇּל־הַֽמַּחֲנֶֽה׃ {פ}",
+      "douay_rheims": "He to whom he spoke, answered: This is nothing else but the sword of Gedeon, the son of Joas, a man of Israel. For the Lord hath delivered Madian, and all their camp into his hand.",
+      "finnish_biblia": "Jolle se toinen vastasi ja sanoi: ei se ole muuta, kuin Gideonin Joaksen pojan Israelin miehen miekka: Jumala on antanut Midianilaiset hänen käsiinsä kaiken heidän sotajoukkonsa kanssa. ",
       "king_james": "And his fellow answered and said, This is nothing else save the sword of Gideon the son of Joash, a man of Israel: for into his hand hath God delivered Midian, and all the host."
     },
     {
       "verse": 15,
       "latin_vulgate": "Cumque audisset Gedeon somnium, et interpretationem ejus, adoravit : et reversus est ad castra Israël, et ait : Surgite, tradidit enim Dominus in manus nostras castra Madian. ",
       "hebrew_masoretic": "וַיְהִי֩ כִשְׁמֹ֨עַ גִּדְע֜וֹן אֶת־מִסְפַּ֧ר הַחֲל֛וֹם וְאֶת־שִׁבְר֖וֹ וַיִּשְׁתָּ֑חוּ וַיָּ֙שׇׁב֙ אֶל־מַחֲנֵ֣ה יִשְׂרָאֵ֔ל וַיֹּ֣אמֶר ק֔וּמוּ כִּֽי־נָתַ֧ן יְהֹוָ֛ה בְּיֶדְכֶ֖ם אֶת־מַחֲנֵ֥ה מִדְיָֽן׃",
+      "douay_rheims": "And when Gedeon had heard the dream, and the interpretation thereof, he adored: and returned to the camp of Israel, and said: Arise, for the Lord hath delivered the camp of Madian into our hands.",
+      "finnish_biblia": "Kuin Gideon kuuli unen juteltavan ja sen selityksen, niin hän kumartaen rukoili, ja palasi Israelin leiriin ja sanoi: valmistakaat itsenne, sillä Herra on antanut Midianilaisten sotajoukon teidän käsiinne. ",
       "king_james": "And it was so, when Gideon heard the telling of the dream, and the interpretation thereof, that he worshipped, and returned into the host of Israel, and said, Arise; for the Lord hath delivered into your hand the host of Midian."
     },
     {
       "verse": 16,
       "latin_vulgate": "Divisitque trecentos viros in tres partes, et dedit tubas in manibus eorum, lagenasque vacuas, ac lampades in medio lagenarum. ",
       "hebrew_masoretic": "וַיַּ֛חַץ אֶת־שְׁלֹשׁ־מֵא֥וֹת הָאִ֖ישׁ שְׁלֹשָׁ֣ה רָאשִׁ֑ים וַיִּתֵּ֨ן שׁוֹפָר֤וֹת בְּיַד־כֻּלָּם֙ וְכַדִּ֣ים רֵיקִ֔ים וְלַפִּדִ֖ים בְּת֥וֹךְ הַכַּדִּֽים׃",
+      "douay_rheims": "And he divided the three hundred men into three parts, and gave them trumpets in their hands, and empty pitchers, and lamps within the pitchers.",
+      "finnish_biblia": "Ja hän jakoi ne kolmesataa miestä kolmeen joukkoon, ja antoi basunat heidän jokaisen käteensä ja tyhjät savi-astiat, ja lamput astiain sisälle, ",
       "king_james": "And he divided the three hundred men into three companies, and he put a trumpet in every man’s hand, with empty pitchers, and lamps within the pitchers."
     },
     {
       "verse": 17,
       "latin_vulgate": "Et dixit ad eos : Quod me facere videritis, hoc facite : ingrediar partem castrorum, et quod fecero, sectamini. ",
       "hebrew_masoretic": "וַיֹּ֣אמֶר אֲלֵיהֶ֔ם מִמֶּ֥נִּי תִרְא֖וּ וְכֵ֣ן תַּעֲשׂ֑וּ וְהִנֵּ֨ה אָנֹכִ֥י בָא֙ בִּקְצֵ֣ה הַֽמַּחֲנֶ֔ה וְהָיָ֥ה כַאֲשֶׁר־אֶעֱשֶׂ֖ה כֵּ֥ן תַּעֲשֽׂוּן׃",
+      "douay_rheims": "And he said to them: What you shall see me do, do you the same: I will go into one part of the camp, and do you as I shall do.",
+      "finnish_biblia": "Ja sanoi heille: katsokaat minua, ja tehkäät te niin: katso, kuin minä tulen leirin ääreen, niinkuin minä teen, niin myös te tehkäät. ",
       "king_james": "And he said unto them, Look on me, and do likewise: and, behold, when I come to the outside of the camp, it shall be that, as I do, so shall ye do."
     },
     {
       "verse": 18,
       "latin_vulgate": "Quando personuerit tuba in manu mea, vos quoque per castrorum circuitum clangite, et conclamate : Domino et Gedeoni.  ",
       "hebrew_masoretic": "וְתָֽקַעְתִּי֙ בַּשּׁוֹפָ֔ר אָנֹכִ֖י וְכׇל־אֲשֶׁ֣ר אִתִּ֑י וּתְקַעְתֶּ֨ם בַּשּׁוֹפָר֜וֹת גַּם־אַתֶּ֗ם סְבִיבוֹת֙ כׇּל־הַֽמַּחֲנֶ֔ה וַאֲמַרְתֶּ֖ם לַיהֹוָ֥ה וּלְגִדְעֽוֹן׃ {פ}",
+      "douay_rheims": "When the trumpet shall sound in my hand, do you also blow the trumpets on every side of the camp, and shout together to the Lord and to Gedeon.",
+      "finnish_biblia": "Ja minä puhallan basunaan ja kaikki jotka minun kanssani ovat, niin myös teidän pitää puhaltaman basunaan kaiken leirin ympäri, ja teidän pitää sanoman: (tässä) Herra ja Gideon. ",
       "king_james": "When I blow with a trumpet, I and all that are with me, then blow ye the trumpets also on every side of all the camp, and say, The sword of the Lord, and of Gideon."
     },
     {
       "verse": 19,
       "latin_vulgate": " Ingressusque est Gedeon, et trecenti viri qui erant cum eo, in partem castrorum, incipientibus vigiliis noctis mediæ : et custodibus suscitatis, cœperunt buccinis clangere, et complodere inter se lagenas. ",
       "hebrew_masoretic": "וַיָּבֹ֣א גִ֠דְע֠וֹן וּמֵאָה־אִ֨ישׁ אֲשֶׁר־אִתּ֜וֹ בִּקְצֵ֣ה הַֽמַּחֲנֶ֗ה רֹ֚אשׁ הָאַשְׁמֹ֣רֶת הַתִּיכוֹנָ֔ה אַ֛ךְ הָקֵ֥ם הֵקִ֖ימוּ אֶת־הַשֹּׁמְרִ֑ים וַֽיִּתְקְעוּ֙ בַּשּׁ֣וֹפָר֔וֹת וְנָפ֥וֹץ הַכַּדִּ֖ים אֲשֶׁ֥ר בְּיָדָֽם׃",
+      "douay_rheims": "And Gedeon, and the three hundred men that were with him, went into part of the camp, at the beginning of the midnight watch, and the watchmen being alarmed, they began to sound their trumpets, and to clap the pitchers one against another.",
+      "finnish_biblia": "Silloin tuli Gideon leiriin, ja sata miestä jotka hänen kanssansa olivat, ensimäisten vartiain tykö, jotka siellä asetetut olivat, herättivät ainoasti vartiat, ja puhalsivat basuniin, ja rikkoivat saviastiat, jotka olivat heidän käsissänsä. ",
       "king_james": "So Gideon, and the hundred men that were with him, came unto the outside of the camp in the beginning of the middle watch; and they had but newly set the watch: and they blew the trumpets, and brake the pitchers that were in their hands."
     },
     {
       "verse": 20,
       "latin_vulgate": "Cumque per gyrum castrorum in tribus personarent locis, et hydrias confregissent, tenuerunt sinistris manibus lampades, et dextris sonantes tubas, clamaveruntque : Gladius Domini et Gedeonis : ",
       "hebrew_masoretic": "וַֽ֠יִּתְקְע֠וּ שְׁלֹ֨שֶׁת הָרָאשִׁ֥ים בַּשּׁוֹפָרוֹת֮ וַיִּשְׁבְּר֣וּ הַכַּדִּים֒ וַיַּחֲזִ֤יקוּ בְיַד־שְׂמֹאולָם֙ בַּלַּפִּדִ֔ים וּ֨בְיַד־יְמִינָ֔ם הַשּׁוֹפָר֖וֹת לִתְק֑וֹעַ וַֽיִּקְרְא֔וּ חֶ֥רֶב לַיהֹוָ֖ה וּלְגִדְעֽוֹן׃",
+      "douay_rheims": "And when they sounded their trumpets in three places round about the camp, and had broken their pitchers, they held their lamps in their left hands, and with their right hands the trumpets which they blew, and they cried out: The sword of the Lord and of Gedeon:",
+      "finnish_biblia": "Ja ne kolme joukkoa puhalsivat basunaan, ja rikkoivat saviastiat, mutta lamput he tempasivat vasempaan käteensä ja basunat oikiaan käteensä, joihin he puhalsivat ja huusivat: (tässä) Herran ja Gideonin miekka. ",
       "king_james": "And the three companies blew the trumpets, and brake the pitchers, and held the lamps in their left hands, and the trumpets in their right hands to blow withal: and they cried, The sword of the Lord, and of Gideon."
     },
     {
       "verse": 21,
       "latin_vulgate": "stantes singuli in loco suo per circuitum castrorum hostilium. Omnia itaque castra turbata sunt, et vociferantes ululantesque fugerunt : ",
       "hebrew_masoretic": "וַיַּֽעַמְדוּ֙ אִ֣ישׁ תַּחְתָּ֔יו סָבִ֖יב לַֽמַּחֲנֶ֑ה וַיָּ֧רׇץ כׇּל־הַֽמַּחֲנֶ֛ה וַיָּרִ֖יעוּ (ויניסו) [וַיָּנֽוּסוּ]׃",
+      "douay_rheims": "Standing every man in his place round about the enemies' camp. So all the camp was troubled, and crying out and howling, they fled away:",
+      "finnish_biblia": "Ja jokainen seisoi siallansa leirin ympärillä. Silloin rupesi kaikki leiri juoksemaan, huutamaan ja pakenemaan. ",
       "king_james": "And they stood every man in his place round about the camp: and all the host ran, and cried, and fled."
     },
     {
       "verse": 22,
       "latin_vulgate": "et nihilominus insistebant trecenti viri buccinis personantes. Immisitque Dominus gladium omnibus castris, et mutua se cæde truncabant, ",
       "hebrew_masoretic": "וַֽיִּתְקְעוּ֮ שְׁלֹשׁ־מֵא֣וֹת הַשּׁוֹפָרוֹת֒ וַיָּ֣שֶׂם יְהֹוָ֗ה אֵ֣ת חֶ֥רֶב אִ֛ישׁ בְּרֵעֵ֖הוּ וּבְכׇל־הַֽמַּחֲנֶ֑ה וַיָּ֨נׇס הַֽמַּחֲנֶ֜ה עַד־בֵּ֤ית הַשִּׁטָּה֙ צְֽרֵרָ֔תָה עַ֛ד שְׂפַת־אָבֵ֥ל מְחוֹלָ֖ה עַל־טַבָּֽת׃",
+      "douay_rheims": "And the three hundred men nevertheless persisted sounding the trumpets. And the Lord sent the sword into all the camp, and they killed one another,",
+      "finnish_biblia": "Ja koska ne kolmesataa miestä puhalsivat basuniin, sovitti Herra niin, että yhden miekka kääntyi toista vastaan siinä sotajoukossa; ja sotaväki pakeni Bethsittan ja Zeredataan, Abel Meholan rajan viereen, Tabatin tykö. ",
       "king_james": "And the three hundred blew the trumpets, and the Lord set every man’s sword against his fellow, even throughout all the host: and the host fled to Beth–shittah in Zererath, and to the border of Abel–meholah, unto Tabbath."
     },
     {
       "verse": 23,
       "latin_vulgate": "fugientes usque ad Bethsetta, et crepidinem Abelmehula in Tebbath. Conclamantes autem viri Israël de Nephthali, et Aser, et omni Manasse, persequebantur Madian. ",
       "hebrew_masoretic": "וַיִּצָּעֵ֧ק אִֽישׁ־יִשְׂרָאֵ֛ל מִנַּפְתָּלִ֥י וּמִן־אָשֵׁ֖ר וּמִן־כׇּל־מְנַשֶּׁ֑ה וַֽיִּרְדְּפ֖וּ אַחֲרֵ֥י מִדְיָֽן׃",
+      "douay_rheims": "Fleeing as far as Bethsetta, and the border of Abelmahula, in Tebbath. But the men of Israel, shouting from Nephthali, and Aser, and from all Manasses, pursued after Madian.",
+      "finnish_biblia": "Ja Israelin miehet kokoontuivat Naphtalista, Asserista ja kaikesta Manassesta, ja ajoivat Midianilaisia takaa. ",
       "king_james": "And the men of Israel gathered themselves together out of Naphtali, and out of Asher, and out of all Manasseh, and pursued after the Midianites."
     },
     {
       "verse": 24,
       "latin_vulgate": "Misitque Gedeon nuntios in omnem montem Ephraim, dicens : Descendite in occursum Madian, et occupate aquas usque Bethbera atque Jordanem. Clamavitque omnis Ephraim, et præoccupavit aquas atque Jordanem usque Bethbera. ",
       "hebrew_masoretic": "וּמַלְאָכִ֡ים שָׁלַ֣ח גִּדְעוֹן֩ בְּכׇל־הַ֨ר אֶפְרַ֜יִם לֵאמֹ֗ר רְד֞וּ לִקְרַ֤את מִדְיָן֙ וְלִכְד֤וּ לָהֶם֙ אֶת־הַמַּ֔יִם עַ֛ד בֵּ֥ית בָּרָ֖ה וְאֶת־הַיַּרְדֵּ֑ן וַיִּצָּעֵ֞ק כׇּל־אִ֤ישׁ אֶפְרַ֙יִם֙ וַיִּלְכְּד֣וּ אֶת־הַמַּ֔יִם עַ֛ד בֵּ֥ית בָּרָ֖ה וְאֶת־הַיַּרְדֵּֽן׃",
+      "douay_rheims": "And Gedeon sent messengers into all Mount Ephraim, saying: Come down to meet Madian, and take the waters before them to Bethbera and the Jordan. And all Ephraim shouted, and took the waters before them and the Jordan as far as Bethbera.",
+      "finnish_biblia": "Ja Gideon lähetti sanansaattajat kaikelle Ephraimin vuorelle, sanoen: tulkaat alas Midianilaisia vastaan ja ennättäkäät heiltä vedet BetBaraan ja Jordaniin asti. Niin kokoontuivat kaikki Ephraimin miehet ja ennättivät vedet BetBaraan ja Jordaniin asti. ",
       "king_james": "And Gideon sent messengers throughout all mount Ephraim, saying, Come down against the Midianites, and take before them the waters unto Beth–barah and Jordan. Then all the men of Ephraim gathered themselves together, and took the waters unto Beth–barah and Jordan."
     },
     {
       "verse": 25,
       "latin_vulgate": "Apprehensosque duos viros Madian, Oreb et Zeb, interfecit Oreb in petra Oreb, Zeb vero in torculari Zeb. Et persecuti sunt Madian, capita Oreb et Zeb portantes ad Gedeon trans fluenta Jordanis.   ",
       "hebrew_masoretic": "וַֽיִּלְכְּד֡וּ שְׁנֵֽי־שָׂרֵ֨י מִדְיָ֜ן אֶת־עֹרֵ֣ב וְאֶת־זְאֵ֗ב וַיַּהַרְג֨וּ אֶת־עוֹרֵ֤ב בְּצוּר־עוֹרֵב֙ וְאֶת־זְאֵב֙ הָרְג֣וּ בְיֶֽקֶב־זְאֵ֔ב וַֽיִּרְדְּפ֖וּ אֶל־מִדְיָ֑ן וְרֹאשׁ־עֹרֵ֣ב וּזְאֵ֔ב הֵבִ֙יאוּ֙ אֶל־גִּדְע֔וֹן מֵעֵ֖בֶר לַיַּרְדֵּֽן׃",
+      "douay_rheims": "And having taken two men of Madian, Oreb and Zeb: Oreb they slew in the rock of Oreb, and Zeb in the winepress of Zeb. And they pursued Madian, carrying the heads of Oreb and Zeb to Gedeon, beyond the waters of the Jordan. ",
+      "finnish_biblia": "Ja he ottivat kaksi Midianilaisten päämiestä kiinni, Orebin ja Zebin, ja tappoivat Orebin Orebin kalliolla, ja Zebin he tappoivat Zebin viinakuurnassa, ja ajoivat Midianilaisia takaa; mutta Orebin ja Zebin päät kantoivat he Gideonille Jordanin ylitse.   ",
       "king_james": "And they took two princes of the Midianites, Oreb and Zeeb; and they slew Oreb upon the rock Oreb, and Zeeb they slew at the winepress of Zeeb, and pursued Midian, and brought the heads of Oreb and Zeeb to Gideon on the other side Jordan. "
     }
   ]

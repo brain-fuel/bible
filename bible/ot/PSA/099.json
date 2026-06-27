@@ -2,6 +2,8 @@
   "book_id": "PSA",
   "latin_name": "Liber Psalmorum",
   "hebrew_name": "תְּהִלִּים",
+  "douay_name": "Psalms",
+  "finnish_name": "Psalmit",
   "english_name": "Psalms",
   "chapter": 99,
   "verses": [
@@ -9,9 +11,14 @@
       "verse": 1,
       "latin_vulgate": "Psalmus ipsi David.   Dominus regnavit : irascantur populi ;  qui sedet super cherubim : moveatur terra. ",
       "hebrew_masoretic": "יְהֹוָ֣ה מָ֭לָךְ יִרְגְּז֣וּ עַמִּ֑ים יֹשֵׁ֥ב כְּ֝רוּבִ֗ים תָּנ֥וּט הָאָֽרֶץ׃",
+      "douay_rheims": "A psalm for David himself. The Lord hath reigned, let the people be angry: he that sitteth on the cherubims: let the earth be moved.",
+      "finnish_biblia": "Herra on Kuningas, kansat kiukuitsevat: hän istuu Kerubimin päällä, sentähden liikkuu maailma. ",
       "king_james": "The Lord reigneth; let the people tremble: he sitteth between the cherubims; let the earth be moved.",
       "refs": {
         "latin_vulgate": {
+          "src": "98:1"
+        },
+        "douay_rheims": {
           "src": "98:1"
         }
       }
@@ -20,9 +27,14 @@
       "verse": 2,
       "latin_vulgate": " Dominus in Sion magnus,  et excelsus super omnes populos. ",
       "hebrew_masoretic": "יְ֭הֹוָה בְּצִיּ֣וֹן גָּד֑וֹל וְרָ֥ם ה֝֗וּא עַל־כׇּל־הָעַמִּֽים׃",
+      "douay_rheims": "The Lord is great in Sion, and high above all people.",
+      "finnish_biblia": "Suuri on Herra Zionissa, ja korkein kaikkein kansain ylitse. ",
       "king_james": "The Lord is great in Zion; and he is high above all the people.",
       "refs": {
         "latin_vulgate": {
+          "src": "98:2"
+        },
+        "douay_rheims": {
           "src": "98:2"
         }
       }
@@ -31,9 +43,14 @@
       "verse": 3,
       "latin_vulgate": " Confiteantur nomini tuo magno,  quoniam terribile et sanctum est, ",
       "hebrew_masoretic": "יוֹד֣וּ שִׁ֭מְךָ גָּד֥וֹל וְנוֹרָ֗א קָד֥וֹשׁ הֽוּא׃",
+      "douay_rheims": "Let them give praise to thy great name: for it is terrible and holy:",
+      "finnish_biblia": "Kiittäkään he sinun suurta ja ihmeellistä nimeäs, joka pyhä on. ",
       "king_james": "Let them praise thy great and terrible name; for it is holy.",
       "refs": {
         "latin_vulgate": {
+          "src": "98:3"
+        },
+        "douay_rheims": {
           "src": "98:3"
         }
       }
@@ -42,9 +59,14 @@
       "verse": 4,
       "latin_vulgate": " et honor regis judicium diligit.  Tu parasti directiones ;  judicium et justitiam in Jacob tu fecisti. ",
       "hebrew_masoretic": "וְעֹ֥ז מֶלֶךְ֮ מִשְׁפָּ֢ט אָ֫הֵ֥ב אַ֭תָּה כּוֹנַ֣נְתָּ מֵישָׁרִ֑ים מִשְׁפָּ֥ט וּ֝צְדָקָ֗ה בְּיַעֲקֹ֤ב ׀ אַתָּ֬ה עָשִֽׂיתָ׃",
+      "douay_rheims": "And the king's honour loveth judgment. Thou hast prepared directions: thou hast done judgment and justice in Jacob.",
+      "finnish_biblia": "Ja Kuninkaan voima rakastaa oikeutta: sinä toimitat oikeuden, sinä saatat tuomion ja vanhurskauden Jakobissa. ",
       "king_james": "The king’s strength also loveth judgment; thou dost establish equity, thou executest judgment and righteousness in Jacob.",
       "refs": {
         "latin_vulgate": {
+          "src": "98:4"
+        },
+        "douay_rheims": {
           "src": "98:4"
         }
       }
@@ -53,9 +75,14 @@
       "verse": 5,
       "latin_vulgate": " Exaltate Dominum Deum nostrum,  et adorate scabellum pedum ejus,  quoniam sanctum est. ",
       "hebrew_masoretic": "רוֹמְמ֡וּ יְ֘הֹוָ֤ה אֱלֹהֵ֗ינוּ וְֽ֭הִשְׁתַּחֲווּ לַהֲדֹ֥ם רַגְלָ֗יו קָד֥וֹשׁ הֽוּא׃",
+      "douay_rheims": "Exalt ye the Lord our God, and adore his footstool, for it is holy.",
+      "finnish_biblia": "Korottakaat Herraa meidän Jumalaamme, ja kumartakaat hänen astinlautansa juuressa, sillä hän on pyhä. ",
       "king_james": "Exalt ye the Lord our God, and worship at his footstool; for he is holy.",
       "refs": {
         "latin_vulgate": {
+          "src": "98:5"
+        },
+        "douay_rheims": {
           "src": "98:5"
         }
       }
@@ -64,9 +91,14 @@
       "verse": 6,
       "latin_vulgate": " Moyses et Aaron in sacerdotibus ejus,  et Samuel inter eos qui invocant nomen ejus :  invocabant Dominum, et ipse exaudiebat eos ; ",
       "hebrew_masoretic": "מֹ֘שֶׁ֤ה וְאַהֲרֹ֨ן ׀ בְּֽכֹהֲנָ֗יו וּ֭שְׁמוּאֵל בְּקֹרְאֵ֣י שְׁמ֑וֹ קֹרִ֥אים אֶל־יְ֝הֹוָ֗ה וְה֣וּא יַעֲנֵֽם׃",
+      "douay_rheims": "Moses and Aaron among his priests: and Samuel among them that call upon his name. They called upon the Lord, and he heard them:",
+      "finnish_biblia": "Moses ja Aaron hänen pappeinsa seassa, ja Samuel niiden seassa, jotka hänen nimeänsä avuksensa huutavat: he avuksensa huutavat Herraa, ja hän kuulee heidän rukouksensa. ",
       "king_james": "Moses and Aaron among his priests, and Samuel among them that call upon his name; they called upon the Lord, and he answered them.",
       "refs": {
         "latin_vulgate": {
+          "src": "98:6"
+        },
+        "douay_rheims": {
           "src": "98:6"
         }
       }
@@ -75,9 +107,14 @@
       "verse": 7,
       "latin_vulgate": " in columna nubis loquebatur ad eos.  Custodiebant testimonia ejus,  et præceptum quod dedit illis. ",
       "hebrew_masoretic": "בְּעַמּ֣וּד עָ֭נָן יְדַבֵּ֣ר אֲלֵיהֶ֑ם שָׁמְר֥וּ עֵ֝דֹתָ֗יו וְחֹ֣ק נָֽתַן־לָֽמוֹ׃",
+      "douay_rheims": "He spoke to them in the pillar of the cloud. They kept his testimonies, and the commandment which he gave them.",
+      "finnish_biblia": "Hän puhui heille pilven patsaasta: he pitivät hänen todistuksensa ja säätynsä, jonka hän heille antoi. ",
       "king_james": "He spake unto them in the cloudy pillar: they kept his testimonies, and the ordinance that he gave them.",
       "refs": {
         "latin_vulgate": {
+          "src": "98:7"
+        },
+        "douay_rheims": {
           "src": "98:7"
         }
       }
@@ -86,9 +123,14 @@
       "verse": 8,
       "latin_vulgate": " Domine Deus noster, tu exaudiebas eos ;  Deus, tu propitius fuisti eis,  et ulciscens in omnes adinventiones eorum. ",
       "hebrew_masoretic": "יְהֹוָ֣ה אֱלֹהֵינוּ֮ אַתָּ֢ה עֲנִ֫יתָ֥ם אֵ֣ל נֹ֭שֵׂא הָיִ֣יתָ לָהֶ֑ם וְ֝נֹקֵ֗ם עַל־עֲלִילוֹתָֽם׃",
+      "douay_rheims": "Thou didst hear them, O Lord our God: thou wast a merciful God to them, and taking vengeance on all their inventions.",
+      "finnish_biblia": "Herra, sinä olet Jumalamme, sinä kuulit heidän rukouksensa: sinä, Jumala, annoit heille anteeksi, ja laitit heidän työnsä. ",
       "king_james": "Thou answeredst them, O Lord our God: thou wast a God that forgavest them, though thou tookest vengeance of their inventions.",
       "refs": {
         "latin_vulgate": {
+          "src": "98:8"
+        },
+        "douay_rheims": {
           "src": "98:8"
         }
       }
@@ -97,9 +139,14 @@
       "verse": 9,
       "latin_vulgate": " Exaltate Dominum Deum nostrum,  et adorate in monte sancto ejus,  quoniam sanctus Dominus Deus noster.  ",
       "hebrew_masoretic": "רוֹמְמ֡וּ יְ֘הֹוָ֤ה אֱלֹהֵ֗ינוּ וְֽ֭הִשְׁתַּחֲווּ לְהַ֣ר קׇדְשׁ֑וֹ כִּי־קָ֝ד֗וֹשׁ יְהֹוָ֥ה אֱלֹהֵֽינוּ׃ {פ}",
+      "douay_rheims": "Exalt ye the Lord our God, and adore at his holy mountain: for the Lord our God is holy. ",
+      "finnish_biblia": "Korottakaat Herraa meidän Jumalaamme, ja kumartakaat hänen pyhällä vuorellansa; sillä Herra meidän Jumalamme on pyhä.   ",
       "king_james": "Exalt the Lord our God, and worship at his holy hill; for the Lord our God is holy. ",
       "refs": {
         "latin_vulgate": {
+          "src": "98:9"
+        },
+        "douay_rheims": {
           "src": "98:9"
         }
       }

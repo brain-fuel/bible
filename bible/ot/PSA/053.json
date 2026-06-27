@@ -2,6 +2,8 @@
   "book_id": "PSA",
   "latin_name": "Liber Psalmorum",
   "hebrew_name": "תְּהִלִּים",
+  "douay_name": "Psalms",
+  "finnish_name": "Psalmit",
   "english_name": "Psalms",
   "chapter": 53,
   "verses": [
@@ -9,6 +11,8 @@
       "verse": 1,
       "latin_vulgate": " Corrupti sunt, et abominabiles facti sunt in iniquitatibus ;  non est qui faciat bonum. ",
       "hebrew_masoretic": "אָ֘מַ֤ר נָבָ֣ל בְּ֭לִבּוֹ אֵ֣ין אֱלֹהִ֑ים הִֽ֝שְׁחִ֗יתוּ וְהִֽתְעִ֥יבוּ עָ֝֗וֶל אֵ֣ין עֹֽשֵׂה־טֽוֹב׃",
+      "douay_rheims": "They are corrupted, and become abominable in iniquities: there is none that doth good.",
+      "finnish_biblia": "Davidin opetus, edelläveisaajalle, Mahelatin päällä. (H53:2) Tyhmät sanovat sydämessänsä: ei Jumalaa olekaan; ei he mitään kelpaa, ja ovat ilkiät menoissansa: ei ole joka hyvää tekee. ",
       "king_james": "The fool hath said in his heart, There is no God. Corrupt are they, and have done abominable iniquity: there is none that doeth good.",
       "refs": {
         "latin_vulgate": {
@@ -16,6 +20,9 @@
         },
         "hebrew_masoretic": {
           "src": "53:2"
+        },
+        "douay_rheims": {
+          "src": "52:2"
         }
       }
     },
@@ -23,6 +30,8 @@
       "verse": 2,
       "latin_vulgate": " Deus de cælo prospexit super filios hominum,  ut videat si est intelligens, aut requirens Deum. ",
       "hebrew_masoretic": "אֱֽלֹהִ֗ים מִשָּׁמַיִם֮ הִשְׁקִ֢יף עַֽל־בְּנֵי־אָ֫דָ֥ם לִ֭רְאוֹת הֲיֵ֣שׁ מַשְׂכִּ֑יל דֹּ֝רֵ֗שׁ אֶת־אֱלֹהִֽים׃",
+      "douay_rheims": "God looked down from heaven on the children of men: to see if there were any that did understand, or did seek God.",
+      "finnish_biblia": "Jumala katsoi taivaasta ihmisten lapsia, nähdäksensä, jos joku ymmärtäis, joku Jumalaa etsis. ",
       "king_james": "God looked down from heaven upon the children of men, to see if there were any that did understand, that did seek God.",
       "refs": {
         "latin_vulgate": {
@@ -30,6 +39,9 @@
         },
         "hebrew_masoretic": {
           "src": "53:3"
+        },
+        "douay_rheims": {
+          "src": "52:3"
         }
       }
     },
@@ -37,6 +49,8 @@
       "verse": 3,
       "latin_vulgate": " Omnes declinaverunt ; simul inutiles facti sunt :  non est qui faciat bonum, non est usque ad unum. ",
       "hebrew_masoretic": "כֻּלּ֥וֹ סָג֮ יַחְדָּ֢ו נֶ֫אֱלָ֥חוּ אֵ֤ין עֹֽשֵׂה־ט֑וֹב אֵ֝֗ין גַּם־אֶחָֽד׃",
+      "douay_rheims": "All have gone aside, they are become unprofitable together, there is none that doth good, no not one.",
+      "finnish_biblia": "Mutta he ovat kaikki vilpistelleet, ja kaikki ovat kelvottomiksi tulleet: ei ole yksikään, joka hyvää tekee, ei ainoakaan. ",
       "king_james": "Every one of them is gone back: they are altogether become filthy; there is none that doeth good, no, not one.",
       "refs": {
         "latin_vulgate": {
@@ -44,6 +58,9 @@
         },
         "hebrew_masoretic": {
           "src": "53:4"
+        },
+        "douay_rheims": {
+          "src": "52:4"
         }
       }
     },
@@ -51,6 +68,8 @@
       "verse": 4,
       "latin_vulgate": " Nonne scient omnes qui operantur iniquitatem,  qui devorant plebem meam ut cibum panis ? ",
       "hebrew_masoretic": "הֲלֹ֥א יָדְעוּ֮ פֹּ֤עֲלֵ֫י אָ֥וֶן אֹכְלֵ֣י עַ֭מִּי אָ֣כְלוּ לֶ֑חֶם אֱ֝לֹהִ֗ים לֹ֣א קָרָֽאוּ׃",
+      "douay_rheims": "Shall not all the workers of iniquity know, who eat up my people as they eat bread?",
+      "finnish_biblia": "Eivätkö pahantekiät sitä huomaitse? jotka minun kansaani syövät, niinkuin he söisivät leipää; vaan ei he Jumalaa avuksensa huuda. ",
       "king_james": "Have the workers of iniquity no knowledge? who eat up my people as they eat bread: they have not called upon God.",
       "refs": {
         "latin_vulgate": {
@@ -58,6 +77,9 @@
         },
         "hebrew_masoretic": {
           "src": "53:5"
+        },
+        "douay_rheims": {
+          "src": "52:5"
         }
       }
     },
@@ -65,6 +87,8 @@
       "verse": 5,
       "latin_vulgate": " Deum non invocaverunt ;  illic trepidaverunt timore, ubi non erat timor.  Quoniam Deus dissipavit ossa eorum qui hominibus placent :  confusi sunt, quoniam Deus sprevit eos. ",
       "hebrew_masoretic": "שָׁ֤ם ׀ פָּ֥חֲדוּ פַחַד֮ לֹא־הָ֢יָ֫ה פָ֥חַד כִּֽי־אֱלֹהִ֗ים פִּ֭זַּר עַצְמ֣וֹת חֹנָ֑ךְ הֱ֝בִשֹׁ֗תָה כִּֽי־אֱלֹהִ֥ים מְאָסָֽם׃",
+      "douay_rheims": "They have not called upon God: there have they trembled for fear, where there was no fear. For God hath scattered the bones of them that please men: they have been confounded, because God hath despised them.",
+      "finnish_biblia": "Siellä he kovin pelkäsivät, kussa ei mitään peljättävää ollut; sillä Jumala hajoittaa niiden luut, jotka sinua ahdistavat: sinä saatat heitä häpiään, sillä Jumala hylkää heidät. ",
       "king_james": "There were they in great fear, where no fear was: for God hath scattered the bones of him that encampeth against thee: thou hast put them to shame, because God hath despised them.",
       "refs": {
         "latin_vulgate": {
@@ -72,6 +96,9 @@
         },
         "hebrew_masoretic": {
           "src": "53:6"
+        },
+        "douay_rheims": {
+          "src": "52:6"
         }
       }
     },
@@ -79,6 +106,8 @@
       "verse": 6,
       "latin_vulgate": " Quis dabit ex Sion salutare Israël ?  cum converterit Deus captivitatem plebis suæ,  exsultabit Jacob, et lætabitur Israël.  ",
       "hebrew_masoretic": "מִ֥י־יִתֵּ֣ן מִצִּיּוֹן֮ יְשֻׁע֢וֹת יִשְׂרָ֫אֵ֥ל בְּשׁ֣וּב אֱ֭לֹהִים שְׁב֣וּת עַמּ֑וֹ יָגֵ֥ל יַ֝עֲקֹ֗ב יִשְׂמַ֥ח יִשְׂרָאֵֽל׃ {פ}",
+      "douay_rheims": "Who will give out of Sion the salvation of Israel? when God shall bring back the captivity of his people, Jacob shall rejoice, and Israel shall be glad. ",
+      "finnish_biblia": "Oi, jos apu tulis Zionista Israelille! Kuin Jumala vangitun kansansa päästää, niin Jakob iloitsee ja Israel riemuitsee.   ",
       "king_james": "Oh that the salvation of Israel were come out of Zion! When God bringeth back the captivity of his people, Jacob shall rejoice, and Israel shall be glad. ",
       "refs": {
         "latin_vulgate": {
@@ -86,6 +115,9 @@
         },
         "hebrew_masoretic": {
           "src": "53:7"
+        },
+        "douay_rheims": {
+          "src": "52:7"
         }
       }
     }

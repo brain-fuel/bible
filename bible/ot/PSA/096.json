@@ -2,6 +2,8 @@
   "book_id": "PSA",
   "latin_name": "Liber Psalmorum",
   "hebrew_name": "תְּהִלִּים",
+  "douay_name": "Psalms",
+  "finnish_name": "Psalmit",
   "english_name": "Psalms",
   "chapter": 96,
   "verses": [
@@ -9,9 +11,14 @@
       "verse": 1,
       "latin_vulgate": "Canticum ipsi David, quando domus ædificabatur post captivitatem.   Cantate Domino canticum novum ;  cantate Domino omnis terra. ",
       "hebrew_masoretic": "שִׁ֣ירוּ לַ֭יהֹוָה שִׁ֣יר חָדָ֑שׁ שִׁ֥ירוּ לַ֝יהֹוָ֗ה כׇּל־הָאָֽרֶץ׃",
+      "douay_rheims": "A canticle for David himself, when the house was built after the captivity. Sing ye to the Lord a new canticle: sing to the Lord, all the earth.",
+      "finnish_biblia": "Veisatkaat Herralle uusi veisu: veisatkaat Herralle, kaikki maa! ",
       "king_james": "O sing unto the Lord a new song: sing unto the Lord, all the earth.",
       "refs": {
         "latin_vulgate": {
+          "src": "95:1"
+        },
+        "douay_rheims": {
           "src": "95:1"
         }
       }
@@ -20,9 +27,14 @@
       "verse": 2,
       "latin_vulgate": " Cantate Domino, et benedicite nomini ejus ;  annuntiate de die in diem salutare ejus. ",
       "hebrew_masoretic": "שִׁ֣ירוּ לַ֭יהֹוָה בָּרְכ֣וּ שְׁמ֑וֹ בַּשְּׂר֥וּ מִיּֽוֹם־לְ֝י֗וֹם יְשׁוּעָתֽוֹ׃",
+      "douay_rheims": "Sing ye to the Lord and bless his name: shew forth his salvation from day to day.",
+      "finnish_biblia": "Veisatkaat Herralle, ja kiittäkäät hänen nimeänsä: julistakaat päivä päivältä hänen autuuttansa. ",
       "king_james": "Sing unto the Lord, bless his name; shew forth his salvation from day to day.",
       "refs": {
         "latin_vulgate": {
+          "src": "95:2"
+        },
+        "douay_rheims": {
           "src": "95:2"
         }
       }
@@ -31,9 +43,14 @@
       "verse": 3,
       "latin_vulgate": " Annuntiate inter gentes gloriam ejus ;  in omnibus populis mirabilia ejus. ",
       "hebrew_masoretic": "סַפְּר֣וּ בַגּוֹיִ֣ם כְּבוֹד֑וֹ בְּכׇל־הָ֝עַמִּ֗ים נִפְלְאוֹתָֽיו׃",
+      "douay_rheims": "Declare his glory among the Gentiles: his wonders among all people.",
+      "finnish_biblia": "Luetelkaat pakanain seassa hänen kunniaansa, kaikkein kansain seassa hänen ihmeitänsä! ",
       "king_james": "Declare his glory among the heathen, his wonders among all people.",
       "refs": {
         "latin_vulgate": {
+          "src": "95:3"
+        },
+        "douay_rheims": {
           "src": "95:3"
         }
       }
@@ -42,9 +59,14 @@
       "verse": 4,
       "latin_vulgate": " Quoniam magnus Dominus, et laudabilis nimis :  terribilis est super omnes deos. ",
       "hebrew_masoretic": "כִּ֥י־גָ֘ד֤וֹל יְהֹוָ֣ה וּמְהֻלָּ֣ל מְאֹ֑ד נוֹרָ֥א ה֝֗וּא עַל־כׇּל־אֱלֹהִֽים׃",
+      "douay_rheims": "For the Lord is great, and exceedingly to be praised: he is to be feared above all gods.",
+      "finnish_biblia": "Sillä Herra on suuri ja sangen kiitettävä, ihmeellinen kaikkein jumalain seassa. ",
       "king_james": "For the Lord is great, and greatly to be praised: he is to be feared above all gods.",
       "refs": {
         "latin_vulgate": {
+          "src": "95:4"
+        },
+        "douay_rheims": {
           "src": "95:4"
         }
       }
@@ -53,9 +75,14 @@
       "verse": 5,
       "latin_vulgate": " Quoniam omnes dii gentium dæmonia ;  Dominus autem cælos fecit. ",
       "hebrew_masoretic": "כִּ֤י ׀ כׇּל־אֱלֹהֵ֣י הָעַמִּ֣ים אֱלִילִ֑ים וַ֝יהֹוָ֗ה שָׁמַ֥יִם עָשָֽׂה׃",
+      "douay_rheims": "For all the gods of the Gentiles are devils: but the Lord made the heavens.",
+      "finnish_biblia": "Sillä kaikki kansain jumalat ovat epäjumalat; mutta Herra on taivaat tehnyt. ",
       "king_james": "For all the gods of the nations are idols: but the Lord made the heavens.",
       "refs": {
         "latin_vulgate": {
+          "src": "95:5"
+        },
+        "douay_rheims": {
           "src": "95:5"
         }
       }
@@ -64,9 +91,14 @@
       "verse": 6,
       "latin_vulgate": " Confessio et pulchritudo in conspectu ejus ;  sanctimonia et magnificentia in sanctificatione ejus. ",
       "hebrew_masoretic": "הוֹד־וְהָדָ֥ר לְפָנָ֑יו עֹ֥ז וְ֝תִפְאֶ֗רֶת בְּמִקְדָּשֽׁוֹ׃",
+      "douay_rheims": "Praise and beauty are before him: holiness and majesty in his sanctuary.",
+      "finnish_biblia": "Kunnia ja kaunistus ovat hänen edessänsä, väkevyys ja kauneus hänen pyhässänsä. ",
       "king_james": "Honour and majesty are before him: strength and beauty are in his sanctuary.",
       "refs": {
         "latin_vulgate": {
+          "src": "95:6"
+        },
+        "douay_rheims": {
           "src": "95:6"
         }
       }
@@ -75,9 +107,14 @@
       "verse": 7,
       "latin_vulgate": " Afferte Domino, patriæ gentium,  afferte Domino gloriam et honorem ; ",
       "hebrew_masoretic": "הָב֣וּ לַ֭יהֹוָה מִשְׁפְּח֣וֹת עַמִּ֑ים הָב֥וּ לַ֝יהֹוָ֗ה כָּב֥וֹד וָעֹֽז׃",
+      "douay_rheims": "Bring ye to the Lord, O ye kindreds of the Gentiles, bring ye to the Lord glory and honour:",
+      "finnish_biblia": "Kansain sukukunnat, tuokaat Herralle, tuokaat Herralle kunnia ja voima! ",
       "king_james": "Give unto the Lord, O ye kindreds of the people, give unto the Lord glory and strength.",
       "refs": {
         "latin_vulgate": {
+          "src": "95:7"
+        },
+        "douay_rheims": {
           "src": "95:7"
         }
       }
@@ -86,9 +123,14 @@
       "verse": 8,
       "latin_vulgate": " afferte Domino gloriam nomini ejus.  Tollite hostias, et introite in atria ejus ; ",
       "hebrew_masoretic": "הָב֣וּ לַ֭יהֹוָה כְּב֣וֹד שְׁמ֑וֹ שְׂאֽוּ־מִ֝נְחָ֗ה וּבֹ֥אוּ לְחַצְרוֹתָֽיו׃",
+      "douay_rheims": "Bring to the Lord glory unto his name. Bring up sacrifices, and come into his courts:",
+      "finnish_biblia": "Tuokaat Herralle hänen nimensä kunnia: tuokaat lahjoja ja tulkaat hänen esihuoneisiinsa! ",
       "king_james": "Give unto the Lord the glory due unto his name: bring an offering, and come into his courts.",
       "refs": {
         "latin_vulgate": {
+          "src": "95:8"
+        },
+        "douay_rheims": {
           "src": "95:8"
         }
       }
@@ -97,9 +139,14 @@
       "verse": 9,
       "latin_vulgate": " adorate Dominum in atrio sancto ejus.  Commoveatur a facie ejus universa terra ; ",
       "hebrew_masoretic": "הִשְׁתַּחֲו֣וּ לַ֭יהֹוָה בְּהַדְרַת־קֹ֑דֶשׁ חִ֥ילוּ מִ֝פָּנָ֗יו כׇּל־הָאָֽרֶץ׃",
+      "douay_rheims": "Adore ye the Lord in his holy court. Let all the earth be moved at his presence.",
+      "finnish_biblia": "Kumartakaat Herraa pyhässä kaunistuksessa: peljätkään häntä kaikki maailma! ",
       "king_james": "O worship the Lord in the beauty of holiness: fear before him, all the earth.",
       "refs": {
         "latin_vulgate": {
+          "src": "95:9"
+        },
+        "douay_rheims": {
           "src": "95:9"
         }
       }
@@ -108,9 +155,14 @@
       "verse": 10,
       "latin_vulgate": " dicite in gentibus, quia Dominus regnavit.  Etenim correxit orbem terræ, qui non commovebitur ;  judicabit populos in æquitate. ",
       "hebrew_masoretic": "אִמְר֤וּ בַגּוֹיִ֨ם ׀ יְ֘הֹוָ֤ה מָלָ֗ךְ אַף־תִּכּ֣וֹן תֵּ֭בֵל בַּל־תִּמּ֑וֹט יָדִ֥ין עַ֝מִּ֗ים בְּמֵישָׁרִֽים׃",
+      "douay_rheims": "Say ye among the Gentiles, the Lord hath reigned. For he hath corrected the world, which shall not be moved: he will judge the people with justice.",
+      "finnish_biblia": "Sanokaat pakanain seassa: Herra on kuningas, joka maan piirin on vahvistanut, ettei se liiku, ja tuomitsee kansan oikeudella. ",
       "king_james": "Say among the heathen that the Lord reigneth: the world also shall be established that it shall not be moved: he shall judge the people righteously.",
       "refs": {
         "latin_vulgate": {
+          "src": "95:10"
+        },
+        "douay_rheims": {
           "src": "95:10"
         }
       }
@@ -119,9 +171,14 @@
       "verse": 11,
       "latin_vulgate": " Lætentur cæli, et exsultet terra ;  commoveatur mare et plenitudo ejus ; ",
       "hebrew_masoretic": "יִשְׂמְח֣וּ הַ֭שָּׁמַיִם וְתָגֵ֣ל הָאָ֑רֶץ יִֽרְעַ֥ם הַ֝יָּ֗ם וּמְלֹאֽוֹ׃",
+      "douay_rheims": "Let the heavens rejoice, and let the earth be glad, let the sea be moved, and the fulness thereof:",
+      "finnish_biblia": "Taivaat riemuitkaan, ja maa iloitkaan: meri pauhatkaan ja mitä siinä on. ",
       "king_james": "Let the heavens rejoice, and let the earth be glad; let the sea roar, and the fulness thereof.",
       "refs": {
         "latin_vulgate": {
+          "src": "95:11"
+        },
+        "douay_rheims": {
           "src": "95:11"
         }
       }
@@ -130,9 +187,14 @@
       "verse": 12,
       "latin_vulgate": " gaudebunt campi, et omnia quæ in eis sunt.  Tunc exsultabunt omnia ligna silvarum ",
       "hebrew_masoretic": "יַעֲלֹ֣ז שָׂ֭דַי וְכׇל־אֲשֶׁר־בּ֑וֹ אָ֥ז יְ֝רַנְּנ֗וּ כׇּל־עֲצֵי־יָֽעַר׃",
+      "douay_rheims": "The fields and all things that are in them shall be joyful. Then shall all the trees of the woods rejoice",
+      "finnish_biblia": "Kedot olkaan iloiset, ja kaikki mitkä hänessä ovat, ja kaikki puut ihastukaan metsissä, ",
       "king_james": "Let the field be joyful, and all that is therein: then shall all the trees of the wood rejoice",
       "refs": {
         "latin_vulgate": {
+          "src": "95:12"
+        },
+        "douay_rheims": {
           "src": "95:12"
         }
       }
@@ -141,9 +203,14 @@
       "verse": 13,
       "latin_vulgate": " a facie Domini, quia venit,  quoniam venit judicare terram.  Judicabit orbem terræ in æquitate,  et populos in veritate sua.  ",
       "hebrew_masoretic": "לִפְנֵ֤י יְהֹוָ֨ה ׀ כִּ֬י בָ֗א כִּ֥י בָא֮ לִשְׁפֹּ֢ט הָ֫אָ֥רֶץ יִשְׁפֹּֽט־תֵּבֵ֥ל בְּצֶ֑דֶק וְ֝עַמִּ֗ים בֶּאֱמוּנָתֽוֹ׃ {פ}",
+      "douay_rheims": "before the face of the Lord, because he cometh: because he cometh to judge the earth. He shall judge the world with justice, and the people with his truth. ",
+      "finnish_biblia": "Herran edessä; sillä hän tulee, hän tulee tuomitsemaan maata. Hän tuomitsee maan piirin vanhurskaudessa ja kansat totuudessansa.   ",
       "king_james": "Before the Lord: for he cometh, for he cometh to judge the earth: he shall judge the world with righteousness, and the people with his truth. ",
       "refs": {
         "latin_vulgate": {
+          "src": "95:13"
+        },
+        "douay_rheims": {
           "src": "95:13"
         }
       }

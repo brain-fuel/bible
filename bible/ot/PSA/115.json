@@ -2,6 +2,8 @@
   "book_id": "PSA",
   "latin_name": "Liber Psalmorum",
   "hebrew_name": "תְּהִלִּים",
+  "douay_name": "Psalms",
+  "finnish_name": "Psalmit",
   "english_name": "Psalms",
   "chapter": 115,
   "verses": [
@@ -9,9 +11,14 @@
       "verse": 1,
       "latin_vulgate": " Non nobis, Domine, non nobis,  sed nomini tuo da gloriam : ",
       "hebrew_masoretic": "לֹ֤א לָ֥נוּ יְהֹוָ֗ה לֹ֫א־לָ֥נוּ כִּֽי־לְ֭שִׁמְךָ תֵּ֣ן כָּב֑וֹד עַל־חַ֝סְדְּךָ֗ עַל־אֲמִתֶּֽךָ׃",
+      "douay_rheims": "Not to us, O Lord, not to us; but to thy name give glory.",
+      "finnish_biblia": "Ei meille, Herra, ei meille, vaan sinun nimelles anna kunnia, sinun armos ja totuutes tähden. ",
       "king_james": "Not unto us, O Lord, not unto us, but unto thy name give glory, for thy mercy, and for thy truth’s sake.",
       "refs": {
         "latin_vulgate": {
+          "src": "113:9"
+        },
+        "douay_rheims": {
           "src": "113:9"
         }
       }
@@ -20,9 +27,14 @@
       "verse": 2,
       "latin_vulgate": " super misericordia tua et veritate tua ;  nequando dicant gentes :  Ubi est Deus eorum ? ",
       "hebrew_masoretic": "לָ֭מָּה יֹאמְר֣וּ הַגּוֹיִ֑ם אַיֵּה־נָ֝֗א אֱלֹהֵיהֶֽם׃",
+      "douay_rheims": "For thy mercy, and for thy truth's sake: lest the Gentiles should say: Where is their God?",
+      "finnish_biblia": "Miksi pakanat sanovat: kussa on nyt heidän Jumalansa? ",
       "king_james": "Wherefore should the heathen say, Where is now their God?",
       "refs": {
         "latin_vulgate": {
+          "src": "113:10"
+        },
+        "douay_rheims": {
           "src": "113:10"
         }
       }
@@ -31,9 +43,14 @@
       "verse": 3,
       "latin_vulgate": " Deus autem noster in cælo ;  omnia quæcumque voluit fecit. ",
       "hebrew_masoretic": "וֵאלֹהֵ֥ינוּ בַשָּׁמָ֑יִם כֹּ֖ל אֲשֶׁר־חָפֵ֣ץ עָשָֽׂה׃",
+      "douay_rheims": "But our God is in heaven: he hath done all things whatsoever he would.",
+      "finnish_biblia": "Mutta meidän Jumalamme on taivaissa: mitä ikänä hän tahtoo, sen hän tekee. ",
       "king_james": "But our God is in the heavens: he hath done whatsoever he hath pleased.",
       "refs": {
         "latin_vulgate": {
+          "src": "113:11"
+        },
+        "douay_rheims": {
           "src": "113:11"
         }
       }
@@ -42,9 +59,14 @@
       "verse": 4,
       "latin_vulgate": " Simulacra gentium argentum et aurum,  opera manuum hominum. ",
       "hebrew_masoretic": "עֲֽ֭צַבֵּיהֶם כֶּ֣סֶף וְזָהָ֑ב מַ֝עֲשֵׂ֗ה יְדֵ֣י אָדָֽם׃",
+      "douay_rheims": "The idols of the Gentiles are silver and gold, the works of the hands of men.",
+      "finnish_biblia": "Vaan heidän epäjumalansa ovat hopia ja kulta, ihmisten käsillä tehdyt. ",
       "king_james": "Their idols are silver and gold, the work of men’s hands.",
       "refs": {
         "latin_vulgate": {
+          "src": "113:12"
+        },
+        "douay_rheims": {
           "src": "113:12"
         }
       }
@@ -53,9 +75,14 @@
       "verse": 5,
       "latin_vulgate": " Os habent, et non loquentur ;  oculos habent, et non videbunt. ",
       "hebrew_masoretic": "פֶּֽה־לָ֭הֶם וְלֹ֣א יְדַבֵּ֑רוּ עֵינַ֥יִם לָ֝הֶ֗ם וְלֹ֣א יִרְאֽוּ׃",
+      "douay_rheims": "They have mouths and speak not: they have eyes and see not.",
+      "finnish_biblia": "Heillä on suu, ja ei puhu: heillä ovat silmät, ja ei näe. ",
       "king_james": "They have mouths, but they speak not: eyes have they, but they see not:",
       "refs": {
         "latin_vulgate": {
+          "src": "113:13"
+        },
+        "douay_rheims": {
           "src": "113:13"
         }
       }
@@ -64,9 +91,14 @@
       "verse": 6,
       "latin_vulgate": " Aures habent, et non audient ;  nares habent, et non odorabunt. ",
       "hebrew_masoretic": "אׇזְנַ֣יִם לָ֭הֶם וְלֹ֣א יִשְׁמָ֑עוּ אַ֥ף לָ֝הֶ֗ם וְלֹ֣א יְרִיחֽוּן׃",
+      "douay_rheims": "They have ears and hear not: they have noses and smell not.",
+      "finnish_biblia": "Heillä ovat korvat, ja ei kuule: heillä ovat sieraimet, ja ei haista. ",
       "king_james": "They have ears, but they hear not: noses have they, but they smell not:",
       "refs": {
         "latin_vulgate": {
+          "src": "113:14"
+        },
+        "douay_rheims": {
           "src": "113:14"
         }
       }
@@ -75,9 +107,14 @@
       "verse": 7,
       "latin_vulgate": " Manus habent, et non palpabunt ;  pedes habent, et non ambulabunt ;  non clamabunt in gutture suo. ",
       "hebrew_masoretic": "יְדֵיהֶ֤ם ׀ וְלֹ֬א יְמִישׁ֗וּן רַ֭גְלֵיהֶם וְלֹ֣א יְהַלֵּ֑כוּ לֹא־יֶ֝הְגּ֗וּ בִּגְרוֹנָֽם׃",
+      "douay_rheims": "They have hands and feel not: they have feet and walk not: neither shall they cry out through their throat.",
+      "finnish_biblia": "Heillä ovat kädet, ja ei rupee: heillä ovat jalat, ja ei käy; ja ei puhu kurkustansa. ",
       "king_james": "They have hands, but they handle not: feet have they, but they walk not: neither speak they through their throat.",
       "refs": {
         "latin_vulgate": {
+          "src": "113:15"
+        },
+        "douay_rheims": {
           "src": "113:15"
         }
       }
@@ -86,9 +123,14 @@
       "verse": 8,
       "latin_vulgate": " Similes illis fiant qui faciunt ea,  et omnes qui confidunt in eis. ",
       "hebrew_masoretic": "כְּ֭מוֹהֶם יִהְי֣וּ עֹשֵׂיהֶ֑ם כֹּ֖ל אֲשֶׁר־בֹּטֵ֣חַ בָּהֶֽם׃",
+      "douay_rheims": "Let them that make them become like unto them: and all such as trust in them.",
+      "finnish_biblia": "Jotka niitä tekevät, ovat niiden kaltaiset, ja kaikki, jotka heihin uskaltavat. ",
       "king_james": "They that make them are like unto them; so is every one that trusteth in them.",
       "refs": {
         "latin_vulgate": {
+          "src": "113:16"
+        },
+        "douay_rheims": {
           "src": "113:16"
         }
       }
@@ -97,9 +139,14 @@
       "verse": 9,
       "latin_vulgate": " Domus Israël speravit in Domino ;  adjutor eorum et protector eorum est. ",
       "hebrew_masoretic": "יִ֭שְׂרָאֵל בְּטַ֣ח בַּיהֹוָ֑ה עֶזְרָ֖ם וּמָגִנָּ֣ם הֽוּא׃",
+      "douay_rheims": "The house of Israel hath hoped in the Lord: he is their helper and their protector.",
+      "finnish_biblia": "Mutta Israel toivokaan Herran päälle: hän on heidän apunsa ja heidän kilpensä. ",
       "king_james": "O Israel, trust thou in the Lord: he is their help and their shield.",
       "refs": {
         "latin_vulgate": {
+          "src": "113:17"
+        },
+        "douay_rheims": {
           "src": "113:17"
         }
       }
@@ -108,9 +155,14 @@
       "verse": 10,
       "latin_vulgate": " Domus Aaron speravit in Domino ;  adjutor eorum et protector eorum est. ",
       "hebrew_masoretic": "בֵּ֣ית אַ֭הֲרֹן בִּטְח֣וּ בַיהֹוָ֑ה עֶזְרָ֖ם וּמָגִנָּ֣ם הֽוּא׃",
+      "douay_rheims": "The house of Aaron hath hoped in the Lord: he is their helper and their protector.",
+      "finnish_biblia": "Aaronin huone toivokaan Herran päälle: hän on heidän apunsa ja heidän kilpensä. ",
       "king_james": "O house of Aaron, trust in the Lord: he is their help and their shield.",
       "refs": {
         "latin_vulgate": {
+          "src": "113:18"
+        },
+        "douay_rheims": {
           "src": "113:18"
         }
       }
@@ -119,9 +171,14 @@
       "verse": 11,
       "latin_vulgate": " Qui timent Dominum speraverunt in Domino ; adjutor eorum et protector eorum est. ",
       "hebrew_masoretic": "יִרְאֵ֣י יְ֭הֹוָה בִּטְח֣וּ בַיהֹוָ֑ה עֶזְרָ֖ם וּמָגִנָּ֣ם הֽוּא׃",
+      "douay_rheims": "They that fear the Lord have hoped in the Lord: he is their helper and their protector.",
+      "finnish_biblia": "Jotka Herraa pelkäävät, toivokaan myös Herran päälle: hän on heidän apunsa ja heidän kilpensä. ",
       "king_james": "Ye that fear the Lord, trust in the Lord: he is their help and their shield.",
       "refs": {
         "latin_vulgate": {
+          "src": "113:19"
+        },
+        "douay_rheims": {
           "src": "113:19"
         }
       }
@@ -130,9 +187,14 @@
       "verse": 12,
       "latin_vulgate": " Dominus memor fuit nostri,  et benedixit nobis.  Benedixit domui Israël ;  benedixit domui Aaron. ",
       "hebrew_masoretic": "יְהֹוָה֮ זְכָרָ֢נוּ יְבָ֫רֵ֥ךְ יְ֭בָרֵךְ אֶת־בֵּ֣ית יִשְׂרָאֵ֑ל יְ֝בָרֵ֗ךְ אֶת־בֵּ֥ית אַהֲרֹֽן׃",
+      "douay_rheims": "The Lord hath been mindful of us, and hath blessed us. He hath blessed the house of Israel: he hath blessed the house of Aaron.",
+      "finnish_biblia": "Herra muistaa meitä ja siunaa meitä: hän siunaa Israelin huoneen, hän siunaa Aaronin huoneen. ",
       "king_james": "The Lord hath been mindful of us: he will bless us; he will bless the house of Israel; he will bless the house of Aaron.",
       "refs": {
         "latin_vulgate": {
+          "src": "113:20"
+        },
+        "douay_rheims": {
           "src": "113:20"
         }
       }
@@ -141,9 +203,14 @@
       "verse": 13,
       "latin_vulgate": " Benedixit omnibus qui timent Dominum,  pusillis cum majoribus. ",
       "hebrew_masoretic": "יְ֭בָרֵךְ יִרְאֵ֣י יְהֹוָ֑ה הַ֝קְּטַנִּ֗ים עִם־הַגְּדֹלִֽים׃",
+      "douay_rheims": "He hath blessed all that fear the Lord, both little and great.",
+      "finnish_biblia": "Hän siunaa ne, jotka Herraa pelkäävät, sekä pienet että suuret. ",
       "king_james": "He will bless them that fear the Lord, both small and great.",
       "refs": {
         "latin_vulgate": {
+          "src": "113:21"
+        },
+        "douay_rheims": {
           "src": "113:21"
         }
       }
@@ -152,9 +219,14 @@
       "verse": 14,
       "latin_vulgate": " Adjiciat Dominus super vos,  super vos et super filios vestros. ",
       "hebrew_masoretic": "יֹסֵ֣ף יְהֹוָ֣ה עֲלֵיכֶ֑ם עֲ֝לֵיכֶ֗ם וְעַל־בְּנֵיכֶֽם׃",
+      "douay_rheims": "May the Lord add blessings upon you: upon you, and upon your children.",
+      "finnish_biblia": "Herra siunatkoon teitä enemmin ja enemmin, teitä ja teidän lapsianne. ",
       "king_james": "The Lord shall increase you more and more, you and your children.",
       "refs": {
         "latin_vulgate": {
+          "src": "113:22"
+        },
+        "douay_rheims": {
           "src": "113:22"
         }
       }
@@ -163,9 +235,14 @@
       "verse": 15,
       "latin_vulgate": " Benedicti vos a Domino,  qui fecit cælum et terram. ",
       "hebrew_masoretic": "בְּרוּכִ֣ים אַ֭תֶּם לַיהֹוָ֑ה עֹ֝שֵׂ֗ה שָׁמַ֥יִם וָאָֽרֶץ׃",
+      "douay_rheims": "Blessed be you of the Lord, who made heaven and earth.",
+      "finnish_biblia": "Te olette Herran siunatut, joka taivaat ja maan on tehnyt. ",
       "king_james": "Ye are blessed of the Lord which made heaven and earth.",
       "refs": {
         "latin_vulgate": {
+          "src": "113:23"
+        },
+        "douay_rheims": {
           "src": "113:23"
         }
       }
@@ -174,9 +251,14 @@
       "verse": 16,
       "latin_vulgate": " Cælum cæli Domino ;  terram autem dedit filiis hominum. ",
       "hebrew_masoretic": "הַשָּׁמַ֣יִם שָׁ֭מַיִם לַיהֹוָ֑ה וְ֝הָאָ֗רֶץ נָתַ֥ן לִבְנֵי־אָדָֽם׃",
+      "douay_rheims": "The heaven of heaven is the Lord's: but the earth he has given to the children of men.",
+      "finnish_biblia": "Taivasten taivaat ovat Herran; mutta maan on hän ihmisten lapsille antanut. ",
       "king_james": "The heaven, even the heavens, are the Lord’s: but the earth hath he given to the children of men.",
       "refs": {
         "latin_vulgate": {
+          "src": "113:24"
+        },
+        "douay_rheims": {
           "src": "113:24"
         }
       }
@@ -185,9 +267,14 @@
       "verse": 17,
       "latin_vulgate": " Non mortui laudabunt te, Domine,  neque omnes qui descendunt in infernum : ",
       "hebrew_masoretic": "לֹ֣א הַ֭מֵּתִים יְהַֽלְלוּ־יָ֑הּ וְ֝לֹ֗א כׇּל־יֹרְדֵ֥י דוּמָֽה׃",
+      "douay_rheims": "The dead shall not praise thee, O Lord: nor any of them that go down to hell.",
+      "finnish_biblia": "Kuolleet ei taida Herraa kiittää, eikä ne, jotka menevät alas hiljaisuuteen. ",
       "king_james": "The dead praise not the Lord, neither any that go down into silence.",
       "refs": {
         "latin_vulgate": {
+          "src": "113:25"
+        },
+        "douay_rheims": {
           "src": "113:25"
         }
       }
@@ -196,9 +283,14 @@
       "verse": 18,
       "latin_vulgate": " sed nos qui vivimus, benedicimus Domino,  ex hoc nunc et usque in sæculum.  ",
       "hebrew_masoretic": "וַאֲנַ֤חְנוּ ׀ נְבָ֘רֵ֤ךְ יָ֗הּ מֵעַתָּ֥ה וְעַד־עוֹלָ֗ם הַֽלְלוּ־יָֽהּ׃ {פ}",
+      "douay_rheims": "But we that live bless the Lord: from this time now and for ever. ",
+      "finnish_biblia": "Mutta me kiitämme Herraa, hamasta nyt ja ijankaikkiseen, Halleluja!   ",
       "king_james": "But we will bless the Lord from this time forth and for evermore. Praise the Lord. ",
       "refs": {
         "latin_vulgate": {
+          "src": "113:26"
+        },
+        "douay_rheims": {
           "src": "113:26"
         }
       }

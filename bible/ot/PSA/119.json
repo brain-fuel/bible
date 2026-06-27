@@ -2,6 +2,8 @@
   "book_id": "PSA",
   "latin_name": "Liber Psalmorum",
   "hebrew_name": "תְּהִלִּים",
+  "douay_name": "Psalms",
+  "finnish_name": "Psalmit",
   "english_name": "Psalms",
   "chapter": 119,
   "verses": [
@@ -9,9 +11,14 @@
       "verse": 1,
       "latin_vulgate": "Alleluja.     Beati immaculati in via,  qui ambulant in lege Domini. ",
       "hebrew_masoretic": "אַשְׁרֵ֥י תְמִֽימֵי־דָ֑רֶךְ הַ֝הֹלְכִ֗ים בְּתוֹרַ֥ת יְהֹוָֽה׃",
+      "douay_rheims": "Blessed are the undefiled in the way, who walk in the law of the Lord.",
+      "finnish_biblia": "Autuaat ovat ne, jotka viattomasti elävät, ja jotka Herran laissa vaeltavat. ",
       "king_james": " Blessed are the undefiled in the way, who walk in the law of the Lord.",
       "refs": {
         "latin_vulgate": {
+          "src": "118:1"
+        },
+        "douay_rheims": {
           "src": "118:1"
         }
       }
@@ -20,9 +27,14 @@
       "verse": 2,
       "latin_vulgate": " Beati qui scrutantur testimonia ejus ;  in toto corde exquirunt eum. ",
       "hebrew_masoretic": "אַ֭שְׁרֵי נֹצְרֵ֥י עֵדֹתָ֗יו בְּכׇל־לֵ֥ב יִדְרְשֽׁוּהוּ׃",
+      "douay_rheims": "Blessed are they that search his testimonies: that seek him with their whole heart.",
+      "finnish_biblia": "Autuaat ovat ne, jotka hänen todistuksiansa pitävät, ja kaikesta sydämestä häntä etsivät. ",
       "king_james": "Blessed are they that keep his testimonies, and that seek him with the whole heart.",
       "refs": {
         "latin_vulgate": {
+          "src": "118:2"
+        },
+        "douay_rheims": {
           "src": "118:2"
         }
       }
@@ -31,9 +43,14 @@
       "verse": 3,
       "latin_vulgate": " Non enim qui operantur iniquitatem  in viis ejus ambulaverunt. ",
       "hebrew_masoretic": "אַ֭ף לֹא־פָעֲל֣וּ עַוְלָ֑ה בִּדְרָכָ֥יו הָלָֽכוּ׃",
+      "douay_rheims": "For they that work iniquity, have not walked in his ways.",
+      "finnish_biblia": "Sillä, jotka hänen teissänsä vaeltavat, ei he tee mitään pahaa. ",
       "king_james": "They also do no iniquity: they walk in his ways.",
       "refs": {
         "latin_vulgate": {
+          "src": "118:3"
+        },
+        "douay_rheims": {
           "src": "118:3"
         }
       }
@@ -42,9 +59,14 @@
       "verse": 4,
       "latin_vulgate": " Tu mandasti mandata tua  custodiri nimis. ",
       "hebrew_masoretic": "אַ֭תָּה צִוִּ֥יתָה פִקֻּדֶ֗יךָ לִשְׁמֹ֥ר מְאֹֽד׃",
+      "douay_rheims": "Thou hast commanded thy commandments to be kept most diligently.",
+      "finnish_biblia": "Sinä olet käskenyt sangen visusti pitää sinun käskys. ",
       "king_james": "Thou hast commanded us to keep thy precepts diligently.",
       "refs": {
         "latin_vulgate": {
+          "src": "118:4"
+        },
+        "douay_rheims": {
           "src": "118:4"
         }
       }
@@ -53,9 +75,14 @@
       "verse": 5,
       "latin_vulgate": " Utinam dirigantur viæ meæ  ad custodiendas justificationes tuas. ",
       "hebrew_masoretic": "אַ֭חֲלַי יִכֹּ֥נוּ דְרָכָ֗י לִשְׁמֹ֥ר חֻקֶּֽיךָ׃",
+      "douay_rheims": "O! that my ways may be directed to keep thy justifications.",
+      "finnish_biblia": "O jospa minun tieni ojennettaisiin pitämään sinun säätyjäs! ",
       "king_james": "O that my ways were directed to keep thy statutes!",
       "refs": {
         "latin_vulgate": {
+          "src": "118:5"
+        },
+        "douay_rheims": {
           "src": "118:5"
         }
       }
@@ -64,9 +91,14 @@
       "verse": 6,
       "latin_vulgate": " Tunc non confundar,  cum perspexero in omnibus mandatis tuis. ",
       "hebrew_masoretic": "אָ֥ז לֹא־אֵב֑וֹשׁ בְּ֝הַבִּיטִ֗י אֶל־כׇּל־מִצְוֺתֶֽיךָ׃",
+      "douay_rheims": "Then shall I not be confounded, when I shall look into all thy commandments.",
+      "finnish_biblia": "Koska minä katson kaikkia sinun käskyjäs, niin en minä tule häpiään. ",
       "king_james": "Then shall I not be ashamed, when I have respect unto all thy commandments.",
       "refs": {
         "latin_vulgate": {
+          "src": "118:6"
+        },
+        "douay_rheims": {
           "src": "118:6"
         }
       }
@@ -75,9 +107,14 @@
       "verse": 7,
       "latin_vulgate": " Confitebor tibi in directione cordis,  in eo quod didici judicia justitiæ tuæ. ",
       "hebrew_masoretic": "א֭וֹדְךָ בְּיֹ֣שֶׁר לֵבָ֑ב בְּ֝לׇמְדִ֗י מִשְׁפְּטֵ֥י צִדְקֶֽךָ׃",
+      "douay_rheims": "I will praise thee with uprightness of heart, when I shall have learned the judgments of thy justice.",
+      "finnish_biblia": "Minä kiitän sinua oikiasta sydämestä, ettäs opetat minulle vanhurskautes oikeudet. ",
       "king_james": "I will praise thee with uprightness of heart, when I shall have learned thy righteous judgments.",
       "refs": {
         "latin_vulgate": {
+          "src": "118:7"
+        },
+        "douay_rheims": {
           "src": "118:7"
         }
       }
@@ -86,9 +123,14 @@
       "verse": 8,
       "latin_vulgate": " Justificationes tuas custodiam ;  non me derelinquas usquequaque.     ",
       "hebrew_masoretic": "אֶת־חֻקֶּ֥יךָ אֶשְׁמֹ֑ר אַֽל־תַּעַזְבֵ֥נִי עַד־מְאֹֽד׃ {פ}",
+      "douay_rheims": "I will keep thy justifications: O! do not thou utterly forsake me.",
+      "finnish_biblia": "Sinun säätys minä pidän, älä minua ikänä hylkää. ",
       "king_james": "I will keep thy statutes: O forsake me not utterly.",
       "refs": {
         "latin_vulgate": {
+          "src": "118:8"
+        },
+        "douay_rheims": {
           "src": "118:8"
         }
       }
@@ -97,9 +139,14 @@
       "verse": 9,
       "latin_vulgate": "  In quo corrigit adolescentior viam suam ?  in custodiendo sermones tuos. ",
       "hebrew_masoretic": "בַּמֶּ֣ה יְזַכֶּה־נַּ֭עַר אֶת־אׇרְח֑וֹ לִ֝שְׁמֹ֗ר כִּדְבָרֶֽךָ׃",
+      "douay_rheims": "By what doth a young man correct his way? by observing thy words.",
+      "finnish_biblia": "Kuinka nuorukainen tiensä puhdistais? kuin hän itsensä käyttää sinun sanas jälkeen. ",
       "king_james": " Wherewithal shall a young man cleanse his way? by taking heed thereto according to thy word.",
       "refs": {
         "latin_vulgate": {
+          "src": "118:9"
+        },
+        "douay_rheims": {
           "src": "118:9"
         }
       }
@@ -108,9 +155,14 @@
       "verse": 10,
       "latin_vulgate": " In toto corde meo exquisivi te ;  ne repellas me a mandatis tuis. ",
       "hebrew_masoretic": "בְּכׇל־לִבִּ֥י דְרַשְׁתִּ֑יךָ אַל־תַּ֝שְׁגֵּ֗נִי מִמִּצְוֺתֶֽיךָ׃",
+      "douay_rheims": "With my whole heart have I sought after thee: let me not stray from thy commandments.",
+      "finnish_biblia": "Minä etsin sinua kaikesta sydämestäni: älä salli minun eksyä sinun käskyistäs. ",
       "king_james": "With my whole heart have I sought thee: O let me not wander from thy commandments.",
       "refs": {
         "latin_vulgate": {
+          "src": "118:10"
+        },
+        "douay_rheims": {
           "src": "118:10"
         }
       }
@@ -119,9 +171,14 @@
       "verse": 11,
       "latin_vulgate": " In corde meo abscondi eloquia tua,  ut non peccem tibi. ",
       "hebrew_masoretic": "בְּ֭לִבִּי צָפַ֣נְתִּי אִמְרָתֶ֑ךָ לְ֝מַ֗עַן לֹ֣א אֶחֱטָא־לָֽךְ׃",
+      "douay_rheims": "Thy words have I hidden in my heart, that I may not sin against thee.",
+      "finnish_biblia": "Minä pidän sydämessäni sinun sanas, etten minä rikkoisi sinua vastaan. ",
       "king_james": "Thy word have I hid in mine heart, that I might not sin against thee.",
       "refs": {
         "latin_vulgate": {
+          "src": "118:11"
+        },
+        "douay_rheims": {
           "src": "118:11"
         }
       }
@@ -130,9 +187,14 @@
       "verse": 12,
       "latin_vulgate": " Benedictus es, Domine ;  doce me justificationes tuas. ",
       "hebrew_masoretic": "בָּר֖וּךְ אַתָּ֥ה יְהֹוָ֗ה לַמְּדֵ֥נִי חֻקֶּֽיךָ׃",
+      "douay_rheims": "Blessed art thou, O Lord: teach me thy justifications.",
+      "finnish_biblia": "Kiitetty ole, sinä Herra: opeta minulle sinun säätyjäs! ",
       "king_james": "Blessed art thou, O Lord: teach me thy statutes.",
       "refs": {
         "latin_vulgate": {
+          "src": "118:12"
+        },
+        "douay_rheims": {
           "src": "118:12"
         }
       }
@@ -141,9 +203,14 @@
       "verse": 13,
       "latin_vulgate": " In labiis meis pronuntiavi omnia judicia oris tui. ",
       "hebrew_masoretic": "בִּשְׂפָתַ֥י סִפַּ֑רְתִּי כֹּ֝֗ל מִשְׁפְּטֵי־פִֽיךָ׃",
+      "douay_rheims": "With my lips I have pronounced all the judgments of thy mouth.",
+      "finnish_biblia": "Minä luettelen huulillani kaikki sinun suus oikeudet. ",
       "king_james": "With my lips have I declared all the judgments of thy mouth.",
       "refs": {
         "latin_vulgate": {
+          "src": "118:13"
+        },
+        "douay_rheims": {
           "src": "118:13"
         }
       }
@@ -152,9 +219,14 @@
       "verse": 14,
       "latin_vulgate": " In via testimoniorum tuorum delectatus sum,  sicut in omnibus divitiis. ",
       "hebrew_masoretic": "בְּדֶ֖רֶךְ עֵדְוֺתֶ֥יךָ שַּׂ֗שְׂתִּי כְּעַ֣ל כׇּל־הֽוֹן׃",
+      "douay_rheims": "I have been delighted in the way of thy testimonies, as in all riches.",
+      "finnish_biblia": "Minä iloitsen sinun todistustes tiellä, niinkuin kaikkinaisesta rikkaudesta. ",
       "king_james": "I have rejoiced in the way of thy testimonies, as much as in all riches.",
       "refs": {
         "latin_vulgate": {
+          "src": "118:14"
+        },
+        "douay_rheims": {
           "src": "118:14"
         }
       }
@@ -163,9 +235,14 @@
       "verse": 15,
       "latin_vulgate": " In mandatis tuis exercebor,  et considerabo vias tuas. ",
       "hebrew_masoretic": "בְּפִקּוּדֶ֥יךָ אָשִׂ֑יחָה וְ֝אַבִּ֗יטָה אֹֽרְחֹתֶֽיךָ׃",
+      "douay_rheims": "I will meditate on thy commandments: and I will consider thy ways.",
+      "finnish_biblia": "Minä tutkistelen sinun käskyjäs, ja katselen sinun teitäs. ",
       "king_james": "I will meditate in thy precepts, and have respect unto thy ways.",
       "refs": {
         "latin_vulgate": {
+          "src": "118:15"
+        },
+        "douay_rheims": {
           "src": "118:15"
         }
       }
@@ -174,9 +251,14 @@
       "verse": 16,
       "latin_vulgate": " In justificationibus tuis meditabor :  non obliviscar sermones tuos.     ",
       "hebrew_masoretic": "בְּחֻקֹּתֶ֥יךָ אֶֽשְׁתַּעֲשָׁ֑ע לֹ֖א אֶשְׁכַּ֣ח דְּבָרֶֽךָ׃ {פ}",
+      "douay_rheims": "I will think of thy justifications: I will not forget thy words.",
+      "finnish_biblia": "Minä halajan sinun oikeuttas, ja en unohda sinun sanojas. ",
       "king_james": "I will delight myself in thy statutes: I will not forget thy word.",
       "refs": {
         "latin_vulgate": {
+          "src": "118:16"
+        },
+        "douay_rheims": {
           "src": "118:16"
         }
       }
@@ -185,9 +267,14 @@
       "verse": 17,
       "latin_vulgate": "  Retribue servo tuo, vivifica me,  et custodiam sermones tuos. ",
       "hebrew_masoretic": "גְּמֹ֖ל עַל־עַבְדְּךָ֥ אֶחְיֶ֗ה וְאֶשְׁמְרָ֥ה דְבָרֶֽךָ׃",
+      "douay_rheims": "Give bountifully to thy servant, enliven me: and I shall keep thy words.",
+      "finnish_biblia": "Tee hyvästi palvelialles, että minä eläisin ja sinun sanas pitäisin. ",
       "king_james": " Deal bountifully with thy servant, that I may live, and keep thy word.",
       "refs": {
         "latin_vulgate": {
+          "src": "118:17"
+        },
+        "douay_rheims": {
           "src": "118:17"
         }
       }
@@ -196,9 +283,14 @@
       "verse": 18,
       "latin_vulgate": " Revela oculos meos,  et considerabo mirabilia de lege tua. ",
       "hebrew_masoretic": "גַּל־עֵינַ֥י וְאַבִּ֑יטָה נִ֝פְלָא֗וֹת מִתּוֹרָתֶֽךָ׃",
+      "douay_rheims": "Open thou my eyes: and I will consider the wondrous things of thy law.",
+      "finnish_biblia": "Avaa minun silmäni näkemään ihmeitä sinun laistas. ",
       "king_james": "Open thou mine eyes, that I may behold wondrous things out of thy law.",
       "refs": {
         "latin_vulgate": {
+          "src": "118:18"
+        },
+        "douay_rheims": {
           "src": "118:18"
         }
       }
@@ -207,9 +299,14 @@
       "verse": 19,
       "latin_vulgate": " Incola ego sum in terra :  non abscondas a me mandata tua. ",
       "hebrew_masoretic": "גֵּ֣ר אָנֹכִ֣י בָאָ֑רֶץ אַל־תַּסְתֵּ֥ר מִ֝מֶּ֗נִּי מִצְוֺתֶֽיךָ׃",
+      "douay_rheims": "I am a sojourner on the earth: hide not thy commandments from me.",
+      "finnish_biblia": "Minä olen vieras maan päällä: älä peitä minulta käskyjäs. ",
       "king_james": "I am a stranger in the earth: hide not thy commandments from me.",
       "refs": {
         "latin_vulgate": {
+          "src": "118:19"
+        },
+        "douay_rheims": {
           "src": "118:19"
         }
       }
@@ -218,9 +315,14 @@
       "verse": 20,
       "latin_vulgate": " Concupivit anima mea  desiderare justificationes tuas in omni tempore. ",
       "hebrew_masoretic": "גָּרְסָ֣ה נַפְשִׁ֣י לְתַאֲבָ֑ה אֶֽל־מִשְׁפָּטֶ֥יךָ בְכׇל־עֵֽת׃",
+      "douay_rheims": "My soul hath coveted to long for thy justifications, at all times.",
+      "finnish_biblia": "Minun sieluni on muserrettu rikki ikävöitsemisestä, alati sinun oikeutes jälkeen. ",
       "king_james": "My soul breaketh for the longing that it hath unto thy judgments at all times.",
       "refs": {
         "latin_vulgate": {
+          "src": "118:20"
+        },
+        "douay_rheims": {
           "src": "118:20"
         }
       }
@@ -229,9 +331,14 @@
       "verse": 21,
       "latin_vulgate": " Increpasti superbos ;  maledicti qui declinant a mandatis tuis. ",
       "hebrew_masoretic": "גָּ֭עַרְתָּ זֵדִ֣ים אֲרוּרִ֑ים הַ֝שֹּׁגִ֗ים מִמִּצְוֺתֶֽיךָ׃",
+      "douay_rheims": "Thou hast rebuked the proud: they are cursed who decline from thy commandments.",
+      "finnish_biblia": "Sinä rankaiset ylpiät kirotut, jotka sinun käskyistäs poikkeevat. ",
       "king_james": "Thou hast rebuked the proud that are cursed, which do err from thy commandments.",
       "refs": {
         "latin_vulgate": {
+          "src": "118:21"
+        },
+        "douay_rheims": {
           "src": "118:21"
         }
       }
@@ -240,9 +347,14 @@
       "verse": 22,
       "latin_vulgate": " Aufer a me opprobrium et contemptum,  quia testimonia tua exquisivi. ",
       "hebrew_masoretic": "גַּ֣ל מֵ֭עָלַי חֶרְפָּ֣ה וָב֑וּז כִּ֖י עֵדֹתֶ֣יךָ נָצָֽרְתִּי׃",
+      "douay_rheims": "Remove from me reproach and contempt: because I have sought after thy testimonies.",
+      "finnish_biblia": "Käännä minusta pois pilkka ja ylönkatse; sillä minä pidän sinun todistukses. ",
       "king_james": "Remove from me reproach and contempt; for I have kept thy testimonies.",
       "refs": {
         "latin_vulgate": {
+          "src": "118:22"
+        },
+        "douay_rheims": {
           "src": "118:22"
         }
       }
@@ -251,9 +363,14 @@
       "verse": 23,
       "latin_vulgate": " Etenim sederunt principes, et adversum me loquebantur ;  servus autem tuus exercebatur in justificationibus tuis. ",
       "hebrew_masoretic": "גַּ֤ם יָשְׁב֣וּ שָׂ֭רִים בִּ֣י נִדְבָּ֑רוּ עַ֝בְדְּךָ֗ יָשִׂ֥יחַ בְּחֻקֶּֽיךָ׃",
+      "douay_rheims": "For princes sat, and spoke against me: but thy servant was employed in thy justifications.",
+      "finnish_biblia": "Istuvat myös päämiehet ja puhuvat minua vastaan; mutta sinun palvelias tutkistelee sinun säätyjäs. ",
       "king_james": "Princes also did sit and speak against me: but thy servant did meditate in thy statutes.",
       "refs": {
         "latin_vulgate": {
+          "src": "118:23"
+        },
+        "douay_rheims": {
           "src": "118:23"
         }
       }
@@ -262,9 +379,14 @@
       "verse": 24,
       "latin_vulgate": " Nam et testimonia tua meditatio mea est,  et consilium meum justificationes tuæ.     ",
       "hebrew_masoretic": "גַּֽם־עֵ֭דֹתֶיךָ שַׁעֲשֻׁעָ֗י אַנְשֵׁ֥י עֲצָתִֽי׃ {פ}",
+      "douay_rheims": "For thy testimonies are my meditation: and thy justifications my counsel.",
+      "finnish_biblia": "Sinun todistukses ovat minun iloni, ne ovat minun neuvonantajani. ",
       "king_james": "Thy testimonies also are my delight and my counsellors.",
       "refs": {
         "latin_vulgate": {
+          "src": "118:24"
+        },
+        "douay_rheims": {
           "src": "118:24"
         }
       }
@@ -273,9 +395,14 @@
       "verse": 25,
       "latin_vulgate": "  Adhæsit pavimento anima mea :  vivifica me secundum verbum tuum. ",
       "hebrew_masoretic": "דָּבְקָ֣ה לֶעָפָ֣ר נַפְשִׁ֑י חַ֝יֵּ֗נִי כִּדְבָרֶֽךָ׃",
+      "douay_rheims": "My soul hath cleaved to the pavement: quicken thou me according to thy word.",
+      "finnish_biblia": "Minun sieluni tomussa makaa: virvoita minua sanas jälkeen. ",
       "king_james": " My soul cleaveth unto the dust: quicken thou me according to thy word.",
       "refs": {
         "latin_vulgate": {
+          "src": "118:25"
+        },
+        "douay_rheims": {
           "src": "118:25"
         }
       }
@@ -284,9 +411,14 @@
       "verse": 26,
       "latin_vulgate": " Vias meas enuntiavi, et exaudisti me ;  doce me justificationes tuas. ",
       "hebrew_masoretic": "דְּרָכַ֣י סִ֭פַּרְתִּי וַֽתַּעֲנֵ֗נִי לַמְּדֵ֥נִי חֻקֶּֽיךָ׃",
+      "douay_rheims": "I have declared my ways, and thou hast heard me: teach me thy justifications.",
+      "finnish_biblia": "Minä luen minun teitäni, ja sinä kuulet minua: opeta minulle sinun säätys. ",
       "king_james": "I have declared my ways, and thou heardest me: teach me thy statutes.",
       "refs": {
         "latin_vulgate": {
+          "src": "118:26"
+        },
+        "douay_rheims": {
           "src": "118:26"
         }
       }
@@ -295,9 +427,14 @@
       "verse": 27,
       "latin_vulgate": " Viam justificationum tuarum instrue me,  et exercebor in mirabilibus tuis. ",
       "hebrew_masoretic": "דֶּרֶךְ־פִּקּוּדֶ֥יךָ הֲבִינֵ֑נִי וְ֝אָשִׂ֗יחָה בְּנִפְלְאוֹתֶֽיךָ׃",
+      "douay_rheims": "Make me to understand the way of thy justifications: and I shall be exercised in thy wondrous works.",
+      "finnish_biblia": "Anna minun ymmärtää sinun käskyis tie, niin minä puhun sinun ihmeistäs. ",
       "king_james": "Make me to understand the way of thy precepts: so shall I talk of thy wondrous works.",
       "refs": {
         "latin_vulgate": {
+          "src": "118:27"
+        },
+        "douay_rheims": {
           "src": "118:27"
         }
       }
@@ -306,9 +443,14 @@
       "verse": 28,
       "latin_vulgate": " Dormitavit anima mea præ tædio :  confirma me in verbis tuis. ",
       "hebrew_masoretic": "דָּלְפָ֣ה נַ֭פְשִׁי מִתּוּגָ֑ה קַ֝יְּמֵ֗נִי כִּדְבָרֶֽךָ׃",
+      "douay_rheims": "My soul hath slumbered through heaviness: strengthen thou me in thy words.",
+      "finnish_biblia": "Niin minä suren, että sydän sulaa minussa: vahvista minua sinun sanas jälkeen. ",
       "king_james": "My soul melteth for heaviness: strengthen thou me according unto thy word.",
       "refs": {
         "latin_vulgate": {
+          "src": "118:28"
+        },
+        "douay_rheims": {
           "src": "118:28"
         }
       }
@@ -317,9 +459,14 @@
       "verse": 29,
       "latin_vulgate": " Viam iniquitatis amove a me,  et de lege tua miserere mei. ",
       "hebrew_masoretic": "דֶּֽרֶךְ־שֶׁ֭קֶר הָסֵ֣ר מִמֶּ֑נִּי וְֽתוֹרָתְךָ֥ חׇנֵּֽנִי׃",
+      "douay_rheims": "Remove from me the way of iniquity: and out of thy law have mercy on me.",
+      "finnish_biblia": "Käännä minusta pois väärä tie, ja suo minulle sinun lakis. ",
       "king_james": "Remove from me the way of lying: and grant me thy law graciously.",
       "refs": {
         "latin_vulgate": {
+          "src": "118:29"
+        },
+        "douay_rheims": {
           "src": "118:29"
         }
       }
@@ -328,9 +475,14 @@
       "verse": 30,
       "latin_vulgate": " Viam veritatis elegi ;  judicia tua non sum oblitus. ",
       "hebrew_masoretic": "דֶּֽרֶךְ־אֱמוּנָ֥ה בָחָ֑רְתִּי מִשְׁפָּטֶ֥יךָ שִׁוִּֽיתִי׃",
+      "douay_rheims": "I have chosen the way of truth: thy judgments I have not forgotten.",
+      "finnish_biblia": "Totuuden tien minä olen valinnut, oikeutes olen minä asettanut eteeni. ",
       "king_james": "I have chosen the way of truth: thy judgments have I laid before me.",
       "refs": {
         "latin_vulgate": {
+          "src": "118:30"
+        },
+        "douay_rheims": {
           "src": "118:30"
         }
       }
@@ -339,9 +491,14 @@
       "verse": 31,
       "latin_vulgate": " Adhæsi testimoniis tuis, Domine ;  noli me confundere. ",
       "hebrew_masoretic": "דָּבַ֥קְתִּי בְעֵדְוֺתֶ֑יךָ יְ֝הֹוָ֗ה אַל־תְּבִישֵֽׁנִי׃",
+      "douay_rheims": "I have stuck to thy testimonies, O Lord: put me not to shame.",
+      "finnish_biblia": "Minä riipun sinun todistuksissas: Herra, älä salli minun häpiään tulla. ",
       "king_james": "I have stuck unto thy testimonies: O Lord, put me not to shame.",
       "refs": {
         "latin_vulgate": {
+          "src": "118:31"
+        },
+        "douay_rheims": {
           "src": "118:31"
         }
       }
@@ -350,9 +507,14 @@
       "verse": 32,
       "latin_vulgate": " Viam mandatorum tuorum cucurri,  cum dilatasti cor meum.     ",
       "hebrew_masoretic": "דֶּֽרֶךְ־מִצְוֺתֶ֥יךָ אָר֑וּץ כִּ֖י תַרְחִ֣יב לִבִּֽי׃ {פ}",
+      "douay_rheims": "I have run the way of thy commandments, when thou didst enlarge my heart.",
+      "finnish_biblia": "Koskas minun sydämeni vahvistat, niin minä juoksen sinun käskyis tietä myöten. ",
       "king_james": "I will run the way of thy commandments, when thou shalt enlarge my heart.",
       "refs": {
         "latin_vulgate": {
+          "src": "118:32"
+        },
+        "douay_rheims": {
           "src": "118:32"
         }
       }
@@ -361,9 +523,14 @@
       "verse": 33,
       "latin_vulgate": "  Legem pone mihi, Domine, viam justificationum tuarum,  et exquiram eam semper. ",
       "hebrew_masoretic": "הוֹרֵ֣נִי יְ֭הֹוָה דֶּ֥רֶךְ חֻקֶּ֗יךָ וְאֶצְּרֶ֥נָּה עֵֽקֶב׃",
+      "douay_rheims": "Set before me for a law the way of thy justifications, O Lord: and I will always seek after it.",
+      "finnish_biblia": "Opeta minulle, Herra, sinun säätyis tie, että minä sen loppuun asti kätkisin. ",
       "king_james": " Teach me, O Lord, the way of thy statutes; and I shall keep it unto the end.",
       "refs": {
         "latin_vulgate": {
+          "src": "118:33"
+        },
+        "douay_rheims": {
           "src": "118:33"
         }
       }
@@ -372,9 +539,14 @@
       "verse": 34,
       "latin_vulgate": " Da mihi intellectum, et scrutabor legem tuam,  et custodiam illam in toto corde meo. ",
       "hebrew_masoretic": "הֲ֭בִינֵנִי וְאֶצְּרָ֥ה תוֹרָתֶ֗ךָ וְאֶשְׁמְרֶ֥נָּה בְכׇל־לֵֽב׃",
+      "douay_rheims": "Give me understanding, and I will search thy law; and I will keep it with my whole heart.",
+      "finnish_biblia": "Anna minulle ymmärrys, kätkeäkseni sinun lakias, ja pitääkseni sitä koko sydämestäni. ",
       "king_james": "Give me understanding, and I shall keep thy law; yea, I shall observe it with my whole heart.",
       "refs": {
         "latin_vulgate": {
+          "src": "118:34"
+        },
+        "douay_rheims": {
           "src": "118:34"
         }
       }
@@ -383,9 +555,14 @@
       "verse": 35,
       "latin_vulgate": " Deduc me in semitam mandatorum tuorum,  quia ipsam volui. ",
       "hebrew_masoretic": "הַ֭דְרִיכֵנִי בִּנְתִ֣יב מִצְוֺתֶ֑יךָ כִּי־ב֥וֹ חָפָֽצְתִּי׃",
+      "douay_rheims": "Lead me into the path of thy commandments; for this same I have desired.",
+      "finnish_biblia": "Anna minun käydä sinun käskyis tietä; sillä niihin minä halajan. ",
       "king_james": "Make me to go in the path of thy commandments; for therein do I delight.",
       "refs": {
         "latin_vulgate": {
+          "src": "118:35"
+        },
+        "douay_rheims": {
           "src": "118:35"
         }
       }
@@ -394,9 +571,14 @@
       "verse": 36,
       "latin_vulgate": " Inclina cor meum in testimonia tua,  et non in avaritiam. ",
       "hebrew_masoretic": "הַט־לִ֭בִּי אֶל־עֵדְוֺתֶ֗יךָ וְאַ֣ל אֶל־בָּֽצַע׃",
+      "douay_rheims": "Incline my heart into thy testimonies and not to covetousness.",
+      "finnish_biblia": "Kallista minun sydämeni sinun todistuksiis, ja ei ahneuden puoleen. ",
       "king_james": "Incline my heart unto thy testimonies, and not to covetousness.",
       "refs": {
         "latin_vulgate": {
+          "src": "118:36"
+        },
+        "douay_rheims": {
           "src": "118:36"
         }
       }
@@ -405,9 +587,14 @@
       "verse": 37,
       "latin_vulgate": " Averte oculos meos, ne videant vanitatem ;  in via tua vivifica me. ",
       "hebrew_masoretic": "הַעֲבֵ֣ר עֵ֭ינַי מֵרְא֣וֹת שָׁ֑וְא בִּדְרָכֶ֥ךָ חַיֵּֽנִי׃",
+      "douay_rheims": "Turn away my eyes that they may not behold vanity: quicken me in thy way.",
+      "finnish_biblia": "Käännä minun silmäni pois katselemasta turhuutta; vaan virvoita minua sinun tiehes. ",
       "king_james": "Turn away mine eyes from beholding vanity; and quicken thou me in thy way.",
       "refs": {
         "latin_vulgate": {
+          "src": "118:37"
+        },
+        "douay_rheims": {
           "src": "118:37"
         }
       }
@@ -416,9 +603,14 @@
       "verse": 38,
       "latin_vulgate": " Statue servo tuo eloquium tuum  in timore tuo. ",
       "hebrew_masoretic": "הָקֵ֣ם לְ֭עַבְדְּךָ אִמְרָתֶ֑ךָ אֲ֝שֶׁ֗ר לְיִרְאָתֶֽךָ׃",
+      "douay_rheims": "Establish thy word to thy servant, in thy fear.",
+      "finnish_biblia": "Anna palvelias lujasti sinun käskys pitää, että minä sinua pelkäisin. ",
       "king_james": "Stablish thy word unto thy servant, who is devoted to thy fear.",
       "refs": {
         "latin_vulgate": {
+          "src": "118:38"
+        },
+        "douay_rheims": {
           "src": "118:38"
         }
       }
@@ -427,9 +619,14 @@
       "verse": 39,
       "latin_vulgate": " Amputa opprobrium meum quod suspicatus sum,  quia judicia tua jucunda. ",
       "hebrew_masoretic": "הַעֲבֵ֣ר חֶ֭רְפָּתִי אֲשֶׁ֣ר יָגֹ֑רְתִּי כִּ֖י מִשְׁפָּטֶ֣יךָ טוֹבִֽים׃",
+      "douay_rheims": "Turn away my reproach, which I have apprehended: for thy judgments are delightful.",
+      "finnish_biblia": "Käännä minusta pois se pilkka, jota minä pelkään; sillä sinun oikeutes ovat suloiset. ",
       "king_james": "Turn away my reproach which I fear: for thy judgments are good.",
       "refs": {
         "latin_vulgate": {
+          "src": "118:39"
+        },
+        "douay_rheims": {
           "src": "118:39"
         }
       }
@@ -438,9 +635,14 @@
       "verse": 40,
       "latin_vulgate": " Ecce concupivi mandata tua :  in æquitate tua vivifica me.     ",
       "hebrew_masoretic": "הִ֭נֵּה תָּאַ֣בְתִּי לְפִקֻּדֶ֑יךָ בְּצִדְקָתְךָ֥ חַיֵּֽנִי׃ {פ}",
+      "douay_rheims": "Behold I have longed after thy precepts: quicken me in thy justice.",
+      "finnish_biblia": "Katso, minä pyydän sinun käskyjäs: virvoita minua vanhurskaudellas. ",
       "king_james": "Behold, I have longed after thy precepts: quicken me in thy righteousness.",
       "refs": {
         "latin_vulgate": {
+          "src": "118:40"
+        },
+        "douay_rheims": {
           "src": "118:40"
         }
       }
@@ -449,9 +651,14 @@
       "verse": 41,
       "latin_vulgate": "  Et veniat super me misericordia tua, Domine ;  salutare tuum secundum eloquium tuum. ",
       "hebrew_masoretic": "וִיבֹאֻ֣נִי חֲסָדֶ֣ךָ יְהֹוָ֑ה תְּ֝שׁ֥וּעָתְךָ֗ כְּאִמְרָתֶֽךָ׃",
+      "douay_rheims": "Let thy mercy also come upon me, O Lord: thy salvation according to thy word.",
+      "finnish_biblia": "Herra, anna armos minulle tapahtua, autuutes sinun sanas jälkeen, ",
       "king_james": " Let thy mercies come also unto me, O Lord, even thy salvation, according to thy word.",
       "refs": {
         "latin_vulgate": {
+          "src": "118:41"
+        },
+        "douay_rheims": {
           "src": "118:41"
         }
       }
@@ -460,9 +667,14 @@
       "verse": 42,
       "latin_vulgate": " Et respondebo exprobrantibus mihi verbum,  quia speravi in sermonibus tuis. ",
       "hebrew_masoretic": "וְאֶעֱנֶ֣ה חֹרְפִ֣י דָבָ֑ר כִּֽי־בָ֝טַ֗חְתִּי בִּדְבָרֶֽךָ׃",
+      "douay_rheims": "So shall I answer them that reproach me in any thing; that I have trusted in thy words.",
+      "finnish_biblia": "Että minä voisin vastata minun pilkkaajiani; sillä minä luotan sinun sanaas. ",
       "king_james": "So shall I have wherewith to answer him that reproacheth me: for I trust in thy word.",
       "refs": {
         "latin_vulgate": {
+          "src": "118:42"
+        },
+        "douay_rheims": {
           "src": "118:42"
         }
       }
@@ -471,9 +683,14 @@
       "verse": 43,
       "latin_vulgate": " Et ne auferas de ore meo verbum veritatis usquequaque,  quia in judiciis tuis supersperavi. ",
       "hebrew_masoretic": "וְֽאַל־תַּצֵּ֬ל מִפִּ֣י דְבַר־אֱמֶ֣ת עַד־מְאֹ֑ד כִּ֖י לְמִשְׁפָּטֶ֣ךָ יִחָֽלְתִּי׃",
+      "douay_rheims": "And take not thou the word of truth utterly out of my mouth: for in thy words, I have hoped exceedingly.",
+      "finnish_biblia": "Älä ota totuuden sanaa peräti pois minun suustani; sillä minä toivon sinun oikeuttas. ",
       "king_james": "And take not the word of truth utterly out of my mouth; for I have hoped in thy judgments.",
       "refs": {
         "latin_vulgate": {
+          "src": "118:43"
+        },
+        "douay_rheims": {
           "src": "118:43"
         }
       }
@@ -482,9 +699,14 @@
       "verse": 44,
       "latin_vulgate": " Et custodiam legem tuam semper,  in sæculum et in sæculum sæculi. ",
       "hebrew_masoretic": "וְאֶשְׁמְרָ֖ה תוֹרָתְךָ֥ תָמִ֗יד לְעוֹלָ֥ם וָעֶֽד׃",
+      "douay_rheims": "So shall I always keep thy law, for ever and ever.",
+      "finnish_biblia": "Minä pidän alati sinun lakis, aina ja ijankaikkisesti, ",
       "king_james": "So shall I keep thy law continually for ever and ever.",
       "refs": {
         "latin_vulgate": {
+          "src": "118:44"
+        },
+        "douay_rheims": {
           "src": "118:44"
         }
       }
@@ -493,9 +715,14 @@
       "verse": 45,
       "latin_vulgate": " Et ambulabam in latitudine,  quia mandata tua exquisivi. ",
       "hebrew_masoretic": "וְאֶתְהַלְּכָ֥ה בָרְחָבָ֑ה כִּ֖י פִקֻּדֶ֣יךָ דָרָֽשְׁתִּי׃",
+      "douay_rheims": "And I walked at large: because I have sought after thy commandments.",
+      "finnish_biblia": "Ja vaellan ilossa, sillä minä etsin sinun käskyjäs, ",
       "king_james": "And I will walk at liberty: for I seek thy precepts.",
       "refs": {
         "latin_vulgate": {
+          "src": "118:45"
+        },
+        "douay_rheims": {
           "src": "118:45"
         }
       }
@@ -504,9 +731,14 @@
       "verse": 46,
       "latin_vulgate": " Et loquebar in testimoniis tuis in conspectu regum,  et non confundebar. ",
       "hebrew_masoretic": "וַאֲדַבְּרָ֣ה בְ֭עֵדֹתֶיךָ נֶ֥גֶד מְלָכִ֗ים וְלֹ֣א אֵבֽוֹשׁ׃",
+      "douay_rheims": "And I spoke of thy testimonies before kings: and I was not ashamed.",
+      "finnish_biblia": "Ja puhun sinun todistuksistas kuningasten edessä, ja en häpee, ",
       "king_james": "I will speak of thy testimonies also before kings, and will not be ashamed.",
       "refs": {
         "latin_vulgate": {
+          "src": "118:46"
+        },
+        "douay_rheims": {
           "src": "118:46"
         }
       }
@@ -515,9 +747,14 @@
       "verse": 47,
       "latin_vulgate": " Et meditabar in mandatis tuis,  quæ dilexi. ",
       "hebrew_masoretic": "וְאֶשְׁתַּעֲשַׁ֥ע בְּמִצְוֺתֶ֗יךָ אֲשֶׁ֣ר אָהָֽבְתִּי׃",
+      "douay_rheims": "I meditated also on thy commandments, which I loved.",
+      "finnish_biblia": "Ja iloitsen sinun käskyistäs, joita minä rakastan, ",
       "king_james": "And I will delight myself in thy commandments, which I have loved.",
       "refs": {
         "latin_vulgate": {
+          "src": "118:47"
+        },
+        "douay_rheims": {
           "src": "118:47"
         }
       }
@@ -526,9 +763,14 @@
       "verse": 48,
       "latin_vulgate": " Et levavi manus meas ad mandata tua, quæ dilexi,  et exercebar in justificationibus tuis.     ",
       "hebrew_masoretic": "וְאֶשָּֽׂא־כַפַּ֗י אֶֽל־מִ֭צְוֺתֶיךָ אֲשֶׁ֥ר אָהָ֗בְתִּי וְאָשִׂ֥יחָה בְחֻקֶּֽיךָ׃ {פ}",
+      "douay_rheims": "And I lifted up my hands to thy commandments, which I loved: and I was exercised in thy justifications.",
+      "finnish_biblia": "Ja nostan käsiäni sinun käskyihis, joita minä rakastan, ja puhun sinun säädyistäs. ",
       "king_james": "My hands also will I lift up unto thy commandments, which I have loved; and I will meditate in thy statutes.",
       "refs": {
         "latin_vulgate": {
+          "src": "118:48"
+        },
+        "douay_rheims": {
           "src": "118:48"
         }
       }
@@ -537,9 +779,14 @@
       "verse": 49,
       "latin_vulgate": "  Memor esto verbi tui servo tuo,  in quo mihi spem dedisti. ",
       "hebrew_masoretic": "זְכֹר־דָּבָ֥ר לְעַבְדֶּ֑ךָ עַ֝֗ל אֲשֶׁ֣ר יִחַלְתָּֽנִי׃",
+      "douay_rheims": "Be thou mindful of thy word to thy servant, in which thou hast given me hope.",
+      "finnish_biblia": "Muista sanaas sinun palvelialles, jota sinä annoit minun toivoa. ",
       "king_james": " Remember the word unto thy servant, upon which thou hast caused me to hope.",
       "refs": {
         "latin_vulgate": {
+          "src": "118:49"
+        },
+        "douay_rheims": {
           "src": "118:49"
         }
       }
@@ -548,9 +795,14 @@
       "verse": 50,
       "latin_vulgate": " Hæc me consolata est in humilitate mea,  quia eloquium tuum vivificavit me. ",
       "hebrew_masoretic": "זֹ֣את נֶחָמָתִ֣י בְעׇנְיִ֑י כִּ֖י אִמְרָתְךָ֣ חִיָּֽתְנִי׃",
+      "douay_rheims": "This hath comforted me in my humiliation: because thy word hath enlivened me.",
+      "finnish_biblia": "Tämä on minun turvani minun vaivassani, että sinun sanas virvoittaa minun. ",
       "king_james": "This is my comfort in my affliction: for thy word hath quickened me.",
       "refs": {
         "latin_vulgate": {
+          "src": "118:50"
+        },
+        "douay_rheims": {
           "src": "118:50"
         }
       }
@@ -559,9 +811,14 @@
       "verse": 51,
       "latin_vulgate": " Superbi inique agebant usquequaque ;  a lege autem tua non declinavi. ",
       "hebrew_masoretic": "זֵ֭דִים הֱלִיצֻ֣נִי עַד־מְאֹ֑ד מִ֝תּ֥וֹרָתְךָ֗ לֹ֣א נָטִֽיתִי׃",
+      "douay_rheims": "The proud did iniquitously altogether: but I declined not from thy law.",
+      "finnish_biblia": "Ylpiät irvistelevät minua sangen; en minä sentähden sinun laistas poikkee. ",
       "king_james": "The proud have had me greatly in derision: yet have I not declined from thy law.",
       "refs": {
         "latin_vulgate": {
+          "src": "118:51"
+        },
+        "douay_rheims": {
           "src": "118:51"
         }
       }
@@ -570,9 +827,14 @@
       "verse": 52,
       "latin_vulgate": " Memor fui judiciorum tuorum a sæculo, Domine,  et consolatus sum. ",
       "hebrew_masoretic": "זָ֘כַ֤רְתִּי מִשְׁפָּטֶ֖יךָ מֵעוֹלָ֥ם ׀ יְהֹוָ֗ה וָאֶתְנֶחָֽם׃",
+      "douay_rheims": "I remembered, O Lord, thy judgments of old: and I was comforted.",
+      "finnish_biblia": "Herra, kuin minä ajattelen, kuinka sinä maailman alusta toiminut olet, niin minä lohdutetaan. ",
       "king_james": "I remembered thy judgments of old, O Lord; and have comforted myself.",
       "refs": {
         "latin_vulgate": {
+          "src": "118:52"
+        },
+        "douay_rheims": {
           "src": "118:52"
         }
       }
@@ -581,9 +843,14 @@
       "verse": 53,
       "latin_vulgate": " Defectio tenuit me,  pro peccatoribus derelinquentibus legem tuam. ",
       "hebrew_masoretic": "זַלְעָפָ֣ה אֲ֭חָזַתְנִי מֵרְשָׁעִ֑ים עֹ֝זְבֵ֗י תּוֹרָתֶֽךָ׃",
+      "douay_rheims": "A fainting hath taken hold of me, because of the wicked that forsake thy law.",
+      "finnish_biblia": "Minä hämmästyin jumalattomain tähden, jotka sinun lakis hylkäävät. ",
       "king_james": "Horror hath taken hold upon me because of the wicked that forsake thy law.",
       "refs": {
         "latin_vulgate": {
+          "src": "118:53"
+        },
+        "douay_rheims": {
           "src": "118:53"
         }
       }
@@ -592,9 +859,14 @@
       "verse": 54,
       "latin_vulgate": " Cantabiles mihi erant justificationes tuæ  in loco peregrinationis meæ. ",
       "hebrew_masoretic": "זְ֭מִרוֹת הָיוּ־לִ֥י חֻקֶּ֗יךָ בְּבֵ֣ית מְגוּרָֽי׃",
+      "douay_rheims": "Thy justifications were the subject of my song, in the place of my pilgrimage.",
+      "finnish_biblia": "Sinun oikeutes ovat minun veisuni vaellukseni huoneessa. ",
       "king_james": "Thy statutes have been my songs in the house of my pilgrimage.",
       "refs": {
         "latin_vulgate": {
+          "src": "118:54"
+        },
+        "douay_rheims": {
           "src": "118:54"
         }
       }
@@ -603,9 +875,14 @@
       "verse": 55,
       "latin_vulgate": " Memor fui nocte nominis tui, Domine,  et custodivi legem tuam. ",
       "hebrew_masoretic": "זָ֘כַ֤רְתִּי בַלַּ֣יְלָה שִׁמְךָ֣ יְהֹוָ֑ה וָ֝אֶשְׁמְרָ֗ה תּוֹרָתֶֽךָ׃",
+      "douay_rheims": "In the night I have remembered thy name, O Lord: and have kept thy law.",
+      "finnish_biblia": "Herra, minä ajattelen yöllä sinun nimeäs, ja pidän sinun lakis. ",
       "king_james": "I have remembered thy name, O Lord, in the night, and have kept thy law.",
       "refs": {
         "latin_vulgate": {
+          "src": "118:55"
+        },
+        "douay_rheims": {
           "src": "118:55"
         }
       }
@@ -614,9 +891,14 @@
       "verse": 56,
       "latin_vulgate": " Hæc facta est mihi,  quia justificationes tuas exquisivi.     ",
       "hebrew_masoretic": "זֹ֥את הָיְתָה־לִּ֑י כִּ֖י פִקֻּדֶ֣יךָ נָצָֽרְתִּי׃ {פ}",
+      "douay_rheims": "This happened to me: because I sought after thy justifications.",
+      "finnish_biblia": "Se olis minun tavarani, että minä sinun käskys pitäisin. ",
       "king_james": "This I had, because I kept thy precepts.",
       "refs": {
         "latin_vulgate": {
+          "src": "118:56"
+        },
+        "douay_rheims": {
           "src": "118:56"
         }
       }
@@ -625,9 +907,14 @@
       "verse": 57,
       "latin_vulgate": "  Portio mea, Domine,  dixi custodire legem tuam. ",
       "hebrew_masoretic": "חֶלְקִ֖י יְהֹוָ֥ה אָמַ֗רְתִּי לִשְׁמֹ֥ר דְּבָרֶֽיךָ׃",
+      "douay_rheims": "O Lord, my portion, I have said, I would keep thy law.",
+      "finnish_biblia": "Minä olen sanonut: Herra, se on minun perimiseni, että minä pidän sinun sanas. ",
       "king_james": " Thou art my portion, O Lord: I have said that I would keep thy words.",
       "refs": {
         "latin_vulgate": {
+          "src": "118:57"
+        },
+        "douay_rheims": {
           "src": "118:57"
         }
       }
@@ -636,9 +923,14 @@
       "verse": 58,
       "latin_vulgate": " Deprecatus sum faciem tuam in toto corde meo ;  miserere mei secundum eloquium tuum. ",
       "hebrew_masoretic": "חִלִּ֣יתִי פָנֶ֣יךָ בְכׇל־לֵ֑ב חׇ֝נֵּ֗נִי כְּאִמְרָתֶֽךָ׃",
+      "douay_rheims": "I entreated thy face with all my heart: have mercy on me according to thy word.",
+      "finnish_biblia": "Minä rukoilen sinun kasvois edessä täydestä sydämestä: ole minulle armollinen sinun sanas jälkeen. ",
       "king_james": "I intreated thy favour with my whole heart: be merciful unto me according to thy word.",
       "refs": {
         "latin_vulgate": {
+          "src": "118:58"
+        },
+        "douay_rheims": {
           "src": "118:58"
         }
       }
@@ -647,9 +939,14 @@
       "verse": 59,
       "latin_vulgate": " Cogitavi vias meas,  et converti pedes meos in testimonia tua. ",
       "hebrew_masoretic": "חִשַּׁ֥בְתִּי דְרָכָ֑י וָאָשִׁ֥יבָה רַ֝גְלַ֗י אֶל־עֵדֹתֶֽיךָ׃",
+      "douay_rheims": "I have thought on my ways: and turned my feet unto thy testimonies.",
+      "finnish_biblia": "Minä tutkin teitäni, ja käännän jalkani sinun todistustes puoleen. ",
       "king_james": "I thought on my ways, and turned my feet unto thy testimonies.",
       "refs": {
         "latin_vulgate": {
+          "src": "118:59"
+        },
+        "douay_rheims": {
           "src": "118:59"
         }
       }
@@ -658,9 +955,14 @@
       "verse": 60,
       "latin_vulgate": " Paratus sum, et non sum turbatus,  ut custodiam mandata tua. ",
       "hebrew_masoretic": "חַ֭שְׁתִּי וְלֹ֣א הִתְמַהְמָ֑הְתִּי לִ֝שְׁמֹ֗ר מִצְוֺתֶֽיךָ׃",
+      "douay_rheims": "I am ready, and am not troubled: that I may keep thy commandments.",
+      "finnish_biblia": "Minä riennän, ja en viivy, sinun käskyjäs pitämään. ",
       "king_james": "I made haste, and delayed not to keep thy commandments.",
       "refs": {
         "latin_vulgate": {
+          "src": "118:60"
+        },
+        "douay_rheims": {
           "src": "118:60"
         }
       }
@@ -669,9 +971,14 @@
       "verse": 61,
       "latin_vulgate": " Funes peccatorum circumplexi sunt me,  et legem tuam non sum oblitus. ",
       "hebrew_masoretic": "חֶבְלֵ֣י רְשָׁעִ֣ים עִוְּדֻ֑נִי תּ֥֝וֹרָתְךָ֗ לֹ֣א שָׁכָֽחְתִּי׃",
+      "douay_rheims": "The cords of the wicked have encompassed me: but I have not forgotten thy law.",
+      "finnish_biblia": "Jumalattomain joukko raatelee minua; mutta en minä unohda sinun lakias. ",
       "king_james": "The bands of the wicked have robbed me: but I have not forgotten thy law.",
       "refs": {
         "latin_vulgate": {
+          "src": "118:61"
+        },
+        "douay_rheims": {
           "src": "118:61"
         }
       }
@@ -680,9 +987,14 @@
       "verse": 62,
       "latin_vulgate": " Media nocte surgebam ad confitendum tibi,  super judicia justificationis tuæ. ",
       "hebrew_masoretic": "חֲצֽוֹת־לַ֗יְלָה אָ֭קוּם לְהוֹד֣וֹת לָ֑ךְ עַ֝֗ל מִשְׁפְּטֵ֥י צִדְקֶֽךָ׃",
+      "douay_rheims": "I rose at midnight to give praise to thee; for the judgments of thy justification.",
+      "finnish_biblia": "Puoliyöstä minä nousen sinua kiittämään, sinun vanhurskautes oikeuden tähden. ",
       "king_james": "At midnight I will rise to give thanks unto thee because of thy righteous judgments.",
       "refs": {
         "latin_vulgate": {
+          "src": "118:62"
+        },
+        "douay_rheims": {
           "src": "118:62"
         }
       }
@@ -691,9 +1003,14 @@
       "verse": 63,
       "latin_vulgate": " Particeps ego sum omnium timentium te,  et custodientium mandata tua. ",
       "hebrew_masoretic": "חָבֵ֣ר אָ֭נִי לְכׇל־אֲשֶׁ֣ר יְרֵא֑וּךָ וּ֝לְשֹׁמְרֵ֗י פִּקּוּדֶֽיךָ׃",
+      "douay_rheims": "I am a partaker with all them that fear thee, and that keep thy commandments.",
+      "finnish_biblia": "Minä olen heidän kumppaninsa, jotka sinua pelkäävät ja sinun käskyjäs pitävät, ",
       "king_james": "I am a companion of all them that fear thee, and of them that keep thy precepts.",
       "refs": {
         "latin_vulgate": {
+          "src": "118:63"
+        },
+        "douay_rheims": {
           "src": "118:63"
         }
       }
@@ -702,9 +1019,14 @@
       "verse": 64,
       "latin_vulgate": " Misericordia tua, Domine, plena est terra ;  justificationes tuas doce me.     ",
       "hebrew_masoretic": "חַסְדְּךָ֣ יְ֭הֹוָה מָלְאָ֥ה הָאָ֗רֶץ חֻקֶּ֥יךָ לַמְּדֵֽנִי׃ {פ}",
+      "douay_rheims": "The earth, O Lord, is full of thy mercy: teach me thy justifications.",
+      "finnish_biblia": "Herra! maa on täynnä sinun hyvyyttäs: opeta minulle sinun säätyjäs. ",
       "king_james": "The earth, O Lord, is full of thy mercy: teach me thy statutes.",
       "refs": {
         "latin_vulgate": {
+          "src": "118:64"
+        },
+        "douay_rheims": {
           "src": "118:64"
         }
       }
@@ -713,9 +1035,14 @@
       "verse": 65,
       "latin_vulgate": "  Bonitatem fecisti cum servo tuo, Domine,  secundum verbum tuum. ",
       "hebrew_masoretic": "ט֭וֹב עָשִׂ֣יתָ עִֽם־עַבְדְּךָ֑ יְ֝הֹוָ֗ה כִּדְבָרֶֽךָ׃",
+      "douay_rheims": "Thou hast done well with thy servant, O Lord, according to thy word.",
+      "finnish_biblia": "Hyvästi teit sinun palveliaas kohtaan, Herra, sinun sanas jälkeen. ",
       "king_james": " Thou hast dealt well with thy servant, O Lord, according unto thy word.",
       "refs": {
         "latin_vulgate": {
+          "src": "118:65"
+        },
+        "douay_rheims": {
           "src": "118:65"
         }
       }
@@ -724,9 +1051,14 @@
       "verse": 66,
       "latin_vulgate": " Bonitatem, et disciplinam, et scientiam doce me,  quia mandatis tuis credidi. ",
       "hebrew_masoretic": "ט֤וּב טַ֣עַם וָדַ֣עַת לַמְּדֵ֑נִי כִּ֖י בְמִצְוֺתֶ֣יךָ הֶאֱמָֽנְתִּי׃",
+      "douay_rheims": "Teach me goodness and discipline and knowledge; for I have believed thy commandments.",
+      "finnish_biblia": "Opeta minulle hyviä tapoja ja taitoa; sillä minä uskon sinun käskys. ",
       "king_james": "Teach me good judgment and knowledge: for I have believed thy commandments.",
       "refs": {
         "latin_vulgate": {
+          "src": "118:66"
+        },
+        "douay_rheims": {
           "src": "118:66"
         }
       }
@@ -735,9 +1067,14 @@
       "verse": 67,
       "latin_vulgate": " Priusquam humiliarer ego deliqui :  propterea eloquium tuum custodivi. ",
       "hebrew_masoretic": "טֶ֣רֶם אֶ֭עֱנֶה אֲנִ֣י שֹׁגֵ֑ג וְ֝עַתָּ֗ה אִמְרָתְךָ֥ שָׁמָֽרְתִּי׃",
+      "douay_rheims": "Before I was humbled I offended; therefore have I kept thy word.",
+      "finnish_biblia": "Ennenkuin minä nöyryytettiin, eksyin minä; mutta nyt minä pidän sinun sanas. ",
       "king_james": "Before I was afflicted I went astray: but now have I kept thy word.",
       "refs": {
         "latin_vulgate": {
+          "src": "118:67"
+        },
+        "douay_rheims": {
           "src": "118:67"
         }
       }
@@ -746,9 +1083,14 @@
       "verse": 68,
       "latin_vulgate": " Bonus es tu, et in bonitate tua  doce me justificationes tuas. ",
       "hebrew_masoretic": "טוֹב־אַתָּ֥ה וּמֵטִ֗יב לַמְּדֵ֥נִי חֻקֶּֽיךָ׃",
+      "douay_rheims": "Thou art good; and in thy goodness teach me thy justifications.",
+      "finnish_biblia": "Sinä olet hyvä ja teet hyvin: opeta minulle sinun säätyjäs. ",
       "king_james": "Thou art good, and doest good; teach me thy statutes.",
       "refs": {
         "latin_vulgate": {
+          "src": "118:68"
+        },
+        "douay_rheims": {
           "src": "118:68"
         }
       }
@@ -757,9 +1099,14 @@
       "verse": 69,
       "latin_vulgate": " Multiplicata est super me iniquitas superborum ;  ego autem in toto corde meo scrutabor mandata tua. ",
       "hebrew_masoretic": "טָפְל֬וּ עָלַ֣י שֶׁ֣קֶר זֵדִ֑ים אֲ֝נִ֗י בְּכׇל־לֵ֤ב ׀ אֶצֹּ֬ר פִּקּוּדֶֽיךָ׃",
+      "douay_rheims": "The iniquity of the proud hath been multiplied over me: but I will seek thy commandments with my whole heart.",
+      "finnish_biblia": "Ylpiät ajattelevat valheen minun päälleni; mutta minä pidän täydestä sydämestä sinun käskys. ",
       "king_james": "The proud have forged a lie against me: but I will keep thy precepts with my whole heart.",
       "refs": {
         "latin_vulgate": {
+          "src": "118:69"
+        },
+        "douay_rheims": {
           "src": "118:69"
         }
       }
@@ -768,9 +1115,14 @@
       "verse": 70,
       "latin_vulgate": " Coagulatum est sicut lac cor eorum ;  ego vero legem tuam meditatus sum. ",
       "hebrew_masoretic": "טָפַ֣שׁ כַּחֵ֣לֶב לִבָּ֑ם אֲ֝נִ֗י תּוֹרָתְךָ֥ שִׁעֲשָֽׁעְתִּי׃",
+      "douay_rheims": "Their heart is curdled like milk: but I have meditated on thy law.",
+      "finnish_biblia": "Heidän sydämensä on lihava niinkuin rasva; mutta minä iloitsen sinun laistas. ",
       "king_james": "Their heart is as fat as grease; but I delight in thy law.",
       "refs": {
         "latin_vulgate": {
+          "src": "118:70"
+        },
+        "douay_rheims": {
           "src": "118:70"
         }
       }
@@ -779,9 +1131,14 @@
       "verse": 71,
       "latin_vulgate": " Bonum mihi quia humiliasti me,  ut discam justificationes tuas. ",
       "hebrew_masoretic": "טֽוֹב־לִ֥י כִי־עֻנֵּ֑יתִי לְ֝מַ֗עַן אֶלְמַ֥ד חֻקֶּֽיךָ׃",
+      "douay_rheims": "It is good for me that thou hast humbled me, that I may learn thy justifications.",
+      "finnish_biblia": "Se on minulle hyvä, ettäs minun nöyryytit, että minä sinun säätyjäs oppisin. ",
       "king_james": "It is good for me that I have been afflicted; that I might learn thy statutes.",
       "refs": {
         "latin_vulgate": {
+          "src": "118:71"
+        },
+        "douay_rheims": {
           "src": "118:71"
         }
       }
@@ -790,9 +1147,14 @@
       "verse": 72,
       "latin_vulgate": " Bonum mihi lex oris tui,  super millia auri et argenti.     ",
       "hebrew_masoretic": "טֽוֹב־לִ֥י תוֹרַת־פִּ֑יךָ מֵ֝אַלְפֵ֗י זָהָ֥ב וָכָֽסֶף׃ {פ}",
+      "douay_rheims": "The law of thy mouth is good to me, above thousands of gold and silver.",
+      "finnish_biblia": "Sinun suus laki on minulle otollisempi kuin monta tuhatta kappaletta kultaa ja hopiaa. ",
       "king_james": "The law of thy mouth is better unto me than thousands of gold and silver.",
       "refs": {
         "latin_vulgate": {
+          "src": "118:72"
+        },
+        "douay_rheims": {
           "src": "118:72"
         }
       }
@@ -801,9 +1163,14 @@
       "verse": 73,
       "latin_vulgate": "  Manus tuæ fecerunt me, et plasmaverunt me :  da mihi intellectum, et discam mandata tua. ",
       "hebrew_masoretic": "יָדֶ֣יךָ עָ֭שׂוּנִי וַֽיְכוֹנְנ֑וּנִי הֲ֝בִינֵ֗נִי וְאֶלְמְדָ֥ה מִצְוֺתֶֽיךָ׃",
+      "douay_rheims": "Thy hands have made me and formed me: give me understanding, and I will learn thy commandments.",
+      "finnish_biblia": "Sinun kätes ovat minun tehneet ja valmistaneet: anna minulle ymmärrystä oppiakseni sinun käskyjäs. ",
       "king_james": " Thy hands have made me and fashioned me: give me understanding, that I may learn thy commandments.",
       "refs": {
         "latin_vulgate": {
+          "src": "118:73"
+        },
+        "douay_rheims": {
           "src": "118:73"
         }
       }
@@ -812,9 +1179,14 @@
       "verse": 74,
       "latin_vulgate": " Qui timent te videbunt me et lætabuntur,  quia in verba tua supersperavi. ",
       "hebrew_masoretic": "יְ֭רֵאֶיךָ יִרְא֣וּנִי וְיִשְׂמָ֑חוּ כִּ֖י לִדְבָרְךָ֣ יִחָֽלְתִּי׃",
+      "douay_rheims": "They that fear thee shall see me, and shall be glad : because I have greatly hoped in thy words.",
+      "finnish_biblia": "Jotka sinua pelkäävät, ne minun näkevät ja iloitsevat; sillä minä toivon sinun sanaas. ",
       "king_james": "They that fear thee will be glad when they see me; because I have hoped in thy word.",
       "refs": {
         "latin_vulgate": {
+          "src": "118:74"
+        },
+        "douay_rheims": {
           "src": "118:74"
         }
       }
@@ -823,9 +1195,14 @@
       "verse": 75,
       "latin_vulgate": " Cognovi, Domine, quia æquitas judicia tua,  et in veritate tua humiliasti me. ",
       "hebrew_masoretic": "יָדַ֣עְתִּי יְ֭הֹוָה כִּי־צֶ֣דֶק מִשְׁפָּטֶ֑יךָ וֶ֝אֱמוּנָ֗ה עִנִּיתָֽנִי׃",
+      "douay_rheims": "I know, O Lord, that thy judgments are equity: and in thy truth thou hast humbled me.",
+      "finnish_biblia": "Herra! minä tiedän sinun tuomios vanhurskaaksi, ja sinä olet minua totuudessa nöyryyttänyt. ",
       "king_james": "I know, O Lord, that thy judgments are right, and that thou in faithfulness hast afflicted me.",
       "refs": {
         "latin_vulgate": {
+          "src": "118:75"
+        },
+        "douay_rheims": {
           "src": "118:75"
         }
       }
@@ -834,9 +1211,14 @@
       "verse": 76,
       "latin_vulgate": " Fiat misericordia tua ut consoletur me,  secundum eloquium tuum servo tuo. ",
       "hebrew_masoretic": "יְהִי־נָ֣א חַסְדְּךָ֣ לְנַחֲמֵ֑נִי כְּאִמְרָתְךָ֥ לְעַבְדֶּֽךָ׃",
+      "douay_rheims": "O! let thy mercy be for my comfort, according to thy word unto thy servant.",
+      "finnish_biblia": "Olkoon siis sinun armos minun lohdutukseni, niinkuin sinä palvelialles luvannut olet. ",
       "king_james": "Let, I pray thee, thy merciful kindness be for my comfort, according to thy word unto thy servant.",
       "refs": {
         "latin_vulgate": {
+          "src": "118:76"
+        },
+        "douay_rheims": {
           "src": "118:76"
         }
       }
@@ -845,9 +1227,14 @@
       "verse": 77,
       "latin_vulgate": " Veniant mihi miserationes tuæ, et vivam,  quia lex tua meditatio mea est. ",
       "hebrew_masoretic": "יְבֹא֣וּנִי רַחֲמֶ֣יךָ וְאֶחְיֶ֑ה כִּי־ת֥֝וֹרָתְךָ֗ שַׁעֲשֻׁעָֽי׃",
+      "douay_rheims": "Let thy tender mercies come unto me, and I shall live: for thy law is my meditation.",
+      "finnish_biblia": "Anna minulle sinun laupiutes tapahtua, että minä eläisin; sillä sinun lakis on minun iloni. ",
       "king_james": "Let thy tender mercies come unto me, that I may live: for thy law is my delight.",
       "refs": {
         "latin_vulgate": {
+          "src": "118:77"
+        },
+        "douay_rheims": {
           "src": "118:77"
         }
       }
@@ -856,9 +1243,14 @@
       "verse": 78,
       "latin_vulgate": " Confundantur superbi, quia injuste iniquitatem fecerunt in me ;  ego autem exercebor in mandatis tuis. ",
       "hebrew_masoretic": "יֵבֹ֣שׁוּ זֵ֭דִים כִּי־שֶׁ֣קֶר עִוְּת֑וּנִי אֲ֝נִ֗י אָשִׂ֥יחַ בְּפִקּוּדֶֽיךָ׃",
+      "douay_rheims": "Let the proud be ashamed, because they have done unjustly towards me: but I will be employed in thy commandments.",
+      "finnish_biblia": "Jospa ylpiät häpiään tulisivat, jotka minua painavat alas valheellansa; mutta minä ajattelen sinun käskyjäs. ",
       "king_james": "Let the proud be ashamed; for they dealt perversely with me without a cause: but I will meditate in thy precepts.",
       "refs": {
         "latin_vulgate": {
+          "src": "118:78"
+        },
+        "douay_rheims": {
           "src": "118:78"
         }
       }
@@ -867,9 +1259,14 @@
       "verse": 79,
       "latin_vulgate": " Convertantur mihi timentes te,  et qui noverunt testimonia tua. ",
       "hebrew_masoretic": "יָשׁ֣וּבוּ לִ֣י יְרֵאֶ֑יךָ (וידעו) [וְ֝יֹדְעֵ֗י] עֵדֹתֶֽיךָ׃",
+      "douay_rheims": "Let them that fear thee turn to me: and they that know thy testimonies.",
+      "finnish_biblia": "Tulkaan ne minun tyköni, jotka sinua pelkäävät, ja sinun todistukses tuntevat. ",
       "king_james": "Let those that fear thee turn unto me, and those that have known thy testimonies.",
       "refs": {
         "latin_vulgate": {
+          "src": "118:79"
+        },
+        "douay_rheims": {
           "src": "118:79"
         }
       }
@@ -878,9 +1275,14 @@
       "verse": 80,
       "latin_vulgate": " Fiat cor meum immaculatum in justificationibus tuis,  ut non confundar.     ",
       "hebrew_masoretic": "יְהִי־לִבִּ֣י תָמִ֣ים בְּחֻקֶּ֑יךָ לְ֝מַ֗עַן לֹ֣א אֵבֽוֹשׁ׃ {פ}",
+      "douay_rheims": "Let my heart be undefiled in thy justifications, that I may not be confounded.",
+      "finnish_biblia": "Olkoon minun sydämeni toimellinen sinun säädyissäs, etten minä häväistäisi. ",
       "king_james": "Let my heart be sound in thy statutes; that I be not ashamed.",
       "refs": {
         "latin_vulgate": {
+          "src": "118:80"
+        },
+        "douay_rheims": {
           "src": "118:80"
         }
       }
@@ -889,9 +1291,14 @@
       "verse": 81,
       "latin_vulgate": "  Defecit in salutare tuum anima mea,  et in verbum tuum supersperavi. ",
       "hebrew_masoretic": "כָּלְתָ֣ה לִתְשׁוּעָתְךָ֣ נַפְשִׁ֑י לִדְבָרְךָ֥ יִחָֽלְתִּי׃",
+      "douay_rheims": "My soul hath fainted after thy salvation: and in thy word I have very much hoped.",
+      "finnish_biblia": "Minun sieluni ikävöitsee sinun autuuttas: minä toivon sinun sanas päälle. ",
       "king_james": " My soul fainteth for thy salvation: but I hope in thy word.",
       "refs": {
         "latin_vulgate": {
+          "src": "118:81"
+        },
+        "douay_rheims": {
           "src": "118:81"
         }
       }
@@ -900,9 +1307,14 @@
       "verse": 82,
       "latin_vulgate": " Defecerunt oculi mei in eloquium tuum,  dicentes : Quando consolaberis me ? ",
       "hebrew_masoretic": "כָּל֣וּ עֵ֭ינַי לְאִמְרָתֶ֑ךָ לֵ֝אמֹ֗ר מָתַ֥י תְּֽנַחֲמֵֽנִי׃",
+      "douay_rheims": "My eyes have failed for thy word, saying: When wilt thou comfort me?",
+      "finnish_biblia": "Minun silmäni hiveltyvät sinun sanas jälkeen, ja sanovat: koskas minua lohdutat? ",
       "king_james": "Mine eyes fail for thy word, saying, When wilt thou comfort me?",
       "refs": {
         "latin_vulgate": {
+          "src": "118:82"
+        },
+        "douay_rheims": {
           "src": "118:82"
         }
       }
@@ -911,9 +1323,14 @@
       "verse": 83,
       "latin_vulgate": " Quia factus sum sicut uter in pruina ;  justificationes tuas non sum oblitus. ",
       "hebrew_masoretic": "כִּֽי־הָ֭יִיתִי כְּנֹ֣אד בְּקִיט֑וֹר חֻ֝קֶּ֗יךָ לֹ֣א שָׁכָֽחְתִּי׃",
+      "douay_rheims": "For I am become like a bottle in the frost: I have not forgotten thy justifications.",
+      "finnish_biblia": "Sillä minä olen niinkuin nahka savussa: en minä unohda sinun säätyjäs. ",
       "king_james": "For I am become like a bottle in the smoke; yet do I not forget thy statutes.",
       "refs": {
         "latin_vulgate": {
+          "src": "118:83"
+        },
+        "douay_rheims": {
           "src": "118:83"
         }
       }
@@ -922,9 +1339,14 @@
       "verse": 84,
       "latin_vulgate": " Quot sunt dies servi tui ?  quando facies de persequentibus me judicium ? ",
       "hebrew_masoretic": "כַּמָּ֥ה יְמֵֽי־עַבְדֶּ֑ךָ מָתַ֬י תַּעֲשֶׂ֖ה בְרֹדְפַ֣י מִשְׁפָּֽט׃",
+      "douay_rheims": "How many are the days of thy servant: when wilt thou execute judgment on them that persecute me?",
+      "finnish_biblia": "Kuinka kauvan sinun palvelias odottaa? koskas tuomitset minun vainoojani? ",
       "king_james": "How many are the days of thy servant? when wilt thou execute judgment on them that persecute me?",
       "refs": {
         "latin_vulgate": {
+          "src": "118:84"
+        },
+        "douay_rheims": {
           "src": "118:84"
         }
       }
@@ -933,9 +1355,14 @@
       "verse": 85,
       "latin_vulgate": " Narraverunt mihi iniqui fabulationes,  sed non ut lex tua. ",
       "hebrew_masoretic": "כָּרוּ־לִ֣י זֵדִ֣ים שִׁיח֑וֹת אֲ֝שֶׁ֗ר לֹ֣א כְתוֹרָתֶֽךָ׃",
+      "douay_rheims": "The wicked have told me fables: but not as thy law.",
+      "finnish_biblia": "Ylpiät minulle kuoppia kaivavat, jotka ei ole sinun lakis perään. ",
       "king_james": "The proud have digged pits for me, which are not after thy law.",
       "refs": {
         "latin_vulgate": {
+          "src": "118:85"
+        },
+        "douay_rheims": {
           "src": "118:85"
         }
       }
@@ -944,9 +1371,14 @@
       "verse": 86,
       "latin_vulgate": " Omnia mandata tua veritas :  inique persecuti sunt me, adjuva me. ",
       "hebrew_masoretic": "כׇּל־מִצְוֺתֶ֥יךָ אֱמוּנָ֑ה שֶׁ֖קֶר רְדָפ֣וּנִי עׇזְרֵֽנִי׃",
+      "douay_rheims": "All thy statutes are truth: they have persecuted me unjustly, do thou help me.",
+      "finnish_biblia": "Kaikki sinun käskys ovat sula totuus: he valheella minua vaivaavat: auta minua. ",
       "king_james": "All thy commandments are faithful: they persecute me wrongfully; help thou me.",
       "refs": {
         "latin_vulgate": {
+          "src": "118:86"
+        },
+        "douay_rheims": {
           "src": "118:86"
         }
       }
@@ -955,9 +1387,14 @@
       "verse": 87,
       "latin_vulgate": " Paulominus consummaverunt me in terra ;  ego autem non dereliqui mandata tua. ",
       "hebrew_masoretic": "כִּ֭מְעַט כִּלּ֣וּנִי בָאָ֑רֶץ וַ֝אֲנִ֗י לֹא־עָזַ֥בְתִּי פִקֻּדֶֽיךָ׃",
+      "douay_rheims": "They had almost made an end of me upon earth: but I have not forsaken thy commandments.",
+      "finnish_biblia": "He olisivat juuri lähes minun maan päällä hukuttaneet; mutta en minä sinun käskyjäs hyljännyt. ",
       "king_james": "They had almost consumed me upon earth; but I forsook not thy precepts.",
       "refs": {
         "latin_vulgate": {
+          "src": "118:87"
+        },
+        "douay_rheims": {
           "src": "118:87"
         }
       }
@@ -966,9 +1403,14 @@
       "verse": 88,
       "latin_vulgate": " Secundum misericordiam tuam vivifica me,  et custodiam testimonia oris tui.     ",
       "hebrew_masoretic": "כְּחַסְדְּךָ֥ חַיֵּ֑נִי וְ֝אֶשְׁמְרָ֗ה עֵד֥וּת פִּֽיךָ׃ {פ}",
+      "douay_rheims": "Quicken thou me according to thy mercy: and I shall keep the testimonies of thy mouth.",
+      "finnish_biblia": "Virvoita minua sinun armoillas, että minä pitäisin sinun suus todistuksen. ",
       "king_james": "Quicken me after thy lovingkindness; so shall I keep the testimony of thy mouth.",
       "refs": {
         "latin_vulgate": {
+          "src": "118:88"
+        },
+        "douay_rheims": {
           "src": "118:88"
         }
       }
@@ -977,9 +1419,14 @@
       "verse": 89,
       "latin_vulgate": "  In æternum, Domine,  verbum tuum permanet in cælo. ",
       "hebrew_masoretic": "לְעוֹלָ֥ם יְהֹוָ֑ה דְּ֝בָרְךָ֗ נִצָּ֥ב בַּשָּׁמָֽיִם׃",
+      "douay_rheims": "For ever, O Lord, thy word standeth firm in heaven.",
+      "finnish_biblia": "Herra! sinun sanas pysyy ijankaikkisesti taivaissa. ",
       "king_james": " For ever, O Lord, thy word is settled in heaven.",
       "refs": {
         "latin_vulgate": {
+          "src": "118:89"
+        },
+        "douay_rheims": {
           "src": "118:89"
         }
       }
@@ -988,9 +1435,14 @@
       "verse": 90,
       "latin_vulgate": " In generationem et generationem veritas tua ;  fundasti terram, et permanet. ",
       "hebrew_masoretic": "לְדֹ֣ר וָ֭דֹר אֱמוּנָתֶ֑ךָ כּוֹנַ֥נְתָּֽ אֶ֝֗רֶץ וַֽתַּעֲמֹֽד׃",
+      "douay_rheims": "Thy truth unto all generations: thou hast founded the earth, and it continueth.",
+      "finnish_biblia": "Sinun totuutes pysyy suvusta sukuun: sinä perustit maan, ja se pysyy. ",
       "king_james": "Thy faithfulness is unto all generations: thou hast established the earth, and it abideth.",
       "refs": {
         "latin_vulgate": {
+          "src": "118:90"
+        },
+        "douay_rheims": {
           "src": "118:90"
         }
       }
@@ -999,9 +1451,14 @@
       "verse": 91,
       "latin_vulgate": " Ordinatione tua perseverat dies,  quoniam omnia serviunt tibi. ",
       "hebrew_masoretic": "לְֽ֭מִשְׁפָּטֶיךָ עָמְד֣וּ הַיּ֑וֹם כִּ֖י הַכֹּ֣ל עֲבָדֶֽיךָ׃",
+      "douay_rheims": "By thy ordinance the day goeth on: for all things serve thee.",
+      "finnish_biblia": "Ne pysyvät tähän päivään asti sinun asetukses jälkeen; sillä kaikki sinua palvelevat. ",
       "king_james": "They continue this day according to thine ordinances: for all are thy servants.",
       "refs": {
         "latin_vulgate": {
+          "src": "118:91"
+        },
+        "douay_rheims": {
           "src": "118:91"
         }
       }
@@ -1010,9 +1467,14 @@
       "verse": 92,
       "latin_vulgate": " Nisi quod lex tua meditatio mea est,  tunc forte periissem in humilitate mea. ",
       "hebrew_masoretic": "לוּלֵ֣י ת֭וֹרָתְךָ שַׁעֲשֻׁעָ֑י אָ֝֗ז אָבַ֥דְתִּי בְעׇנְיִֽי׃",
+      "douay_rheims": "Unless thy law had been my meditation, I had then perhaps perished in my abjection.",
+      "finnish_biblia": "Ellei sinun lakis olisi ollut minun lohdutukseni, niin minä olisin raadollisuudessani hukkunut. ",
       "king_james": "Unless thy law had been my delights, I should then have perished in mine affliction.",
       "refs": {
         "latin_vulgate": {
+          "src": "118:92"
+        },
+        "douay_rheims": {
           "src": "118:92"
         }
       }
@@ -1021,9 +1483,14 @@
       "verse": 93,
       "latin_vulgate": " In æternum non obliviscar justificationes tuas,  quia in ipsis vivificasti me. ",
       "hebrew_masoretic": "לְ֭עוֹלָם לֹא־אֶשְׁכַּ֣ח פִּקּוּדֶ֑יךָ כִּ֥י בָ֝֗ם חִיִּיתָֽנִי׃",
+      "douay_rheims": "Thy justifications I will never forget: for by them thou hast given me life.",
+      "finnish_biblia": "En minä ikänä unohda sinun käskyjäs; sillä niillä sinä minua lohdutat. ",
       "king_james": "I will never forget thy precepts: for with them thou hast quickened me.",
       "refs": {
         "latin_vulgate": {
+          "src": "118:93"
+        },
+        "douay_rheims": {
           "src": "118:93"
         }
       }
@@ -1032,9 +1499,14 @@
       "verse": 94,
       "latin_vulgate": " Tuus sum ego ; salvum me fac :  quoniam justificationes tuas exquisivi. ",
       "hebrew_masoretic": "לְֽךָ־אֲ֭נִי הוֹשִׁיעֵ֑נִי כִּ֖י פִקּוּדֶ֣יךָ דָרָֽשְׁתִּי׃",
+      "douay_rheims": "I am thine, save thou me: for I have sought thy justifications.",
+      "finnish_biblia": "Sinun minä olen: auta minua! sillä minä etsin sinun käskyjäs. ",
       "king_james": "I am thine, save me; for I have sought thy precepts.",
       "refs": {
         "latin_vulgate": {
+          "src": "118:94"
+        },
+        "douay_rheims": {
           "src": "118:94"
         }
       }
@@ -1043,9 +1515,14 @@
       "verse": 95,
       "latin_vulgate": " Me exspectaverunt peccatores ut perderent me ;  testimonia tua intellexi. ",
       "hebrew_masoretic": "לִ֤י קִוּ֣וּ רְשָׁעִ֣ים לְאַבְּדֵ֑נִי עֵ֝דֹתֶ֗יךָ אֶתְבּוֹנָֽן׃",
+      "douay_rheims": "The wicked have waited for me to destroy me: but I have understood thy testimonies.",
+      "finnish_biblia": "Jumalattomat minua vartioitsevat hukuttaaksensa; mutta sinun todistuksistas minä otan vaarin. ",
       "king_james": "The wicked have waited for me to destroy me: but I will consider thy testimonies.",
       "refs": {
         "latin_vulgate": {
+          "src": "118:95"
+        },
+        "douay_rheims": {
           "src": "118:95"
         }
       }
@@ -1054,9 +1531,14 @@
       "verse": 96,
       "latin_vulgate": " Omnis consummationis vidi finem,  latum mandatum tuum nimis.     ",
       "hebrew_masoretic": "לְֽכׇל־תִּ֭כְלָה רָאִ֣יתִי קֵ֑ץ רְחָבָ֖ה מִצְוָתְךָ֣ מְאֹֽד׃ {פ}",
+      "douay_rheims": "I have seen an end of all perfection: thy commandment is exceeding broad.",
+      "finnish_biblia": "Kaikista kappaleista minä olen lopun nähnyt; mutta sinun käskys ovat määrättömät. ",
       "king_james": "I have seen an end of all perfection: but thy commandment is exceeding broad.",
       "refs": {
         "latin_vulgate": {
+          "src": "118:96"
+        },
+        "douay_rheims": {
           "src": "118:96"
         }
       }
@@ -1065,9 +1547,14 @@
       "verse": 97,
       "latin_vulgate": "  Quomodo dilexi legem tuam, Domine !  tota die meditatio mea est. ",
       "hebrew_masoretic": "מָה־אָהַ֥בְתִּי תוֹרָתֶ֑ךָ כׇּל־הַ֝יּ֗וֹם הִ֣יא שִׂיחָתִֽי׃",
+      "douay_rheims": "O how have I loved thy law, O Lord! it is my meditation all the day.",
+      "finnish_biblia": "Kuinka minä rakastan sinun lakias? Joka päivä minä sitä ajattelen. ",
       "king_james": " O how love I thy law! it is my meditation all the day.",
       "refs": {
         "latin_vulgate": {
+          "src": "118:97"
+        },
+        "douay_rheims": {
           "src": "118:97"
         }
       }
@@ -1076,9 +1563,14 @@
       "verse": 98,
       "latin_vulgate": " Super inimicos meos prudentem me fecisti mandato tuo,  quia in æternum mihi est. ",
       "hebrew_masoretic": "מֵֽ֭אֹיְבַי תְּחַכְּמֵ֣נִי מִצְוֺתֶ֑ךָ כִּ֖י לְעוֹלָ֣ם הִיא־לִֽי׃",
+      "douay_rheims": "Through thy commandment, thou hast made me wiser than my enemies: for it is ever with me.",
+      "finnish_biblia": "Sinä teit minun taitavammaksi käskyilläs kuin minun viholliseni ovat; sillä se on minun ijankaikkinen tavarani. ",
       "king_james": "Thou through thy commandments hast made me wiser than mine enemies: for they are ever with me.",
       "refs": {
         "latin_vulgate": {
+          "src": "118:98"
+        },
+        "douay_rheims": {
           "src": "118:98"
         }
       }
@@ -1087,9 +1579,14 @@
       "verse": 99,
       "latin_vulgate": " Super omnes docentes me intellexi,  quia testimonia tua meditatio mea est. ",
       "hebrew_masoretic": "מִכׇּל־מְלַמְּדַ֥י הִשְׂכַּ֑לְתִּי כִּ֥י עֵ֝דְוֺתֶ֗יךָ שִׂ֣יחָה לִֽי׃",
+      "douay_rheims": "I have understood more than all my teachers: because thy testimonies are my meditation.",
+      "finnish_biblia": "Minä olen oppineempi kuin kaikki minun opettajani; sillä sinun todistukses ovat minun ajatukseni. ",
       "king_james": "I have more understanding than all my teachers: for thy testimonies are my meditation.",
       "refs": {
         "latin_vulgate": {
+          "src": "118:99"
+        },
+        "douay_rheims": {
           "src": "118:99"
         }
       }
@@ -1098,9 +1595,14 @@
       "verse": 100,
       "latin_vulgate": " Super senes intellexi,  quia mandata tua quæsivi. ",
       "hebrew_masoretic": "מִזְּקֵנִ֥ים אֶתְבּוֹנָ֑ן כִּ֖י פִקּוּדֶ֣יךָ נָצָֽרְתִּי׃",
+      "douay_rheims": "I have had understanding above ancients: because I have sought thy commandments.",
+      "finnish_biblia": "Enemmän minä ymmärrän kuin vanhemmat; sillä minä pidän sinun käskys. ",
       "king_james": "I understand more than the ancients, because I keep thy precepts.",
       "refs": {
         "latin_vulgate": {
+          "src": "118:100"
+        },
+        "douay_rheims": {
           "src": "118:100"
         }
       }
@@ -1109,9 +1611,14 @@
       "verse": 101,
       "latin_vulgate": " Ab omni via mala prohibui pedes meos,  ut custodiam verba tua. ",
       "hebrew_masoretic": "מִכׇּל־אֹ֣רַח רָ֭ע כָּלִ֣אתִי רַגְלָ֑י לְ֝מַ֗עַן אֶשְׁמֹ֥ר דְּבָרֶֽךָ׃",
+      "douay_rheims": "I have restrained my feet from every evil way: that I may keep thy words.",
+      "finnish_biblia": "Minä estän jalkani kaikista pahoista teistä, että minä sinun sanas pitäisin. ",
       "king_james": "I have refrained my feet from every evil way, that I might keep thy word.",
       "refs": {
         "latin_vulgate": {
+          "src": "118:101"
+        },
+        "douay_rheims": {
           "src": "118:101"
         }
       }
@@ -1120,9 +1627,14 @@
       "verse": 102,
       "latin_vulgate": " A judiciis tuis non declinavi,  quia tu legem posuisti mihi. ",
       "hebrew_masoretic": "מִמִּשְׁפָּטֶ֥יךָ לֹא־סָ֑רְתִּי כִּי־אַ֝תָּ֗ה הוֹרֵתָֽנִי׃",
+      "douay_rheims": "I have not declined from thy judgments, because thou hast set me a law.",
+      "finnish_biblia": "En minä poikkee sinun oikeudestas; sillä sinä opetat minua. ",
       "king_james": "I have not departed from thy judgments: for thou hast taught me.",
       "refs": {
         "latin_vulgate": {
+          "src": "118:102"
+        },
+        "douay_rheims": {
           "src": "118:102"
         }
       }
@@ -1131,9 +1643,14 @@
       "verse": 103,
       "latin_vulgate": " Quam dulcia faucibus meis eloquia tua !  super mel ori meo. ",
       "hebrew_masoretic": "מַה־נִּמְלְצ֣וּ לְ֭חִכִּי אִמְרָתֶ֗ךָ מִדְּבַ֥שׁ לְפִֽי׃",
+      "douay_rheims": "How sweet are thy words to my palate! more than honey to my mouth.",
+      "finnish_biblia": "Sinun sanas ovat minun suulleni makiammat kuin hunaja. ",
       "king_james": "How sweet are thy words unto my taste! yea, sweeter than honey to my mouth!",
       "refs": {
         "latin_vulgate": {
+          "src": "118:103"
+        },
+        "douay_rheims": {
           "src": "118:103"
         }
       }
@@ -1142,9 +1659,14 @@
       "verse": 104,
       "latin_vulgate": " A mandatis tuis intellexi ;  propterea odivi omnem viam iniquitatis.     ",
       "hebrew_masoretic": "מִפִּקּוּדֶ֥יךָ אֶתְבּוֹנָ֑ן עַל־כֵּ֝֗ן שָׂנֵ֤אתִי ׀ כׇּל־אֹ֬רַח שָֽׁקֶר׃ {פ}",
+      "douay_rheims": "By thy commandments I have had understanding: therefore have I hated every way of iniquity.",
+      "finnish_biblia": "Sinun käskys tekevät minun ymmärtäväiseksi; sentähden minä vihaan kaikkia vääriä teitä. ",
       "king_james": "Through thy precepts I get understanding: therefore I hate every false way.",
       "refs": {
         "latin_vulgate": {
+          "src": "118:104"
+        },
+        "douay_rheims": {
           "src": "118:104"
         }
       }
@@ -1153,9 +1675,14 @@
       "verse": 105,
       "latin_vulgate": "  Lucerna pedibus meis verbum tuum,  et lumen semitis meis. ",
       "hebrew_masoretic": "נֵר־לְרַגְלִ֥י דְבָרֶ֑ךָ וְ֝א֗וֹר לִנְתִיבָתִֽי׃",
+      "douay_rheims": "Thy word is a lamp to my feet, and a light to my paths.",
+      "finnish_biblia": "Sinun sanas on minun jalkaini kynttilä, ja valkeus teilläni. ",
       "king_james": " Thy word is a lamp unto my feet, and a light unto my path.",
       "refs": {
         "latin_vulgate": {
+          "src": "118:105"
+        },
+        "douay_rheims": {
           "src": "118:105"
         }
       }
@@ -1164,9 +1691,14 @@
       "verse": 106,
       "latin_vulgate": " Juravi et statui  custodire judicia justitiæ tuæ. ",
       "hebrew_masoretic": "נִשְׁבַּ֥עְתִּי וָאֲקַיֵּ֑מָה לִ֝שְׁמֹ֗ר מִשְׁפְּטֵ֥י צִדְקֶֽךָ׃",
+      "douay_rheims": "I have sworn and am determined to keep the judgments of thy justice.",
+      "finnish_biblia": "Minä vannon, ja sen vahvana pidän, että minä sinun vanhurskautes oikeudet pitää tahdon. ",
       "king_james": "I have sworn, and I will perform it, that I will keep thy righteous judgments.",
       "refs": {
         "latin_vulgate": {
+          "src": "118:106"
+        },
+        "douay_rheims": {
           "src": "118:106"
         }
       }
@@ -1175,9 +1707,14 @@
       "verse": 107,
       "latin_vulgate": " Humiliatus sum usquequaque, Domine ;  vivifica me secundum verbum tuum. ",
       "hebrew_masoretic": "נַעֲנֵ֥יתִי עַד־מְאֹ֑ד יְ֝הֹוָ֗ה חַיֵּ֥נִי כִדְבָרֶֽךָ׃",
+      "douay_rheims": "I have been humbled, O Lord, exceedingly: quicken thou me according to thy word.",
+      "finnish_biblia": "Minä olen sangen kovin vaivattu: Herra, virvoita minua sinun sanas perästä. ",
       "king_james": "I am afflicted very much: quicken me, O Lord, according unto thy word.",
       "refs": {
         "latin_vulgate": {
+          "src": "118:107"
+        },
+        "douay_rheims": {
           "src": "118:107"
         }
       }
@@ -1186,9 +1723,14 @@
       "verse": 108,
       "latin_vulgate": " Voluntaria oris mei beneplacita fac, Domine,  et judicia tua doce me. ",
       "hebrew_masoretic": "נִדְב֣וֹת פִּ֭י רְצֵה־נָ֣א יְהֹוָ֑ה וּֽמִשְׁפָּטֶ֥יךָ לַמְּדֵֽנִי׃",
+      "douay_rheims": "The free offerings of my mouth make acceptable, O Lord: and teach me thy judgments.",
+      "finnish_biblia": "Olkoon sinulle, Herra, otolliset minun suuni mieluiset uhrit, ja opeta minulle sinun oikeutes. ",
       "king_james": "Accept, I beseech thee, the freewill offerings of my mouth, O Lord, and teach me thy judgments.",
       "refs": {
         "latin_vulgate": {
+          "src": "118:108"
+        },
+        "douay_rheims": {
           "src": "118:108"
         }
       }
@@ -1197,9 +1739,14 @@
       "verse": 109,
       "latin_vulgate": " Anima mea in manibus meis semper,  et legem tuam non sum oblitus. ",
       "hebrew_masoretic": "נַפְשִׁ֣י בְכַפִּ֣י תָמִ֑יד וְ֝ת֥וֹרָתְךָ֗ לֹ֣א שָׁכָֽחְתִּי׃",
+      "douay_rheims": "My soul is continually in my hands: and I have not forgotten thy law.",
+      "finnish_biblia": "Minun sieluni on alati minun käsissäni, ja en unohda sinun lakias. ",
       "king_james": "My soul is continually in my hand: yet do I not forget thy law.",
       "refs": {
         "latin_vulgate": {
+          "src": "118:109"
+        },
+        "douay_rheims": {
           "src": "118:109"
         }
       }
@@ -1208,9 +1755,14 @@
       "verse": 110,
       "latin_vulgate": " Posuerunt peccatores laqueum mihi,  et de mandatis tuis non erravi. ",
       "hebrew_masoretic": "נָתְנ֬וּ רְשָׁעִ֣ים פַּ֣ח לִ֑י וּ֝מִפִּקּוּדֶ֗יךָ לֹ֣א תָעִֽיתִי׃",
+      "douay_rheims": "Sinners have laid a snare for me: but I have not erred from thy precepts.",
+      "finnish_biblia": "Jumalattomat virittävät minulle paulan; mutta en minä eksy sinun käskyistäs. ",
       "king_james": "The wicked have laid a snare for me: yet I erred not from thy precepts.",
       "refs": {
         "latin_vulgate": {
+          "src": "118:110"
+        },
+        "douay_rheims": {
           "src": "118:110"
         }
       }
@@ -1219,9 +1771,14 @@
       "verse": 111,
       "latin_vulgate": " Hæreditate acquisivi testimonia tua in æternum,  quia exsultatio cordis mei sunt. ",
       "hebrew_masoretic": "נָחַ֣לְתִּי עֵדְוֺתֶ֣יךָ לְעוֹלָ֑ם כִּֽי־שְׂשׂ֖וֹן לִבִּ֣י הֵֽמָּה׃",
+      "douay_rheims": "I have purchased thy testimonies for an inheritance for ever: because they are the joy of my heart.",
+      "finnish_biblia": "Sinun todistukses ovat minun ijankaikkiset perimiseni; sillä ne ovat minun sydämeni ilo. ",
       "king_james": "Thy testimonies have I taken as an heritage for ever: for they are the rejoicing of my heart.",
       "refs": {
         "latin_vulgate": {
+          "src": "118:111"
+        },
+        "douay_rheims": {
           "src": "118:111"
         }
       }
@@ -1230,9 +1787,14 @@
       "verse": 112,
       "latin_vulgate": " Inclinavi cor meum ad faciendas justificationes tuas in æternum,  propter retributionem.     ",
       "hebrew_masoretic": "נָטִ֣יתִי לִ֭בִּי לַעֲשׂ֥וֹת חֻקֶּ֗יךָ לְעוֹלָ֥ם עֵֽקֶב׃ {פ}",
+      "douay_rheims": "I have inclined my heart to do thy justifications for ever, for the reward.",
+      "finnish_biblia": "Minä kallistan minun sydämeni tekemään sinun säätys jälkeen, aina ja ijankaikkisesti. ",
       "king_james": "I have inclined mine heart to perform thy statutes alway, even unto the end.",
       "refs": {
         "latin_vulgate": {
+          "src": "118:112"
+        },
+        "douay_rheims": {
           "src": "118:112"
         }
       }
@@ -1241,9 +1803,14 @@
       "verse": 113,
       "latin_vulgate": "  Iniquos odio habui,  et legem tuam dilexi. ",
       "hebrew_masoretic": "סֵעֲפִ֥ים שָׂנֵ֑אתִי וְֽתוֹרָתְךָ֥ אָהָֽבְתִּי׃",
+      "douay_rheims": "I have hated the unjust: and have loved thy law.",
+      "finnish_biblia": "Minä vihaan viekkaita henkiä, ja rakastan sinun lakias. ",
       "king_james": " I hate vain thoughts: but thy law do I love.",
       "refs": {
         "latin_vulgate": {
+          "src": "118:113"
+        },
+        "douay_rheims": {
           "src": "118:113"
         }
       }
@@ -1252,9 +1819,14 @@
       "verse": 114,
       "latin_vulgate": " Adjutor et susceptor meus es tu,  et in verbum tuum supersperavi. ",
       "hebrew_masoretic": "סִתְרִ֣י וּמָגִנִּ֣י אָ֑תָּה לִדְבָרְךָ֥ יִחָֽלְתִּי׃",
+      "douay_rheims": "Thou art my helper and my protector: and in thy word I have greatly hoped.",
+      "finnish_biblia": "Sinä olet minun varjelukseni ja kilpeni: minä toivon sinun sanas päälle. ",
       "king_james": "Thou art my hiding place and my shield: I hope in thy word.",
       "refs": {
         "latin_vulgate": {
+          "src": "118:114"
+        },
+        "douay_rheims": {
           "src": "118:114"
         }
       }
@@ -1263,9 +1835,14 @@
       "verse": 115,
       "latin_vulgate": " Declinate a me, maligni,  et scrutabor mandata Dei mei. ",
       "hebrew_masoretic": "סוּרוּ־מִמֶּ֥נִּי מְרֵעִ֑ים וְ֝אֶצְּרָ֗ה מִצְוֺ֥ת אֱלֹהָֽי׃",
+      "douay_rheims": "Depart from me, ye malignant: and I will search the commandments of my God.",
+      "finnish_biblia": "Poiketkaat minusta, te pahanilkiset; ja minä pidän minun Jumalani käskyt. ",
       "king_james": "Depart from me, ye evildoers: for I will keep the commandments of my God.",
       "refs": {
         "latin_vulgate": {
+          "src": "118:115"
+        },
+        "douay_rheims": {
           "src": "118:115"
         }
       }
@@ -1274,9 +1851,14 @@
       "verse": 116,
       "latin_vulgate": " Suscipe me secundum eloquium tuum, et vivam,  et non confundas me ab exspectatione mea. ",
       "hebrew_masoretic": "סׇמְכֵ֣נִי כְאִמְרָתְךָ֣ וְאֶחְיֶ֑ה וְאַל־תְּ֝בִישֵׁ֗נִי מִשִּׂבְרִֽי׃",
+      "douay_rheims": "Uphold me according to thy word, and I shall live: and let me not be confounded in my expectation.",
+      "finnish_biblia": "Tue minua sanallas, että minä eläisin, ja älä anna minun toivoni häpiään tulla. ",
       "king_james": "Uphold me according unto thy word, that I may live: and let me not be ashamed of my hope.",
       "refs": {
         "latin_vulgate": {
+          "src": "118:116"
+        },
+        "douay_rheims": {
           "src": "118:116"
         }
       }
@@ -1285,9 +1867,14 @@
       "verse": 117,
       "latin_vulgate": " Adjuva me, et salvus ero,  et meditabor in justificationibus tuis semper. ",
       "hebrew_masoretic": "סְעָדֵ֥נִי וְאִוָּשֵׁ֑עָה וְאֶשְׁעָ֖ה בְחֻקֶּ֣יךָ תָמִֽיד׃",
+      "douay_rheims": "Help me, and I shall be saved: and I will meditate always on thy justifications.",
+      "finnish_biblia": "Vahvista minua, että minä autetuksi tulisin, niin minä halajan alati sinun säätyjäs. ",
       "king_james": "Hold thou me up, and I shall be safe: and I will have respect unto thy statutes continually.",
       "refs": {
         "latin_vulgate": {
+          "src": "118:117"
+        },
+        "douay_rheims": {
           "src": "118:117"
         }
       }
@@ -1296,9 +1883,14 @@
       "verse": 118,
       "latin_vulgate": " Sprevisti omnes discedentes a judiciis tuis,  quia injusta cogitatio eorum. ",
       "hebrew_masoretic": "סָ֭לִיתָ כׇּל־שׁוֹגִ֣ים מֵחֻקֶּ֑יךָ כִּי־שֶׁ֝֗קֶר תַּרְמִיתָֽם׃",
+      "douay_rheims": "Thou hast despised all them that fall off from thy judgments; for their thought is unjust.",
+      "finnish_biblia": "Sinä tallaat alas kaikki, jotka sinun säädyistäs horjuvat; sillä heidän viettelyksensä on sula valhe. ",
       "king_james": "Thou hast trodden down all them that err from thy statutes: for their deceit is falsehood.",
       "refs": {
         "latin_vulgate": {
+          "src": "118:118"
+        },
+        "douay_rheims": {
           "src": "118:118"
         }
       }
@@ -1307,9 +1899,14 @@
       "verse": 119,
       "latin_vulgate": " Prævaricantes reputavi omnes peccatores terræ ;  ideo dilexi testimonia tua. ",
       "hebrew_masoretic": "סִגִ֗ים הִשְׁבַּ֥תָּ כׇל־רִשְׁעֵי־אָ֑רֶץ לָ֝כֵ֗ן אָהַ֥בְתִּי עֵדֹתֶֽיךָ׃",
+      "douay_rheims": "I have accounted all the sinners of the earth prevaricators: therefore have I loved thy testimonies.",
+      "finnish_biblia": "Sinä heität pois kaikki jumalattomat maan päältä niinkuin loan; sentähden minä rakastan sinun todistuksias. ",
       "king_james": "Thou puttest away all the wicked of the earth like dross: therefore I love thy testimonies.",
       "refs": {
         "latin_vulgate": {
+          "src": "118:119"
+        },
+        "douay_rheims": {
           "src": "118:119"
         }
       }
@@ -1318,9 +1915,14 @@
       "verse": 120,
       "latin_vulgate": " Confige timore tuo carnes meas ;  a judiciis enim tuis timui.     ",
       "hebrew_masoretic": "סָמַ֣ר מִפַּחְדְּךָ֣ בְשָׂרִ֑י וּֽמִמִּשְׁפָּטֶ֥יךָ יָרֵֽאתִי׃ {פ}",
+      "douay_rheims": "Pierce thou my flesh with thy fear: for I am afraid of thy judgments.",
+      "finnish_biblia": "Minä pelkään sinua, niin että minun ihoni värisee, ja vapisen sinun tuomioitas. ",
       "king_james": "My flesh trembleth for fear of thee; and I am afraid of thy judgments.",
       "refs": {
         "latin_vulgate": {
+          "src": "118:120"
+        },
+        "douay_rheims": {
           "src": "118:120"
         }
       }
@@ -1329,9 +1931,14 @@
       "verse": 121,
       "latin_vulgate": "  Feci judicium et justitiam :  non tradas me calumniantibus me. ",
       "hebrew_masoretic": "עָ֭שִׂיתִי מִשְׁפָּ֣ט וָצֶ֑דֶק בַּל־תַּ֝נִּיחֵ֗נִי לְעֹשְׁקָֽי׃",
+      "douay_rheims": "I have done judgment and justice: give me not up to them that slander me.",
+      "finnish_biblia": "Minä teen oikeuden ja vanhurskauden: älä minua hylkää niille, jotka minulle väkivaltaa tekevät. ",
       "king_james": " I have done judgment and justice: leave me not to mine oppressors.",
       "refs": {
         "latin_vulgate": {
+          "src": "118:121"
+        },
+        "douay_rheims": {
           "src": "118:121"
         }
       }
@@ -1340,9 +1947,14 @@
       "verse": 122,
       "latin_vulgate": " Suscipe servum tuum in bonum :  non calumnientur me superbi. ",
       "hebrew_masoretic": "עֲרֹ֣ב עַבְדְּךָ֣ לְט֑וֹב אַֽל־יַעַשְׁקֻ֥נִי זֵדִֽים׃",
+      "douay_rheims": "Uphold thy servant unto good: let not the proud calumniate me.",
+      "finnish_biblia": "Vastaa palvelias edestä, ja lohduta häntä, ettei ylpiät tekisi minulle väkivaltaa. ",
       "king_james": "Be surety for thy servant for good: let not the proud oppress me.",
       "refs": {
         "latin_vulgate": {
+          "src": "118:122"
+        },
+        "douay_rheims": {
           "src": "118:122"
         }
       }
@@ -1351,9 +1963,14 @@
       "verse": 123,
       "latin_vulgate": " Oculi mei defecerunt in salutare tuum,  et in eloquium justitiæ tuæ. ",
       "hebrew_masoretic": "עֵ֭ינַי כָּל֣וּ לִישׁוּעָתֶ֑ךָ וּלְאִמְרַ֥ת צִדְקֶֽךָ׃",
+      "douay_rheims": "My eyes have fainted after thy salvation: and for the word of thy justice.",
+      "finnish_biblia": "Minun silmäni hiveltyvät sinun autuutes perään, ja sinun vanhurskautes sanan jälkeen. ",
       "king_james": "Mine eyes fail for thy salvation, and for the word of thy righteousness.",
       "refs": {
         "latin_vulgate": {
+          "src": "118:123"
+        },
+        "douay_rheims": {
           "src": "118:123"
         }
       }
@@ -1362,9 +1979,14 @@
       "verse": 124,
       "latin_vulgate": " Fac cum servo tuo secundum misericordiam tuam,  et justificationes tuas doce me. ",
       "hebrew_masoretic": "עֲשֵׂ֖ה עִם־עַבְדְּךָ֥ כְחַסְדֶּ֗ךָ וְחֻקֶּ֥יךָ לַמְּדֵֽנִי׃",
+      "douay_rheims": "Deal with thy servant according to thy mercy: and teach me thy justifications.",
+      "finnish_biblia": "Tee palvelias kanssa sinun armos jälkeen, ja opeta minulle sinun säätyjäs. ",
       "king_james": "Deal with thy servant according unto thy mercy, and teach me thy statutes.",
       "refs": {
         "latin_vulgate": {
+          "src": "118:124"
+        },
+        "douay_rheims": {
           "src": "118:124"
         }
       }
@@ -1373,9 +1995,14 @@
       "verse": 125,
       "latin_vulgate": " Servus tuus sum ego : da mihi intellectum,  ut sciam testimonia tua. ",
       "hebrew_masoretic": "עַבְדְּךָ־אָ֥נִי הֲבִינֵ֑נִי וְ֝אֵדְעָ֗ה עֵדֹתֶֽיךָ׃",
+      "douay_rheims": "I am thy servant: give me understanding that I may know thy testimonies.",
+      "finnish_biblia": "Sinun palvelias minä olen: anna minulle ymmärrystä, että minä tuntisin sinun todistukses. ",
       "king_james": "I am thy servant; give me understanding, that I may know thy testimonies.",
       "refs": {
         "latin_vulgate": {
+          "src": "118:125"
+        },
+        "douay_rheims": {
           "src": "118:125"
         }
       }
@@ -1384,9 +2011,14 @@
       "verse": 126,
       "latin_vulgate": " Tempus faciendi, Domine :  dissipaverunt legem tuam. ",
       "hebrew_masoretic": "עֵ֭ת לַעֲשׂ֣וֹת לַיהֹוָ֑ה הֵ֝פֵ֗רוּ תּוֹרָתֶֽךָ׃",
+      "douay_rheims": "It is time, O Lord, to do: they have dissipated thy law.",
+      "finnish_biblia": "Jopa aika on, että Herra siihen jotakin tekis: he ovat sinun lakis särkeneet. ",
       "king_james": "It is time for thee, Lord, to work: for they have made void thy law.",
       "refs": {
         "latin_vulgate": {
+          "src": "118:126"
+        },
+        "douay_rheims": {
           "src": "118:126"
         }
       }
@@ -1395,9 +2027,14 @@
       "verse": 127,
       "latin_vulgate": " Ideo dilexi mandata tua  super aurum et topazion. ",
       "hebrew_masoretic": "עַל־כֵּ֭ן אָהַ֣בְתִּי מִצְוֺתֶ֑יךָ מִזָּהָ֥ב וּמִפָּֽז׃",
+      "douay_rheims": "Therefore have I loved thy commandments above gold and the topaz.",
+      "finnish_biblia": "Sentähden minä rakastan sinun käskyjäs, enempi kuin kultaa ja parasta kultaa. ",
       "king_james": "Therefore I love thy commandments above gold; yea, above fine gold.",
       "refs": {
         "latin_vulgate": {
+          "src": "118:127"
+        },
+        "douay_rheims": {
           "src": "118:127"
         }
       }
@@ -1406,9 +2043,14 @@
       "verse": 128,
       "latin_vulgate": " Propterea ad omnia mandata tua dirigebar ;  omnem viam iniquam odio habui.     ",
       "hebrew_masoretic": "עַל־כֵּ֤ן ׀ כׇּל־פִּקּ֣וּדֵי כֹ֣ל יִשָּׁ֑רְתִּי כׇּל־אֹ֖רַח שֶׁ֣קֶר שָׂנֵֽאתִי׃ {פ}",
+      "douay_rheims": "Therefore was I directed to all thy commandments: I have hated all wicked ways.",
+      "finnish_biblia": "Sentähden minä pidän visusti kaikkia sinun käskyjäs: minä vihaan kaikkia vääriä teitä. ",
       "king_james": "Therefore I esteem all thy precepts concerning all things to be right; and I hate every false way.",
       "refs": {
         "latin_vulgate": {
+          "src": "118:128"
+        },
+        "douay_rheims": {
           "src": "118:128"
         }
       }
@@ -1417,9 +2059,14 @@
       "verse": 129,
       "latin_vulgate": "  Mirabilia testimonia tua :  ideo scrutata est ea anima mea. ",
       "hebrew_masoretic": "פְּלָא֥וֹת עֵדְוֺתֶ֑יךָ עַל־כֵּ֝֗ן נְצָרָ֥תַם נַפְשִֽׁי׃",
+      "douay_rheims": "Thy testimonies are wonderful: therefore my soul hath sought them.",
+      "finnish_biblia": "Ihmeelliset ovat sinun todistukses; sentähden minun sieluni ne pitää. ",
       "king_james": " Thy testimonies are wonderful: therefore doth my soul keep them.",
       "refs": {
         "latin_vulgate": {
+          "src": "118:129"
+        },
+        "douay_rheims": {
           "src": "118:129"
         }
       }
@@ -1428,9 +2075,14 @@
       "verse": 130,
       "latin_vulgate": " Declaratio sermonum tuorum illuminat,  et intellectum dat parvulis. ",
       "hebrew_masoretic": "פֵּ֖תַח דְּבָרֶ֥יךָ יָאִ֗יר מֵבִ֥ין פְּתָיִֽים׃",
+      "douay_rheims": "The declaration of thy words giveth light: and giveth understanding to little ones.",
+      "finnish_biblia": "Kuin sinun sanas julistetaan, niin se valistaa ja antaa yksinkertaisille ymmärryksen. ",
       "king_james": "The entrance of thy words giveth light; it giveth understanding unto the simple.",
       "refs": {
         "latin_vulgate": {
+          "src": "118:130"
+        },
+        "douay_rheims": {
           "src": "118:130"
         }
       }
@@ -1439,9 +2091,14 @@
       "verse": 131,
       "latin_vulgate": " Os meum aperui, et attraxi spiritum :  quia mandata tua desiderabam. ",
       "hebrew_masoretic": "פִּֽי־פָ֭עַרְתִּי וָאֶשְׁאָ֑פָה כִּ֖י לְמִצְוֺתֶ֣יךָ יָאָֽבְתִּי׃",
+      "douay_rheims": "I opened my mouth, and panted: because I longed for thy commandments.",
+      "finnish_biblia": "Minä avaan suuni ja huokaan; sillä minä halajan sinun käskys. ",
       "king_james": "I opened my mouth, and panted: for I longed for thy commandments.",
       "refs": {
         "latin_vulgate": {
+          "src": "118:131"
+        },
+        "douay_rheims": {
           "src": "118:131"
         }
       }
@@ -1450,9 +2107,14 @@
       "verse": 132,
       "latin_vulgate": " Aspice in me, et miserere mei,  secundum judicium diligentium nomen tuum. ",
       "hebrew_masoretic": "פְּנֵה־אֵלַ֥י וְחׇנֵּ֑נִי כְּ֝מִשְׁפָּ֗ט לְאֹהֲבֵ֥י שְׁמֶֽךָ׃",
+      "douay_rheims": "Look thou upon me, and have mercy on me according to the judgment of them that love thy name.",
+      "finnish_biblia": "Käännä sinuas minun puoleeni, ja ole minulle armollinen, niinkuin sinä olet niille tottunut tekemään, jotka sinun nimeäs rakastavat. ",
       "king_james": "Look thou upon me, and be merciful unto me, as thou usest to do unto those that love thy name.",
       "refs": {
         "latin_vulgate": {
+          "src": "118:132"
+        },
+        "douay_rheims": {
           "src": "118:132"
         }
       }
@@ -1461,9 +2123,14 @@
       "verse": 133,
       "latin_vulgate": " Gressus meos dirige secundum eloquium tuum,  et non dominetur mei omnis injustitia. ",
       "hebrew_masoretic": "פְּ֭עָמַי הָכֵ֣ן בְּאִמְרָתֶ֑ךָ וְֽאַל־תַּשְׁלֶט־בִּ֥י כׇל־אָֽוֶן׃",
+      "douay_rheims": "Direct my steps according to thy word: and let no iniquity have dominion over me.",
+      "finnish_biblia": "Vahvista minun käymiseni sinun sanassas, ja älä anna väkivallan minua vallita. ",
       "king_james": "Order my steps in thy word: and let not any iniquity have dominion over me.",
       "refs": {
         "latin_vulgate": {
+          "src": "118:133"
+        },
+        "douay_rheims": {
           "src": "118:133"
         }
       }
@@ -1472,9 +2139,14 @@
       "verse": 134,
       "latin_vulgate": " Redime me a calumniis hominum  ut custodiam mandata tua. ",
       "hebrew_masoretic": "פְּ֭דֵנִי מֵעֹ֣שֶׁק אָדָ֑ם וְ֝אֶשְׁמְרָ֗ה פִּקּוּדֶֽיךָ׃",
+      "douay_rheims": "Redeem me from the calumnies of men: that I may keep thy commandments.",
+      "finnish_biblia": "Lunasta minua ihmisten väkivallasta, niin minä pidän sinun käskys. ",
       "king_james": "Deliver me from the oppression of man: so will I keep thy precepts.",
       "refs": {
         "latin_vulgate": {
+          "src": "118:134"
+        },
+        "douay_rheims": {
           "src": "118:134"
         }
       }
@@ -1483,9 +2155,14 @@
       "verse": 135,
       "latin_vulgate": " Faciem tuam illumina super servum tuum,  et doce me justificationes tuas. ",
       "hebrew_masoretic": "פָּ֭נֶיךָ הָאֵ֣ר בְּעַבְדֶּ֑ךָ וְ֝לַמְּדֵ֗נִי אֶת־חֻקֶּֽיךָ׃",
+      "douay_rheims": "Make thy face to shine upon thy servant: and teach me thy justifications.",
+      "finnish_biblia": "Valista sinun kasvos palvelias päälle, ja opeta minulle sinun säätys. ",
       "king_james": "Make thy face to shine upon thy servant; and teach me thy statutes.",
       "refs": {
         "latin_vulgate": {
+          "src": "118:135"
+        },
+        "douay_rheims": {
           "src": "118:135"
         }
       }
@@ -1494,9 +2171,14 @@
       "verse": 136,
       "latin_vulgate": " Exitus aquarum deduxerunt oculi mei,  quia non custodierunt legem tuam.     ",
       "hebrew_masoretic": "פַּלְגֵי־מַ֭יִם יָרְד֣וּ עֵינָ֑י עַ֝֗ל לֹא־שָׁמְר֥וּ תוֹרָתֶֽךָ׃ {פ}",
+      "douay_rheims": "My eyes have sent forth springs of water: because they have not kept thy law.",
+      "finnish_biblia": "Minun silmäni vettä vuotavat, niinkuin virta, ettei sinun käskyjäs pidetä. ",
       "king_james": "Rivers of waters run down mine eyes, because they keep not thy law.",
       "refs": {
         "latin_vulgate": {
+          "src": "118:136"
+        },
+        "douay_rheims": {
           "src": "118:136"
         }
       }
@@ -1505,9 +2187,14 @@
       "verse": 137,
       "latin_vulgate": "  Justus es, Domine,  et rectum judicium tuum. ",
       "hebrew_masoretic": "צַדִּ֣יק אַתָּ֣ה יְהֹוָ֑ה וְ֝יָשָׁ֗ר מִשְׁפָּטֶֽיךָ׃",
+      "douay_rheims": "Thou art just, O Lord: and thy judgment is right.",
+      "finnish_biblia": "Herra! sinä olet vanhurskas ja sinun tuomios ovat oikiat. ",
       "king_james": " Righteous art thou, O Lord, and upright are thy judgments.",
       "refs": {
         "latin_vulgate": {
+          "src": "118:137"
+        },
+        "douay_rheims": {
           "src": "118:137"
         }
       }
@@ -1516,9 +2203,14 @@
       "verse": 138,
       "latin_vulgate": " Mandasti justitiam testimonia tua,  et veritatem tuam nimis. ",
       "hebrew_masoretic": "צִ֭וִּיתָ צֶ֣דֶק עֵדֹתֶ֑יךָ וֶאֱמוּנָ֥ה מְאֹֽד׃",
+      "douay_rheims": "Thou hast commanded justice thy testimonies: and thy truth exceedingly.",
+      "finnish_biblia": "Sinä olet vanhurskautes todistukset ja totuuden visusti käskenyt. ",
       "king_james": "Thy testimonies that thou hast commanded are righteous and very faithful.",
       "refs": {
         "latin_vulgate": {
+          "src": "118:138"
+        },
+        "douay_rheims": {
           "src": "118:138"
         }
       }
@@ -1527,9 +2219,14 @@
       "verse": 139,
       "latin_vulgate": " Tabescere me fecit zelus meus,  quia obliti sunt verba tua inimici mei. ",
       "hebrew_masoretic": "צִמְּתַ֥תְנִי קִנְאָתִ֑י כִּֽי־שָׁכְח֖וּ דְבָרֶ֣יךָ צָרָֽי׃",
+      "douay_rheims": "My zeal hath made me pine away: because my enemies forgot thy words.",
+      "finnish_biblia": "Minä olen lähes surmakseni kiivannut, että minun viholliseni ovat sinun sanas unohtaneet. ",
       "king_james": "My zeal hath consumed me, because mine enemies have forgotten thy words.",
       "refs": {
         "latin_vulgate": {
+          "src": "118:139"
+        },
+        "douay_rheims": {
           "src": "118:139"
         }
       }
@@ -1538,9 +2235,14 @@
       "verse": 140,
       "latin_vulgate": " Ignitum eloquium tuum vehementer,  et servus tuus dilexit illud. ",
       "hebrew_masoretic": "צְרוּפָ֖ה אִמְרָתְךָ֥ מְאֹ֗ד וְֽעַבְדְּךָ֥ אֲהֵבָֽהּ׃",
+      "douay_rheims": "Thy word is exceedingly refined: and thy servant hath loved it.",
+      "finnish_biblia": "Sinun puhees on sangen koeteltu, ja sinun palvelias sen rakkaana pitää. ",
       "king_james": "Thy word is very pure: therefore thy servant loveth it.",
       "refs": {
         "latin_vulgate": {
+          "src": "118:140"
+        },
+        "douay_rheims": {
           "src": "118:140"
         }
       }
@@ -1549,9 +2251,14 @@
       "verse": 141,
       "latin_vulgate": " Adolescentulus sum ego et contemptus ;  justificationes tuas non sum oblitus. ",
       "hebrew_masoretic": "צָעִ֣יר אָנֹכִ֣י וְנִבְזֶ֑ה פִּ֝קֻּדֶ֗יךָ לֹ֣א שָׁכָֽחְתִּי׃",
+      "douay_rheims": "I am very young and despised; but I forget not thy justifications.",
+      "finnish_biblia": "Minä olen halpa ja ylönkatsottu, mutta en minä unohda sinun käskyjäs. ",
       "king_james": "I am small and despised: yet do not I forget thy precepts.",
       "refs": {
         "latin_vulgate": {
+          "src": "118:141"
+        },
+        "douay_rheims": {
           "src": "118:141"
         }
       }
@@ -1560,9 +2267,14 @@
       "verse": 142,
       "latin_vulgate": " Justitia tua, justitia in æternum,  et lex tua veritas. ",
       "hebrew_masoretic": "צִדְקָתְךָ֣ צֶ֣דֶק לְעוֹלָ֑ם וְֽתוֹרָתְךָ֥ אֱמֶֽת׃",
+      "douay_rheims": "Thy justice is justice for ever: and thy law is the truth.",
+      "finnish_biblia": "Sinun vanhurskautes on ijankaikkinen vanhurskaus, ja sinun lakis on totuus. ",
       "king_james": "Thy righteousness is an everlasting righteousness, and thy law is the truth.",
       "refs": {
         "latin_vulgate": {
+          "src": "118:142"
+        },
+        "douay_rheims": {
           "src": "118:142"
         }
       }
@@ -1571,9 +2283,14 @@
       "verse": 143,
       "latin_vulgate": " Tribulatio et angustia invenerunt me ;  mandata tua meditatio mea est. ",
       "hebrew_masoretic": "צַר־וּמָצ֥וֹק מְצָא֑וּנִי מִ֝צְוֺתֶ֗יךָ שַׁעֲשֻׁעָֽי׃",
+      "douay_rheims": "Trouble and anguish have found me: thy commandments are my meditation.",
+      "finnish_biblia": "Ahdistus ja tuska ovat minun saavuttaneet; mutta minä iloitsen sinun käskyistäs. ",
       "king_james": "Trouble and anguish have taken hold on me: yet thy commandments are my delights.",
       "refs": {
         "latin_vulgate": {
+          "src": "118:143"
+        },
+        "douay_rheims": {
           "src": "118:143"
         }
       }
@@ -1582,9 +2299,14 @@
       "verse": 144,
       "latin_vulgate": " Æquitas testimonia tua in æternum :  intellectum da mihi, et vivam.     ",
       "hebrew_masoretic": "צֶ֖דֶק עֵדְוֺתֶ֥יךָ לְעוֹלָ֗ם הֲבִינֵ֥נִי וְאֶחְיֶֽה׃ {פ}",
+      "douay_rheims": "Thy testimonies are justice for ever: give me understanding, and I shall live.",
+      "finnish_biblia": "Sinun todistustes vanhurskaus pysyy ijankaikkisesti: anna minulle ymmärrys, niin minä elän. ",
       "king_james": "The righteousness of thy testimonies is everlasting: give me understanding, and I shall live.",
       "refs": {
         "latin_vulgate": {
+          "src": "118:144"
+        },
+        "douay_rheims": {
           "src": "118:144"
         }
       }
@@ -1593,9 +2315,14 @@
       "verse": 145,
       "latin_vulgate": "  Clamavi in toto corde meo : exaudi me, Domine ;  justificationes tuas requiram. ",
       "hebrew_masoretic": "קָרָ֣אתִי בְכׇל־לֵ֭ב עֲנֵ֥נִי יְהֹוָ֗ה חֻקֶּ֥יךָ אֶצֹּֽרָה׃",
+      "douay_rheims": "I cried with my whole heart, hear me, O Lord: I will seek thy justifications.",
+      "finnish_biblia": "Minä huudan kaikesta sydämestäni: kuule, Herra, minua, että minä sinun säätys pitäisin. ",
       "king_james": " I cried with my whole heart; hear me, O Lord: I will keep thy statutes.",
       "refs": {
         "latin_vulgate": {
+          "src": "118:145"
+        },
+        "douay_rheims": {
           "src": "118:145"
         }
       }
@@ -1604,9 +2331,14 @@
       "verse": 146,
       "latin_vulgate": " Clamavi ad te ; salvum me fac :  ut custodiam mandata tua. ",
       "hebrew_masoretic": "קְרָאתִ֥יךָ הוֹשִׁיעֵ֑נִי וְ֝אֶשְׁמְרָ֗ה עֵדֹתֶֽיךָ׃",
+      "douay_rheims": "I cried unto thee, save me: that I may keep thy commandments.",
+      "finnish_biblia": "Sinua minä huudan, auta minua, että minä sinun todistukses pitäisin. ",
       "king_james": "I cried unto thee; save me, and I shall keep thy testimonies.",
       "refs": {
         "latin_vulgate": {
+          "src": "118:146"
+        },
+        "douay_rheims": {
           "src": "118:146"
         }
       }
@@ -1615,9 +2347,14 @@
       "verse": 147,
       "latin_vulgate": " Præveni in maturitate, et clamavi :  quia in verba tua supersperavi. ",
       "hebrew_masoretic": "קִדַּ֣מְתִּי בַ֭נֶּשֶׁף וָאֲשַׁוֵּ֑עָה (לדבריך) [לִדְבָרְךָ֥] יִחָֽלְתִּי׃",
+      "douay_rheims": "I prevented the dawning of the day, and cried: because in thy words I very much hoped.",
+      "finnish_biblia": "Varhain minä ennätän, ja huudan: sinun sanas päälle minä toivon. ",
       "king_james": "I prevented the dawning of the morning, and cried: I hoped in thy word.",
       "refs": {
         "latin_vulgate": {
+          "src": "118:147"
+        },
+        "douay_rheims": {
           "src": "118:147"
         }
       }
@@ -1626,9 +2363,14 @@
       "verse": 148,
       "latin_vulgate": " Prævenerunt oculi mei ad te diluculo,  ut meditarer eloquia tua. ",
       "hebrew_masoretic": "קִדְּמ֣וּ עֵ֭ינַי אַשְׁמֻר֑וֹת לָ֝שִׂ֗יחַ בְּאִמְרָתֶֽךָ׃",
+      "douay_rheims": "My eyes to thee have prevented the morning: that I might meditate on thy words.",
+      "finnish_biblia": "Varhain minä herään, tutkistelemaan sinun sanojas. ",
       "king_james": "Mine eyes prevent the night watches, that I might meditate in thy word.",
       "refs": {
         "latin_vulgate": {
+          "src": "118:148"
+        },
+        "douay_rheims": {
           "src": "118:148"
         }
       }
@@ -1637,9 +2379,14 @@
       "verse": 149,
       "latin_vulgate": " Vocem meam audi secundum misericordiam tuam, Domine,  et secundum judicium tuum vivifica me. ",
       "hebrew_masoretic": "ק֭וֹלִי שִׁמְעָ֣ה כְחַסְדֶּ֑ךָ יְ֝הֹוָ֗ה כְּֽמִשְׁפָּטֶ֥ךָ חַיֵּֽנִי׃",
+      "douay_rheims": "Hear thou my voice, O Lord, according to thy mercy: and quicken me according to thy judgment.",
+      "finnish_biblia": "Kuule minun ääneni sinun armos jälkeen: Herra, virvoita minua sinun oikeutes jälkeen. ",
       "king_james": "Hear my voice according unto thy lovingkindness: O Lord, quicken me according to thy judgment.",
       "refs": {
         "latin_vulgate": {
+          "src": "118:149"
+        },
+        "douay_rheims": {
           "src": "118:149"
         }
       }
@@ -1648,9 +2395,14 @@
       "verse": 150,
       "latin_vulgate": " Appropinquaverunt persequentes me iniquitati :  a lege autem tua longe facti sunt. ",
       "hebrew_masoretic": "קָ֭רְבוּ רֹדְפֵ֣י זִמָּ֑ה מִתּוֹרָתְךָ֥ רָחָֽקוּ׃",
+      "douay_rheims": "They that persecute me have drawn nigh to iniquity; but they are gone far off from thy law.",
+      "finnish_biblia": "Pahanilkiset vainoojat karkaavat minun päälleni, ja ovat kaukana sinun laistas. ",
       "king_james": "They draw nigh that follow after mischief: they are far from thy law.",
       "refs": {
         "latin_vulgate": {
+          "src": "118:150"
+        },
+        "douay_rheims": {
           "src": "118:150"
         }
       }
@@ -1659,9 +2411,14 @@
       "verse": 151,
       "latin_vulgate": " Prope es tu, Domine,  et omnes viæ tuæ veritas. ",
       "hebrew_masoretic": "קָר֣וֹב אַתָּ֣ה יְהֹוָ֑ה וְֽכׇל־מִצְוֺתֶ֥יךָ אֱמֶֽת׃",
+      "douay_rheims": "Thou art near, O Lord: and all thy ways are truth.",
+      "finnish_biblia": "Herra, sinä olet läsnä, ja sinun käskys ovat sula totuus. ",
       "king_james": "Thou art near, O Lord; and all thy commandments are truth.",
       "refs": {
         "latin_vulgate": {
+          "src": "118:151"
+        },
+        "douay_rheims": {
           "src": "118:151"
         }
       }
@@ -1670,9 +2427,14 @@
       "verse": 152,
       "latin_vulgate": " Initio cognovi de testimoniis tuis,  quia in æternum fundasti ea.     ",
       "hebrew_masoretic": "קֶ֣דֶם יָ֭דַעְתִּי מֵעֵדֹתֶ֑יךָ כִּ֖י לְעוֹלָ֣ם יְסַדְתָּֽם׃ {פ}",
+      "douay_rheims": "I have known from the beginning concerning thy testimonies: that thou hast founded them for ever.",
+      "finnish_biblia": "Mutta minä sen aikaa tiesin, että sinä olet todistukses ijankaikkisesti perustanut. ",
       "king_james": "Concerning thy testimonies, I have known of old that thou hast founded them for ever.",
       "refs": {
         "latin_vulgate": {
+          "src": "118:152"
+        },
+        "douay_rheims": {
           "src": "118:152"
         }
       }
@@ -1681,9 +2443,14 @@
       "verse": 153,
       "latin_vulgate": "  Vide humilitatem meam, et eripe me,  quia legem tuam non sum oblitus. ",
       "hebrew_masoretic": "רְאֵה־עׇנְיִ֥י וְחַלְּצֵ֑נִי כִּי־ת֥֝וֹרָתְךָ֗ לֹ֣א שָׁכָֽחְתִּי׃",
+      "douay_rheims": "See my humiliation and deliver me for I have not forgotten thy law.",
+      "finnish_biblia": "Katso minun raadollisuuttani, ja pelasta minua; sillä enpä minä unohda sinun lakias. ",
       "king_james": " Consider mine affliction, and deliver me: for I do not forget thy law.",
       "refs": {
         "latin_vulgate": {
+          "src": "118:153"
+        },
+        "douay_rheims": {
           "src": "118:153"
         }
       }
@@ -1692,9 +2459,14 @@
       "verse": 154,
       "latin_vulgate": " Judica judicium meum, et redime me :  propter eloquium tuum vivifica me. ",
       "hebrew_masoretic": "רִיבָ֣ה רִ֭יבִי וּגְאָלֵ֑נִי לְאִמְרָתְךָ֥ חַיֵּֽנִי׃",
+      "douay_rheims": "Judge my judgment and redeem me: quicken thou me for thy word's sake.",
+      "finnish_biblia": "Toimita minun asiani ja päästä minua: virvoita minua sinun sanas kautta. ",
       "king_james": "Plead my cause, and deliver me: quicken me according to thy word.",
       "refs": {
         "latin_vulgate": {
+          "src": "118:154"
+        },
+        "douay_rheims": {
           "src": "118:154"
         }
       }
@@ -1703,9 +2475,14 @@
       "verse": 155,
       "latin_vulgate": " Longe a peccatoribus salus,  quia justificationes tuas non exquisierunt. ",
       "hebrew_masoretic": "רָח֣וֹק מֵרְשָׁעִ֣ים יְשׁוּעָ֑ה כִּי־חֻ֝קֶּ֗יךָ לֹ֣א דָרָֽשׁוּ׃",
+      "douay_rheims": "Salvation is far from sinners; because they have not sought thy justifications.",
+      "finnish_biblia": "Autuus on kaukana jumalattomista, sillä ei he tottele säätyjäs. ",
       "king_james": "Salvation is far from the wicked: for they seek not thy statutes.",
       "refs": {
         "latin_vulgate": {
+          "src": "118:155"
+        },
+        "douay_rheims": {
           "src": "118:155"
         }
       }
@@ -1714,9 +2491,14 @@
       "verse": 156,
       "latin_vulgate": " Misericordiæ tuæ multæ, Domine ;  secundum judicium tuum vivifica me. ",
       "hebrew_masoretic": "רַחֲמֶ֖יךָ רַבִּ֥ים ׀ יְהֹוָ֑ה כְּֽמִשְׁפָּטֶ֥יךָ חַיֵּֽנִי׃",
+      "douay_rheims": "Many, O Lord, are thy mercies: quicken me according to thy judgment.",
+      "finnish_biblia": "Herra, sinun laupiutes on suuri: virvoita minua sinun oikeutes jälkeen. ",
       "king_james": "Great are thy tender mercies, O Lord: quicken me according to thy judgments.",
       "refs": {
         "latin_vulgate": {
+          "src": "118:156"
+        },
+        "douay_rheims": {
           "src": "118:156"
         }
       }
@@ -1725,9 +2507,14 @@
       "verse": 157,
       "latin_vulgate": " Multi qui persequuntur me, et tribulant me ;  a testimoniis tuis non declinavi. ",
       "hebrew_masoretic": "רַ֭בִּים רֹדְפַ֣י וְצָרָ֑י מֵ֝עֵדְוֺתֶ֗יךָ לֹ֣א נָטִֽיתִי׃",
+      "douay_rheims": "Many are they that persecute me and afflict me; but I have not declined from thy testimonies.",
+      "finnish_biblia": "Minun vainoojaani ja vihollistani on monta; mutta en minä poikkee sinun todistuksistas. ",
       "king_james": "Many are my persecutors and mine enemies; yet do I not decline from thy testimonies.",
       "refs": {
         "latin_vulgate": {
+          "src": "118:157"
+        },
+        "douay_rheims": {
           "src": "118:157"
         }
       }
@@ -1736,9 +2523,14 @@
       "verse": 158,
       "latin_vulgate": " Vidi prævaricantes et tabescebam,  quia eloquia tua non custodierunt. ",
       "hebrew_masoretic": "רָאִ֣יתִי בֹ֭גְדִים וָאֶתְקוֹטָ֑טָה אֲשֶׁ֥ר אִ֝מְרָתְךָ֗ לֹ֣א שָׁמָֽרוּ׃",
+      "douay_rheims": "I beheld the transgressors, and pined away; because they kept not thy word.",
+      "finnish_biblia": "Minä näen ylönkatsojat, ja siihen suutun, ettei he sinun sanaas pidä. ",
       "king_james": "I beheld the transgressors, and was grieved; because they kept not thy word.",
       "refs": {
         "latin_vulgate": {
+          "src": "118:158"
+        },
+        "douay_rheims": {
           "src": "118:158"
         }
       }
@@ -1747,9 +2539,14 @@
       "verse": 159,
       "latin_vulgate": " Vide quoniam mandata tua dilexi, Domine :  in misericordia tua vivifica me. ",
       "hebrew_masoretic": "רְ֭אֵה כִּי־פִקּוּדֶ֣יךָ אָהָ֑בְתִּי יְ֝הֹוָ֗ה כְּֽחַסְדְּךָ֥ חַיֵּֽנִי׃",
+      "douay_rheims": "Behold I have loved thy commandments, O Lord; quicken me thou in thy mercy.",
+      "finnish_biblia": "Katso, minä rakastan sinun käskyjäs: Herra, virvoita minua sinun armos jälkeen. ",
       "king_james": "Consider how I love thy precepts: quicken me, O Lord, according to thy lovingkindness.",
       "refs": {
         "latin_vulgate": {
+          "src": "118:159"
+        },
+        "douay_rheims": {
           "src": "118:159"
         }
       }
@@ -1758,9 +2555,14 @@
       "verse": 160,
       "latin_vulgate": " Principium verborum tuorum veritas ;  in æternum omnia judicia justitiæ tuæ.     ",
       "hebrew_masoretic": "רֹאשׁ־דְּבָרְךָ֥ אֱמֶ֑ת וּ֝לְעוֹלָ֗ם כׇּל־מִשְׁפַּ֥ט צִדְקֶֽךָ׃ {פ}",
+      "douay_rheims": "The beginning of thy words is truth: all the judgments of thy justice are for ever.",
+      "finnish_biblia": "Sinun sanas on alusta totuus ollut: kaikki sinun vanhurskautes oikeudet pysyvät ijankaikkisesti. ",
       "king_james": "Thy word is true from the beginning: and every one of thy righteous judgments endureth for ever.",
       "refs": {
         "latin_vulgate": {
+          "src": "118:160"
+        },
+        "douay_rheims": {
           "src": "118:160"
         }
       }
@@ -1769,9 +2571,14 @@
       "verse": 161,
       "latin_vulgate": "  Principes persecuti sunt me gratis,  et a verbis tuis formidavit cor meum. ",
       "hebrew_masoretic": "שָׂ֭רִים רְדָפ֣וּנִי חִנָּ֑ם (ומדבריך) [וּ֝מִדְּבָרְךָ֗] פָּחַ֥ד לִבִּֽי׃",
+      "douay_rheims": "Princes have persecuted me without cause: and my heart hath been in awe of thy words.",
+      "finnish_biblia": "Päämiehet vainoovat minua ilman syytä; mutta minun sydämeni pelkää sinun sanojas. ",
       "king_james": " Princes have persecuted me without a cause: but my heart standeth in awe of thy word.",
       "refs": {
         "latin_vulgate": {
+          "src": "118:161"
+        },
+        "douay_rheims": {
           "src": "118:161"
         }
       }
@@ -1780,9 +2587,14 @@
       "verse": 162,
       "latin_vulgate": " Lætabor ego super eloquia tua,  sicut qui invenit spolia multa. ",
       "hebrew_masoretic": "שָׂ֣שׂ אָ֭נֹכִי עַל־אִמְרָתֶ֑ךָ כְּ֝מוֹצֵ֗א שָׁלָ֥ל רָֽב׃",
+      "douay_rheims": "I will rejoice at thy words, as one that hath found great spoil.",
+      "finnish_biblia": "Minä iloitsen sinun puheestas, niinkuin se joka suuren saaliin löytänyt on. ",
       "king_james": "I rejoice at thy word, as one that findeth great spoil.",
       "refs": {
         "latin_vulgate": {
+          "src": "118:162"
+        },
+        "douay_rheims": {
           "src": "118:162"
         }
       }
@@ -1791,9 +2603,14 @@
       "verse": 163,
       "latin_vulgate": " Iniquitatem odio habui, et abominatus sum,  legem autem tuam dilexi. ",
       "hebrew_masoretic": "שֶׁ֣קֶר שָׂ֭נֵאתִי וַאֲתַעֵ֑בָה תּוֹרָתְךָ֥ אָהָֽבְתִּי׃",
+      "douay_rheims": "I have hated and abhorred iniquity; but I have loved thy law.",
+      "finnish_biblia": "Valhetta minä vihaan ja kauhistun; mutta sinun lakias minä rakastan. ",
       "king_james": "I hate and abhor lying: but thy law do I love.",
       "refs": {
         "latin_vulgate": {
+          "src": "118:163"
+        },
+        "douay_rheims": {
           "src": "118:163"
         }
       }
@@ -1802,9 +2619,14 @@
       "verse": 164,
       "latin_vulgate": " Septies in die laudem dixi tibi,  super judicia justitiæ tuæ. ",
       "hebrew_masoretic": "שֶׁ֣בַע בַּ֭יּוֹם הִלַּלְתִּ֑יךָ עַ֝֗ל מִשְׁפְּטֵ֥י צִדְקֶֽךָ׃",
+      "douay_rheims": "Seven times a day I have given praise to thee, for the judgments of thy justice.",
+      "finnish_biblia": "Seitsemästi päivässä minä kiitän sinua sinun vanhurskautes oikeuden tähden. ",
       "king_james": "Seven times a day do I praise thee because of thy righteous judgments.",
       "refs": {
         "latin_vulgate": {
+          "src": "118:164"
+        },
+        "douay_rheims": {
           "src": "118:164"
         }
       }
@@ -1813,9 +2635,14 @@
       "verse": 165,
       "latin_vulgate": " Pax multa diligentibus legem tuam,  et non est illis scandalum. ",
       "hebrew_masoretic": "שָׁל֣וֹם רָ֭ב לְאֹהֲבֵ֣י תוֹרָתֶ֑ךָ וְאֵֽין־לָ֥מוֹ מִכְשֽׁוֹל׃",
+      "douay_rheims": "Much peace have they that love thy law, and to them there is no stumbling block.",
+      "finnish_biblia": "Suuri rauha on niillä, jotka sinun lakias rakastavat, ja ei he itsiänsä loukkaa. ",
       "king_james": "Great peace have they which love thy law: and nothing shall offend them.",
       "refs": {
         "latin_vulgate": {
+          "src": "118:165"
+        },
+        "douay_rheims": {
           "src": "118:165"
         }
       }
@@ -1824,9 +2651,14 @@
       "verse": 166,
       "latin_vulgate": " Exspectabam salutare tuum, Domine,  et mandata tua dilexi. ",
       "hebrew_masoretic": "שִׂבַּ֣רְתִּי לִישׁוּעָתְךָ֣ יְהֹוָ֑ה וּֽמִצְוֺתֶ֥יךָ עָשִֽׂיתִי׃",
+      "douay_rheims": "I looked for thy salvation, O Lord: and I loved thy commandments.",
+      "finnish_biblia": "Herra! minä odotan sinun autuuttas, ja teen sinun käskys. ",
       "king_james": "Lord, I have hoped for thy salvation, and done thy commandments.",
       "refs": {
         "latin_vulgate": {
+          "src": "118:166"
+        },
+        "douay_rheims": {
           "src": "118:166"
         }
       }
@@ -1835,9 +2667,14 @@
       "verse": 167,
       "latin_vulgate": " Custodivit anima mea testimonia tua,  et dilexit ea vehementer. ",
       "hebrew_masoretic": "שָֽׁמְרָ֣ה נַ֭פְשִׁי עֵדֹתֶ֑יךָ וָאֹהֲבֵ֥ם מְאֹֽד׃",
+      "douay_rheims": "My soul hath kept thy testimonies and hath loved them exceedingly.",
+      "finnish_biblia": "Minun sieluni pitää sinun todistukses, ja minä rakastan niitä sangen suuresti. ",
       "king_james": "My soul hath kept thy testimonies; and I love them exceedingly.",
       "refs": {
         "latin_vulgate": {
+          "src": "118:167"
+        },
+        "douay_rheims": {
           "src": "118:167"
         }
       }
@@ -1846,9 +2683,14 @@
       "verse": 168,
       "latin_vulgate": " Servavi mandata tua et testimonia tua,  quia omnes viæ meæ in conspectu tuo.     ",
       "hebrew_masoretic": "שָׁמַ֣רְתִּי פִ֭קּוּדֶיךָ וְעֵדֹתֶ֑יךָ כִּ֖י כׇל־דְּרָכַ֣י נֶגְדֶּֽךָ׃ {פ}",
+      "douay_rheims": "I have kept thy commandments and thy testimonies: because all my ways are in thy sight.",
+      "finnish_biblia": "Minä pidän sinun käskys ja todistukses; sillä kaikki minun tieni ovat edessäs. ",
       "king_james": "I have kept thy precepts and thy testimonies: for all my ways are before thee.",
       "refs": {
         "latin_vulgate": {
+          "src": "118:168"
+        },
+        "douay_rheims": {
           "src": "118:168"
         }
       }
@@ -1857,9 +2699,14 @@
       "verse": 169,
       "latin_vulgate": "  Appropinquet deprecatio mea in conspectu tuo, Domine ;  juxta eloquium tuum da mihi intellectum. ",
       "hebrew_masoretic": "תִּקְרַ֤ב רִנָּתִ֣י לְפָנֶ֣יךָ יְהֹוָ֑ה כִּדְבָרְךָ֥ הֲבִינֵֽנִי׃",
+      "douay_rheims": "Let my supplication, O Lord, come near in thy sight: give me understanding according to thy word.",
+      "finnish_biblia": "Herra! anna minun huutoni tulla sinun etees: anna minulle ymmärrystä sinun sanas jälkeen. ",
       "king_james": " Let my cry come near before thee, O Lord: give me understanding according to thy word.",
       "refs": {
         "latin_vulgate": {
+          "src": "118:169"
+        },
+        "douay_rheims": {
           "src": "118:169"
         }
       }
@@ -1868,9 +2715,14 @@
       "verse": 170,
       "latin_vulgate": " Intret postulatio mea in conspectu tuo ;  secundum eloquium tuum eripe me. ",
       "hebrew_masoretic": "תָּב֣וֹא תְחִנָּתִ֣י לְפָנֶ֑יךָ כְּ֝אִמְרָתְךָ֗ הַצִּילֵֽנִי׃",
+      "douay_rheims": "Let my request come in before thee; deliver thou me according to thy word.",
+      "finnish_biblia": "Anna minun rukoukseni tulla sinun etees: pelasta minua sinun sanas jälkeen. ",
       "king_james": "Let my supplication come before thee: deliver me according to thy word.",
       "refs": {
         "latin_vulgate": {
+          "src": "118:170"
+        },
+        "douay_rheims": {
           "src": "118:170"
         }
       }
@@ -1879,9 +2731,14 @@
       "verse": 171,
       "latin_vulgate": " Eructabunt labia mea hymnum,  cum docueris me justificationes tuas. ",
       "hebrew_masoretic": "תַּבַּ֣עְנָה שְׂפָתַ֣י תְּהִלָּ֑ה כִּ֖י תְלַמְּדֵ֣נִי חֻקֶּֽיךָ׃",
+      "douay_rheims": "My lips shall utter a hymn, when thou shalt teach me thy justifications.",
+      "finnish_biblia": "Minun huuleni kiittävät, koskas minulle opetat sinun säätys. ",
       "king_james": "My lips shall utter praise, when thou hast taught me thy statutes.",
       "refs": {
         "latin_vulgate": {
+          "src": "118:171"
+        },
+        "douay_rheims": {
           "src": "118:171"
         }
       }
@@ -1890,9 +2747,14 @@
       "verse": 172,
       "latin_vulgate": " Pronuntiabit lingua mea eloquium tuum,  quia omnia mandata tua æquitas. ",
       "hebrew_masoretic": "תַּ֣עַן לְ֭שׁוֹנִי אִמְרָתֶ֑ךָ כִּ֖י כׇל־מִצְוֺתֶ֣יךָ צֶּֽדֶק׃",
+      "douay_rheims": "My tongue shall pronounce thy word: because all thy commandments are justice.",
+      "finnish_biblia": "Minun kieleni puhuu sinun sanastas; sillä kaikki sinun käskys ovat vanhurskaat. ",
       "king_james": "My tongue shall speak of thy word: for all thy commandments are righteousness.",
       "refs": {
         "latin_vulgate": {
+          "src": "118:172"
+        },
+        "douay_rheims": {
           "src": "118:172"
         }
       }
@@ -1901,9 +2763,14 @@
       "verse": 173,
       "latin_vulgate": " Fiat manus tua ut salvet me,  quoniam mandata tua elegi. ",
       "hebrew_masoretic": "תְּהִי־יָדְךָ֥ לְעׇזְרֵ֑נִי כִּ֖י פִקּוּדֶ֣יךָ בָחָֽרְתִּי׃",
+      "douay_rheims": "Let thy hand be with me to save me; for I have chosen thy precepts.",
+      "finnish_biblia": "Olkoon sinun kätes minulle avullinen; sillä minä olen valinnut sinun käskys. ",
       "king_james": "Let thine hand help me; for I have chosen thy precepts.",
       "refs": {
         "latin_vulgate": {
+          "src": "118:173"
+        },
+        "douay_rheims": {
           "src": "118:173"
         }
       }
@@ -1912,9 +2779,14 @@
       "verse": 174,
       "latin_vulgate": " Concupivi salutare tuum, Domine,  et lex tua meditatio mea est. ",
       "hebrew_masoretic": "תָּאַ֣בְתִּי לִישׁוּעָתְךָ֣ יְהֹוָ֑ה וְ֝ת֥וֹרָתְךָ֗ שַׁעֲשֻׁעָֽי׃",
+      "douay_rheims": "I have longed for thy salvation, O Lord; and thy law is my meditation.",
+      "finnish_biblia": "Herra, minä ikävöitsen sinun autuuttas, ja halajan sinun lakias. ",
       "king_james": "I have longed for thy salvation, O Lord; and thy law is my delight.",
       "refs": {
         "latin_vulgate": {
+          "src": "118:174"
+        },
+        "douay_rheims": {
           "src": "118:174"
         }
       }
@@ -1923,9 +2795,14 @@
       "verse": 175,
       "latin_vulgate": " Vivet anima mea, et laudabit te,  et judicia tua adjuvabunt me. ",
       "hebrew_masoretic": "תְּֽחִי־נַ֭פְשִׁי וּֽתְהַלְלֶ֑ךָּ וּֽמִשְׁפָּטֶ֥ךָ יַעְזְרֻֽנִי׃",
+      "douay_rheims": "My soul shall live and shall praise thee: and thy judgments shall help me.",
+      "finnish_biblia": "Anna minun sieluni elää, että hän sinua kiittäis, ja sinun oikeutes auttakoon minua! ",
       "king_james": "Let my soul live, and it shall praise thee; and let thy judgments help me.",
       "refs": {
         "latin_vulgate": {
+          "src": "118:175"
+        },
+        "douay_rheims": {
           "src": "118:175"
         }
       }
@@ -1934,9 +2811,14 @@
       "verse": 176,
       "latin_vulgate": " Erravi sicut ovis quæ periit : quære servum tuum,  quia mandata tua non sum oblitus.  ",
       "hebrew_masoretic": "תָּעִ֗יתִי כְּשֶׂ֣ה אֹ֭בֵד בַּקֵּ֣שׁ עַבְדֶּ֑ךָ כִּ֥י מִ֝צְוֺתֶ֗יךָ לֹ֣א שָׁכָֽחְתִּי׃ {פ}",
+      "douay_rheims": "I have gone astray like a sheep that is lost: seek thy servant, because I have not forgotten thy commandments. ",
+      "finnish_biblia": "Minä olen eksyvä niinkuin kadotettu lammas, etsi sinun palveliaas; sillä en minä unohda sinun käskyjäs.   ",
       "king_james": "I have gone astray like a lost sheep; seek thy servant; for I do not forget thy commandments. ",
       "refs": {
         "latin_vulgate": {
+          "src": "118:176"
+        },
+        "douay_rheims": {
           "src": "118:176"
         }
       }

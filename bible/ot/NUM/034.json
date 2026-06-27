@@ -2,6 +2,8 @@
   "book_id": "NUM",
   "latin_name": "Numeri",
   "hebrew_name": "בְּמִדְבַּר",
+  "douay_name": "Numbers",
+  "finnish_name": "4. Mooseksen kirja",
   "english_name": "Numbers",
   "chapter": 34,
   "verses": [
@@ -9,174 +11,232 @@
       "verse": 1,
       "latin_vulgate": "Locutusque est Dominus ad Moysen, dicens : ",
       "hebrew_masoretic": "וַיְדַבֵּ֥ר יְהֹוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃",
+      "douay_rheims": "And the Lord spoke to Moses, saying:",
+      "finnish_biblia": "Ja Herra puhui Mosekselle, sanoen: ",
       "king_james": "And the Lord spake unto Moses, saying,"
     },
     {
       "verse": 2,
       "latin_vulgate": "Præcipe filiis Israël, et dices ad eos : Cum ingressi fueritis terram Chanaan, et in possessionem vobis sorte ceciderit, his finibus terminabitur. ",
       "hebrew_masoretic": "צַ֞ו אֶת־בְּנֵ֤י יִשְׂרָאֵל֙ וְאָמַרְתָּ֣ אֲלֵהֶ֔ם כִּֽי־אַתֶּ֥ם בָּאִ֖ים אֶל־הָאָ֣רֶץ כְּנָ֑עַן זֹ֣את הָאָ֗רֶץ אֲשֶׁ֨ר תִּפֹּ֤ל לָכֶם֙ בְּֽנַחֲלָ֔ה אֶ֥רֶץ כְּנַ֖עַן לִגְבֻלֹתֶֽיהָ׃",
+      "douay_rheims": "Command the children of Israel, and thou shalt say to them: When you are entered into the land of Chanaan, and it shall be fallen into your possession by lot, it shall be bounded by these limits:",
+      "finnish_biblia": "Käske Israelin lapsille, ja sano heille: kuin te tulette Kanaanin maalle, niin pitää se maa oleman se, joka teille perimiseksi lankee, Kanaanin maa rajainsa jälkeen. ",
       "king_james": "Command the children of Israel, and say unto them, When ye come into the land of Canaan; (this is the land that shall fall unto you for an inheritance, even the land of Canaan with the coasts thereof:)"
     },
     {
       "verse": 3,
       "latin_vulgate": "Pars meridiana incipiet a solitudine Sin, quæ est juxta Edom : et habebit terminos contra orientem mare salsissimum. ",
       "hebrew_masoretic": "וְהָיָ֨ה לָכֶ֧ם פְּאַת־נֶ֛גֶב מִמִּדְבַּר־צִ֖ן עַל־יְדֵ֣י אֱד֑וֹם וְהָיָ֤ה לָכֶם֙ גְּב֣וּל נֶ֔גֶב מִקְצֵ֥ה יָם־הַמֶּ֖לַח קֵֽדְמָה׃",
+      "douay_rheims": "The south side shall begin from the wilderness of Sin, which is by Edom: and shall have the most salt sea for its furthest limits eastward:",
+      "finnish_biblia": "Etelän puoli pitää rupeeman Sinin korvesta Edomin tyköä, niin että teidän rajanne etelään päin pitää käymän Suolaisen meren äärestä, joka itään päin on. ",
       "king_james": "Then your south quarter shall be from the wilderness of Zin along by the coast of Edom, and your south border shall be the outmost coast of the salt sea eastward:"
     },
     {
       "verse": 4,
       "latin_vulgate": "Qui circuibunt australem plagam per ascensum Scorpionis, ita ut transeant in Senna, et perveniant a meridie usque ad Cadesbarne, unde egredientur confinia ad villam nomine Adar, et tendent usque ad Asemona. ",
       "hebrew_masoretic": "וְנָסַ֣ב לָכֶם֩ הַגְּב֨וּל מִנֶּ֜גֶב לְמַעֲלֵ֤ה עַקְרַבִּים֙ וְעָ֣בַר צִ֔נָה (והיה) [וְהָיוּ֙] תּֽוֹצְאֹתָ֔יו מִנֶּ֖גֶב לְקָדֵ֣שׁ בַּרְנֵ֑עַ וְיָצָ֥א חֲצַר־אַדָּ֖ר וְעָבַ֥ר עַצְמֹֽנָה׃",
+      "douay_rheims": "Which limits shall go round on the south side by the ascent of the Scorpion and so into Senna, and reach toward the south as far as Cadesbarne, from whence the frontiers shall go out to the town called Adar, and shall reach as far as Asemona.",
+      "finnish_biblia": "Ja se raja pitää teille käymän ympäri etelästä Akrabimin palttaa myöten ja menemän Siniin, niin että sen uloskäyminen eteläpuolelta on KadesBarneaan päin, että se ulottuu Hatsar Adariin, ja menee Asmoniin. ",
       "king_james": "And your border shall turn from the south to the ascent of Akrabbim, and pass on to Zin: and the going forth thereof shall be from the south to Kadesh–barnea, and shall go on to Hazar–addar, and pass on to Azmon:"
     },
     {
       "verse": 5,
       "latin_vulgate": "Ibitque per gyrum terminus ab Asemona usque ad torrentem Ægypti, et maris magni littore finietur. ",
       "hebrew_masoretic": "וְנָסַ֧ב הַגְּב֛וּל מֵעַצְמ֖וֹן נַ֣חְלָה מִצְרָ֑יִם וְהָי֥וּ תוֹצְאֹתָ֖יו הַיָּֽמָּה׃",
+      "douay_rheims": "And the limits shall fetch a compass from Asemona to the torrent of Egypt, and shall end in the shore of the great sea.",
+      "finnish_biblia": "Sitte pitää rajan menemän ympäri Asmonista Egyptin virtaan asti, niin että sen loppu on meressä. ",
       "king_james": "And the border shall fetch a compass from Azmon unto the river of Egypt, and the goings out of it shall be at the sea."
     },
     {
       "verse": 6,
       "latin_vulgate": "Plaga autem occidentalis a mari magno incipiet, et ipso fine claudetur. ",
       "hebrew_masoretic": "וּגְב֣וּל יָ֔ם וְהָיָ֥ה לָכֶ֛ם הַיָּ֥ם הַגָּד֖וֹל וּגְב֑וּל זֶֽה־יִהְיֶ֥ה לָכֶ֖ם גְּב֥וּל יָֽם׃",
+      "douay_rheims": "And the west side shall begin from the great sea, and the same shall be the end thereof.",
+      "finnish_biblia": "Mutta raja länteen päin pitää oleman teille suuri meri: se pitää oleman teidän maanne ääri länteen päin. ",
       "king_james": "And as for the western border, ye shall even have the great sea for a border: this shall be your west border."
     },
     {
       "verse": 7,
       "latin_vulgate": "Porro ad septentrionalem plagam a mari magno termini incipient, pervenientes usque ad montem altissimum, ",
       "hebrew_masoretic": "וְזֶֽה־יִהְיֶ֥ה לָכֶ֖ם גְּב֣וּל צָפ֑וֹן מִן־הַיָּם֙ הַגָּדֹ֔ל תְּתָא֥וּ לָכֶ֖ם הֹ֥ר הָהָֽר׃",
+      "douay_rheims": "But toward the north side the borders shall begin from the great sea, reaching to the most high mountain,",
+      "finnish_biblia": "Ja tämä pitää raja pohjaa päin oleman: teidän pitää määräämän sen suuresta merestä hamaan Horin vuoreen asti, ",
       "king_james": "And this shall be your north border: from the great sea ye shall point out for you mount Hor:"
     },
     {
       "verse": 8,
       "latin_vulgate": "a quo venient in Emath usque ad terminos Sedada : ",
       "hebrew_masoretic": "מֵהֹ֣ר הָהָ֔ר תְּתָא֖וּ לְבֹ֣א חֲמָ֑ת וְהָי֛וּ תּוֹצְאֹ֥ת הַגְּבֻ֖ל צְדָֽדָה׃",
+      "douay_rheims": "From which they shall come to Emath, as far as the borders of Sedada:",
+      "finnish_biblia": "Ja Horin vuoresta määräämän siihenasti että Hamatiin tullaan, niin että rajan loppu on Zedassa. ",
       "king_james": "From mount Hor ye shall point out your border unto the entrance of Hamath; and the goings forth of the border shall be to Zedad:"
     },
     {
       "verse": 9,
       "latin_vulgate": "ibuntque confinia usque ad Zephrona, et villam Enan. Hi erunt termini in parte aquilonis. ",
       "hebrew_masoretic": "וְיָצָ֤א הַגְּבֻל֙ זִפְרֹ֔נָה וְהָי֥וּ תוֹצְאֹתָ֖יו חֲצַ֣ר עֵינָ֑ן זֶֽה־יִהְיֶ֥ה לָכֶ֖ם גְּב֥וּל צָפֽוֹן׃",
+      "douay_rheims": "And the limits shall go as far as Zephrona, and the village of Enan. These shall be the borders on the north side.",
+      "finnish_biblia": "Ja raja menköön Ziphroniin ja sen loppu olkoon HatsarEnanissa. Se olkoon rajanne pohjoista päin. ",
       "king_james": "And the border shall go on to Ziphron, and the goings out of it shall be at Hazar–enan: this shall be your north border."
     },
     {
       "verse": 10,
       "latin_vulgate": "Inde metabuntur fines contra orientalem plagam de villa Enan usque Sephama, ",
       "hebrew_masoretic": "וְהִתְאַוִּיתֶ֥ם לָכֶ֖ם לִגְב֣וּל קֵ֑דְמָה מֵחֲצַ֥ר עֵינָ֖ן שְׁפָֽמָה׃",
+      "douay_rheims": "From thence they shall mark out the grounds towards the east side from the village of Enan unto Sephama.",
+      "finnish_biblia": "Ja pitää myös määräämän rajanne itään päin, Enanista niin Sephamiin. ",
       "king_james": "And ye shall point out your east border from Hazar–enan to Shepham:"
     },
     {
       "verse": 11,
       "latin_vulgate": "et de Sephama descendent termini in Rebla contra fontem Daphnim : inde pervenient contra orientem ad mare Cenereth, ",
       "hebrew_masoretic": "וְיָרַ֨ד הַגְּבֻ֧ל מִשְּׁפָ֛ם הָרִבְלָ֖ה מִקֶּ֣דֶם לָעָ֑יִן וְיָרַ֣ד הַגְּבֻ֔ל וּמָחָ֛ה עַל־כֶּ֥תֶף יָם־כִּנֶּ֖רֶת קֵֽדְמָה׃",
+      "douay_rheims": "And from Sephama the bounds shall go down to Rebla over against the fountain of Daphnis: from thence they shall come eastward to the sea of Cenereth,",
+      "finnish_biblia": "Ja raja menkään alas Sephamista Riblaan, Ainin itäpuolella; sitte juoskaan alaspäin, ja menkään Kinneretin meren sivutse idän puolella, ",
       "king_james": "And the coast shall go down from Shepham to Riblah, on the east side of Ain; and the border shall descend, and shall reach unto the side of the sea of Chinnereth eastward:"
     },
     {
       "verse": 12,
       "latin_vulgate": "et tendent usque ad Jordanem, et ad ultimum salsissimo claudentur mari. Hanc habebitis terram per fines suos in circuitu.  ",
       "hebrew_masoretic": "וְיָרַ֤ד הַגְּבוּל֙ הַיַּרְדֵּ֔נָה וְהָי֥וּ תוֹצְאֹתָ֖יו יָ֣ם הַמֶּ֑לַח זֹאת֩ תִּהְיֶ֨ה לָכֶ֥ם הָאָ֛רֶץ לִגְבֻלֹתֶ֖יהָ סָבִֽיב׃",
+      "douay_rheims": "And shall reach as far as the Jordan, and at the last shall be closed in by the most salt sea. This shall be your land with its borders round about.",
+      "finnish_biblia": "Ja tulkaan raja alas Jordaniin päin ja sen loppu olkoon Suolainen meri. Sen pitää oleman teidän maanne, rajoinensa joka taholta. ",
       "king_james": "And the border shall go down to Jordan, and the goings out of it shall be at the salt sea: this shall be your land with the coasts thereof round about."
     },
     {
       "verse": 13,
       "latin_vulgate": " Præcepitque Moyses filiis Israël, dicens : Hæc erit terra, quam possidebitis sorte, et quam jussit Dominus dari novem tribubus, et dimidiæ tribui. ",
       "hebrew_masoretic": "וַיְצַ֣ו מֹשֶׁ֔ה אֶת־בְּנֵ֥י יִשְׂרָאֵ֖ל לֵאמֹ֑ר זֹ֣את הָאָ֗רֶץ אֲשֶׁ֨ר תִּתְנַחֲל֤וּ אֹתָהּ֙ בְּגוֹרָ֔ל אֲשֶׁר֙ צִוָּ֣ה יְהֹוָ֔ה לָתֵ֛ת לְתִשְׁעַ֥ת הַמַּטּ֖וֹת וַחֲצִ֥י הַמַּטֶּֽה׃",
+      "douay_rheims": "And Moses commanded the children of Israel, saying: This shall be the land which you shall possess by lot, and which the Lord hath commanded to be given to the nine tribes, and to the half tribe.",
+      "finnish_biblia": "Ja Moses käski Israelin lapsille ja sanoi: tämä on maa, jonka teidän pitää jakaman keskenänne arvalla, jonka Herra käski antaa niille yhdeksälle sukukunnalle, ja sille puolelle sukukunnalle; ",
       "king_james": "And Moses commanded the children of Israel, saying, This is the land which ye shall inherit by lot, which the Lord commanded to give unto the nine tribes, and to the half tribe:"
     },
     {
       "verse": 14,
       "latin_vulgate": "Tribus enim filiorum Ruben per familias suas, et tribus filiorum Gad juxta cognationum numerum, media quoque tribus Manasse, ",
       "hebrew_masoretic": "כִּ֣י לָקְח֞וּ מַטֵּ֨ה בְנֵ֤י הָראוּבֵנִי֙ לְבֵ֣ית אֲבֹתָ֔ם וּמַטֵּ֥ה בְנֵֽי־הַגָּדִ֖י לְבֵ֣ית אֲבֹתָ֑ם וַחֲצִי֙ מַטֵּ֣ה מְנַשֶּׁ֔ה לָקְח֖וּ נַחֲלָתָֽם׃",
+      "douay_rheims": "For the tribe of the children of Ruben by their families, and the tribe of the children of Gad according to the number of their kindreds, and half of the tribe of Manasses,",
+      "finnish_biblia": "Sillä Rubenin lasten sukukunta, heidän isäinsä huoneen jälkeen, ja Gadin lasten sukukunta heidän isäinsä huoneen jälkeen, ja puoli Manassen sukukuntaa ovat jo ottaneet osansa. ",
       "king_james": "For the tribe of the children of Reuben according to the house of their fathers, and the tribe of the children of Gad according to the house of their fathers, have received their inheritance; and half the tribe of Manasseh have received their inheritance:"
     },
     {
       "verse": 15,
       "latin_vulgate": "id est, duæ semis tribus, acceperunt partem suam trans Jordanem contra Jericho ad orientalem plagam. ",
       "hebrew_masoretic": "שְׁנֵ֥י הַמַּטּ֖וֹת וַחֲצִ֣י הַמַּטֶּ֑ה לָקְח֣וּ נַחֲלָתָ֗ם מֵעֵ֛בֶר לְיַרְדֵּ֥ן יְרֵח֖וֹ קֵ֥דְמָה מִזְרָֽחָה׃ {פ}",
+      "douay_rheims": "That is, two tribes and a half, have received their portion beyond the Jordan over against Jericho at the east side.",
+      "finnish_biblia": "Niin ovat ne kaksi sukukuntaa, ja se puoli sukukuntaa saaneet perintöosansa tällä puolella Jordania, Jerihon kohdalle itää päin. ",
       "king_james": "The two tribes and the half tribe have received their inheritance on this side Jordan near Jericho eastward, toward the sunrising."
     },
     {
       "verse": 16,
       "latin_vulgate": "Et ait Dominus ad Moysen : ",
       "hebrew_masoretic": "וַיְדַבֵּ֥ר יְהֹוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃",
+      "douay_rheims": "And the Lord said to Moses:",
+      "finnish_biblia": "Ja Herra puhui Mosekselle, sanoen: ",
       "king_james": "And the Lord spake unto Moses, saying,"
     },
     {
       "verse": 17,
       "latin_vulgate": "Hæc sunt nomina virorum qui terram vobis divident, Eleazar sacerdos, et Josue filius Nun, ",
       "hebrew_masoretic": "אֵ֚לֶּה שְׁמ֣וֹת הָֽאֲנָשִׁ֔ים אֲשֶׁר־יִנְחֲל֥וּ לָכֶ֖ם אֶת־הָאָ֑רֶץ אֶלְעָזָר֙ הַכֹּהֵ֔ן וִיהוֹשֻׁ֖עַ בִּן־נֽוּן׃",
+      "douay_rheims": "These are the names of the men, that shall divide the land unto you: Eleazar the priest, and Josue the son of Nun,",
+      "finnish_biblia": "Nämät ovat miesten nimet, joiden pitää jakaman maan teille: pappi Eleatsar ja Josua Nunin poika. ",
       "king_james": "These are the names of the men which shall divide the land unto you: Eleazar the priest, and Joshua the son of Nun."
     },
     {
       "verse": 18,
       "latin_vulgate": "et singuli principes de tribubus singulis, ",
       "hebrew_masoretic": "וְנָשִׂ֥יא אֶחָ֛ד נָשִׂ֥יא אֶחָ֖ד מִמַּטֶּ֑ה תִּקְח֖וּ לִנְחֹ֥ל אֶת־הָאָֽרֶץ׃",
+      "douay_rheims": "And one prince of every tribe,",
+      "finnish_biblia": "Siihen pitää myös teidän ottaman yhden päämiehen jokaisesta sukukunnasta, maata jakamaan. ",
       "king_james": "And ye shall take one prince of every tribe, to divide the land by inheritance."
     },
     {
       "verse": 19,
       "latin_vulgate": "quorum ista sunt vocabula. De tribu Juda, Caleb filius Jephone. ",
       "hebrew_masoretic": "וְאֵ֖לֶּה שְׁמ֣וֹת הָאֲנָשִׁ֑ים לְמַטֵּ֣ה יְהוּדָ֔ה כָּלֵ֖ב בֶּן־יְפֻנֶּֽה׃",
+      "douay_rheims": "Whose names are these: Of the tribe of Juda, Caleb the son of Jephone.",
+      "finnish_biblia": "Ja nämät ovat miesten nimet: Juudan sukukunnasta, Kaleb Jephunnen poika; ",
       "king_james": "And the names of the men are these: Of the tribe of Judah, Caleb the son of Jephunneh."
     },
     {
       "verse": 20,
       "latin_vulgate": "De tribu Simeon, Samuel filius Ammiud. ",
       "hebrew_masoretic": "וּלְמַטֵּה֙ בְּנֵ֣י שִׁמְע֔וֹן שְׁמוּאֵ֖ל בֶּן־עַמִּיהֽוּד׃",
+      "douay_rheims": "Of the tribe of Simeon, Samuel the son of Ammiud.",
+      "finnish_biblia": "Simeonin lasten sukukunnasta, Semuel Ammihudin poika; ",
       "king_james": "And of the tribe of the children of Simeon, Shemuel the son of Ammihud."
     },
     {
       "verse": 21,
       "latin_vulgate": "De tribu Benjamin, Elidad filius Chaselon. ",
       "hebrew_masoretic": "לְמַטֵּ֣ה בִנְיָמִ֔ן אֱלִידָ֖ד בֶּן־כִּסְלֽוֹן׃",
+      "douay_rheims": "Of the tribe of Benjamin, Elidad the son of Chaselon.",
+      "finnish_biblia": "BenJaminin sukukunnasta, Elidad Kislonin poika; ",
       "king_james": "Of the tribe of Benjamin, Elidad the son of Chislon."
     },
     {
       "verse": 22,
       "latin_vulgate": "De tribu filiorum Dan, Bocci filius Jogli. ",
       "hebrew_masoretic": "וּלְמַטֵּ֥ה בְנֵי־דָ֖ן נָשִׂ֑יא בֻּקִּ֖י בֶּן־יׇגְלִֽי׃",
+      "douay_rheims": "Of the tribe of the children of Dan, Bocci the son of Jogli.",
+      "finnish_biblia": "Danin lasten sukukunnan päämies, Bukki Joglin poika; ",
       "king_james": "And the prince of the tribe of the children of Dan, Bukki the son of Jogli."
     },
     {
       "verse": 23,
       "latin_vulgate": "Filiorum Joseph de tribu Manasse, Hanniel filius Ephod. ",
       "hebrew_masoretic": "לִבְנֵ֣י יוֹסֵ֔ף לְמַטֵּ֥ה בְנֵֽי־מְנַשֶּׁ֖ה נָשִׂ֑יא חַנִּיאֵ֖ל בֶּן־אֵפֹֽד׃",
+      "douay_rheims": "Of the children of Joseph of the tribe of Manasses, Hanniel the son of Ephod.",
+      "finnish_biblia": "Josephin lapsista, Manassen sukukunnan päämies, Haniel Ephodin poika; ",
       "king_james": "The prince of the children of Joseph, for the tribe of the children of Manasseh, Hanniel the son of Ephod."
     },
     {
       "verse": 24,
       "latin_vulgate": "De tribu Ephraim, Camuel filius Sephthan. ",
       "hebrew_masoretic": "וּלְמַטֵּ֥ה בְנֵֽי־אֶפְרַ֖יִם נָשִׂ֑יא קְמוּאֵ֖ל בֶּן־שִׁפְטָֽן׃",
+      "douay_rheims": "Of the tribe of Ephraim, Camuel the son of Sephtan.",
+      "finnish_biblia": "Ephraimin lasten sukukunnan päämies, Kemuel Siphtanin poika; ",
       "king_james": "And the prince of the tribe of the children of Ephraim, Kemuel the son of Shiphtan."
     },
     {
       "verse": 25,
       "latin_vulgate": "De tribu Zabulon, Elisaphan filius Pharnach. ",
       "hebrew_masoretic": "וּלְמַטֵּ֥ה בְנֵֽי־זְבוּלֻ֖ן נָשִׂ֑יא אֱלִיצָפָ֖ן בֶּן־פַּרְנָֽךְ׃",
+      "douay_rheims": "Of the tribe of Zabulon, Elisaphan the son of Pharnach.",
+      "finnish_biblia": "Sebulonin lasten sukukunnan päämies, Elitsaphan Parnakin poika; ",
       "king_james": "And the prince of the tribe of the children of Zebulun, Elizaphan the son of Parnach."
     },
     {
       "verse": 26,
       "latin_vulgate": "De tribu Issachar, dux Phaltiel filius Ozan. ",
       "hebrew_masoretic": "וּלְמַטֵּ֥ה בְנֵֽי־יִשָּׂשכָ֖ר נָשִׂ֑יא פַּלְטִיאֵ֖ל בֶּן־עַזָּֽן׃",
+      "douay_rheims": "Of the tribe of Issachar, Phaltiel the prince, the son of Ozan.",
+      "finnish_biblia": "Isaskarin lasten sukukunnan päämies, Patiel Assan poika; ",
       "king_james": "And the prince of the tribe of the children of Issachar, Paltiel the son of Azzan."
     },
     {
       "verse": 27,
       "latin_vulgate": "De tribu Aser, Ahiud filius Salomi. ",
       "hebrew_masoretic": "וּלְמַטֵּ֥ה בְנֵי־אָשֵׁ֖ר נָשִׂ֑יא אֲחִיה֖וּד בֶּן־שְׁלֹמִֽי׃",
+      "douay_rheims": "Of the tribe of Aser, Ahiud the son of Salomi.",
+      "finnish_biblia": "Asserin lasten sukukunnan päämies, Ahihud Selomin poika; ",
       "king_james": "And the prince of the tribe of the children of Asher, Ahihud the son of Shelomi."
     },
     {
       "verse": 28,
       "latin_vulgate": "De tribu Nephthali, Phedaël filius Ammiud. ",
       "hebrew_masoretic": "וּלְמַטֵּ֥ה בְנֵֽי־נַפְתָּלִ֖י נָשִׂ֑יא פְּדַהְאֵ֖ל בֶּן־עַמִּיהֽוּד׃",
+      "douay_rheims": "Of the tribe of Nephtali: Phedael the son of Ammiud.",
+      "finnish_biblia": "Naphtalin lasten sukukunnan päämies, Pedahel Ammihudin poika. ",
       "king_james": "And the prince of the tribe of the children of Naphtali, Pedahel the son of Ammihud."
     },
     {
       "verse": 29,
       "latin_vulgate": "Hi sunt, quibus præcepit Dominus ut dividerent filiis Israël terram Chanaan.   ",
       "hebrew_masoretic": "אֵ֕לֶּה אֲשֶׁ֖ר צִוָּ֣ה יְהֹוָ֑ה לְנַחֵ֥ל אֶת־בְּנֵֽי־יִשְׂרָאֵ֖ל בְּאֶ֥רֶץ כְּנָֽעַן׃ {פ}",
+      "douay_rheims": "These are they Whom the Lord hath commanded to divide the land of Chanaan to the children of Israel. ",
+      "finnish_biblia": "Nämät ovat ne jotka Herra käskenyt on Israelin lasten perintöosaa jakamaan Kanaanin maalla.   ",
       "king_james": "These are they whom the Lord commanded to divide the inheritance unto the children of Israel in the land of Canaan. "
     }
   ]

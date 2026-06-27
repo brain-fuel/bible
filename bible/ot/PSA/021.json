@@ -2,6 +2,8 @@
   "book_id": "PSA",
   "latin_name": "Liber Psalmorum",
   "hebrew_name": "תְּהִלִּים",
+  "douay_name": "Psalms",
+  "finnish_name": "Psalmit",
   "english_name": "Psalms",
   "chapter": 21,
   "verses": [
@@ -9,6 +11,8 @@
       "verse": 1,
       "latin_vulgate": "  Domine, in virtute tua lætabitur rex,  et super salutare tuum exsultabit vehementer. ",
       "hebrew_masoretic": "יְֽהֹוָ֗ה בְּעׇזְּךָ֥ יִשְׂמַח־מֶ֑לֶךְ וּ֝בִישׁ֥וּעָתְךָ֗ מַה־[יָּ֥גֶל] (יגיל) מְאֹֽד׃",
+      "douay_rheims": "In thy strength, O Lord, the king shall joy; and in thy salvation he shall rejoice exceedingly.",
+      "finnish_biblia": "Davidin Psalmi, edelläveisaajalle. (H21:2) Herra, Kuningas riemuitsee sinun voimassas: ja kuinka suuresti hän iloitsee avustas! ",
       "king_james": "The king shall joy in thy strength, O Lord; and in thy salvation how greatly shall he rejoice!",
       "refs": {
         "latin_vulgate": {
@@ -16,6 +20,9 @@
         },
         "hebrew_masoretic": {
           "src": "21:2"
+        },
+        "douay_rheims": {
+          "src": "20:2"
         }
       }
     },
@@ -23,6 +30,8 @@
       "verse": 2,
       "latin_vulgate": " Desiderium cordis ejus tribuisti ei,  et voluntate labiorum ejus non fraudasti eum. ",
       "hebrew_masoretic": "תַּאֲוַ֣ת לִ֭בּוֹ נָתַ֣תָּה לּ֑וֹ וַאֲרֶ֥שֶׁת שְׂ֝פָתָ֗יו בַּל־מָנַ֥עְתָּ סֶּֽלָה׃",
+      "douay_rheims": "Thou hast given him his heart's desire: and hast not withholden from him the will of his lips.",
+      "finnish_biblia": "Hänen sydämensä halun sinä annat hänelle, etkä kiellä, mitä hänen suunsa anoo, Sela! ",
       "king_james": "Thou hast given him his heart’s desire, and hast not withholden the request of his lips. Selah.",
       "refs": {
         "latin_vulgate": {
@@ -30,6 +39,9 @@
         },
         "hebrew_masoretic": {
           "src": "21:3"
+        },
+        "douay_rheims": {
+          "src": "20:3"
         }
       }
     },
@@ -37,6 +49,8 @@
       "verse": 3,
       "latin_vulgate": " Quoniam prævenisti eum in benedictionibus dulcedinis ;  posuisti in capite ejus coronam de lapide pretioso. ",
       "hebrew_masoretic": "כִּֽי־תְ֭קַדְּמֶנּוּ בִּרְכ֣וֹת ט֑וֹב תָּשִׁ֥ית לְ֝רֹאשׁ֗וֹ עֲטֶ֣רֶת פָּֽז׃",
+      "douay_rheims": "For thou hast prevented him with blessings of sweetness: thou hast set on his head a crown of precious stones.",
+      "finnish_biblia": "Sillä sinä ennätät hänen hyvällä siunauksella: sinä panet kultaisen kruunun hänen päähänsä. ",
       "king_james": "For thou preventest him with the blessings of goodness: thou settest a crown of pure gold on his head.",
       "refs": {
         "latin_vulgate": {
@@ -44,6 +58,9 @@
         },
         "hebrew_masoretic": {
           "src": "21:4"
+        },
+        "douay_rheims": {
+          "src": "20:4"
         }
       }
     },
@@ -51,6 +68,8 @@
       "verse": 4,
       "latin_vulgate": " Vitam petiit a te, et tribuisti ei longitudinem dierum,  in sæculum, et in sæculum sæculi. ",
       "hebrew_masoretic": "חַיִּ֤ים ׀ שָׁאַ֣ל מִ֭מְּךָ נָתַ֣תָּה לּ֑וֹ אֹ֥רֶךְ יָ֝מִ֗ים עוֹלָ֥ם וָעֶֽד׃",
+      "douay_rheims": "He asked life of thee: and thou hast given him length of days for ever and ever.",
+      "finnish_biblia": "Hän anoi elämää sinulta, niin sinä annoit hänelle pitkän ijän aina ja ijankaikkisesti. ",
       "king_james": "He asked life of thee, and thou gavest it him, even length of days for ever and ever.",
       "refs": {
         "latin_vulgate": {
@@ -58,6 +77,9 @@
         },
         "hebrew_masoretic": {
           "src": "21:5"
+        },
+        "douay_rheims": {
+          "src": "20:5"
         }
       }
     },
@@ -65,6 +87,8 @@
       "verse": 5,
       "latin_vulgate": " Magna est gloria ejus in salutari tuo ;  gloriam et magnum decorem impones super eum. ",
       "hebrew_masoretic": "גָּד֣וֹל כְּ֭בוֹדוֹ בִּישׁוּעָתֶ֑ךָ ה֥וֹד וְ֝הָדָ֗ר תְּשַׁוֶּ֥ה עָלָֽיו׃",
+      "douay_rheims": "His glory is great in thy salvation: glory and great beauty shalt thou lay upon him.",
+      "finnish_biblia": "Hänellä on suuri kunnia sinun avustas: sinä panet ylistyksen ja kaunistuksen hänen päällensä. ",
       "king_james": "His glory is great in thy salvation: honour and majesty hast thou laid upon him.",
       "refs": {
         "latin_vulgate": {
@@ -72,6 +96,9 @@
         },
         "hebrew_masoretic": {
           "src": "21:6"
+        },
+        "douay_rheims": {
+          "src": "20:6"
         }
       }
     },
@@ -79,6 +106,8 @@
       "verse": 6,
       "latin_vulgate": " Quoniam dabis eum in benedictionem in sæculum sæculi ;  lætificabis eum in gaudio cum vultu tuo. ",
       "hebrew_masoretic": "כִּֽי־תְשִׁיתֵ֣הוּ בְרָכ֣וֹת לָעַ֑ד תְּחַדֵּ֥הוּ בְ֝שִׂמְחָ֗ה אֶת־פָּנֶֽיךָ׃",
+      "douay_rheims": "For thou shalt give him to be a blessing for ever and ever: thou shalt make him joyful in gladness with thy countenance.",
+      "finnish_biblia": "Sillä sinä asetat hänen siunaukseksi ijankaikkisesti: sinä ilahutat hänen kasvois edessä ilolla. ",
       "king_james": "For thou hast made him most blessed for ever: thou hast made him exceeding glad with thy countenance.",
       "refs": {
         "latin_vulgate": {
@@ -86,6 +115,9 @@
         },
         "hebrew_masoretic": {
           "src": "21:7"
+        },
+        "douay_rheims": {
+          "src": "20:7"
         }
       }
     },
@@ -93,6 +125,8 @@
       "verse": 7,
       "latin_vulgate": " Quoniam rex sperat in Domino,  et in misericordia Altissimi non commovebitur. ",
       "hebrew_masoretic": "כִּֽי־הַ֭מֶּלֶךְ בֹּטֵ֣חַ בַּיהֹוָ֑ה וּבְחֶ֥סֶד עֶ֝לְי֗וֹן בַּל־יִמּֽוֹט׃",
+      "douay_rheims": "For the king hopeth in the Lord: and through the mercy of the most High he shall not be moved.",
+      "finnish_biblia": "Sillä Kuningas turvaa Herraan: ja Ylimmäisen laupiudessa ei hän horju. ",
       "king_james": "For the king trusteth in the Lord, and through the mercy of the most High he shall not be moved.",
       "refs": {
         "latin_vulgate": {
@@ -100,6 +134,9 @@
         },
         "hebrew_masoretic": {
           "src": "21:8"
+        },
+        "douay_rheims": {
+          "src": "20:8"
         }
       }
     },
@@ -107,6 +144,8 @@
       "verse": 8,
       "latin_vulgate": " Inveniatur manus tua omnibus inimicis tuis ;  dextera tua inveniat omnes qui te oderunt. ",
       "hebrew_masoretic": "תִּמְצָ֣א יָ֭דְךָ לְכׇל־אֹיְבֶ֑יךָ יְ֝מִֽינְךָ֗ תִּמְצָ֥א שֹׂנְאֶֽיךָ׃",
+      "douay_rheims": "Let thy hand be found by all thy enemies: let thy right hand find out all them that hate thee.",
+      "finnish_biblia": "Sinun kätes löytää kaikki vihollises: sinun oikia kätes löytää ne, jotka sinua kadehtivat. ",
       "king_james": "Thine hand shall find out all thine enemies: thy right hand shall find out those that hate thee.",
       "refs": {
         "latin_vulgate": {
@@ -114,6 +153,9 @@
         },
         "hebrew_masoretic": {
           "src": "21:9"
+        },
+        "douay_rheims": {
+          "src": "20:9"
         }
       }
     },
@@ -121,6 +163,8 @@
       "verse": 9,
       "latin_vulgate": " Pones eos ut clibanum ignis in tempore vultus tui :  Dominus in ira sua conturbabit eos,  et devorabit eos ignis. ",
       "hebrew_masoretic": "תְּשִׁיתֵ֤מוֹ ׀ כְּתַנּ֥וּר אֵשׁ֮ לְעֵ֢ת פָּ֫נֶ֥יךָ יְ֭הֹוָה בְּאַפּ֣וֹ יְבַלְּעֵ֑ם וְֽתֹאכְלֵ֥ם אֵֽשׁ׃",
+      "douay_rheims": "Thou shalt make them as an oven of fire, in the time of thy anger: the Lord shall trouble them in his wrath, and fire shall devour them.",
+      "finnish_biblia": "Sinä panet heitä niinkuin kuumaan pätsiin sinun vihas aikana: Herra nielee heitä vihassansa, ja tuli syö heitä. ",
       "king_james": "Thou shalt make them as a fiery oven in the time of thine anger: the Lord shall swallow them up in his wrath, and the fire shall devour them.",
       "refs": {
         "latin_vulgate": {
@@ -128,6 +172,9 @@
         },
         "hebrew_masoretic": {
           "src": "21:10"
+        },
+        "douay_rheims": {
+          "src": "20:10"
         }
       }
     },
@@ -135,6 +182,8 @@
       "verse": 10,
       "latin_vulgate": " Fructum eorum de terra perdes,  et semen eorum a filiis hominum, ",
       "hebrew_masoretic": "פִּ֭רְיָמוֹ מֵאֶ֣רֶץ תְּאַבֵּ֑ד וְ֝זַרְעָ֗ם מִבְּנֵ֥י אָדָֽם׃",
+      "douay_rheims": "Their fruit shalt thou destroy from the earth: and their seed from among the children of men.",
+      "finnish_biblia": "Heidän hedelmänsä sinä kadotat maan päältä, ja heidän siemenensä ihmisten lapsista. ",
       "king_james": "Their fruit shalt thou destroy from the earth, and their seed from among the children of men.",
       "refs": {
         "latin_vulgate": {
@@ -142,6 +191,9 @@
         },
         "hebrew_masoretic": {
           "src": "21:11"
+        },
+        "douay_rheims": {
+          "src": "20:11"
         }
       }
     },
@@ -149,6 +201,8 @@
       "verse": 11,
       "latin_vulgate": " quoniam declinaverunt in te mala ;  cogitaverunt consilia quæ non potuerunt stabilire. ",
       "hebrew_masoretic": "כִּי־נָט֣וּ עָלֶ֣יךָ רָעָ֑ה חָֽשְׁב֥וּ מְ֝זִמָּ֗ה בַּל־יוּכָֽלוּ׃",
+      "douay_rheims": "For they have intended evils against thee: they have devised counsels which they have not been able to establish.",
+      "finnish_biblia": "Sillä he ajattelivat tehdä sinulle pahaa: he pitivät neuvoa, jota ei he voineet täyttää. ",
       "king_james": "For they intended evil against thee: they imagined a mischievous device, which they are not able to perform.",
       "refs": {
         "latin_vulgate": {
@@ -156,6 +210,9 @@
         },
         "hebrew_masoretic": {
           "src": "21:12"
+        },
+        "douay_rheims": {
+          "src": "20:12"
         }
       }
     },
@@ -163,6 +220,8 @@
       "verse": 12,
       "latin_vulgate": " Quoniam pones eos dorsum ;  in reliquiis tuis præparabis vultum eorum. ",
       "hebrew_masoretic": "כִּ֭י תְּשִׁיתֵ֣מוֹ שֶׁ֑כֶם בְּ֝מֵֽיתָרֶ֗יךָ תְּכוֹנֵ֥ן עַל־פְּנֵיהֶֽם׃",
+      "douay_rheims": "For thou shalt make them turn their back: in thy remnants thou shalt prepare their face.",
+      "finnish_biblia": "Sillä sinä teet heitä olkapääksi: sinä tarkoitat jänteelläs heidän kasvojansa vastaan. ",
       "king_james": "Therefore shalt thou make them turn their back, when thou shalt make ready thine arrows upon thy strings against the face of them.",
       "refs": {
         "latin_vulgate": {
@@ -170,6 +229,9 @@
         },
         "hebrew_masoretic": {
           "src": "21:13"
+        },
+        "douay_rheims": {
+          "src": "20:13"
         }
       }
     },
@@ -177,6 +239,8 @@
       "verse": 13,
       "latin_vulgate": " Exaltare, Domine, in virtute tua ;  cantabimus et psallemus virtutes tuas.  ",
       "hebrew_masoretic": "ר֣וּמָה יְהֹוָ֣ה בְּעֻזֶּ֑ךָ נָשִׁ֥ירָה וּֽ֝נְזַמְּרָ֗ה גְּבוּרָתֶֽךָ׃ {פ}",
+      "douay_rheims": "Be thou exalted, O Lord, in thy own strength: we will sing and praise thy power. ",
+      "finnish_biblia": "Herra, ylennä sinuas väkevyydessäs; niin me veisaamme ja kiitämme sinun voimaas.   ",
       "king_james": "Be thou exalted, Lord, in thine own strength: so will we sing and praise thy power. ",
       "refs": {
         "latin_vulgate": {
@@ -184,6 +248,9 @@
         },
         "hebrew_masoretic": {
           "src": "21:14"
+        },
+        "douay_rheims": {
+          "src": "20:14"
         }
       }
     }

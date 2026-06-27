@@ -2,6 +2,8 @@
   "book_id": "PSA",
   "latin_name": "Liber Psalmorum",
   "hebrew_name": "תְּהִלִּים",
+  "douay_name": "Psalms",
+  "finnish_name": "Psalmit",
   "english_name": "Psalms",
   "chapter": 59,
   "verses": [
@@ -9,6 +11,8 @@
       "verse": 1,
       "latin_vulgate": "  Eripe me de inimicis meis, Deus meus,  et ab insurgentibus in me libera me. ",
       "hebrew_masoretic": "הַצִּילֵ֖נִי מֵאֹיְבַ֥י ׀ אֱלֹהָ֑י מִֽמִּתְקוֹמְמַ֥י תְּשַׂגְּבֵֽנִי׃",
+      "douay_rheims": "Deliver me from my enemies, O my God; and defend me from them that rise up against me.",
+      "finnish_biblia": "Davidin kultainen kappale, ettei hän hukkunut, kuin Saul lähetti hänen huonettansa piirittämään, saadaksensa häntä tappaa. (H59:2) Pelasta minua vihollisistani, Jumala, ja varjele minua niistä, jotka itseänsä asettavat minua vastaan. ",
       "king_james": "Deliver me from mine enemies, O my God: defend me from them that rise up against me.",
       "refs": {
         "latin_vulgate": {
@@ -16,6 +20,9 @@
         },
         "hebrew_masoretic": {
           "src": "59:2"
+        },
+        "douay_rheims": {
+          "src": "58:2"
         }
       }
     },
@@ -23,6 +30,8 @@
       "verse": 2,
       "latin_vulgate": " Eripe me de operantibus iniquitatem,  et de viris sanguinum salva me. ",
       "hebrew_masoretic": "הַ֭צִּילֵנִי מִפֹּ֣עֲלֵי אָ֑וֶן וּֽמֵאַנְשֵׁ֥י דָ֝מִ֗ים הוֹשִׁיעֵֽנִי׃",
+      "douay_rheims": "Deliver me from them that work iniquity, and save me from bloody men.",
+      "finnish_biblia": "Pelasta minua pahointekiöistä, ja auta minua murhamiehistä; ",
       "king_james": "Deliver me from the workers of iniquity, and save me from bloody men.",
       "refs": {
         "latin_vulgate": {
@@ -30,6 +39,9 @@
         },
         "hebrew_masoretic": {
           "src": "59:3"
+        },
+        "douay_rheims": {
+          "src": "58:3"
         }
       }
     },
@@ -37,6 +49,8 @@
       "verse": 3,
       "latin_vulgate": " Quia ecce ceperunt animam meam ;  irruerunt in me fortes. ",
       "hebrew_masoretic": "כִּ֤י הִנֵּ֪ה אָרְב֡וּ לְנַפְשִׁ֗י יָג֣וּרוּ עָלַ֣י עַזִּ֑ים לֹֽא־פִשְׁעִ֖י וְלֹא־חַטָּאתִ֣י יְהֹוָֽה׃",
+      "douay_rheims": "For behold they have caught my soul: the mighty have rushed in upon me:",
+      "finnish_biblia": "Sillä katso, Herra, he väijyvät sieluani: väkevät kokoontuvat minua vastaan, ilman minun syytäni ja rikostani. ",
       "king_james": "For, lo, they lie in wait for my soul: the mighty are gathered against me; not for my transgression, nor for my sin, O Lord.",
       "refs": {
         "latin_vulgate": {
@@ -44,6 +58,9 @@
         },
         "hebrew_masoretic": {
           "src": "59:4"
+        },
+        "douay_rheims": {
+          "src": "58:4"
         }
       }
     },
@@ -51,6 +68,8 @@
       "verse": 4,
       "latin_vulgate": " Neque iniquitas mea, neque peccatum meum, Domine ;  sine iniquitate cucurri, et direxi. ",
       "hebrew_masoretic": "בְּֽלִי־עָ֭וֺן יְרֻצ֣וּן וְיִכּוֹנָ֑נוּ ע֖וּרָה לִקְרָאתִ֣י וּרְאֵֽה׃",
+      "douay_rheims": "Neither is it my iniquity, nor my sin, O Lord: without iniquity have I run, and directed my steps.",
+      "finnish_biblia": "He juoksevat ilman syytä, ja valmistavat itseänsä: nouse tulemaan minua vastaan ja katsomaan. ",
       "king_james": "They run and prepare themselves without my fault: awake to help me, and behold.",
       "refs": {
         "latin_vulgate": {
@@ -58,6 +77,9 @@
         },
         "hebrew_masoretic": {
           "src": "59:5"
+        },
+        "douay_rheims": {
+          "src": "58:5"
         }
       }
     },
@@ -65,6 +87,8 @@
       "verse": 5,
       "latin_vulgate": " Exsurge in occursum meum, et vide :  et tu, Domine Deus virtutum, Deus Israël,  intende ad visitandas omnes gentes :  non miserearis omnibus qui operantur iniquitatem. ",
       "hebrew_masoretic": "וְאַתָּ֤ה יְהֹוָֽה־אֱלֹהִ֥ים ׀ צְבָא֡וֹת אֱלֹ֘הֵ֤י יִשְׂרָאֵ֗ל הָקִ֗יצָה לִפְקֹ֥ד כׇּֽל־הַגּוֹיִ֑ם אַל־תָּחֹ֨ן כׇּל־בֹּ֖גְדֵי אָ֣וֶן סֶֽלָה׃",
+      "douay_rheims": "Rise up thou to meet me, and behold: even thou, O Lord, the God of hosts, the God of Israel. Attend to visit all the nations: have no mercy on all them that work iniquity.",
+      "finnish_biblia": "Ja sinä, Herra Jumala Zebaot, Israelin Jumala, herää etsimään kaikkia pakanoita: älä ketään heistä armahda, jotka niin väkivaltaisesti vääryyttä tekevät, Sela! ",
       "king_james": "Thou therefore, O Lord God of hosts, the God of Israel, awake to visit all the heathen: be not merciful to any wicked transgressors. Selah.",
       "refs": {
         "latin_vulgate": {
@@ -72,6 +96,9 @@
         },
         "hebrew_masoretic": {
           "src": "59:6"
+        },
+        "douay_rheims": {
+          "src": "58:6"
         }
       }
     },
@@ -79,6 +106,8 @@
       "verse": 6,
       "latin_vulgate": " Convertentur ad vesperam, et famem patientur ut canes :  et circuibunt civitatem. ",
       "hebrew_masoretic": "יָשׁ֣וּבוּ לָ֭עֶרֶב יֶהֱמ֥וּ כַכָּ֗לֶב וִיס֥וֹבְבוּ עִֽיר׃",
+      "douay_rheims": "They shall return at evening, and shall suffer hunger like dogs: and shall go round about the city.",
+      "finnish_biblia": "He tulkoon taas ehtoona, ja ulvokaan niinkuin koira, ja samotkaan ympäri kaupungin. ",
       "king_james": "They return at evening: they make a noise like a dog, and go round about the city.",
       "refs": {
         "latin_vulgate": {
@@ -86,6 +115,9 @@
         },
         "hebrew_masoretic": {
           "src": "59:7"
+        },
+        "douay_rheims": {
+          "src": "58:7"
         }
       }
     },
@@ -93,6 +125,8 @@
       "verse": 7,
       "latin_vulgate": " Ecce loquentur in ore suo,  et gladius in labiis eorum : quoniam quis audivit ? ",
       "hebrew_masoretic": "הִנֵּ֤ה ׀ יַבִּ֘יע֤וּן בְּפִיהֶ֗ם חֲ֭רָבוֹת בְּשִׂפְתֽוֹתֵיהֶ֑ם כִּי־מִ֥י שֹׁמֵֽעַ׃",
+      "douay_rheims": "Behold they shall speak with their mouth, and a sword is in their lips: for who, say they, hath heard us?",
+      "finnish_biblia": "Katso, he puhuvat suullansa: miekat ovat heidän huulissansa, kuka sen kuulis. ",
       "king_james": "Behold, they belch out with their mouth: swords are in their lips: for who, say they, doth hear?",
       "refs": {
         "latin_vulgate": {
@@ -100,6 +134,9 @@
         },
         "hebrew_masoretic": {
           "src": "59:8"
+        },
+        "douay_rheims": {
+          "src": "58:8"
         }
       }
     },
@@ -107,6 +144,8 @@
       "verse": 8,
       "latin_vulgate": " Et tu, Domine, deridebis eos ;  ad nihilum deduces omnes gentes. ",
       "hebrew_masoretic": "וְאַתָּ֣ה יְ֭הֹוָה תִּשְׂחַק־לָ֑מוֹ תִּ֝לְעַ֗ג לְכׇל־גּוֹיִֽם׃",
+      "douay_rheims": "But thou, O Lord, shalt laugh at them: thou shalt bring all the nations to nothing.",
+      "finnish_biblia": "Mutta sinä, Herra, naurat heitä, ja pilkkaat kaikkia pakanoita. ",
       "king_james": "But thou, O Lord, shalt laugh at them; thou shalt have all the heathen in derision.",
       "refs": {
         "latin_vulgate": {
@@ -114,6 +153,9 @@
         },
         "hebrew_masoretic": {
           "src": "59:9"
+        },
+        "douay_rheims": {
+          "src": "58:9"
         }
       }
     },
@@ -121,6 +163,8 @@
       "verse": 9,
       "latin_vulgate": " Fortitudinem meam ad te custodiam,  quia, Deus, susceptor meus es : ",
       "hebrew_masoretic": "עֻ֭זּוֹ אֵלֶ֣יךָ אֶשְׁמֹ֑רָה כִּֽי־אֱ֝לֹהִ֗ים מִשְׂגַּבִּֽי׃",
+      "douay_rheims": "I will keep my strength to thee: for thou art my protector:",
+      "finnish_biblia": "Heidän väkevyytensä edestä minä turvaan sinun tykös; sillä Jumala on minun varjelukseni. ",
       "king_james": "Because of his strength will I wait upon thee: for God is my defence.",
       "refs": {
         "latin_vulgate": {
@@ -128,6 +172,9 @@
         },
         "hebrew_masoretic": {
           "src": "59:10"
+        },
+        "douay_rheims": {
+          "src": "58:10"
         }
       }
     },
@@ -135,6 +182,8 @@
       "verse": 10,
       "latin_vulgate": " Deus meus misericordia ejus præveniet me. ",
       "hebrew_masoretic": "אֱלֹהֵ֣י (חסדו) [חַסְדִּ֣י] יְקַדְּמֵ֑נִי אֱ֝לֹהִ֗ים יַרְאֵ֥נִי בְשֹׁרְרָֽי׃",
+      "douay_rheims": "My God, his mercy shall prevent me.",
+      "finnish_biblia": "Jumala osoittaa minulle runsaasti laupiutensa, Jumala antaa minun nähdä koston vihollisistani. ",
       "king_james": "The God of my mercy shall prevent me: God shall let me see my desire upon mine enemies.",
       "refs": {
         "latin_vulgate": {
@@ -142,6 +191,9 @@
         },
         "hebrew_masoretic": {
           "src": "59:11"
+        },
+        "douay_rheims": {
+          "src": "58:11"
         }
       }
     },
@@ -149,6 +201,8 @@
       "verse": 11,
       "latin_vulgate": " Deus ostendet mihi super inimicos meos :  ne occidas eos, nequando obliviscantur populi mei.  Disperge illos in virtute tua,  et depone eos, protector meus, Domine : ",
       "hebrew_masoretic": "אַל־תַּהַרְגֵ֤ם ׀ פֶּֽן־יִשְׁכְּח֬וּ עַמִּ֗י הֲנִיעֵ֣מוֹ בְ֭חֵילְךָ וְהוֹרִידֵ֑מוֹ מָ֖גִנֵּ֣נוּ אֲדֹנָֽי׃",
+      "douay_rheims": "God shall let me see over my enemies: slay them not, lest at any time my people forget. Scatter them by thy power; and bring them down, O Lord, my protector:",
+      "finnish_biblia": "Älä heitä tapa, ettei minun kansani sitä unohtaisi: hajoita heitä voimallas, ja lyö heitä maahan, Herra meidän kilpemme. ",
       "king_james": "Slay them not, lest my people forget: scatter them by thy power; and bring them down, O Lord our shield.",
       "refs": {
         "latin_vulgate": {
@@ -156,6 +210,9 @@
         },
         "hebrew_masoretic": {
           "src": "59:12"
+        },
+        "douay_rheims": {
+          "src": "58:12"
         }
       }
     },
@@ -163,6 +220,8 @@
       "verse": 12,
       "latin_vulgate": " delictum oris eorum, sermonem labiorum ipsorum ;  et comprehendantur in superbia sua.  Et de execratione et mendacio annuntiabuntur ",
       "hebrew_masoretic": "חַטַּאת־פִּ֗ימוֹ דְּֽבַר־שְׂפָ֫תֵ֥ימוֹ וְיִלָּכְד֥וּ בִגְאוֹנָ֑ם וּמֵאָלָ֖ה וּמִכַּ֣חַשׁ יְסַפֵּֽרוּ׃",
+      "douay_rheims": "For the sin of their mouth, and the word of their lips: and let them be taken in their pride. And for their cursing and lying they shall be talked of,",
+      "finnish_biblia": "Heidän huultensa puhe on heidän suunsa synti: ja he käsitetään ylpeydessänsä: ja he juttelevat kirouksia ja valhetta. ",
       "king_james": "For the sin of their mouth and the words of their lips let them even be taken in their pride: and for cursing and lying which they speak.",
       "refs": {
         "latin_vulgate": {
@@ -170,6 +229,9 @@
         },
         "hebrew_masoretic": {
           "src": "59:13"
+        },
+        "douay_rheims": {
+          "src": "58:13"
         }
       }
     },
@@ -177,6 +239,8 @@
       "verse": 13,
       "latin_vulgate": "in consummatione :  in ira consummationis, et non erunt.  Et scient quia Deus dominabitur Jacob, et finium terræ. ",
       "hebrew_masoretic": "כַּלֵּ֥ה בְחֵמָה֮ כַּלֵּ֢ה וְֽאֵ֫ינֵ֥מוֹ וְֽיֵדְע֗וּ כִּֽי־אֱ֭לֹהִים מֹשֵׁ֣ל בְּֽיַעֲקֹ֑ב לְאַפְסֵ֖י הָאָ֣רֶץ סֶֽלָה׃",
+      "douay_rheims": "When they are consumed: when they are consumed by thy wrath, and they shall be no more. And they shall know that God will rule Jacob, and all the ends of the earth.",
+      "finnish_biblia": "Pyyhi heitä pois vihassas, pyyhi heitä pois, ettei he olisikaan; että he ymmärtäisivät sen, että Jumala hallitsee Jakobissa, hamaan maailman ääriin asti, Sela! ",
       "king_james": "Consume them in wrath, consume them, that they may not be: and let them know that God ruleth in Jacob unto the ends of the earth. Selah.",
       "refs": {
         "latin_vulgate": {
@@ -184,6 +248,9 @@
         },
         "hebrew_masoretic": {
           "src": "59:14"
+        },
+        "douay_rheims": {
+          "src": "58:14"
         }
       }
     },
@@ -191,6 +258,8 @@
       "verse": 14,
       "latin_vulgate": " Convertentur ad vesperam, et famem patientur ut canes :  et circuibunt civitatem. ",
       "hebrew_masoretic": "וְיָשֻׁ֣בוּ לָ֭עֶרֶב יֶהֱמ֥וּ כַכָּ֗לֶב וִיס֥וֹבְבוּ עִֽיר׃",
+      "douay_rheims": "They shall return at evening and shall suffer hunger like dogs: and shall go round about the city.",
+      "finnish_biblia": "He tulkoon taas ehtoona, ja ulvokaan niinkuin koira, ja samotkaan ympäri kaupungin. ",
       "king_james": "And at evening let them return; and let them make a noise like a dog, and go round about the city.",
       "refs": {
         "latin_vulgate": {
@@ -198,6 +267,9 @@
         },
         "hebrew_masoretic": {
           "src": "59:15"
+        },
+        "douay_rheims": {
+          "src": "58:15"
         }
       }
     },
@@ -205,6 +277,8 @@
       "verse": 15,
       "latin_vulgate": "Ipsi dispergentur ad manducandum ;  si vero non fuerint saturati, et murmurabunt. ",
       "hebrew_masoretic": "הֵ֭מָּה (ינועון) [יְנִיע֣וּן] לֶאֱכֹ֑ל אִם־לֹ֥א יִ֝שְׂבְּע֗וּ וַיָּלִֽינוּ׃",
+      "douay_rheims": "They shall be scattered abroad to eat, and shall murmur if they be not filled.",
+      "finnish_biblia": "Anna heidän juosta sinne ja tänne ruoan tähden; ja ulvokaan, koska ei he ravituksi tule. ",
       "king_james": "Let them wander up and down for meat, and grudge if they be not satisfied.",
       "refs": {
         "latin_vulgate": {
@@ -212,6 +286,9 @@
         },
         "hebrew_masoretic": {
           "src": "59:16"
+        },
+        "douay_rheims": {
+          "src": "58:16"
         }
       }
     },
@@ -219,6 +296,8 @@
       "verse": 16,
       "latin_vulgate": " Ego autem cantabo fortitudinem tuam,  et exsultabo mane misericordiam tuam :  quia factus es susceptor meus,  et refugium meum in die tribulationis meæ. ",
       "hebrew_masoretic": "וַאֲנִ֤י ׀ אָשִׁ֣יר עֻזֶּךָ֮ וַאֲרַנֵּ֥ן לַבֹּ֗קֶר חַ֫סְדֶּ֥ךָ כִּֽי־הָיִ֣יתָ מִשְׂגָּ֣ב לִ֑י וּ֝מָנ֗וֹס בְּי֣וֹם צַר־לִֽי׃",
+      "douay_rheims": "But I will sing thy strength: and will extol thy mercy in the morning. For thou art become my support, and my refuge, in the day of my trouble.",
+      "finnish_biblia": "Mutta minä veisaan sinun väkevyyttäs, ja varhain kerskaan sinun laupiuttas; sillä sinä olet minun varjelukseni ja turvani minun hädässäni. ",
       "king_james": "But I will sing of thy power; yea, I will sing aloud of thy mercy in the morning: for thou hast been my defence and refuge in the day of my trouble.",
       "refs": {
         "latin_vulgate": {
@@ -226,6 +305,9 @@
         },
         "hebrew_masoretic": {
           "src": "59:17"
+        },
+        "douay_rheims": {
+          "src": "58:17"
         }
       }
     },
@@ -233,6 +315,8 @@
       "verse": 17,
       "latin_vulgate": " Adjutor meus, tibi psallam,  quia Deus susceptor meus es ;  Deus meus, misericordia mea.  ",
       "hebrew_masoretic": "עֻ֭זִּי אֵלֶ֣יךָ אֲזַמֵּ֑רָה כִּֽי־אֱלֹהִ֥ים מִ֝שְׂגַּבִּ֗י אֱלֹהֵ֥י חַסְדִּֽי׃ {פ}",
+      "douay_rheims": "Unto thee, O my helper, will I sing, for thou art God my defence: my God my mercy. ",
+      "finnish_biblia": "Sinä olet minun väkevyyteni, sinulle minä kiitosta veisaan; sillä sinä Jumala olet minun varjelukseni ja minun armollinen Jumalani.   ",
       "king_james": "Unto thee, O my strength, will I sing: for God is my defence, and the God of my mercy. ",
       "refs": {
         "latin_vulgate": {
@@ -240,6 +324,9 @@
         },
         "hebrew_masoretic": {
           "src": "59:18"
+        },
+        "douay_rheims": {
+          "src": "58:18"
         }
       }
     }

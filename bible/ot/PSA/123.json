@@ -2,6 +2,8 @@
   "book_id": "PSA",
   "latin_name": "Liber Psalmorum",
   "hebrew_name": "תְּהִלִּים",
+  "douay_name": "Psalms",
+  "finnish_name": "Psalmit",
   "english_name": "Psalms",
   "chapter": 123,
   "verses": [
@@ -9,9 +11,14 @@
       "verse": 1,
       "latin_vulgate": "Canticum graduum.   Ad te levavi oculos meos,  qui habitas in cælis. ",
       "hebrew_masoretic": "שִׁ֗יר הַֽמַּ֫עֲל֥וֹת אֵ֭לֶיךָ נָשָׂ֣אתִי אֶת־עֵינַ֑י הַ֝יֹּשְׁבִ֗י בַּשָּׁמָֽיִם׃",
+      "douay_rheims": "To thee have I lifted up my eyes, who dwellest in heaven.",
+      "finnish_biblia": "Veisu korkeimmassa Kuorissa. Minä nostan silmäni sinun tykös, joka asut taivaissa. ",
       "king_james": "Unto thee lift I up mine eyes, O thou that dwellest in the heavens.",
       "refs": {
         "latin_vulgate": {
+          "src": "122:1"
+        },
+        "douay_rheims": {
           "src": "122:1"
         }
       }
@@ -20,9 +27,14 @@
       "verse": 2,
       "latin_vulgate": " Ecce sicut oculi servorum  in manibus dominorum suorum ;  sicut oculi ancillæ  in manibus dominæ suæ :  ita oculi nostri ad Dominum Deum nostrum,  donec misereatur nostri. ",
       "hebrew_masoretic": "הִנֵּ֨ה כְעֵינֵ֪י עֲבָדִ֡ים אֶל־יַ֤ד אֲֽדוֹנֵיהֶ֗ם כְּעֵינֵ֣י שִׁפְחָה֮ אֶל־יַ֢ד גְּבִ֫רְתָּ֥הּ כֵּ֣ן עֵ֭ינֵינוּ אֶל־יְהֹוָ֣ה אֱלֹהֵ֑ינוּ עַ֝֗ד שֶׁיְּחׇנֵּֽנוּ׃",
+      "douay_rheims": "Behold as the eyes of servants are on the hands of their masters, As the eyes of the handmaid are on the hands of her mistress: so are our eyes unto the Lord our God, until he have mercy on us.",
+      "finnish_biblia": "Katso, niinkuin palveliain silmät katsovat isäntänsä käsiin, niinkuin piikain silmät katsovat emäntäinsä käsiin, niin meidänkin silmämme katsovat Herraa meidän Jumalaamme, siihenasti että hän meitä armahtaa. ",
       "king_james": "Behold, as the eyes of servants look unto the hand of their masters, and as the eyes of a maiden unto the hand of her mistress; so our eyes wait upon the Lord our God, until that he have mercy upon us.",
       "refs": {
         "latin_vulgate": {
+          "src": "122:2"
+        },
+        "douay_rheims": {
           "src": "122:2"
         }
       }
@@ -31,9 +43,14 @@
       "verse": 3,
       "latin_vulgate": " Miserere nostri, Domine, miserere nostri,  quia multum repleti sumus despectione ; ",
       "hebrew_masoretic": "חׇנֵּ֣נוּ יְהֹוָ֣ה חׇנֵּ֑נוּ כִּי־רַ֝֗ב שָׂבַ֥עְנוּ בֽוּז׃",
+      "douay_rheims": "Have mercy on us, O Lord, have mercy on us: for we are greatly filled with contempt.",
+      "finnish_biblia": "Ole meille armollinen, Herra, ole meille armollinen! sillä me olemme sangen täytetyt ylönkatseesta; ",
       "king_james": "Have mercy upon us, O Lord, have mercy upon us: for we are exceedingly filled with contempt.",
       "refs": {
         "latin_vulgate": {
+          "src": "122:3"
+        },
+        "douay_rheims": {
           "src": "122:3"
         }
       }
@@ -42,9 +59,14 @@
       "verse": 4,
       "latin_vulgate": " quia multum repleta est anima nostra  opprobrium abundantibus, et despectio superbis.  ",
       "hebrew_masoretic": "רַבַּת֮ שָֽׂבְעָה־לָּ֢הּ נַ֫פְשֵׁ֥נוּ הַלַּ֥עַג הַשַּֽׁאֲנַנִּ֑ים הַ֝בּ֗וּז (לגאיונים) [לִגְאֵ֥י יוֹנִֽים]׃ {פ}",
+      "douay_rheims": "For our soul is greatly filled: we are a reproach to the rich, and contempt to the proud. ",
+      "finnish_biblia": "Sangen täynnä on meidän sielumme rikasten pilkkaa ja ylpeiden ylönkatsetta.   ",
       "king_james": "Our soul is exceedingly filled with the scorning of those that are at ease, and with the contempt of the proud. ",
       "refs": {
         "latin_vulgate": {
+          "src": "122:4"
+        },
+        "douay_rheims": {
           "src": "122:4"
         }
       }

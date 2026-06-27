@@ -2,6 +2,8 @@
   "book_id": "ISA",
   "latin_name": "Isaias",
   "hebrew_name": "יְשַׁעְיָהוּ",
+  "douay_name": "Isaias",
+  "finnish_name": "Jesaja",
   "english_name": "Isaiah",
   "chapter": 1,
   "verses": [
@@ -9,186 +11,248 @@
       "verse": 1,
       "latin_vulgate": "Visio Isaiæ, filii Amos, quam vidit super Judam et Jerusalem, in diebus Oziæ, Joathan, Achaz, et Ezechiæ, regum Juda.  ",
       "hebrew_masoretic": "חֲזוֹן֙ יְשַֽׁעְיָ֣הוּ בֶן־אָמ֔וֹץ אֲשֶׁ֣ר חָזָ֔ה עַל־יְהוּדָ֖ה וִירֽוּשָׁלָ֑͏ִם בִּימֵ֨י עֻזִּיָּ֧הוּ יוֹתָ֛ם אָחָ֥ז יְחִזְקִיָּ֖הוּ מַלְכֵ֥י יְהוּדָֽה׃",
+      "douay_rheims": "The vision of Isaiah the Son of Amos, which he saw concerning Juda and Jerusalem in the days of Ozias, Joathan, Achaz, and Ezechias, kings of Juda.",
+      "finnish_biblia": "Jesaian, Amotsin pojan näky, jonka hän näki Juudasta ja Jerusalemista, Ussian, Jotamin, Ahaksen ja Jehiskian, Juudan kuningasten aikana. ",
       "king_james": "The vision of Isaiah the son of Amoz, which he saw concerning Judah and Jerusalem in the days of Uzziah, Jotham, Ahaz, and Hezekiah, kings of Judah."
     },
     {
       "verse": 2,
       "latin_vulgate": "  Audite, cæli, et auribus percipe, terra,  quoniam Dominus locutus est.  Filios enutrivi, et exaltavi ;  ipsi autem spreverunt me. ",
       "hebrew_masoretic": "שִׁמְע֤וּ שָׁמַ֙יִם֙ וְהַאֲזִ֣ינִי אֶ֔רֶץ כִּ֥י יְהֹוָ֖ה דִּבֵּ֑ר בָּנִים֙ גִּדַּ֣לְתִּי וְרוֹמַ֔מְתִּי וְהֵ֖ם פָּ֥שְׁעוּ בִֽי׃",
+      "douay_rheims": "Hear, O ye heavens, and give ear, O earth, for the Lord hath spoken. I have brought up children, and exalted them: but they have despised me.",
+      "finnish_biblia": "Kuulkaat taivaat, ja maa ota korviis, sillä Herra puhuu: minä olen lapsia kasvattanut ja korottanut, ja he ovat minusta luopuneet. ",
       "king_james": "Hear, O heavens, and give ear, O earth: for the Lord hath spoken, I have nourished and brought up children, and they have rebelled against me."
     },
     {
       "verse": 3,
       "latin_vulgate": " Cognovit bos possessorem suum,  et asinus præsepe domini sui ;  Israël autem me non cognovit,  et populus meus non intellexit. ",
       "hebrew_masoretic": "יָדַ֥ע שׁוֹר֙ קֹנֵ֔הוּ וַחֲמ֖וֹר אֵב֣וּס בְּעָלָ֑יו יִשְׂרָאֵל֙ לֹ֣א יָדַ֔ע עַמִּ֖י לֹ֥א הִתְבּוֹנָֽן׃",
+      "douay_rheims": "The ox knoweth his owner, and the ass his master's crib: but Israel hath not known me, and my people hath not understood.",
+      "finnish_biblia": "Härkä tuntee omistajansa ja aasi isäntänsä seimen; mutta Israel ei tunne, ja minun kansani ei ymmärrä. ",
       "king_james": "The ox knoweth his owner, and the ass his master’s crib: but Israel doth not know, my people doth not consider."
     },
     {
       "verse": 4,
       "latin_vulgate": " Væ genti peccatrici,  populo gravi iniquitate,  semini nequam, filiis sceleratis !  dereliquerunt Dominum ;  blasphemaverunt Sanctum Israël ;  abalienati sunt retrorsum. ",
       "hebrew_masoretic": "ה֣וֹי ׀ גּ֣וֹי חֹטֵ֗א עַ֚ם כֶּ֣בֶד עָוֺ֔ן זֶ֣רַע מְרֵעִ֔ים בָּנִ֖ים מַשְׁחִיתִ֑ים עָזְב֣וּ אֶת־יְהֹוָ֗ה נִֽאֲצ֛וּ אֶת־קְד֥וֹשׁ יִשְׂרָאֵ֖ל נָזֹ֥רוּ אָחֽוֹר׃",
+      "douay_rheims": "Woe to the sinful nation, a people laden with iniquity, a wicked seed, ungracious children: they have forsaken the Lord, they have blasphemed the Holy One of Israel, they are gone away backwards.",
+      "finnish_biblia": "Voi syntistä kansaa, kansaa suuresta pahasta teosta, pahanilkistä siementä, vahingollisia lapsia, jotka Herran hylkäsivät ja Israelin Pyhää pilkkasivat, he poikkesivat takaperin. ",
       "king_james": "Ah sinful nation, a people laden with iniquity, a seed of evildoers, children that are corrupters: they have forsaken the Lord, they have provoked the Holy One of Israel unto anger, they are gone away backward."
     },
     {
       "verse": 5,
       "latin_vulgate": " Super quo percutiam vos ultra, addentes prævaricationem ?  omne caput languidum,  et omne cor mœrens. ",
       "hebrew_masoretic": "עַ֣ל מֶ֥ה תֻכּ֛וּ ע֖וֹד תּוֹסִ֣יפוּ סָרָ֑ה כׇּל־רֹ֣אשׁ לׇֽחֳלִ֔י וְכׇל־לֵבָ֖ב דַּוָּֽי׃",
+      "douay_rheims": "For what shall I strike you any more, you that increase transgression? the whole head is sick, and the whole heart is sad.",
+      "finnish_biblia": "Mitä varten teitä enempi lyödään, koska te aina harhailette? Koko pää on sairas, ja koko sydän on väsynyt. ",
       "king_james": "Why should ye be stricken any more? ye will revolt more and more: the whole head is sick, and the whole heart faint."
     },
     {
       "verse": 6,
       "latin_vulgate": " A planta pedis usque ad verticem,  non est in eo sanitas ;  vulnus, et livor, et plaga tumens,  non est circumligata, nec curata medicamine,  neque fota oleo. ",
       "hebrew_masoretic": "מִכַּף־רֶ֤גֶל וְעַד־רֹאשׁ֙ אֵֽין־בּ֣וֹ מְתֹ֔ם פֶּ֥צַע וְחַבּוּרָ֖ה וּמַכָּ֣ה טְרִיָּ֑ה לֹא־זֹ֙רוּ֙ וְלֹ֣א חֻבָּ֔שׁוּ וְלֹ֥א רֻכְּכָ֖ה בַּשָּֽׁמֶן׃",
+      "douay_rheims": "From the sole of the foot unto the top of the head, there is no soundness therein: wounds and bruises and swelling sores: they are not bound up, nor dressed, nor fomented with oil.",
+      "finnish_biblia": "Hamasta kantapäästä niin kiireeseen asti ei hänessä ole tervettä; vaan haavat, sinimarjat ja veripahat, jotka ei ole puserretut, eikä sidotut, taikka öljyllä sivellyt. ",
       "king_james": "From the sole of the foot even unto the head there is no soundness in it; but wounds, and bruises, and putrifying sores: they have not been closed, neither bound up, neither mollified with ointment."
     },
     {
       "verse": 7,
       "latin_vulgate": " Terra vestra deserta ;  civitates vestræ succensæ igni :  regionem vestram coram vobis alieni devorant,  et desolabitur sicut in vastitate hostili. ",
       "hebrew_masoretic": "אַרְצְכֶ֣ם שְׁמָמָ֔ה עָרֵיכֶ֖ם שְׂרֻפ֣וֹת אֵ֑שׁ אַדְמַתְכֶ֗ם לְנֶגְדְּכֶם֙ זָרִים֙ אֹכְלִ֣ים אֹתָ֔הּ וּשְׁמָמָ֖ה כְּמַהְפֵּכַ֥ת זָרִֽים׃",
+      "douay_rheims": "Your land is desolate, your cities are burnt with fire: your country strangers devour before your face, and it shall be desolate as when wasted by enemies.",
+      "finnish_biblia": "Teidän maanne on autiona, teidän kaupunkinne ovat tulella poltetut; muukalaiset syövät peltonne silmäin edessä; ja on autio, niinkuin se, joka muukalaisilta raadeltu on. ",
       "king_james": "Your country is desolate, your cities are burned with fire: your land, strangers devour it in your presence, and it is desolate, as overthrown by strangers."
     },
     {
       "verse": 8,
       "latin_vulgate": " Et derelinquetur filia Sion  ut umbraculum in vinea,  et sicut tugurium in cucumerario,  et sicut civitas quæ vastatur. ",
       "hebrew_masoretic": "וְנוֹתְרָ֥ה בַת־צִיּ֖וֹן כְּסֻכָּ֣ה בְכָ֑רֶם כִּמְלוּנָ֥ה בְמִקְשָׁ֖ה כְּעִ֥יר נְצוּרָֽה׃",
+      "douay_rheims": "And the daughter of Sion shall be left as a covert in a vineyard, and as a lodge in a garden of cucumbers, and as a city that is laid waste.",
+      "finnish_biblia": "Mutta mitä vielä Zionin tyttärestä jäänyt on, se on niinkuin maja viinamäessä, ja niinkuin hakomaja yrttitarhassa, niinkuin hävitetty kaupunki. ",
       "king_james": "And the daughter of Zion is left as a cottage in a vineyard, as a lodge in a garden of cucumbers, as a besieged city."
     },
     {
       "verse": 9,
       "latin_vulgate": " Nisi Dominus exercituum  reliquisset nobis semen,  quasi Sodoma fuissemus,  et quasi Gomorrha similes essemus. ",
       "hebrew_masoretic": "לוּלֵי֙ יְהֹוָ֣ה צְבָא֔וֹת הוֹתִ֥יר לָ֛נוּ שָׂרִ֖יד כִּמְעָ֑ט כִּסְדֹ֣ם הָיִ֔ינוּ לַעֲמֹרָ֖ה דָּמִֽינוּ׃ {פ}",
+      "douay_rheims": "Except the Lord of hosts had left us seed, we had been as Sodom, and we should have been like to Gomorrha.",
+      "finnish_biblia": "Ellei Herra Zebaot meille jotakin vähää jättäisi, niin me olisimme kuin Sodoma, ja olisimme Gomorran kaltaiset. ",
       "king_james": "Except the Lord of hosts had left unto us a very small remnant, we should have been as Sodom, and we should have been like unto Gomorrah."
     },
     {
       "verse": 10,
       "latin_vulgate": " Audite verbum Domini,  principes Sodomorum ;  percipite auribus legem Dei nostri,  populus Gomorrhæ. ",
       "hebrew_masoretic": "שִׁמְע֥וּ דְבַר־יְהֹוָ֖ה קְצִינֵ֣י סְדֹ֑ם הַאֲזִ֛ינוּ תּוֹרַ֥ת אֱלֹהֵ֖ינוּ עַ֥ם עֲמֹרָֽה׃",
+      "douay_rheims": "Hear the word of the Lord, ye rulers of Sodom, give ear to the law of our God, ye people of Gomorrha.",
+      "finnish_biblia": "Te Sodoman päämiehet, kuulkaat Herran sanaa: ottakaat korviinne meidän Jumalamme laki, sinä Gomorran kansa. ",
       "king_james": "Hear the word of the Lord, ye rulers of Sodom; give ear unto the law of our God, ye people of Gomorrah."
     },
     {
       "verse": 11,
       "latin_vulgate": " Quo mihi multitudinem victimarum vestrarum ?  dicit Dominus.  Plenus sum :  holocausta arietum,  et adipem pinguium,  et sanguinem vitulorum et agnorum et hircorum,  nolui. ",
       "hebrew_masoretic": "לָמָּה־לִּ֤י רֹב־זִבְחֵיכֶם֙ יֹאמַ֣ר יְהֹוָ֔ה שָׂבַ֛עְתִּי עֹל֥וֹת אֵילִ֖ים וְחֵ֣לֶב מְרִיאִ֑ים וְדַ֨ם פָּרִ֧ים וּכְבָשִׂ֛ים וְעַתּוּדִ֖ים לֹ֥א חָפָֽצְתִּי׃",
+      "douay_rheims": "To what purpose do you offer me the multitude of your victims, saith the Lord? I am full, I desire not holocausts of rams, and fat of fatlings, and blood of calves, and lambs, and buck goats.",
+      "finnish_biblia": "Mitä minulle on teidän uhrienne paljoudesta? sanoo Herra: minä olen oinasten polttouhrista ja syöttiläin rasvasta ravittu, ja en tottele vasikkain, lammasten ja kauristen verta. ",
       "king_james": "To what purpose is the multitude of your sacrifices unto me? saith the Lord: I am full of the burnt offerings of rams, and the fat of fed beasts; and I delight not in the blood of bullocks, or of lambs, or of he goats."
     },
     {
       "verse": 12,
       "latin_vulgate": " Cum veniretis ante conspectum meum,  quis quæsivit hæc de manibus vestris,  ut ambularetis in atriis meis ? ",
       "hebrew_masoretic": "כִּ֣י תָבֹ֔אוּ לֵֽרָא֖וֹת פָּנָ֑י מִֽי־בִקֵּ֥שׁ זֹ֛את מִיֶּדְכֶ֖ם רְמֹ֥ס חֲצֵרָֽי׃",
+      "douay_rheims": "When you came to appear before me, who required these things at your hands, that you should walk in my courts?",
+      "finnish_biblia": "Kuin te tulette ja ilmestytte minun kasvoini eteen, kuka senkaltaisia vaatii teidän käsistänne, että te vaeltaisitte minun esihuoneessani? ",
       "king_james": "When ye come to appear before me, who hath required this at your hand, to tread my courts?"
     },
     {
       "verse": 13,
       "latin_vulgate": " Ne offeratis ultra sacrificium frustra :  incensum abominatio est mihi.  Neomeniam et sabbatum, et festivitates alias, non feram ;  iniqui sunt cœtus vestri. ",
       "hebrew_masoretic": "לֹ֣א תוֹסִ֗יפוּ הָבִיא֙ מִנְחַת־שָׁ֔וְא קְטֹ֧רֶת תּוֹעֵבָ֛ה הִ֖יא לִ֑י חֹ֤דֶשׁ וְשַׁבָּת֙ קְרֹ֣א מִקְרָ֔א לֹא־אוּכַ֥ל אָ֖וֶן וַעֲצָרָֽה׃",
+      "douay_rheims": "Offer sacrifice no more in vain: incense is an abomination to me. The new moons, and the sabbaths and other festivals I will not abide, your assemblies are wicked.",
+      "finnish_biblia": "Älkäät silleen turhaa ruokauhrianne tuoko edes, se suitsutus on minulle kauhistus: uudella kuulla ja sabbatina, kuin kokous kuulutetaan, en minä voi kärsiä vääryyttä ja juhlapäivää yhdessä. ",
       "king_james": "Bring no more vain oblations; incense is an abomination unto me; the new moons and sabbaths, the calling of assemblies, I cannot away with; it is iniquity, even the solemn meeting."
     },
     {
       "verse": 14,
       "latin_vulgate": " Calendas vestras, et solemnitates vestras odivit anima mea :  facta sunt mihi molesta ; laboravi sustinens. ",
       "hebrew_masoretic": "חׇדְשֵׁיכֶ֤ם וּמֽוֹעֲדֵיכֶם֙ שָֽׂנְאָ֣ה נַפְשִׁ֔י הָי֥וּ עָלַ֖י לָטֹ֑רַח נִלְאֵ֖יתִי נְשֹֽׂא׃",
+      "douay_rheims": "My soul hateth your new moons, and your solemnities: they are become troublesome to me, I am weary of bearing them.",
+      "finnish_biblia": "Minun sieluni vihaa uusia kuitanne ja juhlapäiviänne, minä olen niistä suuttunut; minä väsyn niitä kärseissäni. ",
       "king_james": "Your new moons and your appointed feasts my soul hateth: they are a trouble unto me; I am weary to bear them."
     },
     {
       "verse": 15,
       "latin_vulgate": " Et cum extenderitis manus vestras, avertam oculos meos a vobis,  et cum multiplicaveritis orationem, non exaudiam :  manus enim vestræ sanguine plenæ sunt. ",
       "hebrew_masoretic": "וּבְפָרִשְׂכֶ֣ם כַּפֵּיכֶ֗ם אַעְלִ֤ים עֵינַי֙ מִכֶּ֔ם גַּ֛ם כִּֽי־תַרְבּ֥וּ תְפִלָּ֖ה אֵינֶ֣נִּי שֹׁמֵ֑עַ יְדֵיכֶ֖ם דָּמִ֥ים מָלֵֽאוּ׃",
+      "douay_rheims": "And when you stretch forth your hands, I will turn away my eyes from you: and when you multiply prayer, I will not hear: for your hands are full of blood.",
+      "finnish_biblia": "Ja kuin te parhaallansa käsiänne nostatte, niin minä kuitenkin käännän silmäni teistä pois; ja vaikka te paljon rukoilisitte, en minä kuitenkaan teitä kuule; teidän kätenne ovat verenvikoja täynnä. ",
       "king_james": "And when ye spread forth your hands, I will hide mine eyes from you: yea, when ye make many prayers, I will not hear: your hands are full of blood."
     },
     {
       "verse": 16,
       "latin_vulgate": " Lavamini, mundi estote ;  auferte malum cogitationum vestrarum  ab oculis meis :  quiescite agere perverse, ",
       "hebrew_masoretic": "רַֽחֲצוּ֙ הִזַּכּ֔וּ הָסִ֛ירוּ רֹ֥עַ מַעַלְלֵיכֶ֖ם מִנֶּ֣גֶד עֵינָ֑י חִדְל֖וּ הָרֵֽעַ׃",
+      "douay_rheims": "Wash yourselves, be clean, take away the evil of your devices from my eyes, cease to do perversely,",
+      "finnish_biblia": "Peskäät teitänne, puhdistakaat teitänne, pankaat paha menonne pois minun silmäini edestä, lakatkaat pahaa tekemästä. ",
       "king_james": "Wash you, make you clean; put away the evil of your doings from before mine eyes; cease to do evil;"
     },
     {
       "verse": 17,
       "latin_vulgate": " discite benefacere ;  quærite judicium, subvenite oppresso,  judicate pupillo, defendite viduam. ",
       "hebrew_masoretic": "לִמְד֥וּ הֵיטֵ֛ב דִּרְשׁ֥וּ מִשְׁפָּ֖ט אַשְּׁר֣וּ חָמ֑וֹץ שִׁפְט֣וּ יָת֔וֹם רִ֖יבוּ אַלְמָנָֽה׃ {ס}",
+      "douay_rheims": "Learn to do well: seek judgment, relieve the oppressed, judge for the fatherless, defend the widow.",
+      "finnish_biblia": "Oppikaat tekemään hyvää, ja etsikäät oikeutta, auttakaat alaspainettua, saattakat orvoille oikeus, ja auttakaat lesken asiaa. ",
       "king_james": "Learn to do well; seek judgment, relieve the oppressed, judge the fatherless, plead for the widow."
     },
     {
       "verse": 18,
       "latin_vulgate": " Et venite, et arguite me, dicit Dominus.  Si fuerint peccata vestra ut coccinum,  quasi nix dealbabuntur ;  et si fuerint rubra quasi vermiculus,  velut lana alba erunt. ",
       "hebrew_masoretic": "לְכוּ־נָ֛א וְנִוָּכְחָ֖ה יֹאמַ֣ר יְהֹוָ֑ה אִם־יִהְי֨וּ חֲטָאֵיכֶ֤ם כַּשָּׁנִים֙ כַּשֶּׁ֣לֶג יַלְבִּ֔ינוּ אִם־יַאְדִּ֥ימוּ כַתּוֹלָ֖ע כַּצֶּ֥מֶר יִֽהְיֽוּ׃",
+      "douay_rheims": "And then come, and accuse me, saith the Lord: if your sins be as scarlet, they shall be made as white as snow: and if they be red as crimson, they shall be white as wool.",
+      "finnish_biblia": "Ja sitte tulkaat, ja katsokaamme, kummalla oikeus on, sanoo Herra. Jos teidän syntinne veriruskiat olisivat, niin heidän pitää lumivalkiaksi tuleman; ja vaikka he olisivat niinkuin ruusunkarvaiset, pitää heidän kuitenkin niinkuin villa tuleman. ",
       "king_james": "Come now, and let us reason together, saith the Lord: though your sins be as scarlet, they shall be as white as snow; though they be red like crimson, they shall be as wool."
     },
     {
       "verse": 19,
       "latin_vulgate": " Si volueritis, et audieritis me,  bona terræ comeditis. ",
       "hebrew_masoretic": "אִם־תֹּאב֖וּ וּשְׁמַעְתֶּ֑ם ט֥וּב הָאָ֖רֶץ תֹּאכֵֽלוּ׃",
+      "douay_rheims": "If you be willing, and will hearken to me, you shall eat the good things of the land.",
+      "finnish_biblia": "Jos te tahtoisitte ja (minua) kuulisitte, niin te maan hyvyyden nautita saisitte. ",
       "king_james": "If ye be willing and obedient, ye shall eat the good of the land:"
     },
     {
       "verse": 20,
       "latin_vulgate": " Quod si nolueritis, et me ad iracundiam provocaveritis,  gladius devorabit vos,  quia os Domini locutum est. ",
       "hebrew_masoretic": "וְאִם־תְּמָאֲנ֖וּ וּמְרִיתֶ֑ם חֶ֣רֶב תְּאֻכְּל֔וּ כִּ֛י פִּ֥י יְהֹוָ֖ה דִּבֵּֽר׃ {פ}",
+      "douay_rheims": "But if you will not, and will provoke me to wrath: the sword shall devour you because the mouth of the Lord hath spoken it.",
+      "finnish_biblia": "Mutta jos te estelette teitänne ja olette kovakorvaiset, niin miekan pitää teitä syömän; sillä Herran suu puhuu sen. ",
       "king_james": "But if ye refuse and rebel, ye shall be devoured with the sword: for the mouth of the Lord hath spoken it."
     },
     {
       "verse": 21,
       "latin_vulgate": " Quomodo facta est meretrix  civitas fidelis, plena judicii ?  justitia habitavit in ea,  nunc autem homicidæ. ",
       "hebrew_masoretic": "אֵיכָה֙ הָיְתָ֣ה לְזוֹנָ֔ה קִרְיָ֖ה נֶאֱמָנָ֑ה מְלֵאֲתִ֣י מִשְׁפָּ֗ט צֶ֛דֶק יָלִ֥ין בָּ֖הּ וְעַתָּ֥ה מְרַצְּחִֽים׃",
+      "douay_rheims": "How is the faithful city, that was full of judgment, become a harlot? justice dwelt in it, but now murderers.",
+      "finnish_biblia": "Kuinka se tapahtuu, että hurskas kaupunki on portoksi tullut? Hän oli täynnä oikeutta, vanhurskaus asui hänessä; mutta nyt murhaajat. ",
       "king_james": "How is the faithful city become an harlot! it was full of judgment; righteousness lodged in it; but now murderers."
     },
     {
       "verse": 22,
       "latin_vulgate": " Argentum tuum versum est in scoriam ;  vinum tuum mistum est aqua. ",
       "hebrew_masoretic": "כַּסְפֵּ֖ךְ הָיָ֣ה לְסִיגִ֑ים סׇבְאֵ֖ךְ מָה֥וּל בַּמָּֽיִם׃",
+      "douay_rheims": "Thy silver is turned into dross: thy wine is mingled with water.",
+      "finnish_biblia": "Sinun hopias on karreksi tullut, sinun juomas on vedellä sekoitettu. ",
       "king_james": "Thy silver is become dross, thy wine mixed with water:"
     },
     {
       "verse": 23,
       "latin_vulgate": " Principes tui infideles,  socii furum.  Omnes diligunt munera,  sequuntur retributiones.  Pupillo non judicant,  et causa viduæ non ingreditur ad illos. ",
       "hebrew_masoretic": "שָׂרַ֣יִךְ סוֹרְרִ֗ים וְחַבְרֵי֙ גַּנָּבִ֔ים כֻּלּוֹ֙ אֹהֵ֣ב שֹׁ֔חַד וְרֹדֵ֖ף שַׁלְמֹנִ֑ים יָתוֹם֙ לֹ֣א יִשְׁפֹּ֔טוּ וְרִ֥יב אַלְמָנָ֖ה לֹא־יָב֥וֹא אֲלֵיהֶֽם׃ {ס}",
+      "douay_rheims": "Thy princes are faithless, companions of thieves: they all love bribes, they run after rewards. They judge not for the fatherless: and the widow's cause cometh not in to them.",
+      "finnish_biblia": "Sinun päämiehes ovat vilpistelleet ja varasten kumppanit; kaikki he mielellänsä lahjoja ottavat, ja pyytävät antimia. Ei he orvoille oikeutta tee, ja leskein asia ei tule heidän eteensä. ",
       "king_james": "Thy princes are rebellious, and companions of thieves: every one loveth gifts, and followeth after rewards: they judge not the fatherless, neither doth the cause of the widow come unto them."
     },
     {
       "verse": 24,
       "latin_vulgate": " Propter hoc ait Dominus,  Deus exercituum, Fortis Israël :  Heu ! consolabor super hostibus meis,  et vindicabor de inimicis meis. ",
       "hebrew_masoretic": "לָכֵ֗ן נְאֻ֤ם הָאָדוֹן֙ יְהֹוָ֣ה צְבָא֔וֹת אֲבִ֖יר יִשְׂרָאֵ֑ל ה֚וֹי אֶנָּחֵ֣ם מִצָּרַ֔י וְאִנָּקְמָ֖ה מֵאוֹיְבָֽי׃",
+      "douay_rheims": "Therefore saith the Lord the God of hosts, the mighty one of Israel: Ah! I will comfort myself over my adversaries: and I will be revenged of my enemies.",
+      "finnish_biblia": "Sentähden sanoo Herra, Herra Zebaot, väkevä Israelissa: voi! minä tahdon itseni lohduttaa vihollisistani, ja vihamiehissäni vihani sammuttaa; ",
       "king_james": "Therefore saith the Lord, the Lord of hosts, the mighty One of Israel, Ah, I will ease me of mine adversaries, and avenge me of mine enemies:"
     },
     {
       "verse": 25,
       "latin_vulgate": " Et convertam manum meam ad te,  et excoquam ad puram scoriam tuam,  et auferam omne stannum tuum. ",
       "hebrew_masoretic": "וְאָשִׁ֤יבָה יָדִי֙ עָלַ֔יִךְ וְאֶצְרֹ֥ף כַּבֹּ֖ר סִיגָ֑יִךְ וְאָסִ֖ירָה כׇּל־בְּדִילָֽיִךְ׃",
+      "douay_rheims": "And I will turn my hand to thee, and I will clean purge away thy dross, and I will take away all thy tin.",
+      "finnish_biblia": "Ja käännän käteni sinua vastaan, ja sinun kartes puhtaammaksi selitän, ja vien pois kaiken sinun tinas. ",
       "king_james": "And I will turn my hand upon thee, and purely purge away thy dross, and take away all thy tin:"
     },
     {
       "verse": 26,
       "latin_vulgate": " Et restituam judices tuos ut fuerunt prius,  et consiliarios tuos sicut antiquitus ;  post hæc vocaberis civitas justi,  urbs fidelis. ",
       "hebrew_masoretic": "וְאָשִׁ֤יבָה שֹׁפְטַ֙יִךְ֙ כְּבָרִ֣אשֹׁנָ֔ה וְיֹעֲצַ֖יִךְ כְּבַתְּחִלָּ֑ה אַֽחֲרֵי־כֵ֗ן יִקָּ֤רֵא לָךְ֙ עִ֣יר הַצֶּ֔דֶק קִרְיָ֖ה נֶאֱמָנָֽה׃",
+      "douay_rheims": "And I will restore thy judges as they were before, and thy counsellors as of old. After this thou shalt be called the city of the just, a faithful city.",
+      "finnish_biblia": "Ja saatan sinun tuomaris entisellensä, ja neuvonantajas niinkuin alustakin: sitte sinä kutsutaan vanhurskaaksi ja uskolliseksi kaupungiksi. ",
       "king_james": "And I will restore thy judges as at the first, and thy counsellors as at the beginning: afterward thou shalt be called, The city of righteousness, the faithful city."
     },
     {
       "verse": 27,
       "latin_vulgate": " Sion in judicio redimetur,  et reducent eam in justitia. ",
       "hebrew_masoretic": "צִיּ֖וֹן בְּמִשְׁפָּ֣ט תִּפָּדֶ֑ה וְשָׁבֶ֖יהָ בִּצְדָקָֽה׃",
+      "douay_rheims": "Sion shall be redeemed in judgment, and they shall bring her back in justice.",
+      "finnish_biblia": "Zion lunastetaan oikeudella, ja sen kääntyväiset vanhurskaudella, ",
       "king_james": "Zion shall be redeemed with judgment, and her converts with righteousness."
     },
     {
       "verse": 28,
       "latin_vulgate": " Et conteret scelestos, et peccatores simul ;  et qui dereliquerunt Dominum consumentur. ",
       "hebrew_masoretic": "וְשֶׁ֧בֶר פֹּשְׁעִ֛ים וְחַטָּאִ֖ים יַחְדָּ֑ו וְעֹזְבֵ֥י יְהֹוָ֖ה יִכְלֽוּ׃",
+      "douay_rheims": "And he shall destroy the wicked, and the sinners together: and they that have forsaken the Lord, shall be consumed.",
+      "finnish_biblia": "Että ylitsekäymärit ja syntiset ynnä särjetään, ja jotka Herran hylkäävät, hukutetaan. ",
       "king_james": "And the destruction of the transgressors and of the sinners shall be together, and they that forsake the Lord shall be consumed."
     },
     {
       "verse": 29,
       "latin_vulgate": " Confundentur enim ab idolis quibus sacrificaverunt,  et erubescetis super hortis quos elegeratis, ",
       "hebrew_masoretic": "כִּ֣י יֵבֹ֔שׁוּ מֵאֵילִ֖ים אֲשֶׁ֣ר חֲמַדְתֶּ֑ם וְתַ֨חְפְּר֔וּ מֵהַגַּנּ֖וֹת אֲשֶׁ֥ר בְּחַרְתֶּֽם׃",
+      "douay_rheims": "For they shall be confounded for the idols, to which they have sacrificed: and you shall be ashamed of the gardens which you have chosen.",
+      "finnish_biblia": "Sillä heidän täytyy häpiään tulla tammien tähden, joita he himoitsevat, ja häväistyksi tuleman yrttitarhain tähden, jotka he valitsivat. ",
       "king_james": "For they shall be ashamed of the oaks which ye have desired, and ye shall be confounded for the gardens that ye have chosen."
     },
     {
       "verse": 30,
       "latin_vulgate": " cum fueritis velut quercus defluentibus foliis,  et velut hortus absque aqua. ",
       "hebrew_masoretic": "כִּ֣י תִֽהְי֔וּ כְּאֵלָ֖ה נֹבֶ֣לֶת עָלֶ֑הָ וּֽכְגַנָּ֔ה אֲשֶׁר־מַ֖יִם אֵ֥ין לָֽהּ׃",
+      "douay_rheims": "When you shall be as an oak with the leaves falling off, and as a garden without water.",
+      "finnish_biblia": "Ja te tulette niinkuin joku tammi surkastuneilla lehdillä, ja niinkuin joku vedetöin yrttitarha. ",
       "king_james": "For ye shall be as an oak whose leaf fadeth, and as a garden that hath no water."
     },
     {
       "verse": 31,
       "latin_vulgate": " Et erit fortitudo vestra ut favilla stuppæ,  et opus vestrum quasi scintilla,  et succendetur utrumque simul,  et non erit qui extinguat.  ",
       "hebrew_masoretic": "וְהָיָ֤ה הֶחָסֹן֙ לִנְעֹ֔רֶת וּפֹעֲל֖וֹ לְנִיצ֑וֹץ וּבָעֲר֧וּ שְׁנֵיהֶ֛ם יַחְדָּ֖ו וְאֵ֥ין מְכַבֶּֽה׃ {פ}",
+      "douay_rheims": "And your strength shall be as the ashes of tow, and your work as a spark: and both shall burn together, and there shall be none to quench it. ",
+      "finnish_biblia": "Ja väkevä tulee niinkuin rohdin, ja hänen tekonsa niinkuin kipinä. Ja he sytytetään ynnä molemmat, jota ei kenkään sammuta.   ",
       "king_james": "And the strong shall be as tow, and the maker of it as a spark, and they shall both burn together, and none shall quench them. "
     }
   ]
