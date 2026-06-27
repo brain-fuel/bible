@@ -53,7 +53,23 @@ Each parallel text is registered in `data/editions.json`. A row is self-describi
 
 **Adding a new parallel OT text needs only a registry row** (plus the source's per-book name in `data/books.json`, and a cache/network fetch). The generator (`tools/generate_ot.py`), merge engine (`tools/merge_ot.py`), and validator (`tools/validate_ot.py`) iterate the registry and need no per-edition edits. Only a genuinely new *source backend* (a `source.type` not yet handled) requires one new class in `tools/sources/registry.py`.
 
-The Scrollmapper `DRC` and `FinBiblia` datasets also carry deuterocanonical books. The Apocrypha are not yet generated: the merge engine uses KJV as the verse-position spine, and KJV has no deuterocanon, so the Apocrypha need a separate base edition, an `bible/apo/` corpus, apocrypha book metadata, and an apocrypha versification spine — a future plan.
+### Apocrypha (`bible/apo/`)
+
+The Apocrypha use the Authorized KJV-with-Apocrypha (Scrollmapper `KJVA`) as the
+verse-position spine — 14 books, 5,717 verses, Greek/KJV-family versification, so
+the English column stays KJV across the whole corpus. A second column carries the
+Finnish Biblia 1776 (`FinBiblia`).
+
+Cross-edition apocrypha alignment is **identity placement with no versification
+map**: TVTMS treats KJVA and Biblia 1776 as the same tradition and provides no
+verse map between them, so none is fabricated. Where Biblia 1776 has no text the
+verse is marked `refs.finnish_biblia.absent`. Biblia 1776 ships empty placeholders
+for I/II Esdras and a different Greek-Esther unit than KJV's "Additions to Esther",
+so those three books are fully Finnish-absent; total Finnish-absent is 1,505 verses.
+
+The Latin/Vulgate and Douay-Rheims Apocrypha belong to a different versification
+family (e.g. Sirach diverges in 48 of 51 chapters, and the Daniel/Esther additions
+are embedded rather than separate books) with no map in our sources — a future plan.
 
 ## Sources
 
@@ -101,5 +117,15 @@ Generate OT chapters:
 Validate OT structure. This checks all 23,145 OT verses, contiguity, non-empty verse bodies (except marked-absent), and alignment against versification oracles:
 
     python -m tools.validate_ot
+
+### Apocrypha
+
+Generate Apocrypha chapters:
+
+    python -m tools.generate_apo
+
+Validate Apocrypha structure:
+
+    python -m tools.validate_apo
 
 Raw sources are cached in `data/cache/` (gitignored).
