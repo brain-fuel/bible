@@ -6,7 +6,7 @@ def test_three_canonical_editions_registered():
 
 def test_ot_editions_are_latin_hebrew_kjv_in_order():
     ot = [e["id"] for e in editions_for("ot")]
-    assert ot == ["king_james", "latin_vulgate", "hebrew_masoretic"]
+    assert ot == ["king_james", "latin_vulgate", "hebrew_masoretic", "douay_rheims", "finnish_biblia"]
 
 def test_kjv_is_base_versification():
     kjv = next(e for e in load_editions() if e["id"] == "king_james")
@@ -49,3 +49,28 @@ def test_vmap_key_only_on_diverging_editions():
     assert "vmap_key" not in eds["king_james"]
     assert eds["latin_vulgate"]["vmap_key"] == "latin"
     assert eds["hebrew_masoretic"]["vmap_key"] == "hebrew"
+
+
+def test_new_ot_editions_registered():
+    eds = {e["id"]: e for e in load_editions()}
+    drc = eds["douay_rheims"]
+    fin = eds["finnish_biblia"]
+    # Douay reuses the existing Latin versification map.
+    assert drc["source"] == {"type": "scrollmapper", "key": "DRC"}
+    assert drc["book_name_field"] == "kjv_name"
+    assert drc["vmap_key"] == "latin"
+    assert drc["display_name_field"] == "douay_name"
+    assert drc["license"] == "PD"
+    assert drc["testaments"] == ["ot"]
+    # Finnish Biblia 1776 is already KJV-versified: identity, no vmap_key.
+    assert fin["source"] == {"type": "scrollmapper", "key": "FinBiblia"}
+    assert fin["book_name_field"] == "kjv_name"
+    assert "vmap_key" not in fin
+    assert fin["display_name_field"] == "finnish_name"
+    assert fin["license"] == "PD"
+
+
+def test_ot_output_order_with_new_editions():
+    ot = [e["id"] for e in editions_for("ot")]
+    assert ot == ["king_james", "latin_vulgate", "hebrew_masoretic",
+                  "douay_rheims", "finnish_biblia"]
