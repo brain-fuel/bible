@@ -43,7 +43,9 @@ The Bible as structured JSON, one file per chapter, with multiple parallel texts
 
 ## Edition System
 
-Each parallel text is registered in `data/editions.json` with metadata: id, language, source type, versification system, and license. New side-by-side texts can be added by appending a registry row and rerunning generation, without schema change.
+Each parallel text is registered in `data/editions.json` with metadata: id, language, source type, versification system, and license. The registry and source adapters (`scrollmapper`, `sefaria`) form the reusable foundation: the scrollmapper adapter, for example, can serve any text in Scrollmapper's database with no new network code.
+
+Adding a new parallel text (say, Finnish Biblia 1776, which uses the scrollmapper adapter) requires two steps: append a registry row in `data/editions.json`, and add a small wiring step in the generator (`tools/generate_ot.py`), the verse-key assembler (`tools/merge_ot.py`), and the validator body list (`tools/validate_ot.py`) to include the new edition key. The schema does not change and the source adapter does not change, but the three pipeline files do name editions explicitly and each needs one addition.
 
 ## Sources
 

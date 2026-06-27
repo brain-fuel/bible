@@ -6,6 +6,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[1]
 BODY = ("latin_vulgate", "hebrew_masoretic", "king_james")
 TOTAL_OT_VERSES = 23145
+EXPECTED_ABSENT = {"latin_vulgate": 10, "hebrew_masoretic": 0}
 
 # (code, kjv_chapter, kjv_verse, expected hebrew "chap:verse")
 ALIGNMENT_ORACLES = [
@@ -81,6 +82,14 @@ def main():
             errs.append(f"{code}: expected {meta['chapters']} files, found {found}")
     if total != TOTAL_OT_VERSES:
         errs.append(f"total OT verses {total}, expected {TOTAL_OT_VERSES}")
+    if absent_latin != EXPECTED_ABSENT["latin_vulgate"]:
+        errs.append(
+            f"absent latin_vulgate count {absent_latin}, expected {EXPECTED_ABSENT['latin_vulgate']}"
+        )
+    if absent_hebrew != EXPECTED_ABSENT["hebrew_masoretic"]:
+        errs.append(
+            f"absent hebrew_masoretic count {absent_hebrew}, expected {EXPECTED_ABSENT['hebrew_masoretic']}"
+        )
     for code, ch, v, expected in ALIGNMENT_ORACLES:
         got = found_ref.get((code, ch, v))
         if got != expected:
