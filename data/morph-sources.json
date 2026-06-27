@@ -1,0 +1,10 @@
+{
+  "languages": [
+    {"lang": "grc", "testament": "nt", "l0_field": "greek_textus_receptus",
+     "norm": "data/cache/morph/grc.tsv", "edition_filter": "TR",
+     "lexicon_sources": ["strongs-greek", "abbott-smith"], "domain_source": "ln-map"},
+    {"lang": "hbo", "testament": "ot", "l0_field": "hebrew_masoretic",
+     "norm": "data/cache/morph/hbo.tsv", "edition_filter": "WLC",
+     "lexicon_sources": ["strongs-hebrew", "bdb"], "domain_source": "sdbh"}
+  ]
+}
