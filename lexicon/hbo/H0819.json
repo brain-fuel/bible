@@ -19,9 +19,14 @@
       "domain": null
     }
   ],
-  "domains": [],
+  "domains": [
+    "002003002022",
+    "002003003013",
+    "002003003013 003001004"
+  ],
   "root": "H0817",
   "sources": [
-    "strongs-hebrew"
+    "strongs-hebrew",
+    "sdbh"
   ]
 }

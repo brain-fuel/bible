@@ -19,9 +19,14 @@
       "domain": null
     }
   ],
-  "domains": [],
+  "domains": [
+    "001003001",
+    "001004001019",
+    "001005001012"
+  ],
   "root": "H1556",
   "sources": [
-    "strongs-hebrew"
+    "strongs-hebrew",
+    "sdbh"
   ]
 }

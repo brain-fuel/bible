@@ -19,9 +19,17 @@
       "domain": null
     }
   ],
-  "domains": [],
+  "domains": [
+    "001004001017",
+    "001005001003",
+    "001006008",
+    "002001001023 002001001048",
+    "002001002006",
+    "003001008"
+  ],
   "root": null,
   "sources": [
-    "strongs-hebrew"
+    "strongs-hebrew",
+    "sdbh"
   ]
 }

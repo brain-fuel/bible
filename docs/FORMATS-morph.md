@@ -559,6 +559,45 @@ TEHMC section boundary at line 128.
 
 ---
 
+## Domain sources (Task 8)
+
+Semantic domains are attached to each lexicon entry from MACULA linguistic datasets.
+
+### Greek: Louw-Nida section references (source label `ln-map`)
+
+- **File:** `Nestle1904/tsv/macula-greek-Nestle1904.tsv`, column `ln`
+- **Format:** space-separated LN section references, e.g. `"25.43 25.44"`.
+  A single Strong's number may map to multiple LN sections when the lemma
+  appears in different sense-contexts in the NT.
+- **Join key:** `strong` column (bare integer, e.g. `"26"`) normalised to `G####`.
+- **Coverage:** 5079/5122 corpus Greek strongs (99.2%) received at least one LN code.
+- **License:** CC-BY 4.0, Clear Bible Inc.
+- **URL:** https://github.com/Clear-Bible/macula-greek
+
+### Hebrew: SDBH LexDomain codes (source label `sdbh`)
+
+- **File:** `WLC/nodes/{book}-{chapter}.xml`, attribute `LexDomain` on `<m>` elements
+- **Format:** 12-digit hierarchical code, e.g. `"002003003004"`.
+  Multiple codes per lemma are possible; all observed values are stored.
+- **Join key:** `oshb-strongs` attribute (integer + optional letter suffix, e.g. `"1254a"`)
+  normalised to `H####` by stripping the letter suffix and zero-padding.
+- **Coverage:** 7564/8426 corpus Hebrew strongs (89.8%) received at least one SDBH code.
+  The remaining ~10% are morphology-only entries (particles, prefixes, proper nouns)
+  that MACULA does not assign a LexDomain to.
+- **License:** CC-BY 4.0, Clear Bible Inc.
+- **URL:** https://github.com/Clear-Bible/macula-hebrew
+
+### Cache location
+
+Both maps are cached (gitignored) under:
+  `data/cache/morph/raw/macula/grc_domain_map.json`
+  `data/cache/morph/raw/macula/hbo_domain_map.json`
+
+The maps are built once by `tools/fetch_macula.py` and reused by `tools/build_lexicon.py`.
+Re-run `python -m tools.fetch_macula --force` to refresh from MACULA upstream.
+
+---
+
 ## Attribution requirements
 
 Any downstream use of data from these sources must include:
@@ -569,6 +608,7 @@ Any downstream use of data from these sources must include:
 | Strong's Greek/Hebrew XML | "Public Domain — Strong's Exhaustive Concordance, James Strong 1890. XML by Ulrik Petersen." |
 | BrownDriverBriggs.xml | "Public Domain — Brown, Driver, Briggs, Hebrew and English Lexicon, 1906. XML by openscriptures.org." |
 | Abbott-Smith (via TBESG) | "G. Abbott-Smith, A Manual Greek Lexicon of the New Testament, 1922. Public Domain." |
+| MACULA Greek / Hebrew | "MACULA Greek/Hebrew Linguistic Datasets, Clear Bible Inc., CC-BY 4.0. https://github.com/Clear-Bible/macula-greek and https://github.com/Clear-Bible/macula-hebrew" |
 
 ---
 
@@ -593,6 +633,9 @@ Any downstream use of data from these sources must include:
 5. **TBESH Meaning field requires Online Bible permission** and cannot be used
    as-is. Use openscriptures BrownDriverBriggs.xml (PD) for Hebrew definitions.
 
-6. **No open Louw-Nida domain-number mapping exists.** UBS MARBLE contains this
-   data but requires explicit permission. Fallback = STEPBible TBESG sub-meaning
-   labels (CC-BY, already in TAGNT col 9 and TAHOT expanded tags).
+6. **UPDATE (Task 8): An open Louw-Nida domain mapping DOES exist via MACULA.**
+   The original assessment ("no open mapping") was based on UBS MARBLE (restricted).
+   MACULA Greek (Clear Bible, CC-BY 4.0) carries Louw-Nida section references in
+   the `ln` column of `Nestle1904/tsv/macula-greek-Nestle1904.tsv`. MACULA Hebrew
+   carries SDBH LexDomain codes in the `LexDomain` attribute of WLC node XML files.
+   Both are usable without permission. See the Domain Sources section below.

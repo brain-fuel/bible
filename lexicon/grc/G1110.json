@@ -23,10 +23,18 @@
       "domain": null
     }
   ],
-  "domains": [],
+  "domains": [
+    "28.21",
+    "28.30",
+    "28.32",
+    "28.57",
+    "34.17",
+    "58.55"
+  ],
   "root": "G1097",
   "sources": [
     "strongs-greek",
-    "tbesg"
+    "tbesg",
+    "ln-map"
   ]
 }

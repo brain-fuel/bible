@@ -8,10 +8,18 @@ Sources (PD / CC-BY only):
   strongs-greek.xml  — Public Domain (Strong's 1890)
   strongs-hebrew.xml — Public Domain (Strong's 1890, OSIS XML by openscriptures)
   TBESG.txt          — CC-BY 4.0 (STEPBible / Tyndale House); gloss column only
+  MACULA Greek TSV   — CC-BY 4.0 (Clear Bible); Louw-Nida domain codes via `ln` col
+  MACULA Hebrew XML  — CC-BY 4.0 (Clear Bible); SDBH LexDomain codes via `LexDomain`
 
 Latin glosses are NOT generated: there is no Vulgate→Strong's alignment in this
 corpus, so Latin derivation would require fabrication. Only 'en' is seeded; the
 glosses dict is structured as a language-keyed map ready for future language additions.
+
+Domains are attached from MACULA linguistic datasets (CC-BY 4.0, Clear Bible Inc.).
+  Greek  → Louw-Nida section references (e.g. "25.43") sourced from the `ln` column
+           of the Nestle1904 TSV. Source label: "macula-ln".
+  Hebrew → SDBH LexDomain hierarchical codes (e.g. "002003003004") from WLC node XML
+           `LexDomain` attribute. Source label: "macula-sdbh".
 
 Entry schema:
   {strong, lemma, translit, lang, pos, glosses, senses, domains, root, sources}
@@ -107,10 +115,52 @@ def build_entry(strong: str, lang: str, sources: dict) -> dict:
         "pos": pos,
         "glosses": glosses,
         "senses": senses,
-        "domains": [],   # filled in Task 8
+        "domains": [],   # filled by attach_domains()
         "root": root,
         "sources": src_list,
     }
+
+
+def attach_domains(entry: dict, domain_map: dict) -> dict:
+    """Attach semantic domains to a lexicon entry from a pre-built domain map.
+
+    Args:
+        entry:      A lexicon entry dict (mutated in place and returned).
+        domain_map: {Strong_ID: [sorted domain codes]}, e.g.
+                    {"G0026": ["25.43"], "H1254": ["002002002005"]}.
+                    Greek codes are Louw-Nida references ("25.43").
+                    Hebrew codes are SDBH LexDomain codes ("002003003004").
+
+    Behaviour:
+        - Sets entry["domains"] = sorted list of domain codes for this strong.
+        - Appends the source label ("macula-ln" for Greek, "macula-sdbh" for
+          Hebrew) to entry["sources"] if not already present and if domains
+          were actually found.
+        - Does NOT fabricate domains: if strong is not in domain_map, domains
+          stays an empty list and no source label is added.
+
+    Returns:
+        The mutated entry dict.
+    """
+    strong = entry.get("strong", "")
+    codes = domain_map.get(strong)
+    if not codes:
+        return entry
+
+    entry["domains"] = sorted(codes)
+
+    # Choose source label by language prefix.
+    # Greek  → "ln-map"  (Louw-Nida, MACULA Greek Nestle1904 TSV, CC-BY 4.0)
+    # Hebrew → "sdbh"    (SDBH LexDomain, MACULA Hebrew WLC nodes, CC-BY 4.0)
+    if strong.startswith("G"):
+        src_label = "ln-map"
+    else:
+        src_label = "sdbh"
+
+    if src_label not in entry["sources"]:
+        entry["sources"].append(src_label)
+
+    return entry
 
 
 # ---------------------------------------------------------------------------
@@ -392,6 +442,8 @@ def extract_strongs_from_corpus(morph_dir: str | Path) -> tuple[set, set]:
 # ---------------------------------------------------------------------------
 
 def main():
+    from tools.fetch_macula import load_or_build_domain_maps
+
     base = Path(__file__).parent.parent  # repo root
     raw = base / "data" / "cache" / "morph" / "raw"
     morph_dir = base / "morph"
@@ -411,6 +463,12 @@ def main():
     print(f"  Greek unique Strong's in corpus: {len(grc_ids)}")
     print(f"  Hebrew unique Strong's in corpus: {len(hbo_ids)}")
 
+    # Load / build semantic domain maps from MACULA (CC-BY 4.0)
+    print("\nLoading semantic domain maps (MACULA, CC-BY 4.0)...")
+    grc_domain_map, hbo_domain_map = load_or_build_domain_maps(base, progress=True)
+    print(f"  Greek domain map: {len(grc_domain_map)} strongs with LN codes")
+    print(f"  Hebrew domain map: {len(hbo_domain_map)} strongs with SDBH codes")
+
     # Source dicts for build_entry
     grc_sources = {
         "strongs-greek": grc_strongs,
@@ -424,16 +482,22 @@ def main():
     grc_out = base / "lexicon" / "grc"
     grc_out.mkdir(parents=True, exist_ok=True)
     grc_no_gloss = 0
+    grc_with_domain = 0
     for sid in sorted(grc_ids):
         entry = build_entry(sid, "grc", grc_sources)
+        entry = attach_domains(entry, grc_domain_map)
         if not entry["glosses"]["en"]:
             grc_no_gloss += 1
+        if entry["domains"]:
+            grc_with_domain += 1
         (grc_out / f"{sid}.json").write_text(
             json.dumps(entry, ensure_ascii=False, indent=2), encoding="utf-8"
         )
-    grc_coverage = 100 * (len(grc_ids) - grc_no_gloss) / len(grc_ids)
+    grc_gloss_cov = 100 * (len(grc_ids) - grc_no_gloss) / len(grc_ids)
+    grc_domain_cov = 100 * grc_with_domain / len(grc_ids)
     print(f"\nGreek lexicon: {len(grc_ids)} files written to lexicon/grc/")
-    print(f"  en-gloss coverage: {len(grc_ids) - grc_no_gloss}/{len(grc_ids)} ({grc_coverage:.1f}%)")
+    print(f"  en-gloss coverage: {len(grc_ids) - grc_no_gloss}/{len(grc_ids)} ({grc_gloss_cov:.1f}%)")
+    print(f"  domain coverage:   {grc_with_domain}/{len(grc_ids)} ({grc_domain_cov:.1f}%)")
     if grc_no_gloss:
         print(f"  WARNING: {grc_no_gloss} entries have no English gloss")
 
@@ -441,31 +505,46 @@ def main():
     hbo_out = base / "lexicon" / "hbo"
     hbo_out.mkdir(parents=True, exist_ok=True)
     hbo_no_gloss = 0
+    hbo_with_domain = 0
     for sid in sorted(hbo_ids):
         entry = build_entry(sid, "hbo", hbo_sources)
+        entry = attach_domains(entry, hbo_domain_map)
         if not entry["glosses"]["en"]:
             hbo_no_gloss += 1
+        if entry["domains"]:
+            hbo_with_domain += 1
         (hbo_out / f"{sid}.json").write_text(
             json.dumps(entry, ensure_ascii=False, indent=2), encoding="utf-8"
         )
-    hbo_coverage = 100 * (len(hbo_ids) - hbo_no_gloss) / len(hbo_ids)
+    hbo_gloss_cov = 100 * (len(hbo_ids) - hbo_no_gloss) / len(hbo_ids)
+    hbo_domain_cov = 100 * hbo_with_domain / len(hbo_ids)
     print(f"\nHebrew lexicon: {len(hbo_ids)} files written to lexicon/hbo/")
-    print(f"  en-gloss coverage: {len(hbo_ids) - hbo_no_gloss}/{len(hbo_ids)} ({hbo_coverage:.1f}%)")
+    print(f"  en-gloss coverage: {len(hbo_ids) - hbo_no_gloss}/{len(hbo_ids)} ({hbo_gloss_cov:.1f}%)")
+    print(f"  domain coverage:   {hbo_with_domain}/{len(hbo_ids)} ({hbo_domain_cov:.1f}%)")
     if hbo_no_gloss:
         print(f"  WARNING: {hbo_no_gloss} entries have no English gloss")
 
     # Spot-check G0026
     g0026 = json.loads((grc_out / "G0026.json").read_text(encoding="utf-8"))
     print(f"\nSpot-check G0026 (ἀγάπη):")
-    print(f"  lemma: {g0026['lemma']}")
-    print(f"  root:  {g0026['root']}")
-    print(f"  en glosses: {g0026['glosses']['en']}")
+    print(f"  lemma:   {g0026['lemma']}")
+    print(f"  root:    {g0026['root']}")
+    print(f"  domains: {g0026['domains']}")
+    print(f"  sources: {g0026['sources']}")
 
     # Spot-check H1254
     h1254 = json.loads((hbo_out / "H1254.json").read_text(encoding="utf-8"))
     print(f"\nSpot-check H1254 (בָּרָא):")
-    print(f"  lemma: {h1254['lemma']}")
-    print(f"  en glosses: {h1254['glosses']['en']}")
+    print(f"  lemma:   {h1254['lemma']}")
+    print(f"  domains: {h1254['domains']}")
+
+    # Love-domain cluster (LN 25.43)
+    love_cluster = sorted(
+        json.loads((grc_out / f"{sid}.json").read_text(encoding="utf-8"))["lemma"]
+        for sid in sorted(grc_ids)
+        if "25.43" in json.loads((grc_out / f"{sid}.json").read_text(encoding="utf-8")).get("domains", [])
+    )
+    print(f"\nLove-domain cluster (LN 25.43): {love_cluster}")
 
 
 if __name__ == "__main__":
