@@ -132,7 +132,7 @@ Column 3 (`dStrongs = Grammar`), format: `STRONG=MORPH`
 - Everything before `=` is the Strong's; everything after is the morph code.
 - Strong's has prefix `G` + 4-digit zero-padded number + optional disambiguation
   suffix (a single uppercase letter, e.g. `G`, `H`, `I`, `J`, `N`).
-  Strip the trailing alpha suffix to get the canonical Strong's: `G2424G` → `G0026`.
+  Strip the trailing alpha suffix to get the canonical Strong's: `G2424G` → `G2424`.
   The number is already 4-digit zero-padded; no further padding is needed.
 - Proper nouns that correspond to a Hebrew person use a Hebrew Strong's embedded
   in the form `H1732|G1138` — take the `G` number after `|` as the Greek Strong's.
@@ -437,8 +437,11 @@ Gen.1.1#07=L	הָ/אָֽרֶץ\׃	ha./'A.retz	the/ earth	H9009/{H0776G}\H9016	HT
 
 - Source: openscriptures/strongs (GitHub)
 - File: `strongs-greek.xml` (2.6 MB)
-- Format: XML with `<entry strongs="...">` elements containing `<greek unicode="...">`,
-  `<strongs_def>`, `<kjv_def>`, `<strongs_derivation>`
+- Format: XML with `<entry strongs="...">` elements containing
+  `<greek BETA="..." unicode="..." translit="...">` (e.g.
+  `<greek BETA="*A" unicode="Α" translit="A"/>` — `BETA` is Beta-code, `unicode`
+  is the real Greek lemma, `translit` is SBL-style transliteration),
+  plus `<strongs_def>`, `<kjv_def>`, `<strongs_derivation>`
 - License: **Public Domain** — Strong's 1890 (James Strong, S.T.D., LL.D.)
   XML encoding by Ulrik Petersen, 2006. "Public Domain -- Copy Freely."
 - URL: https://github.com/openscriptures/strongs
@@ -455,7 +458,7 @@ Gen.1.1#07=L	הָ/אָֽרֶץ\׃	ha./'A.retz	the/ earth	H9009/{H0776G}\H9016	HT
 
 - Source: STEPBible-Data/Lexicons/
 - File: `TBESG.txt` (4.6 MB)
-- Format: semi-structured TSV, columns: `eStrong  dStrong  uStrong  Greek  Transliteration  Morph  Gloss  Meaning`
+- Format: semi-structured TSV, columns: `eStrong  dStrong  uStrong  Greek  Transliteration  Morph  Gloss  Meaning` — note the real header for column 8 (`Meaning`) reads verbatim: `Abbott-Smith lexicon (AS), with gaps occationally filled from edited versions of  Middle LSJ` [sic]
 - License: **CC BY 4.0** — STEPBible + Tyndale House Cambridge
 - Meaning field: based on Abbott-Smith (1922), which is **Public Domain**
   (Abbott-Smith, G., *A Manual Greek Lexicon of the New Testament*, 1922).
@@ -479,7 +482,17 @@ Gen.1.1#07=L	הָ/אָֽרֶץ\׃	ha./'A.retz	the/ earth	H9009/{H0776G}\H9016	HT
 
 - Source: openscriptures/HebrewLexicon (GitHub)
 - File: `BrownDriverBriggs.xml` (2.8 MB)
-- Format: XML with `<entry id="...">` keyed to Strong's Hebrew numbers
+- Format: XML with `<entry id="a.xx.xx">` elements. **IDs are alphabetic
+  positional keys** (e.g. `a.aa.aa`, `a.ab.ab`, `a.ac.ac`), NOT Strong's numbers;
+  there is no `strongs=` attribute on `<entry>`. Each entry holds `<w>` (Hebrew
+  word), `<pos>`, `<def>`, and `<ref r="Book.C.V">` citations.
+- **Strong's → BDB lookup requires a cross-reference layer** (Task 7 depends on
+  this): the Strong's number is not in BrownDriverBriggs.xml directly. Map
+  Strong's → BDB entry ID via TBESH (the `eStrong` field maps Strong's numbers to
+  openscriptures BDB entry IDs); openscriptures also ships `LexicalIndex.xml` /
+  `AugIndex.xml` in the same HebrewLexicon repo, which link Strong's `<entry>`
+  augmented IDs to the alphabetic BDB IDs. Either index is the join key from a
+  Strong's number to its BDB `id="a.xx.xx"` entry.
 - License: **Public Domain** — BDB first published 1906; out of copyright.
   OpenScriptures XML encoding is also PD per their project terms.
 - URL: https://github.com/openscriptures/HebrewLexicon
