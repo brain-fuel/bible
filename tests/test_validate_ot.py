@@ -1,4 +1,4 @@
-from tools.validate_ot import validate_chapter_ot, EXPECTED_ABSENT, EXPECTED_SRC, BODY, BASE_ID
+from tools.validate_ot import validate_chapter, validate_chapter_ot, EXPECTED_ABSENT, EXPECTED_SRC, BODY, BASE_ID
 
 GOOD = {"book_id":"GEN","latin_name":"L","hebrew_name":"H","english_name":"E",
         "chapter":1,"verses":[
@@ -87,3 +87,17 @@ def test_well_formed_src_ok():
 def test_expected_absent_values():
     assert EXPECTED_ABSENT["latin_vulgate"] == 10
     assert EXPECTED_ABSENT["hebrew_masoretic"] == 0
+
+
+# --- generic validate_chapter signature ---
+
+def test_validate_chapter_generic_signature():
+    good = {"book_id": "X", "chapter": 1, "verses": [
+        {"verse": 1, "finnish_biblia": "a", "king_james_apocrypha": "b"}]}
+    assert validate_chapter(good, ("finnish_biblia", "king_james_apocrypha"),
+                            "king_james_apocrypha") == []
+    bad = {"book_id": "X", "chapter": 1, "verses": [
+        {"verse": 1, "finnish_biblia": "a", "king_james_apocrypha": ""}]}
+    errs = validate_chapter(bad, ("finnish_biblia", "king_james_apocrypha"),
+                            "king_james_apocrypha")
+    assert any("king_james_apocrypha" in e for e in errs)  # base never empty

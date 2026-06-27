@@ -42,7 +42,7 @@ ALIGNMENT_ORACLES = [
 ]
 
 
-def validate_chapter_ot(obj):
+def validate_chapter(obj, body, base_id):
     errs = []
     tag = f"{obj.get('book_id','?')} {obj.get('chapter','?')}"
     verses = obj.get("verses", [])
@@ -53,10 +53,9 @@ def validate_chapter_ot(obj):
         errs.append(f"{tag}: verse numbers not contiguous from 1: {nums}")
     for v in verses:
         refs = v.get("refs") or {}
-        for eid in BODY:
+        for eid in body:
             if not v.get(eid):
-                # The base edition is never absent -- always an error.
-                if eid == BASE_ID:
+                if eid == base_id:
                     errs.append(f"{tag}:{v.get('verse')}: empty {eid}")
                 elif refs.get(eid, {}).get("absent") is not True:
                     errs.append(f"{tag}:{v.get('verse')}: empty {eid}")
@@ -65,6 +64,10 @@ def validate_chapter_ot(obj):
             if src and len(src.split(":")) != 2:
                 errs.append(f"{tag}:{v.get('verse')}: malformed src {src}")
     return errs
+
+
+def validate_chapter_ot(obj):
+    return validate_chapter(obj, BODY, BASE_ID)
 
 
 def _load_books():
