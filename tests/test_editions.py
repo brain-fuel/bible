@@ -64,9 +64,32 @@ def test_new_ot_editions_registered():
     assert "vmap_key" not in fin
     assert fin["display_name_field"] == "finnish_name"
     assert fin["license"] == "PD"
+    assert fin["testaments"] == ["ot", "apo"]
 
 
 def test_ot_output_order_with_new_editions():
     ot = [e["id"] for e in editions_for("ot")]
     assert ot == ["king_james", "latin_vulgate", "hebrew_masoretic",
                   "douay_rheims", "finnish_biblia"]
+
+
+def test_apo_base_edition_registered():
+    eds = {e["id"]: e for e in load_editions()}
+    kjva = eds["king_james_apocrypha"]
+    assert kjva["source"] == {"type": "scrollmapper", "key": "KJVA"}
+    assert kjva["base"] is True
+    assert kjva["testaments"] == ["apo"]
+    assert kjva["book_name_field"] == "kjv_name"
+    assert kjva["display_name_field"] == "english_name"
+    assert "vmap_key" not in kjva
+    assert kjva["license"] == "PD"
+
+
+def test_finnish_now_serves_apo():
+    eds = {e["id"]: e for e in load_editions()}
+    assert eds["finnish_biblia"]["testaments"] == ["ot", "apo"]
+
+
+def test_apo_editions_order_base_first():
+    apo = [e["id"] for e in editions_for("apo")]
+    assert apo == ["king_james_apocrypha", "finnish_biblia"]
