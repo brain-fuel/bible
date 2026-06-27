@@ -87,8 +87,6 @@ The morpho-lexical layer adds the following sources (see the Morpho-Lexical Floo
 - **STEPBible TAGNT** (Translators Amalgamated Greek NT), **TAHOT** (Translators Amalgamated Hebrew OT), and **TBESG** (Translators Brief Exhaustive Strong's Greek): CC BY 4.0, produced by STEPBible and Tyndale House Cambridge. Supply per-word lemma, morphology, Strong's numbers, and English glosses for the NT Greek and OT Hebrew. Credit STEPBible and link to https://github.com/STEPBible.
 - **MACULA Greek and Hebrew Linguistic Datasets** (Clear Bible Inc.): CC BY 4.0. Supplies Louw-Nida section references (Greek) and SDBH LexDomain codes (Hebrew) for semantic domains. https://github.com/Clear-Bible/macula-greek and https://github.com/Clear-Bible/macula-hebrew.
 - **Strong's Exhaustive Concordance** Greek and Hebrew dictionaries (James Strong, 1890): Public Domain. XML encoding by Ulrik Petersen / openscriptures. https://github.com/openscriptures/strongs.
-- **Brown-Driver-Briggs Hebrew and English Lexicon** (BDB, 1906): Public Domain. XML encoding by openscriptures. https://github.com/openscriptures/HebrewLexicon.
-
 ## Versification Mapping and Attribution
 
 The OT cross-tradition verse alignment is derived from **STEPBible's TVTMS** (Translators Versification Traditions Mapping System), produced by Tyndale House Cambridge. This data is licensed CC BY 4.0. A small hand-authored CC0 supplement (`data/versification/ot-versification-supplement.json`) aligns the Decalogue chapters (Exodus 20, Deuteronomy 5) to the Sefaria verse division.
@@ -208,4 +206,3 @@ Greek semantic domains use Louw-Nida section references (e.g. `"25.43"`) sourced
 - STEPBible TAGNT / TAHOT / TBESG: "Data created by www.STEPBible.org based on work at Tyndale House Cambridge (CC BY 4.0). Source: https://github.com/STEPBible"
 - MACULA Greek / Hebrew: "MACULA Greek/Hebrew Linguistic Datasets, Clear Bible Inc., CC-BY 4.0. https://github.com/Clear-Bible/macula-greek and https://github.com/Clear-Bible/macula-hebrew"
 - Strong's Greek / Hebrew dictionaries: Public Domain -- Strong's Exhaustive Concordance, James Strong 1890. XML by Ulrik Petersen / openscriptures.
-- Brown-Driver-Briggs Hebrew Lexicon: Public Domain -- BDB, 1906. XML by openscriptures.org.

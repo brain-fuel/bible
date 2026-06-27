@@ -13,8 +13,9 @@ Strong's: we use col 8 "Root dStrong+Instance".  Canonical form obtained by:
 
 Lemma deviation: TAHOT has no explicit "dictionary form" column analogous to
 TAGNT col 4.  Col 1 (Hebrew surface with full pointing and prefix/suffix
-slashes) is used for both surface and lemma.  Downstream tasks that build the
-lexicon layer (Tasks 4-5) will replace lemma with the BDB/Strong's form.
+slashes) is used as the surface form.  The CoNLL-U LEMMA is resolved at
+generation time via tools/strongs_headwords.py (H#### -> NFC headword from
+strongs-hebrew.xml), so the intermediate TSV lemma field is unused for LEMMA.
 
 Empty-strong deviation: a handful of Qere/Ketiv [Q(K)] rows have a blank col 8.
 These yield an empty-string strong ("") meaning "no Strong's" (absent), which

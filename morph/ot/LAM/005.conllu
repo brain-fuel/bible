@@ -1,197 +1,197 @@
 # ref = LAM.5.1
-1	זְכֹ֤ר	זְכֹ֤ר	VERB	HVqv2ms	Gender=Masc|HebBinyan=Qal|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	_	_	Strong=H2142|Translit=ze.Khor
-2	יְהֹוָה֙	יְהוָה֙	PROPN	HNpt	_	_	_	Strong=H3068|Translit=Yah.weh
-3	מֶֽה	מֶֽה\־	PRON	HPi	_	_	_	Strong=H4100|Translit=meh-
-4	הָ֣יָה	הָ֣יָה	VERB	HVqp3ms	Gender=Masc|HebBinyan=Qal|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	Strong=H1961|Translit=Ha.yah
-5	לָ֔נוּ	לָ֔/נוּ	PRON	HR/Sp1bp	Gender=Com|Number=Plur|Person=1	_	_	Strong=H9035|Translit=La./nu
+1	זְכֹ֤ר	זָכַר	VERB	HVqv2ms	Gender=Masc|HebBinyan=Qal|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	_	_	Strong=H2142|Translit=ze.Khor
+2	יְהֹוָה֙	יְהֹוָה	PROPN	HNpt	_	_	_	Strong=H3068|Translit=Yah.weh
+3	מֶֽה	מָה	PRON	HPi	_	_	_	Strong=H4100|Translit=meh-
+4	הָ֣יָה	הָיָה	VERB	HVqp3ms	Gender=Masc|HebBinyan=Qal|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	Strong=H1961|Translit=Ha.yah
+5	לָ֔נוּ	_	PRON	HR/Sp1bp	Gender=Com|Number=Plur|Person=1	_	_	Strong=H9035|Translit=La./nu
 6	(הביט)	_	X	_	_	_	_	Align=unmatched
-7	הַבִּ֖יטָה	הַבִּ֖יטָ/ה	VERB	HVhv2ms/Sh	Gender=Masc|HebBinyan=Hif|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	_	_	Strong=H5027|Translit=ha.beit/h
-8	וּרְאֵ֥ה	וּ/רְאֵ֥ה	VERB	HC/Vqv2ms	Gender=Masc|HebBinyan=Qal|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	_	_	Strong=H7200|Translit=u./re.'Eh
-9	אֶת	אֶת\־	PART	HTo	_	_	_	Strong=H0853|Translit='et-
-10	חֶרְפָּתֵֽנוּ	חֶרְפָּתֵֽ/נוּ\׃	NOUN	HNcfsc/Sp1bp	Gender=Fem|Number=Sing|State=Cns	_	_	Strong=H2781|Translit=cher.pa.Te./nu
+7	הַבִּ֖יטָה	נָבַט	VERB	HVhv2ms/Sh	Gender=Masc|HebBinyan=Hif|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	_	_	Strong=H5027|Translit=ha.beit/h
+8	וּרְאֵ֥ה	רָאָה	VERB	HC/Vqv2ms	Gender=Masc|HebBinyan=Qal|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	_	_	Strong=H7200|Translit=u./re.'Eh
+9	אֶת	אֵת	PART	HTo	_	_	_	Strong=H0853|Translit='et-
+10	חֶרְפָּתֵֽנוּ	חֶרְפָּה	NOUN	HNcfsc/Sp1bp	Gender=Fem|Number=Sing|State=Cns	_	_	Strong=H2781|Translit=cher.pa.Te./nu
 
 # ref = LAM.5.2
-1	נַחֲלָתֵ֙נוּ֙	נַחֲלָתֵ֙/נוּ֙	NOUN	HNcfsc/Sp1bp	Gender=Fem|Number=Sing|State=Cns	_	_	Strong=H5159|Translit=na.cha.la.Te./nu
-2	נֶֽהֶפְכָ֣ה	נֶֽהֶפְכָ֣ה	VERB	HVNp3fs	Gender=Fem|HebBinyan=Nif|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	Strong=H2015|Translit=ne.hef.Khah
-3	לְזָרִ֔ים	לְ/זָרִ֔ים	ADJ	HR/Aampa	Gender=Masc|Number=Plur|State=Abs	_	_	Strong=H2114|Translit=le./za.Rim
-4	בָּתֵּ֖ינוּ	בָּתֵּ֖י/נוּ	NOUN	HNcmpc/Sp1bp	Gender=Masc|Number=Plur|State=Cns	_	_	Strong=H1004|Translit=ba.Tei./nu
-5	לְנׇכְרִֽים	לְ/נָכְרִֽים\׃	ADJ	HR/Aampa	Gender=Masc|Number=Plur|State=Abs	_	_	Strong=H5237|Translit=le./na.khe.Rim
+1	נַחֲלָתֵ֙נוּ֙	נַחֲלָה	NOUN	HNcfsc/Sp1bp	Gender=Fem|Number=Sing|State=Cns	_	_	Strong=H5159|Translit=na.cha.la.Te./nu
+2	נֶֽהֶפְכָ֣ה	הָפַךְ	VERB	HVNp3fs	Gender=Fem|HebBinyan=Nif|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	Strong=H2015|Translit=ne.hef.Khah
+3	לְזָרִ֔ים	זוּר	ADJ	HR/Aampa	Gender=Masc|Number=Plur|State=Abs	_	_	Strong=H2114|Translit=le./za.Rim
+4	בָּתֵּ֖ינוּ	בַּיִת	NOUN	HNcmpc/Sp1bp	Gender=Masc|Number=Plur|State=Cns	_	_	Strong=H1004|Translit=ba.Tei./nu
+5	לְנׇכְרִֽים	נׇכְרִי	ADJ	HR/Aampa	Gender=Masc|Number=Plur|State=Abs	_	_	Strong=H5237|Translit=le./na.khe.Rim
 
 # ref = LAM.5.3
-1	יְתוֹמִ֤ים	יְתוֹמִ֤ים	NOUN	HNcmpa	Gender=Masc|Number=Plur|State=Abs	_	_	Strong=H3490|Translit=ye.to.Mim
-2	הָיִ֙ינוּ֙	הָיִ֙ינוּ֙	VERB	HVqp1cp	Gender=Com|HebBinyan=Qal|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	_	_	Strong=H1961|Translit=ha.Yi.nu
+1	יְתוֹמִ֤ים	יָתוֹם	NOUN	HNcmpa	Gender=Masc|Number=Plur|State=Abs	_	_	Strong=H3490|Translit=ye.to.Mim
+2	הָיִ֙ינוּ֙	הָיָה	VERB	HVqp1cp	Gender=Com|HebBinyan=Qal|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	_	_	Strong=H1961|Translit=ha.Yi.nu
 3	(אין)	_	X	_	_	_	_	Align=unmatched
-4	וְאֵ֣ין	וְ/אֵ֣ין	NOUN	HC/Ncmsc	Gender=Masc|Number=Sing|State=Cns	_	_	Strong=H0369|Translit=ve./ein
-5	אָ֔ב	אָ֔ב	NOUN	HNcmsa	Gender=Masc|Number=Sing|State=Abs	_	_	Strong=H0001|Translit='Av
-6	אִמֹּתֵ֖ינוּ	אִמֹּתֵ֖י/נוּ	NOUN	HNcfpc/Sp1bp	Gender=Fem|Number=Plur|State=Cns	_	_	Strong=H0517|Translit='i.mo.Tei./nu
-7	כְּאַלְמָנֽוֹת	כְּ/אַלְמָנֽוֹת\׃	NOUN	HR/Ncfpa	Gender=Fem|Number=Plur|State=Abs	_	_	Strong=H0490|Translit=ke./'al.ma.Not
+4	וְאֵ֣ין	אַיִן	NOUN	HC/Ncmsc	Gender=Masc|Number=Sing|State=Cns	_	_	Strong=H0369|Translit=ve./ein
+5	אָ֔ב	אָב	NOUN	HNcmsa	Gender=Masc|Number=Sing|State=Abs	_	_	Strong=H0001|Translit='Av
+6	אִמֹּתֵ֖ינוּ	אֵם	NOUN	HNcfpc/Sp1bp	Gender=Fem|Number=Plur|State=Cns	_	_	Strong=H0517|Translit='i.mo.Tei./nu
+7	כְּאַלְמָנֽוֹת	אַלְמָנָה	NOUN	HR/Ncfpa	Gender=Fem|Number=Plur|State=Abs	_	_	Strong=H0490|Translit=ke./'al.ma.Not
 
 # ref = LAM.5.4
-1	מֵימֵ֙ינוּ֙	מֵימֵ֙י/נוּ֙	NOUN	HNcmpc/Sp1bp	Gender=Masc|Number=Plur|State=Cns	_	_	Strong=H4325|Translit=mei.Mei./nu
-2	בְּכֶ֣סֶף	בְּ/כֶ֣סֶף	NOUN	HR/Ncmsa	Gender=Masc|Number=Sing|State=Abs	_	_	Strong=H3701|Translit=be./Khe.sef
-3	שָׁתִ֔ינוּ	שָׁתִ֔ינוּ	VERB	HVqp1cp	Gender=Com|HebBinyan=Qal|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	_	_	Strong=H8354|Translit=sha.Ti.nu
-4	עֵצֵ֖ינוּ	עֵצֵ֖י/נוּ	NOUN	HNcmpc/Sp1bp	Gender=Masc|Number=Plur|State=Cns	_	_	Strong=H6086|Translit='e.Tzei./nu
-5	בִּמְחִ֥יר	בִּ/מְחִ֥יר	NOUN	HR/Ncmsa	Gender=Masc|Number=Sing|State=Abs	_	_	Strong=H4242|Translit=bi/m.Chir
-6	יָבֹֽאוּ	יָבֹֽאוּ\׃	VERB	HVqi3mp	Gender=Masc|HebBinyan=Qal|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	_	_	Strong=H0935|Translit=ya.Vo.'u
+1	מֵימֵ֙ינוּ֙	מַיִם	NOUN	HNcmpc/Sp1bp	Gender=Masc|Number=Plur|State=Cns	_	_	Strong=H4325|Translit=mei.Mei./nu
+2	בְּכֶ֣סֶף	כֶּסֶף	NOUN	HR/Ncmsa	Gender=Masc|Number=Sing|State=Abs	_	_	Strong=H3701|Translit=be./Khe.sef
+3	שָׁתִ֔ינוּ	שָׁתָה	VERB	HVqp1cp	Gender=Com|HebBinyan=Qal|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	_	_	Strong=H8354|Translit=sha.Ti.nu
+4	עֵצֵ֖ינוּ	עֵץ	NOUN	HNcmpc/Sp1bp	Gender=Masc|Number=Plur|State=Cns	_	_	Strong=H6086|Translit='e.Tzei./nu
+5	בִּמְחִ֥יר	מְחִיר	NOUN	HR/Ncmsa	Gender=Masc|Number=Sing|State=Abs	_	_	Strong=H4242|Translit=bi/m.Chir
+6	יָבֹֽאוּ	בּוֹא	VERB	HVqi3mp	Gender=Masc|HebBinyan=Qal|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	_	_	Strong=H0935|Translit=ya.Vo.'u
 
 # ref = LAM.5.5
-1	עַ֤ל	עַ֤ל	ADP	HR	_	_	_	Strong=H5921|Translit='al
-2	צַוָּארֵ֙נוּ֙	צַוָּארֵ֙/נוּ֙	NOUN	HNcmsc/Sp1bp	Gender=Masc|Number=Sing|State=Cns	_	_	Strong=H6677|Translit=tza.va.Re./nu
-3	נִרְדָּ֔פְנוּ	נִרְדָּ֔פְנוּ	VERB	HVNp1cp	Gender=Com|HebBinyan=Nif|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	_	_	Strong=H7291|Translit=nir.Da.fe.nu
-4	יָגַ֖עְנוּ	יָגַ֖עְנוּ	VERB	HVqp1cp	Gender=Com|HebBinyan=Qal|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	_	_	Strong=H3021|Translit=ya.Ga'.nu
+1	עַ֤ל	עַל	ADP	HR	_	_	_	Strong=H5921|Translit='al
+2	צַוָּארֵ֙נוּ֙	צַוָּאר	NOUN	HNcmsc/Sp1bp	Gender=Masc|Number=Sing|State=Cns	_	_	Strong=H6677|Translit=tza.va.Re./nu
+3	נִרְדָּ֔פְנוּ	רָדַף	VERB	HVNp1cp	Gender=Com|HebBinyan=Nif|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	_	_	Strong=H7291|Translit=nir.Da.fe.nu
+4	יָגַ֖עְנוּ	יָגַע	VERB	HVqp1cp	Gender=Com|HebBinyan=Qal|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	_	_	Strong=H3021|Translit=ya.Ga'.nu
 5	(לא)	_	X	_	_	_	_	Align=unmatched
-6	וְלֹ֥א	וְ/לֹ֥א	PART	HC/Tn	_	_	_	Strong=H3808|Translit=ve./lo'
-7	הֽוּנַֽח	הֽוּנַֽח	VERB	HVHp3ms	Gender=Masc|HebBinyan=Hof|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	Strong=H5117|Translit=hu.nach-
-8	לָֽנוּ	לָֽ/נוּ\׃	PRON	HR/Sp1bp	Gender=Com|Number=Plur|Person=1	_	_	Strong=H9035|Translit=La./nu
+6	וְלֹ֥א	לֹא	PART	HC/Tn	_	_	_	Strong=H3808|Translit=ve./lo'
+7	הֽוּנַֽח	נוּחַ	VERB	HVHp3ms	Gender=Masc|HebBinyan=Hof|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	Strong=H5117|Translit=hu.nach-
+8	לָֽנוּ	_	PRON	HR/Sp1bp	Gender=Com|Number=Plur|Person=1	_	_	Strong=H9035|Translit=La./nu
 
 # ref = LAM.5.6
-1	מִצְרַ֙יִם֙	מִצְרַ֙יִם֙	PROPN	HNpl	_	_	_	Strong=H4714|Translit=mitz.Ra.yim
-2	נָתַ֣נּוּ	נָתַ֣נּוּ	VERB	HVqp1cp	Gender=Com|HebBinyan=Qal|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	_	_	Strong=H5414|Translit=na.Ta.nu
-3	יָ֔ד	יָ֔ד	NOUN	HNcbsa	Gender=Com|Number=Sing|State=Abs	_	_	Strong=H3027|Translit=Yad
-4	אַשּׁ֖וּר	אַשּׁ֖וּר	PROPN	HNpl	_	_	_	Strong=H0804|Translit='a.Shur
-5	לִשְׂבֹּ֥עַֽ	לִ/שְׂבֹּ֥עַֽ	VERB	HR/Vqcc	HebBinyan=Qal|State=Cns|VerbForm=Inf	_	_	Strong=H7646|Translit=li/s.Bo.a'
-6	לָֽחֶם	לָֽחֶם\׃	NOUN	HNcmsa	Gender=Masc|Number=Sing|State=Abs	_	_	Strong=H3899|Translit=La.chem
+1	מִצְרַ֙יִם֙	מִצְרַיִם	PROPN	HNpl	_	_	_	Strong=H4714|Translit=mitz.Ra.yim
+2	נָתַ֣נּוּ	נָתַן	VERB	HVqp1cp	Gender=Com|HebBinyan=Qal|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	_	_	Strong=H5414|Translit=na.Ta.nu
+3	יָ֔ד	יָד	NOUN	HNcbsa	Gender=Com|Number=Sing|State=Abs	_	_	Strong=H3027|Translit=Yad
+4	אַשּׁ֖וּר	אַשּׁוּר	PROPN	HNpl	_	_	_	Strong=H0804|Translit='a.Shur
+5	לִשְׂבֹּ֥עַֽ	שָׂבַע	VERB	HR/Vqcc	HebBinyan=Qal|State=Cns|VerbForm=Inf	_	_	Strong=H7646|Translit=li/s.Bo.a'
+6	לָֽחֶם	לֶחֶם	NOUN	HNcmsa	Gender=Masc|Number=Sing|State=Abs	_	_	Strong=H3899|Translit=La.chem
 
 # ref = LAM.5.7
-1	אֲבֹתֵ֤ינוּ	אֲבֹתֵ֤י/נוּ	NOUN	HNcfpc/Sp1bp	Gender=Fem|Number=Plur|State=Cns	_	_	Strong=H0001|Translit='a.vo.Tei./nu
-2	חָֽטְאוּ֙	חָֽטְאוּ֙	VERB	HVqp3cp	Gender=Com|HebBinyan=Qal|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	_	_	Strong=H2398|Translit=cha.te.'U
+1	אֲבֹתֵ֤ינוּ	אָב	NOUN	HNcfpc/Sp1bp	Gender=Fem|Number=Plur|State=Cns	_	_	Strong=H0001|Translit='a.vo.Tei./nu
+2	חָֽטְאוּ֙	חָטָא	VERB	HVqp3cp	Gender=Com|HebBinyan=Qal|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	_	_	Strong=H2398|Translit=cha.te.'U
 3	(אינם)	_	X	_	_	_	_	Align=unmatched
-4	וְאֵינָ֔ם	וְ/אֵינָ֔/ם	NOUN	HC/Ncmsc/Sp3mp	Gender=Masc|Number=Sing|State=Cns	_	_	Strong=H0369|Translit=ve./ei.na/m
+4	וְאֵינָ֔ם	אַיִן	NOUN	HC/Ncmsc/Sp3mp	Gender=Masc|Number=Sing|State=Cns	_	_	Strong=H0369|Translit=ve./ei.na/m
 5	(אנחנו)	_	X	_	_	_	_	Align=unmatched
-6	וַאֲנַ֖חְנוּ	וַ/אֲנַ֖חְנוּ	PRON	HC/Pp1bp	Gender=Com|Number=Plur|Person=1	_	_	Strong=H0587|Translit=va./'a.nach.nu
-7	עֲוֺנֹתֵיהֶ֥ם	עֲוֹנֹתֵי/הֶ֥ם	NOUN	HNcfpc/Sp3mp	Gender=Fem|Number=Plur|State=Cns	_	_	Strong=H5771|Translit='a.vo.no.tei./Hem
-8	סָבָֽלְנוּ	סָבָֽלְנוּ\׃	VERB	HVqp1cp	Gender=Com|HebBinyan=Qal|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	_	_	Strong=H5445|Translit=sa.Val.nu
+6	וַאֲנַ֖חְנוּ	אֲנַחְנוּ	PRON	HC/Pp1bp	Gender=Com|Number=Plur|Person=1	_	_	Strong=H0587|Translit=va./'a.nach.nu
+7	עֲוֺנֹתֵיהֶ֥ם	עָוֺן	NOUN	HNcfpc/Sp3mp	Gender=Fem|Number=Plur|State=Cns	_	_	Strong=H5771|Translit='a.vo.no.tei./Hem
+8	סָבָֽלְנוּ	סָבַל	VERB	HVqp1cp	Gender=Com|HebBinyan=Qal|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	_	_	Strong=H5445|Translit=sa.Val.nu
 
 # ref = LAM.5.8
-1	עֲבָדִים֙	עֲבָדִים֙	NOUN	HNcmpa	Gender=Masc|Number=Plur|State=Abs	_	_	Strong=H5650|Translit='a.va.Dim
-2	מָ֣שְׁלוּ	מָ֣שְׁלוּ	VERB	HVqp3cp	Gender=Com|HebBinyan=Qal|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	_	_	Strong=H4910|Translit=Ma.she.lu
-3	בָ֔נוּ	בָ֔/נוּ	PRON	HR/Sp1bp	Gender=Com|Number=Plur|Person=1	_	_	Strong=H9035|Translit=Va./nu
-4	פֹּרֵ֖ק	פֹּרֵ֖ק	VERB	HVqrmsa	Gender=Masc|HebBinyan=Qal|Number=Sing|State=Abs|VerbForm=Part|Voice=Act	_	_	Strong=H6561|Translit=po.Rek
-5	אֵ֥ין	אֵ֥ין	NOUN	HNcmsc	Gender=Masc|Number=Sing|State=Cns	_	_	Strong=H0369|Translit='ein
-6	מִיָּדָֽם	מִ/יָּדָֽ/ם\׃	NOUN	HR/Ncbsc/Sp3mp	Gender=Com|Number=Sing|State=Cns	_	_	Strong=H3027|Translit=mi./ya.Da/m
+1	עֲבָדִים֙	עֶבֶד	NOUN	HNcmpa	Gender=Masc|Number=Plur|State=Abs	_	_	Strong=H5650|Translit='a.va.Dim
+2	מָ֣שְׁלוּ	מָשַׁל	VERB	HVqp3cp	Gender=Com|HebBinyan=Qal|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	_	_	Strong=H4910|Translit=Ma.she.lu
+3	בָ֔נוּ	_	PRON	HR/Sp1bp	Gender=Com|Number=Plur|Person=1	_	_	Strong=H9035|Translit=Va./nu
+4	פֹּרֵ֖ק	פָּרַק	VERB	HVqrmsa	Gender=Masc|HebBinyan=Qal|Number=Sing|State=Abs|VerbForm=Part|Voice=Act	_	_	Strong=H6561|Translit=po.Rek
+5	אֵ֥ין	אַיִן	NOUN	HNcmsc	Gender=Masc|Number=Sing|State=Cns	_	_	Strong=H0369|Translit='ein
+6	מִיָּדָֽם	יָד	NOUN	HR/Ncbsc/Sp3mp	Gender=Com|Number=Sing|State=Cns	_	_	Strong=H3027|Translit=mi./ya.Da/m
 
 # ref = LAM.5.9
-1	בְּנַפְשֵׁ֙נוּ֙	בְּ/נַפְשֵׁ֙/נוּ֙	NOUN	HR/Ncfsc/Sp1bp	Gender=Fem|Number=Sing|State=Cns	_	_	Strong=H5315|Translit=be./naf.She./nu
-2	נָבִ֣יא	נָבִ֣יא	VERB	HVhi1cp	Gender=Com|HebBinyan=Hif|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin	_	_	Strong=H0935|Translit=na.Vi'
-3	לַחְמֵ֔נוּ	לַחְמֵ֔/נוּ	NOUN	HNcbsc/Sp1mp	Gender=Com|Number=Sing|State=Cns	_	_	Strong=H3899|Translit=lach.Me./nu
-4	מִפְּנֵ֖י	מִ/פְּנֵ֖י	NOUN	HR/Ncmpc	Gender=Masc|Number=Plur|State=Cns	_	_	Strong=H6440|Translit=mi./pe.Nei
-5	חֶ֥רֶב	חֶ֥רֶב	NOUN	HNcfsc	Gender=Fem|Number=Sing|State=Cns	_	_	Strong=H2719|Translit=Che.rev
-6	הַמִּדְבָּֽר	הַ/מִּדְבָּֽר\׃	NOUN	HTd/Ncmsa	Gender=Masc|Number=Sing|State=Abs	_	_	Strong=H4057|Translit=ha./mid.Bar
+1	בְּנַפְשֵׁ֙נוּ֙	נֶפֶשׁ	NOUN	HR/Ncfsc/Sp1bp	Gender=Fem|Number=Sing|State=Cns	_	_	Strong=H5315|Translit=be./naf.She./nu
+2	נָבִ֣יא	בּוֹא	VERB	HVhi1cp	Gender=Com|HebBinyan=Hif|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin	_	_	Strong=H0935|Translit=na.Vi'
+3	לַחְמֵ֔נוּ	לֶחֶם	NOUN	HNcbsc/Sp1mp	Gender=Com|Number=Sing|State=Cns	_	_	Strong=H3899|Translit=lach.Me./nu
+4	מִפְּנֵ֖י	פָּנִים	NOUN	HR/Ncmpc	Gender=Masc|Number=Plur|State=Cns	_	_	Strong=H6440|Translit=mi./pe.Nei
+5	חֶ֥רֶב	חֶרֶב	NOUN	HNcfsc	Gender=Fem|Number=Sing|State=Cns	_	_	Strong=H2719|Translit=Che.rev
+6	הַמִּדְבָּֽר	מִדְבָּר	NOUN	HTd/Ncmsa	Gender=Masc|Number=Sing|State=Abs	_	_	Strong=H4057|Translit=ha./mid.Bar
 
 # ref = LAM.5.10
-1	עוֹרֵ֙נוּ֙	עוֹרֵ֙/נוּ֙	NOUN	HNcmsc/Sp1bp	Gender=Masc|Number=Sing|State=Cns	_	_	Strong=H5785|Translit=o.Re./nu
-2	כְּתַנּ֣וּר	כְּ/תַנּ֣וּר	NOUN	HR/Ncmsa	Gender=Masc|Number=Sing|State=Abs	_	_	Strong=H8574|Translit=ke./ta.Nur
-3	נִכְמָ֔רוּ	נִכְמָ֔רוּ	VERB	HVNp3cp	Gender=Com|HebBinyan=Nif|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	_	_	Strong=H3648|Translit=nikh.Ma.ru
-4	מִפְּנֵ֖י	מִ/פְּנֵ֖י	NOUN	HR/Ncmpc	Gender=Masc|Number=Plur|State=Cns	_	_	Strong=H6440|Translit=mi./pe.Nei
-5	זַלְעֲפ֥וֹת	זַלְעֲפ֥וֹת	NOUN	HNcfpc	Gender=Fem|Number=Plur|State=Cns	_	_	Strong=H2152|Translit=zal.'a.Fot
-6	רָעָֽב	רָעָֽב\׃	NOUN	HNcmsa	Gender=Masc|Number=Sing|State=Abs	_	_	Strong=H7458|Translit=ra.'Av
+1	עוֹרֵ֙נוּ֙	עוֹר	NOUN	HNcmsc/Sp1bp	Gender=Masc|Number=Sing|State=Cns	_	_	Strong=H5785|Translit=o.Re./nu
+2	כְּתַנּ֣וּר	תַּנּוּר	NOUN	HR/Ncmsa	Gender=Masc|Number=Sing|State=Abs	_	_	Strong=H8574|Translit=ke./ta.Nur
+3	נִכְמָ֔רוּ	כָּמַר	VERB	HVNp3cp	Gender=Com|HebBinyan=Nif|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	_	_	Strong=H3648|Translit=nikh.Ma.ru
+4	מִפְּנֵ֖י	פָּנִים	NOUN	HR/Ncmpc	Gender=Masc|Number=Plur|State=Cns	_	_	Strong=H6440|Translit=mi./pe.Nei
+5	זַלְעֲפ֥וֹת	זַלְעָפָה	NOUN	HNcfpc	Gender=Fem|Number=Plur|State=Cns	_	_	Strong=H2152|Translit=zal.'a.Fot
+6	רָעָֽב	רָעָב	NOUN	HNcmsa	Gender=Masc|Number=Sing|State=Abs	_	_	Strong=H7458|Translit=ra.'Av
 
 # ref = LAM.5.11
-1	נָשִׁים֙	נָשִׁים֙	NOUN	HNcmpa	Gender=Masc|Number=Plur|State=Abs	_	_	Strong=H0802|Translit=na.Shim
-2	בְּצִיּ֣וֹן	בְּ/צִיּ֣וֹן	PROPN	HR/Npl	_	_	_	Strong=H6726|Translit=be./tzi.Yon
-3	עִנּ֔וּ	עִנּ֔וּ	VERB	HVpp3cp	Gender=Com|HebBinyan=Piel|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	_	_	Strong=H6031|Translit='i.Nu
-4	בְּתֻלֹ֖ת	בְּתֻלֹ֖ת	NOUN	HNcfpa	Gender=Fem|Number=Plur|State=Abs	_	_	Strong=H1330|Translit=be.tu.Lot
-5	בְּעָרֵ֥י	בְּ/עָרֵ֥י	NOUN	HR/Ncmpc	Gender=Masc|Number=Plur|State=Cns	_	_	Strong=H5892|Translit=be./'a.Rei
-6	יְהוּדָֽה	יְהוּדָֽה\׃	PROPN	HNpl	_	_	_	Strong=H3063|Translit=ye.hu.Dah
+1	נָשִׁים֙	אִשָּׁה	NOUN	HNcmpa	Gender=Masc|Number=Plur|State=Abs	_	_	Strong=H0802|Translit=na.Shim
+2	בְּצִיּ֣וֹן	צִיּוֹן	PROPN	HR/Npl	_	_	_	Strong=H6726|Translit=be./tzi.Yon
+3	עִנּ֔וּ	עָנָה	VERB	HVpp3cp	Gender=Com|HebBinyan=Piel|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	_	_	Strong=H6031|Translit='i.Nu
+4	בְּתֻלֹ֖ת	בְּתוּלָה	NOUN	HNcfpa	Gender=Fem|Number=Plur|State=Abs	_	_	Strong=H1330|Translit=be.tu.Lot
+5	בְּעָרֵ֥י	עִיר	NOUN	HR/Ncmpc	Gender=Masc|Number=Plur|State=Cns	_	_	Strong=H5892|Translit=be./'a.Rei
+6	יְהוּדָֽה	יְהוּדָה	PROPN	HNpl	_	_	_	Strong=H3063|Translit=ye.hu.Dah
 
 # ref = LAM.5.12
-1	שָׂרִים֙	שָׂרִים֙	NOUN	HNcmpa	Gender=Masc|Number=Plur|State=Abs	_	_	Strong=H8269|Translit=sa.Rim
-2	בְּיָדָ֣ם	בְּ/יָדָ֣/ם	NOUN	HR/Ncbsc/Sp3mp	Gender=Com|Number=Sing|State=Cns	_	_	Strong=H3027|Translit=be./ya.Da/m
-3	נִתְל֔וּ	נִתְל֔וּ	VERB	HVNp3cp	Gender=Com|HebBinyan=Nif|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	_	_	Strong=H8518|Translit=nit.Lu
-4	פְּנֵ֥י	פְּנֵ֥י	NOUN	HNcmpc	Gender=Masc|Number=Plur|State=Cns	_	_	Strong=H6440|Translit=pe.Nei
-5	זְקֵנִ֖ים	זְקֵנִ֖ים	ADJ	HAampa	Gender=Masc|Number=Plur|State=Abs	_	_	Strong=H2205|Translit=ze.ke.Nim
-6	לֹ֥א	לֹ֥א	PART	HTn	_	_	_	Strong=H3808|Translit=lo'
-7	נֶהְדָּֽרוּ	נֶהְדָּֽרוּ\׃	VERB	HVNp3cp	Gender=Com|HebBinyan=Nif|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	_	_	Strong=H1921|Translit=neh.Da.ru
+1	שָׂרִים֙	שַׂר	NOUN	HNcmpa	Gender=Masc|Number=Plur|State=Abs	_	_	Strong=H8269|Translit=sa.Rim
+2	בְּיָדָ֣ם	יָד	NOUN	HR/Ncbsc/Sp3mp	Gender=Com|Number=Sing|State=Cns	_	_	Strong=H3027|Translit=be./ya.Da/m
+3	נִתְל֔וּ	תָּלָה	VERB	HVNp3cp	Gender=Com|HebBinyan=Nif|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	_	_	Strong=H8518|Translit=nit.Lu
+4	פְּנֵ֥י	פָּנִים	NOUN	HNcmpc	Gender=Masc|Number=Plur|State=Cns	_	_	Strong=H6440|Translit=pe.Nei
+5	זְקֵנִ֖ים	זָקֵן	ADJ	HAampa	Gender=Masc|Number=Plur|State=Abs	_	_	Strong=H2205|Translit=ze.ke.Nim
+6	לֹ֥א	לֹא	PART	HTn	_	_	_	Strong=H3808|Translit=lo'
+7	נֶהְדָּֽרוּ	הָדַר	VERB	HVNp3cp	Gender=Com|HebBinyan=Nif|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	_	_	Strong=H1921|Translit=neh.Da.ru
 
 # ref = LAM.5.13
-1	בַּחוּרִים֙	בַּחוּרִים֙	NOUN	HNcmpa	Gender=Masc|Number=Plur|State=Abs	_	_	Strong=H0970|Translit=ba.chu.Rim
-2	טְח֣וֹן	טְח֣וֹן	NOUN	HNcmsa	Gender=Masc|Number=Sing|State=Abs	_	_	Strong=H2911|Translit=te.Chon
-3	נָשָׂ֔אוּ	נָשָׂ֔אוּ	VERB	HVqp3cp	Gender=Com|HebBinyan=Qal|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	_	_	Strong=H5375|Translit=na.Sa.'u
-4	וּנְעָרִ֖ים	וּ/נְעָרִ֖ים	NOUN	HC/Ncmpa	Gender=Masc|Number=Plur|State=Abs	_	_	Strong=H5288|Translit=u./ne.'a.Rim
-5	בָּעֵ֥ץ	בָּ/עֵ֥ץ	NOUN	HRd/Ncmsa	Gender=Masc|Number=Sing|State=Abs	_	_	Strong=H6086|Translit=ba./'Etz
-6	כָּשָֽׁלוּ	כָּשָֽׁלוּ\׃	VERB	HVqp3cp	Gender=Com|HebBinyan=Qal|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	_	_	Strong=H3782|Translit=ka.Sha.lu
+1	בַּחוּרִים֙	בָּחוּר	NOUN	HNcmpa	Gender=Masc|Number=Plur|State=Abs	_	_	Strong=H0970|Translit=ba.chu.Rim
+2	טְח֣וֹן	טְחוֹן	NOUN	HNcmsa	Gender=Masc|Number=Sing|State=Abs	_	_	Strong=H2911|Translit=te.Chon
+3	נָשָׂ֔אוּ	נָשָׂא	VERB	HVqp3cp	Gender=Com|HebBinyan=Qal|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	_	_	Strong=H5375|Translit=na.Sa.'u
+4	וּנְעָרִ֖ים	נַעַר	NOUN	HC/Ncmpa	Gender=Masc|Number=Plur|State=Abs	_	_	Strong=H5288|Translit=u./ne.'a.Rim
+5	בָּעֵ֥ץ	עֵץ	NOUN	HRd/Ncmsa	Gender=Masc|Number=Sing|State=Abs	_	_	Strong=H6086|Translit=ba./'Etz
+6	כָּשָֽׁלוּ	כָּשַׁל	VERB	HVqp3cp	Gender=Com|HebBinyan=Qal|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	_	_	Strong=H3782|Translit=ka.Sha.lu
 
 # ref = LAM.5.14
-1	זְקֵנִים֙	זְקֵנִים֙	ADJ	HAampa	Gender=Masc|Number=Plur|State=Abs	_	_	Strong=H2205|Translit=ze.ke.Nim
-2	מִשַּׁ֣עַר	מִ/שַּׁ֣עַר	NOUN	HR/Ncmsa	Gender=Masc|Number=Sing|State=Abs	_	_	Strong=H8179|Translit=mi./Sha.'ar
-3	שָׁבָ֔תוּ	שָׁבָ֔תוּ	VERB	HVqp3cp	Gender=Com|HebBinyan=Qal|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	_	_	Strong=H7673|Translit=sha.Va.tu
-4	בַּחוּרִ֖ים	בַּחוּרִ֖ים	NOUN	HNcmpa	Gender=Masc|Number=Plur|State=Abs	_	_	Strong=H0970|Translit=ba.chu.Rim
-5	מִנְּגִינָתָֽם	מִ/נְּגִינָתָֽ/ם\׃	NOUN	HR/Ncfsc/Sp3mp	Gender=Fem|Number=Sing|State=Cns	_	_	Strong=H5058|Translit=mi./ne.gi.na.Ta/m
+1	זְקֵנִים֙	זָקֵן	ADJ	HAampa	Gender=Masc|Number=Plur|State=Abs	_	_	Strong=H2205|Translit=ze.ke.Nim
+2	מִשַּׁ֣עַר	שַׁעַר	NOUN	HR/Ncmsa	Gender=Masc|Number=Sing|State=Abs	_	_	Strong=H8179|Translit=mi./Sha.'ar
+3	שָׁבָ֔תוּ	שָׁבַת	VERB	HVqp3cp	Gender=Com|HebBinyan=Qal|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	_	_	Strong=H7673|Translit=sha.Va.tu
+4	בַּחוּרִ֖ים	בָּחוּר	NOUN	HNcmpa	Gender=Masc|Number=Plur|State=Abs	_	_	Strong=H0970|Translit=ba.chu.Rim
+5	מִנְּגִינָתָֽם	נְגִינָה	NOUN	HR/Ncfsc/Sp3mp	Gender=Fem|Number=Sing|State=Cns	_	_	Strong=H5058|Translit=mi./ne.gi.na.Ta/m
 
 # ref = LAM.5.15
-1	שָׁבַת֙	שָׁבַת֙	VERB	HVqp3ms	Gender=Masc|HebBinyan=Qal|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	Strong=H7673|Translit=sha.Vat
-2	מְשׂ֣וֹשׂ	מְשׂ֣וֹשׂ	NOUN	HNcmsc	Gender=Masc|Number=Sing|State=Cns	_	_	Strong=H4885|Translit=me.Sos
-3	לִבֵּ֔נוּ	לִבֵּ֔/נוּ	NOUN	HNcmsc/Sp1bp	Gender=Masc|Number=Sing|State=Cns	_	_	Strong=H3820|Translit=li.Be./nu
-4	נֶהְפַּ֥ךְ	נֶהְפַּ֥ךְ	VERB	HVNp3ms	Gender=Masc|HebBinyan=Nif|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	Strong=H2015|Translit=neh.Pakh
-5	לְאֵ֖בֶל	לְ/אֵ֖בֶל	NOUN	HR/Ncmsa	Gender=Masc|Number=Sing|State=Abs	_	_	Strong=H0060|Translit=le./'E.vel
-6	מְחֹלֵֽנוּ	מְחֹלֵֽ/נוּ\׃	NOUN	HNcmsc/Sp1bp	Gender=Masc|Number=Sing|State=Cns	_	_	Strong=H4234|Translit=me.cho.Le./nu
+1	שָׁבַת֙	שָׁבַת	VERB	HVqp3ms	Gender=Masc|HebBinyan=Qal|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	Strong=H7673|Translit=sha.Vat
+2	מְשׂ֣וֹשׂ	מָשׂוֹשׂ	NOUN	HNcmsc	Gender=Masc|Number=Sing|State=Cns	_	_	Strong=H4885|Translit=me.Sos
+3	לִבֵּ֔נוּ	לֵב	NOUN	HNcmsc/Sp1bp	Gender=Masc|Number=Sing|State=Cns	_	_	Strong=H3820|Translit=li.Be./nu
+4	נֶהְפַּ֥ךְ	הָפַךְ	VERB	HVNp3ms	Gender=Masc|HebBinyan=Nif|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	Strong=H2015|Translit=neh.Pakh
+5	לְאֵ֖בֶל	אֵבֶל	NOUN	HR/Ncmsa	Gender=Masc|Number=Sing|State=Abs	_	_	Strong=H0060|Translit=le./'E.vel
+6	מְחֹלֵֽנוּ	מָחוֹל	NOUN	HNcmsc/Sp1bp	Gender=Masc|Number=Sing|State=Cns	_	_	Strong=H4234|Translit=me.cho.Le./nu
 
 # ref = LAM.5.16
-1	נָֽפְלָה֙	נָֽפְלָה֙	VERB	HVqp3fs	Gender=Fem|HebBinyan=Qal|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	Strong=H5307|Translit=na.fe.Lah
-2	עֲטֶ֣רֶת	עֲטֶ֣רֶת	NOUN	HNcfsc	Gender=Fem|Number=Sing|State=Cns	_	_	Strong=H5850|Translit='a.Te.ret
-3	רֹאשֵׁ֔נוּ	רֹאשֵׁ֔/נוּ	NOUN	HNcmsc/Sp1bp	Gender=Masc|Number=Sing|State=Cns	_	_	Strong=H7218|Translit=ro.She./nu
-4	אֽוֹי	אֽוֹי\־	INTJ	HTj	_	_	_	Strong=H0188|Translit='o-
-5	נָ֥א	נָ֥א	INTJ	HTj	_	_	_	Strong=H4994|Translit=na'
-6	לָ֖נוּ	לָ֖/נוּ	PRON	HR/Sp1bp	Gender=Com|Number=Plur|Person=1	_	_	Strong=H9035|Translit=La./nu
-7	כִּ֥י	כִּ֥י	SCONJ	HTc	_	_	_	Strong=H3588|Translit=ki
-8	חָטָֽאנוּ	חָטָֽאנוּ\׃	VERB	HVqp1cp	Gender=Com|HebBinyan=Qal|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	_	_	Strong=H2398|Translit=cha.Ta.nu
+1	נָֽפְלָה֙	נָפַל	VERB	HVqp3fs	Gender=Fem|HebBinyan=Qal|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	Strong=H5307|Translit=na.fe.Lah
+2	עֲטֶ֣רֶת	עֲטָרָה	NOUN	HNcfsc	Gender=Fem|Number=Sing|State=Cns	_	_	Strong=H5850|Translit='a.Te.ret
+3	רֹאשֵׁ֔נוּ	רֹאשׁ	NOUN	HNcmsc/Sp1bp	Gender=Masc|Number=Sing|State=Cns	_	_	Strong=H7218|Translit=ro.She./nu
+4	אֽוֹי	אוֹי	INTJ	HTj	_	_	_	Strong=H0188|Translit='o-
+5	נָ֥א	נָא	INTJ	HTj	_	_	_	Strong=H4994|Translit=na'
+6	לָ֖נוּ	_	PRON	HR/Sp1bp	Gender=Com|Number=Plur|Person=1	_	_	Strong=H9035|Translit=La./nu
+7	כִּ֥י	כִּי	SCONJ	HTc	_	_	_	Strong=H3588|Translit=ki
+8	חָטָֽאנוּ	חָטָא	VERB	HVqp1cp	Gender=Com|HebBinyan=Qal|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	_	_	Strong=H2398|Translit=cha.Ta.nu
 
 # ref = LAM.5.17
-1	עַל	עַל\־	ADP	HR	_	_	_	Strong=H5921|Translit='al-
-2	זֶ֗ה	זֶ֗ה	DET	HTm	_	_	_	Strong=H2088|Translit=Zeh
-3	הָיָ֤ה	הָיָ֤ה	VERB	HVqp3ms	Gender=Masc|HebBinyan=Qal|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	Strong=H1961|Translit=ha.Yah
-4	דָוֶה֙	דָוֶה֙	ADJ	HAamsa	Gender=Masc|Number=Sing|State=Abs	_	_	Strong=H1739|Translit=da.Veh
-5	לִבֵּ֔נוּ	לִבֵּ֔/נוּ	NOUN	HNcmsc/Sp1bp	Gender=Masc|Number=Sing|State=Cns	_	_	Strong=H3820|Translit=li.Be./nu
-6	עַל	עַל\־	ADP	HR	_	_	_	Strong=H5921|Translit='al-
-7	אֵ֖לֶּה	אֵ֖לֶּה	DET	HTm	_	_	_	Strong=H0428|Translit='E.leh
-8	חָשְׁכ֥וּ	חָשְׁכ֥וּ	VERB	HVqp3cp	Gender=Com|HebBinyan=Qal|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	_	_	Strong=H2821|Translit=cha.she.Khu
-9	עֵינֵֽינוּ	עֵינֵֽי/נוּ\׃	NOUN	HNcfdc/Sp1bp	Gender=Fem|Number=Dual|State=Cns	_	_	Strong=H5869|Translit='ei.Nei./nu
+1	עַל	עַל	ADP	HR	_	_	_	Strong=H5921|Translit='al-
+2	זֶ֗ה	זֶה	DET	HTm	_	_	_	Strong=H2088|Translit=Zeh
+3	הָיָ֤ה	הָיָה	VERB	HVqp3ms	Gender=Masc|HebBinyan=Qal|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	Strong=H1961|Translit=ha.Yah
+4	דָוֶה֙	דָּוֶה	ADJ	HAamsa	Gender=Masc|Number=Sing|State=Abs	_	_	Strong=H1739|Translit=da.Veh
+5	לִבֵּ֔נוּ	לֵב	NOUN	HNcmsc/Sp1bp	Gender=Masc|Number=Sing|State=Cns	_	_	Strong=H3820|Translit=li.Be./nu
+6	עַל	עַל	ADP	HR	_	_	_	Strong=H5921|Translit='al-
+7	אֵ֖לֶּה	אֵלֶּה	DET	HTm	_	_	_	Strong=H0428|Translit='E.leh
+8	חָשְׁכ֥וּ	חָשַׁךְ	VERB	HVqp3cp	Gender=Com|HebBinyan=Qal|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	_	_	Strong=H2821|Translit=cha.she.Khu
+9	עֵינֵֽינוּ	עַיִן	NOUN	HNcfdc/Sp1bp	Gender=Fem|Number=Dual|State=Cns	_	_	Strong=H5869|Translit='ei.Nei./nu
 
 # ref = LAM.5.18
-1	עַ֤ל	עַ֤ל	ADP	HR	_	_	_	Strong=H5921|Translit='al
-2	הַר	הַר\־	NOUN	HNcmsc	Gender=Masc|Number=Sing|State=Cns	_	_	Strong=H2022|Translit=har-
-3	צִיּוֹן֙	צִיּוֹן֙	PROPN	HNpl	_	_	_	Strong=H6726|Translit=tzi.yOn
-4	שֶׁשָּׁמֵ֔ם	שֶׁ/שָּׁמֵ֔ם	SCONJ	HTr/Aamsa	_	_	_	Strong=H8074|Translit=she./sha.Mem
-5	שׁוּעָלִ֖ים	שׁוּעָלִ֖ים	NOUN	HNcmpa	Gender=Masc|Number=Plur|State=Abs	_	_	Strong=H7776|Translit=shu.'a.Lim
-6	הִלְּכוּ	הִלְּכוּ\־	VERB	HVpp3cp	Gender=Com|HebBinyan=Piel|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	_	_	Strong=H1980|Translit=hi.le.khu-
+1	עַ֤ל	עַל	ADP	HR	_	_	_	Strong=H5921|Translit='al
+2	הַר	הַר	NOUN	HNcmsc	Gender=Masc|Number=Sing|State=Cns	_	_	Strong=H2022|Translit=har-
+3	צִיּוֹן֙	צִיּוֹן	PROPN	HNpl	_	_	_	Strong=H6726|Translit=tzi.yOn
+4	שֶׁשָּׁמֵ֔ם	שָׁמֵם	SCONJ	HTr/Aamsa	_	_	_	Strong=H8074|Translit=she./sha.Mem
+5	שׁוּעָלִ֖ים	שׁוּעָל	NOUN	HNcmpa	Gender=Masc|Number=Plur|State=Abs	_	_	Strong=H7776|Translit=shu.'a.Lim
+6	הִלְּכוּ	הָלַךְ	VERB	HVpp3cp	Gender=Com|HebBinyan=Piel|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	_	_	Strong=H1980|Translit=hi.le.khu-
 7	בֽוֹ	_	X	_	_	_	_	Align=unmatched
 8	{פ}	_	X	_	_	_	_	Align=unmatched,source_extra:1
 
 # ref = LAM.5.19
-1	אַתָּ֤ה	אַתָּ֤ה	PRON	HPp2ms	Gender=Masc|Number=Sing|Person=2	_	_	Strong=H0859|Translit='a.Tah
-2	יְהֹוָה֙	יְהוָה֙	PROPN	HNpt	_	_	_	Strong=H3068|Translit=Yah.weh
-3	לְעוֹלָ֣ם	לְ/עוֹלָ֣ם	NOUN	HR/Ncmsa	Gender=Masc|Number=Sing|State=Abs	_	_	Strong=H5769|Translit=le./'o.Lam
-4	תֵּשֵׁ֔ב	תֵּשֵׁ֔ב	VERB	HVqi2ms	Gender=Masc|HebBinyan=Qal|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin	_	_	Strong=H3427|Translit=te.Shev
-5	כִּסְאֲךָ֖	כִּסְאֲ/ךָ֖	NOUN	HNcmsc/Sp2ms	Gender=Masc|Number=Sing|State=Cns	_	_	Strong=H3678|Translit=kis.'a./Kha
+1	אַתָּ֤ה	אַתָּה	PRON	HPp2ms	Gender=Masc|Number=Sing|Person=2	_	_	Strong=H0859|Translit='a.Tah
+2	יְהֹוָה֙	יְהֹוָה	PROPN	HNpt	_	_	_	Strong=H3068|Translit=Yah.weh
+3	לְעוֹלָ֣ם	עוֹלָם	NOUN	HR/Ncmsa	Gender=Masc|Number=Sing|State=Abs	_	_	Strong=H5769|Translit=le./'o.Lam
+4	תֵּשֵׁ֔ב	יָשַׁב	VERB	HVqi2ms	Gender=Masc|HebBinyan=Qal|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin	_	_	Strong=H3427|Translit=te.Shev
+5	כִּסְאֲךָ֖	כִּסֵּא	NOUN	HNcmsc/Sp2ms	Gender=Masc|Number=Sing|State=Cns	_	_	Strong=H3678|Translit=kis.'a./Kha
 6	לְד֥וֹר	_	X	_	_	_	_	Align=unmatched
-7	וָדֽוֹר	וָ/דֽוֹר\׃	NOUN	HC/Ncmsa	Gender=Masc|Number=Sing|State=Abs	_	_	Strong=H1755|Translit=va./Dor|Align=source_extra:1
+7	וָדֽוֹר	דּוֹר	NOUN	HC/Ncmsa	Gender=Masc|Number=Sing|State=Abs	_	_	Strong=H1755|Translit=va./Dor|Align=source_extra:1
 
 # ref = LAM.5.20
-1	לָ֤מָּה	לָ֤/מָּה	PRON	HR/Pi	_	_	_	Strong=H4100|Translit=La./mah
-2	לָנֶ֙צַח֙	לָ/נֶ֙צַח֙	NOUN	HR/Ncmsa	Gender=Masc|Number=Sing|State=Abs	_	_	Strong=H5331|Translit=la./Ne.tzach
-3	תִּשְׁכָּחֵ֔נוּ	תִּשְׁכָּחֵ֔/נוּ	VERB	HVqi2ms/Sp1bp	Gender=Masc|HebBinyan=Qal|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin	_	_	Strong=H7911|Translit=tish.ka.Che./nu
-4	תַּֽעַזְבֵ֖נוּ	תַּֽעַזְבֵ֖/נוּ	VERB	HVqi2ms/Sp1bp	Gender=Masc|HebBinyan=Qal|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin	_	_	Strong=H5800|Translit=ta.'az.Ve./nu
-5	לְאֹ֥רֶךְ	לְ/אֹ֥רֶךְ	NOUN	HR/Ncmsc	Gender=Masc|Number=Sing|State=Cns	_	_	Strong=H0753|Translit=le./'O.rekh
-6	יָמִֽים	יָמִֽים\׃	NOUN	HNcmpa	Gender=Masc|Number=Plur|State=Abs	_	_	Strong=H3117|Translit=ya.Mim
+1	לָ֤מָּה	מָה	PRON	HR/Pi	_	_	_	Strong=H4100|Translit=La./mah
+2	לָנֶ֙צַח֙	נֶצַח	NOUN	HR/Ncmsa	Gender=Masc|Number=Sing|State=Abs	_	_	Strong=H5331|Translit=la./Ne.tzach
+3	תִּשְׁכָּחֵ֔נוּ	שָׁכַח	VERB	HVqi2ms/Sp1bp	Gender=Masc|HebBinyan=Qal|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin	_	_	Strong=H7911|Translit=tish.ka.Che./nu
+4	תַּֽעַזְבֵ֖נוּ	עָזַב	VERB	HVqi2ms/Sp1bp	Gender=Masc|HebBinyan=Qal|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin	_	_	Strong=H5800|Translit=ta.'az.Ve./nu
+5	לְאֹ֥רֶךְ	אֹרֶךְ	NOUN	HR/Ncmsc	Gender=Masc|Number=Sing|State=Cns	_	_	Strong=H0753|Translit=le./'O.rekh
+6	יָמִֽים	יוֹם	NOUN	HNcmpa	Gender=Masc|Number=Plur|State=Abs	_	_	Strong=H3117|Translit=ya.Mim
 
 # ref = LAM.5.21
-1	הֲשִׁיבֵ֨נוּ	הֲשִׁיבֵ֨/נוּ	VERB	HVhv2ms/Sp1bp	Gender=Masc|HebBinyan=Hif|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	_	_	Strong=H7725|Translit=ha.shi.Ve./nu
+1	הֲשִׁיבֵ֨נוּ	שׁוּב	VERB	HVhv2ms/Sp1bp	Gender=Masc|HebBinyan=Hif|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	_	_	Strong=H7725|Translit=ha.shi.Ve./nu
 2	יְהֹוָ֤ה	_	X	_	_	_	_	Align=unmatched
 3	׀	_	X	_	_	_	_	Align=unmatched
-4	אֵלֶ֙יךָ֙	אֵלֶ֙י/ךָ֙	PRON	HR/Sp2ms	Gender=Masc|Number=Sing|Person=2	_	_	Strong=H0413|Translit='e.Lei./kha
+4	אֵלֶ֙יךָ֙	אֵל	PRON	HR/Sp2ms	Gender=Masc|Number=Sing|Person=2	_	_	Strong=H0413|Translit='e.Lei./kha
 5	(ונשוב)	_	X	_	_	_	_	Align=unmatched
-6	וְֽנָשׁ֔וּבָה	וְֽ/נָשׁ֔וּבָה	VERB	HC/Vqc1cp	Gender=Com|HebBinyan=Qal|Mood=Coh|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin	_	_	Strong=H7725|Translit=ve./na.shuv
-7	חַדֵּ֥שׁ	חַדֵּ֥שׁ	VERB	HVpv2ms	Gender=Masc|HebBinyan=Piel|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	_	_	Strong=H2318|Translit=cha.Desh
-8	יָמֵ֖ינוּ	יָמֵ֖י/נוּ	NOUN	HNcmpc/Sp1bp	Gender=Masc|Number=Plur|State=Cns	_	_	Strong=H3117|Translit=ya.Mei./nu
-9	כְּקֶֽדֶם	כְּ/קֶֽדֶם\׃	NOUN	HR/Ncmsa	Gender=Masc|Number=Sing|State=Abs	_	_	Strong=H6924|Translit=ke./Ke.dem|Align=source_extra:1
+6	וְֽנָשׁ֔וּבָה	שׁוּב	VERB	HC/Vqc1cp	Gender=Com|HebBinyan=Qal|Mood=Coh|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin	_	_	Strong=H7725|Translit=ve./na.shuv
+7	חַדֵּ֥שׁ	חָדַשׁ	VERB	HVpv2ms	Gender=Masc|HebBinyan=Piel|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	_	_	Strong=H2318|Translit=cha.Desh
+8	יָמֵ֖ינוּ	יוֹם	NOUN	HNcmpc/Sp1bp	Gender=Masc|Number=Plur|State=Cns	_	_	Strong=H3117|Translit=ya.Mei./nu
+9	כְּקֶֽדֶם	קֶדֶם	NOUN	HR/Ncmsa	Gender=Masc|Number=Sing|State=Abs	_	_	Strong=H6924|Translit=ke./Ke.dem|Align=source_extra:1
 
 # ref = LAM.5.22
-1	כִּ֚י	כִּ֚י	SCONJ	HTc	_	_	_	Strong=H3588|Translit=ki
-2	אִם	אִם\־	SCONJ	HTc	_	_	_	Strong=H0518|Translit='im-
-3	מָאֹ֣ס	מָאֹ֣ס	VERB	HVqaa	HebBinyan=Qal|State=Abs|VerbForm=Inf	_	_	Strong=H3988|Translit=ma.'Os
-4	מְאַסְתָּ֔נוּ	מְאַסְתָּ֔/נוּ	VERB	HVqp2ms/Sp1bp	Gender=Masc|HebBinyan=Qal|Number=Sing|Person=2|Tense=Past|VerbForm=Fin	_	_	Strong=H3988|Translit=me.'as.Ta./nu
-5	קָצַ֥פְתָּ	קָצַ֥פְתָּ	VERB	HVqp2ms	Gender=Masc|HebBinyan=Qal|Number=Sing|Person=2|Tense=Past|VerbForm=Fin	_	_	Strong=H7107|Translit=ka.Tzaf.ta
-6	עָלֵ֖ינוּ	עָלֵ֖י/נוּ	PRON	HR/Sp1bp	Gender=Com|Number=Plur|Person=1	_	_	Strong=H5921|Translit='a.Lei./nu
-7	עַד	עַד\־	ADP	HR	_	_	_	Strong=H5704|Translit='ad-
-8	מְאֹֽד	מְאֹֽד\׃	ADJ	HAcmsa	Gender=Masc|Number=Sing|State=Abs	_	_	Strong=H3966|Translit=me.'Od
+1	כִּ֚י	כִּי	SCONJ	HTc	_	_	_	Strong=H3588|Translit=ki
+2	אִם	אִם	SCONJ	HTc	_	_	_	Strong=H0518|Translit='im-
+3	מָאֹ֣ס	מָאַס	VERB	HVqaa	HebBinyan=Qal|State=Abs|VerbForm=Inf	_	_	Strong=H3988|Translit=ma.'Os
+4	מְאַסְתָּ֔נוּ	מָאַס	VERB	HVqp2ms/Sp1bp	Gender=Masc|HebBinyan=Qal|Number=Sing|Person=2|Tense=Past|VerbForm=Fin	_	_	Strong=H3988|Translit=me.'as.Ta./nu
+5	קָצַ֥פְתָּ	קָצַף	VERB	HVqp2ms	Gender=Masc|HebBinyan=Qal|Number=Sing|Person=2|Tense=Past|VerbForm=Fin	_	_	Strong=H7107|Translit=ka.Tzaf.ta
+6	עָלֵ֖ינוּ	עַל	PRON	HR/Sp1bp	Gender=Com|Number=Plur|Person=1	_	_	Strong=H5921|Translit='a.Lei./nu
+7	עַד	עַד	ADP	HR	_	_	_	Strong=H5704|Translit='ad-
+8	מְאֹֽד	מְאֹד	ADJ	HAcmsa	Gender=Masc|Number=Sing|State=Abs	_	_	Strong=H3966|Translit=me.'Od
 

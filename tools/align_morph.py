@@ -84,7 +84,13 @@ def load_norm(lang: str) -> dict:
     return by_ref
 
 
-def align_verse(ref: str, l0_text: str, norm_rows: list, lang: str) -> list:
+def align_verse(
+    ref: str,
+    l0_text: str,
+    norm_rows: list,
+    lang: str,
+    headwords: "dict[str, str] | None" = None,
+) -> list:
     """Align an L0 verse string against normalized morph rows.
 
     Two-pointer walk of L0 words against source rows:
@@ -108,6 +114,13 @@ def align_verse(ref: str, l0_text: str, norm_rows: list, lang: str) -> list:
         l0_text:   Raw verse string from the L0 corpus (authoritative).
         norm_rows: List of normalized row dicts for this ref (idx-ordered).
         lang:      'grc' or 'hbo', passed to decode().
+        headwords: Optional {H#### -> clean_headword} dict.  When supplied
+                   and lang is 'hbo', the CoNLL-U LEMMA for each matched
+                   Hebrew token is taken from this map (keyed by the token's
+                   Strong's number) instead of from the TAHOT surface column.
+                   Tokens with no Strong's number or with a Strong's absent
+                   from the map fall back to the TAHOT surface form.
+                   Greek path is unchanged (headwords is ignored for 'grc').
 
     Returns:
         List of Token objects in L0 word order.
@@ -140,7 +153,16 @@ def align_verse(ref: str, l0_text: str, norm_rows: list, lang: str) -> list:
         if match:
             upos, feats = decode(match["xpos"], lang)
             misc = format_misc(match["strong"], match.get("translit", "_"), {}, None)
-            tokens.append(Token(str(i), w, match["lemma"], upos, match["xpos"], feats, misc=misc))
+            # Hebrew LEMMA: use Strong's headword from shared map when available.
+            # Tyndale 9xxx grammatical-particle codes (H9005-H9039) are not in
+            # strongs-hebrew.xml; tokens with such codes fall back to "_" rather
+            # than the TAHOT pointed surface (which contains morpheme-boundary
+            # slashes and must never appear as a LEMMA value).
+            # Greek LEMMA: keep the TAGNT dictionary form unchanged.
+            lemma = match["lemma"]
+            if lang == "hbo" and headwords is not None and match.get("strong"):
+                lemma = headwords.get(match["strong"], "_")
+            tokens.append(Token(str(i), w, lemma, upos, match["xpos"], feats, misc=misc))
         else:
             tokens.append(Token(
                 str(i), w, "_", "X", "_", "_",

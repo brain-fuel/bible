@@ -18,6 +18,7 @@ from pathlib import Path
 
 from tools.align_morph import align_verse, load_norm
 from tools.conllu import write_file
+from tools.strongs_headwords import load_hebrew_headwords
 
 ROOT = Path(__file__).resolve().parents[1]
 
@@ -34,6 +35,15 @@ def generate(lang_entry: dict, norm_by_ref: dict, book_filter: str | None) -> di
     testament = lang_entry["testament"]
     l0_field = lang_entry["l0_field"]
     lang = lang_entry["lang"]
+
+    # For Hebrew, load the Strong's headword map once so LEMMA = dictionary
+    # headword (shared with build_lexicon) rather than the TAHOT pointed surface.
+    # Greek is unchanged: TAGNT already supplies the dictionary form as lemma.
+    headwords: "dict[str, str] | None" = None
+    if lang == "hbo":
+        xml_path = ROOT / "data" / "cache" / "morph" / "raw" / "strongs-hebrew.xml"
+        headwords = load_hebrew_headwords(xml_path)
+        print(f"  [hbo] Loaded {len(headwords)} Strong's headwords from strongs-hebrew.xml")
 
     # Load book list filtered to this testament
     books_path = ROOT / "data" / "books.json"
@@ -74,7 +84,7 @@ def generate(lang_entry: dict, norm_by_ref: dict, book_filter: str | None) -> di
 
                 ref = f"{code}.{ch_num}.{v_num}"
                 norm_rows = norm_by_ref.get(ref, [])
-                tokens = align_verse(ref, l0_text, norm_rows, lang)
+                tokens = align_verse(ref, l0_text, norm_rows, lang, headwords=headwords)
 
                 # Accumulate stats. Align values are comma-joined under a
                 # single Align= key, e.g. "Align=unmatched,source_extra:1".

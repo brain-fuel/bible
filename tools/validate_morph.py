@@ -196,6 +196,17 @@ def validate(testament: str) -> dict:
                         f"'{l0_text}'"
                     )
 
+                    # OT-only contract: Hebrew LEMMA must not contain morpheme-
+                    # boundary markers (/ or \).  Their presence indicates the old
+                    # behaviour of using the TAHOT pointed surface as LEMMA rather
+                    # than the Strong's dictionary headword.
+                    if testament == "ot":
+                        assert "/" not in tok.lemma and "\\" not in tok.lemma, (
+                            f"Hebrew LEMMA '{tok.lemma}' in {ref} contains a slash "
+                            f"(morpheme-boundary marker must not appear in LEMMA; "
+                            f"LEMMA must be a Strong's dictionary headword)"
+                        )
+
                     # Count alignment markers.
                     is_unmatched = False
                     for part in tok.misc.split("|"):

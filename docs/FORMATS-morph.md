@@ -606,9 +606,9 @@ Any downstream use of data from these sources must include:
 |--------|---------------------|
 | TAGNT / TAHOT / TBESG / TBESH / TEGMC / TEHMC | "Data created by www.STEPBible.org based on work at Tyndale House Cambridge (CC BY 4.0). Source: https://github.com/STEPBible" |
 | Strong's Greek/Hebrew XML | "Public Domain — Strong's Exhaustive Concordance, James Strong 1890. XML by Ulrik Petersen." |
-| BrownDriverBriggs.xml | "Public Domain — Brown, Driver, Briggs, Hebrew and English Lexicon, 1906. XML by openscriptures.org." |
-| Abbott-Smith (via TBESG) | "G. Abbott-Smith, A Manual Greek Lexicon of the New Testament, 1922. Public Domain." |
 | MACULA Greek / Hebrew | "MACULA Greek/Hebrew Linguistic Datasets, Clear Bible Inc., CC-BY 4.0. https://github.com/Clear-Bible/macula-greek and https://github.com/Clear-Bible/macula-hebrew" |
+
+Note: BrownDriverBriggs.xml (openscriptures) and Abbott-Smith (via TBESG Meaning column) were evaluated as potential Hebrew/Greek gloss sources but are not loaded or shipped in this version. Hebrew glosses come from `strongs-hebrew.xml`; Greek glosses come from TBESG col 6 (the STEPBible-curated gloss, not the Abbott-Smith Meaning column).
 
 ---
 

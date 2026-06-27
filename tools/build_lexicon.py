@@ -32,8 +32,11 @@ from __future__ import annotations
 
 import json
 import re
+import unicodedata
 import xml.etree.ElementTree as ET
 from pathlib import Path
+
+from tools.strongs_headwords import load_hebrew_headwords
 
 
 # ---------------------------------------------------------------------------
@@ -368,7 +371,10 @@ def load_hebrew_strongs(xml_path: str | Path) -> dict:
         strong_id = f"H{snum:04d}"
 
         w = div.find(NS + "w")
-        lemma = w.get("lemma", "") if w is not None else ""
+        # NFC-normalize lemma so it matches the value produced by
+        # load_hebrew_headwords() (the shared helper used by the morph pipeline).
+        raw_lemma = w.get("lemma", "") if w is not None else ""
+        lemma = unicodedata.normalize("NFC", raw_lemma) if raw_lemma else ""
         xlit = w.get("xlit", "") if w is not None else ""
         pos = w.get("morph", "") if w is not None else ""
 
