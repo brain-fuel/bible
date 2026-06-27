@@ -65,6 +65,20 @@
     {"code":"2JO","testament":"nt","dir":"2_john","prefix":"sjohn","chapters":1,"latin_name":"Epistula II Ioannis","greek_name":"Ἰωάννου Β","english_name":"The Second Epistle of John"},
     {"code":"3JO","testament":"nt","dir":"3_john","prefix":"tjohn","chapters":1,"latin_name":"Epistula III Ioannis","greek_name":"Ἰωάννου Γ","english_name":"The Third Epistle of John"},
     {"code":"JDE","testament":"nt","dir":"jude","prefix":"jude","chapters":1,"latin_name":"Epistula Judae","greek_name":"Ἰούδα","english_name":"The General Epistle of Jude"},
-    {"code":"REV","testament":"nt","dir":"revelation","prefix":"rev","chapters":22,"latin_name":"Apocalypsis Ioannis","greek_name":"Ἀποκάλυψις Ἰωάννου","english_name":"The Revelation of Saint John the Divine"}
+    {"code":"REV","testament":"nt","dir":"revelation","prefix":"rev","chapters":22,"latin_name":"Apocalypsis Ioannis","greek_name":"Ἀποκάλυψις Ἰωάννου","english_name":"The Revelation of Saint John the Divine"},
+    {"code":"1ES","testament":"apo","english_name":"I Esdras","kjv_name":"I Esdras","finnish_name":"Ensimmäinen Esran kirja","chapters":9},
+    {"code":"2ES","testament":"apo","english_name":"II Esdras","kjv_name":"II Esdras","finnish_name":"Toinen Esran kirja","chapters":16},
+    {"code":"TOB","testament":"apo","english_name":"Tobit","kjv_name":"Tobit","finnish_name":"Tobitin kirja","chapters":14},
+    {"code":"JDT","testament":"apo","english_name":"Judith","kjv_name":"Judith","finnish_name":"Juditin kirja","chapters":16},
+    {"code":"ADE","testament":"apo","english_name":"Additions to Esther","kjv_name":"Additions to Esther","finnish_name":"Esterin kirjan lisäykset","chapters":16},
+    {"code":"WIS","testament":"apo","english_name":"Wisdom","kjv_name":"Wisdom","finnish_name":"Viisauden kirja","chapters":19},
+    {"code":"SIR","testament":"apo","english_name":"Sirach","kjv_name":"Sirach","finnish_name":"Sirakin kirja","chapters":51},
+    {"code":"BAR","testament":"apo","english_name":"Baruch","kjv_name":"Baruch","finnish_name":"Barukin kirja","chapters":6},
+    {"code":"PAZ","testament":"apo","english_name":"Prayer of Azariah","kjv_name":"Prayer of Azariah","finnish_name":"Asarjan rukous","chapters":1},
+    {"code":"SUS","testament":"apo","english_name":"Susanna","kjv_name":"Susanna","finnish_name":"Susanna","chapters":1},
+    {"code":"BEL","testament":"apo","english_name":"Bel and the Dragon","kjv_name":"Bel and the Dragon","finnish_name":"Bel ja lohikäärme","chapters":1},
+    {"code":"MAN","testament":"apo","english_name":"Prayer of Manasses","kjv_name":"Prayer of Manasses","finnish_name":"Manassen rukous","chapters":1},
+    {"code":"1MA","testament":"apo","english_name":"I Maccabees","kjv_name":"I Maccabees","finnish_name":"Ensimmäinen makkabilaiskirja","chapters":16},
+    {"code":"2MA","testament":"apo","english_name":"II Maccabees","kjv_name":"II Maccabees","finnish_name":"Toinen makkabilaiskirja","chapters":15}
   ]
 }
