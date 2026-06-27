@@ -50,16 +50,16 @@ def test_write_obadiah_five_columns_identity(tmp_path):
     assert v1["douay_rheims"] == "The vision of Abdias"
     assert v1["finnish_biblia"] == "Obadjan näky"
     assert "refs" not in v1   # identity (no latin vmap entries for OBA)
+    assert out_path_ot(tmp_path, "OBA", 1).read_text(encoding="utf-8").endswith("\n")
 
 
 def test_douay_relocates_with_latin_vmap(tmp_path):
     # A latin-vmap entry relocates BOTH latin and douay to source 1:2.
     cache = _seed(tmp_path)
-    cache_dir = cache
     # DRC source verse 2 holds the relocated text.
     editions = editions_for("ot")
     vmap = {"hebrew": {}, "latin": {"OBA 1:1": "1:2"}}
-    write_book(tmp_path, OBA, editions, _handles(editions, cache_dir), vmap)
+    write_book(tmp_path, OBA, editions, _handles(editions, cache), vmap)
     v1 = json.loads(out_path_ot(tmp_path, "OBA", 1).read_text(encoding="utf-8"))["verses"][0]
     assert v1["douay_rheims"] == "Thus saith"          # fetched from DRC 1:2
     assert v1["refs"]["douay_rheims"] == {"src": "1:2"}
