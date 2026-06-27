@@ -107,10 +107,68 @@ def build_entry(strong: str, lang: str, sources: dict) -> dict:
 # Source loaders (called only by __main__)
 # ---------------------------------------------------------------------------
 
-def _itertext_clean(elem) -> str:
-    """Concatenate all text within an element, stripping internal whitespace runs."""
-    text = "".join(elem.itertext())
+def _localname(tag: str) -> str:
+    """Strip an XML namespace from a tag, returning the local name."""
+    return tag.rsplit("}", 1)[-1]
+
+
+def _clean_ws(text: str) -> str:
+    """Collapse internal whitespace/newlines to single spaces and strip."""
     return re.sub(r"\s+", " ", text).strip()
+
+
+def _render_element(elem) -> str:
+    """Render the FULL text of a definition element, recursing into children.
+
+    Plain ElementTree ``.text`` drops everything after the first child element, so
+    definitions containing nested refs were truncated. This walks the whole subtree
+    and additionally substitutes *empty* cross-reference elements with the Strong's
+    number they point at, so nothing is silently lost:
+
+      - ``<strongsref language="GREEK" strongs="43"/>`` -> ``G0043``
+      - ``<see language="HEBREW" strongs="430"/>``      -> ``H0430``
+      - ``<w src="433"/>`` (OSIS Hebrew derivation ref) -> ``H0433``
+      - ``<greek unicode="ἦρι"/>`` (inline Greek word)  -> ``ἦρι``
+      - ``<pronunciation .../>`` (phonetic marker)       -> dropped
+
+    Everything else (PCDATA, ``<latin>``, OSIS ``<hi>``) is rendered via its text.
+    """
+    parts: list[str] = []
+    if elem.text:
+        parts.append(elem.text)
+    for child in elem:
+        ln = _localname(child.tag)
+        if ln in ("strongsref", "see"):
+            lang = (child.get("language") or "").upper()
+            num = child.get("strongs", "")
+            if num.isdigit():
+                prefix = "H" if lang.startswith("H") else "G"
+                parts.append(f"{prefix}{int(num):04d}")
+        elif ln == "w" and child.get("src"):
+            src = child.get("src", "")
+            if src.isdigit():
+                parts.append(f"H{int(src):04d}")
+            inner = "".join(child.itertext())
+            if inner.strip():
+                parts.append(inner)
+        elif ln == "greek":
+            uni = child.get("unicode")
+            if uni:
+                parts.append(uni)
+            else:
+                parts.append(_render_element(child))
+        elif ln == "pronunciation":
+            pass  # phonetic-only marker, no textual content
+        else:
+            parts.append(_render_element(child))
+        if child.tail:
+            parts.append(child.tail)
+    return "".join(parts)
+
+
+def _render_def(elem) -> str:
+    """Render a definition element to clean single-line text (full, ref-aware)."""
+    return _clean_ws(_render_element(elem))
 
 
 def load_greek_strongs(xml_path: str | Path) -> dict:
@@ -137,12 +195,14 @@ def load_greek_strongs(xml_path: str | Path) -> dict:
         lemma = greek.get("unicode", "") if greek is not None else ""
         translit = greek.get("translit", "") if greek is not None else ""
 
-        # Main gloss: strongs_def preferred, fall back to kjv_def
+        # Main gloss: strongs_def preferred, fall back to kjv_def.
+        # Use the ref-aware full-text renderer (NOT .text) so nested
+        # <strongsref>/<greek> elements are preserved, not truncated.
         sd = entry.find("strongs_def")
-        gloss = _itertext_clean(sd) if sd is not None else ""
+        gloss = _render_def(sd) if sd is not None else ""
         if not gloss:
             kjv = entry.find("kjv_def")
-            gloss = _itertext_clean(kjv) if kjv is not None else ""
+            gloss = _render_def(kjv) if kjv is not None else ""
 
         # Root: first GREEK strongsref in derivation
         root_val: str | None = None
@@ -231,36 +291,48 @@ def load_hebrew_strongs(xml_path: str | Path) -> dict:
         xlit = w.get("xlit", "") if w is not None else ""
         pos = w.get("morph", "") if w is not None else ""
 
-        # Gloss: first <item> in the entry's <list>
-        gloss = ""
-        lst = div.find(NS + "list")
-        if lst is not None:
-            items = lst.findall(NS + "item")
-            if items:
-                raw = (items[0].text or "").strip()
-                # Strip leading "1) " numbering if present
-                gloss = re.sub(r"^\d+\)\s*", "", raw).strip()
+        # In the OSIS Hebrew encoding the Strong's definition is split across
+        # <note> elements (NOT a single <strongs_def>):
+        #   type="exegesis"    -> the derivation ("plural of <w src=433>;")
+        #   type="explanation" -> the actual meaning (the core gloss)
+        #   type="translation" -> the KJV rendering (kjv_def equivalent)
+        # Compose strongs_def = derivation + meaning, rendered ref-aware so
+        # the pointed-to Strong's numbers survive (e.g. "plural of H0433; ...").
+        exegesis_note = None
+        explanation = ""
+        translation = ""
+        for note in div.findall(NS + "note"):
+            ntype = note.get("type")
+            if ntype == "exegesis":
+                exegesis_note = note
+            elif ntype == "explanation":
+                explanation = _render_def(note)
+            elif ntype == "translation":
+                translation = _render_def(note)
 
-        # Fallback: explanation note
+        derivation = _render_def(exegesis_note) if exegesis_note is not None else ""
+
+        gloss = _clean_ws(" ".join(p for p in (derivation, explanation) if p))
+        # Fallbacks if the entry carries no strongs-style notes (e.g. grammatical
+        # particles): the KJV translation note, then the first BDB sense item.
         if not gloss:
-            for note in div.findall(NS + "note"):
-                if note.get("type") == "explanation":
-                    gloss = _itertext_clean(note)
-                    break
+            gloss = translation
+        if not gloss:
+            lst = div.find(NS + "list")
+            if lst is not None:
+                items = lst.findall(NS + "item")
+                if items:
+                    raw = (items[0].text or "").strip()
+                    gloss = re.sub(r"^\d+\)\s*", "", raw).strip()
 
         # Root: <note type="exegesis"> containing <w src="N"/>
         root_val: str | None = None
-        for note in div.findall(NS + "note"):
-            if note.get("type") == "exegesis":
-                src_w = note.find(NS + "w")
-                if src_w is not None:
-                    src_attr = src_w.get("src", "")
-                    if src_attr and src_attr.isdigit():
-                        try:
-                            root_val = f"H{int(src_attr):04d}"
-                        except ValueError:
-                            pass
-                break
+        if exegesis_note is not None:
+            src_w = exegesis_note.find(NS + "w")
+            if src_w is not None:
+                src_attr = src_w.get("src", "")
+                if src_attr and src_attr.isdigit():
+                    root_val = f"H{int(src_attr):04d}"
 
         result[strong_id] = {
             "lemma": lemma,
