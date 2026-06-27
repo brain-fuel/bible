@@ -4,7 +4,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
 
-# Order OT editions deterministically: base (KJV) first, then by registry order.
+# Order editions deterministically: base first, then registry order.
 def load_editions():
     data = json.loads((ROOT / "data" / "editions.json").read_text(encoding="utf-8"))
     return data["editions"]

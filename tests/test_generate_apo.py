@@ -1,5 +1,5 @@
 import json
-from tools.generate_ot import write_book, out_path, output_editions
+from tools.generate_ot import write_book, out_path
 from tools.editions import editions_for
 from tools.sources.registry import prepare_source
 
@@ -48,7 +48,6 @@ def test_apo_two_columns_base_last_with_absent(tmp_path):
     assert v2["refs"] == {"finnish_biblia": {"absent": True}}
 
 
-def test_generate_apo_main_smoke(tmp_path, monkeypatch):
-    # main() iterates the real registry+books; just assert it is importable and callable shape.
+def test_generate_apo_main_smoke():
     import tools.generate_apo as g
     assert hasattr(g, "main")
