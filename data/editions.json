@@ -1,0 +1,8 @@
+{
+  "editions": [
+    {"id":"king_james","name":"King James Version","language":"en","source":{"type":"scrollmapper","key":"KJV"},"versification":"kjv","license":"PD","testaments":["ot","nt"],"base":true},
+    {"id":"latin_vulgate","name":"Clementine Vulgate","language":"la","source":{"type":"scrollmapper","key":"VulgClementine"},"versification":"latin","license":"PD","testaments":["ot","nt"]},
+    {"id":"hebrew_masoretic","name":"Westminster Leningrad Codex","language":"hbo","source":{"type":"sefaria","corpus":"Tanach"},"versification":"masoretic","license":"PD","testaments":["ot"]},
+    {"id":"greek_textus_receptus","name":"Greek Textus Receptus","language":"grc","source":{"type":"scrape","site":"logosapostolic"},"versification":"kjv","license":"PD","testaments":["nt"]}
+  ]
+}
