@@ -1,0 +1,393 @@
+# ref = 1CO.3.1
+1	καὶ	_	X	_	_	_	_	Align=unmatched
+2	ἐγώ	_	X	_	_	_	_	Align=unmatched
+3	ἀδελφοί	ἀδελφός	NOUN	N-VPM	Case=Voc|Gender=Masc|Number=Plur	_	_	Strong=G0080|Translit=adelphoi
+4	οὐκ	οὐ	PART	PRT-N	_	_	_	Strong=G3756|Translit=ouk
+5	ἠδυνήθην	δύναμαι	VERB	V-AOI-1S	Mood=Ind|Number=Sing|Person=1|Tense=Aor	_	_	Strong=G1410|Translit=ēdunēthēn
+6	λαλῆσαι	λαλέω	VERB	V-AAN	Mood=Inf|Tense=Aor|Voice=Act	_	_	Strong=G2980|Translit=lalēsai
+7	ὑμῖν	σύ	PRON	P-2DP	Case=Dat|Number=Plur|Person=2	_	_	Strong=G4771|Translit=humin
+8	ὡς	ὡς	PART	PRT	_	_	_	Strong=G5613|Translit=hōs
+9	πνευματικοῖς	πνευματικός	ADJ	A-DPM	Case=Dat|Gender=Masc|Number=Plur	_	_	Strong=G4152|Translit=pneumatikois
+10	ἀλλ᾽	ἀλλά	CCONJ	CONJ	_	_	_	Strong=G0235|Translit=all᾽
+11	ὡς	ὡς	PART	PRT	_	_	_	Strong=G5613|Translit=hōs
+12	σαρκικοῖς	_	X	_	_	_	_	Align=unmatched
+13	ὡς	ὡς	PART	PRT	_	_	_	Strong=G5613|Translit=hōs
+14	νηπίοις	νήπιος	ADJ	A-DPM	Case=Dat|Gender=Masc|Number=Plur	_	_	Strong=G3516|Translit=nēpiois
+15	ἐν	ἐν	ADP	PREP	_	_	_	Strong=G1722|Translit=en
+16	χριστῷ	Χριστός	NOUN	N-DSM-T	Case=Dat|Gender=Masc|Number=Sing	_	_	Strong=G5547|Translit=Christō|Align=source_extra:1
+
+# ref = 1CO.3.2
+1	γάλα	γάλα	NOUN	N-ASN	Case=Acc|Gender=Neut|Number=Sing	_	_	Strong=G1051|Translit=gala
+2	ὑμᾶς	σύ	PRON	P-2AP	Case=Acc|Number=Plur|Person=2	_	_	Strong=G4771|Translit=humas
+3	ἐπότισα	ποτίζω	VERB	V-AAI-1S	Mood=Ind|Number=Sing|Person=1|Tense=Aor|Voice=Act	_	_	Strong=G4222|Translit=epotisa
+4	καὶ	καί	CCONJ	CONJ	_	_	_	Strong=G2532|Translit=kai
+5	οὐ	οὐ	PART	PRT-N	_	_	_	Strong=G3756|Translit=ou
+6	βρῶμα	βρῶμα	NOUN	N-ASN	Case=Acc|Gender=Neut|Number=Sing	_	_	Strong=G1033|Translit=brōma
+7	οὔπω	οὔπω	X	ADV-N	_	_	_	Strong=G3768|Translit=oupō
+8	γὰρ	γάρ	CCONJ	CONJ	_	_	_	Strong=G1063|Translit=gar
+9	ἠδύνασθε	_	X	_	_	_	_	Align=unmatched
+10	ἀλλ᾽	ἀλλά	CCONJ	CONJ	_	_	_	Strong=G0235|Translit=all᾽
+11	οὖτε	_	X	_	_	_	_	Align=unmatched
+12	ἔτι	ἔτι	ADV	ADV	_	_	_	Strong=G2089|Translit=eti
+13	νῦν	νῦν	ADV	ADV	_	_	_	Strong=G3568|Translit=nun
+14	δύνασθε	δύναμαι	VERB	V-PNI-2P	Mood=Ind|Number=Plur|Person=2|Tense=Pres	_	_	Strong=G1410|Translit=dunasthe|Align=source_extra:1
+
+# ref = 1CO.3.3
+1	ἔτι	ἔτι	ADV	ADV	_	_	_	Strong=G2089|Translit=eti
+2	γὰρ	γάρ	CCONJ	CONJ	_	_	_	Strong=G1063|Translit=gar
+3	σαρκικοί	σαρκικός	ADJ	A-NPM	Case=Nom|Gender=Masc|Number=Plur	_	_	Strong=G4559|Translit=sarkikoi
+4	ἐστε	εἰμί	VERB	V-PAI-2P	Mood=Ind|Number=Plur|Person=2|Tense=Pres|Voice=Act	_	_	Strong=G1510|Translit=este
+5	ὅπου	ὅπου	CCONJ	CONJ	_	_	_	Strong=G3699|Translit=hopou
+6	γὰρ	γάρ	CCONJ	CONJ	_	_	_	Strong=G1063|Translit=gar
+7	ἐν	ἐν	ADP	PREP	_	_	_	Strong=G1722|Translit=en
+8	ὑμῖν	σύ	PRON	P-2DP	Case=Dat|Number=Plur|Person=2	_	_	Strong=G4771|Translit=humin
+9	ζῆλος	ζῆλος	NOUN	N-NSM	Case=Nom|Gender=Masc|Number=Sing	_	_	Strong=G2205|Translit=zēlos
+10	καὶ	καί	CCONJ	CONJ	_	_	_	Strong=G2532|Translit=kai
+11	ἔρις	ἔρις	NOUN	N-NSF	Case=Nom|Gender=Fem|Number=Sing	_	_	Strong=G2054|Translit=eris
+12	καὶ	καί	CCONJ	CONJ	_	_	_	Strong=G2532|Translit=kai
+13	διχοστασίαι	διχοστασία	NOUN	N-NPF	Case=Nom|Gender=Fem|Number=Plur	_	_	Strong=G1370|Translit=dichostasiai
+14	οὐχὶ	οὐχί	PART	PRT-N	_	_	_	Strong=G3780|Translit=ouchi
+15	σαρκικοί	σαρκικός	ADJ	A-NPM	Case=Nom|Gender=Masc|Number=Plur	_	_	Strong=G4559|Translit=sarkikoi
+16	ἐστε	εἰμί	VERB	V-PAI-2P	Mood=Ind|Number=Plur|Person=2|Tense=Pres|Voice=Act	_	_	Strong=G1510|Translit=este
+17	καὶ	καί	CCONJ	CONJ	_	_	_	Strong=G2532|Translit=kai
+18	κατὰ	κατά	ADP	PREP	_	_	_	Strong=G2596|Translit=kata
+19	ἄνθρωπον	ἄνθρωπος	NOUN	N-ASM	Case=Acc|Gender=Masc|Number=Sing	_	_	Strong=G0444|Translit=anthrōpon
+20	περιπατεῖτε	περιπατέω	VERB	V-PAI-2P	Mood=Ind|Number=Plur|Person=2|Tense=Pres|Voice=Act	_	_	Strong=G4043|Translit=peripateite
+
+# ref = 1CO.3.4
+1	ὅταν	ὅταν	CCONJ	CONJ	_	_	_	Strong=G3752|Translit=hotan
+2	γὰρ	γάρ	CCONJ	CONJ	_	_	_	Strong=G1063|Translit=gar
+3	λέγῃ	λέγω	VERB	V-PAS-3S	Mood=Sub|Number=Sing|Person=3|Tense=Pres|Voice=Act	_	_	Strong=G3004|Translit=legē
+4	τις	τις	X	X-NSM	_	_	_	Strong=G5100|Translit=tis
+5	ἐγὼ	ἐγώ	PRON	P-1NS	Case=Nom|Number=Sing|Person=1	_	_	Strong=G1473|Translit=egō
+6	μέν	μέν	PART	PRT	_	_	_	Strong=G3303|Translit=men
+7	εἰμι	εἰμί	VERB	V-PAI-1S	Mood=Ind|Number=Sing|Person=1|Tense=Pres|Voice=Act	_	_	Strong=G1510|Translit=eimi
+8	παύλου	Παῦλος	NOUN	N-GSM-P	Case=Gen|Gender=Masc|Number=Sing	_	_	Strong=G3972|Translit=Paulou
+9	ἕτερος	ἕτερος	ADJ	A-NSM	Case=Nom|Gender=Masc|Number=Sing	_	_	Strong=G2087|Translit=heteros
+10	δέ	δέ	CCONJ	CONJ	_	_	_	Strong=G1161|Translit=de
+11	ἐγὼ	ἐγώ	PRON	P-1NS	Case=Nom|Number=Sing|Person=1	_	_	Strong=G1473|Translit=egō
+12	ἀπολλῶ	Ἀπολλῶς	NOUN	N-GSM-P	Case=Gen|Gender=Masc|Number=Sing	_	_	Strong=G0625|Translit=Apollō
+13	οὐχὶ	_	X	_	_	_	_	Align=unmatched
+14	σαρκικοί	_	X	_	_	_	_	Align=unmatched
+15	ἐστε	εἰμί	VERB	V-PAI-2P	Mood=Ind|Number=Plur|Person=2|Tense=Pres|Voice=Act	_	_	Strong=G1510|Translit=este
+
+# ref = 1CO.3.5
+1	τίς	_	X	_	_	_	_	Align=unmatched
+2	οὖν	οὖν	CCONJ	CONJ	_	_	_	Strong=G3767|Translit=oun
+3	ἐστιν	εἰμί	VERB	V-PAI-3S	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	_	_	Strong=G1510|Translit=estin
+4	παῦλος	Παῦλος	NOUN	N-NSM-P	Case=Nom|Gender=Masc|Number=Sing	_	_	Strong=G3972|Translit=Paulos
+5	τίς	_	X	_	_	_	_	Align=unmatched
+6	δέ	_	X	_	_	_	_	Align=unmatched
+7	ἀπολλῶς	_	X	_	_	_	_	Align=unmatched
+8	ἀλλ᾽	ἀλλά	CCONJ	CONJ	_	_	_	Strong=G0235|Translit=all᾽
+9	ἢ	ἤ	CCONJ	CONJ	_	_	_	Strong=G2228|Translit=ē
+10	διάκονοι	διάκονος	NOUN	N-NPM	Case=Nom|Gender=Masc|Number=Plur	_	_	Strong=G1249|Translit=diakonoi
+11	δι᾽	διά	ADP	PREP	_	_	_	Strong=G1223|Translit=di᾽
+12	ὧν	ὅς, ἥ	PRON	R-GPM	Case=Gen|Gender=Masc|Number=Plur	_	_	Strong=G3739|Translit=hōn
+13	ἐπιστεύσατε	πιστεύω	VERB	V-AAI-2P	Mood=Ind|Number=Plur|Person=2|Tense=Aor|Voice=Act	_	_	Strong=G4100|Translit=episteusate
+14	καὶ	καί	CCONJ	CONJ	_	_	_	Strong=G2532|Translit=kai
+15	ἑκάστῳ	ἕκαστος	ADJ	A-DSM	Case=Dat|Gender=Masc|Number=Sing	_	_	Strong=G1538|Translit=hekastō
+16	ὡς	ὡς	PART	PRT	_	_	_	Strong=G5613|Translit=hōs
+17	ὁ	ὁ	DET	T-NSM	Case=Nom|Gender=Masc|Number=Sing	_	_	Strong=G3588|Translit=ho
+18	κύριος	κύριος	NOUN	N-NSM-T	Case=Nom|Gender=Masc|Number=Sing	_	_	Strong=G2962|Translit=kurios
+19	ἔδωκεν	δίδωμι	VERB	V-AAI-3S	Mood=Ind|Number=Sing|Person=3|Tense=Aor|Voice=Act	_	_	Strong=G1325|Translit=edōken|Align=source_extra:2
+
+# ref = 1CO.3.6
+1	ἐγὼ	ἐγώ	PRON	P-1NS	Case=Nom|Number=Sing|Person=1	_	_	Strong=G1473|Translit=egō
+2	ἐφύτευσα	φυτεύω	VERB	V-AAI-1S	Mood=Ind|Number=Sing|Person=1|Tense=Aor|Voice=Act	_	_	Strong=G5452|Translit=ephuteusa
+3	ἀπολλῶς	Ἀπολλῶς	NOUN	N-NSM-P	Case=Nom|Gender=Masc|Number=Sing	_	_	Strong=G0625|Translit=Apollōs
+4	ἐπότισεν	ποτίζω	VERB	V-AAI-3S	Mood=Ind|Number=Sing|Person=3|Tense=Aor|Voice=Act	_	_	Strong=G4222|Translit=epotisen
+5	ἀλλ᾽	ἀλλά	CCONJ	CONJ	_	_	_	Strong=G0235|Translit=all᾽
+6	ὁ	ὁ	DET	T-NSM	Case=Nom|Gender=Masc|Number=Sing	_	_	Strong=G3588|Translit=ho
+7	θεὸς	θεός	NOUN	N-NSM-T	Case=Nom|Gender=Masc|Number=Sing	_	_	Strong=G2316|Translit=theos
+8	ηὔξανεν	αὐξάνω	VERB	V-IAI-3S	Mood=Ind|Number=Sing|Person=3|Tense=Impf|Voice=Act	_	_	Strong=G0837|Translit=ēuxanen
+
+# ref = 1CO.3.7
+1	ὥστε	ὥστε	CCONJ	CONJ	_	_	_	Strong=G5620|Translit=hōste
+2	οὔτε	οὔτε	CCONJ	CONJ-N	_	_	_	Strong=G3777|Translit=oute
+3	ὁ	ὁ	DET	T-NSM	Case=Nom|Gender=Masc|Number=Sing	_	_	Strong=G3588|Translit=ho
+4	φυτεύων	φυτεύω	VERB	V-PAP-NSM	Case=Nom|Gender=Masc|Mood=Part|Number=Sing|Tense=Pres|Voice=Act	_	_	Strong=G5452|Translit=phuteuōn
+5	ἐστίν	εἰμί	VERB	V-PAI-3S	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	_	_	Strong=G1510|Translit=estin
+6	τι	τις	X	X-NSN	_	_	_	Strong=G5100|Translit=ti
+7	οὔτε	οὔτε	CCONJ	CONJ-N	_	_	_	Strong=G3777|Translit=oute
+8	ὁ	ὁ	DET	T-NSM	Case=Nom|Gender=Masc|Number=Sing	_	_	Strong=G3588|Translit=ho
+9	ποτίζων	ποτίζω	VERB	V-PAP-NSM	Case=Nom|Gender=Masc|Mood=Part|Number=Sing|Tense=Pres|Voice=Act	_	_	Strong=G4222|Translit=potizōn
+10	ἀλλ᾽	ἀλλά	CCONJ	CONJ	_	_	_	Strong=G0235|Translit=all᾽
+11	ὁ	ὁ	DET	T-NSM	Case=Nom|Gender=Masc|Number=Sing	_	_	Strong=G3588|Translit=ho
+12	αὐξάνων	αὐξάνω	VERB	V-PAP-NSM	Case=Nom|Gender=Masc|Mood=Part|Number=Sing|Tense=Pres|Voice=Act	_	_	Strong=G0837|Translit=auxanōn
+13	θεός	θεός	NOUN	N-NSM-T	Case=Nom|Gender=Masc|Number=Sing	_	_	Strong=G2316|Translit=theos
+
+# ref = 1CO.3.8
+1	ὁ	ὁ	DET	T-NSM	Case=Nom|Gender=Masc|Number=Sing	_	_	Strong=G3588|Translit=ho
+2	φυτεύων	φυτεύω	VERB	V-PAP-NSM	Case=Nom|Gender=Masc|Mood=Part|Number=Sing|Tense=Pres|Voice=Act	_	_	Strong=G5452|Translit=phuteuōn
+3	δὲ	δέ	CCONJ	CONJ	_	_	_	Strong=G1161|Translit=de
+4	καὶ	καί	CCONJ	CONJ	_	_	_	Strong=G2532|Translit=kai
+5	ὁ	ὁ	DET	T-NSM	Case=Nom|Gender=Masc|Number=Sing	_	_	Strong=G3588|Translit=ho
+6	ποτίζων	ποτίζω	VERB	V-PAP-NSM	Case=Nom|Gender=Masc|Mood=Part|Number=Sing|Tense=Pres|Voice=Act	_	_	Strong=G4222|Translit=potizōn
+7	ἕν	εἷς	ADJ	A-NSN	Case=Nom|Gender=Neut|Number=Sing	_	_	Strong=G1520|Translit=hen
+8	εἰσιν	εἰμί	VERB	V-PAI-3P	Mood=Ind|Number=Plur|Person=3|Tense=Pres|Voice=Act	_	_	Strong=G1510|Translit=eisin
+9	ἕκαστος	ἕκαστος	ADJ	A-NSM	Case=Nom|Gender=Masc|Number=Sing	_	_	Strong=G1538|Translit=hekastos
+10	δὲ	δέ	CCONJ	CONJ	_	_	_	Strong=G1161|Translit=de
+11	τὸν	ὁ	DET	T-ASM	Case=Acc|Gender=Masc|Number=Sing	_	_	Strong=G3588|Translit=ton
+12	ἴδιον	ἴδιος	ADJ	A-ASM	Case=Acc|Gender=Masc|Number=Sing	_	_	Strong=G2398|Translit=idion
+13	μισθὸν	μισθός	NOUN	N-ASM	Case=Acc|Gender=Masc|Number=Sing	_	_	Strong=G3408|Translit=misthon
+14	λήψεται	_	X	_	_	_	_	Align=unmatched
+15	κατὰ	κατά	ADP	PREP	_	_	_	Strong=G2596|Translit=kata
+16	τὸν	ὁ	DET	T-ASM	Case=Acc|Gender=Masc|Number=Sing	_	_	Strong=G3588|Translit=ton
+17	ἴδιον	ἴδιος	ADJ	A-ASM	Case=Acc|Gender=Masc|Number=Sing	_	_	Strong=G2398|Translit=idion
+18	κόπον	κόπος	NOUN	N-ASM	Case=Acc|Gender=Masc|Number=Sing	_	_	Strong=G2873|Translit=kopon|Align=source_extra:1
+
+# ref = 1CO.3.9
+1	θεοῦ	θεός	NOUN	N-GSM-T	Case=Gen|Gender=Masc|Number=Sing	_	_	Strong=G2316|Translit=theou
+2	γάρ	γάρ	CCONJ	CONJ	_	_	_	Strong=G1063|Translit=gar
+3	ἐσμεν	εἰμί	VERB	V-PAI-1P	Mood=Ind|Number=Plur|Person=1|Tense=Pres|Voice=Act	_	_	Strong=G1510|Translit=esmen
+4	συνεργοί	συνεργός	ADJ	A-NPM	Case=Nom|Gender=Masc|Number=Plur	_	_	Strong=G4904|Translit=sunergoi
+5	θεοῦ	θεός	NOUN	N-GSM-T	Case=Gen|Gender=Masc|Number=Sing	_	_	Strong=G2316|Translit=theou
+6	γεώργιον	γεώργιον	NOUN	N-NSN	Case=Nom|Gender=Neut|Number=Sing	_	_	Strong=G1091|Translit=geōrgion
+7	θεοῦ	θεός	NOUN	N-GSM-T	Case=Gen|Gender=Masc|Number=Sing	_	_	Strong=G2316|Translit=theou
+8	οἰκοδομή	οἰκοδομή	NOUN	N-NSF	Case=Nom|Gender=Fem|Number=Sing	_	_	Strong=G3619|Translit=oikodomē
+9	ἐστε	εἰμί	VERB	V-PAI-2P	Mood=Ind|Number=Plur|Person=2|Tense=Pres|Voice=Act	_	_	Strong=G1510|Translit=este
+
+# ref = 1CO.3.10
+1	κατὰ	κατά	ADP	PREP	_	_	_	Strong=G2596|Translit=kata
+2	τὴν	ὁ	DET	T-ASF	Case=Acc|Gender=Fem|Number=Sing	_	_	Strong=G3588|Translit=tēn
+3	χάριν	χάρις	NOUN	N-ASF	Case=Acc|Gender=Fem|Number=Sing	_	_	Strong=G5485|Translit=charin
+4	τοῦ	ὁ	DET	T-GSM	Case=Gen|Gender=Masc|Number=Sing	_	_	Strong=G3588|Translit=tou
+5	θεοῦ	θεός	NOUN	N-GSM-T	Case=Gen|Gender=Masc|Number=Sing	_	_	Strong=G2316|Translit=theou
+6	τὴν	ὁ	DET	T-ASF	Case=Acc|Gender=Fem|Number=Sing	_	_	Strong=G3588|Translit=tēn
+7	δοθεῖσάν	δίδωμι	VERB	V-APP-ASF	Case=Acc|Gender=Fem|Mood=Part|Number=Sing|Tense=Aor|Voice=Pass	_	_	Strong=G1325|Translit=dotheisan
+8	μοι	ἐγώ	PRON	P-1DS	Case=Dat|Number=Sing|Person=1	_	_	Strong=G3165|Translit=moi
+9	ὡς	ὡς	PART	PRT	_	_	_	Strong=G5613|Translit=hōs
+10	σοφὸς	σοφός	ADJ	A-NSM	Case=Nom|Gender=Masc|Number=Sing	_	_	Strong=G4680|Translit=sophos
+11	ἀρχιτέκτων	ἀρχιτέκτων	NOUN	N-NSM	Case=Nom|Gender=Masc|Number=Sing	_	_	Strong=G0753|Translit=architektōn
+12	θεμέλιον	θεμέλιος	NOUN	N-ASM	Case=Acc|Gender=Masc|Number=Sing	_	_	Strong=G2310|Translit=themelion
+13	τέθεικα	_	X	_	_	_	_	Align=unmatched
+14	ἄλλος	ἄλλος	ADJ	A-NSM	Case=Nom|Gender=Masc|Number=Sing	_	_	Strong=G0243|Translit=allos
+15	δὲ	δέ	CCONJ	CONJ	_	_	_	Strong=G1161|Translit=de
+16	ἐποικοδομεῖ	ἐποικοδομέω	VERB	V-PAI-3S	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	_	_	Strong=G2026|Translit=epoikodomei
+17	ἕκαστος	ἕκαστος	ADJ	A-NSM	Case=Nom|Gender=Masc|Number=Sing	_	_	Strong=G1538|Translit=hekastos
+18	δὲ	δέ	CCONJ	CONJ	_	_	_	Strong=G1161|Translit=de
+19	βλεπέτω	βλέπω	VERB	V-PAM-3S	Mood=Imp|Number=Sing|Person=3|Tense=Pres|Voice=Act	_	_	Strong=G0991|Translit=blepetō
+20	πῶς	πως	PART	PRT-I	_	_	_	Strong=G4459|Translit=pōs
+21	ἐποικοδομεῖ	ἐποικοδομέω	VERB	V-PAI-3S	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	_	_	Strong=G2026|Translit=epoikodomei
+
+# ref = 1CO.3.11
+1	θεμέλιον	θεμέλιος	NOUN	N-ASM	Case=Acc|Gender=Masc|Number=Sing	_	_	Strong=G2310|Translit=themelion
+2	γὰρ	γάρ	CCONJ	CONJ	_	_	_	Strong=G1063|Translit=gar
+3	ἄλλον	ἄλλος	ADJ	A-ASM	Case=Acc|Gender=Masc|Number=Sing	_	_	Strong=G0243|Translit=allon
+4	οὐδεὶς	οὐδείς	ADJ	A-NSM	Case=Nom|Gender=Masc|Number=Sing	_	_	Strong=G3762|Translit=oudeis
+5	δύναται	δύναμαι	VERB	V-PNI-3S	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	Strong=G1410|Translit=dunatai
+6	θεῖναι	τίθημι	VERB	V-2AAN	Mood=Inf|Tense=Aor|Voice=Act	_	_	Strong=G5087|Translit=theinai
+7	παρὰ	παρά	ADP	PREP	_	_	_	Strong=G3844|Translit=para
+8	τὸν	ὁ	DET	T-ASM	Case=Acc|Gender=Masc|Number=Sing	_	_	Strong=G3588|Translit=ton
+9	κείμενον	κεῖμαι	VERB	V-PNP-ASM	Case=Acc|Gender=Masc|Mood=Part|Number=Sing|Tense=Pres	_	_	Strong=G2749|Translit=keimenon
+10	ὅς	ὅς, ἥ	PRON	R-NSM	Case=Nom|Gender=Masc|Number=Sing	_	_	Strong=G3739|Translit=hos
+11	ἐστιν	εἰμί	VERB	V-PAI-3S	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	_	_	Strong=G1510|Translit=estin
+12	ἰησοῦς	Ἰησοῦς	NOUN	N-NSM-P	Case=Nom|Gender=Masc|Number=Sing	_	_	Strong=G2424|Translit=Iēsous
+13	ὁ	ὁ	DET	T-NSM	Case=Nom|Gender=Masc|Number=Sing	_	_	Strong=G3588|Translit=ho
+14	χριστός	Χριστός	NOUN	N-NSM-T	Case=Nom|Gender=Masc|Number=Sing	_	_	Strong=G5547|Translit=Christos
+
+# ref = 1CO.3.12
+1	εἰ	εἰ	SCONJ	COND	_	_	_	Strong=G1487|Translit=ei
+2	δέ	δέ	CCONJ	CONJ	_	_	_	Strong=G1161|Translit=de
+3	τις	τις	X	X-NSM	_	_	_	Strong=G5100|Translit=tis
+4	ἐποικοδομεῖ	ἐποικοδομέω	VERB	V-PAI-3S	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	_	_	Strong=G2026|Translit=epoikodomei
+5	ἐπὶ	ἐπί	ADP	PREP	_	_	_	Strong=G1909|Translit=epi
+6	τὸν	ὁ	DET	T-ASM	Case=Acc|Gender=Masc|Number=Sing	_	_	Strong=G3588|Translit=ton
+7	θεμέλιον	θεμέλιος	NOUN	N-ASM	Case=Acc|Gender=Masc|Number=Sing	_	_	Strong=G2310|Translit=themelion
+8	τοῦτον	οὗτος	PRON	D-ASM	Case=Acc|Gender=Masc|Number=Sing	_	_	Strong=G3778|Translit=touton
+9	χρυσόν	χρυσός	NOUN	N-ASM	Case=Acc|Gender=Masc|Number=Sing	_	_	Strong=G5557|Translit=chruson
+10	ἄργυρον	ἄργυρος	NOUN	N-ASM	Case=Acc|Gender=Masc|Number=Sing	_	_	Strong=G0696|Translit=arguron
+11	λίθους	λίθος	NOUN	N-APM	Case=Acc|Gender=Masc|Number=Plur	_	_	Strong=G3037|Translit=lithous
+12	τιμίους	τίμιος	ADJ	A-APM	Case=Acc|Gender=Masc|Number=Plur	_	_	Strong=G5093|Translit=timious
+13	ξύλα	ξύλον	NOUN	N-APN	Case=Acc|Gender=Neut|Number=Plur	_	_	Strong=G3586|Translit=xula
+14	χόρτον	χόρτος	NOUN	N-ASM	Case=Acc|Gender=Masc|Number=Sing	_	_	Strong=G5528|Translit=chorton
+15	καλάμην	καλάμη	NOUN	N-ASF	Case=Acc|Gender=Fem|Number=Sing	_	_	Strong=G2562|Translit=kalamēn
+
+# ref = 1CO.3.13
+1	ἑκάστου	ἕκαστος	ADJ	A-GSM	Case=Gen|Gender=Masc|Number=Sing	_	_	Strong=G1538|Translit=hekastou
+2	τὸ	ὁ	DET	T-NSN	Case=Nom|Gender=Neut|Number=Sing	_	_	Strong=G3588|Translit=to
+3	ἔργον	ἔργον	NOUN	N-NSN	Case=Nom|Gender=Neut|Number=Sing	_	_	Strong=G2041|Translit=ergon
+4	φανερὸν	φανερός	ADJ	A-NSN	Case=Nom|Gender=Neut|Number=Sing	_	_	Strong=G5318|Translit=phaneron
+5	γενήσεται	γίνομαι	VERB	V-FDI-3S	Mood=Ind|Number=Sing|Person=3|Tense=Fut|Voice=Mid	_	_	Strong=G1096|Translit=genēsetai
+6	ἡ	ὁ	DET	T-NSF	Case=Nom|Gender=Fem|Number=Sing	_	_	Strong=G3588|Translit=hē
+7	γὰρ	γάρ	CCONJ	CONJ	_	_	_	Strong=G1063|Translit=gar
+8	ἡμέρα	ἡμέρα	NOUN	N-NSF	Case=Nom|Gender=Fem|Number=Sing	_	_	Strong=G2250|Translit=hēmera
+9	δηλώσει	δηλόω	VERB	V-FAI-3S	Mood=Ind|Number=Sing|Person=3|Tense=Fut|Voice=Act	_	_	Strong=G1213|Translit=dēlōsei
+10	ὅτι	ὅτι	CCONJ	CONJ	_	_	_	Strong=G3754|Translit=hoti
+11	ἐν	ἐν	ADP	PREP	_	_	_	Strong=G1722|Translit=en
+12	πυρὶ	πῦρ	NOUN	N-DSN	Case=Dat|Gender=Neut|Number=Sing	_	_	Strong=G4442|Translit=puri
+13	ἀποκαλύπτεται	ἀποκαλύπτω	VERB	V-PPI-3S	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Pass	_	_	Strong=G0601|Translit=apokaluptetai
+14	καὶ	καί	CCONJ	CONJ	_	_	_	Strong=G2532|Translit=kai
+15	ἑκάστου	ἕκαστος	ADJ	A-GSM	Case=Gen|Gender=Masc|Number=Sing	_	_	Strong=G1538|Translit=hekastou
+16	τὸ	ὁ	DET	T-ASN	Case=Acc|Gender=Neut|Number=Sing	_	_	Strong=G3588|Translit=to
+17	ἔργον	ἔργον	NOUN	N-ASN	Case=Acc|Gender=Neut|Number=Sing	_	_	Strong=G2041|Translit=ergon
+18	ὁποῖόν	ὁποῖος	PRON	I-NSN	Case=Nom|Gender=Neut|Number=Sing	_	_	Strong=G3697|Translit=hopoion
+19	ἐστιν	εἰμί	VERB	V-PAI-3S	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	_	_	Strong=G1510|Translit=estin
+20	τὸ	ὁ	DET	T-NSN	Case=Nom|Gender=Neut|Number=Sing	_	_	Strong=G3588|Translit=to
+21	πῦρ	πῦρ	NOUN	N-NSN	Case=Nom|Gender=Neut|Number=Sing	_	_	Strong=G4442|Translit=pur
+22	δοκιμάσει	δοκιμάζω	VERB	V-FAI-3S	Mood=Ind|Number=Sing|Person=3|Tense=Fut|Voice=Act	_	_	Strong=G1381|Translit=dokimasei
+
+# ref = 1CO.3.14
+1	εἴ	εἰ	SCONJ	COND	_	_	_	Strong=G1487|Translit=ei
+2	τινος	τις	X	X-GSM	_	_	_	Strong=G5100|Translit=tinos
+3	τὸ	ὁ	DET	T-NSN	Case=Nom|Gender=Neut|Number=Sing	_	_	Strong=G3588|Translit=to
+4	ἔργον	ἔργον	NOUN	N-NSN	Case=Nom|Gender=Neut|Number=Sing	_	_	Strong=G2041|Translit=ergon
+5	μενεῖ	μένω	VERB	V-FAI-3S	Mood=Ind|Number=Sing|Person=3|Tense=Fut|Voice=Act	_	_	Strong=G3306|Translit=menei
+6	ὃ	ὅς, ἥ	PRON	R-ASN	Case=Acc|Gender=Neut|Number=Sing	_	_	Strong=G3739|Translit=ho
+7	ἐπωκοδόμησεν	_	X	_	_	_	_	Align=unmatched
+8	μισθὸν	μισθός	NOUN	N-ASM	Case=Acc|Gender=Masc|Number=Sing	_	_	Strong=G3408|Translit=misthon
+9	λήψεται	_	X	_	_	_	_	Align=unmatched,source_extra:2
+
+# ref = 1CO.3.15
+1	εἴ	εἰ	SCONJ	COND	_	_	_	Strong=G1487|Translit=ei
+2	τινος	τις	X	X-GSM	_	_	_	Strong=G5100|Translit=tinos
+3	τὸ	ὁ	DET	T-NSN	Case=Nom|Gender=Neut|Number=Sing	_	_	Strong=G3588|Translit=to
+4	ἔργον	ἔργον	NOUN	N-NSN	Case=Nom|Gender=Neut|Number=Sing	_	_	Strong=G2041|Translit=ergon
+5	κατακαήσεται	κατακαίω	VERB	V-2FPI-3S	Mood=Ind|Number=Sing|Person=3|Voice=Pass	_	_	Strong=G2618|Translit=katakaēsetai
+6	ζημιωθήσεται	ζημιόω	VERB	V-FPI-3S	Mood=Ind|Number=Sing|Person=3|Tense=Fut|Voice=Pass	_	_	Strong=G2210|Translit=zēmiōthēsetai
+7	αὐτὸς	αὐτός	PRON	P-NSM	Case=Nom|Gender=Masc|Number=Sing	_	_	Strong=G0846|Translit=autos
+8	δὲ	δέ	CCONJ	CONJ	_	_	_	Strong=G1161|Translit=de
+9	σωθήσεται	σῴζω	VERB	V-FPI-3S	Mood=Ind|Number=Sing|Person=3|Tense=Fut|Voice=Pass	_	_	Strong=G4982|Translit=sōthēsetai
+10	οὕτως	οὕτω, οὕτως	ADV	ADV	_	_	_	Strong=G3779|Translit=houtōs
+11	δὲ	δέ	CCONJ	CONJ	_	_	_	Strong=G1161|Translit=de
+12	ὡς	ὡς	PART	PRT	_	_	_	Strong=G5613|Translit=hōs
+13	διὰ	διά	ADP	PREP	_	_	_	Strong=G1223|Translit=dia
+14	πυρός	πῦρ	NOUN	N-GSN	Case=Gen|Gender=Neut|Number=Sing	_	_	Strong=G4442|Translit=puros
+
+# ref = 1CO.3.16
+1	οὐκ	οὐ	PART	PRT-N	_	_	_	Strong=G3756|Translit=Ouk
+2	οἴδατε	εἴδω	VERB	V-RAI-2P	Mood=Ind|Number=Plur|Person=2|Tense=Perf|Voice=Act	_	_	Strong=G6063|Translit=oidate
+3	ὅτι	ὅτι	CCONJ	CONJ	_	_	_	Strong=G3754|Translit=hoti
+4	ναὸς	ναός	NOUN	N-NSM	Case=Nom|Gender=Masc|Number=Sing	_	_	Strong=G3485|Translit=naos
+5	θεοῦ	θεός	NOUN	N-GSM-T	Case=Gen|Gender=Masc|Number=Sing	_	_	Strong=G2316|Translit=theou
+6	ἐστε	εἰμί	VERB	V-PAI-2P	Mood=Ind|Number=Plur|Person=2|Tense=Pres|Voice=Act	_	_	Strong=G1510|Translit=este
+7	καὶ	καί	CCONJ	CONJ	_	_	_	Strong=G2532|Translit=kai
+8	τὸ	ὁ	DET	T-NSN	Case=Nom|Gender=Neut|Number=Sing	_	_	Strong=G3588|Translit=to
+9	πνεῦμα	πνεῦμα	NOUN	N-NSN	Case=Nom|Gender=Neut|Number=Sing	_	_	Strong=G4151|Translit=pneuma
+10	τοῦ	ὁ	DET	T-GSM	Case=Gen|Gender=Masc|Number=Sing	_	_	Strong=G3588|Translit=tou
+11	θεοῦ	θεός	NOUN	N-GSM-T	Case=Gen|Gender=Masc|Number=Sing	_	_	Strong=G2316|Translit=theou
+12	οἰκεῖ	οἰκέω	VERB	V-PAI-3S	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	_	_	Strong=G3611|Translit=oikei
+13	ἐν	ἐν	ADP	PREP	_	_	_	Strong=G1722|Translit=en
+14	ὑμῖν	σύ	PRON	P-2DP	Case=Dat|Number=Plur|Person=2	_	_	Strong=G4771|Translit=humin
+
+# ref = 1CO.3.17
+1	εἴ	εἰ	SCONJ	COND	_	_	_	Strong=G1487|Translit=ei
+2	τις	τις	X	X-NSM	_	_	_	Strong=G5100|Translit=tis
+3	τὸν	ὁ	DET	T-ASM	Case=Acc|Gender=Masc|Number=Sing	_	_	Strong=G3588|Translit=ton
+4	ναὸν	ναός	NOUN	N-ASM	Case=Acc|Gender=Masc|Number=Sing	_	_	Strong=G3485|Translit=naon
+5	τοῦ	ὁ	DET	T-GSM	Case=Gen|Gender=Masc|Number=Sing	_	_	Strong=G3588|Translit=tou
+6	θεοῦ	θεός	NOUN	N-GSM-T	Case=Gen|Gender=Masc|Number=Sing	_	_	Strong=G2316|Translit=theou
+7	φθείρει	φθείρω	VERB	V-PAI-3S	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	_	_	Strong=G5351|Translit=phtheirei
+8	φθερεῖ	φθείρω	VERB	V-FAI-3S	Mood=Ind|Number=Sing|Person=3|Tense=Fut|Voice=Act	_	_	Strong=G5351|Translit=phtherei
+9	τοῦτον	οὗτος	PRON	D-ASM	Case=Acc|Gender=Masc|Number=Sing	_	_	Strong=G3778|Translit=touton
+10	ὁ	ὁ	DET	T-NSM	Case=Nom|Gender=Masc|Number=Sing	_	_	Strong=G3588|Translit=ho
+11	θεός	θεός	NOUN	N-NSM-T	Case=Nom|Gender=Masc|Number=Sing	_	_	Strong=G2316|Translit=theos
+12	ὁ	ὁ	DET	T-NSM	Case=Nom|Gender=Masc|Number=Sing	_	_	Strong=G3588|Translit=ho
+13	γὰρ	γάρ	CCONJ	CONJ	_	_	_	Strong=G1063|Translit=gar
+14	ναὸς	ναός	NOUN	N-NSM	Case=Nom|Gender=Masc|Number=Sing	_	_	Strong=G3485|Translit=naos
+15	τοῦ	ὁ	DET	T-GSM	Case=Gen|Gender=Masc|Number=Sing	_	_	Strong=G3588|Translit=tou
+16	θεοῦ	θεός	NOUN	N-GSM-T	Case=Gen|Gender=Masc|Number=Sing	_	_	Strong=G2316|Translit=theou
+17	ἅγιός	ἅγιος	ADJ	A-NSM	Case=Nom|Gender=Masc|Number=Sing	_	_	Strong=G0040|Translit=hagios
+18	ἐστιν	εἰμί	VERB	V-PAI-3S	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	_	_	Strong=G1510|Translit=estin
+19	οἵτινές	ὅστις	PRON	R-NPM	Case=Nom|Gender=Masc|Number=Plur	_	_	Strong=G3748|Translit=oitines
+20	ἐστε	εἰμί	VERB	V-PAI-2P	Mood=Ind|Number=Plur|Person=2|Tense=Pres|Voice=Act	_	_	Strong=G1510|Translit=este
+21	ὑμεῖς	σύ	PRON	P-2NP	Case=Nom|Number=Plur|Person=2	_	_	Strong=G4771|Translit=humeis
+
+# ref = 1CO.3.18
+1	μηδεὶς	μηδείς	ADJ	A-NSM	Case=Nom|Gender=Masc|Number=Sing	_	_	Strong=G3367|Translit=Mēdeis
+2	ἑαυτὸν	ἑαυτοῦ	X	F-3ASM	_	_	_	Strong=G1438|Translit=he'auton
+3	ἐξαπατάτω	ἐξαπατάω	VERB	V-PAM-3S	Mood=Imp|Number=Sing|Person=3|Tense=Pres|Voice=Act	_	_	Strong=G1818|Translit=exapatatō
+4	εἴ	εἰ	SCONJ	COND	_	_	_	Strong=G1487|Translit=ei
+5	τις	τις	X	X-NSM	_	_	_	Strong=G5100|Translit=tis
+6	δοκεῖ	δοκέω	VERB	V-PAI-3S	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	_	_	Strong=G1380|Translit=dokei
+7	σοφὸς	σοφός	ADJ	A-NSM	Case=Nom|Gender=Masc|Number=Sing	_	_	Strong=G4680|Translit=sophos
+8	εἶναι	εἰμί	VERB	V-PAN	Mood=Inf|Tense=Pres|Voice=Act	_	_	Strong=G1511|Translit=einai
+9	ἐν	ἐν	ADP	PREP	_	_	_	Strong=G1722|Translit=en
+10	ὑμῖν	σύ	PRON	P-2DP	Case=Dat|Number=Plur|Person=2	_	_	Strong=G4771|Translit=humin
+11	ἐν	ἐν	ADP	PREP	_	_	_	Strong=G1722|Translit=en
+12	τῷ	ὁ	DET	T-DSM	Case=Dat|Gender=Masc|Number=Sing	_	_	Strong=G3588|Translit=tō
+13	αἰῶνι	αἰών	NOUN	N-DSM	Case=Dat|Gender=Masc|Number=Sing	_	_	Strong=G0165|Translit=aiōni
+14	τούτῳ	οὗτος	PRON	D-DSM	Case=Dat|Gender=Masc|Number=Sing	_	_	Strong=G3778|Translit=toutō
+15	μωρὸς	μωρός	ADJ	A-NSM	Case=Nom|Gender=Masc|Number=Sing	_	_	Strong=G3474|Translit=mōros
+16	γενέσθω	γίνομαι	VERB	V-2ADM-3S	Mood=Imp|Number=Sing|Person=3|Tense=Aor|Voice=Mid	_	_	Strong=G1096|Translit=genesthō
+17	ἵνα	ἵνα	CCONJ	CONJ	_	_	_	Strong=G2443|Translit=ina
+18	γένηται	γίνομαι	VERB	V-2ADS-3S	Mood=Sub|Number=Sing|Person=3|Tense=Aor|Voice=Mid	_	_	Strong=G1096|Translit=genētai
+19	σοφός	σοφός	ADJ	A-NSM	Case=Nom|Gender=Masc|Number=Sing	_	_	Strong=G4680|Translit=sophos
+
+# ref = 1CO.3.19
+1	ἡ	ὁ	DET	T-NSF	Case=Nom|Gender=Fem|Number=Sing	_	_	Strong=G3588|Translit=hē
+2	γὰρ	γάρ	CCONJ	CONJ	_	_	_	Strong=G1063|Translit=gar
+3	σοφία	σοφία	NOUN	N-NSF	Case=Nom|Gender=Fem|Number=Sing	_	_	Strong=G4678|Translit=sophia
+4	τοῦ	ὁ	DET	T-GSM	Case=Gen|Gender=Masc|Number=Sing	_	_	Strong=G3588|Translit=tou
+5	κόσμου	κόσμος	NOUN	N-GSM	Case=Gen|Gender=Masc|Number=Sing	_	_	Strong=G2889|Translit=kosmou
+6	τούτου	οὗτος	PRON	D-GSM	Case=Gen|Gender=Masc|Number=Sing	_	_	Strong=G3778|Translit=toutou
+7	μωρία	μωρία	NOUN	N-NSF	Case=Nom|Gender=Fem|Number=Sing	_	_	Strong=G3472|Translit=mōria
+8	παρὰ	παρά	ADP	PREP	_	_	_	Strong=G3844|Translit=para
+9	τῷ	ὁ	DET	T-DSM	Case=Dat|Gender=Masc|Number=Sing	_	_	Strong=G3588|Translit=tō
+10	θεῷ	θεός	NOUN	N-DSM-T	Case=Dat|Gender=Masc|Number=Sing	_	_	Strong=G2316|Translit=theō
+11	ἐστιν	εἰμί	VERB	V-PAI-3S	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	_	_	Strong=G1510|Translit=estin
+12	γέγραπται	γράφω	VERB	V-RPI-3S	Mood=Ind|Number=Sing|Person=3|Tense=Perf|Voice=Pass	_	_	Strong=G1125|Translit=gegraptai
+13	γάρ	γάρ	CCONJ	CONJ	_	_	_	Strong=G1063|Translit=gar
+14	ὁ	ὁ	DET	T-NSM	Case=Nom|Gender=Masc|Number=Sing	_	_	Strong=G3588|Translit=ho
+15	δρασσόμενος	δράσσομαι	VERB	V-PNP-NSM	Case=Nom|Gender=Masc|Mood=Part|Number=Sing|Tense=Pres	_	_	Strong=G1405|Translit=drassomenos
+16	τοὺς	ὁ	DET	T-APM	Case=Acc|Gender=Masc|Number=Plur	_	_	Strong=G3588|Translit=tous
+17	σοφοὺς	σοφός	ADJ	A-APM	Case=Acc|Gender=Masc|Number=Plur	_	_	Strong=G4680|Translit=sophous
+18	ἐν	ἐν	ADP	PREP	_	_	_	Strong=G1722|Translit=en
+19	τῇ	ὁ	DET	T-DSF	Case=Dat|Gender=Fem|Number=Sing	_	_	Strong=G3588|Translit=tēa
+20	πανουργίᾳ	πανουργία	NOUN	N-DSF	Case=Dat|Gender=Fem|Number=Sing	_	_	Strong=G3834|Translit=panourgia
+21	αὐτῶν	αὐτός	PRON	P-GPM	Case=Gen|Gender=Masc|Number=Plur	_	_	Strong=G0846|Translit=autōn
+
+# ref = 1CO.3.20
+1	καὶ	καί	CCONJ	CONJ	_	_	_	Strong=G2532|Translit=kai
+2	πάλιν	πάλιν	ADV	ADV	_	_	_	Strong=G3825|Translit=palin
+3	κύριος	κύριος	NOUN	N-NSM-T	Case=Nom|Gender=Masc|Number=Sing	_	_	Strong=G2962|Translit=kurios
+4	γινώσκει	γινώσκω	VERB	V-PAI-3S	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	_	_	Strong=G1097|Translit=ginōskei
+5	τοὺς	ὁ	DET	T-APM	Case=Acc|Gender=Masc|Number=Plur	_	_	Strong=G3588|Translit=tous
+6	διαλογισμοὺς	διαλογισμός	NOUN	N-APM	Case=Acc|Gender=Masc|Number=Plur	_	_	Strong=G1261|Translit=dialogismous
+7	τῶν	ὁ	DET	T-GPM	Case=Gen|Gender=Masc|Number=Plur	_	_	Strong=G3588|Translit=tōn
+8	σοφῶν	σοφός	ADJ	A-GPM	Case=Gen|Gender=Masc|Number=Plur	_	_	Strong=G4680|Translit=sophōn
+9	ὅτι	ὅτι	CCONJ	CONJ	_	_	_	Strong=G3754|Translit=hoti
+10	εἰσὶν	εἰμί	VERB	V-PAI-3P	Mood=Ind|Number=Plur|Person=3|Tense=Pres|Voice=Act	_	_	Strong=G1510|Translit=eisin
+11	μάταιοι	μάταιος	ADJ	A-NPM	Case=Nom|Gender=Masc|Number=Plur	_	_	Strong=G3152|Translit=mataioi
+
+# ref = 1CO.3.21
+1	ὥστε	ὥστε	CCONJ	CONJ	_	_	_	Strong=G5620|Translit=Hōste
+2	μηδεὶς	μηδείς	ADJ	A-NSM	Case=Nom|Gender=Masc|Number=Sing	_	_	Strong=G3367|Translit=mēdeis
+3	καυχάσθω	καυχάομαι	VERB	V-PNM-3S	Mood=Imp|Number=Sing|Person=3|Tense=Pres	_	_	Strong=G2744|Translit=kauchasthō
+4	ἐν	ἐν	ADP	PREP	_	_	_	Strong=G1722|Translit=en
+5	ἀνθρώποις	ἄνθρωπος	NOUN	N-DPM	Case=Dat|Gender=Masc|Number=Plur	_	_	Strong=G0444|Translit=anthrōpois
+6	πάντα	πᾶς	ADJ	A-NPN	Case=Nom|Gender=Neut|Number=Plur	_	_	Strong=G3956|Translit=panta
+7	γὰρ	γάρ	CCONJ	CONJ	_	_	_	Strong=G1063|Translit=gar
+8	ὑμῶν	σύ	PRON	P-2GP	Case=Gen|Number=Plur|Person=2	_	_	Strong=G4771|Translit=humōn
+9	ἐστιν	εἰμί	VERB	V-PAI-3S	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	_	_	Strong=G1510|Translit=estin
+
+# ref = 1CO.3.22
+1	εἴτε	εἴτε	SCONJ	COND	_	_	_	Strong=G1535|Translit=eite
+2	παῦλος	Παῦλος	NOUN	N-NSM-P	Case=Nom|Gender=Masc|Number=Sing	_	_	Strong=G3972|Translit=Paulos
+3	εἴτε	εἴτε	SCONJ	COND	_	_	_	Strong=G1535|Translit=eite
+4	ἀπολλῶς	Ἀπολλῶς	NOUN	N-NSM-P	Case=Nom|Gender=Masc|Number=Sing	_	_	Strong=G0625|Translit=Apollōs
+5	εἴτε	εἴτε	SCONJ	COND	_	_	_	Strong=G1535|Translit=eite
+6	κηφᾶς	Κηφᾶς	NOUN	N-NSM-P	Case=Nom|Gender=Masc|Number=Sing	_	_	Strong=G2786|Translit=Kēphas
+7	εἴτε	εἴτε	SCONJ	COND	_	_	_	Strong=G1535|Translit=eite
+8	κόσμος	κόσμος	NOUN	N-NSM	Case=Nom|Gender=Masc|Number=Sing	_	_	Strong=G2889|Translit=kosmos
+9	εἴτε	εἴτε	SCONJ	COND	_	_	_	Strong=G1535|Translit=eite
+10	ζωὴ	ζωή	NOUN	N-NSF	Case=Nom|Gender=Fem|Number=Sing	_	_	Strong=G2222|Translit=zōē
+11	εἴτε	εἴτε	SCONJ	COND	_	_	_	Strong=G1535|Translit=eite
+12	θάνατος	θάνατος	NOUN	N-NSM	Case=Nom|Gender=Masc|Number=Sing	_	_	Strong=G2288|Translit=thanatos
+13	εἴτε	εἴτε	SCONJ	COND	_	_	_	Strong=G1535|Translit=eite
+14	ἐνεστῶτα	ἐνίστημι	VERB	V-RAP-NPN	Case=Nom|Gender=Neut|Mood=Part|Number=Plur|Tense=Perf|Voice=Act	_	_	Strong=G1764|Translit=enestōta
+15	εἴτε	εἴτε	SCONJ	COND	_	_	_	Strong=G1535|Translit=eite
+16	μέλλοντα	μέλλω	VERB	V-PAP-NPN	Case=Nom|Gender=Neut|Mood=Part|Number=Plur|Tense=Pres|Voice=Act	_	_	Strong=G3195|Translit=mellonta
+17	πάντα	πᾶς	ADJ	A-NPN	Case=Nom|Gender=Neut|Number=Plur	_	_	Strong=G3956|Translit=panta
+18	ὑμῶν	σύ	PRON	P-2GP	Case=Gen|Number=Plur|Person=2	_	_	Strong=G4771|Translit=humōn
+19	ἐστιν	εἰμί	VERB	V-PAI-3S	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	_	_	Strong=G1510|Translit=estin
+
+# ref = 1CO.3.23
+1	ὑμεῖς	σύ	PRON	P-2NP	Case=Nom|Number=Plur|Person=2	_	_	Strong=G4771|Translit=humeis
+2	δὲ	δέ	CCONJ	CONJ	_	_	_	Strong=G1161|Translit=de
+3	χριστοῦ	Χριστός	NOUN	N-GSM-T	Case=Gen|Gender=Masc|Number=Sing	_	_	Strong=G5547|Translit=Christou
+4	χριστὸς	Χριστός	NOUN	N-NSM-T	Case=Nom|Gender=Masc|Number=Sing	_	_	Strong=G5547|Translit=Christos
+5	δὲ	δέ	CCONJ	CONJ	_	_	_	Strong=G1161|Translit=de
+6	θεοῦ	θεός	NOUN	N-GSM-T	Case=Gen|Gender=Masc|Number=Sing	_	_	Strong=G2316|Translit=theou
+

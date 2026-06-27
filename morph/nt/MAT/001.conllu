@@ -1,0 +1,494 @@
+# ref = MAT.1.1
+1	βίβλος	βίβλος	NOUN	N-NSF	Case=Nom|Gender=Fem|Number=Sing	_	_	Strong=G0976|Translit=Biblos
+2	γενέσεως	γένεσις	NOUN	N-GSF	Case=Gen|Gender=Fem|Number=Sing	_	_	Strong=G1078|Translit=geneseōs
+3	ἰησοῦ	Ἰησοῦς	NOUN	N-GSM-P	Case=Gen|Gender=Masc|Number=Sing	_	_	Strong=G2424|Translit=Iēsou
+4	χριστοῦ	Χριστός	NOUN	N-GSM-T	Case=Gen|Gender=Masc|Number=Sing	_	_	Strong=G5547|Translit=Christou
+5	υἱοῦ	υἱός	NOUN	N-GSM	Case=Gen|Gender=Masc|Number=Sing	_	_	Strong=G5207|Translit=huiou
+6	δαβὶδ	_	X	_	_	_	_	Align=unmatched
+7	υἱοῦ	υἱός	NOUN	N-GSM	Case=Gen|Gender=Masc|Number=Sing	_	_	Strong=G5207|Translit=huiou
+8	ἀβραάμ	Ἀβραάμ	NOUN	N-GSM-P	Case=Gen|Gender=Masc|Number=Sing	_	_	Strong=G0011|Translit=Abraam|Align=source_extra:1
+
+# ref = MAT.1.2
+1	ἀβραὰμ	Ἀβραάμ	NOUN	N-NSM-P	Case=Nom|Gender=Masc|Number=Sing	_	_	Strong=G0011|Translit=Abraam
+2	ἐγέννησεν	γεννάω	VERB	V-AAI-3S	Mood=Ind|Number=Sing|Person=3|Tense=Aor|Voice=Act	_	_	Strong=G1080|Translit=egennēsen
+3	τὸν	ὁ	DET	T-ASM	Case=Acc|Gender=Masc|Number=Sing	_	_	Strong=G3588|Translit=ton
+4	ἰσαάκ	Ἰσαάκ	NOUN	N-ASM-P	Case=Acc|Gender=Masc|Number=Sing	_	_	Strong=G2464|Translit=Isaak
+5	ἰσαὰκ	Ἰσαάκ	NOUN	N-NSM-P	Case=Nom|Gender=Masc|Number=Sing	_	_	Strong=G2464|Translit=Isaak
+6	δὲ	δέ	CCONJ	CONJ	_	_	_	Strong=G1161|Translit=de
+7	ἐγέννησεν	γεννάω	VERB	V-AAI-3S	Mood=Ind|Number=Sing|Person=3|Tense=Aor|Voice=Act	_	_	Strong=G1080|Translit=egennēsen
+8	τὸν	ὁ	DET	T-ASM	Case=Acc|Gender=Masc|Number=Sing	_	_	Strong=G3588|Translit=ton
+9	ἰακώβ	Ἰακώβ	NOUN	N-ASM-P	Case=Acc|Gender=Masc|Number=Sing	_	_	Strong=G2384|Translit=Iakōb
+10	ἰακὼβ	Ἰακώβ	NOUN	N-NSM-P	Case=Nom|Gender=Masc|Number=Sing	_	_	Strong=G2384|Translit=Iakōb
+11	δὲ	δέ	CCONJ	CONJ	_	_	_	Strong=G1161|Translit=de
+12	ἐγέννησεν	γεννάω	VERB	V-AAI-3S	Mood=Ind|Number=Sing|Person=3|Tense=Aor|Voice=Act	_	_	Strong=G1080|Translit=egennēsen
+13	τὸν	ὁ	DET	T-ASM	Case=Acc|Gender=Masc|Number=Sing	_	_	Strong=G3588|Translit=ton
+14	ἰούδαν	Ἰούδας	NOUN	N-ASM-P	Case=Acc|Gender=Masc|Number=Sing	_	_	Strong=G2455|Translit=Ioudan
+15	καὶ	καί	CCONJ	CONJ	_	_	_	Strong=G2532|Translit=kai
+16	τοὺς	ὁ	DET	T-APM	Case=Acc|Gender=Masc|Number=Plur	_	_	Strong=G3588|Translit=tous
+17	ἀδελφοὺς	ἀδελφός	NOUN	N-APM	Case=Acc|Gender=Masc|Number=Plur	_	_	Strong=G0080|Translit=adelphous
+18	αὐτοῦ	αὐτός	PRON	P-GSM	Case=Gen|Gender=Masc|Number=Sing	_	_	Strong=G0846|Translit=autou
+
+# ref = MAT.1.3
+1	ἰούδας	Ἰούδας	NOUN	N-NSM-P	Case=Nom|Gender=Masc|Number=Sing	_	_	Strong=G2455|Translit=Ioudas
+2	δὲ	δέ	CCONJ	CONJ	_	_	_	Strong=G1161|Translit=de
+3	ἐγέννησεν	γεννάω	VERB	V-AAI-3S	Mood=Ind|Number=Sing|Person=3|Tense=Aor|Voice=Act	_	_	Strong=G1080|Translit=egennēsen
+4	τὸν	ὁ	DET	T-ASM	Case=Acc|Gender=Masc|Number=Sing	_	_	Strong=G3588|Translit=ton
+5	φαρὲς	Φάρες	NOUN	N-ASM-P	Case=Acc|Gender=Masc|Number=Sing	_	_	Strong=G5329|Translit=Phares
+6	καὶ	καί	CCONJ	CONJ	_	_	_	Strong=G2532|Translit=kai
+7	τὸν	ὁ	DET	T-ASM	Case=Acc|Gender=Masc|Number=Sing	_	_	Strong=G3588|Translit=ton
+8	ζαρὰ	Ζαρά	NOUN	N-ASM-P	Case=Acc|Gender=Masc|Number=Sing	_	_	Strong=G2196|Translit=Zara
+9	ἐκ	ἐκ	ADP	PREP	_	_	_	Strong=G1537|Translit=ek
+10	τῆς	ὁ	DET	T-GSF	Case=Gen|Gender=Fem|Number=Sing	_	_	Strong=G3588|Translit=tēs
+11	θάμαρ	Θάμαρ	NOUN	N-GSF-P	Case=Gen|Gender=Fem|Number=Sing	_	_	Strong=G2283|Translit=Thamar
+12	φαρὲς	Φάρες	NOUN	N-NSM-P	Case=Nom|Gender=Masc|Number=Sing	_	_	Strong=G5329|Translit=Phares
+13	δὲ	δέ	CCONJ	CONJ	_	_	_	Strong=G1161|Translit=de
+14	ἐγέννησεν	γεννάω	VERB	V-AAI-3S	Mood=Ind|Number=Sing|Person=3|Tense=Aor|Voice=Act	_	_	Strong=G1080|Translit=egennēsen
+15	τὸν	ὁ	DET	T-ASM	Case=Acc|Gender=Masc|Number=Sing	_	_	Strong=G3588|Translit=ton
+16	ἑσρώμ	Ἐσρώμ	NOUN	N-ASM-P	Case=Acc|Gender=Masc|Number=Sing	_	_	Strong=G2074|Translit=Hesrōm
+17	ἑσρὼμ	Ἐσρώμ	NOUN	N-NSM-P	Case=Nom|Gender=Masc|Number=Sing	_	_	Strong=G2074|Translit=Hesrōm
+18	δὲ	δέ	CCONJ	CONJ	_	_	_	Strong=G1161|Translit=de
+19	ἐγέννησεν	γεννάω	VERB	V-AAI-3S	Mood=Ind|Number=Sing|Person=3|Tense=Aor|Voice=Act	_	_	Strong=G1080|Translit=egennēsen
+20	τὸν	ὁ	DET	T-ASM	Case=Acc|Gender=Masc|Number=Sing	_	_	Strong=G3588|Translit=ton
+21	ἀράμ	Ἀράμ	NOUN	N-ASM-P	Case=Acc|Gender=Masc|Number=Sing	_	_	Strong=G0689|Translit=Aram
+
+# ref = MAT.1.4
+1	ἀρὰμ	Ἀράμ	NOUN	N-NSM-P	Case=Nom|Gender=Masc|Number=Sing	_	_	Strong=G0689|Translit=Aram
+2	δὲ	δέ	CCONJ	CONJ	_	_	_	Strong=G1161|Translit=de
+3	ἐγέννησεν	γεννάω	VERB	V-AAI-3S	Mood=Ind|Number=Sing|Person=3|Tense=Aor|Voice=Act	_	_	Strong=G1080|Translit=egennēsen
+4	τὸν	ὁ	DET	T-ASM	Case=Acc|Gender=Masc|Number=Sing	_	_	Strong=G3588|Translit=ton
+5	ἀμιναδάβ	Ἀμιναδάβ	NOUN	N-ASM-P	Case=Acc|Gender=Masc|Number=Sing	_	_	Strong=G0284|Translit=Aminadab
+6	ἀμιναδὰβ	Ἀμιναδάβ	NOUN	N-NSM-P	Case=Nom|Gender=Masc|Number=Sing	_	_	Strong=G0284|Translit=Aminadab
+7	δὲ	δέ	CCONJ	CONJ	_	_	_	Strong=G1161|Translit=de
+8	ἐγέννησεν	γεννάω	VERB	V-AAI-3S	Mood=Ind|Number=Sing|Person=3|Tense=Aor|Voice=Act	_	_	Strong=G1080|Translit=egennēsen
+9	τὸν	ὁ	DET	T-ASM	Case=Acc|Gender=Masc|Number=Sing	_	_	Strong=G3588|Translit=ton
+10	ναασσών	Ναασσών	NOUN	N-ASM-P	Case=Acc|Gender=Masc|Number=Sing	_	_	Strong=G3476|Translit=Naassōn
+11	ναασσὼν	Ναασσών	NOUN	N-NSM-P	Case=Nom|Gender=Masc|Number=Sing	_	_	Strong=G3476|Translit=Naassōn
+12	δὲ	δέ	CCONJ	CONJ	_	_	_	Strong=G1161|Translit=de
+13	ἐγέννησεν	γεννάω	VERB	V-AAI-3S	Mood=Ind|Number=Sing|Person=3|Tense=Aor|Voice=Act	_	_	Strong=G1080|Translit=egennēsen
+14	τὸν	ὁ	DET	T-ASM	Case=Acc|Gender=Masc|Number=Sing	_	_	Strong=G3588|Translit=ton
+15	σαλμών	Σαλμών	NOUN	N-ASM-P	Case=Acc|Gender=Masc|Number=Sing	_	_	Strong=G4533|Translit=Salmōn
+
+# ref = MAT.1.5
+1	σαλμὼν	Σαλμών	NOUN	N-NSM-P	Case=Nom|Gender=Masc|Number=Sing	_	_	Strong=G4533|Translit=Salmōn
+2	δὲ	δέ	CCONJ	CONJ	_	_	_	Strong=G1161|Translit=de
+3	ἐγέννησεν	γεννάω	VERB	V-AAI-3S	Mood=Ind|Number=Sing|Person=3|Tense=Aor|Voice=Act	_	_	Strong=G1080|Translit=egennēsen
+4	τὸν	ὁ	DET	T-ASM	Case=Acc|Gender=Masc|Number=Sing	_	_	Strong=G3588|Translit=ton
+5	βοὸζ	_	X	_	_	_	_	Align=unmatched
+6	ἐκ	ἐκ	ADP	PREP	_	_	_	Strong=G1537|Translit=ek
+7	τῆς	ὁ	DET	T-GSF	Case=Gen|Gender=Fem|Number=Sing	_	_	Strong=G3588|Translit=tēs
+8	ῥαχάβ	Ῥαχάβ	NOUN	N-GSF-P	Case=Gen|Gender=Fem|Number=Sing	_	_	Strong=G4477|Translit=Rhachab
+9	βοὸζ	_	X	_	_	_	_	Align=unmatched
+10	δὲ	δέ	CCONJ	CONJ	_	_	_	Strong=G1161|Translit=de
+11	ἐγέννησεν	γεννάω	VERB	V-AAI-3S	Mood=Ind|Number=Sing|Person=3|Tense=Aor|Voice=Act	_	_	Strong=G1080|Translit=egennēsen
+12	τὸν	ὁ	DET	T-ASM	Case=Acc|Gender=Masc|Number=Sing	_	_	Strong=G3588|Translit=ton
+13	ὠβὴδ	_	X	_	_	_	_	Align=unmatched
+14	ἐκ	ἐκ	ADP	PREP	_	_	_	Strong=G1537|Translit=ek
+15	τῆς	ὁ	DET	T-GSF	Case=Gen|Gender=Fem|Number=Sing	_	_	Strong=G3588|Translit=tēs
+16	ῥούθ	Ῥούθ	NOUN	N-GSF-P	Case=Gen|Gender=Fem|Number=Sing	_	_	Strong=G4503|Translit=Rhouth
+17	ὠβὴδ	_	X	_	_	_	_	Align=unmatched
+18	δὲ	δέ	CCONJ	CONJ	_	_	_	Strong=G1161|Translit=de
+19	ἐγέννησεν	γεννάω	VERB	V-AAI-3S	Mood=Ind|Number=Sing|Person=3|Tense=Aor|Voice=Act	_	_	Strong=G1080|Translit=egennēsen
+20	τὸν	ὁ	DET	T-ASM	Case=Acc|Gender=Masc|Number=Sing	_	_	Strong=G3588|Translit=ton
+21	ἰεσσαί	Ἰεσσαί	NOUN	N-ASM-P	Case=Acc|Gender=Masc|Number=Sing	_	_	Strong=G2421|Translit=Iessai|Align=source_extra:4
+
+# ref = MAT.1.6
+1	ἰεσσαὶ	Ἰεσσαί	NOUN	N-NSM-P	Case=Nom|Gender=Masc|Number=Sing	_	_	Strong=G2421|Translit=Iessai
+2	δὲ	δέ	CCONJ	CONJ	_	_	_	Strong=G1161|Translit=de
+3	ἐγέννησεν	γεννάω	VERB	V-AAI-3S	Mood=Ind|Number=Sing|Person=3|Tense=Aor|Voice=Act	_	_	Strong=G1080|Translit=egennēsen
+4	τὸν	ὁ	DET	T-ASM	Case=Acc|Gender=Masc|Number=Sing	_	_	Strong=G3588|Translit=ton
+5	δαβὶδ	_	X	_	_	_	_	Align=unmatched
+6	τὸν	ὁ	DET	T-ASM	Case=Acc|Gender=Masc|Number=Sing	_	_	Strong=G3588|Translit=ton
+7	βασιλέα	βασιλεύς	NOUN	N-ASM	Case=Acc|Gender=Masc|Number=Sing	_	_	Strong=G0935|Translit=basilea
+8	δαβὶδ	_	X	_	_	_	_	Align=unmatched
+9	δὲ	δέ	CCONJ	CONJ	_	_	_	Strong=G1161|Translit=de
+10	ὁ	ὁ	DET	T-NSM	Case=Nom|Gender=Masc|Number=Sing	_	_	Strong=G3588|Translit=ho
+11	βασιλεὺς	βασιλεύς	NOUN	N-NSM	Case=Nom|Gender=Masc|Number=Sing	_	_	Strong=G0935|Translit=basileus
+12	ἐγέννησεν	γεννάω	VERB	V-AAI-3S	Mood=Ind|Number=Sing|Person=3|Tense=Aor|Voice=Act	_	_	Strong=G1080|Translit=egennēsen
+13	τὸν	ὁ	DET	T-ASM	Case=Acc|Gender=Masc|Number=Sing	_	_	Strong=G3588|Translit=ton
+14	σολομῶντα	_	X	_	_	_	_	Align=unmatched
+15	ἐκ	ἐκ	ADP	PREP	_	_	_	Strong=G1537|Translit=ek
+16	τῆς	ὁ	DET	T-GSF	Case=Gen|Gender=Fem|Number=Sing	_	_	Strong=G3588|Translit=tēs
+17	τοῦ	ὁ	DET	T-GSM	Case=Gen|Gender=Masc|Number=Sing	_	_	Strong=G3588|Translit=tou
+18	οὐρίου	Οὐρίας	NOUN	N-GSM-P	Case=Gen|Gender=Masc|Number=Sing	_	_	Strong=G3774|Translit=Ouriou|Align=source_extra:3
+
+# ref = MAT.1.7
+1	σολομὼν	Σολομών, Σαλωμών	NOUN	N-NSM-P	Case=Nom|Gender=Masc|Number=Sing	_	_	Strong=G4672|Translit=Solomōn
+2	δὲ	δέ	CCONJ	CONJ	_	_	_	Strong=G1161|Translit=de
+3	ἐγέννησεν	γεννάω	VERB	V-AAI-3S	Mood=Ind|Number=Sing|Person=3|Tense=Aor|Voice=Act	_	_	Strong=G1080|Translit=egennēsen
+4	τὸν	ὁ	DET	T-ASM	Case=Acc|Gender=Masc|Number=Sing	_	_	Strong=G3588|Translit=ton
+5	ῥοβοάμ	Ῥοβοάμ	NOUN	N-ASM-P	Case=Acc|Gender=Masc|Number=Sing	_	_	Strong=G4497|Translit=Rhoboam
+6	ῥοβοὰμ	Ῥοβοάμ	NOUN	N-NSM-P	Case=Nom|Gender=Masc|Number=Sing	_	_	Strong=G4497|Translit=Rhoboam
+7	δὲ	δέ	CCONJ	CONJ	_	_	_	Strong=G1161|Translit=de
+8	ἐγέννησεν	γεννάω	VERB	V-AAI-3S	Mood=Ind|Number=Sing|Person=3|Tense=Aor|Voice=Act	_	_	Strong=G1080|Translit=egennēsen
+9	τὸν	ὁ	DET	T-ASM	Case=Acc|Gender=Masc|Number=Sing	_	_	Strong=G3588|Translit=ton
+10	ἀβιά	Ἀβιά	NOUN	N-ASM-P	Case=Acc|Gender=Masc|Number=Sing	_	_	Strong=G0007|Translit=Abia
+11	ἀβιὰ	Ἀβιά	NOUN	N-NSM-P	Case=Nom|Gender=Masc|Number=Sing	_	_	Strong=G0007|Translit=Abia
+12	δὲ	δέ	CCONJ	CONJ	_	_	_	Strong=G1161|Translit=de
+13	ἐγέννησεν	γεννάω	VERB	V-AAI-3S	Mood=Ind|Number=Sing|Person=3|Tense=Aor|Voice=Act	_	_	Strong=G1080|Translit=egennēsen
+14	τὸν	ὁ	DET	T-ASM	Case=Acc|Gender=Masc|Number=Sing	_	_	Strong=G3588|Translit=ton
+15	ἀσά	_	X	_	_	_	_	Align=unmatched,source_extra:1
+
+# ref = MAT.1.8
+1	ἀσὰ	_	X	_	_	_	_	Align=unmatched
+2	δὲ	δέ	CCONJ	CONJ	_	_	_	Strong=G1161|Translit=de
+3	ἐγέννησεν	γεννάω	VERB	V-AAI-3S	Mood=Ind|Number=Sing|Person=3|Tense=Aor|Voice=Act	_	_	Strong=G1080|Translit=egennēsen
+4	τὸν	ὁ	DET	T-ASM	Case=Acc|Gender=Masc|Number=Sing	_	_	Strong=G3588|Translit=ton
+5	ἰωσαφάτ	Ἰωσαφάτ	NOUN	N-ASM-P	Case=Acc|Gender=Masc|Number=Sing	_	_	Strong=G2498|Translit=Iōsaphat
+6	ἰωσαφὰτ	Ἰωσαφάτ	NOUN	N-NSM-P	Case=Nom|Gender=Masc|Number=Sing	_	_	Strong=G2498|Translit=Iōsaphat
+7	δὲ	δέ	CCONJ	CONJ	_	_	_	Strong=G1161|Translit=de
+8	ἐγέννησεν	γεννάω	VERB	V-AAI-3S	Mood=Ind|Number=Sing|Person=3|Tense=Aor|Voice=Act	_	_	Strong=G1080|Translit=egennēsen
+9	τὸν	ὁ	DET	T-ASM	Case=Acc|Gender=Masc|Number=Sing	_	_	Strong=G3588|Translit=ton
+10	ἰωράμ	Ἰωράμ	NOUN	N-ASM-P	Case=Acc|Gender=Masc|Number=Sing	_	_	Strong=G2496|Translit=Iōram
+11	ἰωρὰμ	Ἰωράμ	NOUN	N-NSM-P	Case=Nom|Gender=Masc|Number=Sing	_	_	Strong=G2496|Translit=Iōram
+12	δὲ	δέ	CCONJ	CONJ	_	_	_	Strong=G1161|Translit=de
+13	ἐγέννησεν	γεννάω	VERB	V-AAI-3S	Mood=Ind|Number=Sing|Person=3|Tense=Aor|Voice=Act	_	_	Strong=G1080|Translit=egennēsen
+14	τὸν	ὁ	DET	T-ASM	Case=Acc|Gender=Masc|Number=Sing	_	_	Strong=G3588|Translit=ton
+15	ὀζίαν	Ὀζίας	NOUN	N-ASM-P	Case=Acc|Gender=Masc|Number=Sing	_	_	Strong=G3604|Translit=Ozian|Align=source_extra:1
+
+# ref = MAT.1.9
+1	ὀζίας	Ὀζίας	NOUN	N-NSM-P	Case=Nom|Gender=Masc|Number=Sing	_	_	Strong=G3604|Translit=Ozias
+2	δὲ	δέ	CCONJ	CONJ	_	_	_	Strong=G1161|Translit=de
+3	ἐγέννησεν	γεννάω	VERB	V-AAI-3S	Mood=Ind|Number=Sing|Person=3|Tense=Aor|Voice=Act	_	_	Strong=G1080|Translit=egennēsen
+4	τὸν	ὁ	DET	T-ASM	Case=Acc|Gender=Masc|Number=Sing	_	_	Strong=G3588|Translit=ton
+5	ἰωάθαμ	Ἰωάθαμ	NOUN	N-ASM-P	Case=Acc|Gender=Masc|Number=Sing	_	_	Strong=G2488|Translit=Iōatham
+6	ἰωάθαμ	Ἰωάθαμ	NOUN	N-NSM-P	Case=Nom|Gender=Masc|Number=Sing	_	_	Strong=G2488|Translit=Iōatham
+7	δὲ	δέ	CCONJ	CONJ	_	_	_	Strong=G1161|Translit=de
+8	ἐγέννησεν	γεννάω	VERB	V-AAI-3S	Mood=Ind|Number=Sing|Person=3|Tense=Aor|Voice=Act	_	_	Strong=G1080|Translit=egennēsen
+9	τὸν	ὁ	DET	T-ASM	Case=Acc|Gender=Masc|Number=Sing	_	_	Strong=G3588|Translit=ton
+10	ἄχαζ	Ἀχάζ	NOUN	N-ASM-P	Case=Acc|Gender=Masc|Number=Sing	_	_	Strong=G0881|Translit=Achaz
+11	ἄχαζ	Ἀχάζ	NOUN	N-NSM-P	Case=Nom|Gender=Masc|Number=Sing	_	_	Strong=G0881|Translit=Achaz
+12	δὲ	δέ	CCONJ	CONJ	_	_	_	Strong=G1161|Translit=de
+13	ἐγέννησεν	γεννάω	VERB	V-AAI-3S	Mood=Ind|Number=Sing|Person=3|Tense=Aor|Voice=Act	_	_	Strong=G1080|Translit=egennēsen
+14	τὸν	ὁ	DET	T-ASM	Case=Acc|Gender=Masc|Number=Sing	_	_	Strong=G3588|Translit=ton
+15	ἐζεκίαν	Ἐζεκίας	NOUN	N-ASM-P	Case=Acc|Gender=Masc|Number=Sing	_	_	Strong=G1478|Translit=Hezekian
+
+# ref = MAT.1.10
+1	ἐζεκίας	Ἐζεκίας	NOUN	N-NSM-P	Case=Nom|Gender=Masc|Number=Sing	_	_	Strong=G1478|Translit=Hezekias
+2	δὲ	δέ	CCONJ	CONJ	_	_	_	Strong=G1161|Translit=de
+3	ἐγέννησεν	γεννάω	VERB	V-AAI-3S	Mood=Ind|Number=Sing|Person=3|Tense=Aor|Voice=Act	_	_	Strong=G1080|Translit=egennēsen
+4	τὸν	ὁ	DET	T-ASM	Case=Acc|Gender=Masc|Number=Sing	_	_	Strong=G3588|Translit=ton
+5	μανασσῆ	Μανασσῆς	NOUN	N-ASM-P	Case=Acc|Gender=Masc|Number=Sing	_	_	Strong=G3128|Translit=Manassē
+6	μανασσῆς	Μανασσῆς	NOUN	N-NSM-P	Case=Nom|Gender=Masc|Number=Sing	_	_	Strong=G3128|Translit=Manassēs
+7	δὲ	δέ	CCONJ	CONJ	_	_	_	Strong=G1161|Translit=de
+8	ἐγέννησεν	γεννάω	VERB	V-AAI-3S	Mood=Ind|Number=Sing|Person=3|Tense=Aor|Voice=Act	_	_	Strong=G1080|Translit=egennēsen
+9	τὸν	ὁ	DET	T-ASM	Case=Acc|Gender=Masc|Number=Sing	_	_	Strong=G3588|Translit=ton
+10	ἀμών	_	X	_	_	_	_	Align=unmatched
+11	ἀμὼν	_	X	_	_	_	_	Align=unmatched
+12	δὲ	δέ	CCONJ	CONJ	_	_	_	Strong=G1161|Translit=de
+13	ἐγέννησεν	γεννάω	VERB	V-AAI-3S	Mood=Ind|Number=Sing|Person=3|Tense=Aor|Voice=Act	_	_	Strong=G1080|Translit=egennēsen
+14	τὸν	ὁ	DET	T-ASM	Case=Acc|Gender=Masc|Number=Sing	_	_	Strong=G3588|Translit=ton
+15	ἰωσίαν	Ἰωσίας	NOUN	N-ASM-P	Case=Acc|Gender=Masc|Number=Sing	_	_	Strong=G2502|Translit=Iōsian
+
+# ref = MAT.1.11
+1	ἰωσίας	Ἰωσίας	NOUN	N-NSM-P	Case=Nom|Gender=Masc|Number=Sing	_	_	Strong=G2502|Translit=Iōsias
+2	δὲ	δέ	CCONJ	CONJ	_	_	_	Strong=G1161|Translit=de
+3	ἐγέννησεν	γεννάω	VERB	V-AAI-3S	Mood=Ind|Number=Sing|Person=3|Tense=Aor|Voice=Act	_	_	Strong=G1080|Translit=egennēsen
+4	τὸν	ὁ	DET	T-ASM	Case=Acc|Gender=Masc|Number=Sing	_	_	Strong=G3588|Translit=ton
+5	ἰεχονίαν	Ἰεχονίας	NOUN	N-ASM-P	Case=Acc|Gender=Masc|Number=Sing	_	_	Strong=G2423|Translit=Iechonian
+6	καὶ	καί	CCONJ	CONJ	_	_	_	Strong=G2532|Translit=kai
+7	τοὺς	ὁ	DET	T-APM	Case=Acc|Gender=Masc|Number=Plur	_	_	Strong=G3588|Translit=tous
+8	ἀδελφοὺς	ἀδελφός	NOUN	N-APM	Case=Acc|Gender=Masc|Number=Plur	_	_	Strong=G0080|Translit=adelphous
+9	αὐτοῦ	αὐτός	PRON	P-GSM	Case=Gen|Gender=Masc|Number=Sing	_	_	Strong=G0846|Translit=autou
+10	ἐπὶ	ἐπί	ADP	PREP	_	_	_	Strong=G1909|Translit=epi
+11	τῆς	ὁ	DET	T-GSF	Case=Gen|Gender=Fem|Number=Sing	_	_	Strong=G3588|Translit=tēs
+12	μετοικεσίας	μετοικεσία	NOUN	N-GSF	Case=Gen|Gender=Fem|Number=Sing	_	_	Strong=G3350|Translit=metoikesias
+13	βαβυλῶνος	Βαβυλών	NOUN	N-GSF-L	Case=Gen|Gender=Fem|Number=Sing	_	_	Strong=G0897|Translit=Babulōnos
+
+# ref = MAT.1.12
+1	μετὰ	μετά	ADP	PREP	_	_	_	Strong=G3326|Translit=Meta
+2	δὲ	δέ	CCONJ	CONJ	_	_	_	Strong=G1161|Translit=de
+3	τὴν	ὁ	DET	T-ASF	Case=Acc|Gender=Fem|Number=Sing	_	_	Strong=G3588|Translit=tēn
+4	μετοικεσίαν	μετοικεσία	NOUN	N-ASF	Case=Acc|Gender=Fem|Number=Sing	_	_	Strong=G3350|Translit=metoikesian
+5	βαβυλῶνος	Βαβυλών	NOUN	N-GSF-L	Case=Gen|Gender=Fem|Number=Sing	_	_	Strong=G0897|Translit=Babulōnos
+6	ἰεχονίας	Ἰεχονίας	NOUN	N-NSM-P	Case=Nom|Gender=Masc|Number=Sing	_	_	Strong=G2423|Translit=Iechonias
+7	ἐγέννησεν	γεννάω	VERB	V-AAI-3S	Mood=Ind|Number=Sing|Person=3|Tense=Aor|Voice=Act	_	_	Strong=G1080|Translit=egennēsen
+8	τὸν	ὁ	DET	T-ASM	Case=Acc|Gender=Masc|Number=Sing	_	_	Strong=G3588|Translit=ton
+9	σαλαθιήλ	Σαλαθιήλ	NOUN	N-ASM-P	Case=Acc|Gender=Masc|Number=Sing	_	_	Strong=G4528|Translit=Salathiēl
+10	σαλαθιὴλ	Σαλαθιήλ	NOUN	N-NSM-P	Case=Nom|Gender=Masc|Number=Sing	_	_	Strong=G4528|Translit=Salathiēl
+11	δὲ	δέ	CCONJ	CONJ	_	_	_	Strong=G1161|Translit=de
+12	ἐγέννησεν	γεννάω	VERB	V-AAI-3S	Mood=Ind|Number=Sing|Person=3|Tense=Aor|Voice=Act	_	_	Strong=G1080|Translit=egennēsen
+13	τὸν	ὁ	DET	T-ASM	Case=Acc|Gender=Masc|Number=Sing	_	_	Strong=G3588|Translit=ton
+14	ζοροβάβελ	Ζοροβάβελ	NOUN	N-ASM-P	Case=Acc|Gender=Masc|Number=Sing	_	_	Strong=G2216|Translit=Zorobabel
+
+# ref = MAT.1.13
+1	ζοροβάβελ	Ζοροβάβελ	NOUN	N-NSM-P	Case=Nom|Gender=Masc|Number=Sing	_	_	Strong=G2216|Translit=Zorobabel
+2	δὲ	δέ	CCONJ	CONJ	_	_	_	Strong=G1161|Translit=de
+3	ἐγέννησεν	γεννάω	VERB	V-AAI-3S	Mood=Ind|Number=Sing|Person=3|Tense=Aor|Voice=Act	_	_	Strong=G1080|Translit=egennēsen
+4	τὸν	ὁ	DET	T-ASM	Case=Acc|Gender=Masc|Number=Sing	_	_	Strong=G3588|Translit=ton
+5	ἀβιούδ	Ἀβιούδ	NOUN	N-ASM-P	Case=Acc|Gender=Masc|Number=Sing	_	_	Strong=G0010|Translit=Abioud
+6	ἀβιοὺδ	Ἀβιούδ	NOUN	N-NSM-P	Case=Nom|Gender=Masc|Number=Sing	_	_	Strong=G0010|Translit=Abioud
+7	δὲ	δέ	CCONJ	CONJ	_	_	_	Strong=G1161|Translit=de
+8	ἐγέννησεν	γεννάω	VERB	V-AAI-3S	Mood=Ind|Number=Sing|Person=3|Tense=Aor|Voice=Act	_	_	Strong=G1080|Translit=egennēsen
+9	τὸν	ὁ	DET	T-ASM	Case=Acc|Gender=Masc|Number=Sing	_	_	Strong=G3588|Translit=ton
+10	ἐλιακείμ	_	X	_	_	_	_	Align=unmatched
+11	ἐλιακεὶμ	_	X	_	_	_	_	Align=unmatched
+12	δὲ	δέ	CCONJ	CONJ	_	_	_	Strong=G1161|Translit=de
+13	ἐγέννησεν	γεννάω	VERB	V-AAI-3S	Mood=Ind|Number=Sing|Person=3|Tense=Aor|Voice=Act	_	_	Strong=G1080|Translit=egennēsen
+14	τὸν	ὁ	DET	T-ASM	Case=Acc|Gender=Masc|Number=Sing	_	_	Strong=G3588|Translit=ton
+15	ἀζώρ	Ἀζώρ	NOUN	N-ASM-P	Case=Acc|Gender=Masc|Number=Sing	_	_	Strong=G0107|Translit=Azōr|Align=source_extra:2
+
+# ref = MAT.1.14
+1	ἀζὼρ	Ἀζώρ	NOUN	N-NSM-P	Case=Nom|Gender=Masc|Number=Sing	_	_	Strong=G0107|Translit=Azōr
+2	δὲ	δέ	CCONJ	CONJ	_	_	_	Strong=G1161|Translit=de
+3	ἐγέννησεν	γεννάω	VERB	V-AAI-3S	Mood=Ind|Number=Sing|Person=3|Tense=Aor|Voice=Act	_	_	Strong=G1080|Translit=egennēsen
+4	τὸν	ὁ	DET	T-ASM	Case=Acc|Gender=Masc|Number=Sing	_	_	Strong=G3588|Translit=ton
+5	σαδώκ	Σαδώκ	NOUN	N-ASM-P	Case=Acc|Gender=Masc|Number=Sing	_	_	Strong=G4524|Translit=Sadōk
+6	σαδὼκ	Σαδώκ	NOUN	N-NSM-P	Case=Nom|Gender=Masc|Number=Sing	_	_	Strong=G4524|Translit=Sadōk
+7	δὲ	δέ	CCONJ	CONJ	_	_	_	Strong=G1161|Translit=de
+8	ἐγέννησεν	γεννάω	VERB	V-AAI-3S	Mood=Ind|Number=Sing|Person=3|Tense=Aor|Voice=Act	_	_	Strong=G1080|Translit=egennēsen
+9	τὸν	ὁ	DET	T-ASM	Case=Acc|Gender=Masc|Number=Sing	_	_	Strong=G3588|Translit=ton
+10	ἀχείμ	_	X	_	_	_	_	Align=unmatched
+11	ἀχεὶμ	_	X	_	_	_	_	Align=unmatched
+12	δὲ	δέ	CCONJ	CONJ	_	_	_	Strong=G1161|Translit=de
+13	ἐγέννησεν	γεννάω	VERB	V-AAI-3S	Mood=Ind|Number=Sing|Person=3|Tense=Aor|Voice=Act	_	_	Strong=G1080|Translit=egennēsen
+14	τὸν	ὁ	DET	T-ASM	Case=Acc|Gender=Masc|Number=Sing	_	_	Strong=G3588|Translit=ton
+15	ἐλιούδ	Ἐλιούδ	NOUN	N-ASM-P	Case=Acc|Gender=Masc|Number=Sing	_	_	Strong=G1664|Translit=Elioud|Align=source_extra:2
+
+# ref = MAT.1.15
+1	ἐλιοὺδ	Ἐλιούδ	NOUN	N-NSM-P	Case=Nom|Gender=Masc|Number=Sing	_	_	Strong=G1664|Translit=Elioud
+2	δὲ	δέ	CCONJ	CONJ	_	_	_	Strong=G1161|Translit=de
+3	ἐγέννησεν	γεννάω	VERB	V-AAI-3S	Mood=Ind|Number=Sing|Person=3|Tense=Aor|Voice=Act	_	_	Strong=G1080|Translit=egennēsen
+4	τὸν	ὁ	DET	T-ASM	Case=Acc|Gender=Masc|Number=Sing	_	_	Strong=G3588|Translit=ton
+5	ἐλεάζαρ	Ἐλεάζαρ	NOUN	N-ASM-P	Case=Acc|Gender=Masc|Number=Sing	_	_	Strong=G1648|Translit=Eleazar
+6	ἐλεάζαρ	Ἐλεάζαρ	NOUN	N-NSM-P	Case=Nom|Gender=Masc|Number=Sing	_	_	Strong=G1648|Translit=Eleazar
+7	δὲ	δέ	CCONJ	CONJ	_	_	_	Strong=G1161|Translit=de
+8	ἐγέννησεν	γεννάω	VERB	V-AAI-3S	Mood=Ind|Number=Sing|Person=3|Tense=Aor|Voice=Act	_	_	Strong=G1080|Translit=egennēsen
+9	τὸν	ὁ	DET	T-ASM	Case=Acc|Gender=Masc|Number=Sing	_	_	Strong=G3588|Translit=ton
+10	ματθάν	Ματθάν	NOUN	N-ASM-P	Case=Acc|Gender=Masc|Number=Sing	_	_	Strong=G3157|Translit=Matthan
+11	ματθὰν	Ματθάν	NOUN	N-NSM-P	Case=Nom|Gender=Masc|Number=Sing	_	_	Strong=G3157|Translit=Matthan
+12	δὲ	δέ	CCONJ	CONJ	_	_	_	Strong=G1161|Translit=de
+13	ἐγέννησεν	γεννάω	VERB	V-AAI-3S	Mood=Ind|Number=Sing|Person=3|Tense=Aor|Voice=Act	_	_	Strong=G1080|Translit=egennēsen
+14	τὸν	ὁ	DET	T-ASM	Case=Acc|Gender=Masc|Number=Sing	_	_	Strong=G3588|Translit=ton
+15	ἰακώβ	Ἰακώβ	NOUN	N-ASM-P	Case=Acc|Gender=Masc|Number=Sing	_	_	Strong=G2384|Translit=Iakōb
+
+# ref = MAT.1.16
+1	ἰακὼβ	Ἰακώβ	NOUN	N-NSM-P	Case=Nom|Gender=Masc|Number=Sing	_	_	Strong=G2384|Translit=Iakōb
+2	δὲ	δέ	CCONJ	CONJ	_	_	_	Strong=G1161|Translit=de
+3	ἐγέννησεν	γεννάω	VERB	V-AAI-3S	Mood=Ind|Number=Sing|Person=3|Tense=Aor|Voice=Act	_	_	Strong=G1080|Translit=egennēsen
+4	τὸν	ὁ	DET	T-ASM	Case=Acc|Gender=Masc|Number=Sing	_	_	Strong=G3588|Translit=ton
+5	ἰωσὴφ	Ἰωσήφ	NOUN	N-ASM-P	Case=Acc|Gender=Masc|Number=Sing	_	_	Strong=G2501|Translit=Iōsēph
+6	τὸν	ὁ	DET	T-ASM	Case=Acc|Gender=Masc|Number=Sing	_	_	Strong=G3588|Translit=ton
+7	ἄνδρα	ἀνήρ	NOUN	N-ASM	Case=Acc|Gender=Masc|Number=Sing	_	_	Strong=G0435|Translit=andra
+8	μαρίας	Μαρία	NOUN	N-GSF-P	Case=Gen|Gender=Fem|Number=Sing	_	_	Strong=G3137|Translit=Marias
+9	ἐξ	ἐκ	ADP	PREP	_	_	_	Strong=G1537|Translit=ex
+10	ἧς	ὅς, ἥ	PRON	R-GSF	Case=Gen|Gender=Fem|Number=Sing	_	_	Strong=G3739|Translit=hēs
+11	ἐγεννήθη	γεννάω	VERB	V-API-3S	Mood=Ind|Number=Sing|Person=3|Tense=Aor|Voice=Pass	_	_	Strong=G1080|Translit=egennēthē
+12	ἰησοῦς	Ἰησοῦς	NOUN	N-NSM-P	Case=Nom|Gender=Masc|Number=Sing	_	_	Strong=G2424|Translit=Iēsous
+13	ὁ	ὁ	DET	T-NSM	Case=Nom|Gender=Masc|Number=Sing	_	_	Strong=G3588|Translit=ho
+14	λεγόμενος	λέγω	VERB	V-PPP-NSM	Case=Nom|Gender=Masc|Mood=Part|Number=Sing|Tense=Pres|Voice=Pass	_	_	Strong=G3004|Translit=legomenos
+15	χριστός	Χριστός	NOUN	N-NSM-T	Case=Nom|Gender=Masc|Number=Sing	_	_	Strong=G5547|Translit=Christos
+
+# ref = MAT.1.17
+1	πᾶσαι	πᾶς	ADJ	A-NPF	Case=Nom|Gender=Fem|Number=Plur	_	_	Strong=G3956|Translit=Pasai
+2	οὖν	οὖν	CCONJ	CONJ	_	_	_	Strong=G3767|Translit=oun
+3	αἱ	ὁ	DET	T-NPF	Case=Nom|Gender=Fem|Number=Plur	_	_	Strong=G3588|Translit=hai
+4	γενεαὶ	γενεά	NOUN	N-NPF	Case=Nom|Gender=Fem|Number=Plur	_	_	Strong=G1074|Translit=geneai
+5	ἀπὸ	ἀπό	ADP	PREP	_	_	_	Strong=G0575|Translit=apo
+6	ἀβραὰμ	Ἀβραάμ	NOUN	N-GSM-P	Case=Gen|Gender=Masc|Number=Sing	_	_	Strong=G0011|Translit=Abraam
+7	ἕως	ἕως	ADP	PREP	_	_	_	Strong=G2193|Translit=he'ōs
+8	δαβὶδ	_	X	_	_	_	_	Align=unmatched
+9	γενεαὶ	γενεά	NOUN	N-NPF	Case=Nom|Gender=Fem|Number=Plur	_	_	Strong=G1074|Translit=geneai
+10	δεκατέσσαρες	δεκατέσσαρες	ADJ	A-NPF	Case=Nom|Gender=Fem|Number=Plur	_	_	Strong=G1180|Translit=dekatessares
+11	καὶ	καί	CCONJ	CONJ	_	_	_	Strong=G2532|Translit=kai
+12	ἀπὸ	ἀπό	ADP	PREP	_	_	_	Strong=G0575|Translit=apo
+13	δαβὶδ	_	X	_	_	_	_	Align=unmatched
+14	ἕως	ἕως	ADP	PREP	_	_	_	Strong=G2193|Translit=he'ōs
+15	τῆς	ὁ	DET	T-GSF	Case=Gen|Gender=Fem|Number=Sing	_	_	Strong=G3588|Translit=tēs
+16	μετοικεσίας	μετοικεσία	NOUN	N-GSF	Case=Gen|Gender=Fem|Number=Sing	_	_	Strong=G3350|Translit=metoikesias
+17	βαβυλῶνος	Βαβυλών	NOUN	N-GSF-L	Case=Gen|Gender=Fem|Number=Sing	_	_	Strong=G0897|Translit=Babulōnos
+18	γενεαὶ	γενεά	NOUN	N-NPF	Case=Nom|Gender=Fem|Number=Plur	_	_	Strong=G1074|Translit=geneai
+19	δεκατέσσαρες	δεκατέσσαρες	ADJ	A-NPF	Case=Nom|Gender=Fem|Number=Plur	_	_	Strong=G1180|Translit=dekatessares
+20	καὶ	καί	CCONJ	CONJ	_	_	_	Strong=G2532|Translit=kai
+21	ἀπὸ	ἀπό	ADP	PREP	_	_	_	Strong=G0575|Translit=apo
+22	τῆς	ὁ	DET	T-GSF	Case=Gen|Gender=Fem|Number=Sing	_	_	Strong=G3588|Translit=tēs
+23	μετοικεσίας	μετοικεσία	NOUN	N-GSF	Case=Gen|Gender=Fem|Number=Sing	_	_	Strong=G3350|Translit=metoikesias
+24	βαβυλῶνος	Βαβυλών	NOUN	N-GSF-L	Case=Gen|Gender=Fem|Number=Sing	_	_	Strong=G0897|Translit=Babulōnos
+25	ἕως	ἕως	ADP	PREP	_	_	_	Strong=G2193|Translit=he'ōs
+26	τοῦ	ὁ	DET	T-GSM	Case=Gen|Gender=Masc|Number=Sing	_	_	Strong=G3588|Translit=tou
+27	χριστοῦ	Χριστός	NOUN	N-GSM-T	Case=Gen|Gender=Masc|Number=Sing	_	_	Strong=G5547|Translit=Christou
+28	γενεαὶ	γενεά	NOUN	N-NPF	Case=Nom|Gender=Fem|Number=Plur	_	_	Strong=G1074|Translit=geneai
+29	δεκατέσσαρες	δεκατέσσαρες	ADJ	A-NPF	Case=Nom|Gender=Fem|Number=Plur	_	_	Strong=G1180|Translit=dekatessares|Align=source_extra:2
+
+# ref = MAT.1.18
+1	τοῦ	ὁ	DET	T-GSM	Case=Gen|Gender=Masc|Number=Sing	_	_	Strong=G3588|Translit=Tou
+2	δὲ	δέ	CCONJ	CONJ	_	_	_	Strong=G1161|Translit=de
+3	ἰησοῦ	Ἰησοῦς	NOUN	N-GSM-P	Case=Gen|Gender=Masc|Number=Sing	_	_	Strong=G2424|Translit=Iēsou
+4	χριστοῦ	Χριστός	NOUN	N-GSM-T	Case=Gen|Gender=Masc|Number=Sing	_	_	Strong=G5547|Translit=Christou
+5	ἡ	ὁ	DET	T-NSF	Case=Nom|Gender=Fem|Number=Sing	_	_	Strong=G3588|Translit=hē
+6	γέννησις	_	X	_	_	_	_	Align=unmatched
+7	οὕτως	οὕτω, οὕτως	ADV	ADV	_	_	_	Strong=G3779|Translit=houtōs
+8	ἦν	εἰμί	VERB	V-IAI-3S	Mood=Ind|Number=Sing|Person=3|Tense=Impf|Voice=Act	_	_	Strong=G1510|Translit=ēn
+9	μνηστευθείσης	μνηστεύω	VERB	V-APP-GSF	Case=Gen|Gender=Fem|Mood=Part|Number=Sing|Tense=Aor|Voice=Pass	_	_	Strong=G3423|Translit=mnēsteutheisēs
+10	γὰρ	γάρ	CCONJ	CONJ	_	_	_	Strong=G1063|Translit=gar
+11	τῆς	ὁ	DET	T-GSF	Case=Gen|Gender=Fem|Number=Sing	_	_	Strong=G3588|Translit=tēs
+12	μητρὸς	μήτηρ	NOUN	N-GSF	Case=Gen|Gender=Fem|Number=Sing	_	_	Strong=G3384|Translit=mētros
+13	αὐτοῦ	αὐτός	PRON	P-GSM	Case=Gen|Gender=Masc|Number=Sing	_	_	Strong=G0846|Translit=autou
+14	μαρίας	Μαρία	NOUN	N-GSF-P	Case=Gen|Gender=Fem|Number=Sing	_	_	Strong=G3137|Translit=Marias
+15	τῷ	ὁ	DET	T-DSM	Case=Dat|Gender=Masc|Number=Sing	_	_	Strong=G3588|Translit=tō
+16	ἰωσὴφ	Ἰωσήφ	NOUN	N-DSM-P	Case=Dat|Gender=Masc|Number=Sing	_	_	Strong=G2501|Translit=Iōsēph
+17	πρὶν	πρίν	ADV	ADV	_	_	_	Strong=G4250|Translit=prin
+18	ἢ	ἤ	CCONJ	CONJ	_	_	_	Strong=G2228|Translit=ē
+19	συνελθεῖν	συνέρχομαι	VERB	V-2AAN	Mood=Inf|Tense=Aor|Voice=Act	_	_	Strong=G4905|Translit=sunelthein
+20	αὐτοὺς	αὐτός	PRON	P-APM	Case=Acc|Gender=Masc|Number=Plur	_	_	Strong=G0846|Translit=autous
+21	εὑρέθη	εὑρίσκω	VERB	V-API-3S	Mood=Ind|Number=Sing|Person=3|Tense=Aor|Voice=Pass	_	_	Strong=G2147|Translit=heurethē
+22	ἐν	ἐν	ADP	PREP	_	_	_	Strong=G1722|Translit=en
+23	γαστρὶ	γαστήρ	NOUN	N-DSF	Case=Dat|Gender=Fem|Number=Sing	_	_	Strong=G1064|Translit=gastri
+24	ἔχουσα	ἔχω	VERB	V-PAP-NSF	Case=Nom|Gender=Fem|Mood=Part|Number=Sing|Tense=Pres|Voice=Act	_	_	Strong=G2192|Translit=echousa
+25	ἐκ	ἐκ	ADP	PREP	_	_	_	Strong=G1537|Translit=ek
+26	πνεύματος	πνεῦμα	NOUN	N-GSN	Case=Gen|Gender=Neut|Number=Sing	_	_	Strong=G4151|Translit=pneumatos
+27	ἁγίου	ἅγιος	ADJ	A-GSN	Case=Gen|Gender=Neut|Number=Sing	_	_	Strong=G0040|Translit=hagiou
+
+# ref = MAT.1.19
+1	ἰωσὴφ	Ἰωσήφ	NOUN	N-NSM-P	Case=Nom|Gender=Masc|Number=Sing	_	_	Strong=G2501|Translit=Iōsēph
+2	δὲ	δέ	CCONJ	CONJ	_	_	_	Strong=G1161|Translit=de
+3	ὁ	ὁ	DET	T-NSM	Case=Nom|Gender=Masc|Number=Sing	_	_	Strong=G3588|Translit=ho
+4	ἀνὴρ	ἀνήρ	NOUN	N-NSM	Case=Nom|Gender=Masc|Number=Sing	_	_	Strong=G0435|Translit=anēr
+5	αὐτῆς	αὐτός	PRON	P-GSF	Case=Gen|Gender=Fem|Number=Sing	_	_	Strong=G0846|Translit=autēs
+6	δίκαιος	δίκαιος	ADJ	A-NSM	Case=Nom|Gender=Masc|Number=Sing	_	_	Strong=G1342|Translit=dikaios
+7	ὢν	εἰμί	VERB	V-PAP-NSM	Case=Nom|Gender=Masc|Mood=Part|Number=Sing|Tense=Pres|Voice=Act	_	_	Strong=G1510|Translit=ōn
+8	καὶ	καί	CCONJ	CONJ	_	_	_	Strong=G2532|Translit=kai
+9	μὴ	μή	PART	PRT-N	_	_	_	Strong=G3361|Translit=mē
+10	θέλων	θέλω	VERB	V-PAP-NSM	Case=Nom|Gender=Masc|Mood=Part|Number=Sing|Tense=Pres|Voice=Act	_	_	Strong=G2309|Translit=thelōn
+11	αὐτὴν	αὐτός	PRON	P-ASF	Case=Acc|Gender=Fem|Number=Sing	_	_	Strong=G0846|Translit=autēn
+12	παραδειγματίσαι	_	X	_	_	_	_	Align=unmatched
+13	ἐβουλήθη	βούλομαι	VERB	V-AOI-3S	Mood=Ind|Number=Sing|Person=3|Tense=Aor	_	_	Strong=G1014|Translit=eboulēthē
+14	λάθρα	λάθρα	ADV	ADV	_	_	_	Strong=G2977|Translit=lathra
+15	ἀπολῦσαι	ἀπολύω	VERB	V-AAN	Mood=Inf|Tense=Aor|Voice=Act	_	_	Strong=G0630|Translit=apolusai
+16	αὐτήν	αὐτός	PRON	P-ASF	Case=Acc|Gender=Fem|Number=Sing	_	_	Strong=G0846|Translit=autēn
+
+# ref = MAT.1.20
+1	ταῦτα	οὗτος	PRON	D-APN	Case=Acc|Gender=Neut|Number=Plur	_	_	Strong=G3778|Translit=Tauta
+2	δὲ	δέ	CCONJ	CONJ	_	_	_	Strong=G1161|Translit=de
+3	αὐτοῦ	αὐτός	PRON	P-GSM	Case=Gen|Gender=Masc|Number=Sing	_	_	Strong=G0846|Translit=autou
+4	ἐνθυμηθέντος	ἐνθυμέομαι	VERB	V-AOP-GSM	Case=Gen|Gender=Masc|Mood=Part|Number=Sing|Tense=Aor	_	_	Strong=G1760|Translit=enthumēthentos
+5	ἰδοὺ	ἰδού	INTJ	INJ	_	_	_	Strong=G2400|Translit=idou
+6	ἄγγελος	ἄγγελος	NOUN	N-NSM	Case=Nom|Gender=Masc|Number=Sing	_	_	Strong=G0032|Translit=angelos
+7	κυρίου	κύριος	NOUN	N-GSM-T	Case=Gen|Gender=Masc|Number=Sing	_	_	Strong=G2962|Translit=kuriou
+8	κατ᾽	κατά	ADP	PREP	_	_	_	Strong=G2596|Translit=kat᾽
+9	ὄναρ	ὄναρ	NOUN	N-ASN	Case=Acc|Gender=Neut|Number=Sing	_	_	Strong=G3677|Translit=onar
+10	ἐφάνη	φαίνω	VERB	V-2API-3S	Mood=Ind|Number=Sing|Person=3|Tense=Aor|Voice=Pass	_	_	Strong=G5316|Translit=ephanē
+11	αὐτῷ	αὐτός	PRON	P-DSM	Case=Dat|Gender=Masc|Number=Sing	_	_	Strong=G0846|Translit=autō
+12	λέγων	λέγω	VERB	V-PAP-NSM	Case=Nom|Gender=Masc|Mood=Part|Number=Sing|Tense=Pres|Voice=Act	_	_	Strong=G3004|Translit=legōn
+13	ἰωσὴφ	Ἰωσήφ	NOUN	N-VSM-P	Case=Voc|Gender=Masc|Number=Sing	_	_	Strong=G2501|Translit=Iōsēph
+14	υἱὸς	υἱός	NOUN	N-NSM	Case=Nom|Gender=Masc|Number=Sing	_	_	Strong=G5207|Translit=huios
+15	δαβὶδ	_	X	_	_	_	_	Align=unmatched
+16	μὴ	μή	PART	PRT-N	_	_	_	Strong=G3361|Translit=mē
+17	φοβηθῇς	φοβέω	VERB	V-AOS-2S	Mood=Sub|Number=Sing|Person=2|Tense=Aor	_	_	Strong=G5399|Translit=phobēthēas
+18	παραλαβεῖν	παραλαμβάνω	VERB	V-2AAN	Mood=Inf|Tense=Aor|Voice=Act	_	_	Strong=G3880|Translit=paralabein
+19	μαριὰμ	_	X	_	_	_	_	Align=unmatched
+20	τὴν	ὁ	DET	T-ASF	Case=Acc|Gender=Fem|Number=Sing	_	_	Strong=G3588|Translit=tēn
+21	γυναῖκά	γυνή	NOUN	N-ASF	Case=Acc|Gender=Fem|Number=Sing	_	_	Strong=G1135|Translit=gunaika
+22	σου	σύ	PRON	P-2GS	Case=Gen|Number=Sing|Person=2	_	_	Strong=G4771|Translit=sou
+23	τὸ	ὁ	DET	T-NSN	Case=Nom|Gender=Neut|Number=Sing	_	_	Strong=G3588|Translit=to
+24	γὰρ	γάρ	CCONJ	CONJ	_	_	_	Strong=G1063|Translit=gar
+25	ἐν	ἐν	ADP	PREP	_	_	_	Strong=G1722|Translit=en
+26	αὐτῇ	αὐτός	PRON	P-DSF	Case=Dat|Gender=Fem|Number=Sing	_	_	Strong=G0846|Translit=autēa
+27	γεννηθὲν	γεννάω	VERB	V-APP-NSN	Case=Nom|Gender=Neut|Mood=Part|Number=Sing|Tense=Aor|Voice=Pass	_	_	Strong=G1080|Translit=gennēthen
+28	ἐκ	ἐκ	ADP	PREP	_	_	_	Strong=G1537|Translit=ek
+29	πνεύματός	πνεῦμα	NOUN	N-GSN	Case=Gen|Gender=Neut|Number=Sing	_	_	Strong=G4151|Translit=pneumatos
+30	ἐστιν	εἰμί	VERB	V-PAI-3S	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	_	_	Strong=G1510|Translit=estin
+31	ἁγίου	ἅγιος	ADJ	A-GSN	Case=Gen|Gender=Neut|Number=Sing	_	_	Strong=G0040|Translit=hagiou|Align=source_extra:2
+
+# ref = MAT.1.21
+1	τέξεται	τίκτω	VERB	V-FDI-3S	Mood=Ind|Number=Sing|Person=3|Tense=Fut|Voice=Mid	_	_	Strong=G5088|Translit=texetai
+2	δὲ	δέ	CCONJ	CONJ	_	_	_	Strong=G1161|Translit=de
+3	υἱὸν	υἱός	NOUN	N-ASM	Case=Acc|Gender=Masc|Number=Sing	_	_	Strong=G5207|Translit=huion
+4	καὶ	καί	CCONJ	CONJ	_	_	_	Strong=G2532|Translit=kai
+5	καλέσεις	καλέω	VERB	V-FAI-2S	Mood=Ind|Number=Sing|Person=2|Tense=Fut|Voice=Act	_	_	Strong=G2564|Translit=kaleseis
+6	τὸ	ὁ	DET	T-ASN	Case=Acc|Gender=Neut|Number=Sing	_	_	Strong=G3588|Translit=to
+7	ὄνομα	ὄνομα	NOUN	N-ASN	Case=Acc|Gender=Neut|Number=Sing	_	_	Strong=G3686|Translit=onoma
+8	αὐτοῦ	αὐτός	PRON	P-GSM	Case=Gen|Gender=Masc|Number=Sing	_	_	Strong=G0846|Translit=autou
+9	ἰησοῦν	Ἰησοῦς	NOUN	N-ASM-P	Case=Acc|Gender=Masc|Number=Sing	_	_	Strong=G2424|Translit=Iēsoun
+10	αὐτὸς	αὐτός	PRON	P-NSM	Case=Nom|Gender=Masc|Number=Sing	_	_	Strong=G0846|Translit=autos
+11	γὰρ	γάρ	CCONJ	CONJ	_	_	_	Strong=G1063|Translit=gar
+12	σώσει	σῴζω	VERB	V-FAI-3S	Mood=Ind|Number=Sing|Person=3|Tense=Fut|Voice=Act	_	_	Strong=G4982|Translit=sōsei
+13	τὸν	ὁ	DET	T-ASM	Case=Acc|Gender=Masc|Number=Sing	_	_	Strong=G3588|Translit=ton
+14	λαὸν	λαός	NOUN	N-ASM	Case=Acc|Gender=Masc|Number=Sing	_	_	Strong=G2992|Translit=laon
+15	αὑτοῦ	αὐτός	PRON	P-GSM	Case=Gen|Gender=Masc|Number=Sing	_	_	Strong=G0846|Translit=autou
+16	ἀπὸ	ἀπό	ADP	PREP	_	_	_	Strong=G0575|Translit=apo
+17	τῶν	ὁ	DET	T-GPF	Case=Gen|Gender=Fem|Number=Plur	_	_	Strong=G3588|Translit=tōn
+18	ἁμαρτιῶν	ἁμαρτία	NOUN	N-GPF	Case=Gen|Gender=Fem|Number=Plur	_	_	Strong=G0266|Translit=hamartiōn
+19	αὐτῶν	αὐτός	PRON	P-GPM	Case=Gen|Gender=Masc|Number=Plur	_	_	Strong=G0846|Translit=autōn
+
+# ref = MAT.1.22
+1	τοῦτο	οὗτος	PRON	D-NSN	Case=Nom|Gender=Neut|Number=Sing	_	_	Strong=G3778|Translit=Touto
+2	δὲ	δέ	CCONJ	CONJ	_	_	_	Strong=G1161|Translit=de
+3	ὅλον	ὅλος	ADJ	A-NSN	Case=Nom|Gender=Neut|Number=Sing	_	_	Strong=G3650|Translit=holon
+4	γέγονεν	γίνομαι	VERB	V-2RAI-3S	Mood=Ind|Number=Sing|Person=3|Voice=Act	_	_	Strong=G1096|Translit=gegonen
+5	ἵνα	ἵνα	CCONJ	CONJ	_	_	_	Strong=G2443|Translit=ina
+6	πληρωθῇ	πληρόω	VERB	V-APS-3S	Mood=Sub|Number=Sing|Person=3|Tense=Aor|Voice=Pass	_	_	Strong=G4137|Translit=plērōthēa
+7	τὸ	ὁ	DET	T-NSN	Case=Nom|Gender=Neut|Number=Sing	_	_	Strong=G3588|Translit=to
+8	ῥηθὲν	ἔπω, ἐρῶ, εἶπον	VERB	V-APP-NSN	Case=Nom|Gender=Neut|Mood=Part|Number=Sing|Tense=Aor|Voice=Pass	_	_	Strong=G2046|Translit=rhēthen
+9	ὑπὸ	ὑπό	ADP	PREP	_	_	_	Strong=G5259|Translit=hupo
+10	τοῦ	ὁ	DET	T-GSM	Case=Gen|Gender=Masc|Number=Sing	_	_	Strong=G3588|Translit=tou
+11	κυρίου	κύριος	NOUN	N-GSM-T	Case=Gen|Gender=Masc|Number=Sing	_	_	Strong=G2962|Translit=kuriou
+12	διὰ	διά	ADP	PREP	_	_	_	Strong=G1223|Translit=dia
+13	τοῦ	ὁ	DET	T-GSM	Case=Gen|Gender=Masc|Number=Sing	_	_	Strong=G3588|Translit=tou
+14	προφήτου	προφήτης	NOUN	N-GSM	Case=Gen|Gender=Masc|Number=Sing	_	_	Strong=G4396|Translit=prophētou
+15	λέγοντος	λέγω	VERB	V-PAP-GSM	Case=Gen|Gender=Masc|Mood=Part|Number=Sing|Tense=Pres|Voice=Act	_	_	Strong=G3004|Translit=legontos
+
+# ref = MAT.1.23
+1	ἰδοὺ	ἰδού	INTJ	INJ	_	_	_	Strong=G2400|Translit=idou
+2	ἡ	ὁ	DET	T-NSF	Case=Nom|Gender=Fem|Number=Sing	_	_	Strong=G3588|Translit=hē
+3	παρθένος	παρθένος	NOUN	N-NSF	Case=Nom|Gender=Fem|Number=Sing	_	_	Strong=G3933|Translit=parthenos
+4	ἐν	ἐν	ADP	PREP	_	_	_	Strong=G1722|Translit=en
+5	γαστρὶ	γαστήρ	NOUN	N-DSF	Case=Dat|Gender=Fem|Number=Sing	_	_	Strong=G1064|Translit=gastri
+6	ἕξει	ἔχω	VERB	V-FAI-3S	Mood=Ind|Number=Sing|Person=3|Tense=Fut|Voice=Act	_	_	Strong=G2192|Translit=hexei
+7	καὶ	καί	CCONJ	CONJ	_	_	_	Strong=G2532|Translit=kai
+8	τέξεται	τίκτω	VERB	V-FDI-3S	Mood=Ind|Number=Sing|Person=3|Tense=Fut|Voice=Mid	_	_	Strong=G5088|Translit=texetai
+9	υἱὸν	υἱός	NOUN	N-ASM	Case=Acc|Gender=Masc|Number=Sing	_	_	Strong=G5207|Translit=huion
+10	καὶ	καί	CCONJ	CONJ	_	_	_	Strong=G2532|Translit=kai
+11	καλέσουσιν	καλέω	VERB	V-FAI-3P	Mood=Ind|Number=Plur|Person=3|Tense=Fut|Voice=Act	_	_	Strong=G2564|Translit=kalesousin
+12	τὸ	ὁ	DET	T-ASN	Case=Acc|Gender=Neut|Number=Sing	_	_	Strong=G3588|Translit=to
+13	ὄνομα	ὄνομα	NOUN	N-ASN	Case=Acc|Gender=Neut|Number=Sing	_	_	Strong=G3686|Translit=onoma
+14	αὐτοῦ	αὐτός	PRON	P-GSM	Case=Gen|Gender=Masc|Number=Sing	_	_	Strong=G0846|Translit=autou
+15	ἐμμανουὴλ	Ἐμμανουήλ	NOUN	N-ASM-T	Case=Acc|Gender=Masc|Number=Sing	_	_	Strong=G1694|Translit=Emmanouēl
+16	ὅ	ὅς, ἥ	PRON	R-NSN	Case=Nom|Gender=Neut|Number=Sing	_	_	Strong=G3739|Translit=ho
+17	ἐστιν	εἰμί	VERB	V-PAI-3S	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	_	_	Strong=G1510|Translit=estin
+18	μεθερμηνευόμενον	μεθερμηνεύω	VERB	V-PPP-NSN	Case=Nom|Gender=Neut|Mood=Part|Number=Sing|Tense=Pres|Voice=Pass	_	_	Strong=G3177|Translit=methermēneuomenon
+19	μεθ᾽	μετά	ADP	PREP	_	_	_	Strong=G3326|Translit=meth᾽
+20	ἡμῶν	ἐγώ	PRON	P-1GP	Case=Gen|Number=Plur|Person=1	_	_	Strong=G3165|Translit=hēmōn
+21	ὁ	ὁ	DET	T-NSM	Case=Nom|Gender=Masc|Number=Sing	_	_	Strong=G3588|Translit=ho
+22	φεός	_	X	_	_	_	_	Align=unmatched,source_extra:1
+
+# ref = MAT.1.24
+1	διεγερθεὶς	_	X	_	_	_	_	Align=unmatched
+2	δὲ	δέ	CCONJ	CONJ	_	_	_	Strong=G1161|Translit=de
+3	ὁ	ὁ	DET	T-NSM	Case=Nom|Gender=Masc|Number=Sing	_	_	Strong=G3588|Translit=ho
+4	ἰωσὴφ	Ἰωσήφ	NOUN	N-NSM-P	Case=Nom|Gender=Masc|Number=Sing	_	_	Strong=G2501|Translit=Iōsēph
+5	ἀπὸ	ἀπό	ADP	PREP	_	_	_	Strong=G0575|Translit=apo
+6	τοῦ	ὁ	DET	T-GSM	Case=Gen|Gender=Masc|Number=Sing	_	_	Strong=G3588|Translit=tou
+7	ὕπνου	ὕπνος	NOUN	N-GSM	Case=Gen|Gender=Masc|Number=Sing	_	_	Strong=G5258|Translit=hupnou
+8	ἐποίησεν	ποιέω	VERB	V-AAI-3S	Mood=Ind|Number=Sing|Person=3|Tense=Aor|Voice=Act	_	_	Strong=G4160|Translit=epoiēsen
+9	ὡς	ὡς	PART	PRT	_	_	_	Strong=G5613|Translit=hōs
+10	προσέταξεν	προστάσσω	VERB	V-AAI-3S	Mood=Ind|Number=Sing|Person=3|Tense=Aor|Voice=Act	_	_	Strong=G4367|Translit=prosetaxen
+11	αὐτῷ	αὐτός	PRON	P-DSM	Case=Dat|Gender=Masc|Number=Sing	_	_	Strong=G0846|Translit=autō
+12	ὁ	ὁ	DET	T-NSM	Case=Nom|Gender=Masc|Number=Sing	_	_	Strong=G3588|Translit=ho
+13	ἄγγελος	ἄγγελος	NOUN	N-NSM	Case=Nom|Gender=Masc|Number=Sing	_	_	Strong=G0032|Translit=angelos
+14	κυρίου	κύριος	NOUN	N-GSM-T	Case=Gen|Gender=Masc|Number=Sing	_	_	Strong=G2962|Translit=kuriou
+15	καὶ	καί	CCONJ	CONJ	_	_	_	Strong=G2532|Translit=kai
+16	παρέλαβεν	παραλαμβάνω	VERB	V-2AAI-3S	Mood=Ind|Number=Sing|Person=3|Tense=Aor|Voice=Act	_	_	Strong=G3880|Translit=parelaben
+17	τὴν	ὁ	DET	T-ASF	Case=Acc|Gender=Fem|Number=Sing	_	_	Strong=G3588|Translit=tēn
+18	γυναῖκα	γυνή	NOUN	N-ASF	Case=Acc|Gender=Fem|Number=Sing	_	_	Strong=G1135|Translit=gunaika
+19	αὑτοῦ	αὐτός	PRON	P-GSM	Case=Gen|Gender=Masc|Number=Sing	_	_	Strong=G0846|Translit=autou
+
+# ref = MAT.1.25
+1	καὶ	καί	CCONJ	CONJ	_	_	_	Strong=G2532|Translit=kai
+2	οὐκ	οὐ	PART	PRT-N	_	_	_	Strong=G3756|Translit=ouk
+3	ἐγίνωσκεν	γινώσκω	VERB	V-IAI-3S	Mood=Ind|Number=Sing|Person=3|Tense=Impf|Voice=Act	_	_	Strong=G1097|Translit=eginōsken
+4	αὐτὴν	αὐτός	PRON	P-ASF	Case=Acc|Gender=Fem|Number=Sing	_	_	Strong=G0846|Translit=autēn
+5	ἕως	ἕως	ADP	PREP	_	_	_	Strong=G2193|Translit=he'ōs
+6	οὗ	ὅς, ἥ	PRON	R-GSM	Case=Gen|Gender=Masc|Number=Sing	_	_	Strong=G3739|Translit=hou
+7	ἔτεκεν	τίκτω	VERB	V-2AAI-3S	Mood=Ind|Number=Sing|Person=3|Tense=Aor|Voice=Act	_	_	Strong=G5088|Translit=eteken
+8	τὸν	ὁ	DET	T-ASM	Case=Acc|Gender=Masc|Number=Sing	_	_	Strong=G3588|Translit=ton
+9	υἱὸν	υἱός	NOUN	N-ASM	Case=Acc|Gender=Masc|Number=Sing	_	_	Strong=G5207|Translit=huion
+10	αὑτῆς	αὐτός	PRON	P-GSF	Case=Gen|Gender=Fem|Number=Sing	_	_	Strong=G0846|Translit=autēs
+11	τὸν	ὁ	DET	T-ASM	Case=Acc|Gender=Masc|Number=Sing	_	_	Strong=G3588|Translit=ton
+12	πρωτότοκον	πρωτότοκος	ADJ	A-ASM-S	Case=Acc|Degree=Sup|Gender=Masc|Number=Sing	_	_	Strong=G4416|Translit=prōtotokon
+13	καὶ	καί	CCONJ	CONJ	_	_	_	Strong=G2532|Translit=kai
+14	ἐκάλεσεν	καλέω	VERB	V-AAI-3S	Mood=Ind|Number=Sing|Person=3|Tense=Aor|Voice=Act	_	_	Strong=G2564|Translit=ekalesen
+15	τὸ	ὁ	DET	T-ASN	Case=Acc|Gender=Neut|Number=Sing	_	_	Strong=G3588|Translit=to
+16	ὄνομα	ὄνομα	NOUN	N-ASN	Case=Acc|Gender=Neut|Number=Sing	_	_	Strong=G3686|Translit=onoma
+17	αὐτοῦ	αὐτός	PRON	P-GSM	Case=Gen|Gender=Masc|Number=Sing	_	_	Strong=G0846|Translit=autou
+18	ἰησοῦν	Ἰησοῦς	NOUN	N-ASM-P	Case=Acc|Gender=Masc|Number=Sing	_	_	Strong=G2424|Translit=Iēsoun
+
