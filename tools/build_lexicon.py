@@ -17,9 +17,9 @@ glosses dict is structured as a language-keyed map ready for future language add
 
 Domains are attached from MACULA linguistic datasets (CC-BY 4.0, Clear Bible Inc.).
   Greek  → Louw-Nida section references (e.g. "25.43") sourced from the `ln` column
-           of the Nestle1904 TSV. Source label: "macula-ln".
+           of the Nestle1904 TSV. Source label: "ln-map".
   Hebrew → SDBH LexDomain hierarchical codes (e.g. "002003003004") from WLC node XML
-           `LexDomain` attribute. Source label: "macula-sdbh".
+           `LexDomain` attribute. Source label: "sdbh".
 
 Entry schema:
   {strong, lemma, translit, lang, pos, glosses, senses, domains, root, sources}

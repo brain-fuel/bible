@@ -49,10 +49,6 @@ MACULA_HBO_RAW_BASE = (
     "https://raw.githubusercontent.com/Clear-Bible/macula-hebrew/main/WLC/nodes"
 )
 
-# Attribution label written into entry sources (matches brief's TDD test assertions)
-GRC_SOURCE_LABEL = "ln-map"    # Louw-Nida via MACULA Greek Nestle1904 TSV (CC-BY 4.0)
-HBO_SOURCE_LABEL = "sdbh"      # SDBH LexDomain via MACULA Hebrew WLC nodes (CC-BY 4.0)
-
 # ---------------------------------------------------------------------------
 # Atomization
 # ---------------------------------------------------------------------------
@@ -326,6 +322,7 @@ def _main():
     do_greek = "--hebrew" not in args
     do_hebrew = "--greek" not in args
     do_report = "--report" in args
+    force_rebuild = "--force" in args
 
     if do_report:
         grc = load_cached_map(grc_cache) or {}
@@ -342,6 +339,8 @@ def _main():
 
     if do_greek:
         print("Building Greek domain map...")
+        if force_rebuild and grc_tsv.exists():
+            grc_tsv.unlink()
         if not grc_tsv.exists():
             print(f"  Downloading MACULA Greek TSV...")
             data = _fetch_url_bytes(MACULA_GRC_TSV_URL)

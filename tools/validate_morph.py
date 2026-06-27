@@ -16,10 +16,10 @@ Counters returned by validate():
 
 Pinned expected values for the NT (recorded from actual generation run):
 EXPECTED_NT_VERSES     = 7957
-EXPECTED_NT_TOKENS     = <filled after first run>
-EXPECTED_NT_UNMATCHED  = <filled after first run>
-EXPECTED_NT_SRC_EXTRA  = <filled after first run>
-EXPECTED_NT_MISSING_STRONG = <filled after first run>
+EXPECTED_NT_TOKENS     = 140610
+EXPECTED_NT_UNMATCHED  = 6615
+EXPECTED_NT_SRC_EXTRA  = 3549
+EXPECTED_NT_MISSING_STRONG = 6615
 """
 
 import json
