@@ -111,7 +111,7 @@
 8	συνεργοὶ	συνεργός	ADJ	A-NPM	Case=Nom|Gender=Masc|Number=Plur	_	_	Strong=G4904|Translit=sunergoi
 9	γινώμεθα	γίνομαι	VERB	V-PNS-1P	Mood=Sub|Number=Plur|Person=1|Tense=Pres	_	_	Strong=G1096|Translit=ginōmetha
 10	τῇ	ὁ	DET	T-DSF	Case=Dat|Gender=Fem|Number=Sing	_	_	Strong=G3588|Translit=tēa
-11	ἀληθείᾳ	_	X	_	_	_	_	Align=unmatched|Align=source_extra:1
+11	ἀληθείᾳ	ἀλήθεια	NOUN	N-DSF	Case=Dat|Gender=Fem|Number=Sing	_	_	Strong=G0225|Translit=alētheia
 
 # ref = 3JO.1.9
 1	ἔγραψα	γράφω	VERB	V-2AAI-1S	Mood=Ind|Number=Sing|Person=1|Tense=Aor|Voice=Act	_	_	Strong=G1125|Translit=Egrapsa
@@ -159,7 +159,7 @@
 30	ἐκ	ἐκ	ADP	PREP	_	_	_	Strong=G1537|Translit=ek
 31	τῆς	ὁ	DET	T-GSF	Case=Gen|Gender=Fem|Number=Sing	_	_	Strong=G3588|Translit=tēs
 32	ἐκκλησίας	ἐκκλησία	NOUN	N-GSF	Case=Gen|Gender=Fem|Number=Sing	_	_	Strong=G1577|Translit=ekklēsias
-33	ἐκβάλλει	_	X	_	_	_	_	Align=unmatched|Align=source_extra:1
+33	ἐκβάλλει	ἐκβάλλω	VERB	V-PAI-3S	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	_	_	Strong=G1544|Translit=ekballei
 
 # ref = 3JO.1.11
 1	ἀγαπητὲ	ἀγαπητός	ADJ	A-VSM	Case=Voc|Gender=Masc|Number=Sing	_	_	Strong=G0027|Translit=Agapēte
@@ -191,21 +191,21 @@
 4	πάντων	πᾶς	ADJ	A-GPM	Case=Gen|Gender=Masc|Number=Plur	_	_	Strong=G3956|Translit=pantōn
 5	καὶ	καί	CCONJ	CONJ	_	_	_	Strong=G2532|Translit=kai
 6	ὑπ᾽	_	X	_	_	_	_	Align=unmatched
-7	αὐτῆς	_	X	_	_	_	_	Align=unmatched
-8	τῆς	_	X	_	_	_	_	Align=unmatched
-9	ἀληθείας	_	X	_	_	_	_	Align=unmatched
-10	καὶ	_	X	_	_	_	_	Align=unmatched
-11	ἡμεῖς	_	X	_	_	_	_	Align=unmatched
-12	δὲ	_	X	_	_	_	_	Align=unmatched
-13	μαρτυροῦμεν	_	X	_	_	_	_	Align=unmatched
-14	καὶ	_	X	_	_	_	_	Align=unmatched
+7	αὐτῆς	αὐτός	PRON	P-GSF	Case=Gen|Gender=Fem|Number=Sing	_	_	Strong=G0846|Translit=autēs
+8	τῆς	ὁ	DET	T-GSF	Case=Gen|Gender=Fem|Number=Sing	_	_	Strong=G3588|Translit=tēs
+9	ἀληθείας	ἀλήθεια	NOUN	N-GSF	Case=Gen|Gender=Fem|Number=Sing	_	_	Strong=G0225|Translit=alētheias
+10	καὶ	καί	CCONJ	CONJ	_	_	_	Strong=G2532|Translit=kai
+11	ἡμεῖς	ἐγώ	PRON	P-1NP	Case=Nom|Number=Plur|Person=1	_	_	Strong=G3165|Translit=hēmeis
+12	δὲ	δέ	CCONJ	CONJ	_	_	_	Strong=G1161|Translit=de
+13	μαρτυροῦμεν	μαρτυρέω	VERB	V-PAI-1P	Mood=Ind|Number=Plur|Person=1|Tense=Pres|Voice=Act	_	_	Strong=G3140|Translit=marturoumen
+14	καὶ	καί	CCONJ	CONJ	_	_	_	Strong=G2532|Translit=kai
 15	οἴδατε	_	X	_	_	_	_	Align=unmatched
-16	ὅτι	_	X	_	_	_	_	Align=unmatched
-17	ἡ	_	X	_	_	_	_	Align=unmatched
-18	μαρτυρία	_	X	_	_	_	_	Align=unmatched
-19	ἡμῶν	_	X	_	_	_	_	Align=unmatched
-20	ἀληθής	_	X	_	_	_	_	Align=unmatched
-21	ἐστιν	_	X	_	_	_	_	Align=unmatched|Align=source_extra:15
+16	ὅτι	ὅτι	CCONJ	CONJ	_	_	_	Strong=G3754|Translit=hoti
+17	ἡ	ὁ	DET	T-NSF	Case=Nom|Gender=Fem|Number=Sing	_	_	Strong=G3588|Translit=hē
+18	μαρτυρία	μαρτυρία	NOUN	N-NSF	Case=Nom|Gender=Fem|Number=Sing	_	_	Strong=G3141|Translit=marturia
+19	ἡμῶν	ἐγώ	PRON	P-1GP	Case=Gen|Number=Plur|Person=1	_	_	Strong=G3165|Translit=hēmōn
+20	ἀληθής	ἀληθής	ADJ	A-NSF	Case=Nom|Gender=Fem|Number=Sing	_	_	Strong=G0227|Translit=alēthēs
+21	ἐστιν	εἰμί	VERB	V-PAI-3S	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	_	_	Strong=G1510|Translit=estin|Align=source_extra:1
 
 # ref = 3JO.1.13
 1	πολλὰ	πολύς	ADJ	A-APN	Case=Acc|Gender=Neut|Number=Plur	_	_	Strong=G4183|Translit=Polla
@@ -225,13 +225,13 @@
 1	ἐλπίζω	ἐλπίζω	VERB	V-PAI-1S	Mood=Ind|Number=Sing|Person=1|Tense=Pres|Voice=Act	_	_	Strong=G1679|Translit=elpizō
 2	δὲ	δέ	CCONJ	CONJ	_	_	_	Strong=G1161|Translit=de
 3	εὐθέως	εὐθέως	ADV	ADV	_	_	_	Strong=G2112|Translit=eutheōs
-4	ἰδεῖν	_	X	_	_	_	_	Align=unmatched
-5	σε	σύ	PRON	P-2AS	Case=Acc|Number=Sing|Person=2	_	_	Strong=G4771|Translit=se
-6	καὶ	_	X	_	_	_	_	Align=unmatched
-7	στόμα	_	X	_	_	_	_	Align=unmatched
-8	πρὸς	_	X	_	_	_	_	Align=unmatched
-9	στόμα	_	X	_	_	_	_	Align=unmatched
-10	λαλήσομεν	_	X	_	_	_	_	Align=unmatched
+4	ἰδεῖν	εἴδω	VERB	V-2AAN	Mood=Inf|Tense=Aor|Voice=Act	_	_	Strong=G1492|Translit=idein
+5	σε	_	X	_	_	_	_	Align=unmatched
+6	καὶ	καί	CCONJ	CONJ	_	_	_	Strong=G2532|Translit=kai
+7	στόμα	στόμα	NOUN	N-ASN	Case=Acc|Gender=Neut|Number=Sing	_	_	Strong=G4750|Translit=stoma
+8	πρὸς	πρός	ADP	PREP	_	_	_	Strong=G4314|Translit=pros
+9	στόμα	στόμα	NOUN	N-ASN	Case=Acc|Gender=Neut|Number=Sing	_	_	Strong=G4750|Translit=stoma
+10	λαλήσομεν	λαλέω	VERB	V-FAI-1P	Mood=Ind|Number=Plur|Person=1|Tense=Fut|Voice=Act	_	_	Strong=G2980|Translit=lalēsomen
 11	Εἰρήνη	_	X	_	_	_	_	Align=unmatched
 12	σοι	_	X	_	_	_	_	Align=unmatched
 13	ἀσπάζονταί	_	X	_	_	_	_	Align=unmatched
@@ -242,5 +242,5 @@
 18	τοὺς	_	X	_	_	_	_	Align=unmatched
 19	φίλους	_	X	_	_	_	_	Align=unmatched
 20	κατ᾽	_	X	_	_	_	_	Align=unmatched
-21	ὄνομα	_	X	_	_	_	_	Align=unmatched|Align=source_extra:6
+21	ὄνομα	_	X	_	_	_	_	Align=unmatched,source_extra:1
 

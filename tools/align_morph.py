@@ -18,8 +18,32 @@ from tools.morph_feats import decode
 
 ROOT = Path(__file__).resolve().parents[1]
 
-# Punctuation to strip for matching (not removed from FORM, only for normalization)
-_PUNCT = re.compile(r"[\.,;:·''\"\?\!·\[\]]")
+# Punctuation to strip for matching (not removed from FORM, only for normalization).
+# Includes:  . , ; :  ·(U+00B7 middle dot)  ¶(U+00B6 pilcrow, STEPBible appends
+# .¶/;¶ on paragraph-final words)  ;(U+037E Greek question mark)  ·(U+0387 ano
+# teleia)  ‘ ’(U+2018/U+2019 curly quotes, elision/koronis)  ' " ? !  [ ]
+_PUNCT = re.compile(r"[\.,;:·¶;·‘’'\"?!\[\]]")
+
+# Bounded source-skip lookahead window for matcher resync.
+_LOOKAHEAD = 2
+
+
+def _append_align(misc: str, value: str) -> str:
+    """Append an Align value to a MISC string under a single Align= key.
+
+    If MISC already carries an Align= field, the new value is comma-joined to
+    the existing one (CoNLL-U requires unique feature keys) rather than adding
+    a second Align= field.
+    """
+    if misc == "_":
+        return f"Align={value}"
+    parts = misc.split("|")
+    for j, p in enumerate(parts):
+        if p.startswith("Align="):
+            parts[j] = f"{p},{value}"
+            return "|".join(parts)
+    parts.append(f"Align={value}")
+    return "|".join(parts)
 
 
 def normalize_surface(s: str) -> str:
@@ -63,30 +87,55 @@ def load_norm(lang: str) -> dict:
 def align_verse(ref: str, l0_text: str, norm_rows: list, lang: str) -> list:
     """Align an L0 verse string against normalized morph rows.
 
-    Strategy: walk L0 words left-to-right; advance the source pointer when
-    normalize_surface matches.  Unmatched L0 words get placeholder tags and
-    Align=unmatched.  After all L0 words are processed, any leftover source
-    rows are appended as Align=source_extra:<n> on the last token.
+    Two-pointer walk of L0 words against source rows:
+
+    * Direct hit: normalize_surface(L0[i]) == normalize_surface(TR[si]) -> match,
+      advance si.
+    * Resync: on a miss, look ahead up to ``_LOOKAHEAD`` source rows; if TR[si+k]
+      matches L0[i] (k in 1.._LOOKAHEAD), the intervening rows TR[si..si+k-1] are
+      treated as source-only (counted toward source_extra), si jumps past them,
+      and L0[i] matches TR[si+k].  This recovers from a single divergent/extra
+      source word without desyncing the rest of the verse.
+    * Genuine divergence: if no lookahead position matches, L0[i] is emitted with
+      placeholder tags + Align=unmatched and si is NOT advanced, preserving the
+      source pointer for words truly absent from the source (e.g. TR omissions).
+
+    Any source rows left unconsumed (mid-verse skips + trailing leftover) are
+    recorded as a single Align=source_extra:<n> on the last token.
 
     Args:
         ref:       Reference string, e.g. '3JO.1.1'.
         l0_text:   Raw verse string from the L0 corpus (authoritative).
         norm_rows: List of normalized row dicts for this ref (idx-ordered).
-        lang:      'grc' or 'hbo' -- passed to decode().
+        lang:      'grc' or 'hbo', passed to decode().
 
     Returns:
         List of Token objects in L0 word order.
     """
     words = tokenize_l0(l0_text)
     rows = list(norm_rows)
+    norm_rows_surf = [normalize_surface(r["surface"]) for r in rows]
     tokens = []
-    si = 0  # source index pointer
+    si = 0           # source index pointer
+    skipped_extra = 0  # mid-verse source-only rows consumed by resync
 
     for i, w in enumerate(words, start=1):
+        nw = normalize_surface(w)
         match = None
-        if si < len(rows) and normalize_surface(w) == normalize_surface(rows[si]["surface"]):
-            match = rows[si]
-            si += 1
+
+        if si < len(rows):
+            if nw == norm_rows_surf[si]:
+                match = rows[si]
+                si += 1
+            else:
+                # Bounded source-skip lookahead to resync after a divergence.
+                for k in range(1, _LOOKAHEAD + 1):
+                    j = si + k
+                    if j < len(rows) and nw == norm_rows_surf[j]:
+                        skipped_extra += k          # rows si..j-1 are source-only
+                        si = j + 1                  # consume up to and incl. match
+                        match = rows[j]
+                        break
 
         if match:
             upos, feats = decode(match["xpos"], lang)
@@ -98,11 +147,9 @@ def align_verse(ref: str, l0_text: str, norm_rows: list, lang: str) -> list:
                 misc=format_misc("", "_", {}, "unmatched"),
             ))
 
-    # Attach any leftover source rows to the last token
-    if si < len(rows) and tokens:
-        leftover = len(rows) - si
-        extra = f"source_extra:{leftover}"
-        last = tokens[-1]
-        last.misc = (last.misc + f"|Align={extra}") if last.misc != "_" else f"Align={extra}"
+    # Attach all unconsumed source rows (skips + trailing leftover) to last token.
+    leftover = (len(rows) - si) + skipped_extra
+    if leftover > 0 and tokens:
+        tokens[-1].misc = _append_align(tokens[-1].misc, f"source_extra:{leftover}")
 
     return tokens

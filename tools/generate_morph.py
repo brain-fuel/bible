@@ -76,18 +76,20 @@ def generate(lang_entry: dict, norm_by_ref: dict, book_filter: str | None) -> di
                 norm_rows = norm_by_ref.get(ref, [])
                 tokens = align_verse(ref, l0_text, norm_rows, lang)
 
-                # Accumulate stats
+                # Accumulate stats. Align values are comma-joined under a
+                # single Align= key, e.g. "Align=unmatched,source_extra:1".
                 book_stats["verses"] += 1
                 book_stats["tokens"] += len(tokens)
                 for tok in tokens:
-                    if "Align=unmatched" in tok.misc:
-                        book_stats["unmatched"] += 1
-                    if "Align=source_extra:" in tok.misc:
-                        # Extract the count from the Align field
-                        for part in tok.misc.split("|"):
-                            if part.startswith("Align=source_extra:"):
+                    for part in tok.misc.split("|"):
+                        if not part.startswith("Align="):
+                            continue
+                        for val in part[len("Align="):].split(","):
+                            if val == "unmatched":
+                                book_stats["unmatched"] += 1
+                            elif val.startswith("source_extra:"):
                                 try:
-                                    book_stats["source_extra"] += int(part.split(":")[1])
+                                    book_stats["source_extra"] += int(val.split(":")[1])
                                 except ValueError:
                                     pass
 
