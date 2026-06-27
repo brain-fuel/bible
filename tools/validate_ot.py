@@ -27,11 +27,19 @@ def validate_chapter_ot(obj):
     if nums != list(range(1, len(nums) + 1)):
         errs.append(f"{tag}: verse numbers not contiguous from 1: {nums}")
     for v in verses:
+        refs = v.get("refs") or {}
         for key in BODY:
             if not v.get(key):
-                errs.append(f"{tag}:{v.get('verse')}: empty {key}")
-        refs = v.get("refs")
-        if refs is not None:
+                # king_james is never absent -- always an error
+                if key == "king_james":
+                    errs.append(f"{tag}:{v.get('verse')}: empty {key}")
+                elif key == "latin_vulgate":
+                    if refs.get("latin_vulgate") != "absent":
+                        errs.append(f"{tag}:{v.get('verse')}: empty {key}")
+                elif key == "hebrew_masoretic":
+                    if refs.get("hebrew_masoretic_absent") is not True:
+                        errs.append(f"{tag}:{v.get('verse')}: empty {key}")
+        if refs:
             hv = refs.get("hebrew_masoretic", "")
             if hv and len(hv.split(":")) != 2:
                 errs.append(f"{tag}:{v.get('verse')}: malformed ref {hv}")
@@ -47,6 +55,8 @@ def main():
     errs = []
     total = 0
     found_ref = {}
+    absent_latin = 0
+    absent_hebrew = 0
     for meta in _load_books():
         code = meta["code"]
         found = 0
@@ -63,6 +73,10 @@ def main():
                 refs = v.get("refs") or {}
                 if "hebrew_masoretic" in refs:
                     found_ref[(code, chapter, v["verse"])] = refs["hebrew_masoretic"]
+                if refs.get("latin_vulgate") == "absent":
+                    absent_latin += 1
+                if refs.get("hebrew_masoretic_absent") is True:
+                    absent_hebrew += 1
         if found != meta["chapters"]:
             errs.append(f"{code}: expected {meta['chapters']} files, found {found}")
     if total != TOTAL_OT_VERSES:
@@ -74,6 +88,7 @@ def main():
     for e in errs:
         print("ERROR:", e)
     print(f"OT validation: {len(errs)} error(s); {total} verses")
+    print(f"absent markers: latin_vulgate={absent_latin}, hebrew_masoretic={absent_hebrew}")
     return 1 if errs else 0
 
 
