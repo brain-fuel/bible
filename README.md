@@ -53,13 +53,17 @@ Each parallel text is registered in `data/editions.json`. A row is self-describi
 
 **Adding a new parallel OT text needs only a registry row** (plus the source's per-book name in `data/books.json`, and a cache/network fetch). The generator (`tools/generate_ot.py`), merge engine (`tools/merge_ot.py`), and validator (`tools/validate_ot.py`) iterate the registry and need no per-edition edits. Only a genuinely new *source backend* (a `source.type` not yet handled) requires one new class in `tools/sources/registry.py`.
 
+The Scrollmapper `DRC` and `FinBiblia` datasets also carry deuterocanonical books. The Apocrypha are not yet generated: the merge engine uses KJV as the verse-position spine, and KJV has no deuterocanon, so the Apocrypha need a separate base edition, an `bible/apo/` corpus, apocrypha book metadata, and an apocrypha versification spine — a future plan.
+
 ## Sources
 
 All underlying texts are in the public domain:
 
 - **King James Version** (1611): Sourced from Scrollmapper's bible_databases datasets.
 - **Clementine Vulgate** (Latin, 1592): Sourced from Scrollmapper's bible_databases datasets. Ten OT verses are merged into the preceding verse in the Vulgate tradition (recorded as `refs.latin_vulgate.absent`).
+- **Douay-Rheims (Challoner)** (English, 19th c. revision): Sourced from Scrollmapper's `DRC` dataset. Follows Vulgate versification, so it reuses the same KJV→Vulgate map as the Clementine Vulgate (`vmap_key: "latin"`); thirteen KJV verses are merged/absent in the Douay tradition.
 - **Hebrew Masoretic Text** (Westminster Leningrad Codex): Sourced via the Sefaria API. Includes full Masoretic pointing with vowels and cantillation marks.
+- **Biblia 1776** (Finnish, 1776): Sourced from Scrollmapper's `FinBiblia` dataset. Already KJV-versified for the protocanon, so it is placed by identity with no versification map.
 - **Greek Textus Receptus** (NT only): Sourced from the Logos Apostolic interlinear (https://www.logosapostolic.org/bibles/latin_vulgate_textus_receptus_king_james/).
 
 ## Versification Mapping and Attribution
