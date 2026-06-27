@@ -23,7 +23,7 @@ ref  idx  surface  lemma  strong  xpos  feats  translit  edition
 | `lemma`   | lexical/dictionary form |
 | `strong`  | `G` or `H` + zero-padded 4 digits, e.g. `G0026`, `H0430` |
 | `xpos`    | raw source morph code (no normalization) |
-| `feats`   | reserved empty string for now |
+| `feats`   | placeholder `_` (CoNLL-U convention for unspecified; FEATS derived in a later task) |
 | `translit`| source transliteration (if provided; else empty) |
 | `edition` | `TR` for Greek Textus Receptus rows; `WLC` for Hebrew Masoretic rows |
 

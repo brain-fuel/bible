@@ -15,6 +15,12 @@ Lemma deviation: TAHOT has no explicit "dictionary form" column analogous to
 TAGNT col 4.  Col 1 (Hebrew surface with full pointing and prefix/suffix
 slashes) is used for both surface and lemma.  Downstream tasks that build the
 lexicon layer (Tasks 4-5) will replace lemma with the BDB/Strong's form.
+
+Empty-strong deviation: a handful of Qere/Ketiv [Q(K)] rows have a blank col 8.
+These yield an empty-string strong ("") meaning "no Strong's" (absent), which
+downstream must treat as distinct from a real H#### code.  Other Q(K) rows pack
+a comma-joined Qere,Ketiv pair in col 8 (e.g. "H0935G, H1409"); the Qere (first)
+token is taken.
 """
 
 import csv
@@ -41,6 +47,8 @@ def _strip_heb_strong(raw: str) -> str:
     """Canonicalize a raw TAHOT Root dStrong+Instance string (col 8).
 
     Steps:
+      0. If the value is a comma-joined Qere,Ketiv pair (e.g. "H0935G, H1409"),
+         take the first token (the Qere root the translators follow).
       1. Strip trailing instance marker _A, _B, etc.: H0853_A -> H0853
       2. Strip trailing single-letter disambiguation suffix: H7225G -> H7225
          (only if char at position 5 is alpha and positions 1-4 are digits)
@@ -52,6 +60,12 @@ def _strip_heb_strong(raw: str) -> str:
     s = raw.strip()
     if not s:
         return s
+
+    # A few Q(K) rows pack Qere,Ketiv roots in one cell as "H0935G, H1409".
+    # Take the first token (Qere) before the comma; otherwise the joined
+    # string is an invalid Strong's join key downstream.
+    if "," in s:
+        s = s.split(",")[0].strip()
 
     # Remove instance marker _X (single uppercase or lowercase letter after _)
     s = re.sub(r"_[A-Za-z]$", "", s)
@@ -178,7 +192,9 @@ def normalize_hebrew(raw_path) -> list:
 
             # Root Strong's: col 8 "Root dStrong+Instance"
             root_strong_raw = cols[_COL_ROOT_STRONG].strip() if len(cols) > _COL_ROOT_STRONG else ""
-            strong = _strip_heb_strong(root_strong_raw) if root_strong_raw else "_"
+            # A handful of Q(K) rows have a blank col 8 -> empty strong "" means
+            # "no Strong's" (absent), distinct from a real H#### code.
+            strong = _strip_heb_strong(root_strong_raw) if root_strong_raw else ""
 
             out.append({
                 "ref": ref,

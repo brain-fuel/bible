@@ -217,6 +217,41 @@ def test_normalize_hebrew_hash_and_header_lines_skipped(tmp_path):
         assert isinstance(r["idx"], int)
 
 
+def test_normalize_hebrew_comma_strong_qk_row(tmp_path):
+    """A Q(K) row with comma-joined col 8 (Qere,Ketiv) takes the Qere token.
+
+    Real example: Gen.30.11#03=Q(K) has col 8 "H0935G, H1409" -> H0935.
+    """
+    block = (
+        "Eng (Heb) Ref & Type\tHebrew\tTransliteration\tTranslation\t"
+        "dStrongs\tGrammar\tMeaning Variants\tSpelling Variants\t"
+        "Root dStrong+Instance\tAlternative Strongs+Instance\tConjoin word\tExpanded Strong tags\n"
+        "Gen.30.11#03=Q(K)\tבָּא\tba\tcame\t{H0935G}\tHVqp3ms\t\t\t"
+        "H0935G, H1409\t\t\t\n"
+    )
+    raw = tmp_path / "tahot_test.txt"
+    raw.write_text(block, encoding="utf-8")
+    rows = normalize_hebrew(raw)
+    assert len(rows) == 1
+    assert rows[0]["strong"] == "H0935"
+
+
+def test_normalize_hebrew_empty_col8(tmp_path):
+    """A row with a blank col 8 yields an empty-string strong (absent)."""
+    block = (
+        "Eng (Heb) Ref & Type\tHebrew\tTransliteration\tTranslation\t"
+        "dStrongs\tGrammar\tMeaning Variants\tSpelling Variants\t"
+        "Root dStrong+Instance\tAlternative Strongs+Instance\tConjoin word\tExpanded Strong tags\n"
+        "Gen.30.11#04=Q(K)\tשֵׁם\tshem\tname\t{H8034}\tHNcmsa\t\t\t"
+        "\t\t\t\n"
+    )
+    raw = tmp_path / "tahot_test.txt"
+    raw.write_text(block, encoding="utf-8")
+    rows = normalize_hebrew(raw)
+    assert len(rows) == 1
+    assert rows[0]["strong"] == ""
+
+
 def test_normalize_greek_surface_is_nfc(tmp_path):
     """surface and lemma must be NFC-normalised."""
     raw = tmp_path / "tagnt_test.txt"
