@@ -26,6 +26,8 @@ def load_chapter(sefaria_name, chapter, cache_dir):
         # Remove sup/sub tags and their content before clean_text
         text = re.sub(r'<sup[^>]*>.*?</sup>', '', text, flags=re.IGNORECASE | re.DOTALL)
         text = re.sub(r'<sub[^>]*>.*?</sub>', '', text, flags=re.IGNORECASE | re.DOTALL)
+        # Remove footnote markup (e.g., <i class="footnote">note text</i>) and its content
+        text = re.sub(r'<i\b[^>]*footnote[^>]*>.*?</i>', '', text, flags=re.IGNORECASE | re.DOTALL)
         cleaned = clean_text(text)  # strips tags, unescapes, collapses ws, NFC
         if cleaned:
             verses[i] = cleaned
