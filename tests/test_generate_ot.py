@@ -65,3 +65,16 @@ def test_douay_relocates_with_latin_vmap(tmp_path):
     assert v1["refs"]["douay_rheims"] == {"src": "1:2"}
     assert v1["refs"]["latin_vulgate"] == {"src": "1:2"}
     assert "finnish_biblia" not in v1.get("refs", {})   # identity, no vmap_key
+
+
+def test_write_book_routes_to_testament_dir(tmp_path):
+    # Reuse the OT fixture but route output to the apo tree.
+    cache = _seed(tmp_path)
+    editions = editions_for("ot")
+    from tools.generate_ot import write_book, out_path
+    write_book(tmp_path, OBA, editions, _handles(editions, cache),
+               {"hebrew": {}, "latin": {}}, testament="apo")
+    apo_file = out_path(tmp_path, "apo", "OBA", 1)
+    assert apo_file.exists()
+    # Default testament stays "ot": the ot path is untouched by this call.
+    assert not out_path(tmp_path, "ot", "OBA", 1).exists()

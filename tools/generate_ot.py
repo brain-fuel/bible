@@ -17,13 +17,17 @@ ROOT = Path(__file__).resolve().parents[1]
 PAD = 3
 
 
-def load_books():
-    data = json.loads((ROOT / "data" / "books.json").read_text(encoding="utf-8"))
-    return [b for b in data["books"] if b["testament"] == "ot"]
+def out_path(root, testament, code, chapter):
+    return Path(root) / "bible" / testament / code / f"{chapter:0{PAD}d}.json"
 
 
 def out_path_ot(root, code, chapter):
-    return Path(root) / "bible" / "ot" / code / f"{chapter:0{PAD}d}.json"
+    return out_path(root, "ot", code, chapter)
+
+
+def load_books(testament="ot"):
+    data = json.loads((ROOT / "data" / "books.json").read_text(encoding="utf-8"))
+    return [b for b in data["books"] if b["testament"] == testament]
 
 
 def output_editions(editions):
@@ -54,7 +58,7 @@ def build_columns(meta, editions, base, handles, vmap, chapter, base_verses):
     return columns
 
 
-def write_book(root, meta, editions, handles, vmap):
+def write_book(root, meta, editions, handles, vmap, testament="ot"):
     out_eds, base = output_editions(editions)
     base_handle = handles[base["id"]]
     written = 0
@@ -63,7 +67,7 @@ def write_book(root, meta, editions, handles, vmap):
         columns = build_columns(meta, editions, base, handles, vmap, chapter,
                                 base_verses)
         obj = build_chapter(meta, out_eds, base["id"], chapter, columns)
-        dest = out_path_ot(root, meta["code"], chapter)
+        dest = out_path(root, testament, meta["code"], chapter)
         dest.parent.mkdir(parents=True, exist_ok=True)
         dest.write_text(json.dumps(obj, ensure_ascii=False, indent=2) + "\n",
                         encoding="utf-8")
