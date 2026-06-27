@@ -81,6 +81,16 @@ def build_entry(strong: str, lang: str, sources: dict) -> dict:
             root = entry.get("root")  # may be None — that is valid
             break
 
+    # The primary source (Strong's XML) carries no POS for Greek; fall back to the
+    # first secondary source that supplies one (TBESG, e.g. "G:N-F"). Hebrew already
+    # gets POS from the primary <w morph> attr, so this loop is a no-op there.
+    if not pos:
+        for _src_name, src_dict in sources.items():
+            ent = src_dict.get(strong, {})
+            if ent.get("pos"):
+                pos = ent["pos"]
+                break
+
     # Sources that contributed to this entry (had a record for this strong)
     src_list = [k for k, v in sources.items() if strong in v]
 
@@ -195,11 +205,17 @@ def load_greek_strongs(xml_path: str | Path) -> dict:
         lemma = greek.get("unicode", "") if greek is not None else ""
         translit = greek.get("translit", "") if greek is not None else ""
 
-        # Main gloss: strongs_def preferred, fall back to kjv_def.
-        # Use the ref-aware full-text renderer (NOT .text) so nested
-        # <strongsref>/<greek> elements are preserved, not truncated.
+        # Main gloss. The 1890 Strong's XML often splits one definition across
+        # <strongs_derivation> (the opening clause) and <strongs_def> (its tail),
+        # so <strongs_def> alone reads as a mid-clause fragment with unbalanced
+        # parens (e.g. G2983 "...to seize or remove))"). Compose derivation + def
+        # together for a complete clause. Use the ref-aware full-text renderer
+        # (NOT .text) so nested <strongsref>/<greek> elements survive intact.
+        drv_el = entry.find("strongs_derivation")
         sd = entry.find("strongs_def")
-        gloss = _render_def(sd) if sd is not None else ""
+        derivation = _render_def(drv_el) if drv_el is not None else ""
+        definition = _render_def(sd) if sd is not None else ""
+        gloss = _clean_ws(" ".join(p for p in (derivation, definition) if p))
         if not gloss:
             kjv = entry.find("kjv_def")
             gloss = _render_def(kjv) if kjv is not None else ""

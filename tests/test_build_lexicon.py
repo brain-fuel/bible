@@ -56,6 +56,16 @@ def test_missing_strong_returns_empty_lemma():
     assert e["glosses"]["en"] == []
 
 
+def test_sense_in_sync_with_primary_gloss():
+    e = build_entry("G0026", "grc", FAKE)
+    assert e["senses"][0]["gloss_en"] == e["glosses"]["en"][0]["text"]
+
+
+def test_only_english_gloss_key():
+    e = build_entry("G0026", "grc", FAKE)
+    assert set(e["glosses"].keys()) == {"en"}
+
+
 def test_hebrew_entry():
     fake_hbo = {
         "strongs-hebrew": {"H1254": {"lemma": "בָּרָא", "translit": "bârâʼ", "gloss": "to create", "root": None}},
