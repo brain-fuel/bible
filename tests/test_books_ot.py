@@ -30,3 +30,27 @@ def test_nt_rows_untouched():
     nt = [b for b in BOOKS if b["testament"] == "nt"]
     assert len(nt) == 27
     assert nt[0]["code"] == "MAT" and "greek_name" in nt[0]
+
+
+def _ot_books():
+    data = json.loads((ROOT / "data" / "books.json").read_text(encoding="utf-8"))
+    return [b for b in data["books"] if b["testament"] == "ot"]
+
+
+def test_all_ot_books_have_new_display_names():
+    for b in _ot_books():
+        assert b.get("douay_name"), f"{b['code']} missing douay_name"
+        assert b.get("finnish_name"), f"{b['code']} missing finnish_name"
+
+
+def test_display_name_spot_values():
+    by = {b["code"]: b for b in _ot_books()}
+    # Douay uses the Vulgate-style English titles (cf. latin_name).
+    assert by["1KI"]["douay_name"] == "3 Kings"
+    assert by["1CH"]["douay_name"] == "1 Paralipomenon"
+    assert by["HOS"]["douay_name"] == "Osee"
+    assert by["SOS"]["douay_name"] == "Canticle of Canticles"
+    # Finnish standard book names.
+    assert by["GEN"]["finnish_name"] == "1. Mooseksen kirja"
+    assert by["PSA"]["finnish_name"] == "Psalmit"
+    assert by["MAL"]["finnish_name"] == "Malakia"
