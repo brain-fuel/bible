@@ -230,7 +230,7 @@ def validate(testament: str) -> dict:
 def main() -> None:
     if len(sys.argv) < 2:
         print("Usage: python -m tools.validate_morph <testament>")
-        print("  testament: nt")
+        print("  testament: nt | ot")
         sys.exit(1)
 
     testament = sys.argv[1].lower()

@@ -296,8 +296,6 @@ def _heb_get_func(seg: str) -> str:
     """
     if len(seg) >= 2 and seg[:2] in _HBO_T2:
         return seg[:2]
-    if len(seg) >= 2 and seg[:2] == "Rd":
-        return "Rd"
     return seg[:1] if seg else ""
 
 

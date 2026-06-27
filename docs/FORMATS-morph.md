@@ -395,9 +395,12 @@ feminine singular absolute.
 - `V` = Verb
 - Stem: `q`=Qal, `N`=Niphal, `p`=Piel, `P`=Pual, `h`=Hiphil, `H`=Hophal,
   `t`=Hithpael, `A`=Aphel (Aramaic), etc.
-- Form: `p`=Perfect, `q`=Imperfect, `i`=Imperative, `r`=Participle active,
-  `s`=Participle passive, `a`=Infinitive absolute, `c`=Infinitive construct,
-  `w`=Sequential perfect, `o`=Conjunction+imperfect
+- Form (per the TEHMC.txt reference codes):
+  `p`=Perfect (qatal), `q`=Sequential perfect (weqatal),
+  `i`=Imperfect (yiqtol), `w`=Sequential imperfect (wayyiqtol),
+  `j`=Jussive, `v`=Imperative, `u`=Conjunction+imperfect,
+  `r`=Participle active, `s`=Participle passive,
+  `a`=Infinitive absolute, `c`=Infinitive construct
 - Person: `1`, `2`, `3`
 - Gender: `m`/`f`/`c`
 - Number: `s`/`p`/`d`

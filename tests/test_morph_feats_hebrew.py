@@ -327,3 +327,38 @@ def test_aramaic_verb_peil_passive():
     upos, feats = decode("AVQp3ms", "hbo")
     assert upos == "VERB"
     assert "HebBinyan=Peil" in feats
+
+
+# ---------------------------------------------------------------------------
+# Doc-table lock: cohortative, ADV, and u-form (conjunction+imperfect).
+# These pin the form codes whose meanings are documented in FORMATS-morph.md
+# so the table and the implementation cannot silently diverge.
+# ---------------------------------------------------------------------------
+
+def test_verb_cohortative_qal_1cs():
+    """Cohortative ('c'+person) Qal 1st common singular — Mood=Coh, finite, Fut."""
+    upos, feats = decode("HVqc1cs", "hbo")
+    assert upos == "VERB"
+    assert "Mood=Coh" in feats
+    assert "VerbForm=Fin" in feats
+    assert "Tense=Fut" in feats
+    assert "Person=1" in feats
+    assert "HebBinyan=Qal" in feats
+
+
+def test_standalone_adverb_is_adv():
+    """Adverb function code 'D' decodes to ADV."""
+    upos, feats = decode("HD", "hbo")
+    assert upos == "ADV"
+    assert feats == "_"
+
+
+def test_verb_conjunction_imperfect_uform_3ms():
+    """u-form (conjunction+imperfect) Qal 3ms — finite future, no Cons aspect."""
+    upos, feats = decode("HVqu3ms", "hbo")
+    assert upos == "VERB"
+    assert "VerbForm=Fin" in feats
+    assert "Tense=Fut" in feats
+    assert "Person=3" in feats
+    assert "HebBinyan=Qal" in feats
+    assert "Aspect=Cons" not in feats
