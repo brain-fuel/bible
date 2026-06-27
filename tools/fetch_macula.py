@@ -54,6 +54,36 @@ GRC_SOURCE_LABEL = "ln-map"    # Louw-Nida via MACULA Greek Nestle1904 TSV (CC-B
 HBO_SOURCE_LABEL = "sdbh"      # SDBH LexDomain via MACULA Hebrew WLC nodes (CC-BY 4.0)
 
 # ---------------------------------------------------------------------------
+# Atomization
+# ---------------------------------------------------------------------------
+
+def atomize_codes(raw):
+    """Split raw domain value(s) into atomic codes.
+
+    MACULA stores MULTIPLE domain codes per word as a single space-separated
+    string in the Hebrew `LexDomain` attribute (e.g. "001001001 002001001034")
+    and in the Greek `ln` cell (e.g. "25.43 25.44"). Storing such a compound
+    string as one "domain" produces a unique-to-one-entry key that can never
+    cluster. This splits on whitespace AND commas, strips, and drops empties so
+    every stored domain is a single atomic code.
+
+    Accepts a string or an iterable of strings; returns a sorted list of atomic
+    codes with no whitespace-containing or empty entries.
+    """
+    if isinstance(raw, str):
+        raw = [raw]
+    out: set = set()
+    for value in raw:
+        if not value:
+            continue
+        for code in re.split(r"[\s,]+", value):
+            code = code.strip()
+            if code:
+                out.add(code)
+    return sorted(out)
+
+
+# ---------------------------------------------------------------------------
 # Greek domain map (Louw-Nida) from TSV
 # ---------------------------------------------------------------------------
 
@@ -81,10 +111,9 @@ def build_grc_domain_map(tsv_path: str | Path) -> dict[str, list[str]]:
             except ValueError:
                 continue
             strong_id = f"G{snum:04d}"
-            for code in ln_raw.split():
-                code = code.strip()
-                if code:
-                    result.setdefault(strong_id, set()).add(code)
+            # Atomize: an ln cell may hold several LN refs ("25.43 25.44").
+            for code in atomize_codes(ln_raw):
+                result.setdefault(strong_id, set()).add(code)
     return {k: sorted(v) for k, v in result.items()}
 
 
@@ -128,7 +157,9 @@ def _extract_from_xml_bytes(content: bytes) -> dict[str, set]:
         strong_id = _normalize_hbo_strong(raw_strong)
         if strong_id is None:
             continue
-        pairs.setdefault(strong_id, set()).add(lex_domain)
+        # Atomize: a LexDomain attr may hold several codes ("001001001 004003").
+        for code in atomize_codes(lex_domain):
+            pairs.setdefault(strong_id, set()).add(code)
     return pairs
 
 
@@ -196,10 +227,21 @@ def build_hbo_domain_map(
 # Cache load/save helpers
 # ---------------------------------------------------------------------------
 
+def atomize_map(domain_map: dict) -> dict:
+    """Re-atomize every value list in a {Strong: [codes]} map.
+
+    Defensive pass so a previously-cached map that still contains compound
+    space-separated codes (built before the atomization fix) is cleaned on load
+    without re-downloading the upstream MACULA data. Idempotent on already-atomic
+    maps.
+    """
+    return {strong: atomize_codes(codes) for strong, codes in domain_map.items()}
+
+
 def load_cached_map(cache_path: Path) -> Optional[dict]:
     if cache_path.exists():
         with open(cache_path, encoding="utf-8") as f:
-            return json.load(f)
+            return atomize_map(json.load(f))
     return None
 
 

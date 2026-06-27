@@ -54,6 +54,37 @@ def test_attach_domains_sorted():
     assert out["domains"] == ["25.43", "25.44"]
 
 
+def test_attach_domains_atomizes_compound_codes():
+    """A compound 'a b c' domain value is split into atomic codes."""
+    entry = {
+        "strong": "H0430",
+        "domains": [],
+        "senses": [{"id": 1, "gloss_en": "God"}],
+        "sources": ["strongs-hebrew"],
+    }
+    # MACULA-style compound LexDomain values mixed with atomic ones
+    dmap = {"H0430": ["001001001", "001001001 001001001", "004003 001001001"]}
+    out = attach_domains(entry, dmap)
+    assert out["domains"] == ["001001001", "004003"]
+    # no domain contains a space
+    assert all(" " not in d for d in out["domains"])
+    assert "sdbh" in out["sources"]
+
+
+def test_attach_domains_atomizes_greek_compound():
+    """Greek compound 'ln' values split into atomic LN refs."""
+    entry = {
+        "strong": "G0025",
+        "domains": [],
+        "senses": [{"id": 1, "gloss_en": "to love"}],
+        "sources": ["strongs-greek"],
+    }
+    dmap = {"G0025": ["25.43 25.44", "25.104"]}
+    out = attach_domains(entry, dmap)
+    assert out["domains"] == ["25.104", "25.43", "25.44"]
+    assert all(" " not in d for d in out["domains"])
+
+
 def test_attach_domains_idempotent():
     """Calling twice does not duplicate source entries."""
     entry = {

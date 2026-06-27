@@ -132,10 +132,13 @@ def attach_domains(entry: dict, domain_map: dict) -> dict:
                     Hebrew codes are SDBH LexDomain codes ("002003003004").
 
     Behaviour:
-        - Sets entry["domains"] = sorted list of domain codes for this strong.
-        - Appends the source label ("macula-ln" for Greek, "macula-sdbh" for
-          Hebrew) to entry["sources"] if not already present and if domains
-          were actually found.
+        - Sets entry["domains"] = sorted list of ATOMIC domain codes for this
+          strong. MACULA stores multiple codes per word as a single
+          space-separated string ("001001001 004003"); these are split into
+          atomic codes so a domain is always a single clusterable key, never a
+          unique-to-one-entry compound string.
+        - Appends the source label ("ln-map" for Greek, "sdbh" for Hebrew) to
+          entry["sources"] if not already present and if domains were found.
         - Does NOT fabricate domains: if strong is not in domain_map, domains
           stays an empty list and no source label is added.
 
@@ -147,7 +150,19 @@ def attach_domains(entry: dict, domain_map: dict) -> dict:
     if not codes:
         return entry
 
-    entry["domains"] = sorted(codes)
+    # Atomize defensively: split any space/comma-separated compound code so the
+    # stored domains are single atomic codes only (no whitespace in any entry).
+    atomic: set = set()
+    raw_codes = [codes] if isinstance(codes, str) else codes
+    for value in raw_codes:
+        for code in re.split(r"[\s,]+", value or ""):
+            code = code.strip()
+            if code:
+                atomic.add(code)
+    if not atomic:
+        return entry
+
+    entry["domains"] = sorted(atomic)
 
     # Choose source label by language prefix.
     # Greek  → "ln-map"  (Louw-Nida, MACULA Greek Nestle1904 TSV, CC-BY 4.0)
