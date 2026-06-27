@@ -26,9 +26,11 @@ NONBASE = tuple(eid for eid in BODY if eid != BASE_ID)
 
 TOTAL_OT_VERSES = 23145
 # Verses where a non-base edition is genuinely absent (no text at any position).
-EXPECTED_ABSENT = {"latin_vulgate": 10, "hebrew_masoretic": 0}
+EXPECTED_ABSENT = {"latin_vulgate": 10, "hebrew_masoretic": 0,
+                   "douay_rheims": 13, "finnish_biblia": 0}
 # Verses relocated by versification divergence (a recorded src pointer).
-EXPECTED_SRC = {"latin_vulgate": 2835, "hebrew_masoretic": 1971}
+EXPECTED_SRC = {"latin_vulgate": 2835, "hebrew_masoretic": 1971,
+                "douay_rheims": 2835, "finnish_biblia": 0}
 
 # (code, kjv_chapter, kjv_verse, expected hebrew src "chap:verse")
 ALIGNMENT_ORACLES = [

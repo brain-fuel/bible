@@ -1,14 +1,22 @@
-from tools.validate_ot import validate_chapter_ot, EXPECTED_ABSENT, BODY, BASE_ID
+from tools.validate_ot import validate_chapter_ot, EXPECTED_ABSENT, EXPECTED_SRC, BODY, BASE_ID
 
 GOOD = {"book_id":"GEN","latin_name":"L","hebrew_name":"H","english_name":"E",
         "chapter":1,"verses":[
-            {"verse":1,"latin_vulgate":"a","hebrew_masoretic":"x","king_james":"k"},
-            {"verse":2,"latin_vulgate":"b","hebrew_masoretic":"y","king_james":"m"}]}
+            {"verse":1,"latin_vulgate":"a","hebrew_masoretic":"x","douay_rheims":"d","finnish_biblia":"f","king_james":"k"},
+            {"verse":2,"latin_vulgate":"b","hebrew_masoretic":"y","douay_rheims":"e","finnish_biblia":"g","king_james":"m"}]}
 
 
 def test_body_is_registry_driven_base_last():
-    assert BODY == ("latin_vulgate", "hebrew_masoretic", "king_james")
+    assert BODY == ("latin_vulgate", "hebrew_masoretic", "douay_rheims",
+                    "finnish_biblia", "king_james")
     assert BASE_ID == "king_james"
+
+
+def test_expected_values_for_new_editions():
+    assert EXPECTED_ABSENT["finnish_biblia"] == 0
+    assert EXPECTED_SRC["finnish_biblia"] == 0
+    assert EXPECTED_ABSENT["douay_rheims"] == 13
+    assert EXPECTED_SRC["douay_rheims"] == 2835
 
 
 def test_clean_chapter_ok():
@@ -69,7 +77,7 @@ def test_malformed_src_flagged():
 
 
 def test_well_formed_src_ok():
-    verses = [{"verse":1,"latin_vulgate":"a","hebrew_masoretic":"x","king_james":"k",
+    verses = [{"verse":1,"latin_vulgate":"a","hebrew_masoretic":"x","douay_rheims":"d","finnish_biblia":"f","king_james":"k",
                "refs":{"hebrew_masoretic":{"src":"3:2"}}}]
     assert validate_chapter_ot({**GOOD, "verses": verses}) == []
 
