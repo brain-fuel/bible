@@ -225,7 +225,7 @@ if __name__ == "__main__":
     import glob
 
     raw_dir = ROOT / "data" / "cache" / "morph" / "raw"
-    out_path = ROOT / "data" / "cache" / "morph" / "heb.tsv"
+    out_path = ROOT / "data" / "cache" / "morph" / "hbo.tsv"
 
     all_rows = []
     for raw_file in sorted(glob.glob(str(raw_dir / "TAHOT_*.txt"))):

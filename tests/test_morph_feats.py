@@ -362,27 +362,30 @@ def test_greek_verb_future_perfect_active_indicative():
 
 
 # ---------------------------------------------------------------------------
-# Hebrew stub
+# Hebrew (Task 6: real FEATS, not stub "_")
 # ---------------------------------------------------------------------------
+# The following tests were originally stub placeholders (feats == "_").
+# Task 6 implements full TAHOT feature decoding; these now assert real values.
 
 def test_hebrew_noun_stub_upos():
-    # "Ncfsa" = Noun common feminine singular absolute (Task 6 decodes details)
+    # Ncfsa = Noun common feminine singular absolute
     upos, feats = decode("Ncfsa", "hbo")
     assert upos == "NOUN"
-    assert feats == "_"
+    assert feats == "Gender=Fem|Number=Sing|State=Abs"
 
 
 def test_hebrew_verb_stub_upos():
-    # "Vqp3ms" = Verb Qal Perfect 3rd Masculine Singular
+    # Vqp3ms = Verb Qal Perfect 3ms
     upos, feats = decode("Vqp3ms", "hbo")
     assert upos == "VERB"
-    assert feats == "_"
+    assert feats == "Gender=Masc|HebBinyan=Qal|Number=Sing|Person=3|Tense=Past|VerbForm=Fin"
 
 
 def test_hebrew_adjective_stub():
+    # Amsa = Adjective masculine singular absolute (3-char form, no subtype)
     upos, feats = decode("Amsa", "hbo")
     assert upos == "ADJ"
-    assert feats == "_"
+    assert feats == "Gender=Masc|Number=Sing|State=Abs"
 
 
 def test_hebrew_preposition_stub():
@@ -410,23 +413,24 @@ def test_hebrew_article_stub():
 
 
 def test_hebrew_suffix_stub():
+    # Sp3ms = pronominal suffix personal 3rd masc sing (standalone segment)
     upos, feats = decode("Sp3ms", "hbo")
     assert upos == "PRON"
-    assert feats == "_"
+    assert feats == "Gender=Masc|Number=Sing|Person=3"
 
 
 def test_hebrew_with_language_prefix_H():
-    # Raw TAHOT value includes H prefix; decoder must handle it
+    # H prefix: same result as bare Vqp3ms
     upos, feats = decode("HVqp3ms", "hbo")
     assert upos == "VERB"
-    assert feats == "_"
+    assert feats == "Gender=Masc|HebBinyan=Qal|Number=Sing|Person=3|Tense=Past|VerbForm=Fin"
 
 
 def test_hebrew_with_language_prefix_A():
-    # Aramaic prefix A
+    # Aramaic prefix A + uppercase N -> strip -> Ncmsa
     upos, feats = decode("ANcmsa", "hbo")
     assert upos == "NOUN"
-    assert feats == "_"
+    assert feats == "Gender=Masc|Number=Sing|State=Abs"
 
 
 # ---------------------------------------------------------------------------

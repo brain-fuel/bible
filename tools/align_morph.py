@@ -22,7 +22,7 @@ ROOT = Path(__file__).resolve().parents[1]
 # Includes:  . , ; :  ·(U+00B7 middle dot)  ¶(U+00B6 pilcrow, STEPBible appends
 # .¶/;¶ on paragraph-final words)  ;(U+037E Greek question mark)  ·(U+0387 ano
 # teleia)  ‘ ’(U+2018/U+2019 curly quotes, elision/koronis)  ' " ? !  [ ]
-_PUNCT = re.compile(r"[\.,;:·¶;·‘’'\"?!\[\]]")
+_PUNCT = re.compile(r"[\.,;:·¶;·‘’'\"?!\[\]־׃\\/]")
 
 # Bounded source-skip lookahead window for matcher resync.
 _LOOKAHEAD = 2

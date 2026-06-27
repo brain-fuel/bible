@@ -45,6 +45,24 @@ EXPECTED_NT_UNMATCHED = 6615    # 4.70% genuine TR/STEPBible surface divergence
 EXPECTED_NT_SRC_EXTRA = 3549
 EXPECTED_NT_MISSING_STRONG = 6615  # unmatched tokens lack Strong= by design
 
+# ---------------------------------------------------------------------------
+# Pinned expected constants for the OT.
+# Observed from the Task-6 generation run over the full 39-book Hebrew OT.
+# Unmatched (4.74%) is caused by three known sources:
+#   1. Ketiv/Qere variants: TAHOT follows Q (Qere) but L0 occasionally has
+#      slightly different pointing that resists normalization.
+#   2. Compound word segmentation: a few multi-morpheme compounds where the
+#      TAHOT surface even after slash-stripping doesn't match the L0 surface
+#      (e.g. pronominal suffixes on rare verb forms, hapax morphology).
+#   3. Restored/LXX-extra words (type R, X in TAHOT) that have no L0 parallel.
+# missing_strong == unmatched: only unmatched tokens lack Strong=.
+# ---------------------------------------------------------------------------
+EXPECTED_OT_VERSES = 23145
+EXPECTED_OT_TOKENS = 312079
+EXPECTED_OT_UNMATCHED = 14794   # 4.74% genuine WLC/TAHOT surface divergence
+EXPECTED_OT_SRC_EXTRA = 7889
+EXPECTED_OT_MISSING_STRONG = 14794  # unmatched tokens lack Strong= by design
+
 
 def reconcile_form(form: str, l0_text: str) -> bool:
     """Return True if *form* appears as a word in *l0_text* (normalized comparison).
@@ -74,6 +92,11 @@ def _load_nt_books() -> list:
     return [b for b in data["books"] if b["testament"] == "nt"]
 
 
+def _load_ot_books() -> list:
+    data = json.loads((ROOT / "data" / "books.json").read_text(encoding="utf-8"))
+    return [b for b in data["books"] if b["testament"] == "ot"]
+
+
 def _load_morph_sources() -> dict:
     """Return dict mapping testament -> lang entry dict."""
     registry = json.loads((ROOT / "data" / "morph-sources.json").read_text(encoding="utf-8"))
@@ -93,8 +116,10 @@ def validate(testament: str) -> dict:
 
     if testament == "nt":
         books = _load_nt_books()
+    elif testament == "ot":
+        books = _load_ot_books()
     else:
-        raise NotImplementedError(f"validate() only supports 'nt' for now; got '{testament}'")
+        raise NotImplementedError(f"validate() only supports 'nt' and 'ot'; got '{testament}'")
 
     total_verses = 0
     total_tokens = 0
@@ -244,6 +269,27 @@ def main() -> None:
         if result["missing_strong"] != EXPECTED_NT_MISSING_STRONG:
             errors.append(
                 f"missing_strong {result['missing_strong']} != expected {EXPECTED_NT_MISSING_STRONG}"
+            )
+    elif testament == "ot":
+        if result["verses"] != EXPECTED_OT_VERSES:
+            errors.append(
+                f"verses {result['verses']} != expected {EXPECTED_OT_VERSES}"
+            )
+        if result["tokens"] != EXPECTED_OT_TOKENS:
+            errors.append(
+                f"tokens {result['tokens']} != expected {EXPECTED_OT_TOKENS}"
+            )
+        if result["unmatched"] != EXPECTED_OT_UNMATCHED:
+            errors.append(
+                f"unmatched {result['unmatched']} != expected {EXPECTED_OT_UNMATCHED}"
+            )
+        if result["source_extra"] != EXPECTED_OT_SRC_EXTRA:
+            errors.append(
+                f"source_extra {result['source_extra']} != expected {EXPECTED_OT_SRC_EXTRA}"
+            )
+        if result["missing_strong"] != EXPECTED_OT_MISSING_STRONG:
+            errors.append(
+                f"missing_strong {result['missing_strong']} != expected {EXPECTED_OT_MISSING_STRONG}"
             )
     else:
         print(f"WARNING: No pinned constants for testament '{testament}'; skipping pin check.")

@@ -1,4 +1,4 @@
-"""Task 3: Morph-code → (UPOS, FEATS) decoder.
+"""Task 3: Morph-code -> (UPOS, FEATS) decoder.
 
 Entry point
 -----------
@@ -14,23 +14,41 @@ Greek decoder
 Implements the full TAGNT morph-code scheme (Robinson / TEGMC).
 POS codes covered: N, A, T, V, P, R, D, I, CONJ, PREP, PRT-N, ADV, INJ.
 
-Hebrew decoder
---------------
-Minimal stub (Task 6 adds feature decoding): maps the leading function
-character to a UPOS and always returns feats="_".
+Hebrew / Aramaic decoder  (Task 6)
+-----------------------------------
+Implements the full TAHOT morph-code scheme (TEHMC / OpenScriptures).
+Codes are slash-separated for compound (clitic) words; the head morpheme
+is the first segment whose function code is NOT a proclitic prefix
+(C, c, R, Rd, T, Td, To) and NOT a pronominal suffix (S).  For single-
+segment tokens the segment IS the head and is decoded directly.
 
 FEATS vocabulary
 ----------------
-Keys  : Case, Degree, Gender, Mood, Number, Person, Tense, Voice
-Values:
-  Case   – Acc Dat Gen Nom Voc
-  Degree – Cmp Sup
-  Gender – Fem Masc Neut
-  Mood   – Imp Ind Inf Opt Part Sub
-  Number – Dual Plur Sing
-  Person – 1 2 3
-  Tense  – Aor Fut FutPerf Impf Perf Plup Pres
-  Voice  – Act Mid Pass
+Greek keys  : Case, Degree, Gender, Mood, Number, Person, Tense, Voice
+Greek values:
+  Case   - Acc Dat Gen Nom Voc
+  Degree - Cmp Sup
+  Gender - Fem Masc Neut
+  Mood   - Imp Ind Inf Opt Part Sub
+  Number - Dual Plur Sing
+  Person - 1 2 3
+  Tense  - Aor Fut FutPerf Impf Perf Plup Pres
+  Voice  - Act Mid Pass
+
+Hebrew keys : Aspect, Gender, HebBinyan, Mood, Number, Person, State, Tense,
+              VerbForm, Voice
+Hebrew values:
+  Aspect    - Abs (inf. absolute), Cons (consecutive/sequential)
+  Gender    - Com Fem Masc
+  HebBinyan - Qal Nif Piel Pual Hif Hof Htpa Htpaal Nithpa Tif
+               Aph Shaph Peil Ithpeel Hitpeel Ishtaph  (verb stem)
+  Mood      - Coh (cohortative) Imp (imperative) Jus (jussive)
+  Number    - Dual Plur Sing
+  Person    - 1 2 3
+  State     - Abs Cns Def
+  Tense     - Fut Past
+  VerbForm  - Fin Inf Part
+  Voice     - Act Pass
 """
 
 # ---------------------------------------------------------------------------
@@ -218,38 +236,367 @@ def _decode_greek(xpos: str) -> tuple[str, str]:
 
 
 # ---------------------------------------------------------------------------
-# Hebrew stub decoder (Task 6 adds full feature decoding)
+# Hebrew / Aramaic decoder  (Task 6)
 # ---------------------------------------------------------------------------
 
-# Map TAHOT function character → UPOS
-_HBO_POS: dict[str, str] = {
-    "N": "NOUN",
-    "V": "VERB",
-    "A": "ADJ",
-    "P": "PRON",
-    "R": "ADP",
-    "C": "CCONJ",
-    "c": "CCONJ",   # consecutive conjunction
-    "D": "ADV",
-    "T": "DET",
-    "S": "PRON",    # pronominal suffix
+# Function codes that are TWO characters and need special recognition.
+# All recognised 2-char T-family codes are listed here; only Td, To (plus the
+# standalone R compound Rd) are proclitics.  The remaining T-subtypes (Tc, Tn,
+# Ti, Tm, Tj, Tr, Ta) are head morphemes in their own right.
+_HBO_T2 = frozenset({"Rd", "Ta", "Tc", "Td", "Ti", "Tj", "Tm", "Tn", "To", "Tr"})
+
+# Function codes that mark proclitic prefixes or pronominal suffixes
+# (non-head in a compound word).  S is listed here but is decoded when
+# it appears as a standalone single-segment token.
+_HBO_PROCLITICS = frozenset({"C", "c", "R", "Rd", "S", "T", "Td", "To"})
+
+# Verb stem code -> HebBinyan label
+_HBO_STEM: dict[str, str] = {
+    # Hebrew stems
+    "q": "Qal",    "N": "Nif",   "p": "Piel",    "P": "Pual",
+    "h": "Hif",    "H": "Hof",   "t": "Htpa",    "u": "Htpaal",
+    "D": "Nithpa", "c": "Tif",
+    # Aramaic stems (appear in Daniel / Ezra / Nehemiah portions)
+    "a": "Aph",    "e": "Shaph", "Q": "Peil",    "M": "Ithpeel",
+    "i": "Hitpeel","v": "Ishtaph",
 }
+
+# Verb finite-form codes -> (VerbForm, Tense, Mood, Aspect)
+# None means the feature is not set.
+_HBO_VFORM_FIN: dict[str, tuple] = {
+    "p": ("Fin", "Past", None,  None),   # Perfect
+    "i": ("Fin", "Fut",  None,  None),   # Imperfect (indicative/jussive ambiguous)
+    "j": ("Fin", "Fut",  "Jus", None),   # Jussive
+    "n": ("Fin", "Fut",  None,  None),   # Imperfect Indicative (theoretical)
+    "v": ("Fin", None,   "Imp", None),   # Imperative
+    "w": ("Fin", "Past", None,  "Cons"), # Consecutive Imperfect (wayyiqtol)
+    "q": ("Fin", "Fut",  None,  "Cons"), # Consecutive Perfect (weqatal)
+    "u": ("Fin", "Fut",  None,  None),   # Conjunction+Imperfect
+}
+
+# Gender codes (shared by nouns, adjectives, verbs, pronouns)
+_HBO_GENDER: dict[str, str] = {
+    "m": "Masc", "f": "Fem", "b": "Com", "c": "Com",
+}
+
+# Number codes
+_HBO_NUMBER: dict[str, str] = {"s": "Sing", "p": "Plur", "d": "Dual"}
+
+# State codes (absolute / construct / Aramaic definite)
+_HBO_STATE: dict[str, str] = {"a": "Abs", "c": "Cns", "d": "Def"}
+
+# Adjective form-subtype codes (first char of adjective rest)
+_HBO_ADJ_FORM = frozenset({"a", "c", "o"})
+
+
+def _heb_get_func(seg: str) -> str:
+    """Return the 1- or 2-character function code from a stripped segment.
+
+    Two-character codes (Rd and the T-family) are recognised first.
+    """
+    if len(seg) >= 2 and seg[:2] in _HBO_T2:
+        return seg[:2]
+    if len(seg) >= 2 and seg[:2] == "Rd":
+        return "Rd"
+    return seg[:1] if seg else ""
+
+
+def _heb_strip_prefix(seg: str) -> str:
+    """Strip the TAHOT language prefix (H=Hebrew, A=Aramaic).
+
+    H is always the Hebrew language prefix; strip it unconditionally when
+    followed by any character (including lowercase 'c' = consecutive conj).
+
+    A is ambiguous: when followed by an UPPERCASE function-code letter it is
+    the Aramaic language prefix; when followed by a lowercase letter it IS
+    the Adjective function code (e.g. 'Amsa').
+    """
+    if len(seg) < 2:
+        return seg
+    if seg[0] == "H":
+        return seg[1:]
+    if seg[0] == "A" and seg[1].isupper():
+        return seg[1:]
+    return seg
+
+
+def _decode_heb_noun(rest: str) -> tuple[str, str]:
+    """Decode noun after N function code.
+
+    Format: subtype(c=common, p=proper) + gender + number + state  (4 chars).
+    Subtype p -> PROPN; for proper nouns, number/state may be absent.
+    """
+    if not rest:
+        return "NOUN", "_"
+    subtype = rest[0]
+    upos = "PROPN" if subtype == "p" else "NOUN"
+    d: dict = {}
+    if len(rest) >= 2:
+        g = _HBO_GENDER.get(rest[1])
+        if g:
+            d["Gender"] = g
+    if len(rest) >= 3:
+        n = _HBO_NUMBER.get(rest[2])
+        if n:
+            d["Number"] = n
+    if len(rest) >= 4:
+        st = _HBO_STATE.get(rest[3])
+        if st:
+            d["State"] = st
+    return upos, _feats(d)
+
+
+def _decode_heb_adj(rest: str) -> tuple[str, str]:
+    """Decode adjective after A function code.
+
+    Real TAHOT format: form-subtype(a/c/o) + gender + number + state (4 chars).
+    Backward-compat 3-char format (no subtype): gender + number + state.
+    """
+    d: dict = {}
+    # Determine starting position: skip form-subtype if present
+    if rest and rest[0] in _HBO_ADJ_FORM and len(rest) >= 4:
+        start = 1  # skip subtype
+    else:
+        start = 0  # direct gender+number+state
+    if len(rest) > start:
+        g = _HBO_GENDER.get(rest[start])
+        if g:
+            d["Gender"] = g
+    if len(rest) > start + 1:
+        n = _HBO_NUMBER.get(rest[start + 1])
+        if n:
+            d["Number"] = n
+    if len(rest) > start + 2:
+        st = _HBO_STATE.get(rest[start + 2])
+        if st:
+            d["State"] = st
+    return "ADJ", _feats(d)
+
+
+def _decode_heb_verb(rest: str) -> tuple[str, str]:
+    """Decode verb after V function code.
+
+    Format: stem(1) + form(1) + suffix.
+    Finite suffix:        person(1) + gender(1) + number(1).
+    Participle suffix:    gender(1) + number(1) + state(1).
+    Infinitive suffix:    state(1).
+    Cohortative ('c'):    disambiguated by next char (digit=finite, else inf).
+    """
+    d: dict = {}
+    if not rest:
+        return "VERB", "_"
+
+    stem = _HBO_STEM.get(rest[0])
+    if stem:
+        d["HebBinyan"] = stem
+
+    if len(rest) < 2:
+        return "VERB", _feats(d)
+
+    form = rest[1]
+
+    # -- Participles ---------------------------------------------------
+    if form == "r":
+        d["VerbForm"] = "Part"
+        d["Voice"] = "Act"
+        if len(rest) >= 3:
+            g = _HBO_GENDER.get(rest[2])
+            if g:
+                d["Gender"] = g
+        if len(rest) >= 4:
+            n = _HBO_NUMBER.get(rest[3])
+            if n:
+                d["Number"] = n
+        if len(rest) >= 5:
+            st = _HBO_STATE.get(rest[4])
+            if st:
+                d["State"] = st
+        return "VERB", _feats(d)
+
+    if form == "s":
+        d["VerbForm"] = "Part"
+        d["Voice"] = "Pass"
+        if len(rest) >= 3:
+            g = _HBO_GENDER.get(rest[2])
+            if g:
+                d["Gender"] = g
+        if len(rest) >= 4:
+            n = _HBO_NUMBER.get(rest[3])
+            if n:
+                d["Number"] = n
+        if len(rest) >= 5:
+            st = _HBO_STATE.get(rest[4])
+            if st:
+                d["State"] = st
+        return "VERB", _feats(d)
+
+    # -- Infinitive Absolute -------------------------------------------
+    if form == "a":
+        d["VerbForm"] = "Inf"
+        if len(rest) >= 3:
+            st = _HBO_STATE.get(rest[2])
+            if st:
+                d["State"] = st
+        return "VERB", _feats(d)
+
+    # -- 'c': Cohortative (finite) or Infinitive Construct (non-finite) --
+    if form == "c":
+        next_ch = rest[2] if len(rest) >= 3 else ""
+        if next_ch in ("1", "2", "3"):
+            # Cohortative finite: person + gender + number
+            d["VerbForm"] = "Fin"
+            d["Tense"] = "Fut"
+            d["Mood"] = "Coh"
+            d["Person"] = next_ch
+            if len(rest) >= 4:
+                g = _HBO_GENDER.get(rest[3])
+                if g:
+                    d["Gender"] = g
+            if len(rest) >= 5:
+                n = _HBO_NUMBER.get(rest[4])
+                if n:
+                    d["Number"] = n
+        else:
+            # Infinitive Construct
+            d["VerbForm"] = "Inf"
+            if next_ch in _HBO_STATE:
+                d["State"] = _HBO_STATE[next_ch]
+        return "VERB", _feats(d)
+
+    # -- All other finite forms ----------------------------------------
+    info = _HBO_VFORM_FIN.get(form)
+    if info:
+        vf, tense, mood, aspect = info
+        d["VerbForm"] = vf
+        if tense:
+            d["Tense"] = tense
+        if mood:
+            d["Mood"] = mood
+        if aspect:
+            d["Aspect"] = aspect
+        # Finite suffix: person + gender + number
+        if len(rest) >= 3 and rest[2] in ("1", "2", "3"):
+            d["Person"] = rest[2]
+        if len(rest) >= 4:
+            g = _HBO_GENDER.get(rest[3])
+            if g:
+                d["Gender"] = g
+        if len(rest) >= 5:
+            n = _HBO_NUMBER.get(rest[4])
+            if n:
+                d["Number"] = n
+
+    return "VERB", _feats(d)
+
+
+def _decode_heb_pron(rest: str) -> tuple[str, str]:
+    """Decode pronoun after P function code.
+
+    Format: subtype(p=personal, i=interrogative) + person + gender + number.
+    """
+    d: dict = {}
+    if not rest or rest[0] != "p":
+        # Interrogative or empty: no person/gender/number feats
+        return "PRON", "_"
+    # Personal: p + person + gender + number
+    if len(rest) >= 2 and rest[1] in ("1", "2", "3"):
+        d["Person"] = rest[1]
+    if len(rest) >= 3:
+        g = _HBO_GENDER.get(rest[2])
+        if g:
+            d["Gender"] = g
+    if len(rest) >= 4:
+        n = _HBO_NUMBER.get(rest[3])
+        if n:
+            d["Number"] = n
+    return "PRON", _feats(d)
+
+
+def _decode_heb_suffix(rest: str) -> tuple[str, str]:
+    """Decode pronominal suffix after S function code (standalone segment).
+
+    Format: subtype + person + gender + number.
+    Non-personal subtypes (d=directional, h=paragogic-he, n=paragogic-nun)
+    have no person/gender/number feats.
+    """
+    d: dict = {}
+    if not rest or rest[0] != "p":
+        return "PRON", "_"
+    if len(rest) >= 2 and rest[1] in ("1", "2", "3"):
+        d["Person"] = rest[1]
+    if len(rest) >= 3:
+        g = _HBO_GENDER.get(rest[2])
+        if g:
+            d["Gender"] = g
+    if len(rest) >= 4:
+        n = _HBO_NUMBER.get(rest[3])
+        if n:
+            d["Number"] = n
+    return "PRON", _feats(d)
+
+
+def _decode_heb_head(seg: str) -> tuple[str, str]:
+    """Decode a language-prefix-stripped segment by its function code."""
+    func = _heb_get_func(seg)
+    rest = seg[len(func):]
+
+    if func == "N":
+        return _decode_heb_noun(rest)
+    if func == "A":
+        return _decode_heb_adj(rest)
+    if func == "V":
+        return _decode_heb_verb(rest)
+    if func == "D":
+        return "ADV", "_"
+    if func == "P":
+        return _decode_heb_pron(rest)
+    if func == "S":
+        return _decode_heb_suffix(rest)
+    if func in ("R", "Rd"):
+        return "ADP", "_"
+    if func in ("C", "c"):
+        return "CCONJ", "_"
+    if func in ("T", "Td", "Ta", "Tm"):
+        return "DET", "_"
+    if func == "To":
+        return "PART", "_"
+    if func == "Tn":
+        return "PART", "_"
+    if func in ("Tc", "Tr"):
+        return "SCONJ", "_"
+    if func == "Ti":
+        return "PART", "_"
+    if func == "Tj":
+        return "INTJ", "_"
+    return "X", "_"
 
 
 def _decode_hebrew(xpos: str) -> tuple[str, str]:
-    s = xpos
-    # Strip the TAHOT language prefix (H=Hebrew, A=Aramaic) only when the
-    # character that follows it is an uppercase function-code letter.
-    # This avoids misidentifying "A" = Adjective as a language prefix when
-    # the next character is a lowercase parsing letter (e.g. "Amsa").
-    if (
-        len(s) >= 2
-        and s[0] in ("H", "A")
-        and s[1].isupper()
-    ):
-        s = s[1:]
-    head = s[0] if s else ""
-    return _HBO_POS.get(head, "X"), "_"
+    """Decode a TAHOT morph code to (UPOS, FEATS).
+
+    Handles:
+    * Single-segment codes (e.g. HVqp3ms, HNcmpa, HR): decoded directly.
+    * Slash-separated compound codes (e.g. HC/Td/Ncfsa): head is the first
+      segment that is not a proclitic prefix (C, c, R, Rd, T, Td, To) and
+      not a pronominal suffix (S).  If no such segment is found the last
+      segment is decoded as fallback.
+    """
+    if "/" not in xpos:
+        # Single-segment: this IS the token head.
+        seg = _heb_strip_prefix(xpos)
+        return _decode_heb_head(seg)
+
+    # Multi-segment compound: find first non-proclitic / non-suffix segment.
+    parts = xpos.split("/")
+    for part in parts:
+        seg = _heb_strip_prefix(part)
+        func = _heb_get_func(seg)
+        if func and func not in _HBO_PROCLITICS:
+            return _decode_heb_head(seg)
+
+    # Fallback: decode last segment (e.g. all-proclitic edge case).
+    seg = _heb_strip_prefix(parts[-1])
+    return _decode_heb_head(seg)
 
 
 # ---------------------------------------------------------------------------
