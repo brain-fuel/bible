@@ -50,12 +50,17 @@ def _feats(d: dict) -> str:
 
 # POS codes that stand alone (no case/number/gender suffix)
 _GRC_FIXED: dict[str, tuple[str, str]] = {
-    "PREP": ("ADP",   "_"),
-    "CONJ": ("CCONJ", "_"),
-    "ADV":  ("ADV",   "_"),
-    "PRT-N": ("PART", "_"),
-    "PRT":   ("PART", "_"),
-    "INJ":   ("INTJ", "_"),
+    "PREP":    ("ADP",   "_"),
+    "CONJ":    ("CCONJ", "_"),
+    "CONJ-N":  ("CCONJ", "_"),
+    "COND":    ("SCONJ", "_"),   # εἰ/ἐάν conditional conjunction
+    "ADV":     ("ADV",   "_"),
+    "ADV-I":   ("ADV",   "_"),
+    "PRT-N":   ("PART",  "_"),
+    "PRT-I":   ("PART",  "_"),
+    "PRT":     ("PART",  "_"),
+    "INJ":     ("INTJ",  "_"),
+    "INJ-HEB": ("INTJ",  "_"),
 }
 
 # Inflected POS head → UPOS
@@ -187,6 +192,18 @@ def _decode_greek(xpos: str) -> tuple[str, str]:
         d = _decode_greek_verb(tvm_str, suffix)
 
     elif head in _GRC_POS:
+        # 1st/2nd person personal pronouns use Person-Case-Number order
+        # (no gender), e.g. P-1GS = Person 1, Gen, Sing; P-2DP = Person 2,
+        # Dat, Plur.  The Case letter D (Dative) would otherwise collide with
+        # the Dual number code under the CNG parser, so route these first.
+        if head == "P" and len(parts) >= 2 and parts[1][:1] in ("1", "2"):
+            pcn = parts[1]
+            d["Person"] = pcn[0]
+            if len(pcn) >= 2 and pcn[1] in _CASE:
+                d["Case"] = _CASE[pcn[1]]
+            if len(pcn) >= 3 and pcn[2] in _NUM:
+                d["Number"] = _NUM[pcn[2]]
+            return upos, _feats(d)
         # Nominal/adjectival/pronominal/article: second segment is CNG
         if len(parts) >= 2:
             _decode_cng(parts[1], d)

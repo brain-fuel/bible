@@ -146,6 +146,26 @@ def test_greek_interrogative_pronoun_gen_sg_masc():
     assert feats == "Case=Gen|Gender=Masc|Number=Sing"
 
 
+# 1st/2nd person personal pronouns: Person-Case-Number order, NO gender.
+def test_greek_first_person_pronoun_gen_sg():
+    # P-1GS = Person 1, Gen, Sing
+    assert decode("P-1GS", "grc") == ("PRON", "Case=Gen|Number=Sing|Person=1")
+
+
+def test_greek_second_person_pronoun_dat_pl():
+    # P-2DP = Person 2, Dat, Plur (D = Dative, NOT Dual)
+    assert decode("P-2DP", "grc") == ("PRON", "Case=Dat|Number=Plur|Person=2")
+
+
+def test_greek_first_person_pronoun_nom_pl():
+    assert decode("P-1NP", "grc") == ("PRON", "Case=Nom|Number=Plur|Person=1")
+
+
+def test_greek_third_person_pronoun_still_cng():
+    # P-GSM (no leading digit) stays on the CNG path with Gender
+    assert decode("P-GSM", "grc") == ("PRON", "Case=Gen|Gender=Masc|Number=Sing")
+
+
 # ---------------------------------------------------------------------------
 # Greek invariant POS (no features)
 # ---------------------------------------------------------------------------
@@ -164,6 +184,27 @@ def test_greek_negative_particle():
 
 def test_greek_interjection():
     assert decode("INJ", "grc") == ("INTJ", "_")
+
+
+def test_greek_conditional_conjunction():
+    # COND = εἰ/ἐάν conditional → subordinating conjunction
+    assert decode("COND", "grc") == ("SCONJ", "_")
+
+
+def test_greek_negative_conjunction():
+    assert decode("CONJ-N", "grc") == ("CCONJ", "_")
+
+
+def test_greek_hebrew_interjection():
+    assert decode("INJ-HEB", "grc") == ("INTJ", "_")
+
+
+def test_greek_interrogative_particle():
+    assert decode("PRT-I", "grc") == ("PART", "_")
+
+
+def test_greek_interrogative_adverb():
+    assert decode("ADV-I", "grc") == ("ADV", "_")
 
 
 # ---------------------------------------------------------------------------
