@@ -45,14 +45,17 @@ def _normalize_label(s):
 def parse_condensed(text):
     """Parse the #DataStart(Condensed) section.
 
-    Yields dicts with keys:
-        kjv   -- list of ref dicts (from expand)
-        hebrew -- list of ref dicts
-        latin  -- list of ref dicts
+    Returns a list of per-verse alignment dicts, each with keys:
+        kjv    -- a single ref dict (from expand) or None
+        hebrew -- a single ref dict or None
+        latin  -- a single ref dict or None
+    Ranges are expanded and zipped element-wise inside this function so that
+    each returned dict represents exactly one aligned verse triple.
     """
     lines = text.splitlines()
     in_condensed = False
     kjv_idx = heb_idx = lat_idx = None
+    result = []
 
     for line in lines:
         if not in_condensed:
@@ -110,11 +113,20 @@ def parse_condensed(text):
                 return []
             return expand(cells[idx].strip())
 
-        yield {
-            "kjv": _get(kjv_idx),
-            "hebrew": _get(heb_idx),
-            "latin": _get(lat_idx),
-        }
+        kjv_refs = _get(kjv_idx)
+        heb_refs = _get(heb_idx)
+        lat_refs = _get(lat_idx)
+
+        # Expand ranges and zip element-wise to produce one dict per verse.
+        for kjv_ref, heb_ref, lat_ref in itertools.zip_longest(
+                kjv_refs, heb_refs, lat_refs):
+            result.append({
+                "kjv": kjv_ref,
+                "hebrew": heb_ref,
+                "latin": lat_ref,
+            })
+
+    return result
 
 
 def build_map(text):
@@ -127,51 +139,49 @@ def build_map(text):
     result = {"hebrew": {}, "latin": {}}
     unmapped_books = set()
 
-    for row in parse_condensed(text):
-        kjv_refs = row["kjv"]
-        heb_refs = row["hebrew"]
-        lat_refs = row["latin"]
+    for entry in parse_condensed(text):
+        kjv_ref = entry["kjv"]
+        heb_ref = entry["hebrew"]
+        lat_ref = entry["latin"]
 
-        pairs = list(itertools.zip_longest(kjv_refs, heb_refs, lat_refs))
-        for kjv_ref, heb_ref, lat_ref in pairs:
-            # Skip absent/noverse/title entries on the KJV side
-            if kjv_ref is None:
-                continue
-            if kjv_ref.get("absent") or kjv_ref.get("noverse"):
-                continue
-            if kjv_ref.get("title"):
-                continue
+        # Skip absent/noverse/title entries on the KJV side
+        if kjv_ref is None:
+            continue
+        if kjv_ref.get("absent") or kjv_ref.get("noverse"):
+            continue
+        if kjv_ref.get("title"):
+            continue
 
-            book = kjv_ref.get("book")
-            canon = ABBR.get(book) if book else None
-            if not canon:
-                if book:
-                    unmapped_books.add(book)
-                continue
+        book = kjv_ref.get("book")
+        canon = ABBR.get(book) if book else None
+        if not canon:
+            if book:
+                unmapped_books.add(book)
+            continue
 
-            chap = kjv_ref["chapter"]
-            verse = kjv_ref["verse"]
-            kjv_key = f"{canon} {chap}:{verse}"
+        chap = kjv_ref["chapter"]
+        verse = kjv_ref["verse"]
+        kjv_key = f"{canon} {chap}:{verse}"
 
-            # Hebrew comparison
-            if (heb_ref is not None
-                    and not heb_ref.get("absent")
-                    and not heb_ref.get("noverse")
-                    and not heb_ref.get("title")):
-                if (heb_ref["chapter"] != chap or heb_ref["verse"] != verse):
-                    result["hebrew"][kjv_key] = (
-                        f"{heb_ref['chapter']}:{heb_ref['verse']}"
-                    )
+        # Hebrew comparison
+        if (heb_ref is not None
+                and not heb_ref.get("absent")
+                and not heb_ref.get("noverse")
+                and not heb_ref.get("title")):
+            if (heb_ref["chapter"] != chap or heb_ref["verse"] != verse):
+                result["hebrew"][kjv_key] = (
+                    f"{heb_ref['chapter']}:{heb_ref['verse']}"
+                )
 
-            # Latin comparison
-            if (lat_ref is not None
-                    and not lat_ref.get("absent")
-                    and not lat_ref.get("noverse")
-                    and not lat_ref.get("title")):
-                if (lat_ref["chapter"] != chap or lat_ref["verse"] != verse):
-                    result["latin"][kjv_key] = (
-                        f"{lat_ref['chapter']}:{lat_ref['verse']}"
-                    )
+        # Latin comparison
+        if (lat_ref is not None
+                and not lat_ref.get("absent")
+                and not lat_ref.get("noverse")
+                and not lat_ref.get("title")):
+            if (lat_ref["chapter"] != chap or lat_ref["verse"] != verse):
+                result["latin"][kjv_key] = (
+                    f"{lat_ref['chapter']}:{lat_ref['verse']}"
+                )
 
     if unmapped_books:
         known_nt = {
@@ -189,7 +199,12 @@ def build_map(text):
 
 
 def _fetch_tvtms():
-    """Fetch TVTMS file from STEPBible GitHub, using disk cache."""
+    """Fetch TVTMS file from STEPBible GitHub, using disk cache.
+
+    Does NOT reuse tools.fetch.fetch_cached: the TVTMS file has a UTF-8 BOM
+    and must be decoded with 'utf-8-sig' to strip it; fetch_cached uses plain
+    'utf-8' which would leave the BOM in the text and break header parsing.
+    """
     if CACHE_PATH.exists():
         return CACHE_PATH.read_text(encoding="utf-8")
 
@@ -208,7 +223,7 @@ def _fetch_tvtms():
     return raw
 
 
-if __name__ == "__main__":
+def main():
     text = _fetch_tvtms()
     m = build_map(text)
 
@@ -233,3 +248,9 @@ if __name__ == "__main__":
         encoding="utf-8",
     )
     print(f"Written: {OUT_PATH}", file=sys.stderr)
+    return 0
+
+
+if __name__ == "__main__":
+    import sys
+    sys.exit(main())
