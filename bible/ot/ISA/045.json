@@ -147,7 +147,12 @@
       "verse": 24,
       "latin_vulgate": " In Domino justificabitur, et laudabitur  omne semen Israël.  ",
       "hebrew_masoretic": "אַ֧ךְ בַּיהֹוָ֛ה לִ֥י אָמַ֖ר צְדָק֣וֹת וָעֹ֑ז עָדָיו֙ יָב֣וֹא וְיֵבֹ֔שׁוּ כֹּ֖ל הַנֶּחֱרִ֥ים בּֽוֹ׃",
-      "king_james": "Surely, shall one say, in the Lord have I righteousness and strength: even to him shall men come; and all that are incensed against him shall be ashamed."
+      "king_james": "Surely, shall one say, in the Lord have I righteousness and strength: even to him shall men come; and all that are incensed against him shall be ashamed.",
+      "refs": {
+        "latin_vulgate": {
+          "src": "45:25"
+        }
+      }
     },
     {
       "verse": 25,
@@ -155,7 +160,10 @@
       "hebrew_masoretic": "בַּיהֹוָ֛ה יִצְדְּק֥וּ וְיִֽתְהַלְל֖וּ כׇּל־זֶ֥רַע יִשְׂרָאֵֽל׃",
       "king_james": "In the Lord shall all the seed of Israel be justified, and shall glory. ",
       "refs": {
-        "latin_vulgate": "absent"
+        "latin_vulgate": {
+          "src": "45:26",
+          "absent": true
+        }
       }
     }
   ]

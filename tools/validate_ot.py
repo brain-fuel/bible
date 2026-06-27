@@ -1,14 +1,36 @@
-"""Structural validation and alignment oracles for the OT corpus."""
+"""Structural validation and alignment oracles for the OT corpus.
+
+Edition columns, the base, and absent/divergence semantics are derived from the
+edition registry, so this validator does not hardcode which texts exist. Refs
+are the normalized shape ``refs[<edition_id>] = {"src": "c:v", "absent": true}``.
+"""
 import json
 import sys
 from pathlib import Path
 
-ROOT = Path(__file__).resolve().parents[1]
-BODY = ("latin_vulgate", "hebrew_masoretic", "king_james")
-TOTAL_OT_VERSES = 23145
-EXPECTED_ABSENT = {"latin_vulgate": 10, "hebrew_masoretic": 0}
+from tools.editions import editions_for
 
-# (code, kjv_chapter, kjv_verse, expected hebrew "chap:verse")
+ROOT = Path(__file__).resolve().parents[1]
+
+
+def _ot_output_editions():
+    eds = editions_for("ot")
+    base = next(e for e in eds if e.get("base"))
+    out = [e for e in eds if not e.get("base")] + [base]
+    return out, base["id"]
+
+
+_OUT_EDS, BASE_ID = _ot_output_editions()
+BODY = tuple(e["id"] for e in _OUT_EDS)
+NONBASE = tuple(eid for eid in BODY if eid != BASE_ID)
+
+TOTAL_OT_VERSES = 23145
+# Verses where a non-base edition is genuinely absent (no text at any position).
+EXPECTED_ABSENT = {"latin_vulgate": 10, "hebrew_masoretic": 0}
+# Verses relocated by versification divergence (a recorded src pointer).
+EXPECTED_SRC = {"latin_vulgate": 2835, "hebrew_masoretic": 1971}
+
+# (code, kjv_chapter, kjv_verse, expected hebrew src "chap:verse")
 ALIGNMENT_ORACLES = [
     ("PSA", 3, 1, "3:2"),
     ("PSA", 3, 8, "3:9"),
@@ -29,21 +51,17 @@ def validate_chapter_ot(obj):
         errs.append(f"{tag}: verse numbers not contiguous from 1: {nums}")
     for v in verses:
         refs = v.get("refs") or {}
-        for key in BODY:
-            if not v.get(key):
-                # king_james is never absent -- always an error
-                if key == "king_james":
-                    errs.append(f"{tag}:{v.get('verse')}: empty {key}")
-                elif key == "latin_vulgate":
-                    if refs.get("latin_vulgate") != "absent":
-                        errs.append(f"{tag}:{v.get('verse')}: empty {key}")
-                elif key == "hebrew_masoretic":
-                    if refs.get("hebrew_masoretic_absent") is not True:
-                        errs.append(f"{tag}:{v.get('verse')}: empty {key}")
-        if refs:
-            hv = refs.get("hebrew_masoretic", "")
-            if hv and len(hv.split(":")) != 2:
-                errs.append(f"{tag}:{v.get('verse')}: malformed ref {hv}")
+        for eid in BODY:
+            if not v.get(eid):
+                # The base edition is never absent -- always an error.
+                if eid == BASE_ID:
+                    errs.append(f"{tag}:{v.get('verse')}: empty {eid}")
+                elif refs.get(eid, {}).get("absent") is not True:
+                    errs.append(f"{tag}:{v.get('verse')}: empty {eid}")
+        for eid, entry in refs.items():
+            src = entry.get("src", "")
+            if src and len(src.split(":")) != 2:
+                errs.append(f"{tag}:{v.get('verse')}: malformed src {src}")
     return errs
 
 
@@ -55,9 +73,9 @@ def _load_books():
 def main():
     errs = []
     total = 0
-    found_ref = {}
-    absent_latin = 0
-    absent_hebrew = 0
+    found_src = {}
+    absent = {eid: 0 for eid in NONBASE}
+    src_count = {eid: 0 for eid in NONBASE}
     for meta in _load_books():
         code = meta["code"]
         found = 0
@@ -72,32 +90,34 @@ def main():
             total += len(obj.get("verses", []))
             for v in obj.get("verses", []):
                 refs = v.get("refs") or {}
-                if "hebrew_masoretic" in refs:
-                    found_ref[(code, chapter, v["verse"])] = refs["hebrew_masoretic"]
-                if refs.get("latin_vulgate") == "absent":
-                    absent_latin += 1
-                if refs.get("hebrew_masoretic_absent") is True:
-                    absent_hebrew += 1
+                for eid, entry in refs.items():
+                    if eid not in absent:
+                        continue
+                    if entry.get("absent") is True:
+                        absent[eid] += 1
+                    if entry.get("src"):
+                        src_count[eid] += 1
+                        if eid == "hebrew_masoretic":
+                            found_src[(code, chapter, v["verse"])] = entry["src"]
         if found != meta["chapters"]:
             errs.append(f"{code}: expected {meta['chapters']} files, found {found}")
     if total != TOTAL_OT_VERSES:
         errs.append(f"total OT verses {total}, expected {TOTAL_OT_VERSES}")
-    if absent_latin != EXPECTED_ABSENT["latin_vulgate"]:
-        errs.append(
-            f"absent latin_vulgate count {absent_latin}, expected {EXPECTED_ABSENT['latin_vulgate']}"
-        )
-    if absent_hebrew != EXPECTED_ABSENT["hebrew_masoretic"]:
-        errs.append(
-            f"absent hebrew_masoretic count {absent_hebrew}, expected {EXPECTED_ABSENT['hebrew_masoretic']}"
-        )
+    for eid, expected in EXPECTED_ABSENT.items():
+        if absent.get(eid, 0) != expected:
+            errs.append(f"absent {eid} count {absent.get(eid, 0)}, expected {expected}")
+    for eid, expected in EXPECTED_SRC.items():
+        if src_count.get(eid, 0) != expected:
+            errs.append(f"src {eid} count {src_count.get(eid, 0)}, expected {expected}")
     for code, ch, v, expected in ALIGNMENT_ORACLES:
-        got = found_ref.get((code, ch, v))
+        got = found_src.get((code, ch, v))
         if got != expected:
             errs.append(f"alignment oracle {code} {ch}:{v}: expected hebrew {expected}, got {got}")
     for e in errs:
         print("ERROR:", e)
     print(f"OT validation: {len(errs)} error(s); {total} verses")
-    print(f"absent markers: latin_vulgate={absent_latin}, hebrew_masoretic={absent_hebrew}")
+    print(f"absent markers: {absent}")
+    print(f"src pointers: {src_count}")
     return 1 if errs else 0
 
 

@@ -107,7 +107,9 @@
       "hebrew_masoretic": "וַיָּ֣מׇת אִיּ֔וֹב זָקֵ֖ן וּשְׂבַ֥ע יָמִֽים׃",
       "king_james": "So Job died, being old and full of days.  ",
       "refs": {
-        "latin_vulgate": "absent"
+        "latin_vulgate": {
+          "absent": true
+        }
       }
     }
   ]

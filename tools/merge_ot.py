@@ -1,4 +1,11 @@
-"""Merge KJV base with Latin and Hebrew editions into OT chapter objects."""
+"""Merge registry editions into OT chapter objects, driven by the edition registry.
+
+The base edition (KJV) defines verse positions. Every other edition's text is
+placed at the base position it corresponds to; when its source versification
+diverges, the source "chapter:verse" is recorded in ``refs[<edition_id>].src``.
+Empty text is recorded as ``refs[<edition_id>].absent = true``. Both markers are
+uniform across editions, so a new parallel text needs only a registry row.
+"""
 import json
 from pathlib import Path
 
@@ -22,39 +29,51 @@ def load_vmap():
     return {"hebrew": base.get("hebrew", {}), "latin": base.get("latin", {})}
 
 
-def masoretic_ref(code, kjv_chapter, kjv_verse, vmap):
+def source_ref(code, kjv_chapter, kjv_verse, vmap, vmap_key):
+    """Map a base (KJV) ref to an edition's source 'chap:verse'.
+
+    Returns the identity ``f"{chapter}:{verse}"`` when the edition has no
+    versification namespace (``vmap_key`` is falsy) or no mapping for this ref.
+    """
+    identity = f"{kjv_chapter}:{kjv_verse}"
+    if not vmap_key:
+        return identity
     key = f"{code} {kjv_chapter}:{kjv_verse}"
-    return vmap["hebrew"].get(key, f"{kjv_chapter}:{kjv_verse}")
+    return vmap.get(vmap_key, {}).get(key, identity)
 
 
-def build_chapter(meta, kjv_chapter, kjv_verses, latin_by_kjv, hebrew_by_kjv,
-                  hebrew_ref_by_kjv):
+def build_chapter(meta, output_editions, base_id, chapter, columns):
+    """Assemble one chapter object from per-edition columns.
+
+    ``output_editions`` are edition dicts in column order (base last).
+    ``columns`` maps ``edition_id -> {verse:int -> {"text": str, "src": str|None}}``.
+    Verse numbers are taken from the base edition's column. The ``src`` of a cell
+    is the diverging source ref (or ``None`` for identity / the base edition).
+    """
+    base_col = columns[base_id]
     verses = []
-    for v in sorted(kjv_verses):
-        latin_text = latin_by_kjv.get(v, "")
-        hebrew_text = hebrew_by_kjv.get(v, "")
-        verse = {
-            "verse": v,
-            "latin_vulgate": latin_text,
-            "hebrew_masoretic": hebrew_text,
-            "king_james": kjv_verses[v],
-        }
+    for v in sorted(base_col):
+        verse = {"verse": v}
+        for ed in output_editions:
+            verse[ed["id"]] = columns[ed["id"]][v]["text"]
         refs = {}
-        href = hebrew_ref_by_kjv.get(v, f"{kjv_chapter}:{v}")
-        if href != f"{kjv_chapter}:{v}":
-            refs["hebrew_masoretic"] = href
-        if latin_text == "":
-            refs["latin_vulgate"] = "absent"
-        if hebrew_text == "":
-            refs["hebrew_masoretic_absent"] = True
+        for ed in output_editions:
+            if ed["id"] == base_id:
+                continue
+            cell = columns[ed["id"]][v]
+            entry = {}
+            if cell.get("src"):
+                entry["src"] = cell["src"]
+            if cell["text"] == "":
+                entry["absent"] = True
+            if entry:
+                refs[ed["id"]] = entry
         if refs:
             verse["refs"] = refs
         verses.append(verse)
-    return {
-        "book_id": meta["code"],
-        "latin_name": meta["latin_name"],
-        "hebrew_name": meta["hebrew_name"],
-        "english_name": meta["english_name"],
-        "chapter": kjv_chapter,
-        "verses": verses,
-    }
+    obj = {"book_id": meta["code"]}
+    for ed in output_editions:
+        obj[ed["display_name_field"]] = meta[ed["display_name_field"]]
+    obj["chapter"] = chapter
+    obj["verses"] = verses
+    return obj

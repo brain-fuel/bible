@@ -1,11 +1,17 @@
-"""Generate the OT corpus: merge KJV, Vulgate, and Hebrew into chapter files."""
+"""Generate the OT corpus, driven entirely by the edition registry.
+
+Every column, its source backend, versification namespace, output ordering and
+header name comes from a row in ``data/editions.json``. Adding a new parallel
+OT text needs only a registry row (plus its per-book source name in
+``books.json``); this driver does not name any edition.
+"""
 import json
 import sys
 from pathlib import Path
 
-from tools.sources.scrollmapper import load_dataset
-from tools.sources.sefaria import load_chapter
-from tools.merge_ot import load_vmap, masoretic_ref, build_chapter
+from tools.editions import editions_for
+from tools.sources.registry import prepare_source
+from tools.merge_ot import load_vmap, source_ref, build_chapter
 
 ROOT = Path(__file__).resolve().parents[1]
 PAD = 3
@@ -20,44 +26,46 @@ def out_path_ot(root, code, chapter):
     return Path(root) / "bible" / "ot" / code / f"{chapter:0{PAD}d}.json"
 
 
-def _latin_by_kjv(code, kjv_chapter, kjv_verses, vul_index, vmap, vul_name):
-    """Place Vulgate text at KJV verse positions. Invert latin vmap (KJV->Latin)."""
-    latin = {}
-    vbook = vul_index.get(vul_name, {})
-    for v in kjv_verses:
-        key = f"{code} {kjv_chapter}:{v}"
-        target = vmap["latin"].get(key)  # "chap:verse" in Latin numbering, if diverging
-        if target:
-            lc, lv = target.split(":")
-            latin[v] = vbook.get(int(lc), {}).get(int(lv), "")
-        else:
-            latin[v] = vbook.get(kjv_chapter, {}).get(v, "")
-    return latin
+def output_editions(editions):
+    """Column order: non-base editions in registry order, then the base last."""
+    base = next(e for e in editions if e.get("base"))
+    return [e for e in editions if not e.get("base")] + [base], base
 
 
-def write_book(root, meta, kjv_idx, vul_idx, vmap, cache_dir):
+def build_columns(meta, editions, base, handles, vmap, chapter, base_verses):
+    """For one chapter, resolve every edition's text + divergence ref per verse."""
     code = meta["code"]
-    kjv_book = kjv_idx.get(meta["kjv_name"], {})
+    columns = {}
+    for e in editions:
+        eid = e["id"]
+        if eid == base["id"]:
+            columns[eid] = {v: {"text": base_verses[v], "src": None}
+                            for v in base_verses}
+            continue
+        vmap_key = e.get("vmap_key")
+        col = {}
+        for v in base_verses:
+            sref = source_ref(code, chapter, v, vmap, vmap_key)
+            sc, sv = sref.split(":")
+            text = handles[eid].chapter(meta, int(sc)).get(int(sv), "")
+            src = sref if sref != f"{chapter}:{v}" else None
+            col[v] = {"text": text, "src": src}
+        columns[eid] = col
+    return columns
+
+
+def write_book(root, meta, editions, handles, vmap):
+    out_eds, base = output_editions(editions)
+    base_handle = handles[base["id"]]
     written = 0
-    hebrew_chapter_cache = {}
-    for kjv_chapter in sorted(kjv_book):
-        kjv_verses = kjv_book[kjv_chapter]
-        latin_by_kjv = _latin_by_kjv(code, kjv_chapter, kjv_verses, vul_idx, vmap,
-                                     meta["vulgate_name"])
-        hebrew_ref_by_kjv = {v: masoretic_ref(code, kjv_chapter, v, vmap)
-                             for v in kjv_verses}
-        hebrew_by_kjv = {}
-        for v, href in hebrew_ref_by_kjv.items():
-            hc, hv = href.split(":")
-            hc, hv = int(hc), int(hv)
-            if hc not in hebrew_chapter_cache:
-                hebrew_chapter_cache[hc] = load_chapter(meta["sefaria_name"], hc, cache_dir)
-            hebrew_by_kjv[v] = hebrew_chapter_cache[hc].get(hv, "")
-        chapter_obj = build_chapter(meta, kjv_chapter, kjv_verses, latin_by_kjv,
-                                    hebrew_by_kjv, hebrew_ref_by_kjv)
-        dest = out_path_ot(root, code, kjv_chapter)
+    for chapter in base_handle.chapters(meta):
+        base_verses = base_handle.chapter(meta, chapter)
+        columns = build_columns(meta, editions, base, handles, vmap, chapter,
+                                base_verses)
+        obj = build_chapter(meta, out_eds, base["id"], chapter, columns)
+        dest = out_path_ot(root, meta["code"], chapter)
         dest.parent.mkdir(parents=True, exist_ok=True)
-        dest.write_text(json.dumps(chapter_obj, ensure_ascii=False, indent=2) + "\n",
+        dest.write_text(json.dumps(obj, ensure_ascii=False, indent=2) + "\n",
                         encoding="utf-8")
         written += 1
     return written
@@ -65,12 +73,12 @@ def write_book(root, meta, kjv_idx, vul_idx, vmap, cache_dir):
 
 def main():
     cache_dir = ROOT / "data" / "cache"
+    editions = editions_for("ot")
     vmap = load_vmap()
-    kjv_idx = load_dataset("KJV", cache_dir)
-    vul_idx = load_dataset("VulgClementine", cache_dir)
+    handles = {e["id"]: prepare_source(e, cache_dir) for e in editions}
     total = 0
     for meta in load_books():
-        n = write_book(ROOT, meta, kjv_idx, vul_idx, vmap, cache_dir)
+        n = write_book(ROOT, meta, editions, handles, vmap)
         total += n
         print(f"{meta['code']}: {n} chapters")
     print(f"done: {total} chapters")

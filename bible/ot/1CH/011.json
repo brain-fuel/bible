@@ -287,7 +287,9 @@
       "hebrew_masoretic": "אֱלִיאֵ֣ל וְעוֹבֵ֔ד {ס} וְיַעֲשִׂיאֵ֖ל הַמְּצֹבָיָֽה׃ {פ}",
       "king_james": "Eliel, and Obed, and Jasiel the Mesobaite. ",
       "refs": {
-        "latin_vulgate": "absent"
+        "latin_vulgate": {
+          "absent": true
+        }
       }
     }
   ]

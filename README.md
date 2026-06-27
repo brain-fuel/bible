@@ -27,32 +27,38 @@ The Bible as structured JSON, one file per chapter, with multiple parallel texts
       "hebrew_masoretic": "...",
       "king_james": "...",
       "refs": {
-        "hebrew_masoretic": "1:1",
-        "latin_vulgate": "absent"
+        "hebrew_masoretic": { "src": "1:1" },
+        "latin_vulgate": { "absent": true }
       }
     }
 
 #### Schema notes
 
 - The OT `verse` field uses KJV versification for all traditions.
-- The `refs` field is present only when a tradition diverges from KJV numbering.
-  - `refs.hebrew_masoretic` gives the Hebrew "chapter:verse" where it differs from KJV numbering.
-  - `refs.latin_vulgate: "absent"` marks the ten KJV verses the Clementine Vulgate merges into the previous verse (so `latin_vulgate` is empty in those cases).
-  - `refs.hebrew_masoretic_absent: true` would mark a missing Hebrew verse (none currently present).
+- The `refs` field is present only when a tradition diverges, and is keyed by edition id with a uniform per-edition object:
+  - `refs.<edition>.src` — the source `"chapter:verse"` when that edition's versification places the verse elsewhere than KJV numbering (e.g. Hebrew psalm titles, the Latin psalter).
+  - `refs.<edition>.absent: true` — the edition has no text at that position (the edition's column is empty). Ten KJV verses are absent in the Clementine Vulgate; no Hebrew verse is currently absent.
+  - Both keys can appear together for one edition (relocated *and* empty). The base edition (KJV) never appears in `refs`.
 - Hebrew text includes full Masoretic pointing (vowels and cantillation marks), normalized to NFC form.
 
 ## Edition System
 
-Each parallel text is registered in `data/editions.json` with metadata: id, language, source type, versification system, and license. The registry and source adapters (`scrollmapper`, `sefaria`) form the reusable foundation: the scrollmapper adapter, for example, can serve any text in Scrollmapper's database with no new network code.
+Each parallel text is registered in `data/editions.json`. A row is self-describing and **drives generation by itself** — the OT pipeline names no edition. A row carries:
 
-Adding a new parallel text (say, Finnish Biblia 1776, which uses the scrollmapper adapter) requires two steps: append a registry row in `data/editions.json`, and add a small wiring step in the generator (`tools/generate_ot.py`), the verse-key assembler (`tools/merge_ot.py`), and the validator body list (`tools/validate_ot.py`) to include the new edition key. The schema does not change and the source adapter does not change, but the three pipeline files do name editions explicitly and each needs one addition.
+- `id` — the verse-column key (and header is taken from `display_name_field`).
+- `source` — `{ "type": ..., ... }`; `type` selects a source backend (`scrollmapper`, `sefaria`) via `tools/sources/registry.py`.
+- `book_name_field` — which `data/books.json` field holds this source's per-book name.
+- `vmap_key` — the versification namespace in `data/versification/ot-versification.json` (omitted for the base edition, which defines verse positions).
+- `base: true` — the edition that defines verse positions (KJV). Non-base editions render first; the base renders last.
+
+**Adding a new parallel OT text needs only a registry row** (plus the source's per-book name in `data/books.json`, and a cache/network fetch). The generator (`tools/generate_ot.py`), merge engine (`tools/merge_ot.py`), and validator (`tools/validate_ot.py`) iterate the registry and need no per-edition edits. Only a genuinely new *source backend* (a `source.type` not yet handled) requires one new class in `tools/sources/registry.py`.
 
 ## Sources
 
 All underlying texts are in the public domain:
 
 - **King James Version** (1611): Sourced from Scrollmapper's bible_databases datasets.
-- **Clementine Vulgate** (Latin, 1592): Sourced from Scrollmapper's bible_databases datasets. Ten OT verses are merged into the preceding verse in the Vulgate tradition (recorded in `refs.latin_vulgate`).
+- **Clementine Vulgate** (Latin, 1592): Sourced from Scrollmapper's bible_databases datasets. Ten OT verses are merged into the preceding verse in the Vulgate tradition (recorded as `refs.latin_vulgate.absent`).
 - **Hebrew Masoretic Text** (Westminster Leningrad Codex): Sourced via the Sefaria API. Includes full Masoretic pointing with vowels and cantillation marks.
 - **Greek Textus Receptus** (NT only): Sourced from the Logos Apostolic interlinear (https://www.logosapostolic.org/bibles/latin_vulgate_textus_receptus_king_james/).
 

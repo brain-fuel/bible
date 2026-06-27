@@ -155,7 +155,9 @@
       "hebrew_masoretic": "בַּיָּמִ֣ים הָהֵ֔ם אֵ֥ין מֶ֖לֶךְ בְּיִשְׂרָאֵ֑ל אִ֛ישׁ הַיָּשָׁ֥ר בְּעֵינָ֖יו יַעֲשֶֽׂה׃",
       "king_james": "In those days there was no king in Israel: every man did that which was right in his own eyes.  ",
       "refs": {
-        "latin_vulgate": "absent"
+        "latin_vulgate": {
+          "absent": true
+        }
       }
     }
   ]

@@ -1,8 +1,8 @@
 {
   "editions": [
-    {"id":"king_james","name":"King James Version","language":"en","source":{"type":"scrollmapper","key":"KJV"},"versification":"kjv","license":"PD","testaments":["ot","nt"],"base":true},
-    {"id":"latin_vulgate","name":"Clementine Vulgate","language":"la","source":{"type":"scrollmapper","key":"VulgClementine"},"versification":"latin","license":"PD","testaments":["ot","nt"]},
-    {"id":"hebrew_masoretic","name":"Westminster Leningrad Codex","language":"hbo","source":{"type":"sefaria","corpus":"Tanach"},"versification":"masoretic","license":"PD","testaments":["ot"]},
-    {"id":"greek_textus_receptus","name":"Greek Textus Receptus","language":"grc","source":{"type":"scrape","site":"logosapostolic"},"versification":"kjv","license":"PD","testaments":["nt"]}
+    {"id":"king_james","name":"King James Version","language":"en","source":{"type":"scrollmapper","key":"KJV"},"versification":"kjv","license":"PD","testaments":["ot","nt"],"base":true,"book_name_field":"kjv_name","display_name_field":"english_name"},
+    {"id":"latin_vulgate","name":"Clementine Vulgate","language":"la","source":{"type":"scrollmapper","key":"VulgClementine"},"versification":"latin","license":"PD","testaments":["ot","nt"],"book_name_field":"vulgate_name","vmap_key":"latin","display_name_field":"latin_name"},
+    {"id":"hebrew_masoretic","name":"Westminster Leningrad Codex","language":"hbo","source":{"type":"sefaria","corpus":"Tanach"},"versification":"masoretic","license":"PD","testaments":["ot"],"book_name_field":"sefaria_name","vmap_key":"hebrew","display_name_field":"hebrew_name"},
+    {"id":"greek_textus_receptus","name":"Greek Textus Receptus","language":"grc","source":{"type":"scrape","site":"logosapostolic"},"versification":"kjv","license":"PD","testaments":["nt"],"book_name_field":"greek_name","display_name_field":"greek_name"}
   ]
 }
