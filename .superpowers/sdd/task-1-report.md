@@ -66,4 +66,75 @@ The consequence: `books.json` does NOT have explicit LXX rows for GEN..MAL or th
 
 4. **Jeremiah chapter reorder:** The TVTMS captures some Jer verse-level divergences but NOT the chapter reorder (LXX OAN position mid-book vs MT end-of-book). The supplement notes this without enumerating it. Task 2 (generate_lxx) and Task 7 (align) will need custom logic for Jeremiah's structural rearrangement.
 
-5. **`lxx_versification.json` is generated from live TVTMS fetch:** The file is committed to the repo (like `ot-versification.json`) so downstream tasks can load it without network access. But it was generated in this task by fetching the live TVTMS file. If the TVTMS upstream changes materially, regeneration requires `python -m tools.tvtms` (extended to emit the Greek section -- currently `main()` still writes only `ot-versification.json`). A TODO: extend `main()` to also write `lxx-versification.json`.
+5. **`lxx_versification.json` is generated from live TVTMS fetch:** The file is committed to the repo (like `ot-versification.json`) so downstream tasks can load it without network access. But it was generated in this task by fetching the live TVTMS file. If the TVTMS upstream changes materially, regeneration requires `python -m tools.tvtms` (extended to emit the Greek section -- currently `main()` still writes only `ot-versification.json`). A TODO: extend `main()` to also write `lxx-versification.json`. **RESOLVED in fix pass below.**
+
+---
+
+## Fix Pass (review findings)
+
+Commit: `11117cef`
+
+### FIX 1 -- mt_ref footgun: returns None for non-protocanon codes
+
+**Problem:** `mt_ref("2ES", 1, 1)` returned `"1:1"` (identity fallthrough) because 2ES was absent from `_DEUTEROCANON` and absent from the vmap, so the function fell through to the identity path.
+
+**Root cause:** The exclusion logic was a hardcoded `_DEUTEROCANON` frozenset. 2ES is not an LXX book at all (4 Ezra / Latin apocalypse), not merely a deuterocanon book, so it was not listed.
+
+**Fix:** Removed `_DEUTEROCANON` entirely. Replaced with a data-driven helper `_lxx_protocanon_codes()` (cached) that reads `data/books.json` and returns only codes where `testament == "ot"` and `lxx_order is not None`. These are exactly the LXX-participating OT books that have Hebrew (MT) counterparts. `mt_ref` now returns `None` immediately for any code not in this set, including:
+- 2ES: `testament="apo"`, no `lxx_order` -- not in set
+- 1MA, 1ES, TOB, etc.: `testament="apo"` -- not in set
+- 3MA, 4MA, ODE, PSS: `testament="lxx"` -- not in set
+- GEN, PSA, etc.: `testament="ot"` with `lxx_order` -- in set, proceed to vmap lookup
+
+**Files changed:** `tools/lxx_versification.py` (removed `_DEUTEROCANON`, added `_protocanon_cache` + `_lxx_protocanon_codes()`, updated `mt_ref` docstring + guard).
+
+**New test:** `tests/test_lxx_versification.py::test_non_lxx_code_has_no_mt`
+```
+assert mt_ref("2ES", 1, 1) is None
+```
+
+**Test run:**
+```
+$ python -m pytest tests/test_lxx_versification.py -v
+tests/test_lxx_versification.py::test_psalms_offset_known_case PASSED
+tests/test_lxx_versification.py::test_deuterocanon_has_no_mt PASSED
+tests/test_lxx_versification.py::test_non_lxx_code_has_no_mt PASSED
+tests/test_lxx_versification.py::test_lxx_books_present_with_codes PASSED
+4 passed in 0.23s
+```
+
+### FIX 2 -- tvtms main() regenerates lxx-versification.json
+
+**Problem:** `main()` (i.e. `python -m tools.tvtms`) wrote only `ot-versification.json`. The committed `lxx-versification.json` was generated ad-hoc during the task and could not be regenerated, violating Task 9's byte-identical determinism check.
+
+**Structure of committed file:** TVTMS-only (no supplement); top-level keys `_attribution` + `greek`; 3,730 entries; `json.dumps(indent=2, ensure_ascii=False) + "\n"`. The supplement is merged at load time by `load_lxx_vmap()`. No reformatting needed.
+
+**Fix:** Added `LXX_OUT_PATH` constant to `tools/tvtms.py` pointing at `data/versification/lxx-versification.json`. Extended `main()` to write a second output after the OT file, using the same format and containing only `{"_attribution": "...", "greek": m["greek"]}`. The attribution string matches the committed file exactly.
+
+**Files changed:** `tools/tvtms.py` (added `LXX_OUT_PATH`, extended `main()`).
+
+**Verification -- byte-identical regen:**
+```
+$ python -m tools.tvtms
+WARNING: unmapped OT abbreviations: ['1Es', '1Ma', '2Es', '2Ma', '4Es', 'Bar', 'Bel', 'Esg', 'Jdt', 'Man', 'Ps2', 'S3Y', 'Sir', 'Sus', 'Tob', 'Wis']
+Hebrew divergences: 1965
+Latin divergences:  2835
+Greek divergences:  3730
+Written: .../data/versification/ot-versification.json
+Written: .../data/versification/lxx-versification.json
+
+$ git diff --stat data/versification/lxx-versification.json
+(no output -- byte-identical)
+
+$ git diff --stat data/versification/ot-versification.json
+(no output -- byte-identical)
+```
+
+### Full suite after both fixes
+
+```
+$ python -m pytest -q
+253 passed in 11.22s
+```
+
+252 pre-existing + 1 new (`test_non_lxx_code_has_no_mt`) = 253 green.
