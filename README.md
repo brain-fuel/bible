@@ -95,7 +95,27 @@ The OT cross-tradition verse alignment is derived from **STEPBible's TVTMS** (Tr
 
 ## License
 
-This repository is licensed CC BY 4.0 (see LICENSE file). The underlying biblical texts (Westminster Leningrad Codex, Clementine Vulgate, King James Version) are in the public domain. CC BY 4.0 applies to the compilation, code, and derived data in this repository. Attribution to STEPBible and Tyndale House Cambridge is required for the TVTMS-derived versification mapping. Attribution to STEPBible and Tyndale House Cambridge is also required for the TAGNT, TAHOT, and TBESG morpho-lexical data (CC BY 4.0). Attribution to Clear Bible Inc. is required for the MACULA Greek and Hebrew semantic domain data (CC BY 4.0).
+This project mixes three license regimes by artifact type. See
+[`docs/LICENSING.md`](docs/LICENSING.md) for the authoritative, per-artifact map.
+
+- **Software** (everything under `tools/`, build scripts, tests):
+  **AGPL-3.0-or-later** — see [`LICENSE`](LICENSE).
+- **Content, default**: **CC0-1.0** public-domain dedication
+  ([`licenses/CC0-1.0.txt`](licenses/CC0-1.0.txt)). Covers the original
+  compilation/schema, the hand-authored CC0 versification supplements, the
+  public-domain biblical text corpora (Westminster Leningrad Codex, Clementine
+  Vulgate, King James Version, Swete 1909 Greek OT), and the Strong's dictionary
+  spine.
+- **Content derived from CC-BY sources**: **CC-BY-4.0**
+  ([`licenses/CC-BY-4.0.txt`](licenses/CC-BY-4.0.txt)), attribution required:
+  - STEPBible **TVTMS** versification, and **TAGNT / TAHOT / TBESG / TAGOT**
+    morpho-lexical data — STEPBible.org, Tyndale House Cambridge, CC-BY 4.0.
+  - **MACULA** Greek/Hebrew semantic-domain data — Clear Bible Inc., CC-BY 4.0.
+  - **openscriptures LxxLemmas** Septuagint lemmas — David Troidl, CC-BY 4.0.
+
+Where a single datum combines a public-domain value with a CC-BY tag, the CC-BY
+attribution above applies. Every generated datum carries `src`/`sources`
+provenance so its governing license is traceable.
 
 ## Regenerate
 
