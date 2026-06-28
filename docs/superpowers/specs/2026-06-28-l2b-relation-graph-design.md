@@ -10,8 +10,9 @@ Build the layer above the morpho-lexical floor + LXX: a **many-valued relation
 graph between lemmas**. Edges connect dictionary headwords (lemmas) by meaning
 and origin — synonym, antonym, cognate/shared-root, semantic-domain sibling, and
 attested cross-language (Hebrew↔Greek) equivalence. Each edge carries
-**provenance** (which canon / calculation / projection produced it) and a
-**confidence**. This is the substrate the later argument/theology/paradox graph
+**provenance** (which canon / calculation / projection produced it) and an integer
+**rank** (a `0..65535` quality score). This is the substrate the later
+argument/theology/paradox graph
 (L4/L5) walks to find connections, contrasts, and conceptual bridges across the
 whole corpus and across languages.
 
@@ -67,7 +68,7 @@ distinguishable and auditable:
   "rel": "shared-root",
   "directed": false,
   "provenance": { "source": "strongs-root", "method": "derived" },
-  "confidence": 1.0,
+  "rank": 65535,
   "note": null
 }
 ```
@@ -77,16 +78,27 @@ distinguishable and auditable:
 - `source` — the specific canon/calc, e.g. `louw-nida`, `sdbh`, `strongs-root`,
   `mt-lxx-bridge`, `open-english-wordnet`, `roget-1911`, `bdb`, `abbott-smith`,
   `lewis-short`, `hand`.
-- `confidence` — 1.0 for exact derivations (shared-root, same-domain); a real
-  score for projections (cross-language: from exact-ratio × cooccur weighting)
-  and mined edges (dictionary/WordNet: a fixed per-source prior, lowered when the
-  gloss-match is loose).
+- `rank` — an unsigned **16-bit integer quality score, `0..65535` (2^16 − 1)**.
+  This is the single filter/sort key (a quantized confidence). It is how the
+  graph is "materialize everything, filter by quality" rather than "drop weak
+  edges": every edge is kept and committed; weak ones simply get a low `rank`.
+  Per relation:
+  - exact derivations (`shared-root`, authored edges) → `65535`.
+  - `domain-sibling` → ranked by **code specificity**: a finest-subdomain match
+    (`25.43`) ranks high; a same-top-level-only match (`25`) ranks low. All
+    granularities are materialized; the rank encodes how tight the sibling link is.
+  - `cross-language` → ranked from the `mt_lxx` signal: a monotone quantization of
+    `exact_ratio × log(cooccur)` onto `0..65535`. A `cooccur=1` verse-noise pair
+    gets a near-zero rank but is still kept.
+  - `mined` (synonym/antonym) → source prior × gloss-match tightness, quantized.
+  The exact rank functions are pinned in Task code with unit tests.
 - `directed` — `false` for symmetric relations (synonym, antonym, shared-root,
   domain-sibling); cross-language edges are stored once per `(H,G)` with
   `directed:false` (the pair is the fact) — direction of translation is recoverable
   from `mt_lxx` if needed.
-- **Many-valued:** multiple edges may share a `(src, rel)`; nothing is deduped to
-  one. Multi-origin lemmas keep every origin edge. The builders never cap.
+- **Many-valued, never capped:** multiple edges may share a `(src, rel)`; nothing
+  is deduped to one and no per-word count limit is ever applied. Multi-origin
+  lemmas keep every origin edge.
 
 ## Storage architecture (two-form, scalable)
 
@@ -109,27 +121,29 @@ data/relations.sqlite (or +tokens.sqlite)   DERIVED projection: `relations` tabl
 One JSONL line per edge, sorted deterministically (by `src`, `rel`, `dst`,
 `source`) so regenerated files diff cleanly.
 
-### Combinatorial control (the one design risk)
+### Rank, not drop (materialize everything; filter by quality)
 
-Two relation types are combinatorially large and need a bound so we do not commit
-millions of mechanically-derivable, low-value edges (the same trap that made the
-raw LXX bridge 1.4 GB):
+Every derivable edge is **materialized and committed** — including the
+combinatorially large, low-signal ones (full cross-language bridge incl.
+`cooccur=1`; domain-sibling pairs at every code granularity). Nothing is dropped.
+The size and noise are tamed by the integer **`rank`** field (`0..65535`), not by
+deletion:
 
-- **domain-sibling** is materialized at the **finest Louw-Nida / SDBH code
-  granularity** (e.g. subdomain `25.43`, never the top-level `25`). Subdomains are
-  small, so pairwise sibling edges within each are bounded. `source` records the
-  exact code. (Coarser "same top-level domain" stays a query over the DB, not a
-  materialized edge set.)
-- **cross-language** edges are projected from the aggregated `mt_lxx` bridge with
-  a **confidence floor**: pairs below a minimum signal (e.g. `cooccur < 2`, pure
-  verse-level noise) are dropped — this removes noise, it does **not** cap a real
-  word's equivalents (every equivalent above the floor is kept; the floor is a
-  quality gate, not a per-word limit). The floor value is pinned and reported.
-
-If, on review, the owner wants *zero* thresholding (materialize every bridge pair
-including `cooccur=1`), that is a one-constant change — but it commits ~691k
-cross-language edges; the spec's default keeps the high-signal set and reports the
-dropped count honestly.
+- Each edge gets a `rank` quantizing its quality (see the rank rules above):
+  exact derivations max out; `domain-sibling` ranks by code specificity;
+  `cross-language` ranks by the `mt_lxx` signal so `cooccur=1` pairs sit near the
+  bottom; mined edges rank by source prior × match tightness.
+- A single pinned constant **`DEFAULT_RANK_THRESHOLD`** reproduces the "bounded
+  default" view: the DB exposes a default filtered view `WHERE rank >=
+  DEFAULT_RANK_THRESHOLD` (and the canonical files carry the full set). Raising the
+  threshold narrows to the highest-confidence graph; lowering it (to 0) returns
+  everything. The threshold is configuration, not a cap — it filters quality, never
+  a word's edge count.
+- The full materialized derived set is committed as line-oriented JSONL (compact,
+  git-diffable). Per-relation edge counts and the rank distribution are pinned so
+  growth is visible and honest. (Order-of-magnitude expectation: cross-language
+  ~hundreds of thousands of lines; domain-sibling bounded by subdomain sizes;
+  shared-root small. These are committed canonical data, like `bible/lxx`.)
 
 ## Sources (PD / CC-BY only; Task-0 verify gate)
 
@@ -163,14 +177,16 @@ both coexist (many-valued), distinguished by provenance.
 into a `relations` table:
 
 ```
-relations(src, dst, rel, directed, source, method, confidence, note)
-  indexes: (src), (dst), (rel), (src, rel)
+relations(src, dst, rel, directed, source, method, rank, note)
+  indexes: (src), (dst), (rel), (src, rel), (rank)
+  view relations_default = SELECT * FROM relations WHERE rank >= DEFAULT_RANK_THRESHOLD
 ```
 
 Unlocks: "all synonyms/antonyms of X" (one `WHERE src=? AND rel=?`); "Hebrew word
-→ its attested Greek equivalents" (`rel='cross-language'`); "every word in the
-same Louw-Nida subdomain"; multi-hop conceptual paths (graph walk in SQL/app);
-and honest provenance/confidence filtering for downstream L4/L5.
+→ its attested Greek equivalents" (`rel='cross-language'`, ordered by `rank`);
+"every word in the same Louw-Nida subdomain"; multi-hop conceptual paths (graph
+walk in SQL/app); and honest provenance + `rank` filtering for downstream L4/L5
+(default view = high-quality; raise/lower the threshold per use).
 
 ## Testing
 
@@ -178,10 +194,13 @@ TDD, pinned counts, incremental-verified MO (the floor/LXX discipline). Per
 builder: a unit test on the derivation logic with a tiny fixture, then a
 corpus-level oracle pinning edge counts per relation + per source. Validate:
 every edge endpoint resolves to a lexicon key; no self-loops; symmetric relations
-stored consistently; provenance/`method`/`confidence` present on every edge; the
-combinatorial-bound and confidence-floor counts pinned; deterministic regen
-(derived JSONL rebuilds byte-identical). Restricted/partial sources logged with
-pinned coverage, never silently dropped.
+stored consistently; `provenance.source`/`method`/`rank` present on every edge and
+`rank` in `0..65535`; rank functions unit-tested (a `cooccur=1` cross-language pair
+ranks below `DEFAULT_RANK_THRESHOLD`, a finest-subdomain sibling ranks above a
+top-level-only one); per-relation edge counts + rank-distribution + the
+default-view count pinned; deterministic regen (derived JSONL rebuilds
+byte-identical). Restricted/partial sources logged with pinned coverage, never
+silently dropped.
 
 ## Licensing
 
@@ -194,7 +213,7 @@ STEPBible/MACULA) are CC-BY; edges from PD sources (Roget/Abbott-Smith/BDB/Lewis
 
 ## Boundary
 
-L2b ends at the relation graph: lemma↔lemma edges with provenance + confidence,
+L2b ends at the relation graph: lemma↔lemma edges with provenance + `rank`,
 canonical + queryable. It does not build syntax (L3) or argument/theology/paradox
 structure (L4/L5) — those are later specs that consume this graph. No relation is
 capped; every edge is provenance-tagged and license-traceable.
