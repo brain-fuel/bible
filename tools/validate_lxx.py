@@ -22,7 +22,7 @@ ROOT = Path(__file__).resolve().parents[1]
 # Pinned after generating the full corpus from the Swete 1909 CSV.
 # Empty verse slots (LXX omissions present in versification but absent from
 # the word list) are excluded, giving the count of verses that carry text.
-EXPECTED_LXX_VERSES = 28869
+EXPECTED_LXX_VERSES = 28880  # was 28869 before MAN fixed to Ode 8 (15v) from Ode 12 (4v)
 
 # Books whose content is integrated into other books in the Swete CSV
 # (they have lxx_order in books.json but no standalone CSV sections).
@@ -135,6 +135,9 @@ def validate(testament: str = "lxx") -> dict:
         # Also look for extra chapters beyond expected_ch (e.g. PSA ch 151)
         if book_dir.exists():
             for p in sorted(book_dir.iterdir()):
+                if not p.stem.isdigit() or len(p.stem) != 3:
+                    errs.append(f"{code}: unexpected filename {p.name!r} (expected NNN.json)")
+                    continue
                 ch_num = int(p.stem)
                 if ch_num > expected_ch:
                     found += 1

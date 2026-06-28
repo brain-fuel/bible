@@ -64,7 +64,7 @@ class LxxSource:
     """Source handle for the Swete 1909 LXX text (CSV-based).
 
     Lazily loads and indexes the CSV on first use.
-    Handles the Epj->BAR.6 remap and MAN->ODE.12 aliasing internally.
+    Handles the Epj->BAR.6 remap and MAN->ODE.8 aliasing internally.
     """
 
     def __init__(self, csv_dir=None):
@@ -149,9 +149,13 @@ def _build_index(csv_dir: Path) -> dict:
             continue
         raw[code][tgt_ch][tgt_v] = text
 
-    # 4. MAN (Prayer of Manasses) = Ode chapter 12, renumbered as chapter 1
-    if "ODE" in raw and 12 in raw["ODE"]:
-        raw["MAN"][1] = dict(raw["ODE"][12])
+    # 4. MAN (Prayer of Manasses) = Ode chapter 8 ("Προσευχὴ Μαννασσή"),
+    #    aliased into MAN chapter 1.  ODE chapter 8 remains in ODE (the alias
+    #    copies content; it does not remove it from the Odes collection).
+    #    Note: ODE chapter 12 is "Προσευχὴ Συμεών" (Nunc Dimittis, Luke
+    #    2:29-32), which is NOT the Prayer of Manasseh.
+    if "ODE" in raw and 8 in raw["ODE"]:
+        raw["MAN"][1] = dict(raw["ODE"][8])
 
     # Convert nested defaultdicts to plain dicts
     return {code: {ch: dict(vv) for ch, vv in chs.items()}
