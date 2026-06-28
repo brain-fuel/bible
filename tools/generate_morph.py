@@ -5,11 +5,13 @@ normalized TSV via load_norm(), walks the L0 chapter files for that testament,
 and writes morph/<testament>/<CODE>/NNN.conllu files.
 
 CLI flags:
-    --lang LANG    Only process this language code (e.g. grc, hbo).
-    --book CODE    Only process this book code (e.g. 3JO).
+    --lang LANG        Only process this language code (e.g. grc, hbo).
+    --book CODE        Only process this book code (e.g. 3JO).
+    --testament TEST   Only process this testament (e.g. nt, ot, lxx).
 
 Usage:
     python -m tools.generate_morph --lang grc --book 3JO
+    python -m tools.generate_morph --testament lxx --book RUT
 """
 
 import argparse
@@ -35,6 +37,11 @@ def generate(lang_entry: dict, norm_by_ref: dict, book_filter: str | None) -> di
     testament = lang_entry["testament"]
     l0_field = lang_entry["l0_field"]
     lang = lang_entry["lang"]
+    morph_scheme = lang_entry.get("morph_scheme", "")
+    # LxxLemmas stores lemma forms (not inflected surface forms) as the TSV
+    # surface key, so surface matching is unreliable.  Use positional alignment
+    # for any entry whose morph_scheme is "none".
+    positional = morph_scheme == "none"
 
     # For Hebrew, load the Strong's headword map once so LEMMA = dictionary
     # headword (shared with build_lexicon) rather than the TAHOT pointed surface.
@@ -45,10 +52,31 @@ def generate(lang_entry: dict, norm_by_ref: dict, book_filter: str | None) -> di
         headwords = load_hebrew_headwords(xml_path)
         print(f"  [hbo] Loaded {len(headwords)} Strong's headwords from strongs-hebrew.xml")
 
-    # Load book list filtered to this testament
+    # Load book list.
+    # For NT/OT: filter books.json by testament (classic path).
+    # For LXX and other alternative testaments: discover books from bible/<testament>/
+    # because most LXX books are registered under 'ot' or 'apo' in books.json,
+    # not under 'lxx'.
     books_path = ROOT / "data" / "books.json"
     all_books = json.loads(books_path.read_text(encoding="utf-8"))["books"]
-    books = [b for b in all_books if b["testament"] == testament]
+
+    if testament in ("nt", "ot"):
+        books = [b for b in all_books if b["testament"] == testament]
+    else:
+        # Discover from bible/<testament>/ directory and look up chapter counts
+        # from books.json.  Books absent from books.json get their chapter count
+        # from the number of *.json files in their directory.
+        l0_base = ROOT / "bible" / testament
+        by_code = {b["code"]: b for b in all_books}
+        book_codes = sorted(d.name for d in l0_base.iterdir() if d.is_dir()) if l0_base.exists() else []
+        books = []
+        for code in book_codes:
+            if code in by_code:
+                books.append(by_code[code])
+            else:
+                n_ch = len(list((l0_base / code).glob("*.json")))
+                if n_ch > 0:
+                    books.append({"code": code, "chapters": n_ch, "testament": testament})
 
     if book_filter:
         books = [b for b in books if b["code"] == book_filter]
@@ -84,7 +112,12 @@ def generate(lang_entry: dict, norm_by_ref: dict, book_filter: str | None) -> di
 
                 ref = f"{code}.{ch_num}.{v_num}"
                 norm_rows = norm_by_ref.get(ref, [])
-                tokens = align_verse(ref, l0_text, norm_rows, lang, headwords=headwords)
+                tokens = align_verse(
+                    ref, l0_text, norm_rows, lang,
+                    headwords=headwords,
+                    morph_scheme=morph_scheme,
+                    positional=positional,
+                )
 
                 # Accumulate stats. Align values are comma-joined under a
                 # single Align= key, e.g. "Align=unmatched,source_extra:1".
@@ -125,6 +158,7 @@ def main() -> None:
     parser = argparse.ArgumentParser(description="Generate morpho-lexical CoNLL-U files.")
     parser.add_argument("--lang", required=False, help="Language code to process (grc or hbo).")
     parser.add_argument("--book", required=False, help="Book code to process (e.g. 3JO).")
+    parser.add_argument("--testament", required=False, help="Testament to process (nt, ot, lxx).")
     args = parser.parse_args()
 
     registry_path = ROOT / "data" / "morph-sources.json"
@@ -133,25 +167,28 @@ def main() -> None:
     for entry in registry["languages"]:
         if args.lang and entry["lang"] != args.lang:
             continue
+        if args.testament and entry["testament"] != args.testament:
+            continue
 
         lang = entry["lang"]
+        testament = entry["testament"]
         norm_path = ROOT / entry["norm"]
         if not norm_path.exists():
-            print(f"[{lang}] Normalized TSV not found at {norm_path}; skipping.")
+            print(f"[{lang}/{testament}] Normalized TSV not found at {norm_path}; skipping.")
             print(f"  Run: python -m tools.morph_norm.stepbible_greek  (for grc)")
             continue
 
-        print(f"[{lang}] Loading normalized TSV ...")
-        norm_by_ref = load_norm(lang)
+        print(f"[{lang}/{testament}] Loading normalized TSV ...")
+        norm_by_ref = load_norm(str(norm_path))
         print(f"  {len(norm_by_ref)} refs loaded.")
 
-        print(f"[{lang}] Generating CoNLL-U files ...")
+        print(f"[{lang}/{testament}] Generating CoNLL-U files ...")
         stats = generate(entry, norm_by_ref, book_filter=args.book)
         total_tok = sum(s["tokens"] for s in stats.values())
         total_unmatched = sum(s["unmatched"] for s in stats.values())
         total_extra = sum(s["source_extra"] for s in stats.values())
         print(
-            f"[{lang}] Done. Total: {total_tok} tokens, "
+            f"[{lang}/{testament}] Done. Total: {total_tok} tokens, "
             f"{total_unmatched} unmatched, {total_extra} source_extra."
         )
 

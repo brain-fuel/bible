@@ -5,6 +5,10 @@
      "lexicon_sources": ["strongs-greek", "abbott-smith"], "domain_source": "ln-map"},
     {"lang": "hbo", "testament": "ot", "l0_field": "hebrew_masoretic",
      "norm": "data/cache/morph/hbo.tsv", "edition_filter": "WLC",
-     "lexicon_sources": ["strongs-hebrew", "bdb"], "domain_source": "sdbh"}
+     "lexicon_sources": ["strongs-hebrew", "bdb"], "domain_source": "sdbh"},
+    {"lang": "grc", "testament": "lxx", "l0_field": "greek_lxx",
+     "norm": "data/cache/morph/lxx.tsv", "edition_filter": "LXX",
+     "morph_scheme": "none",
+     "lexicon_sources": ["strongs-greek"], "domain_source": "ln-map"}
   ]
 }
