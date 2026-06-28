@@ -7,3 +7,7 @@ __pycache__/
 
 # SDD scratch (briefs, reports, review packages, ledger)
 .superpowers/
+
+# Derived MT<->LXX bridge (rebuildable projection)
+align/mt-lxx/
+data/cache/mt-lxx-bridge.jsonl
