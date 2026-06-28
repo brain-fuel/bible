@@ -42,20 +42,41 @@ class TestValidateLxx:
             f"Expected >300000 tokens for full LXX, got {result['tokens']}"
         )
 
-    def test_count_mismatch_is_separate_metric(self):
-        """count_mismatch must be a distinct key from unmatched in the result dict."""
+    def test_count_mismatch_is_zero_after_resync(self):
+        """count_mismatch must be 0 after difflib resync replaces whole-verse-abort."""
         result = validate("lxx")
         assert "count_mismatch" in result, (
             "validate('lxx') result must include 'count_mismatch' key"
         )
-        # count_mismatch reflects whole-verse-aborts due to Swete-vs-CCAT word-count
-        # divergence; it is non-negative and unrelated to the unmatched count.
-        assert result["count_mismatch"] >= 0
+        # The difflib resync algorithm eliminates all whole-verse-aborts: every verse
+        # is now processed word-by-word via SequenceMatcher.  count_mismatch==0 is the
+        # invariant after Task 5 resync pass.
+        assert result["count_mismatch"] == 0, (
+            f"Expected count_mismatch=0 after difflib resync, got {result['count_mismatch']}"
+        )
 
     def test_result_keys_present(self):
-        """validate('lxx') must return all required keys."""
+        """validate('lxx') must return all required keys including exact and positional."""
         result = validate("lxx")
-        required = {"verses", "tokens", "unmatched", "count_mismatch",
-                    "source_extra", "missing_strong", "with_morph"}
+        required = {"verses", "tokens", "exact", "positional", "unmatched",
+                    "count_mismatch", "source_extra", "missing_strong", "with_morph"}
         missing = required - set(result.keys())
         assert not missing, f"validate('lxx') result missing keys: {missing}"
+
+    def test_exact_and_positional_cover_majority_of_tokens(self):
+        """After difflib resync, at least 80% of tokens must be exact- or positional-paired.
+
+        The resync prototype showed ~87% paired; this test guards against regression to
+        the old 68% coverage (whole-verse-abort era).
+        """
+        result = validate("lxx")
+        assert "exact" in result and "positional" in result, (
+            "validate('lxx') must return 'exact' and 'positional' keys"
+        )
+        paired = result["exact"] + result["positional"]
+        pct_paired = 100.0 * paired / result["tokens"] if result["tokens"] else 0
+        assert pct_paired >= 80.0, (
+            f"Expected >= 80% paired tokens after resync, got {pct_paired:.1f}% "
+            f"(exact={result['exact']}, positional={result['positional']}, "
+            f"tokens={result['tokens']})"
+        )

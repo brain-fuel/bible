@@ -72,22 +72,25 @@ def test_align_verse_lxx_positional_empty_morph():
 
 
 def test_align_verse_lxx_positional_corpus_longer():
-    """Count mismatch (corpus longer than TSV): whole verse is aborted.
+    """Count mismatch (corpus > TSV): difflib resync pairs the anchor, marks divergence.
 
-    Even when corpus has more words than TSV, a mid-verse deletion in the TSV
-    would mistag all words after the deletion point.  Since there is no shared
-    surface key to locate the deletion, the whole verse is aborted as
-    count_mismatch -- prefer missing data over wrong data.
+    Previously the whole verse was aborted as count_mismatch.  The new difflib
+    resync recovers: "ΚΑΙ" matches "και" (Align=exact, Strong=G2532) and only the
+    genuinely-unmatched word "ἐγένετο" (which has no TSV row) gets Align=unmatched.
     """
     norm = [_LXX_ROW(1, "και", "καί", "G2532")]
     toks = align_verse("RUT.1.1", "ΚΑΙ ἐγένετο", norm, "grc", morph_scheme="none", positional=True)
-    # Both corpus words emitted as count_mismatch; no lemma/Strong assigned.
     assert len(toks) == 2
-    for tok in toks:
-        assert tok.lemma == "_"
-        assert "count_mismatch" in tok.misc
-        assert "source_short:1" in tok.misc
-        assert "Strong=" not in tok.misc
+    # "ΚΑΙ" matches "και" in the TSV → paired as an exact anchor.
+    assert toks[0].lemma == "καί"
+    assert "Strong=G2532" in toks[0].misc
+    assert "Align=exact" in toks[0].misc
+    assert "count_mismatch" not in toks[0].misc
+    # "ἐγένετο" has no TSV counterpart (delete block) → Align=unmatched.
+    assert toks[1].lemma == "_"
+    assert "Align=unmatched" in toks[1].misc
+    assert "Strong=" not in toks[1].misc
+    assert "count_mismatch" not in toks[1].misc
 
 
 def test_align_verse_lxx_positional_tsv_longer_source_extra():
@@ -102,46 +105,123 @@ def test_align_verse_lxx_positional_tsv_longer_source_extra():
     assert "source_extra:2" in toks[0].misc
 
 
-def test_positional_count_mismatch_aborts_verse():
-    """Mid-verse insertion in TSV (count mismatch) must abort the whole verse.
+def test_difflib_resync_mid_verse_insert():
+    """difflib resync: a mid-verse TSV insertion is identified; all corpus words get lemmas.
 
-    When TSV has M rows and corpus has N != M words, positional zip silently
-    mistags every word after the insertion/deletion point -- no shared surface
-    key can locate the divergence.  The fix: emit ALL tokens as
-    Align=count_mismatch with empty lemma/Strong so no wrong data enters the
-    floor.  Prefer missing data over wrong data.
+    The old behavior aborted the whole verse as count_mismatch.  The new difflib
+    resync correctly identifies "χ" as a TSV-only insertion (source_extra) and pairs
+    each of α β γ δ with their correct lemma row -- no naive positional shift.
     """
     # TSV has 5 rows (CCAT insertion at position 2: 'χ' row is extra).
     # Corpus has 4 words: α β γ δ (Swete text).
-    # Naive positional zip would give corpus word 'β' the lemma for 'χ',
-    # 'γ' the lemma for 'β', 'δ' the lemma for 'γ' -- all WRONG after position 2.
+    # Naive positional zip would give 'β' -> chi, 'γ' -> beta, 'δ' -> gamma (all wrong).
+    # difflib sees: equal[α,α], insert[χ], equal[β,β][γ,γ][δ,δ].
     norm = [
         _LXX_ROW(1, "α", "alpha", "G0001"),
-        _LXX_ROW(2, "χ", "chi",   "G0000"),  # extra CCAT row (insertion)
+        _LXX_ROW(2, "χ", "chi",   "G0000"),  # extra CCAT row -- should become source_extra
         _LXX_ROW(3, "β", "beta",  "G0002"),
         _LXX_ROW(4, "γ", "gamma", "G0003"),
         _LXX_ROW(5, "δ", "delta", "G0004"),
     ]
-    l0 = "α β γ δ"  # 4 corpus words vs 5 TSV rows -> count mismatch
+    l0 = "α β γ δ"  # 4 corpus words vs 5 TSV rows
     toks = align_verse("TST.1.1", l0, norm, "grc", morph_scheme="none", positional=True)
 
-    # Whole verse must be aborted: every token has empty lemma + count_mismatch.
-    assert len(toks) == 4, f"expected 4 tokens (one per corpus word), got {len(toks)}"
+    assert len(toks) == 4, f"expected 4 tokens, got {len(toks)}"
+
+    # All four corpus words are correctly paired with their TSV rows.
+    assert toks[0].form == "α" and toks[0].lemma == "alpha"
+    assert "Strong=G0001" in toks[0].misc
+
+    assert toks[1].form == "β" and toks[1].lemma == "beta"
+    assert "Strong=G0002" in toks[1].misc
+
+    assert toks[2].form == "γ" and toks[2].lemma == "gamma"
+    assert "Strong=G0003" in toks[2].misc
+
+    assert toks[3].form == "δ" and toks[3].lemma == "delta"
+    assert "Strong=G0004" in toks[3].misc
+
+    # No count_mismatch anywhere -- difflib resync replaces the whole-verse-abort.
     for tok in toks:
-        assert tok.lemma == "_", (
-            f"token '{tok.form}' got unexpected lemma '{tok.lemma}'; "
-            "count-mismatch verse must produce no lemma data"
-        )
-        assert "count_mismatch" in tok.misc, (
-            f"token '{tok.form}' missing count_mismatch marker in misc: {tok.misc!r}"
-        )
-        assert "Strong=" not in tok.misc, (
-            f"token '{tok.form}' wrongly carries Strong= in a count-mismatch verse: {tok.misc!r}"
+        assert "count_mismatch" not in tok.misc, (
+            f"token '{tok.form}' still has count_mismatch in misc: {tok.misc!r}"
         )
 
-    # Key correctness check: corpus word 'γ' (index 2) must NOT carry beta/G0002
-    # (which naive positional zip would assign because TSV row 2 is 'beta').
-    gamma_tok = toks[2]
-    assert gamma_tok.form == "γ"
-    assert gamma_tok.lemma == "_"  # not "beta"
-    assert "Strong=G0002" not in gamma_tok.misc
+    # The extra TSV row "χ" must be accounted for as source_extra:1 on the last token.
+    source_extra_total = 0
+    for tok in toks:
+        for part in tok.misc.split("|"):
+            if part.startswith("Align="):
+                for val in part[len("Align="):].split(","):
+                    if val.startswith("source_extra:"):
+                        source_extra_total += int(val.split(":")[1])
+    assert source_extra_total == 1, (
+        f"expected source_extra:1 (the 'χ' TSV row), got total {source_extra_total}"
+    )
+
+
+# ---------------------------------------------------------------------------
+# New tests for the difflib-anchored resync algorithm
+# ---------------------------------------------------------------------------
+
+def test_difflib_resync_equal_length_replace_positional():
+    """Equal-length replace block: paired positionally with Align=positional and lemma attached.
+
+    When a corpus word doesn't normalize to the same key as its TSV counterpart
+    (inflected vs. lemma form), but is in an equal-length replace block, the pair
+    is marked Align=positional (lower confidence) with the lemma attached.
+    """
+    norm = [
+        _LXX_ROW(1, "α", "alpha", "G0001"),   # "α"=="α" → equal block, Align=exact
+        _LXX_ROW(2, "φ", "phi",   "G9999"),   # "β"!="φ" → equal-length replace → Align=positional
+    ]
+    l0 = "α β"
+    toks = align_verse("TST.1.2", l0, norm, "grc", morph_scheme="none", positional=True)
+
+    assert len(toks) == 2
+    # "α" is an exact anchor.
+    assert toks[0].lemma == "alpha"
+    assert "Strong=G0001" in toks[0].misc
+    assert "Align=exact" in toks[0].misc
+
+    # "β" is in an equal-length replace block with "φ" → paired positionally.
+    assert toks[1].lemma == "phi"
+    assert "Strong=G9999" in toks[1].misc
+    assert "Align=positional" in toks[1].misc
+    assert "unmatched" not in toks[1].misc
+    assert "count_mismatch" not in toks[1].misc
+
+
+def test_difflib_resync_unequal_replace_unmatched():
+    """Unequal-length replace block: corpus words get Align=unmatched, flanking anchors paired.
+
+    When a corpus-side block has 2 words but the TSV side has only 1 row (or vice
+    versa), pairing would silently mistag at least one word.  Both corpus words in
+    the block are marked Align=unmatched (no Strong=).  The flanking anchor words
+    (which ARE in equal blocks) are correctly paired.
+    """
+    # ck = ["α", "β", "γ", "δ"]
+    # tk = ["α", "φψ", "δ"]
+    # difflib: equal[α,α], replace([β,γ] vs [φψ]) -- unequal 2 vs 1, equal[δ,δ]
+    norm = [
+        _LXX_ROW(1, "α",  "alpha",  "G0001"),
+        _LXX_ROW(2, "φψ", "phipsi", "G8888"),  # 1 TSV row vs 2 corpus words
+        _LXX_ROW(3, "δ",  "delta",  "G0004"),
+    ]
+    l0 = "α β γ δ"  # "β","γ" vs single TSV row "φψ" → unequal replace
+    toks = align_verse("TST.1.3", l0, norm, "grc", morph_scheme="none", positional=True)
+
+    assert len(toks) == 4
+
+    # "α" and "δ" are flanking anchors, correctly paired.
+    assert toks[0].lemma == "alpha" and "Strong=G0001" in toks[0].misc
+    assert toks[3].lemma == "delta" and "Strong=G0004" in toks[3].misc
+
+    # "β" and "γ" are in an unequal replace block → Align=unmatched, no Strong=.
+    assert toks[1].lemma == "_"
+    assert "Align=unmatched" in toks[1].misc
+    assert "Strong=" not in toks[1].misc
+
+    assert toks[2].lemma == "_"
+    assert "Align=unmatched" in toks[2].misc
+    assert "Strong=" not in toks[2].misc

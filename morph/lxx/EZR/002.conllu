@@ -1,743 +1,743 @@
 # ref = EZR.2.1
-1	Καὶ	_	_	_	_	_	_	Align=count_mismatch,source_extra:1
-2	οὗτοι	_	_	_	_	_	_	Align=count_mismatch,source_extra:1
-3	υἱοὶ	_	_	_	_	_	_	Align=count_mismatch,source_extra:1
-4	τῆς	_	_	_	_	_	_	Align=count_mismatch,source_extra:1
-5	χώρας	_	_	_	_	_	_	Align=count_mismatch,source_extra:1
-6	οἱ	_	_	_	_	_	_	Align=count_mismatch,source_extra:1
-7	ἀναβαίνοντες	_	_	_	_	_	_	Align=count_mismatch,source_extra:1
-8	ἐκ	_	_	_	_	_	_	Align=count_mismatch,source_extra:1
-9	τῆς	_	_	_	_	_	_	Align=count_mismatch,source_extra:1
-10	αἰχμαλωσίας	_	_	_	_	_	_	Align=count_mismatch,source_extra:1
-11	τῆς	_	_	_	_	_	_	Align=count_mismatch,source_extra:1
-12	ἀποικίας	_	_	_	_	_	_	Align=count_mismatch,source_extra:1
-13	ἧς	_	_	_	_	_	_	Align=count_mismatch,source_extra:1
-14	ἀποίκισεν	_	_	_	_	_	_	Align=count_mismatch,source_extra:1
-15	Ναβουχοδονοσὸρ	_	_	_	_	_	_	Align=count_mismatch,source_extra:1
-16	βασιλεὺς	_	_	_	_	_	_	Align=count_mismatch,source_extra:1
-17	Βαβυλῶνος	_	_	_	_	_	_	Align=count_mismatch,source_extra:1
-18	εἰς	_	_	_	_	_	_	Align=count_mismatch,source_extra:1
-19	Βαβυλῶνα	_	_	_	_	_	_	Align=count_mismatch,source_extra:1
-20	καὶ	_	_	_	_	_	_	Align=count_mismatch,source_extra:1
-21	ἐπέστρεψεν	_	_	_	_	_	_	Align=count_mismatch,source_extra:1
-22	εἰς	_	_	_	_	_	_	Align=count_mismatch,source_extra:1
-23	Ἰερουσαλὴμ	_	_	_	_	_	_	Align=count_mismatch,source_extra:1
-24	καὶ	_	_	_	_	_	_	Align=count_mismatch,source_extra:1
-25	Ἰουδὰ	_	_	_	_	_	_	Align=count_mismatch,source_extra:1
-26	ἀνὴρ	_	_	_	_	_	_	Align=count_mismatch,source_extra:1
-27	εἰς	_	_	_	_	_	_	Align=count_mismatch,source_extra:1
-28	πόλιν	_	_	_	_	_	_	Align=count_mismatch,source_extra:1
-29	αὐτοῦ	_	_	_	_	_	_	Align=count_mismatch,source_extra:1
+1	Καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+2	οὗτοι	_	_	_	_	_	_	Align=unmatched
+3	υἱοὶ	_	_	_	_	_	_	Align=unmatched
+4	τῆς	_	_	_	_	_	_	Align=unmatched
+5	χώρας	_	_	_	_	_	_	Align=unmatched
+6	οἱ	_	_	_	_	_	_	Align=unmatched
+7	ἀναβαίνοντες	_	_	_	_	_	_	Align=unmatched
+8	ἐκ	_	_	_	_	_	_	Align=unmatched
+9	τῆς	_	_	_	_	_	_	Align=unmatched
+10	αἰχμαλωσίας	_	_	_	_	_	_	Align=unmatched
+11	τῆς	_	_	_	_	_	_	Align=unmatched
+12	ἀποικίας	_	_	_	_	_	_	Align=unmatched
+13	ἧς	_	_	_	_	_	_	Align=unmatched
+14	ἀποίκισεν	_	_	_	_	_	_	Align=unmatched
+15	Ναβουχοδονοσὸρ	Ναβουχοδονοσόρ	_	_	_	_	_	Align=exact
+16	βασιλεὺς	βασιλεύς	_	_	_	_	_	Strong=G0935|Align=exact
+17	Βαβυλῶνος	Βαβυλών	_	_	_	_	_	Strong=G0897|Align=positional
+18	εἰς	εἰς	_	_	_	_	_	Strong=G1519|Align=exact
+19	Βαβυλῶνα	Βαβυλών	_	_	_	_	_	Strong=G0897|Align=positional
+20	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+21	ἐπέστρεψεν	ἐπιστρέφω	_	_	_	_	_	Strong=G1994|Align=positional
+22	εἰς	εἰς	_	_	_	_	_	Strong=G1519|Align=exact
+23	Ἰερουσαλὴμ	Ἱερουσαλήμ	_	_	_	_	_	Strong=G2419|Align=exact
+24	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+25	Ἰουδὰ	Ἰουδά	_	_	_	_	_	Strong=G2448|Align=exact
+26	ἀνὴρ	ἀνήρ	_	_	_	_	_	Strong=G0435|Align=exact
+27	εἰς	εἰς	_	_	_	_	_	Strong=G1519|Align=exact
+28	πόλιν	πόλις	_	_	_	_	_	Strong=G4172|Align=positional
+29	αὐτοῦ	αὐτός	_	_	_	_	_	Strong=G0846|Align=positional,source_extra:14
 
 # ref = EZR.2.2
-1	οἳ	_	_	_	_	_	_	Align=count_mismatch,source_extra:2
-2	ἦλθον	_	_	_	_	_	_	Align=count_mismatch,source_extra:2
-3	μετὰ	_	_	_	_	_	_	Align=count_mismatch,source_extra:2
-4	Ζοροβαβέλ	_	_	_	_	_	_	Align=count_mismatch,source_extra:2
-5	Ἰησοῦς	_	_	_	_	_	_	Align=count_mismatch,source_extra:2
-6	Νεέμιος	_	_	_	_	_	_	Align=count_mismatch,source_extra:2
-7	Ἀραίας	_	_	_	_	_	_	Align=count_mismatch,source_extra:2
-8	Ῥεελειά	_	_	_	_	_	_	Align=count_mismatch,source_extra:2
-9	Μαραθχαῖος	_	_	_	_	_	_	Align=count_mismatch,source_extra:2
-10	Βασφάμ	_	_	_	_	_	_	Align=count_mismatch,source_extra:2
-11	Μαλσάρ	_	_	_	_	_	_	Align=count_mismatch,source_extra:2
-12	Βατουσί	_	_	_	_	_	_	Align=count_mismatch,source_extra:2
-13	Βαλλειά	_	_	_	_	_	_	Align=count_mismatch,source_extra:2
-14	ἀνδρῶν	_	_	_	_	_	_	Align=count_mismatch,source_extra:2
-15	ἀριθμὸς	_	_	_	_	_	_	Align=count_mismatch,source_extra:2
-16	Ἰσραήλ	_	_	_	_	_	_	Align=count_mismatch,source_extra:2
+1	οἳ	ὅς	_	_	_	_	_	Strong=G3739|Align=positional
+2	ἦλθον	ἔρχομαι	_	_	_	_	_	Strong=G2064|Align=positional
+3	μετὰ	μετά	_	_	_	_	_	Strong=G3326|Align=exact
+4	Ζοροβαβέλ	Ζοροβαβέλ	_	_	_	_	_	Align=exact
+5	Ἰησοῦς	Ἰησοῦς	_	_	_	_	_	Strong=G2424|Align=exact
+6	Νεέμιος	_	_	_	_	_	_	Align=unmatched
+7	Ἀραίας	_	_	_	_	_	_	Align=unmatched
+8	Ῥεελειά	_	_	_	_	_	_	Align=unmatched
+9	Μαραθχαῖος	_	_	_	_	_	_	Align=unmatched
+10	Βασφάμ	_	_	_	_	_	_	Align=unmatched
+11	Μαλσάρ	_	_	_	_	_	_	Align=unmatched
+12	Βατουσί	_	_	_	_	_	_	Align=unmatched
+13	Βαλλειά	_	_	_	_	_	_	Align=unmatched
+14	ἀνδρῶν	_	_	_	_	_	_	Align=unmatched
+15	ἀριθμὸς	ἀριθμός	_	_	_	_	_	Strong=G0706|Align=exact
+16	Ἰσραήλ	Ἰσραήλ	_	_	_	_	_	Strong=G2474|Align=exact,source_extra:11
 
 # ref = EZR.2.3
-1	υἱοὶ	υἱός	_	_	_	_	_	Strong=G5207
-2	Φαρές	Φορος	_	_	_	_	_	_
-3	δισχίλιοι	δισχίλιοι	_	_	_	_	_	Strong=G1367
-4	ἑκατὸν	ἑκατόν	_	_	_	_	_	Strong=G1540
-5	ἑβδομήκοντα	ἑβδομήκοντα	_	_	_	_	_	Strong=G1440
-6	δύο	δύο	_	_	_	_	_	Strong=G1417
+1	υἱοὶ	υἱός	_	_	_	_	_	Strong=G5207|Align=positional
+2	Φαρές	Φορος	_	_	_	_	_	Align=positional
+3	δισχίλιοι	δισχίλιοι	_	_	_	_	_	Strong=G1367|Align=exact
+4	ἑκατὸν	ἑκατόν	_	_	_	_	_	Strong=G1540|Align=exact
+5	ἑβδομήκοντα	ἑβδομήκοντα	_	_	_	_	_	Strong=G1440|Align=exact
+6	δύο	δύο	_	_	_	_	_	Strong=G1417|Align=exact
 
 # ref = EZR.2.4
-1	καὶ	_	_	_	_	_	_	Align=count_mismatch,source_short:1
-2	υἱοὶ	_	_	_	_	_	_	Align=count_mismatch,source_short:1
-3	Ἀσάφ	_	_	_	_	_	_	Align=count_mismatch,source_short:1
-4	τετρακόσιοι	_	_	_	_	_	_	Align=count_mismatch,source_short:1
-5	ἑβδομήκοντα	_	_	_	_	_	_	Align=count_mismatch,source_short:1
-6	δύο	_	_	_	_	_	_	Align=count_mismatch,source_short:1
+1	καὶ	_	_	_	_	_	_	Align=unmatched
+2	υἱοὶ	_	_	_	_	_	_	Align=unmatched
+3	Ἀσάφ	_	_	_	_	_	_	Align=unmatched
+4	τετρακόσιοι	_	_	_	_	_	_	Align=unmatched
+5	ἑβδομήκοντα	ἑβδομήκοντα	_	_	_	_	_	Strong=G1440|Align=exact
+6	δύο	δύο	_	_	_	_	_	Strong=G1417|Align=exact,source_extra:3
 
 # ref = EZR.2.5
-1	υἱοὶ	υἱός	_	_	_	_	_	Strong=G5207
-2	Ἠρά	Ηρα	_	_	_	_	_	_
-3	ἑπτακόσιοι	ἑπτακόσιοι	_	_	_	_	_	_
-4	ἑβδομήκοντα	ἑβδομήκοντα	_	_	_	_	_	Strong=G1440
-5	πέντε	πέντε	_	_	_	_	_	Strong=G4002
+1	υἱοὶ	υἱός	_	_	_	_	_	Strong=G5207|Align=positional
+2	Ἠρά	Ηρα	_	_	_	_	_	Align=exact
+3	ἑπτακόσιοι	ἑπτακόσιοι	_	_	_	_	_	Align=exact
+4	ἑβδομήκοντα	ἑβδομήκοντα	_	_	_	_	_	Strong=G1440|Align=exact
+5	πέντε	πέντε	_	_	_	_	_	Strong=G4002|Align=exact
 
 # ref = EZR.2.6
-1	υἱοὶ	υἱός	_	_	_	_	_	Strong=G5207
-2	Φαλαβμωάβ	Φααθμωαβ	_	_	_	_	_	_
-3	τοῖς	ὁ	_	_	_	_	_	Strong=G3588
-4	υἱοῖς	υἱός	_	_	_	_	_	Strong=G5207
-5	Ἰησοῦε	Ιησουε	_	_	_	_	_	_
-6	Ἰωβάβ	Ιωαβ	_	_	_	_	_	_
-7	δισχίλιοι	δισχίλιοι	_	_	_	_	_	Strong=G1367
-8	ὀκτακόσιοι	ὀκτακόσιοι	_	_	_	_	_	_
-9	δέκα	δέκα	_	_	_	_	_	Strong=G1176
-10	δύο	δύο	_	_	_	_	_	Strong=G1417
+1	υἱοὶ	υἱός	_	_	_	_	_	Strong=G5207|Align=positional
+2	Φαλαβμωάβ	Φααθμωαβ	_	_	_	_	_	Align=positional
+3	τοῖς	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+4	υἱοῖς	υἱός	_	_	_	_	_	Strong=G5207|Align=positional
+5	Ἰησοῦε	Ιησουε	_	_	_	_	_	Align=exact
+6	Ἰωβάβ	Ιωαβ	_	_	_	_	_	Align=positional
+7	δισχίλιοι	δισχίλιοι	_	_	_	_	_	Strong=G1367|Align=exact
+8	ὀκτακόσιοι	ὀκτακόσιοι	_	_	_	_	_	Align=exact
+9	δέκα	δέκα	_	_	_	_	_	Strong=G1176|Align=exact
+10	δύο	δύο	_	_	_	_	_	Strong=G1417|Align=exact
 
 # ref = EZR.2.7
-1	υἱοὶ	υἱός	_	_	_	_	_	Strong=G5207
-2	Μαλάμ	Αιλαμ	_	_	_	_	_	_
-3	χίλιοι	χίλιοι	_	_	_	_	_	Strong=G5507
-4	διακόσιοι	διακόσιοι	_	_	_	_	_	Strong=G1250
-5	πεντήκοντα	πεντήκοντα	_	_	_	_	_	Strong=G4004
-6	τέσσαρες	τέσσαρες	_	_	_	_	_	Strong=G5064
+1	υἱοὶ	υἱός	_	_	_	_	_	Strong=G5207|Align=positional
+2	Μαλάμ	Αιλαμ	_	_	_	_	_	Align=positional
+3	χίλιοι	χίλιοι	_	_	_	_	_	Strong=G5507|Align=exact
+4	διακόσιοι	διακόσιοι	_	_	_	_	_	Strong=G1250|Align=exact
+5	πεντήκοντα	πεντήκοντα	_	_	_	_	_	Strong=G4004|Align=exact
+6	τέσσαρες	τέσσαρες	_	_	_	_	_	Strong=G5064|Align=exact
 
 # ref = EZR.2.8
-1	υἱοὶ	υἱός	_	_	_	_	_	Strong=G5207
-2	Ζαθουά	Ζαθουα	_	_	_	_	_	_
-3	ἐννακόσιοι	ἐννακόσιοι	_	_	_	_	_	_
-4	τεσσεράκοντα	τεσσαράκοντα	_	_	_	_	_	_
-5	πέντε	πέντε	_	_	_	_	_	Strong=G4002
+1	υἱοὶ	υἱός	_	_	_	_	_	Strong=G5207|Align=positional
+2	Ζαθουά	Ζαθουα	_	_	_	_	_	Align=exact
+3	ἐννακόσιοι	ἐννακόσιοι	_	_	_	_	_	Align=exact
+4	τεσσεράκοντα	τεσσαράκοντα	_	_	_	_	_	Align=positional
+5	πέντε	πέντε	_	_	_	_	_	Strong=G4002|Align=exact
 
 # ref = EZR.2.9
-1	υἱοὶ	υἱός	_	_	_	_	_	Strong=G5207
-2	Ζακχού	Ζακχου	_	_	_	_	_	_
-3	ἑπτακόσιοι	ἑπτακόσιοι	_	_	_	_	_	_
-4	ἑξήκοντα	ἑξήκοντα	_	_	_	_	_	Strong=G1835
+1	υἱοὶ	υἱός	_	_	_	_	_	Strong=G5207|Align=positional
+2	Ζακχού	Ζακχου	_	_	_	_	_	Align=exact
+3	ἑπτακόσιοι	ἑπτακόσιοι	_	_	_	_	_	Align=exact
+4	ἑξήκοντα	ἑξήκοντα	_	_	_	_	_	Strong=G1835|Align=exact
 
 # ref = EZR.2.10
-1	υἱοὶ	υἱός	_	_	_	_	_	Strong=G5207
-2	Βανού	Βανουι	_	_	_	_	_	_
-3	ἑξακόσιοι	ἑξακόσιοι	_	_	_	_	_	Strong=G1812
-4	τεσσεράκοντα	τεσσαράκοντα	_	_	_	_	_	_
-5	δύο	δύο	_	_	_	_	_	Strong=G1417
+1	υἱοὶ	υἱός	_	_	_	_	_	Strong=G5207|Align=positional
+2	Βανού	Βανουι	_	_	_	_	_	Align=positional
+3	ἑξακόσιοι	ἑξακόσιοι	_	_	_	_	_	Strong=G1812|Align=exact
+4	τεσσεράκοντα	τεσσαράκοντα	_	_	_	_	_	Align=positional
+5	δύο	δύο	_	_	_	_	_	Strong=G1417|Align=exact
 
 # ref = EZR.2.11
-1	υἱοὶ	υἱός	_	_	_	_	_	Strong=G5207
-2	Βαβεί	Βαβι	_	_	_	_	_	_
-3	ἑξακόσιοι	ἑξακόσιοι	_	_	_	_	_	Strong=G1812
-4	εἴκοσι	εἴκοσι	_	_	_	_	_	Strong=G1501
-5	τρεῖς	τρεῖς	_	_	_	_	_	Strong=G5140
+1	υἱοὶ	υἱός	_	_	_	_	_	Strong=G5207|Align=positional
+2	Βαβεί	Βαβι	_	_	_	_	_	Align=positional
+3	ἑξακόσιοι	ἑξακόσιοι	_	_	_	_	_	Strong=G1812|Align=exact
+4	εἴκοσι	εἴκοσι	_	_	_	_	_	Strong=G1501|Align=exact
+5	τρεῖς	τρεῖς	_	_	_	_	_	Strong=G5140|Align=exact
 
 # ref = EZR.2.12
-1	υἱοὶ	υἱός	_	_	_	_	_	Strong=G5207
-2	Ἀσγάδ	Ασγαδ	_	_	_	_	_	_
-3	τρισχίλιοι	τρισχίλιοι	_	_	_	_	_	Strong=G5153
-4	διακόσιοι	διακόσιοι	_	_	_	_	_	Strong=G1250
-5	εἴκοσι	εἴκοσι	_	_	_	_	_	Strong=G1501
-6	δύο	δύο	_	_	_	_	_	Strong=G1417
+1	υἱοὶ	υἱός	_	_	_	_	_	Strong=G5207|Align=positional
+2	Ἀσγάδ	Ασγαδ	_	_	_	_	_	Align=exact
+3	τρισχίλιοι	τρισχίλιοι	_	_	_	_	_	Strong=G5153|Align=exact
+4	διακόσιοι	διακόσιοι	_	_	_	_	_	Strong=G1250|Align=exact
+5	εἴκοσι	εἴκοσι	_	_	_	_	_	Strong=G1501|Align=exact
+6	δύο	δύο	_	_	_	_	_	Strong=G1417|Align=exact
 
 # ref = EZR.2.13
-1	υἱοὶ	υἱός	_	_	_	_	_	Strong=G5207
-2	Ἀδωνικάν	Αδωνικαμ	_	_	_	_	_	_
-3	ἑξακόσιοι	ἑξακόσιοι	_	_	_	_	_	Strong=G1812
-4	ἑξήκοντα	ἑξήκοντα	_	_	_	_	_	Strong=G1835
-5	ἕξ	ἕξ	_	_	_	_	_	Strong=G1803
+1	υἱοὶ	υἱός	_	_	_	_	_	Strong=G5207|Align=positional
+2	Ἀδωνικάν	Αδωνικαμ	_	_	_	_	_	Align=positional
+3	ἑξακόσιοι	ἑξακόσιοι	_	_	_	_	_	Strong=G1812|Align=exact
+4	ἑξήκοντα	ἑξήκοντα	_	_	_	_	_	Strong=G1835|Align=exact
+5	ἕξ	ἕξ	_	_	_	_	_	Strong=G1803|Align=exact
 
 # ref = EZR.2.14
-1	υἱοὶ	υἱός	_	_	_	_	_	Strong=G5207
-2	Βαογεὶ	Βαγοι	_	_	_	_	_	_
-3	δισχίλιοι	δισχίλιοι	_	_	_	_	_	Strong=G1367
-4	πεντήκοντα	πεντήκοντα	_	_	_	_	_	Strong=G4004
-5	ἕξ	ἕξ	_	_	_	_	_	Strong=G1803
+1	υἱοὶ	υἱός	_	_	_	_	_	Strong=G5207|Align=positional
+2	Βαογεὶ	Βαγοι	_	_	_	_	_	Align=positional
+3	δισχίλιοι	δισχίλιοι	_	_	_	_	_	Strong=G1367|Align=exact
+4	πεντήκοντα	πεντήκοντα	_	_	_	_	_	Strong=G4004|Align=exact
+5	ἕξ	ἕξ	_	_	_	_	_	Strong=G1803|Align=exact
 
 # ref = EZR.2.15
-1	υἱοὶ	υἱός	_	_	_	_	_	Strong=G5207
-2	Ἀδίν	Αδίν	_	_	_	_	_	_
-3	τετρακόσιοι	τετρακόσιοι	_	_	_	_	_	Strong=G5071
-4	πεντήκοντα	πεντήκοντα	_	_	_	_	_	Strong=G4004
-5	τέσσαρες	τέσσαρες	_	_	_	_	_	Strong=G5064
+1	υἱοὶ	υἱός	_	_	_	_	_	Strong=G5207|Align=positional
+2	Ἀδίν	Αδίν	_	_	_	_	_	Align=exact
+3	τετρακόσιοι	τετρακόσιοι	_	_	_	_	_	Strong=G5071|Align=exact
+4	πεντήκοντα	πεντήκοντα	_	_	_	_	_	Strong=G4004|Align=exact
+5	τέσσαρες	τέσσαρες	_	_	_	_	_	Strong=G5064|Align=exact
 
 # ref = EZR.2.16
-1	υἱοὶ	υἱός	_	_	_	_	_	Strong=G5207
-2	Ἀτὴρ	Ατηρ	_	_	_	_	_	_
-3	τῷ	ὁ	_	_	_	_	_	Strong=G3588
-4	Ἑζεκίᾳ	Εζεκια	_	_	_	_	_	_
-5	ἐνενήκοντα	ἐνενήκοντα	_	_	_	_	_	_
-6	δύο	ὀκτώ	_	_	_	_	_	Strong=G3638
+1	υἱοὶ	υἱός	_	_	_	_	_	Strong=G5207|Align=positional
+2	Ἀτὴρ	Ατηρ	_	_	_	_	_	Align=exact
+3	τῷ	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+4	Ἑζεκίᾳ	Εζεκια	_	_	_	_	_	Align=exact
+5	ἐνενήκοντα	ἐνενήκοντα	_	_	_	_	_	Align=exact
+6	δύο	ὀκτώ	_	_	_	_	_	Strong=G3638|Align=positional
 
 # ref = EZR.2.17
-1	υἱοὶ	υἱός	_	_	_	_	_	Strong=G5207
-2	Βασού	Βασου	_	_	_	_	_	_
-3	τριακόσιοι	τριακόσιοι	_	_	_	_	_	Strong=G5145
-4	εἴκοσι	εἴκοσι	_	_	_	_	_	Strong=G1501
-5	τρεῖς	τρεῖς	_	_	_	_	_	Strong=G5140
+1	υἱοὶ	υἱός	_	_	_	_	_	Strong=G5207|Align=positional
+2	Βασού	Βασου	_	_	_	_	_	Align=exact
+3	τριακόσιοι	τριακόσιοι	_	_	_	_	_	Strong=G5145|Align=exact
+4	εἴκοσι	εἴκοσι	_	_	_	_	_	Strong=G1501|Align=exact
+5	τρεῖς	τρεῖς	_	_	_	_	_	Strong=G5140|Align=exact
 
 # ref = EZR.2.18
-1	υἱοὶ	υἱός	_	_	_	_	_	Strong=G5207
-2	Οὐρά	Ιωρα	_	_	_	_	_	_
-3	ἑκατὸν	ἑκατόν	_	_	_	_	_	Strong=G1540
-4	δέκα	δέκα	_	_	_	_	_	Strong=G1176
-5	δύο	δύο	_	_	_	_	_	Strong=G1417
+1	υἱοὶ	υἱός	_	_	_	_	_	Strong=G5207|Align=positional
+2	Οὐρά	Ιωρα	_	_	_	_	_	Align=positional
+3	ἑκατὸν	ἑκατόν	_	_	_	_	_	Strong=G1540|Align=exact
+4	δέκα	δέκα	_	_	_	_	_	Strong=G1176|Align=exact
+5	δύο	δύο	_	_	_	_	_	Strong=G1417|Align=exact
 
 # ref = EZR.2.19
-1	υἱοὶ	υἱός	_	_	_	_	_	Strong=G5207
-2	Ἁσέμ	Ασεμ	_	_	_	_	_	_
-3	διακόσιοι	διακόσιοι	_	_	_	_	_	Strong=G1250
-4	εἴκοσι	εἴκοσι	_	_	_	_	_	Strong=G1501
-5	τρεῖς	τρεῖς	_	_	_	_	_	Strong=G5140
+1	υἱοὶ	υἱός	_	_	_	_	_	Strong=G5207|Align=positional
+2	Ἁσέμ	Ασεμ	_	_	_	_	_	Align=exact
+3	διακόσιοι	διακόσιοι	_	_	_	_	_	Strong=G1250|Align=exact
+4	εἴκοσι	εἴκοσι	_	_	_	_	_	Strong=G1501|Align=exact
+5	τρεῖς	τρεῖς	_	_	_	_	_	Strong=G5140|Align=exact
 
 # ref = EZR.2.20
-1	υἱοὶ	υἱός	_	_	_	_	_	Strong=G5207
-2	Ταβέρ	Γαβερ	_	_	_	_	_	_
-3	ἐνενήκοντα	ἐνενήκοντα	_	_	_	_	_	_
-4	πέντε	πέντε	_	_	_	_	_	Strong=G4002
+1	υἱοὶ	υἱός	_	_	_	_	_	Strong=G5207|Align=positional
+2	Ταβέρ	Γαβερ	_	_	_	_	_	Align=positional
+3	ἐνενήκοντα	ἐνενήκοντα	_	_	_	_	_	Align=exact
+4	πέντε	πέντε	_	_	_	_	_	Strong=G4002|Align=exact
 
 # ref = EZR.2.21
-1	υἱοὶ	υἱός	_	_	_	_	_	Strong=G5207
-2	Βαρθαλέεμ	Βαιθλεεμ	_	_	_	_	_	_
-3	ἑκατὸν	ἑκατόν	_	_	_	_	_	Strong=G1540
-4	εἴκοσι	εἴκοσι	_	_	_	_	_	Strong=G1501
-5	τρεῖς	τρεῖς	_	_	_	_	_	Strong=G5140
+1	υἱοὶ	υἱός	_	_	_	_	_	Strong=G5207|Align=positional
+2	Βαρθαλέεμ	Βαιθλεεμ	_	_	_	_	_	Align=positional
+3	ἑκατὸν	ἑκατόν	_	_	_	_	_	Strong=G1540|Align=exact
+4	εἴκοσι	εἴκοσι	_	_	_	_	_	Strong=G1501|Align=exact
+5	τρεῖς	τρεῖς	_	_	_	_	_	Strong=G5140|Align=exact
 
 # ref = EZR.2.22
-1	υἱοὶ	υἱός	_	_	_	_	_	Strong=G5207
-2	Νετωφά	Νετωφα	_	_	_	_	_	_
-3	πεντήκοντα	πεντήκοντα	_	_	_	_	_	Strong=G4004
-4	ἕξ	ἕξ	_	_	_	_	_	Strong=G1803
+1	υἱοὶ	υἱός	_	_	_	_	_	Strong=G5207|Align=positional
+2	Νετωφά	Νετωφα	_	_	_	_	_	Align=exact
+3	πεντήκοντα	πεντήκοντα	_	_	_	_	_	Strong=G4004|Align=exact
+4	ἕξ	ἕξ	_	_	_	_	_	Strong=G1803|Align=exact
 
 # ref = EZR.2.23
-1	υἱοὶ	υἱός	_	_	_	_	_	Strong=G5207
-2	Ἀναθώθ	Αναθωθ	_	_	_	_	_	_
-3	ἑκατὸν	ἑκατόν	_	_	_	_	_	Strong=G1540
-4	εἴκοσι	εἴκοσι	_	_	_	_	_	Strong=G1501
-5	ὀκτώ	ὀκτώ	_	_	_	_	_	Strong=G3638
+1	υἱοὶ	υἱός	_	_	_	_	_	Strong=G5207|Align=positional
+2	Ἀναθώθ	Αναθωθ	_	_	_	_	_	Align=exact
+3	ἑκατὸν	ἑκατόν	_	_	_	_	_	Strong=G1540|Align=exact
+4	εἴκοσι	εἴκοσι	_	_	_	_	_	Strong=G1501|Align=exact
+5	ὀκτώ	ὀκτώ	_	_	_	_	_	Strong=G3638|Align=exact
 
 # ref = EZR.2.24
-1	υἱοὶ	υἱός	_	_	_	_	_	Strong=G5207
-2	Ἀσμώθ	Ασμωθ	_	_	_	_	_	_
-3	τεσσεράκοντα	τεσσαράκοντα	_	_	_	_	_	_
-4	δύο	δύο	_	_	_	_	_	Strong=G1417
+1	υἱοὶ	υἱός	_	_	_	_	_	Strong=G5207|Align=positional
+2	Ἀσμώθ	Ασμωθ	_	_	_	_	_	Align=exact
+3	τεσσεράκοντα	τεσσαράκοντα	_	_	_	_	_	Align=positional
+4	δύο	δύο	_	_	_	_	_	Strong=G1417|Align=exact
 
 # ref = EZR.2.25
-1	υἱοὶ	υἱός	_	_	_	_	_	Strong=G5207
-2	Καριωθιαρόμ	Καριαθιαριμ	_	_	_	_	_	_
-3	Καφειρὰ	Καφιρα	_	_	_	_	_	_
-4	καὶ	καί	_	_	_	_	_	Strong=G2532
-5	Βηρώθ	Βηρωθ	_	_	_	_	_	_
-6	ἑπτακόσιοι	ἑπτακόσιοι	_	_	_	_	_	_
-7	τεσσεράκοντα	τεσσαράκοντα	_	_	_	_	_	_
-8	τρεῖς	τρεῖς	_	_	_	_	_	Strong=G5140
+1	υἱοὶ	υἱός	_	_	_	_	_	Strong=G5207|Align=positional
+2	Καριωθιαρόμ	Καριαθιαριμ	_	_	_	_	_	Align=positional
+3	Καφειρὰ	Καφιρα	_	_	_	_	_	Align=positional
+4	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+5	Βηρώθ	Βηρωθ	_	_	_	_	_	Align=exact
+6	ἑπτακόσιοι	ἑπτακόσιοι	_	_	_	_	_	Align=exact
+7	τεσσεράκοντα	τεσσαράκοντα	_	_	_	_	_	Align=positional
+8	τρεῖς	τρεῖς	_	_	_	_	_	Strong=G5140|Align=exact
 
 # ref = EZR.2.26
-1	υἱοὶ	υἱός	_	_	_	_	_	Strong=G5207
-2	Ἁρὰμ	Αραμα	_	_	_	_	_	_
-3	καὶ	καί	_	_	_	_	_	Strong=G2532
-4	Γάβαα	Γαβαα	_	_	_	_	_	_
-5	ἑξακόσιοι	ἑξακόσιοι	_	_	_	_	_	Strong=G1812
-6	εἴκοσι	εἴκοσι	_	_	_	_	_	Strong=G1501
-7	εἷς	εἷς	_	_	_	_	_	Strong=G1520
+1	υἱοὶ	υἱός	_	_	_	_	_	Strong=G5207|Align=positional
+2	Ἁρὰμ	Αραμα	_	_	_	_	_	Align=positional
+3	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+4	Γάβαα	Γαβαα	_	_	_	_	_	Align=exact
+5	ἑξακόσιοι	ἑξακόσιοι	_	_	_	_	_	Strong=G1812|Align=exact
+6	εἴκοσι	εἴκοσι	_	_	_	_	_	Strong=G1501|Align=exact
+7	εἷς	εἷς	_	_	_	_	_	Strong=G1520|Align=exact
 
 # ref = EZR.2.27
-1	ἄνδρες	ἀνήρ	_	_	_	_	_	Strong=G0435
-2	Μαχμάς	Μαχμας	_	_	_	_	_	_
-3	ἑκατὸν	ἑκατόν	_	_	_	_	_	Strong=G1540
-4	εἴκοσι	εἴκοσι	_	_	_	_	_	Strong=G1501
-5	δύο	δύο	_	_	_	_	_	Strong=G1417
+1	ἄνδρες	ἀνήρ	_	_	_	_	_	Strong=G0435|Align=positional
+2	Μαχμάς	Μαχμας	_	_	_	_	_	Align=exact
+3	ἑκατὸν	ἑκατόν	_	_	_	_	_	Strong=G1540|Align=exact
+4	εἴκοσι	εἴκοσι	_	_	_	_	_	Strong=G1501|Align=exact
+5	δύο	δύο	_	_	_	_	_	Strong=G1417|Align=exact
 
 # ref = EZR.2.28
-1	ἄνδρες	ἀνήρ	_	_	_	_	_	Strong=G0435
-2	Γαιθὴλ	Βαιθηλ	_	_	_	_	_	_
-3	καὶ	καί	_	_	_	_	_	Strong=G2532
-4	Ἀιά	Αϊα	_	_	_	_	_	_
-5	διακόσιοι	τετρακόσιοι	_	_	_	_	_	Strong=G5071
-6	εἴκοσι	εἴκοσι	_	_	_	_	_	Strong=G1501
-7	τρεῖς	τρεῖς	_	_	_	_	_	Strong=G5140
+1	ἄνδρες	ἀνήρ	_	_	_	_	_	Strong=G0435|Align=positional
+2	Γαιθὴλ	Βαιθηλ	_	_	_	_	_	Align=positional
+3	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+4	Ἀιά	Αϊα	_	_	_	_	_	Align=exact
+5	διακόσιοι	τετρακόσιοι	_	_	_	_	_	Strong=G5071|Align=positional
+6	εἴκοσι	εἴκοσι	_	_	_	_	_	Strong=G1501|Align=exact
+7	τρεῖς	τρεῖς	_	_	_	_	_	Strong=G5140|Align=exact
 
 # ref = EZR.2.29
-1	υἱοὶ	υἱός	_	_	_	_	_	Strong=G5207
-2	Ναβού	Ναβου	_	_	_	_	_	_
-3	πεντήκοντα	πεντήκοντα	_	_	_	_	_	Strong=G4004
-4	δύο	δύο	_	_	_	_	_	Strong=G1417
+1	υἱοὶ	υἱός	_	_	_	_	_	Strong=G5207|Align=positional
+2	Ναβού	Ναβου	_	_	_	_	_	Align=exact
+3	πεντήκοντα	πεντήκοντα	_	_	_	_	_	Strong=G4004|Align=exact
+4	δύο	δύο	_	_	_	_	_	Strong=G1417|Align=exact
 
 # ref = EZR.2.30
-1	υἱοὶ	υἱός	_	_	_	_	_	Strong=G5207
-2	Μαγεβώς	Μαγεβως	_	_	_	_	_	_
-3	ἑκατὸν	ἑκατόν	_	_	_	_	_	Strong=G1540
-4	πεντήκοντα	πεντήκοντα	_	_	_	_	_	Strong=G4004
-5	ἕξ	ἕξ	_	_	_	_	_	Strong=G1803
+1	υἱοὶ	υἱός	_	_	_	_	_	Strong=G5207|Align=positional
+2	Μαγεβώς	Μαγεβως	_	_	_	_	_	Align=exact
+3	ἑκατὸν	ἑκατόν	_	_	_	_	_	Strong=G1540|Align=exact
+4	πεντήκοντα	πεντήκοντα	_	_	_	_	_	Strong=G4004|Align=exact
+5	ἕξ	ἕξ	_	_	_	_	_	Strong=G1803|Align=exact
 
 # ref = EZR.2.31
-1	υἱοὶ	υἱός	_	_	_	_	_	Strong=G5207
-2	Ἠλαμάρ	Ηλαμαρ	_	_	_	_	_	_
-3	δισχίλιοι	χίλιοι	_	_	_	_	_	Strong=G5507
-4	διακόσιοι	διακόσιοι	_	_	_	_	_	Strong=G1250
-5	πεντήκοντα	πεντήκοντα	_	_	_	_	_	Strong=G4004
-6	τέσσαρες	τέσσαρες	_	_	_	_	_	Strong=G5064
+1	υἱοὶ	υἱός	_	_	_	_	_	Strong=G5207|Align=positional
+2	Ἠλαμάρ	Ηλαμαρ	_	_	_	_	_	Align=exact
+3	δισχίλιοι	χίλιοι	_	_	_	_	_	Strong=G5507|Align=positional
+4	διακόσιοι	διακόσιοι	_	_	_	_	_	Strong=G1250|Align=exact
+5	πεντήκοντα	πεντήκοντα	_	_	_	_	_	Strong=G4004|Align=exact
+6	τέσσαρες	τέσσαρες	_	_	_	_	_	Strong=G5064|Align=exact
 
 # ref = EZR.2.32
-1	υἱοὶ	υἱός	_	_	_	_	_	Strong=G5207
-2	Ἡράμ	Ηραμ	_	_	_	_	_	_
-3	τριακόσιοι	τριακόσιοι	_	_	_	_	_	Strong=G5145
-4	εἴκοσι	εἴκοσι	_	_	_	_	_	Strong=G1501
+1	υἱοὶ	υἱός	_	_	_	_	_	Strong=G5207|Align=positional
+2	Ἡράμ	Ηραμ	_	_	_	_	_	Align=exact
+3	τριακόσιοι	τριακόσιοι	_	_	_	_	_	Strong=G5145|Align=exact
+4	εἴκοσι	εἴκοσι	_	_	_	_	_	Strong=G1501|Align=exact
 
 # ref = EZR.2.33
-1	υἱοὶ	υἱός	_	_	_	_	_	Strong=G5207
-2	Λόδ	Λοδ	_	_	_	_	_	_
-3	Ἁρὼθ	Αρωθ	_	_	_	_	_	_
-4	καὶ	καί	_	_	_	_	_	Strong=G2532
-5	Ὠνών	Ωνω	_	_	_	_	_	_
-6	ἑξακόσιοι	ἑπτακόσιοι	_	_	_	_	_	_
-7	εἴκοσι	εἴκοσι	_	_	_	_	_	Strong=G1501
-8	πέντε	πέντε	_	_	_	_	_	Strong=G4002
+1	υἱοὶ	υἱός	_	_	_	_	_	Strong=G5207|Align=positional
+2	Λόδ	Λοδ	_	_	_	_	_	Align=exact
+3	Ἁρὼθ	Αρωθ	_	_	_	_	_	Align=exact
+4	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+5	Ὠνών	Ωνω	_	_	_	_	_	Align=positional
+6	ἑξακόσιοι	ἑπτακόσιοι	_	_	_	_	_	Align=positional
+7	εἴκοσι	εἴκοσι	_	_	_	_	_	Strong=G1501|Align=exact
+8	πέντε	πέντε	_	_	_	_	_	Strong=G4002|Align=exact
 
 # ref = EZR.2.34
-1	υἱοὶ	υἱός	_	_	_	_	_	Strong=G5207
-2	Ἰερειά	Ἱεριχώ	_	_	_	_	_	Strong=G2410
-3	τριακόσιοι	τριακόσιοι	_	_	_	_	_	Strong=G5145
-4	τεσσεράκοντα	τεσσαράκοντα	_	_	_	_	_	_
-5	πέντε	πέντε	_	_	_	_	_	Strong=G4002
+1	υἱοὶ	υἱός	_	_	_	_	_	Strong=G5207|Align=positional
+2	Ἰερειά	Ἱεριχώ	_	_	_	_	_	Strong=G2410|Align=positional
+3	τριακόσιοι	τριακόσιοι	_	_	_	_	_	Strong=G5145|Align=exact
+4	τεσσεράκοντα	τεσσαράκοντα	_	_	_	_	_	Align=positional
+5	πέντε	πέντε	_	_	_	_	_	Strong=G4002|Align=exact
 
 # ref = EZR.2.35
-1	υἱοὶ	υἱός	_	_	_	_	_	Strong=G5207
-2	Σαανά	Σαναα	_	_	_	_	_	_
-3	τρισχίλιοι	τρισχίλιοι	_	_	_	_	_	Strong=G5153
-4	ἑξακόσιοι	ἑξακόσιοι	_	_	_	_	_	Strong=G1812
-5	τριάκοντα	τριάκοντα	_	_	_	_	_	Strong=G5144
+1	υἱοὶ	υἱός	_	_	_	_	_	Strong=G5207|Align=positional
+2	Σαανά	Σαναα	_	_	_	_	_	Align=positional
+3	τρισχίλιοι	τρισχίλιοι	_	_	_	_	_	Strong=G5153|Align=exact
+4	ἑξακόσιοι	ἑξακόσιοι	_	_	_	_	_	Strong=G1812|Align=exact
+5	τριάκοντα	τριάκοντα	_	_	_	_	_	Strong=G5144|Align=exact
 
 # ref = EZR.2.36
-1	καὶ	καί	_	_	_	_	_	Strong=G2532
-2	οἱ	ὁ	_	_	_	_	_	Strong=G3588
-3	ἱερεῖς	ἱερεύς	_	_	_	_	_	Strong=G2409
-4	υἱοὶ	υἱός	_	_	_	_	_	Strong=G5207
-5	Ἰεουδὰ	Ιεδουα	_	_	_	_	_	_
-6	τῷ	ὁ	_	_	_	_	_	Strong=G3588
-7	οἴκῳ	οἶκος	_	_	_	_	_	Strong=G3624
-8	Ἰησοῖ	Ἰησοῦς	_	_	_	_	_	Strong=G2424
-9	ἐννακόσιοι	ἐννακόσιοι	_	_	_	_	_	_
-10	ἑβδομήκοντα	ἑβδομήκοντα	_	_	_	_	_	Strong=G1440
-11	τρεῖς	τρεῖς	_	_	_	_	_	Strong=G5140
+1	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+2	οἱ	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+3	ἱερεῖς	ἱερεύς	_	_	_	_	_	Strong=G2409|Align=positional
+4	υἱοὶ	υἱός	_	_	_	_	_	Strong=G5207|Align=positional
+5	Ἰεουδὰ	Ιεδουα	_	_	_	_	_	Align=positional
+6	τῷ	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+7	οἴκῳ	οἶκος	_	_	_	_	_	Strong=G3624|Align=positional
+8	Ἰησοῖ	Ἰησοῦς	_	_	_	_	_	Strong=G2424|Align=positional
+9	ἐννακόσιοι	ἐννακόσιοι	_	_	_	_	_	Align=exact
+10	ἑβδομήκοντα	ἑβδομήκοντα	_	_	_	_	_	Strong=G1440|Align=exact
+11	τρεῖς	τρεῖς	_	_	_	_	_	Strong=G5140|Align=exact
 
 # ref = EZR.2.37
-1	υἱοὶ	υἱός	_	_	_	_	_	Strong=G5207
-2	Ἐμμήρ	Εμμηρ	_	_	_	_	_	_
-3	α	χίλιοι	_	_	_	_	_	Strong=G5507
-4	πεντήκοντα	πεντήκοντα	_	_	_	_	_	Strong=G4004
-5	δύο	δύο	_	_	_	_	_	Strong=G1417
+1	υἱοὶ	υἱός	_	_	_	_	_	Strong=G5207|Align=positional
+2	Ἐμμήρ	Εμμηρ	_	_	_	_	_	Align=exact
+3	α	χίλιοι	_	_	_	_	_	Strong=G5507|Align=positional
+4	πεντήκοντα	πεντήκοντα	_	_	_	_	_	Strong=G4004|Align=exact
+5	δύο	δύο	_	_	_	_	_	Strong=G1417|Align=exact
 
 # ref = EZR.2.38
-1	υἱοὶ	υἱός	_	_	_	_	_	Strong=G5207
-2	Φασσούρ	Φασσουρ	_	_	_	_	_	_
-3	α	χίλιοι	_	_	_	_	_	Strong=G5507
-4	διακόσιοι	διακόσιοι	_	_	_	_	_	Strong=G1250
-5	τεσσεράκοντα	τεσσαράκοντα	_	_	_	_	_	_
-6	ἑπτά	ἑπτά	_	_	_	_	_	Strong=G2033
+1	υἱοὶ	υἱός	_	_	_	_	_	Strong=G5207|Align=positional
+2	Φασσούρ	Φασσουρ	_	_	_	_	_	Align=exact
+3	α	χίλιοι	_	_	_	_	_	Strong=G5507|Align=positional
+4	διακόσιοι	διακόσιοι	_	_	_	_	_	Strong=G1250|Align=exact
+5	τεσσεράκοντα	τεσσαράκοντα	_	_	_	_	_	Align=positional
+6	ἑπτά	ἑπτά	_	_	_	_	_	Strong=G2033|Align=exact
 
 # ref = EZR.2.40
-1	καὶ	καί	_	_	_	_	_	Strong=G2532
-2	οἱ	ὁ	_	_	_	_	_	Strong=G3588
-3	Λευεῖται	Λευΐτης	_	_	_	_	_	Strong=G3019
-4	υἱοὶ	υἱός	_	_	_	_	_	Strong=G5207
-5	Ἰησοῦε	Ἰησοῦς	_	_	_	_	_	Strong=G2424
-6	καὶ	καί	_	_	_	_	_	Strong=G2532
-7	Καδμιὴλ	Καδμιηλ	_	_	_	_	_	_
-8	τοῖς	ὁ	_	_	_	_	_	Strong=G3588
-9	υἱοῖς	υἱός	_	_	_	_	_	Strong=G5207
-10	Σοδουιά	Ωδουια	_	_	_	_	_	_
-11	ἑβδομήκοντα	ἑβδομήκοντα	_	_	_	_	_	Strong=G1440
-12	τέσσαρες	τέσσαρες	_	_	_	_	_	Strong=G5064
+1	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+2	οἱ	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+3	Λευεῖται	Λευΐτης	_	_	_	_	_	Strong=G3019|Align=positional
+4	υἱοὶ	υἱός	_	_	_	_	_	Strong=G5207|Align=positional
+5	Ἰησοῦε	Ἰησοῦς	_	_	_	_	_	Strong=G2424|Align=positional
+6	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+7	Καδμιὴλ	Καδμιηλ	_	_	_	_	_	Align=exact
+8	τοῖς	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+9	υἱοῖς	υἱός	_	_	_	_	_	Strong=G5207|Align=positional
+10	Σοδουιά	Ωδουια	_	_	_	_	_	Align=positional
+11	ἑβδομήκοντα	ἑβδομήκοντα	_	_	_	_	_	Strong=G1440|Align=exact
+12	τέσσαρες	τέσσαρες	_	_	_	_	_	Strong=G5064|Align=exact
 
 # ref = EZR.2.41
-1	οἱ	ὁ	_	_	_	_	_	Strong=G3588
-2	ᾄδοντες	ᾄδω	_	_	_	_	_	Strong=G0103
-3	υἱοὶ	υἱός	_	_	_	_	_	Strong=G5207
-4	Ἀσάφ	Ἀσάφ	_	_	_	_	_	_
-5	ἑκατὸν	ἑκατόν	_	_	_	_	_	Strong=G1540
-6	τεσσεράκοντα	εἴκοσι	_	_	_	_	_	Strong=G1501
-7	ὀκτώ	ὀκτώ	_	_	_	_	_	Strong=G3638
+1	οἱ	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+2	ᾄδοντες	ᾄδω	_	_	_	_	_	Strong=G0103|Align=positional
+3	υἱοὶ	υἱός	_	_	_	_	_	Strong=G5207|Align=positional
+4	Ἀσάφ	Ἀσάφ	_	_	_	_	_	Align=exact
+5	ἑκατὸν	ἑκατόν	_	_	_	_	_	Strong=G1540|Align=exact
+6	τεσσεράκοντα	εἴκοσι	_	_	_	_	_	Strong=G1501|Align=positional
+7	ὀκτώ	ὀκτώ	_	_	_	_	_	Strong=G3638|Align=exact
 
 # ref = EZR.2.42
-1	υἱοὶ	υἱός	_	_	_	_	_	Strong=G5207
-2	τῶν	ὁ	_	_	_	_	_	Strong=G3588
-3	πυλῶν	πυλωρός	_	_	_	_	_	_
-4	υἱοὶ	υἱός	_	_	_	_	_	Strong=G5207
-5	Σαλούμ	Σαλούμ	_	_	_	_	_	_
-6	υἱοὶ	υἱός	_	_	_	_	_	Strong=G5207
-7	Ἀτήρ	Ατηρ	_	_	_	_	_	_
-8	υἱοὶ	υἱός	_	_	_	_	_	Strong=G5207
-9	Τελμών	Τελμων	_	_	_	_	_	_
-10	υἱοὶ	υἱός	_	_	_	_	_	Strong=G5207
-11	Ἀκούμ	Ακουβ	_	_	_	_	_	_
-12	υἱοὶ	υἱός	_	_	_	_	_	Strong=G5207
-13	Ἁτητά	Ατιτα	_	_	_	_	_	_
-14	υἱοὶ	υἱός	_	_	_	_	_	Strong=G5207
-15	Ἀβαού	Σαβαου	_	_	_	_	_	_
-16	οἱ	ὁ	_	_	_	_	_	Strong=G3588
-17	πάντες	πᾶς	_	_	_	_	_	Strong=G3956
-18	ἑκατὸν	ἑκατόν	_	_	_	_	_	Strong=G1540
-19	τριάκοντα	τριάκοντα	_	_	_	_	_	Strong=G5144
-20	ἐννέα	ἐννέα	_	_	_	_	_	Strong=G1767
+1	υἱοὶ	υἱός	_	_	_	_	_	Strong=G5207|Align=positional
+2	τῶν	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+3	πυλῶν	πυλωρός	_	_	_	_	_	Align=positional
+4	υἱοὶ	υἱός	_	_	_	_	_	Strong=G5207|Align=positional
+5	Σαλούμ	Σαλούμ	_	_	_	_	_	Align=exact
+6	υἱοὶ	υἱός	_	_	_	_	_	Strong=G5207|Align=positional
+7	Ἀτήρ	Ατηρ	_	_	_	_	_	Align=exact
+8	υἱοὶ	υἱός	_	_	_	_	_	Strong=G5207|Align=positional
+9	Τελμών	Τελμων	_	_	_	_	_	Align=exact
+10	υἱοὶ	υἱός	_	_	_	_	_	Strong=G5207|Align=positional
+11	Ἀκούμ	Ακουβ	_	_	_	_	_	Align=positional
+12	υἱοὶ	υἱός	_	_	_	_	_	Strong=G5207|Align=positional
+13	Ἁτητά	Ατιτα	_	_	_	_	_	Align=positional
+14	υἱοὶ	υἱός	_	_	_	_	_	Strong=G5207|Align=positional
+15	Ἀβαού	Σαβαου	_	_	_	_	_	Align=positional
+16	οἱ	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+17	πάντες	πᾶς	_	_	_	_	_	Strong=G3956|Align=positional
+18	ἑκατὸν	ἑκατόν	_	_	_	_	_	Strong=G1540|Align=exact
+19	τριάκοντα	τριάκοντα	_	_	_	_	_	Strong=G5144|Align=exact
+20	ἐννέα	ἐννέα	_	_	_	_	_	Strong=G1767|Align=exact
 
 # ref = EZR.2.43
-1	οἱ	ὁ	_	_	_	_	_	Strong=G3588
-2	Ναθεινίμ	ναθιναῖοι	_	_	_	_	_	_
-3	υἱοὶ	υἱός	_	_	_	_	_	Strong=G5207
-4	Σουθιά	Σουια	_	_	_	_	_	_
-5	υἱοὶ	υἱός	_	_	_	_	_	Strong=G5207
-6	Ἁσουφέ	Ασουφε	_	_	_	_	_	_
-7	υἱοὶ	υἱός	_	_	_	_	_	Strong=G5207
-8	Ταβώθ	Ταβαωθ	_	_	_	_	_	_
+1	οἱ	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+2	Ναθεινίμ	ναθιναῖοι	_	_	_	_	_	Align=positional
+3	υἱοὶ	υἱός	_	_	_	_	_	Strong=G5207|Align=positional
+4	Σουθιά	Σουια	_	_	_	_	_	Align=positional
+5	υἱοὶ	υἱός	_	_	_	_	_	Strong=G5207|Align=positional
+6	Ἁσουφέ	Ασουφε	_	_	_	_	_	Align=exact
+7	υἱοὶ	υἱός	_	_	_	_	_	Strong=G5207|Align=positional
+8	Ταβώθ	Ταβαωθ	_	_	_	_	_	Align=positional
 
 # ref = EZR.2.44
-1	υἱοὶ	υἱός	_	_	_	_	_	Strong=G5207
-2	Καδής	Κηραος	_	_	_	_	_	_
-3	υἱοὶ	υἱός	_	_	_	_	_	Strong=G5207
-4	Σωήλ	Σωηα	_	_	_	_	_	_
-5	υἱοὶ	υἱός	_	_	_	_	_	Strong=G5207
-6	Φαδών	Φαδων	_	_	_	_	_	_
+1	υἱοὶ	υἱός	_	_	_	_	_	Strong=G5207|Align=positional
+2	Καδής	Κηραος	_	_	_	_	_	Align=positional
+3	υἱοὶ	υἱός	_	_	_	_	_	Strong=G5207|Align=positional
+4	Σωήλ	Σωηα	_	_	_	_	_	Align=positional
+5	υἱοὶ	υἱός	_	_	_	_	_	Strong=G5207|Align=positional
+6	Φαδών	Φαδων	_	_	_	_	_	Align=exact
 
 # ref = EZR.2.45
-1	υἱοὶ	υἱός	_	_	_	_	_	Strong=G5207
-2	Λαβανώ	Λαβανω	_	_	_	_	_	_
-3	υἱοὶ	υἱός	_	_	_	_	_	Strong=G5207
-4	Ἁγαβά	Αγαβα	_	_	_	_	_	_
-5	υἱοὶ	υἱός	_	_	_	_	_	Strong=G5207
-6	Ἀκαβώθ	Ακαβωθ	_	_	_	_	_	_
+1	υἱοὶ	υἱός	_	_	_	_	_	Strong=G5207|Align=positional
+2	Λαβανώ	Λαβανω	_	_	_	_	_	Align=exact
+3	υἱοὶ	υἱός	_	_	_	_	_	Strong=G5207|Align=positional
+4	Ἁγαβά	Αγαβα	_	_	_	_	_	Align=exact
+5	υἱοὶ	υἱός	_	_	_	_	_	Strong=G5207|Align=positional
+6	Ἀκαβώθ	Ακαβωθ	_	_	_	_	_	Align=exact
 
 # ref = EZR.2.46
-1	υἱοὶ	υἱός	_	_	_	_	_	Strong=G5207
-2	Ἁγάβ	Αγαβ	_	_	_	_	_	_
-3	υἱοὶ	υἱός	_	_	_	_	_	Strong=G5207
-4	Σαμαάν	Σαμαλαι	_	_	_	_	_	_
-5	υἱοὶ	υἱός	_	_	_	_	_	Strong=G5207
-6	Ἁνάν	Αναν	_	_	_	_	_	_
+1	υἱοὶ	υἱός	_	_	_	_	_	Strong=G5207|Align=positional
+2	Ἁγάβ	Αγαβ	_	_	_	_	_	Align=exact
+3	υἱοὶ	υἱός	_	_	_	_	_	Strong=G5207|Align=positional
+4	Σαμαάν	Σαμαλαι	_	_	_	_	_	Align=positional
+5	υἱοὶ	υἱός	_	_	_	_	_	Strong=G5207|Align=positional
+6	Ἁνάν	Αναν	_	_	_	_	_	Align=exact
 
 # ref = EZR.2.47
-1	υἱοὶ	υἱός	_	_	_	_	_	Strong=G5207
-2	Κεδέδ	Κεδελ	_	_	_	_	_	_
-3	υἱοὶ	υἱός	_	_	_	_	_	Strong=G5207
-4	Γάελ	Γαερ	_	_	_	_	_	_
-5	υἱοὶ	υἱός	_	_	_	_	_	Strong=G5207
-6	Ῥεήλ	Ρεηα	_	_	_	_	_	_
+1	υἱοὶ	υἱός	_	_	_	_	_	Strong=G5207|Align=positional
+2	Κεδέδ	Κεδελ	_	_	_	_	_	Align=positional
+3	υἱοὶ	υἱός	_	_	_	_	_	Strong=G5207|Align=positional
+4	Γάελ	Γαερ	_	_	_	_	_	Align=positional
+5	υἱοὶ	υἱός	_	_	_	_	_	Strong=G5207|Align=positional
+6	Ῥεήλ	Ρεηα	_	_	_	_	_	Align=positional
 
 # ref = EZR.2.48
-1	υἱοὶ	υἱός	_	_	_	_	_	Strong=G5207
-2	Ῥασών	Ρασων	_	_	_	_	_	_
-3	υἱοὶ	υἱός	_	_	_	_	_	Strong=G5207
-4	Νεχωδά	Νεκωδα	_	_	_	_	_	_
-5	υἱοὶ	υἱός	_	_	_	_	_	Strong=G5207
-6	Γαζέμ	Γαζεμ	_	_	_	_	_	_
+1	υἱοὶ	υἱός	_	_	_	_	_	Strong=G5207|Align=positional
+2	Ῥασών	Ρασων	_	_	_	_	_	Align=exact
+3	υἱοὶ	υἱός	_	_	_	_	_	Strong=G5207|Align=positional
+4	Νεχωδά	Νεκωδα	_	_	_	_	_	Align=positional
+5	υἱοὶ	υἱός	_	_	_	_	_	Strong=G5207|Align=positional
+6	Γαζέμ	Γαζεμ	_	_	_	_	_	Align=exact
 
 # ref = EZR.2.49
-1	υἱοὶ	υἱός	_	_	_	_	_	Strong=G5207
-2	Οὐσά	Ουσα	_	_	_	_	_	_
-3	υἱοὶ	υἱός	_	_	_	_	_	Strong=G5207
-4	Φισόν	Φαση	_	_	_	_	_	_
-5	υἱοὶ	υἱός	_	_	_	_	_	Strong=G5207
-6	Βασεί	Βασι	_	_	_	_	_	_
+1	υἱοὶ	υἱός	_	_	_	_	_	Strong=G5207|Align=positional
+2	Οὐσά	Ουσα	_	_	_	_	_	Align=exact
+3	υἱοὶ	υἱός	_	_	_	_	_	Strong=G5207|Align=positional
+4	Φισόν	Φαση	_	_	_	_	_	Align=positional
+5	υἱοὶ	υἱός	_	_	_	_	_	Strong=G5207|Align=positional
+6	Βασεί	Βασι	_	_	_	_	_	Align=positional
 
 # ref = EZR.2.50
-1	υἱοὶ	υἱός	_	_	_	_	_	Strong=G5207
-2	Ἀσενά	Ασενα	_	_	_	_	_	_
-3	υἱοὶ	υἱός	_	_	_	_	_	Strong=G5207
-4	Μανωεμείν	Μαωνιμ	_	_	_	_	_	_
-5	υἱοὶ	υἱός	_	_	_	_	_	Strong=G5207
-6	Ναφεισών	Ναφισων	_	_	_	_	_	_
+1	υἱοὶ	υἱός	_	_	_	_	_	Strong=G5207|Align=positional
+2	Ἀσενά	Ασενα	_	_	_	_	_	Align=exact
+3	υἱοὶ	υἱός	_	_	_	_	_	Strong=G5207|Align=positional
+4	Μανωεμείν	Μαωνιμ	_	_	_	_	_	Align=positional
+5	υἱοὶ	υἱός	_	_	_	_	_	Strong=G5207|Align=positional
+6	Ναφεισών	Ναφισων	_	_	_	_	_	Align=positional
 
 # ref = EZR.2.51
-1	υἱοὶ	υἱός	_	_	_	_	_	Strong=G5207
-2	Βακκούκ	Βακβουκ	_	_	_	_	_	_
-3	υἱοὶ	υἱός	_	_	_	_	_	Strong=G5207
-4	Ἁφεικά	Ακιφα	_	_	_	_	_	_
-5	υἱοὶ	υἱός	_	_	_	_	_	Strong=G5207
-6	Ἁρούρ	Αρουρ	_	_	_	_	_	_
+1	υἱοὶ	υἱός	_	_	_	_	_	Strong=G5207|Align=positional
+2	Βακκούκ	Βακβουκ	_	_	_	_	_	Align=positional
+3	υἱοὶ	υἱός	_	_	_	_	_	Strong=G5207|Align=positional
+4	Ἁφεικά	Ακιφα	_	_	_	_	_	Align=positional
+5	υἱοὶ	υἱός	_	_	_	_	_	Strong=G5207|Align=positional
+6	Ἁρούρ	Αρουρ	_	_	_	_	_	Align=exact
 
 # ref = EZR.2.52
-1	υἱοὶ	υἱός	_	_	_	_	_	Strong=G5207
-2	Βασαδῶε	Βασαλωθ	_	_	_	_	_	_
-3	υἱοὶ	υἱός	_	_	_	_	_	Strong=G5207
-4	Μαουδά	Μαουδα	_	_	_	_	_	_
-5	υἱοὶ	υἱός	_	_	_	_	_	Strong=G5207
-6	Ἁρησά	Αρησα	_	_	_	_	_	_
+1	υἱοὶ	υἱός	_	_	_	_	_	Strong=G5207|Align=positional
+2	Βασαδῶε	Βασαλωθ	_	_	_	_	_	Align=positional
+3	υἱοὶ	υἱός	_	_	_	_	_	Strong=G5207|Align=positional
+4	Μαουδά	Μαουδα	_	_	_	_	_	Align=exact
+5	υἱοὶ	υἱός	_	_	_	_	_	Strong=G5207|Align=positional
+6	Ἁρησά	Αρησα	_	_	_	_	_	Align=exact
 
 # ref = EZR.2.53
-1	υἱοὶ	_	_	_	_	_	_	Align=count_mismatch,source_extra:2
-2	Βαρκούς	_	_	_	_	_	_	Align=count_mismatch,source_extra:2
-3	υἱοὶ	_	_	_	_	_	_	Align=count_mismatch,source_extra:2
-4	Θέμα	_	_	_	_	_	_	Align=count_mismatch,source_extra:2
+1	υἱοὶ	υἱός	_	_	_	_	_	Strong=G5207|Align=positional
+2	Βαρκούς	Βαρκους	_	_	_	_	_	Align=exact
+3	υἱοὶ	_	_	_	_	_	_	Align=unmatched
+4	Θέμα	Θεμα	_	_	_	_	_	Align=exact,source_extra:3
 
 # ref = EZR.2.54
-1	υἱοὶ	υἱός	_	_	_	_	_	Strong=G5207
-2	Νασούς	Νασουε	_	_	_	_	_	_
-3	υἱοὶ	υἱός	_	_	_	_	_	Strong=G5207
-4	Ἁτουφά	Ατουφα	_	_	_	_	_	_
+1	υἱοὶ	υἱός	_	_	_	_	_	Strong=G5207|Align=positional
+2	Νασούς	Νασουε	_	_	_	_	_	Align=positional
+3	υἱοὶ	υἱός	_	_	_	_	_	Strong=G5207|Align=positional
+4	Ἁτουφά	Ατουφα	_	_	_	_	_	Align=exact
 
 # ref = EZR.2.55
-1	υἱοὶ	υἱός	_	_	_	_	_	Strong=G5207
-2	Ἀβδησέλ	Αβδησελμα	_	_	_	_	_	_
-3	υἱοὶ	υἱός	_	_	_	_	_	Strong=G5207
-4	Σατεί	Σατι	_	_	_	_	_	_
-5	υἱοὶ	υἱός	_	_	_	_	_	Strong=G5207
-6	Ἁσεφῆραθ	Ασεφηραθ	_	_	_	_	_	_
-7	υἱοὶ	υἱός	_	_	_	_	_	Strong=G5207
-8	Φαδουρά	Φαδουρα	_	_	_	_	_	_
+1	υἱοὶ	υἱός	_	_	_	_	_	Strong=G5207|Align=positional
+2	Ἀβδησέλ	Αβδησελμα	_	_	_	_	_	Align=positional
+3	υἱοὶ	υἱός	_	_	_	_	_	Strong=G5207|Align=positional
+4	Σατεί	Σατι	_	_	_	_	_	Align=positional
+5	υἱοὶ	υἱός	_	_	_	_	_	Strong=G5207|Align=positional
+6	Ἁσεφῆραθ	Ασεφηραθ	_	_	_	_	_	Align=exact
+7	υἱοὶ	υἱός	_	_	_	_	_	Strong=G5207|Align=positional
+8	Φαδουρά	Φαδουρα	_	_	_	_	_	Align=exact
 
 # ref = EZR.2.56
-1	υἱοὶ	υἱός	_	_	_	_	_	Strong=G5207
-2	Ἰεηλά	Ιεηλα	_	_	_	_	_	_
-3	υἱοὶ	υἱός	_	_	_	_	_	Strong=G5207
-4	Δαρκών	Δαρκων	_	_	_	_	_	_
-5	υἱοὶ	υἱός	_	_	_	_	_	Strong=G5207
-6	Γεδηά	Γεδηλ	_	_	_	_	_	_
+1	υἱοὶ	υἱός	_	_	_	_	_	Strong=G5207|Align=positional
+2	Ἰεηλά	Ιεηλα	_	_	_	_	_	Align=exact
+3	υἱοὶ	υἱός	_	_	_	_	_	Strong=G5207|Align=positional
+4	Δαρκών	Δαρκων	_	_	_	_	_	Align=exact
+5	υἱοὶ	υἱός	_	_	_	_	_	Strong=G5207|Align=positional
+6	Γεδηά	Γεδηλ	_	_	_	_	_	Align=positional
 
 # ref = EZR.2.57
-1	υἱοὶ	_	_	_	_	_	_	Align=count_mismatch,source_short:2
-2	Σαφατειά	_	_	_	_	_	_	Align=count_mismatch,source_short:2
-3	υἱοὶ	_	_	_	_	_	_	Align=count_mismatch,source_short:2
-4	Ἁτειά	_	_	_	_	_	_	Align=count_mismatch,source_short:2
-5	υἱοὶ	_	_	_	_	_	_	Align=count_mismatch,source_short:2
-6	Φασράθ	_	_	_	_	_	_	Align=count_mismatch,source_short:2
-7	υἱοὶ	_	_	_	_	_	_	Align=count_mismatch,source_short:2
-8	Ἁσεβωείν	_	_	_	_	_	_	Align=count_mismatch,source_short:2
-9	υἱοὶ	_	_	_	_	_	_	Align=count_mismatch,source_short:2
-10	Ἠμεί	_	_	_	_	_	_	Align=count_mismatch,source_short:2
+1	υἱοὶ	_	_	_	_	_	_	Align=unmatched
+2	Σαφατειά	_	_	_	_	_	_	Align=unmatched
+3	υἱοὶ	_	_	_	_	_	_	Align=unmatched
+4	Ἁτειά	_	_	_	_	_	_	Align=unmatched
+5	υἱοὶ	_	_	_	_	_	_	Align=unmatched
+6	Φασράθ	_	_	_	_	_	_	Align=unmatched
+7	υἱοὶ	_	_	_	_	_	_	Align=unmatched
+8	Ἁσεβωείν	_	_	_	_	_	_	Align=unmatched
+9	υἱοὶ	_	_	_	_	_	_	Align=unmatched
+10	Ἠμεί	_	_	_	_	_	_	Align=unmatched,source_extra:8
 
 # ref = EZR.2.58
-1	πάντες	_	_	_	_	_	_	Align=count_mismatch,source_extra:2
-2	οἱ	_	_	_	_	_	_	Align=count_mismatch,source_extra:2
-3	Ναθεινὶν	_	_	_	_	_	_	Align=count_mismatch,source_extra:2
-4	καὶ	_	_	_	_	_	_	Align=count_mismatch,source_extra:2
-5	υἱοὶ	_	_	_	_	_	_	Align=count_mismatch,source_extra:2
-6	Ἀσεδησελμὰ	_	_	_	_	_	_	Align=count_mismatch,source_extra:2
-7	τοβ᾽	_	_	_	_	_	_	Align=count_mismatch,source_extra:2
+1	πάντες	πᾶς	_	_	_	_	_	Strong=G3956|Align=positional
+2	οἱ	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+3	Ναθεινὶν	ναθινιν	_	_	_	_	_	Align=positional
+4	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+5	υἱοὶ	_	_	_	_	_	_	Align=unmatched
+6	Ἀσεδησελμὰ	_	_	_	_	_	_	Align=unmatched
+7	τοβ᾽	_	_	_	_	_	_	Align=unmatched,source_extra:5
 
 # ref = EZR.2.59
-1	καὶ	_	_	_	_	_	_	Align=count_mismatch,source_extra:1
-2	οὗτοι	_	_	_	_	_	_	Align=count_mismatch,source_extra:1
-3	οἱ	_	_	_	_	_	_	Align=count_mismatch,source_extra:1
-4	ἀναβάντες	_	_	_	_	_	_	Align=count_mismatch,source_extra:1
-5	ἀπὸ	_	_	_	_	_	_	Align=count_mismatch,source_extra:1
-6	Θερμέλεθ	_	_	_	_	_	_	Align=count_mismatch,source_extra:1
-7	Θααρησά	_	_	_	_	_	_	Align=count_mismatch,source_extra:1
-8	Χαρούς	_	_	_	_	_	_	Align=count_mismatch,source_extra:1
-9	Ἠδάν	_	_	_	_	_	_	Align=count_mismatch,source_extra:1
-10	Ἐμήρ	_	_	_	_	_	_	Align=count_mismatch,source_extra:1
-11	καὶ	_	_	_	_	_	_	Align=count_mismatch,source_extra:1
-12	οὐκ	_	_	_	_	_	_	Align=count_mismatch,source_extra:1
-13	ἠδυνάσθησαν	_	_	_	_	_	_	Align=count_mismatch,source_extra:1
-14	ἀναγγεῖλαι	_	_	_	_	_	_	Align=count_mismatch,source_extra:1
-15	οἶκον	_	_	_	_	_	_	Align=count_mismatch,source_extra:1
-16	πατριᾶς	_	_	_	_	_	_	Align=count_mismatch,source_extra:1
-17	αὐτῶν	_	_	_	_	_	_	Align=count_mismatch,source_extra:1
-18	καὶ	_	_	_	_	_	_	Align=count_mismatch,source_extra:1
-19	σπέρμα	_	_	_	_	_	_	Align=count_mismatch,source_extra:1
-20	αὐτῶν	_	_	_	_	_	_	Align=count_mismatch,source_extra:1
-21	εἰ	_	_	_	_	_	_	Align=count_mismatch,source_extra:1
-22	ἐν	_	_	_	_	_	_	Align=count_mismatch,source_extra:1
-23	Ἰσραὴλ	_	_	_	_	_	_	Align=count_mismatch,source_extra:1
-24	εἰσίν	_	_	_	_	_	_	Align=count_mismatch,source_extra:1
+1	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+2	οὗτοι	οὗτος	_	_	_	_	_	Strong=G3778|Align=positional
+3	οἱ	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+4	ἀναβάντες	ἀναβαίνω	_	_	_	_	_	Strong=G0305|Align=positional
+5	ἀπὸ	ἀπό	_	_	_	_	_	Strong=G0575|Align=exact
+6	Θερμέλεθ	Θελμελεθ	_	_	_	_	_	Align=positional
+7	Θααρησά	Θελαρησα	_	_	_	_	_	Align=positional
+8	Χαρούς	Χαρουβ	_	_	_	_	_	Align=positional
+9	Ἠδάν	Ηδαν	_	_	_	_	_	Align=exact
+10	Ἐμήρ	Εμμηρ	_	_	_	_	_	Align=positional
+11	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+12	οὐκ	_	_	_	_	_	_	Align=unmatched
+13	ἠδυνάσθησαν	_	_	_	_	_	_	Align=unmatched
+14	ἀναγγεῖλαι	_	_	_	_	_	_	Align=unmatched
+15	οἶκον	_	_	_	_	_	_	Align=unmatched
+16	πατριᾶς	_	_	_	_	_	_	Align=unmatched
+17	αὐτῶν	_	_	_	_	_	_	Align=unmatched
+18	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+19	σπέρμα	σπέρμα	_	_	_	_	_	Strong=G4690|Align=exact
+20	αὐτῶν	αὐτός	_	_	_	_	_	Strong=G0846|Align=positional
+21	εἰ	εἰ	_	_	_	_	_	Strong=G1487|Align=exact
+22	ἐν	ἐκ	_	_	_	_	_	Strong=G1537|Align=positional
+23	Ἰσραὴλ	Ἰσραήλ	_	_	_	_	_	Strong=G2474|Align=exact
+24	εἰσίν	εἰμί	_	_	_	_	_	Strong=G1510|Align=positional,source_extra:7
 
 # ref = EZR.2.60
-1	υἱοὶ	υἱός	_	_	_	_	_	Strong=G5207
-2	Λαχεά	Δαλαια	_	_	_	_	_	_
-3	υἱοὶ	υἱός	_	_	_	_	_	Strong=G5207
-4	Βουά	Βουα	_	_	_	_	_	_
-5	υἱοὶ	υἱός	_	_	_	_	_	Strong=G5207
-6	Τωβειά	Τωβια	_	_	_	_	_	_
-7	υἱοὶ	υἱός	_	_	_	_	_	Strong=G5207
-8	Νεκωδά	Νεκωδα	_	_	_	_	_	_
-9	ἑξακόσιοι	ἑξακόσιοι	_	_	_	_	_	Strong=G1812
-10	πεντήκοντα	πεντήκοντα	_	_	_	_	_	Strong=G4004
-11	δύο	δύο	_	_	_	_	_	Strong=G1417
+1	υἱοὶ	υἱός	_	_	_	_	_	Strong=G5207|Align=positional
+2	Λαχεά	Δαλαια	_	_	_	_	_	Align=positional
+3	υἱοὶ	υἱός	_	_	_	_	_	Strong=G5207|Align=positional
+4	Βουά	Βουα	_	_	_	_	_	Align=exact
+5	υἱοὶ	υἱός	_	_	_	_	_	Strong=G5207|Align=positional
+6	Τωβειά	Τωβια	_	_	_	_	_	Align=positional
+7	υἱοὶ	υἱός	_	_	_	_	_	Strong=G5207|Align=positional
+8	Νεκωδά	Νεκωδα	_	_	_	_	_	Align=exact
+9	ἑξακόσιοι	ἑξακόσιοι	_	_	_	_	_	Strong=G1812|Align=exact
+10	πεντήκοντα	πεντήκοντα	_	_	_	_	_	Strong=G4004|Align=exact
+11	δύο	δύο	_	_	_	_	_	Strong=G1417|Align=exact
 
 # ref = EZR.2.61
-1	καὶ	_	_	_	_	_	_	Align=count_mismatch,source_extra:1
-2	ἀπὸ	_	_	_	_	_	_	Align=count_mismatch,source_extra:1
-3	τῶν	_	_	_	_	_	_	Align=count_mismatch,source_extra:1
-4	υἱῶν	_	_	_	_	_	_	Align=count_mismatch,source_extra:1
-5	τῶν	_	_	_	_	_	_	Align=count_mismatch,source_extra:1
-6	ἱερέων	_	_	_	_	_	_	Align=count_mismatch,source_extra:1
-7	υἱοὶ	_	_	_	_	_	_	Align=count_mismatch,source_extra:1
-8	Λαβειά	_	_	_	_	_	_	Align=count_mismatch,source_extra:1
-9	υἱοὶ	_	_	_	_	_	_	Align=count_mismatch,source_extra:1
-10	Ἁκούς	_	_	_	_	_	_	Align=count_mismatch,source_extra:1
-11	υἱοὶ	_	_	_	_	_	_	Align=count_mismatch,source_extra:1
-12	Ζαρβελθεί	_	_	_	_	_	_	Align=count_mismatch,source_extra:1
-13	ὅς	_	_	_	_	_	_	Align=count_mismatch,source_extra:1
-14	ἔλαβεν	_	_	_	_	_	_	Align=count_mismatch,source_extra:1
-15	ἀπὸ	_	_	_	_	_	_	Align=count_mismatch,source_extra:1
-16	θυγατέρων	_	_	_	_	_	_	Align=count_mismatch,source_extra:1
-17	Βερζελλαεὶ	_	_	_	_	_	_	Align=count_mismatch,source_extra:1
-18	τοῦ	_	_	_	_	_	_	Align=count_mismatch,source_extra:1
-19	Γαλααδείτου	_	_	_	_	_	_	Align=count_mismatch,source_extra:1
-20	γυναῖκα	_	_	_	_	_	_	Align=count_mismatch,source_extra:1
-21	καὶ	_	_	_	_	_	_	Align=count_mismatch,source_extra:1
-22	ἐκλήθη	_	_	_	_	_	_	Align=count_mismatch,source_extra:1
-23	ἐν	_	_	_	_	_	_	Align=count_mismatch,source_extra:1
-24	ὀνόματι	_	_	_	_	_	_	Align=count_mismatch,source_extra:1
-25	αὐτῶν	_	_	_	_	_	_	Align=count_mismatch,source_extra:1
+1	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+2	ἀπὸ	ἀπό	_	_	_	_	_	Strong=G0575|Align=exact
+3	τῶν	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+4	υἱῶν	υἱός	_	_	_	_	_	Strong=G5207|Align=positional
+5	τῶν	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+6	ἱερέων	ἱερεύς	_	_	_	_	_	Strong=G2409|Align=positional
+7	υἱοὶ	υἱός	_	_	_	_	_	Strong=G5207|Align=positional
+8	Λαβειά	Χαβια	_	_	_	_	_	Align=positional
+9	υἱοὶ	υἱός	_	_	_	_	_	Strong=G5207|Align=positional
+10	Ἁκούς	Ακους	_	_	_	_	_	Align=exact
+11	υἱοὶ	υἱός	_	_	_	_	_	Strong=G5207|Align=positional
+12	Ζαρβελθεί	Βερζελλαι	_	_	_	_	_	Align=positional
+13	ὅς	ὅς	_	_	_	_	_	Strong=G3739|Align=exact
+14	ἔλαβεν	λαμβάνω	_	_	_	_	_	Strong=G2983|Align=positional
+15	ἀπὸ	ἀπό	_	_	_	_	_	Strong=G0575|Align=exact
+16	θυγατέρων	θυγάτηρ	_	_	_	_	_	Strong=G2364|Align=positional
+17	Βερζελλαεὶ	Βερζελλαι	_	_	_	_	_	Align=positional
+18	τοῦ	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+19	Γαλααδείτου	Γαλααδίτης	_	_	_	_	_	Align=positional
+20	γυναῖκα	γυνή	_	_	_	_	_	Strong=G1135|Align=positional
+21	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+22	ἐκλήθη	_	_	_	_	_	_	Align=unmatched
+23	ἐν	_	_	_	_	_	_	Align=unmatched
+24	ὀνόματι	_	_	_	_	_	_	Align=unmatched
+25	αὐτῶν	_	_	_	_	_	_	Align=unmatched,source_extra:5
 
 # ref = EZR.2.62
-1	οὗτοι	οὗτος	_	_	_	_	_	Strong=G3778
-2	ἐζήτησαν	ζητέω	_	_	_	_	_	Strong=G2212
-3	γραφὴν	γραφή	_	_	_	_	_	Strong=G1124
-4	αὐτῶν	αὐτός	_	_	_	_	_	Strong=G0846
-5	οἱ	ὁ	_	_	_	_	_	Strong=G3588
-6	μεθωεσείμ	μεθωεσιμ	_	_	_	_	_	_
-7	καὶ	καί	_	_	_	_	_	Strong=G2532
-8	οὐχ	οὐ	_	_	_	_	_	Strong=G3756
-9	εὑρέθησαν	εὑρίσκω	_	_	_	_	_	Strong=G2147
-10	καὶ	καί	_	_	_	_	_	Strong=G2532
-11	ἠγχιστεύθησαν	ἀγχιστεύω	_	_	_	_	_	_
-12	ἀπὸ	ἀπό	_	_	_	_	_	Strong=G0575
-13	τῆς	ὁ	_	_	_	_	_	Strong=G3588
-14	ἱερατείας	ἱερατεία	_	_	_	_	_	Strong=G2405
+1	οὗτοι	οὗτος	_	_	_	_	_	Strong=G3778|Align=positional
+2	ἐζήτησαν	ζητέω	_	_	_	_	_	Strong=G2212|Align=positional
+3	γραφὴν	γραφή	_	_	_	_	_	Strong=G1124|Align=positional
+4	αὐτῶν	αὐτός	_	_	_	_	_	Strong=G0846|Align=positional
+5	οἱ	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+6	μεθωεσείμ	μεθωεσιμ	_	_	_	_	_	Align=positional
+7	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+8	οὐχ	οὐ	_	_	_	_	_	Strong=G3756|Align=positional
+9	εὑρέθησαν	εὑρίσκω	_	_	_	_	_	Strong=G2147|Align=positional
+10	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+11	ἠγχιστεύθησαν	ἀγχιστεύω	_	_	_	_	_	Align=positional
+12	ἀπὸ	ἀπό	_	_	_	_	_	Strong=G0575|Align=exact
+13	τῆς	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+14	ἱερατείας	ἱερατεία	_	_	_	_	_	Strong=G2405|Align=positional
 
 # ref = EZR.2.63
-1	καὶ	καί	_	_	_	_	_	Strong=G2532
-2	εἶπεν	ἔπω	_	_	_	_	_	Strong=G2036
-3	Ἁθερσαὰ	Αθερσαθα	_	_	_	_	_	_
-4	αὐτοῖς	αὐτός	_	_	_	_	_	Strong=G0846
-5	τοῦ	ὁ	_	_	_	_	_	Strong=G3588
-6	μὴ	μή	_	_	_	_	_	Strong=G3361
-7	φαγεῖν	φάγω	_	_	_	_	_	Strong=G5315
-8	ἀπὸ	ἀπό	_	_	_	_	_	Strong=G0575
-9	τοῦ	ὁ	_	_	_	_	_	Strong=G3588
-10	ἁγίου	ἅγιος	_	_	_	_	_	Strong=G0040
-11	τῶν	ὁ	_	_	_	_	_	Strong=G3588
-12	ἁγίων	ἅγιος	_	_	_	_	_	Strong=G0040
-13	ἕως	ἕως	_	_	_	_	_	Strong=G2193
-14	ἀναστῇ	ἀνίστημι	_	_	_	_	_	Strong=G0450
-15	ἱερεὺς	ἱερεύς	_	_	_	_	_	Strong=G2409
-16	τοῖς	ὁ	_	_	_	_	_	Strong=G3588
-17	φωτίζουσιν	φωτίζω	_	_	_	_	_	Strong=G5461
-18	καὶ	καί	_	_	_	_	_	Strong=G2532
-19	τοῖς	ὁ	_	_	_	_	_	Strong=G3588
-20	τελείοις	τέλειος	_	_	_	_	_	Strong=G5046
+1	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+2	εἶπεν	ἔπω	_	_	_	_	_	Strong=G2036|Align=positional
+3	Ἁθερσαὰ	Αθερσαθα	_	_	_	_	_	Align=positional
+4	αὐτοῖς	αὐτός	_	_	_	_	_	Strong=G0846|Align=positional
+5	τοῦ	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+6	μὴ	μή	_	_	_	_	_	Strong=G3361|Align=exact
+7	φαγεῖν	φάγω	_	_	_	_	_	Strong=G5315|Align=positional
+8	ἀπὸ	ἀπό	_	_	_	_	_	Strong=G0575|Align=exact
+9	τοῦ	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+10	ἁγίου	ἅγιος	_	_	_	_	_	Strong=G0040|Align=positional
+11	τῶν	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+12	ἁγίων	ἅγιος	_	_	_	_	_	Strong=G0040|Align=positional
+13	ἕως	ἕως	_	_	_	_	_	Strong=G2193|Align=exact
+14	ἀναστῇ	ἀνίστημι	_	_	_	_	_	Strong=G0450|Align=positional
+15	ἱερεὺς	ἱερεύς	_	_	_	_	_	Strong=G2409|Align=exact
+16	τοῖς	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+17	φωτίζουσιν	φωτίζω	_	_	_	_	_	Strong=G5461|Align=positional
+18	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+19	τοῖς	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+20	τελείοις	τέλειος	_	_	_	_	_	Strong=G5046|Align=positional
 
 # ref = EZR.2.64
-1	Πᾶσα	_	_	_	_	_	_	Align=count_mismatch,source_extra:1
-2	δὲ	_	_	_	_	_	_	Align=count_mismatch,source_extra:1
-3	ἡ	_	_	_	_	_	_	Align=count_mismatch,source_extra:1
-4	ἐκκλησία	_	_	_	_	_	_	Align=count_mismatch,source_extra:1
-5	ὡσεὶ	_	_	_	_	_	_	Align=count_mismatch,source_extra:1
-6	τέσσαρες	_	_	_	_	_	_	Align=count_mismatch,source_extra:1
-7	μυριάδες	_	_	_	_	_	_	Align=count_mismatch,source_extra:1
-8	δισχίλιοι	_	_	_	_	_	_	Align=count_mismatch,source_extra:1
-9	τριακόσιοι	_	_	_	_	_	_	Align=count_mismatch,source_extra:1
-10	ἑξήκοντα	_	_	_	_	_	_	Align=count_mismatch,source_extra:1
+1	Πᾶσα	πᾶς	_	_	_	_	_	Strong=G3956|Align=positional
+2	δὲ	δέ	_	_	_	_	_	Strong=G1161|Align=exact
+3	ἡ	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+4	ἐκκλησία	ἐκκλησία	_	_	_	_	_	Strong=G1577|Align=exact
+5	ὡσεὶ	_	_	_	_	_	_	Align=unmatched
+6	τέσσαρες	τέσσαρες	_	_	_	_	_	Strong=G5064|Align=exact
+7	μυριάδες	μυριάς	_	_	_	_	_	Strong=G3461|Align=positional
+8	δισχίλιοι	δισχίλιοι	_	_	_	_	_	Strong=G1367|Align=exact
+9	τριακόσιοι	τριακόσιοι	_	_	_	_	_	Strong=G5145|Align=exact
+10	ἑξήκοντα	ἑξήκοντα	_	_	_	_	_	Strong=G1835|Align=exact,source_extra:2
 
 # ref = EZR.2.65
-1	χωρὶς	_	_	_	_	_	_	Align=count_mismatch,source_extra:2
-2	δούλων	_	_	_	_	_	_	Align=count_mismatch,source_extra:2
-3	αὐτῶν	_	_	_	_	_	_	Align=count_mismatch,source_extra:2
-4	παιδισκῶν	_	_	_	_	_	_	Align=count_mismatch,source_extra:2
-5	οὗτοι	_	_	_	_	_	_	Align=count_mismatch,source_extra:2
-6	ἑπτακισχίλιοι	_	_	_	_	_	_	Align=count_mismatch,source_extra:2
-7	τριακόσιοι	_	_	_	_	_	_	Align=count_mismatch,source_extra:2
-8	τριάκοντα	_	_	_	_	_	_	Align=count_mismatch,source_extra:2
-9	τέσσαρες	_	_	_	_	_	_	Align=count_mismatch,source_extra:2
-10	καὶ	_	_	_	_	_	_	Align=count_mismatch,source_extra:2
-11	οὗτοι	_	_	_	_	_	_	Align=count_mismatch,source_extra:2
-12	ᾄδοντες	_	_	_	_	_	_	Align=count_mismatch,source_extra:2
-13	καὶ	_	_	_	_	_	_	Align=count_mismatch,source_extra:2
-14	ᾠδαὶ	_	_	_	_	_	_	Align=count_mismatch,source_extra:2
-15	διακόσιοι	_	_	_	_	_	_	Align=count_mismatch,source_extra:2
+1	χωρὶς	χωρίς	_	_	_	_	_	Strong=G5565|Align=exact
+2	δούλων	_	_	_	_	_	_	Align=unmatched
+3	αὐτῶν	_	_	_	_	_	_	Align=unmatched
+4	παιδισκῶν	_	_	_	_	_	_	Align=unmatched
+5	οὗτοι	_	_	_	_	_	_	Align=unmatched
+6	ἑπτακισχίλιοι	ἑπτακισχίλιοι	_	_	_	_	_	Strong=G2035|Align=exact
+7	τριακόσιοι	τριακόσιοι	_	_	_	_	_	Strong=G5145|Align=exact
+8	τριάκοντα	τριάκοντα	_	_	_	_	_	Strong=G5144|Align=exact
+9	τέσσαρες	ἑπτά	_	_	_	_	_	Strong=G2033|Align=positional
+10	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+11	οὗτοι	οὗτος	_	_	_	_	_	Strong=G3778|Align=positional
+12	ᾄδοντες	ᾄδω	_	_	_	_	_	Strong=G0103|Align=positional
+13	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+14	ᾠδαὶ	ᾄδω	_	_	_	_	_	Strong=G0103|Align=positional
+15	διακόσιοι	διακόσιοι	_	_	_	_	_	Strong=G1250|Align=exact,source_extra:6
 
 # ref = EZR.2.66
-1	ἵπποι	ἵππος	_	_	_	_	_	Strong=G2462
-2	αὐτῶν	αὐτός	_	_	_	_	_	Strong=G0846
-3	ἑπτακόσιοι	ἑπτακόσιοι	_	_	_	_	_	_
-4	τριάκοντα	τριάκοντα	_	_	_	_	_	Strong=G5144
-5	καὶ	ἕξ	_	_	_	_	_	Strong=G1803
-6	ἡμίονοι	ἡμίονος	_	_	_	_	_	_
-7	αὐτῶν	αὐτός	_	_	_	_	_	Strong=G0846
-8	διακόσιοι	διακόσιοι	_	_	_	_	_	Strong=G1250
-9	τεσσεράκοντα	τεσσαράκοντα	_	_	_	_	_	_
-10	πέντε	πέντε	_	_	_	_	_	Strong=G4002
+1	ἵπποι	ἵππος	_	_	_	_	_	Strong=G2462|Align=positional
+2	αὐτῶν	αὐτός	_	_	_	_	_	Strong=G0846|Align=positional
+3	ἑπτακόσιοι	ἑπτακόσιοι	_	_	_	_	_	Align=exact
+4	τριάκοντα	τριάκοντα	_	_	_	_	_	Strong=G5144|Align=exact
+5	καὶ	ἕξ	_	_	_	_	_	Strong=G1803|Align=positional
+6	ἡμίονοι	ἡμίονος	_	_	_	_	_	Align=positional
+7	αὐτῶν	αὐτός	_	_	_	_	_	Strong=G0846|Align=positional
+8	διακόσιοι	διακόσιοι	_	_	_	_	_	Strong=G1250|Align=exact
+9	τεσσεράκοντα	τεσσαράκοντα	_	_	_	_	_	Align=positional
+10	πέντε	πέντε	_	_	_	_	_	Strong=G4002|Align=exact
 
 # ref = EZR.2.67
-1	κάμηλοι	_	_	_	_	_	_	Align=count_mismatch,source_extra:1
-2	αὐτῶν	_	_	_	_	_	_	Align=count_mismatch,source_extra:1
-3	τετρακόσιοι	_	_	_	_	_	_	Align=count_mismatch,source_extra:1
-4	τριάκοντα	_	_	_	_	_	_	Align=count_mismatch,source_extra:1
-5	πέντε	_	_	_	_	_	_	Align=count_mismatch,source_extra:1
-6	ὄνοι	_	_	_	_	_	_	Align=count_mismatch,source_extra:1
-7	αὐτῶν	_	_	_	_	_	_	Align=count_mismatch,source_extra:1
-8	ἑπτακόσιοι	_	_	_	_	_	_	Align=count_mismatch,source_extra:1
-9	εἴκοσι	_	_	_	_	_	_	Align=count_mismatch,source_extra:1
+1	κάμηλοι	κάμηλος	_	_	_	_	_	Strong=G2574|Align=positional
+2	αὐτῶν	αὐτός	_	_	_	_	_	Strong=G0846|Align=positional
+3	τετρακόσιοι	τετρακόσιοι	_	_	_	_	_	Strong=G5071|Align=exact
+4	τριάκοντα	τριάκοντα	_	_	_	_	_	Strong=G5144|Align=exact
+5	πέντε	πέντε	_	_	_	_	_	Strong=G4002|Align=exact
+6	ὄνοι	_	_	_	_	_	_	Align=unmatched
+7	αὐτῶν	_	_	_	_	_	_	Align=unmatched
+8	ἑπτακόσιοι	ἑπτακόσιοι	_	_	_	_	_	Align=exact
+9	εἴκοσι	εἴκοσι	_	_	_	_	_	Strong=G1501|Align=exact,source_extra:3
 
 # ref = EZR.2.68
-1	Καὶ	καί	_	_	_	_	_	Strong=G2532
-2	ἀπὸ	ἀπό	_	_	_	_	_	Strong=G0575
-3	ἀρχόντων	ἄρχων	_	_	_	_	_	Strong=G0758
-4	πατριῶν	πατριά	_	_	_	_	_	Strong=G3965
-5	ἐν	ἐν	_	_	_	_	_	Strong=G1722
-6	τῷ	ὁ	_	_	_	_	_	Strong=G3588
-7	ἐλθεῖν	ἔρχομαι	_	_	_	_	_	Strong=G2064
-8	αὐτοὺς	αὐτός	_	_	_	_	_	Strong=G0846
-9	εἰς	εἰς	_	_	_	_	_	Strong=G1519
-10	οἶκον	οἶκος	_	_	_	_	_	Strong=G3624
-11	Κυρίου	κύριος	_	_	_	_	_	Strong=G2962
-12	τὸν	ὁ	_	_	_	_	_	Strong=G3588
-13	ἐν	ἐν	_	_	_	_	_	Strong=G1722
-14	Ἰερουσαλὴμ	Ἱερουσαλήμ	_	_	_	_	_	Strong=G2419
-15	ἡκουσιάσαντο	ἑκουσιάζομαι	_	_	_	_	_	_
-16	εἰς	εἰς	_	_	_	_	_	Strong=G1519
-17	οἶκον	οἶκος	_	_	_	_	_	Strong=G3624
-18	τοῦ	ὁ	_	_	_	_	_	Strong=G3588
-19	θεοῦ	θεός	_	_	_	_	_	Strong=G2316
-20	τοῦ	ὁ	_	_	_	_	_	Strong=G3588
-21	στῆσαι	ἵστημι	_	_	_	_	_	Strong=G2476
-22	αὐτὸν	αὐτός	_	_	_	_	_	Strong=G0846
-23	ἐπὶ	ἐπί	_	_	_	_	_	Strong=G1909
-24	τὴν	ὁ	_	_	_	_	_	Strong=G3588
-25	ἑτοιμασίαν	ἑτοιμασία	_	_	_	_	_	Strong=G2091
-26	αὐτοῦ	αὐτός	_	_	_	_	_	Strong=G0846
+1	Καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+2	ἀπὸ	ἀπό	_	_	_	_	_	Strong=G0575|Align=exact
+3	ἀρχόντων	ἄρχων	_	_	_	_	_	Strong=G0758|Align=positional
+4	πατριῶν	πατριά	_	_	_	_	_	Strong=G3965|Align=positional
+5	ἐν	ἐν	_	_	_	_	_	Strong=G1722|Align=exact
+6	τῷ	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+7	ἐλθεῖν	ἔρχομαι	_	_	_	_	_	Strong=G2064|Align=positional
+8	αὐτοὺς	αὐτός	_	_	_	_	_	Strong=G0846|Align=positional
+9	εἰς	εἰς	_	_	_	_	_	Strong=G1519|Align=exact
+10	οἶκον	οἶκος	_	_	_	_	_	Strong=G3624|Align=positional
+11	Κυρίου	κύριος	_	_	_	_	_	Strong=G2962|Align=positional
+12	τὸν	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+13	ἐν	ἐν	_	_	_	_	_	Strong=G1722|Align=exact
+14	Ἰερουσαλὴμ	Ἱερουσαλήμ	_	_	_	_	_	Strong=G2419|Align=exact
+15	ἡκουσιάσαντο	ἑκουσιάζομαι	_	_	_	_	_	Align=positional
+16	εἰς	εἰς	_	_	_	_	_	Strong=G1519|Align=exact
+17	οἶκον	οἶκος	_	_	_	_	_	Strong=G3624|Align=positional
+18	τοῦ	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+19	θεοῦ	θεός	_	_	_	_	_	Strong=G2316|Align=positional
+20	τοῦ	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+21	στῆσαι	ἵστημι	_	_	_	_	_	Strong=G2476|Align=positional
+22	αὐτὸν	αὐτός	_	_	_	_	_	Strong=G0846|Align=positional
+23	ἐπὶ	ἐπί	_	_	_	_	_	Strong=G1909|Align=exact
+24	τὴν	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+25	ἑτοιμασίαν	ἑτοιμασία	_	_	_	_	_	Strong=G2091|Align=positional
+26	αὐτοῦ	αὐτός	_	_	_	_	_	Strong=G0846|Align=positional
 
 # ref = EZR.2.69
-1	ὡς	ὥς	_	_	_	_	_	_
-2	ἡ	ὁ	_	_	_	_	_	Strong=G3588
-3	δύναμις	δύναμις	_	_	_	_	_	Strong=G1411
-4	αὐτῶν	αὐτός	_	_	_	_	_	Strong=G0846
-5	ἔδωκαν	δίδωμι	_	_	_	_	_	Strong=G1325
-6	εἰς	εἰς	_	_	_	_	_	Strong=G1519
-7	θησαυρὸν	θησαυρός	_	_	_	_	_	Strong=G2344
-8	τοῦ	ὁ	_	_	_	_	_	Strong=G3588
-9	ἔργου	ἔργον	_	_	_	_	_	Strong=G2041
-10	χρυσίον	χρυσίον	_	_	_	_	_	Strong=G5553
-11	καθαρόν	καθαρός	_	_	_	_	_	Strong=G2513
-12	μναῖ	μνᾶ	_	_	_	_	_	Strong=G3414
-13	ἓξ	ἕξ	_	_	_	_	_	Strong=G1803
-14	μυριάδες	μυριάς	_	_	_	_	_	Strong=G3461
-15	καὶ	καί	_	_	_	_	_	Strong=G2532
-16	χίλιαι	χίλιοι	_	_	_	_	_	Strong=G5507
-17	καὶ	καί	_	_	_	_	_	Strong=G2532
-18	ἀργυρίου	ἀργύριον	_	_	_	_	_	Strong=G0694
-19	μναῖ	μνᾶ	_	_	_	_	_	Strong=G3414
-20	πεντακισχίλιαι	πεντακισχίλιοι	_	_	_	_	_	Strong=G4000
-21	καὶ	καί	_	_	_	_	_	Strong=G2532
-22	κοθωνοὶ	κοθωνος	_	_	_	_	_	_
-23	τῶν	ὁ	_	_	_	_	_	Strong=G3588
-24	ἱερέων	ἱερεύς	_	_	_	_	_	Strong=G2409
-25	ἑκατόν	ἑκατόν	_	_	_	_	_	Strong=G1540
+1	ὡς	ὥς	_	_	_	_	_	Align=exact
+2	ἡ	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+3	δύναμις	δύναμις	_	_	_	_	_	Strong=G1411|Align=exact
+4	αὐτῶν	αὐτός	_	_	_	_	_	Strong=G0846|Align=positional
+5	ἔδωκαν	δίδωμι	_	_	_	_	_	Strong=G1325|Align=positional
+6	εἰς	εἰς	_	_	_	_	_	Strong=G1519|Align=exact
+7	θησαυρὸν	θησαυρός	_	_	_	_	_	Strong=G2344|Align=positional
+8	τοῦ	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+9	ἔργου	ἔργον	_	_	_	_	_	Strong=G2041|Align=positional
+10	χρυσίον	χρυσίον	_	_	_	_	_	Strong=G5553|Align=exact
+11	καθαρόν	καθαρός	_	_	_	_	_	Strong=G2513|Align=positional
+12	μναῖ	μνᾶ	_	_	_	_	_	Strong=G3414|Align=positional
+13	ἓξ	ἕξ	_	_	_	_	_	Strong=G1803|Align=exact
+14	μυριάδες	μυριάς	_	_	_	_	_	Strong=G3461|Align=positional
+15	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+16	χίλιαι	χίλιοι	_	_	_	_	_	Strong=G5507|Align=positional
+17	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+18	ἀργυρίου	ἀργύριον	_	_	_	_	_	Strong=G0694|Align=positional
+19	μναῖ	μνᾶ	_	_	_	_	_	Strong=G3414|Align=positional
+20	πεντακισχίλιαι	πεντακισχίλιοι	_	_	_	_	_	Strong=G4000|Align=positional
+21	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+22	κοθωνοὶ	κοθωνος	_	_	_	_	_	Align=positional
+23	τῶν	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+24	ἱερέων	ἱερεύς	_	_	_	_	_	Strong=G2409|Align=positional
+25	ἑκατόν	ἑκατόν	_	_	_	_	_	Strong=G1540|Align=exact
 
 # ref = EZR.2.70
-1	καὶ	_	_	_	_	_	_	Align=count_mismatch,source_extra:1
-2	ἐκάθισαν	_	_	_	_	_	_	Align=count_mismatch,source_extra:1
-3	οἱ	_	_	_	_	_	_	Align=count_mismatch,source_extra:1
-4	ἱερεῖς	_	_	_	_	_	_	Align=count_mismatch,source_extra:1
-5	καὶ	_	_	_	_	_	_	Align=count_mismatch,source_extra:1
-6	οἱ	_	_	_	_	_	_	Align=count_mismatch,source_extra:1
-7	Λευεῖται	_	_	_	_	_	_	Align=count_mismatch,source_extra:1
-8	καὶ	_	_	_	_	_	_	Align=count_mismatch,source_extra:1
-9	ἀπὸ	_	_	_	_	_	_	Align=count_mismatch,source_extra:1
-10	τοῦ	_	_	_	_	_	_	Align=count_mismatch,source_extra:1
-11	λαοῦ	_	_	_	_	_	_	Align=count_mismatch,source_extra:1
-12	καὶ	_	_	_	_	_	_	Align=count_mismatch,source_extra:1
-13	οἱ	_	_	_	_	_	_	Align=count_mismatch,source_extra:1
-14	ᾄδοντες	_	_	_	_	_	_	Align=count_mismatch,source_extra:1
-15	καὶ	_	_	_	_	_	_	Align=count_mismatch,source_extra:1
-16	οἱ	_	_	_	_	_	_	Align=count_mismatch,source_extra:1
-17	πυλωροὶ	_	_	_	_	_	_	Align=count_mismatch,source_extra:1
-18	καὶ	_	_	_	_	_	_	Align=count_mismatch,source_extra:1
-19	οἱ	_	_	_	_	_	_	Align=count_mismatch,source_extra:1
-20	Θανιεὶμ	_	_	_	_	_	_	Align=count_mismatch,source_extra:1
-21	ἐν	_	_	_	_	_	_	Align=count_mismatch,source_extra:1
-22	πόλεσιν	_	_	_	_	_	_	Align=count_mismatch,source_extra:1
-23	αὐτῶν	_	_	_	_	_	_	Align=count_mismatch,source_extra:1
-24	καὶ	_	_	_	_	_	_	Align=count_mismatch,source_extra:1
-25	πᾶς	_	_	_	_	_	_	Align=count_mismatch,source_extra:1
-26	Ἰσραὴλ	_	_	_	_	_	_	Align=count_mismatch,source_extra:1
-27	ἐν	_	_	_	_	_	_	Align=count_mismatch,source_extra:1
-28	πόλεσιν	_	_	_	_	_	_	Align=count_mismatch,source_extra:1
-29	αὐτῶν	_	_	_	_	_	_	Align=count_mismatch,source_extra:1
+1	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+2	ἐκάθισαν	καθίζω	_	_	_	_	_	Strong=G2523|Align=positional
+3	οἱ	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+4	ἱερεῖς	ἱερεύς	_	_	_	_	_	Strong=G2409|Align=positional
+5	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+6	οἱ	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+7	Λευεῖται	Λευΐτης	_	_	_	_	_	Strong=G3019|Align=positional
+8	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+9	ἀπὸ	ἀπό	_	_	_	_	_	Strong=G0575|Align=exact
+10	τοῦ	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+11	λαοῦ	λαός	_	_	_	_	_	Strong=G2992|Align=positional
+12	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+13	οἱ	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+14	ᾄδοντες	ᾄδω	_	_	_	_	_	Strong=G0103|Align=positional
+15	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+16	οἱ	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+17	πυλωροὶ	πυλωρός	_	_	_	_	_	Align=positional
+18	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+19	οἱ	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+20	Θανιεὶμ	ναθινιμ	_	_	_	_	_	Align=positional
+21	ἐν	ἐν	_	_	_	_	_	Strong=G1722|Align=exact
+22	πόλεσιν	πόλις	_	_	_	_	_	Strong=G4172|Align=positional
+23	αὐτῶν	αὐτός	_	_	_	_	_	Strong=G0846|Align=positional
+24	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+25	πᾶς	πᾶς	_	_	_	_	_	Strong=G3956|Align=exact
+26	Ἰσραὴλ	Ἰσραήλ	_	_	_	_	_	Strong=G2474|Align=exact
+27	ἐν	ἐν	_	_	_	_	_	Strong=G1722|Align=exact
+28	πόλεσιν	πόλις	_	_	_	_	_	Strong=G4172|Align=positional
+29	αὐτῶν	αὐτός	_	_	_	_	_	Strong=G0846|Align=positional,source_extra:1
 

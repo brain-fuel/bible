@@ -10,8 +10,10 @@ Structural assertions (raise AssertionError on violation):
 Counters returned by validate():
   verses         -- total L0 verses processed
   tokens         -- total regular tokens (non-range rows)
+  exact          -- tokens with Align=exact in MISC (difflib anchor match; LXX)
+  positional     -- tokens with Align=positional in MISC (equal-length replace; LXX)
   unmatched      -- tokens with Align=unmatched in MISC
-  count_mismatch -- tokens with Align=count_mismatch in MISC (LXX: whole-verse-abort)
+  count_mismatch -- tokens with Align=count_mismatch in MISC (legacy; 0 after resync)
   source_extra   -- sum of source_extra:<n> values across all tokens
   missing_strong -- tokens with no Strong= field in MISC
   with_morph     -- tokens with any non-empty UPOS/XPOS/FEATS column
@@ -68,36 +70,43 @@ EXPECTED_OT_MISSING_STRONG = 14794  # unmatched tokens lack Strong= by design
 
 # ---------------------------------------------------------------------------
 # Pinned expected constants for the LXX (54 books; Swete/NETS Greek corpus).
-# Generated from Task 5 full-corpus run (python -m tools.generate_morph --testament lxx).
+# Generated from the difflib-resync run (python -m tools.generate_morph --testament lxx).
 #
-# LXX uses POSITIONAL alignment (morph_scheme="none"): each Swete verse-word is
-# matched by position to its CCAT-sourced lemma/Strong's row.  When the Swete
-# word-count != CCAT word-count for a verse, the WHOLE verse is aborted and all
-# its tokens receive Align=count_mismatch (Task 4 design; wrong-data-silent is
-# worse than no-data-loud).
+# LXX uses DIFFLIB-ANCHORED RESYNC (morph_scheme="none", positional=True):
+# each Swete verse is aligned to CCAT rows via SequenceMatcher on
+# normalize_surface keys, recovering most coverage that the old whole-verse-abort
+# dropped.  Token classification (all tokens sum to 583148):
 #
-# count_mismatch: 186680/583148 = 32.01% of tokens are in count_mismatch verses.
-#   This reflects genuine Swete-vs-CCAT edition divergence (additions, omissions,
-#   verse-splits) -- it is NOT an error and must NOT be "improved" by altering
-#   the abort logic.
+#   Align=exact      (215205, 36.90%) -- corpus surface == TSV key after normalization
+#                     (articles, particles, prepositions, indeclinables, proper nouns).
+#   Align=positional (290853, 49.87%) -- inflected corpus form vs. lemma TSV key;
+#                     paired by position within an equal-length replace block between
+#                     two anchors.  Lower confidence but far better than no-data.
+#   Align=unmatched  ( 77090, 13.22%) -- corpus word in an unequal-length replace or
+#                     delete block; no TSV counterpart can be identified safely.
 #
-# missing_strong: 235275 total tokens lack Strong=.
-#   - 186680 from count_mismatch verses (whole-verse-abort emits no Strong=).
-#   - 48595 from matched verses where the CCAT-LXX TSV has no Strong's entry
-#     (LXX-only vocabulary -- deuterocanon words, proper nouns, etc. -- that
-#     were not numbered in the NT-based Strong's Greek system).
-#   Strong's link rate on matched tokens = 347873/396468 = 87.75%.
+# Before resync (whole-verse-abort): 186680 tokens in count_mismatch verses (32.01%).
+# After  resync: count_mismatch=0; those verses are now broken into exact/positional/
+# unmatched per word, recovering 109590 tokens from the old abort.
+#
+# source_extra: 65025  (was 286769 with abort; reduced because abort counted whole-verse
+#   extra rows, now only genuine TSV-only rows from insert/unequal-replace TSV sides).
+#
+# missing_strong: 139271 = unmatched (77090) + LXX-only no-Strong= on matched tokens
+#   (62181).  Strong's link rate on matched tokens = 443877/506058 = 87.72%.
 #
 # with_morph == 0: LXX morph columns (UPOS/XPOS/FEATS) are intentionally empty.
 #   Morphological tagging is deferred to TAGOT (a future task that will add
 #   CATSS/OpenGNT-style part-of-speech tags).  This pin enforces the invariant.
 # ---------------------------------------------------------------------------
 EXPECTED_LXX_VERSES = 28873       # total L0 verses across 54 LXX books
-EXPECTED_LXX_TOKENS = 583148      # total tokens (from positional alignment)
-EXPECTED_LXX_UNMATCHED = 0        # positional alignment does not emit "unmatched"
-EXPECTED_LXX_COUNT_MISMATCH = 186680  # 32.01% Swete-vs-CCAT edition divergence
-EXPECTED_LXX_SRC_EXTRA = 286769   # sum of source_extra:<n> across all tokens
-EXPECTED_LXX_MISSING_STRONG = 235275  # count_mismatch (186680) + LXX-only no-Strong= (48595)
+EXPECTED_LXX_TOKENS = 583148      # total tokens (unchanged; difflib preserves token count)
+EXPECTED_LXX_EXACT = 215205       # 36.90% anchor-matched (Align=exact)
+EXPECTED_LXX_POSITIONAL = 290853  # 49.87% inflection-paired (Align=positional)
+EXPECTED_LXX_UNMATCHED = 77090    # 13.22% genuinely divergent (Align=unmatched)
+EXPECTED_LXX_COUNT_MISMATCH = 0   # whole-verse-abort replaced by per-word resync
+EXPECTED_LXX_SRC_EXTRA = 65025    # sum of source_extra:<n> (genuine TSV-only rows)
+EXPECTED_LXX_MISSING_STRONG = 139271  # unmatched (77090) + LXX-only no-Strong= (62181)
 EXPECTED_LXX_WITH_MORPH = 0       # morph deferred to TAGOT; lemma+Strong's only
 
 
@@ -175,6 +184,8 @@ def validate(testament: str) -> dict:
 
     total_verses = 0
     total_tokens = 0
+    total_exact = 0
+    total_positional = 0
     total_unmatched = 0
     total_count_mismatch = 0
     total_src_extra = 0
@@ -266,7 +277,11 @@ def validate(testament: str) -> dict:
                         if not part.startswith("Align="):
                             continue
                         for val in part[len("Align="):].split(","):
-                            if val == "unmatched":
+                            if val == "exact":
+                                total_exact += 1
+                            elif val == "positional":
+                                total_positional += 1
+                            elif val == "unmatched":
                                 total_unmatched += 1
                             elif val == "count_mismatch":
                                 total_count_mismatch += 1
@@ -291,6 +306,8 @@ def validate(testament: str) -> dict:
     return {
         "verses": total_verses,
         "tokens": total_tokens,
+        "exact": total_exact,
+        "positional": total_positional,
         "unmatched": total_unmatched,
         "count_mismatch": total_count_mismatch,
         "source_extra": total_src_extra,
@@ -312,6 +329,8 @@ def main() -> None:
     print(
         f"verses={result['verses']} "
         f"tokens={result['tokens']} "
+        f"exact={result.get('exact', '-')} "
+        f"positional={result.get('positional', '-')} "
         f"unmatched={result['unmatched']} "
         f"count_mismatch={result['count_mismatch']} "
         f"source_extra={result['source_extra']} "
@@ -319,10 +338,13 @@ def main() -> None:
         f"with_morph={result['with_morph']}"
     )
 
-    pct_unmatched = 100.0 * result["unmatched"] / result["tokens"] if result["tokens"] else 0
-    pct_count_mismatch = 100.0 * result["count_mismatch"] / result["tokens"] if result["tokens"] else 0
-    print(f"unmatched %: {pct_unmatched:.2f}%")
-    print(f"count_mismatch %: {pct_count_mismatch:.2f}%")
+    tok = result["tokens"] or 1  # avoid division by zero
+    pct_exact = 100.0 * result.get("exact", 0) / tok
+    pct_positional = 100.0 * result.get("positional", 0) / tok
+    pct_unmatched = 100.0 * result["unmatched"] / tok
+    pct_count_mismatch = 100.0 * result["count_mismatch"] / tok
+    print(f"exact %: {pct_exact:.2f}%  positional %: {pct_positional:.2f}%  "
+          f"unmatched %: {pct_unmatched:.2f}%  count_mismatch %: {pct_count_mismatch:.2f}%")
 
     errors = []
     if testament == "nt":
@@ -375,6 +397,14 @@ def main() -> None:
         if result["tokens"] != EXPECTED_LXX_TOKENS:
             errors.append(
                 f"tokens {result['tokens']} != expected {EXPECTED_LXX_TOKENS}"
+            )
+        if result.get("exact") != EXPECTED_LXX_EXACT:
+            errors.append(
+                f"exact {result.get('exact')} != expected {EXPECTED_LXX_EXACT}"
+            )
+        if result.get("positional") != EXPECTED_LXX_POSITIONAL:
+            errors.append(
+                f"positional {result.get('positional')} != expected {EXPECTED_LXX_POSITIONAL}"
             )
         if result["unmatched"] != EXPECTED_LXX_UNMATCHED:
             errors.append(

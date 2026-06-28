@@ -9,6 +9,7 @@ Leftover source rows (source_extra) are recorded on the last token.
 """
 
 import csv
+import difflib
 import re
 import unicodedata
 from pathlib import Path
@@ -212,28 +213,82 @@ def align_verse(
     tokens = []
 
     if positional:
-        # --- Positional alignment (LXX) ---
-        # TSV rows are sorted by idx (1-based, consecutive).  Match corpus
-        # word at 0-based position i-1 with TSV row at index i-1 (i.e. idx==i).
+        # --- Positional alignment (LXX) with difflib-anchored resync ---
         #
-        # COUNT-MISMATCH GUARD: when len(rows) != len(words), we cannot locate
-        # the divergence point (no shared surface key to resync on), so ANY
-        # positional pairing after the divergence would silently mistag tokens.
-        # Prefer missing data over wrong data: abort the entire verse and emit
-        # all tokens as Align=count_mismatch with empty lemma/strong/morph.
-        if len(rows) != len(words):
-            diff = len(rows) - len(words)
-            extra_marker = f"source_extra:{diff}" if diff > 0 else f"source_short:{-diff}"
-            for i, w in enumerate(words, start=1):
-                tokens.append(Token(
-                    str(i), w, "_", "_", "_", "_",
-                    misc=f"Align=count_mismatch,{extra_marker}",
-                ))
-        else:
-            # Counts match: positional pairing is safe (same word sequence).
-            for i, w in enumerate(words, start=1):
-                match = rows[i - 1]
-                tokens.append(_build_token(i, w, match, lang, morph_scheme, headwords))
+        # LxxLemmas stores LEMMA forms (not inflected surfaces) as the TSV key, so
+        # a straight positional zip silently mistags everything after the first
+        # Swete-vs-CCAT edition divergence (insertion / deletion / substitution).
+        #
+        # Strategy: normalise both sequences and run difflib.SequenceMatcher to find
+        # the anchors (words that match in both editions).  For each opcode block:
+        #
+        #   equal   → corpus[i] and tsv[j] share the same normalized key (article,
+        #             particle, proper noun, indeclinable).  Pair them; Align=exact.
+        #
+        #   replace, equal lengths → inflected form vs lemma form between anchors.
+        #             Pair positionally (corpus[i1+k] ↔ tsv[j1+k]); Align=positional.
+        #             Lower confidence than exact, but no worse than the old whole-
+        #             verse-abort since the flanking anchors constrain the block.
+        #
+        #   replace, unequal lengths / delete → genuine edition divergence.  Corpus
+        #             words in this block have no reliable TSV counterpart; emit as
+        #             Align=unmatched (no lemma/Strong=).  TSV rows on the j-side of
+        #             an unequal replace are also unmatched → counted as source_extra.
+        #
+        #   insert  → TSV-only rows (CCAT has a word Swete omits).  Counted as
+        #             source_extra on the last token (mirrors the surface-match path).
+        #
+        # This replaces the old whole-verse-abort for count mismatches, recovering
+        # ~68% of previously dropped tokens while remaining auditable (Align markers
+        # let the bridge weight confidence).  The only residual mistag risk is an
+        # equal-length replace that happens to be a wholesale word swap rather than
+        # inflection; those are tagged Align=positional, not Align=exact.
+
+        ck = [normalize_surface(w) for w in words]
+        tk = [normalize_surface(r["surface"]) for r in rows]
+
+        # Default: every slot unmatched; will be overwritten by opcodes below.
+        # Each slot is (row_or_None, align_tag_str).
+        slots: list = [(None, "unmatched")] * len(words)
+        pending_source_extra = 0
+
+        matcher = difflib.SequenceMatcher(None, ck, tk, autojunk=False)
+        for tag, i1, i2, j1, j2 in matcher.get_opcodes():
+            if tag == "equal":
+                for k in range(i2 - i1):
+                    slots[i1 + k] = (rows[j1 + k], "exact")
+            elif tag == "replace":
+                corp_len = i2 - i1
+                tsv_len = j2 - j1
+                if corp_len == tsv_len:
+                    # Equal-length block between anchors: pair positionally.
+                    for k in range(corp_len):
+                        slots[i1 + k] = (rows[j1 + k], "positional")
+                else:
+                    # Unequal lengths: cannot pair safely.
+                    # Corpus words → unmatched; TSV rows → source_extra.
+                    for k in range(corp_len):
+                        slots[i1 + k] = (None, "unmatched")
+                    pending_source_extra += tsv_len
+            elif tag == "delete":
+                # Corpus words with no TSV counterpart → unmatched (already default).
+                pass  # slots[i1:i2] already (None, "unmatched")
+            elif tag == "insert":
+                # TSV rows with no corpus counterpart → source_extra.
+                pending_source_extra += (j2 - j1)
+
+        for i, w in enumerate(words, start=1):
+            match_row, align_tag = slots[i - 1]
+            tok = _build_token(i, w, match_row, lang, morph_scheme, headwords)
+            if match_row is not None:
+                # _build_token emitted Strong= etc. but no Align=.  Add it now.
+                tok.misc = _append_align(tok.misc, align_tag)
+            # When match_row is None, _build_token already set Align=unmatched.
+            tokens.append(tok)
+
+        # Attach accumulated source_extra to the last token (mirrors surface path).
+        if pending_source_extra > 0 and tokens:
+            tokens[-1].misc = _append_align(tokens[-1].misc, f"source_extra:{pending_source_extra}")
 
     else:
         # --- Surface matching (NT/OT) ---
