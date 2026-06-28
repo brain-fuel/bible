@@ -85,53 +85,78 @@ def test_lemma_entry_senses_empty():
 # lxx_only_lemmas
 # ---------------------------------------------------------------------------
 
-def test_lxx_only_lemmas_nonempty():
-    """Must return a non-empty list."""
-    assert len(lxx_only_lemmas()) > 0
+_TSV_HEADER = "ref\tidx\tsurface\tlemma\tstrong\txpos\tfeats\ttranslit\tedition\n"
 
 
-def test_lxx_only_lemmas_sorted():
+def _write_fixture_tsv(tmp_path, rows):
+    """rows = list of (ref, lemma, strong). Write a minimal normalized TSV."""
+    p = tmp_path / "lxx.tsv"
+    lines = [_TSV_HEADER]
+    for i, (ref, lemma, strong) in enumerate(rows, start=1):
+        lines.append(f"{ref}\t1\tx\t{lemma}\t{strong}\t_\t_\t_\tLXX\n")
+    p.write_text("".join(lines), encoding="utf-8")
+    return p
+
+
+# A raw NFD (non-NFC) Greek lemma to prove no NFC-normalization happens.
+_NFD_LEMMA = unicodedata.normalize("NFD", "φαῦσις")
+
+
+def _fixture_rows():
+    # ζευγνύω: only ever empty-strong (appears twice -> dedup) -> LXX-only
+    # _NFD_LEMMA: only empty-strong, non-NFC -> LXX-only (raw preserved)
+    # Ααλαφ: only empty-strong -> LXX-only
+    # ἐν: has a Strong's -> excluded
+    # καλος: appears with AND without a Strong's -> excluded (covered)
+    return [
+        ("GEN.1.1", "ἐν", "G1722"),
+        ("GEN.1.2", "ζευγνύω", ""),
+        ("GEN.1.3", _NFD_LEMMA, ""),
+        ("GEN.1.4", "καλος", "G2570"),
+        ("GEN.1.5", "ζευγνύω", ""),
+        ("GEN.1.6", "Ααλαφ", ""),
+        ("GEN.1.7", "καλος", ""),
+    ]
+
+
+def test_lxx_only_lemmas_nonempty(tmp_path):
+    """Must return a non-empty list for a TSV with LXX-only lemmas."""
+    tsv = _write_fixture_tsv(tmp_path, _fixture_rows())
+    assert len(lxx_only_lemmas(tsv)) > 0
+
+
+def test_lxx_only_lemmas_sorted(tmp_path):
     """Result must be lexicographically sorted."""
-    lemmas = lxx_only_lemmas()
+    tsv = _write_fixture_tsv(tmp_path, _fixture_rows())
+    lemmas = lxx_only_lemmas(tsv)
     assert lemmas == sorted(lemmas)
 
 
-def test_lxx_only_lemmas_unique():
-    """No duplicates in result."""
-    lemmas = lxx_only_lemmas()
+def test_lxx_only_lemmas_unique(tmp_path):
+    """No duplicates in result (ζευγνύω appears twice in the fixture)."""
+    tsv = _write_fixture_tsv(tmp_path, _fixture_rows())
+    lemmas = lxx_only_lemmas(tsv)
     assert len(lemmas) == len(set(lemmas))
+    assert lemmas.count("ζευγνύω") == 1
 
 
-def test_lxx_only_lemmas_excludes_strongs_covered():
-    """Lemmas that appear with a Strong's in lxx.tsv must not be in result."""
-    tsv = Path(__file__).parent.parent / "data" / "cache" / "morph" / "lxx.tsv"
-    lemmas_with_strong: set[str] = set()
-    with open(tsv, encoding="utf-8") as f:
-        header = f.readline().strip().split("\t")
-        li = header.index("lemma")
-        si = header.index("strong")
-        for line in f:
-            parts = line.rstrip("\n").split("\t")
-            if len(parts) > max(li, si) and parts[si]:
-                lemmas_with_strong.add(parts[li])
-
-    lxx_only = set(lxx_only_lemmas())
-    overlap = lxx_only & lemmas_with_strong
-    assert not overlap, (
-        f"Found {len(overlap)} covered lemma(s) in lxx_only_lemmas(): "
-        f"{sorted(overlap)[:5]}"
-    )
+def test_lxx_only_lemmas_excludes_strongs_covered(tmp_path):
+    """A lemma that appears with a Strong's anywhere must not be in the result."""
+    tsv = _write_fixture_tsv(tmp_path, _fixture_rows())
+    lxx_only = set(lxx_only_lemmas(tsv))
+    assert "ἐν" not in lxx_only          # always has a Strong's
+    assert "καλος" not in lxx_only       # covered: appears with AND without a Strong's
+    assert "ζευγνύω" in lxx_only         # never has a Strong's
 
 
-def test_lxx_only_lemmas_returns_raw_strings():
-    """Some returned lemmas must be non-NFC (raw from TSV, not NFC-normalized)."""
-    lemmas = lxx_only_lemmas()
-    non_nfc_count = sum(1 for l in lemmas if unicodedata.normalize("NFC", l) != l)
-    # We know the TSV has thousands of non-NFC lemmas; raw read must preserve them
-    assert non_nfc_count > 0, (
-        "Expected non-NFC lemmas in result (TSV uses NFD Greek); "
-        "did lxx_only_lemmas() accidentally NFC-normalize?"
-    )
+def test_lxx_only_lemmas_returns_raw_strings(tmp_path):
+    """Returned lemmas must be raw (non-NFC preserved, not NFC-normalized)."""
+    tsv = _write_fixture_tsv(tmp_path, _fixture_rows())
+    lemmas = lxx_only_lemmas(tsv)
+    assert _NFD_LEMMA in lemmas, "raw NFD lemma was not preserved"
+    assert unicodedata.normalize("NFC", _NFD_LEMMA) != _NFD_LEMMA  # fixture really is non-NFC
+    non_nfc = [l for l in lemmas if unicodedata.normalize("NFC", l) != l]
+    assert non_nfc, "lxx_only_lemmas() must not NFC-normalize"
 
 
 # ---------------------------------------------------------------------------
@@ -157,9 +182,10 @@ def test_slug_filesystem_safe():
         )
 
 
-def test_slug_all_lxx_only_unique():
-    """Slugs for all LXX-only lemmas must be globally unique (no collisions)."""
-    lemmas = lxx_only_lemmas()
+def test_slug_all_lxx_only_unique(tmp_path):
+    """Slugs for the LXX-only lemmas must be unique (no collisions)."""
+    tsv = _write_fixture_tsv(tmp_path, _fixture_rows())
+    lemmas = lxx_only_lemmas(tsv)
     slugs = [_lemma_slug(l) for l in lemmas]
     assert len(slugs) == len(set(slugs)), (
         "Slug collision detected among LXX-only lemmas"

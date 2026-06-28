@@ -205,8 +205,8 @@ def _lemma_slug(lemma: str) -> str:
     return hashlib.sha1(lemma.encode("utf-8")).hexdigest()[:12]
 
 
-def lxx_only_lemmas() -> list[str]:
-    """Return the sorted unique list of LXX-only lemmas from data/cache/morph/lxx.tsv.
+def lxx_only_lemmas(tsv_path: "str | Path | None" = None) -> list[str]:
+    """Return the sorted unique list of LXX-only lemmas from a normalized TSV.
 
     A lemma is LXX-only if:
       - it appears in the TSV with an empty `strong` column, AND
@@ -217,10 +217,15 @@ def lxx_only_lemmas() -> list[str]:
     is applied, consistent with the lemma->Strong's join used elsewhere in the
     morph pipeline.
 
+    `tsv_path` defaults to the gitignored derived `data/cache/morph/lxx.tsv`;
+    tests pass a hermetic fixture path so they do not depend on the cache.
+
     Provenance: lemmas sourced from openscriptures GreekResources LxxLemmas,
     CC-BY 4.0 (https://github.com/openscriptures/GreekResources).
     """
-    tsv = Path(__file__).parent.parent / "data" / "cache" / "morph" / "lxx.tsv"
+    tsv = Path(tsv_path) if tsv_path is not None else (
+        Path(__file__).parent.parent / "data" / "cache" / "morph" / "lxx.tsv"
+    )
     lemmas_with_strong: set[str] = set()
     lemmas_without_strong: set[str] = set()
 
