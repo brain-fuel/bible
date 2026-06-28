@@ -81,15 +81,19 @@ All underlying texts are in the public domain:
 - **Hebrew Masoretic Text** (Westminster Leningrad Codex): Sourced via the Sefaria API. Includes full Masoretic pointing with vowels and cantillation marks.
 - **Biblia 1776** (Finnish, 1776): Sourced from Scrollmapper's `FinBiblia` dataset. Already KJV-versified for the protocanon, so it is placed by identity with no versification map.
 - **Greek Textus Receptus** (NT only): Sourced from the Logos Apostolic interlinear (https://www.logosapostolic.org/bibles/latin_vulgate_textus_receptus_king_james/).
+- **Swete 1909 Greek Old Testament** (Septuagint / LXX): H. B. Swete, *The Old Testament in Greek* (1909). Public Domain by age. Sourced as PD text, not from any GPL repackaging.
 
 The morpho-lexical layer adds the following sources (see the Morpho-Lexical Floor section below):
 
 - **STEPBible TAGNT** (Translators Amalgamated Greek NT), **TAHOT** (Translators Amalgamated Hebrew OT), and **TBESG** (Translators Brief Exhaustive Strong's Greek): CC BY 4.0, produced by STEPBible and Tyndale House Cambridge. Supply per-word lemma, morphology, Strong's numbers, and English glosses for the NT Greek and OT Hebrew. Credit STEPBible and link to https://github.com/STEPBible.
 - **MACULA Greek and Hebrew Linguistic Datasets** (Clear Bible Inc.): CC BY 4.0. Supplies Louw-Nida section references (Greek) and SDBH LexDomain codes (Hebrew) for semantic domains. https://github.com/Clear-Bible/macula-greek and https://github.com/Clear-Bible/macula-hebrew.
 - **Strong's Exhaustive Concordance** Greek and Hebrew dictionaries (James Strong, 1890): Public Domain. XML encoding by Ulrik Petersen / openscriptures. https://github.com/openscriptures/strongs.
+- **openscriptures GreekResources LxxLemmas** (Open Scriptures Septuagint Project, David Troidl): CC BY 4.0. Supplies per-word Greek lemmas and the lemma-to-Strong's join for the LXX corpus. https://github.com/openscriptures/GreekResources.
 ## Versification Mapping and Attribution
 
 The OT cross-tradition verse alignment is derived from **STEPBible's TVTMS** (Translators Versification Traditions Mapping System), produced by Tyndale House Cambridge. This data is licensed CC BY 4.0. A small hand-authored CC0 supplement (`data/versification/ot-versification-supplement.json`) aligns the Decalogue chapters (Exodus 20, Deuteronomy 5) to the Sefaria verse division.
+
+The LXX versification map (`data/versification/lxx-versification.json`) is derived from the same TVTMS file's Greek/LXX tradition column (CC BY 4.0). A companion CC0 supplement (`data/versification/lxx-versification-supplement.json`) covers chapter-level reorderings and integrated additions that TVTMS does not model at the verse level: Jeremiah chapter reorder, Greek Esther additions A-F, and Greek Daniel integrated books.
 
 **Credit STEPBible and link to** https://github.com/STEPBible when using this compilation.
 
@@ -154,6 +158,36 @@ Validate Apocrypha structure:
     python -m tools.validate_apo
 
 Raw sources are cached in `data/cache/` (gitignored).
+
+### Septuagint (LXX)
+
+Generate the LXX corpus from the Swete 1909 PD text (requires Swete CSVs in `data/cache/morph/raw/lxx/`):
+
+    python -m tools.generate_lxx            # -> bible/lxx/   (Swete PD)
+
+Normalize LxxLemmas to the intermediate TSV (requires openscriptures JS files in `data/cache/morph/raw/lxx/lxxlemmas/`):
+
+    python -m tools.morph_norm.lxx          # -> data/cache/morph/lxx.tsv  (lemmas + Strong's join)
+
+Generate CoNLL-U morphology files for the LXX (lemma + Strong's only; UPOS/XPOS/FEATS intentionally empty):
+
+    python -m tools.generate_morph --testament lxx   # -> morph/lxx/
+
+Validate LXX structure and morphology coverage:
+
+    python -m tools.validate_lxx
+    python -m tools.validate_morph lxx
+
+Build lexicon (adds LXX-only lemma-keyed entries to `lexicon/grc/`):
+
+    python -m tools.build_lexicon           # + LXX-only lemmas
+
+Rebuild the derived MT<->LXX bridge and token database (both are gitignored):
+
+    python -m tools.align_mt_lxx            # -> data/cache/mt-lxx-bridge.jsonl (derived aggregate)
+    python -m tools.build_db                # -> data/tokens.sqlite (+ lxx tokens + mt_lxx table)
+
+Raw source caches are in `data/cache/morph/raw/lxx/` (gitignored). See the Septuagint Layer section for artifact details.
 
 ### Morpho-Lexical Layer
 
@@ -226,3 +260,43 @@ Greek semantic domains use Louw-Nida section references (e.g. `"25.43"`) sourced
 - STEPBible TAGNT / TAHOT / TBESG: "Data created by www.STEPBible.org based on work at Tyndale House Cambridge (CC BY 4.0). Source: https://github.com/STEPBible"
 - MACULA Greek / Hebrew: "MACULA Greek/Hebrew Linguistic Datasets, Clear Bible Inc., CC-BY 4.0. https://github.com/Clear-Bible/macula-greek and https://github.com/Clear-Bible/macula-hebrew"
 - Strong's Greek / Hebrew dictionaries: Public Domain -- Strong's Exhaustive Concordance, James Strong 1890. XML by Ulrik Petersen / openscriptures.
+
+## Septuagint Layer
+
+The Septuagint (LXX) integration adds a Greek Old Testament corpus, a lemma+Strong's annotation layer, a LXX<->MT versification map, and an aggregated MT<->LXX bridge. It reuses the two-form architecture and registry-driven pipeline of the Morpho-Lexical Floor.
+
+### Corpus: `bible/lxx/`
+
+54 books of Swete's 1909 Greek OT (full LXX canon including deuterocanon; LXX versification). Chapter files have the same schema as the main corpus but use the `greek_lxx` field for the verse text. Protocanon books include a `refs.mt` field (present only when the LXX verse maps to a different MT position or has no MT counterpart).
+
+**License:** CC0-1.0 (Swete 1909 is Public Domain by age; sourced as PD text, not from any GPL repackaging).
+
+### Morphology: `morph/lxx/`
+
+Per-token CoNLL-U files for all 54 LXX books. Each token carries:
+
+- `FORM` (from the LXX verse text), `LEMMA` (polytonic Greek from LxxLemmas), `Strong=G####` in MISC where the lemma joins to `lexicon/grc`.
+- `UPOS`, `XPOS`, `FEATS` are intentionally **empty** (`_`). No open LXX morphology source exists today; these columns backfill automatically when STEPBible TAGOT (CC-BY) releases by flipping the registry `morph_scheme` entry and rerunning `generate_morph --testament lxx`.
+- `Align=matched|unmatched` records whether the surface form was found in the LxxLemmas word list for the verse.
+
+**License:** CC-BY-4.0 (derived from openscriptures LxxLemmas, David Troidl, CC-BY 4.0 -- see `docs/LICENSING.md`).
+
+### LXX<->MT Versification
+
+`data/versification/lxx-versification.json` is derived from the Greek/LXX tradition column of STEPBible TVTMS (CC-BY 4.0). `data/versification/lxx-versification-supplement.json` (CC0) covers chapter-level structural differences not modeled at the verse level by TVTMS: Jeremiah chapter reorder (LXX ~1/8 shorter; Oracles Against the Nations relocated), Greek Esther additions A-F, and Greek Daniel integrated books (Susanna, Song of the Three, Bel).
+
+### MT<->LXX Bridge (derived, gitignored)
+
+`data/cache/mt-lxx-bridge.jsonl` and the `mt_lxx` DB table are **derived projections** (rebuildable, not committed). They aggregate verse-level co-occurrence of Hebrew Strong's (H####) and Greek Strong's / lemmas across protocanon LXX-MT verse pairs.
+
+Each bridge row carries: `mt_strong`, `lxx_strong`, `lxx_lemma`, `cooccur` (verse-pair count), `exact` (positional-match verse-pairs), `positional` (word-index-ratio match verse-pairs). This is **verse-level co-occurrence, not word-level alignment** -- no open CC-BY/PD word-level MT<->LXX alignment exists. Consumers should weight pairs by `exact / cooccur` ratio; low-count pairs are noise. The bridge is the cross-language handoff for future L2b relation-graph work.
+
+**Coverage:** 691,240 aggregate rows; protocanon books only (deuterocanon has no MT counterpart).
+
+### Deferred (open-source gated)
+
+**Full LXX morphology** (UPOS/XPOS/FEATS) awaits STEPBible TAGOT (CC-BY 4.0), announced but not yet released. When TAGOT lands it is a drop-in: same morph-code scheme as TAGNT, same normalizer, zero new decoder rules. Backfill: set `morph_scheme` in `data/morph-sources.json` to `"stepbible_greek"` and rerun `generate_morph --testament lxx`.
+
+**Word-level MT<->LXX alignment** would upgrade the bridge from verse-level co-occurrence to attested word links, if and when an open CC-BY/PD source appears (the CATSS/Tov alignment is restricted-license and has been rejected).
+
+See [`docs/LICENSING.md`](docs/LICENSING.md) for the per-artifact license map: `bible/lxx` is CC0; `morph/lxx` lemma+Strong's is CC-BY (openscriptures LxxLemmas); the versification map is CC-BY (TVTMS) + CC0 (supplement).
