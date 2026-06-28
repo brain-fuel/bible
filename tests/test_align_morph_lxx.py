@@ -72,12 +72,22 @@ def test_align_verse_lxx_positional_empty_morph():
 
 
 def test_align_verse_lxx_positional_corpus_longer():
-    """Extra corpus words (beyond TSV rows) are marked unmatched."""
+    """Count mismatch (corpus longer than TSV): whole verse is aborted.
+
+    Even when corpus has more words than TSV, a mid-verse deletion in the TSV
+    would mistag all words after the deletion point.  Since there is no shared
+    surface key to locate the deletion, the whole verse is aborted as
+    count_mismatch -- prefer missing data over wrong data.
+    """
     norm = [_LXX_ROW(1, "και", "καί", "G2532")]
     toks = align_verse("RUT.1.1", "ΚΑΙ ἐγένετο", norm, "grc", morph_scheme="none", positional=True)
-    assert toks[0].lemma == "καί"
-    assert "unmatched" not in toks[0].misc
-    assert "Align=unmatched" in toks[1].misc
+    # Both corpus words emitted as count_mismatch; no lemma/Strong assigned.
+    assert len(toks) == 2
+    for tok in toks:
+        assert tok.lemma == "_"
+        assert "count_mismatch" in tok.misc
+        assert "source_short:1" in tok.misc
+        assert "Strong=" not in tok.misc
 
 
 def test_align_verse_lxx_positional_tsv_longer_source_extra():
@@ -90,3 +100,48 @@ def test_align_verse_lxx_positional_tsv_longer_source_extra():
     toks = align_verse("RUT.1.1", "ΚΑΙ", norm, "grc", morph_scheme="none", positional=True)
     assert len(toks) == 1
     assert "source_extra:2" in toks[0].misc
+
+
+def test_positional_count_mismatch_aborts_verse():
+    """Mid-verse insertion in TSV (count mismatch) must abort the whole verse.
+
+    When TSV has M rows and corpus has N != M words, positional zip silently
+    mistags every word after the insertion/deletion point -- no shared surface
+    key can locate the divergence.  The fix: emit ALL tokens as
+    Align=count_mismatch with empty lemma/Strong so no wrong data enters the
+    floor.  Prefer missing data over wrong data.
+    """
+    # TSV has 5 rows (CCAT insertion at position 2: 'χ' row is extra).
+    # Corpus has 4 words: α β γ δ (Swete text).
+    # Naive positional zip would give corpus word 'β' the lemma for 'χ',
+    # 'γ' the lemma for 'β', 'δ' the lemma for 'γ' -- all WRONG after position 2.
+    norm = [
+        _LXX_ROW(1, "α", "alpha", "G0001"),
+        _LXX_ROW(2, "χ", "chi",   "G0000"),  # extra CCAT row (insertion)
+        _LXX_ROW(3, "β", "beta",  "G0002"),
+        _LXX_ROW(4, "γ", "gamma", "G0003"),
+        _LXX_ROW(5, "δ", "delta", "G0004"),
+    ]
+    l0 = "α β γ δ"  # 4 corpus words vs 5 TSV rows -> count mismatch
+    toks = align_verse("TST.1.1", l0, norm, "grc", morph_scheme="none", positional=True)
+
+    # Whole verse must be aborted: every token has empty lemma + count_mismatch.
+    assert len(toks) == 4, f"expected 4 tokens (one per corpus word), got {len(toks)}"
+    for tok in toks:
+        assert tok.lemma == "_", (
+            f"token '{tok.form}' got unexpected lemma '{tok.lemma}'; "
+            "count-mismatch verse must produce no lemma data"
+        )
+        assert "count_mismatch" in tok.misc, (
+            f"token '{tok.form}' missing count_mismatch marker in misc: {tok.misc!r}"
+        )
+        assert "Strong=" not in tok.misc, (
+            f"token '{tok.form}' wrongly carries Strong= in a count-mismatch verse: {tok.misc!r}"
+        )
+
+    # Key correctness check: corpus word 'γ' (index 2) must NOT carry beta/G0002
+    # (which naive positional zip would assign because TSV row 2 is 'beta').
+    gamma_tok = toks[2]
+    assert gamma_tok.form == "γ"
+    assert gamma_tok.lemma == "_"  # not "beta"
+    assert "Strong=G0002" not in gamma_tok.misc

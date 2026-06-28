@@ -88,7 +88,7 @@ def generate(lang_entry: dict, norm_by_ref: dict, book_filter: str | None) -> di
     for book in books:
         code = book["code"]
         num_chapters = book["chapters"]
-        book_stats = {"chapters": 0, "verses": 0, "tokens": 0, "unmatched": 0, "source_extra": 0}
+        book_stats = {"chapters": 0, "verses": 0, "tokens": 0, "unmatched": 0, "count_mismatch": 0, "source_extra": 0}
 
         out_dir = ROOT / "morph" / testament / code
         out_dir.mkdir(parents=True, exist_ok=True)
@@ -130,6 +130,8 @@ def generate(lang_entry: dict, norm_by_ref: dict, book_filter: str | None) -> di
                         for val in part[len("Align="):].split(","):
                             if val == "unmatched":
                                 book_stats["unmatched"] += 1
+                            elif val == "count_mismatch":
+                                book_stats["count_mismatch"] += 1
                             elif val.startswith("source_extra:"):
                                 try:
                                     book_stats["source_extra"] += int(val.split(":")[1])
@@ -148,6 +150,7 @@ def generate(lang_entry: dict, norm_by_ref: dict, book_filter: str | None) -> di
             f"  {code}: {book_stats['chapters']} ch, {book_stats['verses']} vv, "
             f"{book_stats['tokens']} tok, "
             f"{book_stats['unmatched']} unmatched, "
+            f"{book_stats['count_mismatch']} count_mismatch, "
             f"{book_stats['source_extra']} source_extra"
         )
 
@@ -186,10 +189,12 @@ def main() -> None:
         stats = generate(entry, norm_by_ref, book_filter=args.book)
         total_tok = sum(s["tokens"] for s in stats.values())
         total_unmatched = sum(s["unmatched"] for s in stats.values())
+        total_count_mismatch = sum(s["count_mismatch"] for s in stats.values())
         total_extra = sum(s["source_extra"] for s in stats.values())
         print(
             f"[{lang}/{testament}] Done. Total: {total_tok} tokens, "
-            f"{total_unmatched} unmatched, {total_extra} source_extra."
+            f"{total_unmatched} unmatched, {total_count_mismatch} count_mismatch, "
+            f"{total_extra} source_extra."
         )
 
 

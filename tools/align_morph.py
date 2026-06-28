@@ -115,8 +115,11 @@ def _build_token(
     norm row.  Shared by both surface-matching and positional alignment paths.
     """
     if match is None:
+        # For morph_scheme="none" (LXX), keep UPOS empty ("_") consistent with
+        # the empty-morph convention.  Other schemes use placeholder "X".
+        upos = "_" if morph_scheme == "none" else "X"
         return Token(
-            str(i), w, "_", "X", "_", "_",
+            str(i), w, "_", upos, "_", "_",
             misc=format_misc("", "_", {}, "unmatched"),
         )
 
@@ -212,15 +215,25 @@ def align_verse(
         # --- Positional alignment (LXX) ---
         # TSV rows are sorted by idx (1-based, consecutive).  Match corpus
         # word at 0-based position i-1 with TSV row at index i-1 (i.e. idx==i).
-        for i, w in enumerate(words, start=1):
-            row_idx = i - 1  # 0-based index into rows (idx = i)
-            match = rows[row_idx] if row_idx < len(rows) else None
-            tokens.append(_build_token(i, w, match, lang, morph_scheme, headwords))
-
-        # TSV rows beyond len(words) are source_extra on the last token.
-        leftover = max(0, len(rows) - len(words))
-        if leftover > 0 and tokens:
-            tokens[-1].misc = _append_align(tokens[-1].misc, f"source_extra:{leftover}")
+        #
+        # COUNT-MISMATCH GUARD: when len(rows) != len(words), we cannot locate
+        # the divergence point (no shared surface key to resync on), so ANY
+        # positional pairing after the divergence would silently mistag tokens.
+        # Prefer missing data over wrong data: abort the entire verse and emit
+        # all tokens as Align=count_mismatch with empty lemma/strong/morph.
+        if len(rows) != len(words):
+            diff = len(rows) - len(words)
+            extra_marker = f"source_extra:{diff}" if diff > 0 else f"source_short:{-diff}"
+            for i, w in enumerate(words, start=1):
+                tokens.append(Token(
+                    str(i), w, "_", "_", "_", "_",
+                    misc=f"Align=count_mismatch,{extra_marker}",
+                ))
+        else:
+            # Counts match: positional pairing is safe (same word sequence).
+            for i, w in enumerate(words, start=1):
+                match = rows[i - 1]
+                tokens.append(_build_token(i, w, match, lang, morph_scheme, headwords))
 
     else:
         # --- Surface matching (NT/OT) ---
