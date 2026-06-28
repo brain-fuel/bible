@@ -47,7 +47,7 @@ data/versification/lxx-versification.json  NEW  LXX↔MT verse map (Task 1)
 data/morph-sources.json            MOD  +1 row: lxx
 bible/lxx/<CODE>/NNN.json          NEW  LXX Greek text, Swete (Task 2)
 morph/lxx/<CODE>/NNN.conllu        NEW  LXX lemma+Strong's tags, morph cols empty (Task 5)
-align/mt-lxx/<CODE>/NNN.json       NEW  verse-level MT↔LXX bridge, protocanon (Task 7)
+data/cache/mt-lxx-bridge.jsonl     (derived, gitignored) aggregated MT↔LXX bridge (Task 7)
 lexicon/grc/*.json                 MOD  extend with LXX-only lemmas (Task 6)
 data/tokens.sqlite                 (derived, gitignored) +lxx tokens +mt_lxx table (Task 8)
 tools/sources/lxx_source.py        NEW  Swete PD text backend
@@ -55,7 +55,7 @@ tools/morph_norm/lxx.py            NEW  normalize LxxLemmas -> lxx.tsv (+ raw-st
 tools/generate_lxx.py              NEW  emit bible/lxx/ from the Swete backend
 tools/lxx_versification.py         NEW  build/apply LXX<->MT verse map
 tools/tvtms.py                     MOD  emit the already-parsed Greek/LXX column (Task 1)
-tools/align_mt_lxx.py              NEW  build align/mt-lxx/ verse-level bridge
+tools/align_mt_lxx.py              NEW  build the aggregated (derived) MT↔LXX bridge
 tools/validate_lxx.py              NEW  LXX corpus structural + versification oracles
 tools/align_morph.py               MOD  load_norm keyed by norm-path (de-collide grc nt vs lxx)
 tools/generate_morph.py            MOD  pass norm path per entry; --testament filter
@@ -386,16 +386,20 @@ git commit -m "feat: extend lexicon with LXX-only lemma-keyed entries"
 
 ---
 
-### Task 7: MT↔LXX bridge artifact (verse-level co-occurrence)
+### Task 7: MT↔LXX bridge artifact (aggregated verse-level co-occurrence, derived)
+
+The bridge is a **derived projection** (computable from `morph/ot` + `morph/lxx` + `mt_ref`), so it is NOT committed canonical data. The raw per-verse cross-product is combinatorially huge (~5.4M edges, 1.4 GB) and ~99% noise; we persist only the **aggregated** (mt_strong, lxx_strong) co-occurrence counts — the actual translational signal L2b consumes — to a gitignored JSONL, rebuilt on demand and loaded into the DB (Task 8).
 
 **Files:**
 - Create: `tools/align_mt_lxx.py`, `tests/test_align_mt_lxx.py`
+- Derived (gitignored): `data/cache/mt-lxx-bridge.jsonl`
 
 **Interfaces:**
-- Consumes: `tools.lxx_versification.mt_ref`; `morph/ot/**` (MT Hebrew tokens, with Strong's) and `morph/lxx/**` (LXX Greek tokens, with Strong's).
+- Consumes: `tools.lxx_versification.mt_ref`/`lxx_books`; `morph/ot/**` (MT Hebrew tokens, `Strong=H####`) and `morph/lxx/**` (LXX Greek tokens, `LEMMA` + `Strong=G####` + `Align=exact|positional|unmatched`).
 - Produces:
-  - `align_verse_pair(lxx_ref:str, mt_ref:str, mt_tokens:list, lxx_tokens:list) -> list[dict]` producing edges `{"lxx_ref","mt_ref","mt_strong","lxx_strong","lxx_lemma","confidence","src"}`. Verse-level co-occurrence: the content-word cross-product of the corresponding MT and LXX verse; every edge `confidence="verse-cooccurrence"`, `src="derived:verse-cooccurrence"`.
-  - A driver writing `align/mt-lxx/<CODE>/NNN.json` for protocanon books (keyed by LXX ref), using `mt_ref` to pair each LXX verse to its MT verse; deuterocanon skipped (no MT). Coverage pinned.
+  - `align_verse_pair(lxx_ref, mt_ref, mt_tokens, lxx_tokens) -> list[dict]` — the per-verse building block (kept for testing). Content-word cross-product of one MT/LXX verse pair (skip tokens with empty `strong`); each edge `{"lxx_ref","mt_ref","mt_strong","lxx_strong","lxx_lemma","confidence":"verse-cooccurrence","lxx_align":"exact"|"positional","src":"derived:verse-cooccurrence"}`. `lxx_align` is carried from the LXX token's `Align=` so L2b can weight (positional = lower confidence).
+  - `build_bridge() -> iterator/list of aggregate rows` — walks protocanon LXX verses, pairs each to its MT verse via `mt_ref` (skip `None`/deuterocanon), and AGGREGATES the per-verse edges into one row per `(mt_strong, lxx_strong)`: `{"mt_strong","lxx_strong","lxx_lemma":<most-common>,"cooccur":<#verse-pairs>,"exact":<#exact>,"positional":<#positional>}`. Deterministic ordering (by mt_strong, lxx_strong).
+  - A CLI writing the aggregate to `data/cache/mt-lxx-bridge.jsonl` (gitignored). Coverage reported, not pinned to a committed file.
 
 - [ ] **Step 1: Write the failing test.**
 
@@ -405,12 +409,13 @@ from tools.align_mt_lxx import align_verse_pair
 
 def test_verse_level_edges_carry_provenance():
     mt = [{"strong": "H7225", "lemma": "רֵאשִׁית"}]
-    lxx = [{"strong": "G0746", "lemma": "ἀρχή"}]
+    lxx = [{"strong": "G0746", "lemma": "ἀρχή", "align": "exact"}]
     edges = align_verse_pair("GEN.1.1", "GEN.1.1", mt, lxx)
     assert edges[0]["mt_strong"] == "H7225"
     assert edges[0]["lxx_strong"] == "G0746"
     assert edges[0]["lxx_lemma"] == "ἀρχή"
     assert edges[0]["confidence"] == "verse-cooccurrence"
+    assert edges[0]["lxx_align"] == "exact"
     assert edges[0]["src"]
 ```
 
@@ -419,18 +424,18 @@ def test_verse_level_edges_carry_provenance():
 Run: `python -m pytest tests/test_align_mt_lxx.py -v`
 Expected: FAIL with `ModuleNotFoundError`.
 
-- [ ] **Step 3: Implement `align_mt_lxx.py`.** Emit the content-word cross-product of each corresponding MT/LXX verse (skip tokens with empty `strong`), every edge flagged `confidence="verse-cooccurrence"`. Use `mt_ref` to pair LXX verses to MT verses; skip deuterocanon. Driver writes `align/mt-lxx/<CODE>/NNN.json`. (The schema carries a `confidence` field so a future word-level source can add `confidence="word"` edges additively without a migration.)
+- [ ] **Step 3: Implement `align_mt_lxx.py`.** `align_verse_pair` emits the content-word cross-product (skip empty `strong`), carrying `lxx_align`. `build_bridge` pairs LXX→MT verses via `mt_ref` (skip `None`/deuterocanon), accumulates per-`(mt_strong,lxx_strong)` counts (`cooccur`/`exact`/`positional`, most-common `lxx_lemma`), and the CLI writes `data/cache/mt-lxx-bridge.jsonl`. Add a test that aggregation collapses repeated pairs into one row with summed counts.
 
 - [ ] **Step 4: Run tests + build + report.**
 
 Run: `python -m pytest tests/test_align_mt_lxx.py -v` → PASS.
-Run: `python -m tools.align_mt_lxx` → report protocanon coverage (edge count, % of LXX protocanon verses with ≥1 edge). Spot-check GEN.1.1 (H7225 רֵאשִׁית co-occurs with G0746 ἀρχή).
+Run: `python -m tools.align_mt_lxx` → report: # unique `(mt_strong, lxx_strong)` aggregate rows, total cooccur, % of LXX protocanon verses contributing ≥1 edge, exact/positional split, verses skipped (no MT counterpart), and the aggregate file size. Spot-check the top renderings of H7225 (רֵאשִׁית) — ἀρχή (G0746) should rank high by `cooccur`.
 
-- [ ] **Step 5: Commit.**
+- [ ] **Step 5: Commit (tool + tests only; the aggregate is gitignored).**
 
 ```bash
-git add tools/align_mt_lxx.py tests/test_align_mt_lxx.py align/mt-lxx
-git commit -m "feat: MT<->LXX verse-level co-occurrence bridge (protocanon, confidence-flagged)"
+git add tools/align_mt_lxx.py tests/test_align_mt_lxx.py
+git commit -m "feat: aggregated MT<->LXX co-occurrence bridge (derived, confidence + lxx_align)"
 ```
 
 ---
@@ -442,8 +447,8 @@ git commit -m "feat: MT<->LXX verse-level co-occurrence bridge (protocanon, conf
 - Create: `tests/test_build_db_lxx.py`
 
 **Interfaces:**
-- Consumes: `bible/lxx/**`, `morph/lxx/**`, `align/mt-lxx/**`, extended `lexicon/grc/`.
-- Produces: `verses` gains LXX rows (`testament="lxx"`, `greek` column = `greek_lxx`); `tokens` gains LXX rows (`testament="lxx"`); new table `mt_lxx(lxx_ref, mt_ref, mt_strong, lxx_strong, lxx_lemma, confidence, src)` with indexes on `mt_strong`, `lxx_strong`. `lexicon`/`glosses` include the LXX-only lemma entries (strong nullable).
+- Consumes: `bible/lxx/**`, `morph/lxx/**`, the aggregated bridge (`tools.align_mt_lxx.build_bridge()` / `data/cache/mt-lxx-bridge.jsonl`), extended `lexicon/grc/`.
+- Produces: `verses` gains LXX rows (`testament="lxx"`, `greek` column = `greek_lxx`); `tokens` gains LXX rows (`testament="lxx"`); new AGGREGATE table `mt_lxx(mt_strong, lxx_strong, lxx_lemma, cooccur, exact, positional)` with indexes on `mt_strong`, `lxx_strong`. `lexicon`/`glosses` include the LXX-only lemma entries (strong nullable). (build_db calls `build_bridge()` directly or reads the gitignored JSONL — either way the bridge is recomputed, never committed.)
 
 - [ ] **Step 1: Write the failing test.**
 
@@ -467,14 +472,14 @@ def test_mt_lxx_table_and_lxx_tokens(tmp_path):
 Run: `python -m pytest tests/test_build_db_lxx.py -v`
 Expected: FAIL (no `mt_lxx` table / no lxx tokens yet).
 
-- [ ] **Step 3: Extend `build_db.py`** to load `bible/lxx/` into `verses`, `morph/lxx/` into `tokens` (testament `lxx`; empty UPOS/XPOS/FEATS stored as NULL/empty consistently with how the floor stores absent fields), and `align/mt-lxx/` into a new `mt_lxx` table; create its indexes; keep the build one transaction + idempotent. Handle nullable `strong` in `lexicon` for LXX-only lemma rows.
+- [ ] **Step 3: Extend `build_db.py`** to load `bible/lxx/` into `verses`, `morph/lxx/` into `tokens` (testament `lxx`; empty UPOS/XPOS/FEATS stored as NULL/empty consistently with how the floor stores absent fields), and the aggregated bridge into a new `mt_lxx` table (call `tools.align_mt_lxx.build_bridge()` so the DB build is self-contained and needs no committed bridge file); create its indexes; keep the build one transaction + idempotent. Handle nullable `strong` in `lexicon` for LXX-only lemma rows.
 
 - [ ] **Step 4: Run tests + build + prove the cross-language query.**
 
 Run: `python -m pytest tests/test_build_db_lxx.py -v` → PASS.
 Run: `python -m tools.build_db` then prove the bridge:
 ```
-sqlite3 data/tokens.sqlite "SELECT DISTINCT lxx_strong FROM mt_lxx WHERE mt_strong='H7225';"   -- Hebrew rēʾšît -> Greek renderings
+sqlite3 data/tokens.sqlite "SELECT lxx_strong, lxx_lemma, cooccur FROM mt_lxx WHERE mt_strong='H7225' ORDER BY cooccur DESC LIMIT 5;"  -- Hebrew rēʾšît -> top Greek renderings by co-occurrence
 sqlite3 data/tokens.sqlite "SELECT COUNT(*) FROM tokens WHERE testament='lxx';"
 ```
 Report row counts (verses/tokens incl lxx; mt_lxx edges).
@@ -497,7 +502,7 @@ git commit -m "feat: DB loads LXX tokens + mt_lxx bridge table (cross-language j
 - Consumes: all prior tasks.
 - Produces: README section documenting the LXX corpus, lemma+Strong's tagging, the verse-level MT↔LXX bridge, the deferred-morph status, the regenerate sequence, and attributions.
 
-- [ ] **Step 1: Add a README section** describing `bible/lxx/`, `morph/lxx/` (lemma+Strong's; morph columns empty pending TAGOT), `align/mt-lxx/` (verse-level co-occurrence), the LXX↔MT versification map, and the regenerate sequence:
+- [ ] **Step 1: Add a README section** describing `bible/lxx/`, `morph/lxx/` (lemma+Strong's; morph columns empty pending TAGOT), the derived aggregated MT↔LXX bridge (`data/cache/mt-lxx-bridge.jsonl` + `mt_lxx` DB table; verse-level co-occurrence), the LXX↔MT versification map, and the regenerate sequence:
 
 ```
 python -m tools.generate_lxx              # -> bible/lxx/   (Swete PD)
@@ -505,8 +510,8 @@ python -m tools.morph_norm.lxx            # -> data/cache/morph/lxx.tsv  (LxxLem
 python -m tools.generate_morph --testament lxx   # -> morph/lxx/ (lemma+Strong's, morph empty)
 python -m tools.validate_morph lxx
 python -m tools.build_lexicon             # + LXX-only lemmas
-python -m tools.align_mt_lxx              # -> align/mt-lxx/ (verse-level bridge)
-python -m tools.build_db                  # + lxx tokens + mt_lxx table
+python -m tools.align_mt_lxx              # -> data/cache/mt-lxx-bridge.jsonl (derived aggregate)
+python -m tools.build_db                  # + lxx tokens + mt_lxx table (recomputes bridge)
 ```
 (verify these module paths/flags match what was built; correct any that differ.)
 
@@ -516,11 +521,11 @@ python -m tools.build_db                  # + lxx tokens + mt_lxx table
 
 ```bash
 git status --short    # clean
-rm -rf bible/lxx morph/lxx align/mt-lxx data/tokens.sqlite
+rm -rf bible/lxx morph/lxx data/tokens.sqlite data/cache/mt-lxx-bridge.jsonl
 python -m tools.generate_lxx && python -m tools.morph_norm.lxx && python -m tools.generate_morph --testament lxx
 python -m tools.build_lexicon && python -m tools.align_mt_lxx && python -m tools.build_db
 python -m tools.validate_lxx && python -m tools.validate_morph lxx && python -m pytest -q
-git status --short    # bible/lxx, morph/lxx, align/mt-lxx, lexicon/grc regenerate byte-identical (no diff)
+git status --short    # bible/lxx, morph/lxx, lexicon/grc regenerate byte-identical (no diff); mt-lxx bridge is derived/gitignored
 ```
 Expected: validators pass, suite green, regenerated artifacts byte-identical to committed. If any diff appears, that is a determinism bug — investigate, don't re-commit blindly.
 
@@ -540,7 +545,7 @@ git commit -m "docs: document LXX integration (open subset) + source attribution
 - Lemma + Strong's tagging (raw-string join, no NFC) → Tasks 3,4,5. ✓
 - Morphology → DEFERRED (no open source; TAGOT backfill). Columns ship empty, pinned `with_morph==0`. ✓ (scope change, user-approved)
 - LXX-only lemma lexicon entries → Task 6. ✓
-- MT↔LXX bridge → Task 7, verse-level co-occurrence (word-level has no open source). ✓ (degraded, user-approved)
+- MT↔LXX bridge → Task 7, AGGREGATED verse-level co-occurrence, DERIVED/gitignored (raw per-verse cross-product was 1.4 GB / 99% noise; word-level has no open source). ✓ (degraded, user-approved)
 - LXX↔MT versification (TVTMS Greek column + CC0 supplement) → Task 1. ✓
 - DB extension (lxx tokens + mt_lxx table) → Task 8. ✓
 - Two-form/additive/registry-driven; L0 untouched; bible/lxx own tree → Global Constraints, Tasks 2,4. ✓
@@ -550,4 +555,4 @@ git commit -m "docs: document LXX integration (open subset) + source attribution
 
 **Placeholder scan:** Task fixtures say "adjust to the real layout per FORMATS-lxx.md" for the two source-parsing tests (LxxLemmas record format, Swete edition) — the exact byte layout is documented in the committed `docs/FORMATS-lxx.md`, and the normalized-TSV quarantine boundary keeps every downstream task deterministic. No `TBD`/`TODO`/"handle edge cases" left.
 
-**Type consistency:** `mt_ref`/`lxx_books`/`load_lxx_vmap` (Task 1) used in Tasks 2,7; `load_norm(norm_path)` signature change (Task 4) consumed by `generate_morph`; `morph_scheme:"none"` (Task 4) honored by `generate_morph` and asserted by `validate` `with_morph==0` (Task 5); normalized-TSV columns identical to the floor's schema (Task 3) and consumed by `load_norm` (Task 4); `align/mt-lxx` edge keys (`lxx_ref`/`mt_ref`/`mt_strong`/`lxx_strong`/`lxx_lemma`/`confidence`/`src`) consistent between Task 7 producer and Task 8 `mt_lxx` table; `greek_lxx` field name consistent across Tasks 2,4,8; Strong's `G####` 4-digit padding and raw-oxia (non-NFC) join key consistent across Tasks 3,4,6.
+**Type consistency:** `mt_ref`/`lxx_books`/`load_lxx_vmap` (Task 1) used in Tasks 2,7; `load_norm(norm_path)` signature change (Task 4) consumed by `generate_morph`; `morph_scheme:"none"` (Task 4) honored by `generate_morph` and asserted by `validate` `with_morph==0` (Task 5); normalized-TSV columns identical to the floor's schema (Task 3) and consumed by `load_norm` (Task 4); the aggregated bridge keys (`mt_strong`/`lxx_strong`/`lxx_lemma`/`cooccur`/`exact`/`positional`) consistent between Task 7 `build_bridge()` and the Task 8 `mt_lxx` table; `greek_lxx` field name consistent across Tasks 2,4,8; Strong's `G####` 4-digit padding and raw-oxia (non-NFC) join key consistent across Tasks 3,4,6.
