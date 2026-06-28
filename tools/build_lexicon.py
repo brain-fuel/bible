@@ -263,10 +263,12 @@ def build_lemma_entry(lemma: str, extra: dict | None = None) -> dict:
          https://github.com/openscriptures/GreekResources"
         Record this source label ("openscriptures-lxxlemmas") in `sources`.
     """
-    glosses = {}
     if extra and "glosses" in extra:
-        glosses = extra["glosses"]
-    # Else: leave glosses as empty dict (slot ready, nothing fabricated)
+        glosses = dict(extra["glosses"])  # shallow copy; do not mutate caller's dict
+        if "en" not in glosses:
+            glosses["en"] = []
+    else:
+        glosses = {"en": []}  # schema-uniform empty slot; nothing fabricated
 
     return {
         "strong": None,

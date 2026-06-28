@@ -50,10 +50,11 @@ def test_lemma_entry_minimal_schema():
 
 
 def test_lemma_entry_no_fabricated_glosses():
-    """Without extra, glosses must be empty slot (no fabricated text)."""
+    """Without extra, glosses must be {"en": []} (schema-uniform empty slot, no fabricated text)."""
     e = build_lemma_entry("λόγος")
-    en_glosses = e["glosses"].get("en", [])
-    assert en_glosses == [], f"Expected empty en-gloss slot, got {en_glosses}"
+    assert e["glosses"] == {"en": []}, (
+        f"Expected glosses=={{'en': []}}, got {e['glosses']!r}"
+    )
 
 
 def test_lemma_entry_gloss_passthrough():
@@ -70,7 +71,8 @@ def test_lemma_entry_preserves_raw_lemma():
     e = build_lemma_entry(raw_nfd)
     assert e["lemma"] == raw_nfd
     # Confirm the NFC form is different (proving the test is meaningful)
-    assert unicodedata.normalize("NFC", raw_nfd) != raw_nfd or True  # always store raw
+    # Confirm the NFC form is different (proves the test is meaningful — NFD decomposes ή)
+    assert unicodedata.normalize("NFC", raw_nfd) != raw_nfd
 
 
 def test_lemma_entry_senses_empty():
