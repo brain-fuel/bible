@@ -30,6 +30,7 @@ Usage:
 
 from __future__ import annotations
 
+import hashlib
 import json
 import re
 import unicodedata
@@ -179,6 +180,106 @@ def attach_domains(entry: dict, domain_map: dict) -> dict:
         entry["sources"].append(src_label)
 
     return entry
+
+
+# ---------------------------------------------------------------------------
+# LXX-only lemma support
+# ---------------------------------------------------------------------------
+
+# Slug rule: sha1(lemma.encode("utf-8")).hexdigest()[:12]
+# - Deterministic: same lemma → same sha1
+# - Collision-free in practice: 48-bit space for ~10k lemmas (birthday bound
+#   is negligible: p ≈ n²/2^48 ≈ 10⁸/2.8×10¹⁴ < 10⁻⁶)
+# - Filesystem-safe: hex digits [0-9a-f] only
+# - Operates on the RAW (non-NFC) lemma bytes, matching the join key used in the
+#   morph pipeline, so a query on the raw lemma always resolves to this file.
+
+
+def _lemma_slug(lemma: str) -> str:
+    """Return a deterministic, filesystem-safe, collision-free slug for a lemma.
+
+    Algorithm: hex(sha1(lemma.encode("utf-8")))[:12]
+    The raw (non-NFC) lemma bytes are hashed so the slug is stable under any
+    Unicode-normalization choice: always call with the same raw form.
+    """
+    return hashlib.sha1(lemma.encode("utf-8")).hexdigest()[:12]
+
+
+def lxx_only_lemmas() -> list[str]:
+    """Return the sorted unique list of LXX-only lemmas from data/cache/morph/lxx.tsv.
+
+    A lemma is LXX-only if:
+      - it appears in the TSV with an empty `strong` column, AND
+      - it NEVER appears in the TSV with a non-empty `strong` value
+        (i.e. it cannot be resolved to any Greek Strong's entry).
+
+    The lemma string is returned RAW as read from the TSV — no NFC normalization
+    is applied, consistent with the lemma->Strong's join used elsewhere in the
+    morph pipeline.
+
+    Provenance: lemmas sourced from openscriptures GreekResources LxxLemmas,
+    CC-BY 4.0 (https://github.com/openscriptures/GreekResources).
+    """
+    tsv = Path(__file__).parent.parent / "data" / "cache" / "morph" / "lxx.tsv"
+    lemmas_with_strong: set[str] = set()
+    lemmas_without_strong: set[str] = set()
+
+    with open(tsv, encoding="utf-8") as f:
+        header = f.readline().strip().split("\t")
+        li = header.index("lemma")
+        si = header.index("strong")
+        for line in f:
+            parts = line.rstrip("\n").split("\t")
+            if len(parts) <= max(li, si):
+                continue
+            lemma = parts[li]
+            strong = parts[si]
+            if strong:
+                lemmas_with_strong.add(lemma)
+            else:
+                lemmas_without_strong.add(lemma)
+
+    lxx_only = lemmas_without_strong - lemmas_with_strong
+    return sorted(lxx_only)
+
+
+def build_lemma_entry(lemma: str, extra: dict | None = None) -> dict:
+    """Build a lexicon entry for an LXX-only lemma (no Strong's number).
+
+    Args:
+        lemma:  Raw lemma string (not NFC-normalized) as read from the TSV.
+        extra:  Optional dict of overrides / additions.  Currently recognized key:
+                  "glosses": a language-keyed gloss dict passed through as-is.
+                If extra is None or omits "glosses", the glosses slot is empty
+                (ready for future enrichment). Glosses are NEVER fabricated.
+
+    Returns:
+        A lexicon entry dict matching the L2a schema with strong=None and
+        provenance attributed to openscriptures LxxLemmas (CC-BY 4.0).
+
+    License note:
+        The returned entry is CC-BY-4.0 attributed to:
+        "Open Scriptures Septuagint lemmas (David Troidl), CC-BY 4.0.
+         https://github.com/openscriptures/GreekResources"
+        Record this source label ("openscriptures-lxxlemmas") in `sources`.
+    """
+    glosses = {}
+    if extra and "glosses" in extra:
+        glosses = extra["glosses"]
+    # Else: leave glosses as empty dict (slot ready, nothing fabricated)
+
+    return {
+        "strong": None,
+        "lemma": lemma,
+        "translit": "",
+        "lang": "grc",
+        "pos": "",
+        "glosses": glosses,
+        "senses": [],
+        "domains": [],
+        "root": None,
+        "sources": ["openscriptures-lxxlemmas"],
+    }
 
 
 # ---------------------------------------------------------------------------
@@ -544,6 +645,23 @@ def main():
     print(f"  domain coverage:   {hbo_with_domain}/{len(hbo_ids)} ({hbo_domain_cov:.1f}%)")
     if hbo_no_gloss:
         print(f"  WARNING: {hbo_no_gloss} entries have no English gloss")
+
+    # Write LXX-only lemma entries (additive — existing G####.json untouched)
+    print("\nBuilding LXX-only lemma entries (strong=None, CC-BY openscriptures)...")
+    lxx_lemmas = lxx_only_lemmas()
+    lxx_glossed = 0
+    for lemma in lxx_lemmas:
+        entry = build_lemma_entry(lemma)
+        slug = _lemma_slug(lemma)
+        (grc_out / f"lemma-{slug}.json").write_text(
+            json.dumps(entry, ensure_ascii=False, indent=2), encoding="utf-8"
+        )
+        if entry["glosses"]:
+            lxx_glossed += 1
+    print(f"  LXX-only lemma entries written: {len(lxx_lemmas)}")
+    print(f"  Glossed vs empty-slot: {lxx_glossed} glossed / {len(lxx_lemmas) - lxx_glossed} empty")
+    print(f"  Slug rule: sha1(lemma.encode('utf-8')).hexdigest()[:12]")
+    print(f"  License: CC-BY-4.0 (openscriptures LxxLemmas, David Troidl)")
 
     # Spot-check G0026
     g0026 = json.loads((grc_out / "G0026.json").read_text(encoding="utf-8"))
