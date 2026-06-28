@@ -10,6 +10,7 @@ from tools.refs import expand
 ROOT = Path(__file__).resolve().parents[1]
 CACHE_PATH = ROOT / "data" / "cache" / "tvtms.txt"
 OUT_PATH = ROOT / "data" / "versification" / "ot-versification.json"
+LXX_OUT_PATH = ROOT / "data" / "versification" / "lxx-versification.json"
 
 TVTMS_URL = (
     "https://raw.githubusercontent.com/STEPBible/STEPBible-Data/master/"
@@ -273,10 +274,13 @@ def main():
 
     heb_count = len(m["hebrew"])
     lat_count = len(m["latin"])
+    grk_count = len(m["greek"])
     print(f"Hebrew divergences: {heb_count}", file=sys.stderr)
     print(f"Latin divergences:  {lat_count}", file=sys.stderr)
+    print(f"Greek divergences:  {grk_count}", file=sys.stderr)
 
-    output = {
+    # --- OT versification (Hebrew + Latin) ---
+    ot_output = {
         "_attribution": (
             "Derived from STEPBible TVTMS Condensed "
             "(https://github.com/STEPBible/STEPBible-Data) "
@@ -288,10 +292,28 @@ def main():
 
     OUT_PATH.parent.mkdir(parents=True, exist_ok=True)
     OUT_PATH.write_text(
-        json.dumps(output, indent=2, ensure_ascii=False) + "\n",
+        json.dumps(ot_output, indent=2, ensure_ascii=False) + "\n",
         encoding="utf-8",
     )
     print(f"Written: {OUT_PATH}", file=sys.stderr)
+
+    # --- LXX versification (Greek column: LXX ref -> MT chapter:verse) ---
+    lxx_output = {
+        "_attribution": (
+            "Derived from STEPBible TVTMS Condensed "
+            "(https://github.com/STEPBible/STEPBible-Data) "
+            "CC BY 4.0 Tyndale House, Cambridge. "
+            "Greek (LXX) column: LXX ref -> MT (Hebrew) chapter:verse, "
+            "only for verses where LXX numbering diverges from MT."
+        ),
+        "greek": m["greek"],
+    }
+
+    LXX_OUT_PATH.write_text(
+        json.dumps(lxx_output, indent=2, ensure_ascii=False) + "\n",
+        encoding="utf-8",
+    )
+    print(f"Written: {LXX_OUT_PATH}", file=sys.stderr)
     return 0
 
 

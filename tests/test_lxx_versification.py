@@ -17,6 +17,12 @@ def test_deuterocanon_has_no_mt():
     assert mt_ref("1MA", 1, 1) is None
 
 
+def test_non_lxx_code_has_no_mt():
+    # 2ES = 4 Ezra / Latin apocalypse; NOT a Greek LXX book and has no MT
+    # counterpart.  mt_ref must return None, not an identity string.
+    assert mt_ref("2ES", 1, 1) is None
+
+
 def test_lxx_books_present_with_codes():
     books = lxx_books()
     assert len(books) >= 39

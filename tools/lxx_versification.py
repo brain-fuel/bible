@@ -16,16 +16,9 @@ _VMAP_PATH = ROOT / "data" / "versification" / "lxx-versification.json"
 _SUPP_PATH = ROOT / "data" / "versification" / "lxx-versification-supplement.json"
 _BOOKS_PATH = ROOT / "data" / "books.json"
 
-# Deuterocanon codes: these exist in the LXX but have no MT (Hebrew) counterpart.
-# 2ES is NOT a Greek LXX book (it is 4 Ezra / Latin apocalypse); do not include.
-_DEUTEROCANON = frozenset({
-    "1ES", "TOB", "JDT", "ADE", "WIS", "SIR", "BAR",
-    "PAZ", "SUS", "BEL", "MAN", "1MA", "2MA",
-    "3MA", "4MA", "ODE", "PSS",
-})
-
 _vmap_cache = None
 _books_cache = None
+_protocanon_cache = None
 
 
 def load_lxx_vmap():
@@ -59,6 +52,27 @@ def _load_books():
     data = json.loads(_BOOKS_PATH.read_text(encoding="utf-8"))
     _books_cache = data["books"]
     return _books_cache
+
+
+def _lxx_protocanon_codes():
+    """Return the frozenset of LXX codes that have MT (Hebrew) counterparts.
+
+    A code qualifies if its books.json row has testament='ot' AND an
+    lxx_order field (i.e. it participates in the LXX canon AND is an OT
+    protocanon book with a Hebrew text).  Deuterocanon codes (testament='apo')
+    and LXX-only codes (testament='lxx') are excluded, as are codes such as
+    2ES that have no lxx_order at all (4 Ezra is not a Greek LXX book).
+    """
+    global _protocanon_cache
+    if _protocanon_cache is not None:
+        return _protocanon_cache
+    books = _load_books()
+    _protocanon_cache = frozenset(
+        b["code"]
+        for b in books
+        if b.get("testament") == "ot" and b.get("lxx_order") is not None
+    )
+    return _protocanon_cache
 
 
 def lxx_books():
@@ -100,10 +114,15 @@ def mt_ref(lxx_code, lxx_chapter, lxx_verse):
     str   -- MT 'chapter:verse' string for protocanon positions.
              For verses with no divergence, returns 'chapter:verse'
              (identity mapping).
-    None  -- for deuterocanon books or genuinely absent (e.g. Psalm 151).
+    None  -- for deuterocanon books, LXX-only books, codes not in the LXX
+             canon at all (e.g. 2ES), or genuinely absent verses (e.g.
+             Psalm 151).
     """
-    # Deuterocanon has no MT counterpart.
-    if lxx_code in _DEUTEROCANON:
+    # Only OT protocanon books (testament='ot' with lxx_order in books.json)
+    # have MT counterparts.  Deuterocanon (testament='apo'), LXX-only codes
+    # (testament='lxx'), and codes absent from the LXX entirely (e.g. 2ES)
+    # all return None.
+    if lxx_code not in _lxx_protocanon_codes():
         return None
 
     vmap = load_lxx_vmap()
