@@ -1,0 +1,13 @@
+{
+  "_note": "Hand-authored CC0 supplement to the TVTMS-derived LXX map (lxx-versification.json). Covers structural divergences that TVTMS does not model as verse-level shifts: (1) Psalm 151 is LXX-only (no MT counterpart) -- null values below. (2) Jeremiah chapter reorder: LXX Oracles Against the Nations sit mid-book (LXX chs 25:14-31:44) vs end-of-book in MT (chs 46-51); chapter-level remap not enumerable as simple verse pairs. (3) Greek Esther additions A-F are integrated into the running text (KJVA splits as ADE code); their LXX positions have no MT counterpart. (4) Greek Daniel additions (Susanna, Song of Three, Bel) are integrated into Daniel; their LXX positions have no standalone MT counterpart. These are factual correspondences, licensed CC0.",
+  "_jer_reorder": "LXX Jer 25:14-31:44 corresponds structurally to MT Jer 46-51 (Oracles Against Nations). LXX ordering puts them mid-book; the exact verse-level correspondence requires book-level chapter map (out of scope for this supplement); the LXX corpus file is the authoritative source.",
+  "greek": {
+    "PSA 151:1": null,
+    "PSA 151:2": null,
+    "PSA 151:3": null,
+    "PSA 151:4": null,
+    "PSA 151:5": null,
+    "PSA 151:6": null,
+    "PSA 151:7": null
+  }
+}

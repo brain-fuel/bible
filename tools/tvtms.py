@@ -35,6 +35,7 @@ ABBR = {
 _KJV_LABEL = "English KJV"
 _HEB_LABEL = "Hebrew"
 _LAT_LABEL = "Latin"
+_GRK_LABEL = "Greek"
 
 
 def _normalize_label(s):
@@ -49,12 +50,13 @@ def parse_condensed(text):
         kjv    -- a single ref dict (from expand) or None
         hebrew -- a single ref dict or None
         latin  -- a single ref dict or None
+        greek  -- a single ref dict or None  (LXX / Greek tradition column)
     Ranges are expanded and zipped element-wise inside this function so that
-    each returned dict represents exactly one aligned verse triple.
+    each returned dict represents exactly one aligned verse 4-tuple.
     """
     lines = text.splitlines()
     in_condensed = False
-    kjv_idx = heb_idx = lat_idx = None
+    kjv_idx = heb_idx = lat_idx = grk_idx = None
     result = []
 
     for line in lines:
@@ -71,6 +73,7 @@ def parse_condensed(text):
             kjv_idx = None
             heb_idx = None
             lat_idx = None
+            grk_idx = None
             for i, lbl in enumerate(labels):
                 if lbl == _KJV_LABEL and kjv_idx is None:
                     kjv_idx = i + 1  # +1 because cells[0] is the '$...' field
@@ -78,6 +81,8 @@ def parse_condensed(text):
                     heb_idx = i + 1
                 elif lbl == _LAT_LABEL and lat_idx is None:
                     lat_idx = i + 1
+                elif lbl == _GRK_LABEL and grk_idx is None:
+                    grk_idx = i + 1
             continue
 
         # BIBLES row: explicit column-header line used in many blocks (Psalms
@@ -87,6 +92,7 @@ def parse_condensed(text):
             kjv_idx = None
             heb_idx = None
             lat_idx = None
+            grk_idx = None
             for i, lbl in enumerate(cells[1:], start=1):
                 lbl = _normalize_label(lbl)
                 if lbl == _KJV_LABEL and kjv_idx is None:
@@ -95,6 +101,8 @@ def parse_condensed(text):
                     heb_idx = i
                 elif lbl == _LAT_LABEL and lat_idx is None:
                     lat_idx = i
+                elif lbl == _GRK_LABEL and grk_idx is None:
+                    grk_idx = i
             continue
 
         # Skip comment/empty lines
@@ -116,14 +124,16 @@ def parse_condensed(text):
         kjv_refs = _get(kjv_idx)
         heb_refs = _get(heb_idx)
         lat_refs = _get(lat_idx)
+        grk_refs = _get(grk_idx)
 
         # Expand ranges and zip element-wise to produce one dict per verse.
-        for kjv_ref, heb_ref, lat_ref in itertools.zip_longest(
-                kjv_refs, heb_refs, lat_refs):
+        for kjv_ref, heb_ref, lat_ref, grk_ref in itertools.zip_longest(
+                kjv_refs, heb_refs, lat_refs, grk_refs):
             result.append({
                 "kjv": kjv_ref,
                 "hebrew": heb_ref,
                 "latin": lat_ref,
+                "greek": grk_ref,
             })
 
     return result
@@ -132,17 +142,22 @@ def parse_condensed(text):
 def build_map(text):
     """Build versification map from TVTMS condensed text.
 
-    Returns a dict with keys 'hebrew' and 'latin', each mapping
-    canonical KJV keys ('BOOK C:V') to the target tradition's
-    chapter:verse string -- only for verses that differ from KJV.
+    Returns a dict with keys 'hebrew', 'latin', and 'greek':
+      - 'hebrew' and 'latin': map canonical KJV keys ('BOOK C:V') to the
+        target tradition's chapter:verse string, only for verses that differ
+        from KJV.  (Existing behaviour, unchanged.)
+      - 'greek': map LXX ('BOOK C:V' using LXX numbering) to the MT Hebrew
+        chapter:verse string, only for verses that differ between LXX and MT.
+        Key = LXX position; value = MT 'chapter:verse'.
     """
-    result = {"hebrew": {}, "latin": {}}
+    result = {"hebrew": {}, "latin": {}, "greek": {}}
     unmapped_books = set()
 
     for entry in parse_condensed(text):
         kjv_ref = entry["kjv"]
         heb_ref = entry["hebrew"]
         lat_ref = entry["latin"]
+        grk_ref = entry.get("greek")
 
         # Skip absent/noverse/title entries on the KJV side
         if kjv_ref is None:
@@ -163,7 +178,7 @@ def build_map(text):
         verse = kjv_ref["verse"]
         kjv_key = f"{canon} {chap}:{verse}"
 
-        # Hebrew comparison
+        # Hebrew comparison (existing behaviour)
         if (heb_ref is not None
                 and not heb_ref.get("absent")
                 and not heb_ref.get("noverse")
@@ -173,7 +188,7 @@ def build_map(text):
                     f"{heb_ref['chapter']}:{heb_ref['verse']}"
                 )
 
-        # Latin comparison
+        # Latin comparison (existing behaviour)
         if (lat_ref is not None
                 and not lat_ref.get("absent")
                 and not lat_ref.get("noverse")
@@ -182,6 +197,35 @@ def build_map(text):
                 result["latin"][kjv_key] = (
                     f"{lat_ref['chapter']}:{lat_ref['verse']}"
                 )
+
+        # Greek/LXX column: build LXX-keyed -> MT (Hebrew) map.
+        # Key = LXX position "CANON grk_chap:grk_verse"
+        # Value = MT "heb_chap:heb_verse"
+        # Only record when LXX position differs from MT position.
+        if (grk_ref is not None
+                and not grk_ref.get("absent")
+                and not grk_ref.get("noverse")
+                and not grk_ref.get("title")
+                and heb_ref is not None
+                and not heb_ref.get("absent")
+                and not heb_ref.get("noverse")
+                and not heb_ref.get("title")):
+            grk_book = grk_ref.get("book")
+            grk_canon = ABBR.get(grk_book) if grk_book else None
+            if grk_canon:
+                grk_chap = grk_ref["chapter"]
+                grk_verse = grk_ref["verse"]
+                heb_chap = heb_ref["chapter"]
+                heb_verse = heb_ref["verse"]
+                heb_book = heb_ref.get("book")
+                # Record if position differs (different chapter, verse, or book)
+                if (grk_chap != heb_chap
+                        or grk_verse != heb_verse
+                        or grk_book != heb_book):
+                    grk_key = f"{grk_canon} {grk_chap}:{grk_verse}"
+                    result["greek"][grk_key] = (
+                        f"{heb_chap}:{heb_verse}"
+                    )
 
     if unmapped_books:
         known_nt = {
