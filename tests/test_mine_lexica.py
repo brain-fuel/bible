@@ -50,13 +50,17 @@ def test_strongs_crossref_from_gloss_text():
             },
         }
     ]
-    # G0034 exists in committed lexicon; the source key G0032 also exists
-    edges = strongs_crossref_edges(entries, source="strongs-greek")
+    # G0034 exists in committed lexicon; the source key G0032 also exists.
+    # 4a Strong's gloss-text cross-refs are extracted from the ALREADY-BUILT
+    # committed lexicon, so they must carry method="derived" (per
+    # FORMATS-relations.md §4a + edge schema), like shared-root/domain-sibling.
+    edges = strongs_crossref_edges(entries, source="strongs-greek", method="derived")
     assert len(edges) == 1
     e = edges[0]
     assert {e.src, e.dst} == {"G0032", "G0034"}
     assert e.rel == "synonym"
     assert e.source == "strongs-greek"
+    assert all(e.method == "derived" for e in edges)
 
 
 def test_strongs_crossref_self_loop_skipped():

@@ -114,6 +114,7 @@ _URL_TBESG = (
 def strongs_crossref_edges(
     entries: list[dict],
     source: str,
+    method: str = "mined",
 ) -> list[Edge]:
     """Emit direct synonym edges from Strong's-code cross-references.
 
@@ -135,6 +136,13 @@ def strongs_crossref_edges(
     source:
         Provenance source string (e.g. ``"strongs-greek"`` or
         ``"abbott-smith"``).
+    method:
+        Provenance method string.  Defaults to ``"mined"`` (so callers that
+        feed externally-derived xref lists, e.g. the 4b Abbott-Smith path, get
+        the correct tag without extra args).  The 4a Strong's gloss-text path
+        passes ``method="derived"`` because those cross-refs are extracted from
+        the ALREADY-BUILT committed lexicon (consistent with shared-root /
+        domain-sibling, per FORMATS-relations.md §4a + the edge schema).
 
     Returns
     -------
@@ -182,7 +190,7 @@ def strongs_crossref_edges(
                     rel="synonym",
                     directed=False,
                     source=source,
-                    method="mined",
+                    method=method,
                     rank=XREF_RANK,
                     note=None,
                 )
@@ -530,14 +538,21 @@ def build_lexica() -> list[Edge]:
     print("\n[4a] Mining Strong's Greek compare-refs …", flush=True)
     grc_entries = _load_all_entries("grc")
     print(f"  Loaded {len(grc_entries):,} Greek lexicon entries", flush=True)
-    grc_edges = strongs_crossref_edges(grc_entries, source="strongs-greek")
+    # method="derived": extracted from the committed lexicon (built artifact),
+    # like shared-root / domain-sibling — NOT mined from an external download.
+    grc_edges = strongs_crossref_edges(
+        grc_entries, source="strongs-greek", method="derived"
+    )
     print(f"  → {len(grc_edges):,} synonym edges (strongs-greek)", flush=True)
 
     # 4a Hebrew
     print("\n[4a] Mining Strong's Hebrew compare-refs …", flush=True)
     hbo_entries = _load_all_entries("hbo")
     print(f"  Loaded {len(hbo_entries):,} Hebrew lexicon entries", flush=True)
-    hbo_edges = strongs_crossref_edges(hbo_entries, source="strongs-hebrew")
+    # method="derived": extracted from the committed lexicon (built artifact).
+    hbo_edges = strongs_crossref_edges(
+        hbo_entries, source="strongs-hebrew", method="derived"
+    )
     print(f"  → {len(hbo_edges):,} synonym edges (strongs-hebrew)", flush=True)
 
     # 4c BDB
