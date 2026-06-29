@@ -11,6 +11,8 @@ A provisional midpoint of 32768 sits equidistant on the 0..65535 scale and
 satisfies both constraints given typical assignment ranges chosen by builders.
 """
 
+import math
+
 RANK_MAX: int = 65535
 
 # Provisional: midpoint of 0..65535.
@@ -37,6 +39,46 @@ def clamp_rank(x: int) -> int:
 # Distinct per-depth bands keep "more-specific ranks higher" monotone for BOTH
 # code formats, including SDBH depths 2..5, without colliding at RANK_MAX.
 _SPECIFICITY_BANDS = {1: 16384, 2: 40960, 3: 49152, 4: 57344, 5: 65535}
+
+
+# Bridge-rank scale: a pair with exact_ratio=1.0 and cooccur=100 maps to RANK_MAX.
+#
+# WHY cooccur=100 as the saturation ceiling:
+#   Most Hebrew-Greek co-occurrence pairs in the protocanon alignment cluster far
+#   below 100 verse-pairs; the few very common pairs (e.g. H0430/G2316) saturate
+#   well within this range.  Pinning the ceiling at log1p(100) ≈ 4.615 gives:
+#
+#     cooccur=1, exact=1  → score = 1.0 × log1p(1) ≈ 0.693
+#                           rank  = int(0.693 / 4.615 × 65535) ≈ 9836
+#                           9836 < 32768 = DEFAULT_RANK_THRESHOLD  ✓  (noise floor)
+#
+#     cooccur=1, exact=0  → score = 0  → rank = 0  (hardest noise floor)
+#
+#   So ANY cooccur=1 pair, even with a perfect exact ratio, lands comfortably
+#   below DEFAULT_RANK_THRESHOLD, keeping them out of the default view while
+#   still materialising them in the JSONL for completeness.
+#
+#     cooccur=50, exact=45 → score ≈ 0.9 × 3.932 ≈ 3.539
+#                            rank  = int(3.539 / 4.615 × 65535) ≈ 50,253  ✓
+#
+# Use clamp_rank to guarantee 0..65535 for pairs with cooccur > 100.
+_BRIDGE_SCALE: float = 65535.0 / math.log1p(100)
+
+
+def bridge_rank(row: dict) -> int:
+    """Rank a bridge row on 0..65535 using signal = exact_ratio × log1p(cooccur).
+
+    exact_ratio = exact / cooccur (0 if cooccur == 0 — guard against division by zero).
+    Scale pinned so cooccur=100 with exact_ratio=1.0 reaches RANK_MAX; any
+    cooccur=1 row always ranks below DEFAULT_RANK_THRESHOLD regardless of exact.
+    """
+    cooccur = row.get("cooccur", 0)
+    if cooccur == 0:
+        return 0
+    exact = row.get("exact", 0)
+    exact_ratio = exact / cooccur
+    score = exact_ratio * math.log1p(cooccur)
+    return clamp_rank(int(score * _BRIDGE_SCALE))
 
 
 def specificity_rank(code: str) -> int:
