@@ -358,13 +358,19 @@ def _load_relations(con: sqlite3.Connection) -> None:
 # Public API
 # ---------------------------------------------------------------------------
 
-def build(db_path: "str | Path") -> None:
+def build(db_path: "str | Path", load_relations: bool = True) -> None:
     """Create schema and populate from canonical files in one transaction.
 
     Args:
         db_path: Path to write the SQLite database.  Will be created or
                  overwritten.  ``data/tokens.sqlite`` by default when run
                  as a module.
+        load_relations: When True (default, the production path), load all
+                 authored + derived relation JSONL into the relations table.
+                 When False, skip the (large, ~11.6M-row) relations load and
+                 its indexes — used by floor/LXX tests that don't assert on
+                 the relations table.  The relations table + relations_default
+                 view are still created, so the DB schema is always valid.
     """
     db_path = Path(db_path)
     db_path.parent.mkdir(parents=True, exist_ok=True)
@@ -385,12 +391,17 @@ def build(db_path: "str | Path") -> None:
             _load_lexicon(con)
             _load_tokens(con)
             _load_mt_lxx(con)
-            _load_relations(con)
-            # Indexes (inside the transaction so they build under WAL if needed)
+            if load_relations:
+                _load_relations(con)
+            # Indexes (inside the transaction so they build under WAL if needed).
+            # Skip relations indexes when relations weren't loaded.
             for stmt in _INDEXES.strip().split(";"):
                 stmt = stmt.strip()
-                if stmt:
-                    con.execute(stmt)
+                if not stmt:
+                    continue
+                if not load_relations and "relations" in stmt:
+                    continue
+                con.execute(stmt)
     finally:
         con.close()
 

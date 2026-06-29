@@ -5,7 +5,7 @@ from tools.build_db import build
 
 def test_mt_lxx_table_and_lxx_tokens(tmp_path):
     db = tmp_path / "t.sqlite"
-    build(db)
+    build(db, load_relations=False)
     con = sqlite3.connect(db)
     names = {r[0] for r in con.execute("SELECT name FROM sqlite_master WHERE type='table'")}
     assert "mt_lxx" in names
@@ -16,7 +16,7 @@ def test_mt_lxx_table_and_lxx_tokens(tmp_path):
 def test_h7225_maps_to_g0746(tmp_path):
     """H7225 (Hebrew 'beginning') should render as G0746 (ἀρχή) in the LXX bridge."""
     db = tmp_path / "t.sqlite"
-    build(db)
+    build(db, load_relations=False)
     con = sqlite3.connect(db)
     lxx_strongs = {
         r[0] for r in con.execute(
@@ -31,7 +31,7 @@ def test_h7225_maps_to_g0746(tmp_path):
 def test_null_strong_lexicon_queryable_by_lemma(tmp_path):
     """LXX-only lemma entries (strong=null) must be loadable and queryable by lemma."""
     db = tmp_path / "t.sqlite"
-    build(db)
+    build(db, load_relations=False)
     con = sqlite3.connect(db)
     null_count = con.execute(
         "SELECT COUNT(*) FROM lexicon WHERE strong IS NULL"

@@ -28,8 +28,9 @@ def test_misc_field_empty_string():
 
 def test_build_creates_joinable_db(tmp_path, monkeypatch):
     # build() reads the repo's canonical files; here assert schema + a concordance join.
+    # Skip the large relations load — this test doesn't assert on relations.
     db = tmp_path / "t.sqlite"
-    build(db)
+    build(db, load_relations=False)
     con = sqlite3.connect(db)
     names = {r[0] for r in con.execute("SELECT name FROM sqlite_master WHERE type='table'")}
     assert {"verses", "tokens", "lexicon", "glosses", "senses", "domains"} <= names
