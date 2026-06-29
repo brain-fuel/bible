@@ -284,9 +284,11 @@ def mine_relations(
     Returns
     -------
     list[Edge]
-        Emitted edges.  Never contains self-loops (key_a == key_b are skipped);
-        may contain duplicate edge pairs if multiple links resolve to the same
-        endpoint pair.
+        Emitted edges.  Never contains self-loops (key_a == key_b are skipped).
+        Deduplicated to exactly one edge per ``(src, dst, rel, source)`` key —
+        when multiple source-links bridge the same pair (with different fanouts
+        and thus different ranks), the surviving edge carries the MAX rank
+        (smallest fanout = strongest evidence).
     """
     edges: list[Edge] = []
 
@@ -341,4 +343,18 @@ def mine_relations(
                     )
                 )
 
-    return edges
+    # Collapse to one edge per (src, dst, rel, source), keeping the MAX rank.
+    # The same lemma pair can be bridged by multiple source-links with different
+    # fanouts (hence different ranks); without this, the JSONL would carry several
+    # rows for the same logical edge, violating the data model's "one edge per
+    # relation per source" invariant (and corrupting Task 11's pinned counts).
+    # Max rank wins because the highest rank corresponds to the smallest fanout —
+    # i.e. the most precise / strongest evidence for that pair.  Distinct pairs
+    # and distinct sources are all preserved; only same-pair same-source
+    # redundancy collapses.
+    best: dict[tuple[str, str, str, str], Edge] = {}
+    for e in edges:
+        k = (e.src, e.dst, e.rel, e.source)
+        if k not in best or e.rank > best[k].rank:
+            best[k] = e
+    return list(best.values())

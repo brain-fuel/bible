@@ -68,3 +68,35 @@ def test_fanout_downweight_ranks_vague_matches_lower():
     assert len(vague) == 4  # full 2×2 cross-product
     assert all(e.rank == expected_vague_rank for e in vague)
     assert all(e.rank < precise[0].rank for e in vague)  # monotone: vague < precise
+
+
+# Fixture for the dedup test.  G0040 and G0041 are reachable as a pair via two
+# different links with different fanout:
+#   "happy" -> {G0040}; "merry" -> {G0041}           (a 1×1 link, fanout 1)
+#   "glad"  -> {G0040,G0041}; "joyful" -> {G0040,G0041}  (a 2×2 link, fanout 4)
+DEDUP_ENTRIES = [
+    {"strong": "G0040", "lemma": "α", "glosses": {"en": [{"text": "happy, glad, joyful", "src": "x"}]}},
+    {"strong": "G0041", "lemma": "β", "glosses": {"en": [{"text": "merry, glad, joyful", "src": "x"}]}},
+]
+
+
+def test_dedup_same_pair_collapses_to_max_rank():
+    """Same (src,dst,rel,source) from two links → ONE edge at the MAX (best) rank."""
+    idx = gloss_term_index(DEDUP_ENTRIES, lang="en")
+    base = 40000
+    links = [
+        ("happy", "merry", "synonym"),    # fanout 1×1 = 1 → rank base (40000)
+        ("glad", "joyful", "synonym"),    # fanout 2×2 = 4 → rank base - 2*SCALE
+    ]
+    edges = mine_relations(idx, links, source="t", method="mined", base_rank=base)
+
+    pair_edges = [e for e in edges if {e.src, e.dst} == {"G0040", "G0041"}]
+    # Exactly one edge per (src,dst,rel,source) — the redundant lower-rank row collapsed.
+    assert len(pair_edges) == 1
+    # Surviving rank is the MAX (smallest fanout = strongest evidence), not base-2*SCALE.
+    assert pair_edges[0].rank == base
+    assert pair_edges[0].rank != base - 2 * FANOUT_PENALTY_SCALE
+
+    # No duplicate (src,dst,rel,source) keys anywhere in the output.
+    keys = [(e.src, e.dst, e.rel, e.source) for e in edges]
+    assert len(keys) == len(set(keys))
