@@ -112,6 +112,24 @@ CREATE TABLE IF NOT EXISTS mt_lxx (
     exact      INTEGER,
     positional INTEGER
 );
+
+CREATE TABLE IF NOT EXISTS relations (
+    src      TEXT NOT NULL,
+    dst      TEXT NOT NULL,
+    rel      TEXT NOT NULL,
+    directed INTEGER NOT NULL,
+    source   TEXT NOT NULL,
+    method   TEXT NOT NULL,
+    rank     INTEGER NOT NULL,
+    note     TEXT
+);
+
+-- View: only edges with rank >= DEFAULT_RANK_THRESHOLD.
+-- Literal 32768 is the pinned constant from tools/relations/rank.py
+-- (DEFAULT_RANK_THRESHOLD = 32768). Re-pinned in Task 10 from observed
+-- rank histograms; update here when rank.py changes.
+CREATE VIEW IF NOT EXISTS relations_default AS
+    SELECT * FROM relations WHERE rank >= 32768;
 """
 
 _INDEXES = """
@@ -122,6 +140,10 @@ CREATE INDEX IF NOT EXISTS idx_domains_domain ON domains(domain);
 CREATE INDEX IF NOT EXISTS idx_lexicon_lemma  ON lexicon(lemma);
 CREATE INDEX IF NOT EXISTS idx_mtlxx_mt       ON mt_lxx(mt_strong);
 CREATE INDEX IF NOT EXISTS idx_mtlxx_lxx      ON mt_lxx(lxx_strong);
+CREATE INDEX IF NOT EXISTS idx_relations_src  ON relations(src);
+CREATE INDEX IF NOT EXISTS idx_relations_dst  ON relations(dst);
+CREATE INDEX IF NOT EXISTS idx_relations_rel  ON relations(rel);
+CREATE INDEX IF NOT EXISTS idx_relations_rank ON relations(rank);
 """
 
 
