@@ -343,21 +343,15 @@ def _load_relations(con: sqlite3.Connection) -> None:
         sources.extend(sorted(derived_dir.glob("*.jsonl")))
 
     for jsonl_path in sources:
-        for edge in read_jsonl(jsonl_path):
-            con.execute(
-                "INSERT INTO relations(src, dst, rel, directed, source, method, rank, note)"
-                " VALUES (?, ?, ?, ?, ?, ?, ?, ?)",
-                (
-                    edge.src,
-                    edge.dst,
-                    edge.rel,
-                    int(edge.directed),
-                    edge.source,
-                    edge.method,
-                    edge.rank,
-                    edge.note,
-                ),
-            )
+        edges = read_jsonl(jsonl_path)
+        con.executemany(
+            "INSERT INTO relations(src, dst, rel, directed, source, method, rank, note)"
+            " VALUES (?, ?, ?, ?, ?, ?, ?, ?)",
+            (
+                (e.src, e.dst, e.rel, int(e.directed), e.source, e.method, e.rank, e.note)
+                for e in edges
+            ),
+        )
 
 
 # ---------------------------------------------------------------------------

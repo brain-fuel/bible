@@ -50,14 +50,18 @@ DERIVED_DIR = ROOT / "relations" / "derived"
 CANONICAL_RELS = ("shared-root", "domain-sibling", "cross-language", "synonym", "antonym")
 
 
-def _rank_histogram(edges: list[Edge]) -> dict[str, int]:
-    """Return a coarse rank histogram with a few buckets."""
-    buckets: dict[str, int] = {
+def _empty_histogram() -> dict[str, int]:
+    """Return a zeroed coarse rank histogram with a few buckets."""
+    return {
         "0..9999": 0,
         "10000..32767": 0,
         "32768..49999": 0,
         "50000..65535": 0,
     }
+
+
+def _accumulate_histogram(buckets: dict[str, int], edges: list[Edge]) -> None:
+    """Tally edges into the rank buckets in place (no second flat copy)."""
     for e in edges:
         r = e.rank
         if r < 10000:
@@ -68,7 +72,6 @@ def _rank_histogram(edges: list[Edge]) -> dict[str, int]:
             buckets["32768..49999"] += 1
         else:
             buckets["50000..65535"] += 1
-    return buckets
 
 
 def build_relations() -> dict[str, list[Edge]]:
@@ -166,14 +169,16 @@ def print_report(rel_edges: dict[str, list[Edge]]) -> None:
         print(f"  {src:30s}: {cnt:>10,}")
 
     print(f"\nRank histogram (all rels combined):")
-    all_edges: list[Edge] = []
+    hist = _empty_histogram()
     for edges in rel_edges.values():
-        all_edges.extend(edges)
-    hist = _rank_histogram(all_edges)
+        _accumulate_histogram(hist, edges)
     for bucket, cnt in sorted(hist.items()):
         print(f"  [{bucket}]: {cnt:>10,}")
 
-    above = sum(1 for e in all_edges if e.rank >= DEFAULT_RANK_THRESHOLD)
+    above = sum(
+        sum(1 for e in edges if e.rank >= DEFAULT_RANK_THRESHOLD)
+        for edges in rel_edges.values()
+    )
     below = total - above
     print(f"\nDEFAULT_RANK_THRESHOLD = {DEFAULT_RANK_THRESHOLD}")
     print(f"  rank >= threshold (in default view): {above:>10,}")
