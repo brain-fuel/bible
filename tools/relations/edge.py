@@ -69,7 +69,11 @@ def write_jsonl(path: "str | Path", edges: "Iterable[Edge]") -> None:
 
 
 def read_jsonl(path: "str | Path") -> "list[Edge]":
-    """Read edges from a JSONL file, returning them in file order."""
+    """Read edges from a JSONL file, returning them sorted by (src, rel, dst, source).
+
+    The sort is applied on read so callers get a deterministic order regardless
+    of the on-disk file ordering (important when loading JSONL into the DB).
+    """
     path = Path(path)
     edges: list[Edge] = []
     with path.open("r", encoding="utf-8") as f:
@@ -77,4 +81,4 @@ def read_jsonl(path: "str | Path") -> "list[Edge]":
             line = line.strip()
             if line:
                 edges.append(Edge.from_json(json.loads(line)))
-    return edges
+    return sorted(edges, key=lambda e: (e.src, e.rel, e.dst, e.source))

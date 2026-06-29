@@ -322,6 +322,44 @@ def _load_mt_lxx(con: sqlite3.Connection) -> None:
     )
 
 
+def _load_relations(con: sqlite3.Connection) -> None:
+    """Load all relation JSONL files into the relations table.
+
+    Reads every *.jsonl from relations/authored/ and relations/derived/.
+    Idempotent: clears the table first so re-running build() never duplicates rows.
+    directed is stored as INTEGER (0/1).
+    """
+    from tools.relations.edge import read_jsonl
+
+    con.execute("DELETE FROM relations")
+
+    authored_dir = ROOT / "relations" / "authored"
+    derived_dir = ROOT / "relations" / "derived"
+
+    sources: list[Path] = []
+    if authored_dir.is_dir():
+        sources.extend(sorted(authored_dir.glob("*.jsonl")))
+    if derived_dir.is_dir():
+        sources.extend(sorted(derived_dir.glob("*.jsonl")))
+
+    for jsonl_path in sources:
+        for edge in read_jsonl(jsonl_path):
+            con.execute(
+                "INSERT INTO relations(src, dst, rel, directed, source, method, rank, note)"
+                " VALUES (?, ?, ?, ?, ?, ?, ?, ?)",
+                (
+                    edge.src,
+                    edge.dst,
+                    edge.rel,
+                    int(edge.directed),
+                    edge.source,
+                    edge.method,
+                    edge.rank,
+                    edge.note,
+                ),
+            )
+
+
 # ---------------------------------------------------------------------------
 # Public API
 # ---------------------------------------------------------------------------
@@ -353,6 +391,7 @@ def build(db_path: "str | Path") -> None:
             _load_lexicon(con)
             _load_tokens(con)
             _load_mt_lxx(con)
+            _load_relations(con)
             # Indexes (inside the transaction so they build under WAL if needed)
             for stmt in _INDEXES.strip().split(";"):
                 stmt = stmt.strip()
@@ -377,7 +416,7 @@ if __name__ == "__main__":
 
     # Quick summary
     con = sqlite3.connect(out)
-    for tbl in ("verses", "tokens", "lexicon", "glosses", "senses", "domains", "mt_lxx"):
+    for tbl in ("verses", "tokens", "lexicon", "glosses", "senses", "domains", "mt_lxx", "relations"):
         n = con.execute(f"SELECT COUNT(*) FROM {tbl}").fetchone()[0]
         print(f"  {tbl:10s}: {n:>8,}")
     # LXX-specific breakdowns
