@@ -33,12 +33,42 @@ in one function is a hard invariant.
 
 from __future__ import annotations
 
+import math
 import re
 from typing import Iterable
 
 from tools.relations.edge import Edge, canonical_orient
 from tools.relations.lexkeys import key_for
 from tools.relations.rank import clamp_rank
+
+# ---------------------------------------------------------------------------
+# Looseness-penalty constants.
+#
+# Two independent penalties pull a link's rank DOWN from ``base_rank``:
+#
+# 1. WORD_PENALTY — multi-word headwords imply a fuzzier surface match.
+#    A two-word phrase costs WORD_PENALTY; a three-word phrase costs 2×, etc.
+#
+# 2. FANOUT_PENALTY_SCALE — *polysemy* downweight.  A link whose endpoints each
+#    resolve to MANY lemma keys (large cross-product) is a vague many↔many match
+#    and should rank low; a precise 1↔1 match should rank high.  The penalty
+#    grows with log2 of the cross-product size, i.e. one FANOUT_PENALTY_SCALE
+#    of rank is shed per *doubling* of fanout:
+#        fanout=1  → 0           (precise 1↔1, no penalty)
+#        fanout=2  → 1×scale
+#        fanout=4  → 2×scale
+#        fanout=8  → 3×scale ...
+#    This makes rank strictly decreasing in fanout (monotone) while bounding the
+#    cost of huge cross-products to a logarithm rather than a runaway linear hit.
+# ---------------------------------------------------------------------------
+WORD_PENALTY: int = 1000
+
+# Rank points shed per doubling of the cross-product (fanout) size.  Pinned so
+# that, with a per-miner base_rank chosen just above DEFAULT_RANK_THRESHOLD, a
+# precise (fanout=1) single-word match lands above the threshold while a match
+# with a few-dozen-way fanout falls below it.  Task 10 re-validates against
+# observed rank histograms.
+FANOUT_PENALTY_SCALE: int = 2500
 
 # ---------------------------------------------------------------------------
 # Stopword set — tokens removed before indexing gloss text.
@@ -206,14 +236,27 @@ def mine_relations(
 
     Rank assignment
     ~~~~~~~~~~~~~~~
-    Base rank is ``base_rank``.  A **looseness penalty** is applied when
-    headwords are multi-word phrases (indicating a fuzzier match):
+    Base rank is ``base_rank``.  Two **looseness penalties** pull it down:
 
-        penalty = 1000 × (max(word_count(headword), word_count(related)) − 1)
+    1. *Word penalty* — multi-word phrases indicate a fuzzier surface match::
 
-    A single-word headword/related pair → penalty = 0.
-    A two-word phrase → penalty = 1000 (rank reduced by 1000).
-    Rank is clamped to ``0..65535`` via ``clamp_rank``.
+           word_penalty = WORD_PENALTY × (max(wc(headword), wc(related)) − 1)
+
+       single-word → 0; two-word phrase → WORD_PENALTY (1000).
+
+    2. *Fanout (polysemy) penalty* — a vague many↔many bridge should rank low,
+       a precise 1↔1 bridge high.  ``fanout`` is the size of the cross-product
+       emitted from this link (``len(hw_keys) × len(rel_keys)``)::
+
+           fanout_penalty = round(FANOUT_PENALTY_SCALE × log2(fanout))
+
+       fanout=1 → 0 (precise match, no penalty); the penalty grows by one
+       FANOUT_PENALTY_SCALE per *doubling* of fanout, so rank is strictly
+       decreasing in fanout (monotone).  Computed ONCE per link and shared by
+       every edge emitted from that link.
+
+    Final rank: ``clamp_rank(base_rank − word_penalty − fanout_penalty)``,
+    clamped to ``0..65535``.
 
     Self-loops (key_a == key_b)
     ~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -236,7 +279,7 @@ def mine_relations(
     method:
         Provenance method string (e.g. ``"mined"``).
     base_rank:
-        Starting rank before looseness penalty; must be in ``0..65535``.
+        Starting rank before the word + fanout penalties; in ``0..65535``.
 
     Returns
     -------
@@ -260,12 +303,23 @@ def mine_relations(
         if not hw_keys or not rel_keys:
             continue
 
-        # Looseness penalty: multi-word headwords imply fuzzier bridging.
+        # Looseness penalty 1: multi-word headwords imply fuzzier bridging.
         hw_wc = len(headword.split())
         rel_wc = len(related.split())
         max_wc = max(hw_wc, rel_wc)
-        penalty = 1000 * (max_wc - 1)
-        rank = clamp_rank(base_rank - penalty)
+        word_penalty = WORD_PENALTY * (max_wc - 1)
+
+        # Looseness penalty 2: polysemy/fanout downweight.  A link whose
+        # endpoints each resolve to many keys yields a large cross-product and
+        # is a vague many↔many match; penalise by log2 of that cross-product so
+        # precise 1↔1 matches (fanout=1 → penalty 0) keep the full base_rank.
+        # Computed once per link; shared by every edge emitted below.
+        fanout = len(hw_keys) * len(rel_keys)  # >= 1 (both sets are non-empty)
+        fanout_penalty = (
+            round(FANOUT_PENALTY_SCALE * math.log2(fanout)) if fanout > 1 else 0
+        )
+
+        rank = clamp_rank(base_rank - word_penalty - fanout_penalty)
 
         for key_a in hw_keys:
             for key_b in rel_keys:

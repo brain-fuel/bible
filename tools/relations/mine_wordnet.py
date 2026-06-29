@@ -48,20 +48,28 @@ Design notes
   these maps hold ~484,000 string pairs — acceptable on any modern system.
 
 **base_rank rationale:**
-  ``base_rank = 36000``
+  ``base_rank = 40000``  (with engine ``FANOUT_PENALTY_SCALE = 2500``)
 
-  WordNet is a high-quality curated lexicon; its synonym/antonym pairs are
-  semantically reliable.  In practice, only single-word writtenForm values
-  ever match the gloss-bridge token index (multi-word phrases like "take a
-  breath" are indexed as individual tokens, not whole strings, so they yield
-  zero matches and the 1000×(n-1) looseness penalty is largely academic).
+  WordNet is a high-quality curated lexicon, but the gloss bridge introduces
+  *polysemy*: a writtenForm like "love" maps to many biblical lemma keys, so a
+  single WordNet link can fan out into a large cross-product of vague edges.
+  The engine's fanout penalty (``round(2500 × log2(fanout))``) downweights
+  these; base_rank is the ceiling reached only by a precise 1↔1 (fanout=1)
+  match.
 
-  36000 places clean single-word mined edges above DEFAULT_RANK_THRESHOLD
-  (32768), making them visible in the default relation-graph view.  The value
-  sits below domain-sibling depth-2 (40960) and shared-root (65535), so the
-  confidence ordering is: root > domain-sibling > WordNet-mined > noise floor.
-  Task 10 will re-calibrate this threshold from observed rank histograms across
-  all builders.
+  Math (threshold = DEFAULT_RANK_THRESHOLD = 32768):
+    - fanout=1  → rank 40000                       (ABOVE — precise match)
+    - fanout=2  → 40000 − 2500          = 37500    (above)
+    - fanout=4  → 40000 − 5000          = 35000    (above)
+    - crossover: 40000 − 2500·log2(f) = 32768  ⇒  f ≈ 7.4
+    - fanout≥8  → rank ≤ 32500                     (BELOW)
+    - fanout=32 (a few dozen) → 40000 − 12500 = 27500  (well below)
+
+  So precise matches land above the threshold (default-view visible) while
+  high-fanout, many↔many matches fall below it — a meaningful gradation rather
+  than the previous flat "everything above".  40000 sits below domain-sibling
+  depth-2 (40960) and shared-root (65535): root > domain-sibling > precise
+  WordNet > fuzzy WordNet.  Task 10 re-validates against observed histograms.
 
 **Deduplication:**
   ``mine_relations`` may emit identical edges when multiple synonym/antonym
@@ -97,8 +105,9 @@ _WN_PATH = (
 # Rank constant
 # ---------------------------------------------------------------------------
 
-# Mined synonym/antonym rank — see module docstring for full rationale.
-_WN_BASE_RANK: int = 36000
+# Mined synonym/antonym rank ceiling (fanout=1 precise match).
+# See module docstring for the full rationale + threshold math.
+_WN_BASE_RANK: int = 40000
 
 # Source label for all edges produced by this module.
 _SOURCE: str = "open-english-wordnet"
