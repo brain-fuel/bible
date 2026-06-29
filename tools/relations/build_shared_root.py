@@ -12,7 +12,6 @@ Writes: relations/derived/shared-root.jsonl
 from __future__ import annotations
 
 import json
-import sys
 from collections import defaultdict
 from itertools import combinations
 from pathlib import Path

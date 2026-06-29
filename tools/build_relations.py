@@ -137,8 +137,21 @@ def build_relations() -> dict[str, list[Edge]]:
 
 
 def write_canonical_files(rel_edges: dict[str, list[Edge]]) -> None:
-    """Write exactly 5 canonical per-rel JSONL files to relations/derived/."""
+    """Write exactly 5 canonical per-rel JSONL files to relations/derived/.
+
+    Before writing, prune any *.jsonl in relations/derived/ that is NOT one of
+    the 5 canonical files.  Standalone miner CLIs (e.g. `python -m
+    tools.relations.mine_wordnet`) drop source-tagged files like
+    open-english-wordnet.synonym.jsonl into this dir; left in place they would be
+    double-loaded by build_db / validate_relations.  This makes regen robust even
+    without `rm -rf relations/derived`.  relations/authored/ is never touched.
+    """
     DERIVED_DIR.mkdir(parents=True, exist_ok=True)
+    canonical_names = {f"{rel}.jsonl" for rel in CANONICAL_RELS}
+    for stray in sorted(DERIVED_DIR.glob("*.jsonl")):
+        if stray.name not in canonical_names:
+            print(f"\nPruning non-canonical derived file: {stray.name}", flush=True)
+            stray.unlink()
     for rel in CANONICAL_RELS:
         edges = rel_edges.get(rel, [])
         out = DERIVED_DIR / f"{rel}.jsonl"
