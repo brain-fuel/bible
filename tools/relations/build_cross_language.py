@@ -43,7 +43,20 @@ def cross_language_edges(bridge_rows: list[dict]) -> list[Edge]:
         List of Edge objects.  Self-loops are excluded (defensive; H/G IDs
         cannot collide in practice).  ALL rows are materialised including
         cooccur=1 noise-floor entries.
+
+    Ubiquity downweight: a first pass computes, for each Greek lemma
+    (lxx_strong), how many DISTINCT Hebrew (mt_strong) partners it appears with.
+    Rows are aggregated one per (mt_strong, lxx_strong) pair, so this is simply
+    the number of rows sharing each lxx_strong.  That fan-count is passed to
+    bridge_rank as the IDF penalty input, demoting generic Greek words (function
+    words translating many Hebrew lemmas) relative to distinctive cognates.
     """
+    # First pass: fan / ubiquity per Greek lemma = count of rows per lxx_strong.
+    ubiquity: dict[str, int] = {}
+    for row in bridge_rows:
+        lxx = row["lxx_strong"]
+        ubiquity[lxx] = ubiquity.get(lxx, 0) + 1
+
     edges: list[Edge] = []
     for row in bridge_rows:
         src = row["mt_strong"]   # H####
@@ -58,7 +71,7 @@ def cross_language_edges(bridge_rows: list[dict]) -> list[Edge]:
                 directed=False,
                 source="mt-lxx-bridge",
                 method="projection",
-                rank=bridge_rank(row),
+                rank=bridge_rank(row, ubiquity[dst]),
                 note=None,
             )
         )
@@ -95,8 +108,8 @@ def main() -> None:
     h7225_edges = [e for e in edges if e.src == "H7225"]
     h7225_sorted = sorted(h7225_edges, key=lambda e: -e.rank)
     print()
-    print("Top-5 ranked renderings of H7225:")
-    for e in h7225_sorted[:5]:
+    print("Top-8 ranked renderings of H7225:")
+    for e in h7225_sorted[:8]:
         print(f"  {e.src} -> {e.dst}  rank={e.rank}")
 
 

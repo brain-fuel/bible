@@ -64,13 +64,44 @@ _SPECIFICITY_BANDS = {1: 16384, 2: 40960, 3: 49152, 4: 57344, 5: 65535}
 # Use clamp_rank to guarantee 0..65535 for pairs with cooccur > 100.
 _BRIDGE_SCALE: float = 65535.0 / math.log1p(100)
 
+# LINEAR ubiquity downweight.  A Greek lemma (lxx_strong) that translates many
+# DISTINCT Hebrew lemmas (high "fan"/ubiquity) is a weak, generic signal — most
+# often a function word (καί, εἰς, ἐν) that co-occurs with nearly anything — so we
+# subtract a penalty LINEAR in the fan count: round(UBIQUITY_PENALTY_PER_PARTNER
+# * ubiquity).  ubiquity<=1 → no penalty (preserves the original signal-only rank
+# for single-partner pairs and keeps the no-ubiquity callers byte-identical).
+#
+# WHY linear and not classic log-IDF: on the real MT↔LXX bridge the ubiquity here
+# counts *verse-level co-occurrence* partners (every Hebrew word sharing a verse
+# with the Greek word), not true translation links — so even genuine cognates are
+# fairly "ubiquitous".  The ubiquity RATIO between a function word and a cognate
+# is small (e.g. καί 7701 vs ἀρχή 663 ≈ 11.6×), which a log penalty compresses to
+# a ~3.5 gap in log2 space — far too little to overcome the function word's higher
+# base score before the cognate itself clamps to 0.  A LINEAR term has the dynamic
+# range to demote high-fan function words below distinctive cognates.  (See the
+# proof in .superpowers/sdd/task-4-report.md.)
+#
+# K=3 is tuned so ἀρχή/G0746 becomes H7225's #1 cross-language partner, ahead of
+# καί/G2532.  Provisional: re-pinned in Task 10 from observed rank histograms.
+UBIQUITY_PENALTY_PER_PARTNER: float = 3.0
 
-def bridge_rank(row: dict) -> int:
-    """Rank a bridge row on 0..65535 using signal = exact_ratio × log1p(cooccur).
 
-    exact_ratio = exact / cooccur (0 if cooccur == 0 — guard against division by zero).
+def bridge_rank(row: dict, ubiquity: int = 1) -> int:
+    """Rank a bridge row on 0..65535 with an optional linear ubiquity downweight.
+
+    The base signal is exact_ratio × log1p(cooccur), where
+    exact_ratio = exact / cooccur (0 if cooccur == 0 — guard against div-by-zero).
     Scale pinned so cooccur=100 with exact_ratio=1.0 reaches RANK_MAX; any
     cooccur=1 row always ranks below DEFAULT_RANK_THRESHOLD regardless of exact.
+
+    Args:
+        row: bridge row dict with at least 'cooccur' and 'exact'.
+        ubiquity: number of DISTINCT mt_strong partners the row's lxx_strong
+            appears with (its "fan").  Default 1 → no penalty, so existing
+            callers that pass no ubiquity get the pure signal rank.
+
+    A penalty LINEAR in ubiquity is subtracted: a higher fan yields a strictly
+    lower rank.  Result is clamped to 0..65535.
     """
     cooccur = row.get("cooccur", 0)
     if cooccur == 0:
@@ -78,7 +109,9 @@ def bridge_rank(row: dict) -> int:
     exact = row.get("exact", 0)
     exact_ratio = exact / cooccur
     score = exact_ratio * math.log1p(cooccur)
-    return clamp_rank(int(score * _BRIDGE_SCALE))
+    score_rank = int(score * _BRIDGE_SCALE)
+    penalty = round(UBIQUITY_PENALTY_PER_PARTNER * ubiquity) if ubiquity > 1 else 0
+    return clamp_rank(score_rank - penalty)
 
 
 def specificity_rank(code: str) -> int:
