@@ -300,3 +300,55 @@ Each bridge row carries: `mt_strong`, `lxx_strong`, `lxx_lemma`, `cooccur` (vers
 **Word-level MT<->LXX alignment** would upgrade the bridge from verse-level co-occurrence to attested word links, if and when an open CC-BY/PD source appears (the CATSS/Tov alignment is restricted-license and has been rejected).
 
 See [`docs/LICENSING.md`](docs/LICENSING.md) for the per-artifact license map: `bible/lxx` is CC0; `morph/lxx` lemma+Strong's is CC-BY (openscriptures LxxLemmas); the versification map is CC-BY (TVTMS) + CC0 (supplement).
+
+## Relation Graph (L2b)
+
+The relation graph (L2b) adds a semantic-relation layer on top of the lexicon (L2a). It links lexical entries by five relation types, each edge carrying a rank score (0–65535) and full provenance.
+
+### Relation Types
+
+| Relation | Description | Edges | Orientation |
+|----------|-------------|-------|-------------|
+| `shared-root` | Etymological kin (same Strong's root) | 80,904 | canonical (src ≤ dst) |
+| `domain-sibling` | Same Louw-Nida or SDBH semantic domain | 1,959,593 | canonical (src ≤ dst) |
+| `cross-language` | MT Hebrew ↔ LXX Greek translation bridge | 691,240 | H#### → G#### (directed by design) |
+| `synonym` | Synonymous meaning (WordNet, Roget, lexica cross-refs, authored) | 6,909,342 | canonical (src ≤ dst) |
+| `antonym` | Antonymous meaning (WordNet, Roget, authored) | 1,955,929 | canonical (src ≤ dst) |
+
+Total: **11,597,008** edges across all relations.
+
+### Rank Model
+
+Every edge carries an integer `rank` in `0..65535`. Higher rank = higher confidence / relevance.
+
+`DEFAULT_RANK_THRESHOLD = 32768` is the default-view cut-off:
+
+- Edges with `rank >= 32768` are in the **default view** (`relations_default` DB view): ~2,091,882 edges.
+- Edges with `rank < 32768` are materialised in JSONL and the DB but excluded from the default view (low-confidence pairs such as single-verse co-occurrences or coarse domain codes).
+
+### Two-Form Architecture
+
+**Canonical artifacts** (version-controlled, human-editable):
+
+- `relations/authored/synonym.jsonl`, `relations/authored/antonym.jsonl` — hand-authored CC0 truth edges (2 synonym + 2 antonym).
+
+**Derived projection** (version-controlled, fully regenerable):
+
+- `relations/derived/{shared-root,domain-sibling,cross-language,synonym,antonym}.jsonl` — five canonical per-rel files produced deterministically by `tools/build_relations.py`. Delete and regenerate at any time; `git status` must be clean afterward.
+
+### Regenerate Sequence
+
+    python -m tools.build_relations    # regenerate relations/derived/*.jsonl
+    python -m tools.build_db           # reload relations table + relations_default view
+    python -m tools.validate_relations # pin check: all counts, provenance, orientation
+
+### Attributions
+
+- **Open English WordNet 2024** (synonym + antonym edges, source `open-english-wordnet`): "Open English Wordnet 2024, globalwordnet/english-wordnet, CC-BY 4.0, https://github.com/globalwordnet/english-wordnet. Based on Princeton WordNet (CC-BY 4.0, https://wordnet.princeton.edu)." License: **CC-BY 4.0**.
+- **Roget's Thesaurus 1911** (synonym + antonym edges, source `roget-1911`): Public Domain. MICRA Inc. preparation is PD-dedicated. No attribution required. License: **CC0**.
+- **Strong's Greek / Hebrew cross-refs** (synonym edges, sources `strongs-greek`, `strongs-hebrew`, `strongs-root`): "Public Domain — Strong's Exhaustive Concordance, James Strong 1890. XML by Ulrik Petersen / openscriptures." License: **CC0**.
+- **Abbott-Smith via STEPBible TBESG** (synonym edges, source `abbott-smith`): "Data created by www.STEPBible.org based on work at Tyndale House Cambridge (CC BY 4.0). Source: https://github.com/STEPBible." License: **CC-BY 4.0**.
+- **Brown-Driver-Briggs Hebrew Lexicon** (synonym edges, source `bdb`): "Brown-Driver-Briggs Hebrew Lexicon (1906), Public Domain. XML by openscriptures, https://github.com/openscriptures/HebrewLexicon." License: **CC0**.
+- **MACULA Louw-Nida / SDBH domains** (domain-sibling edges, sources `louw-nida`, `sdbh`): "MACULA Greek/Hebrew Linguistic Datasets, Clear Bible Inc., CC-BY 4.0. https://github.com/Clear-Bible/macula-greek and macula-hebrew." License: **CC-BY 4.0**.
+- **MT↔LXX bridge** (cross-language edges, source `mt-lxx-bridge`): Derived from STEPBible TAGNT/TAHOT + openscriptures LxxLemmas + Swete 1909 LXX (all CC-BY 4.0 or PD). License: **CC-BY 4.0**.
+- **Hand-authored overlay** (source `hand`): CC0-1.0 public-domain dedication. License: **CC0**.
