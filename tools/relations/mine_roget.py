@@ -95,6 +95,7 @@ from __future__ import annotations
 
 import json
 import re
+import urllib.request
 from itertools import combinations
 from pathlib import Path
 
@@ -103,11 +104,43 @@ from tools.relations.gloss_bridge import gloss_term_index, mine_relations
 
 ROOT = Path(__file__).parent.parent.parent
 
-# Cached Roget file (committed; always present after Task 8).
+# Cached Roget file (gitignored; auto-downloaded on first use).
 _ROGET_PATH = ROOT / "data" / "cache" / "relations" / "roget" / "pg22.txt"
+
+# Download URL for the cached file (Project Gutenberg plain-text #22).
+_ROGET_URL = "https://www.gutenberg.org/cache/epub/22/pg22.txt"
 
 # Source label used in all emitted edges.
 _SOURCE: str = "roget-1911"
+
+
+# ---------------------------------------------------------------------------
+# Cache download helper
+# ---------------------------------------------------------------------------
+
+def _cache_download(dest: Path, url: str, label: str) -> None:
+    """Download ``url`` to ``dest`` if ``dest`` does not already exist.
+
+    Creates parent directories as needed.  Skips the download if ``dest``
+    already exists (idempotent).  Raises :exc:`RuntimeError` on any network
+    or I/O failure so that callers never silently produce empty output.
+    """
+    if dest.exists():
+        print(f"  [cache] {label} already cached at {dest.relative_to(ROOT)}")
+        return
+    dest.parent.mkdir(parents=True, exist_ok=True)
+    print(f"  [cache] Downloading {label} from {url} …", flush=True)
+    try:
+        urllib.request.urlretrieve(url, dest)
+        print(f"  [cache] Saved {dest.stat().st_size:,} bytes → {dest.relative_to(ROOT)}")
+    except Exception as exc:
+        raise RuntimeError(
+            f"Failed to download {label}.\n"
+            f"  URL:    {url}\n"
+            f"  Target: {dest}\n"
+            f"  Error:  {exc}\n"
+            "Download the file manually and place it at the target path."
+        ) from exc
 
 # Base rank for mined Roget edges (fanout=1 precise match).
 # Matches WordNet miner base_rank=40000 — same rationale; see module docstring.
@@ -384,6 +417,9 @@ def build_roget() -> tuple[list[Edge], list[Edge]]:
         entries.append(entry)
 
     idx = gloss_term_index(entries, lang="en")
+
+    # Ensure cached source file is present (auto-download if missing)
+    _cache_download(_ROGET_PATH, _ROGET_URL, "pg22.txt")
 
     print(f"Parsing {_ROGET_PATH.relative_to(ROOT)} …", flush=True)
     links = roget_links(_ROGET_PATH)

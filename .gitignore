@@ -12,3 +12,7 @@ __pycache__/
 align/mt-lxx/
 data/cache/mt-lxx-bridge.jsonl
 /data/cache
+
+# Derived relation-graph files (rebuildable; run `python -m tools.build_relations`)
+# relations/authored/ is NOT ignored — hand-curated CC0 truth, stays committed.
+relations/derived/*.jsonl

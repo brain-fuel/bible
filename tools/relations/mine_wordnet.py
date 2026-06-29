@@ -85,6 +85,7 @@ from __future__ import annotations
 import gzip
 import json
 import sys
+import urllib.request
 from itertools import combinations
 from pathlib import Path
 from typing import IO
@@ -96,10 +97,45 @@ from tools.relations.lexkeys import key_for
 
 ROOT = Path(__file__).parent.parent.parent  # repo root
 
-# Cached WordNet file (gitignored; must be downloaded separately)
+# Cached WordNet file (gitignored; auto-downloaded on first use)
 _WN_PATH = (
     ROOT / "data" / "cache" / "relations" / "wordnet" / "english-wordnet-2024.xml.gz"
 )
+
+# Download URL for the cached file
+_WN_URL = (
+    "https://github.com/globalwordnet/english-wordnet/releases/download/"
+    "2024-edition/english-wordnet-2024.xml.gz"
+)
+
+
+# ---------------------------------------------------------------------------
+# Cache download helper
+# ---------------------------------------------------------------------------
+
+def _cache_download(dest: Path, url: str, label: str) -> None:
+    """Download ``url`` to ``dest`` if ``dest`` does not already exist.
+
+    Creates parent directories as needed.  Skips the download if ``dest``
+    already exists (idempotent).  Raises :exc:`RuntimeError` on any network
+    or I/O failure so that callers never silently produce empty output.
+    """
+    if dest.exists():
+        print(f"  [cache] {label} already cached at {dest.relative_to(ROOT)}")
+        return
+    dest.parent.mkdir(parents=True, exist_ok=True)
+    print(f"  [cache] Downloading {label} from {url} …", flush=True)
+    try:
+        urllib.request.urlretrieve(url, dest)
+        print(f"  [cache] Saved {dest.stat().st_size:,} bytes → {dest.relative_to(ROOT)}")
+    except Exception as exc:
+        raise RuntimeError(
+            f"Failed to download {label}.\n"
+            f"  URL:    {url}\n"
+            f"  Target: {dest}\n"
+            f"  Error:  {exc}\n"
+            "Download the file manually and place it at the target path."
+        ) from exc
 
 # ---------------------------------------------------------------------------
 # Rank constant
@@ -224,6 +260,9 @@ def build_wordnet() -> tuple[list[Edge], list[Edge]]:
         entries.append(entry)
 
     idx = gloss_term_index(entries, lang="en")
+
+    # Ensure cached source file is present (auto-download if missing)
+    _cache_download(_WN_PATH, _WN_URL, "english-wordnet-2024.xml.gz")
 
     # Parse WordNet links
     links = wordnet_links(_WN_PATH)

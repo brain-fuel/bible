@@ -332,15 +332,17 @@ Every edge carries an integer `rank` in `0..65535`. Higher rank = higher confide
 
 - `relations/authored/synonym.jsonl`, `relations/authored/antonym.jsonl` — hand-authored CC0 truth edges (2 synonym + 2 antonym).
 
-**Derived projection** (version-controlled, fully regenerable):
+**Derived projection** (gitignored, deterministically regenerable):
 
-- `relations/derived/{shared-root,domain-sibling,cross-language,synonym,antonym}.jsonl` — five canonical per-rel files produced deterministically by `tools/build_relations.py`. Delete and regenerate at any time; `git status` must be clean afterward.
+- `relations/derived/{shared-root,domain-sibling,cross-language,synonym,antonym}.jsonl` — five canonical per-rel files produced deterministically by `tools/build_relations.py`. These files are **not committed** (gitignored). They are regenerated from version-controlled source files plus auto-downloaded cached sources. Any missing source files (WordNet LMF gz, Roget pg22.txt, BDB XML) are fetched automatically on first run.
 
-### Regenerate Sequence
+### Rebuild From Scratch (one command)
 
-    python -m tools.build_relations    # regenerate relations/derived/*.jsonl
+    python -m tools.build_relations    # auto-downloads missing sources + regenerates relations/derived/*.jsonl
     python -m tools.build_db           # reload relations table + relations_default view
     python -m tools.validate_relations # pin check: all counts, provenance, orientation
+
+`python -m tools.build_relations` is a single command that works from a clean clone with no manual setup: it fetches any missing cached source files and writes all five derived JSONL files. Rebuild is confirmed when `python -m tools.validate_relations` exits 0 with pinned counts holding.
 
 ### Attributions
 
